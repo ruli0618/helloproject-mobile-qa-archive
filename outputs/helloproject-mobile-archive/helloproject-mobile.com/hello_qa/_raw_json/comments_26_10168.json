@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "10563",
+      "comment_title": "",
+      "comment_text": "シンプルめで自分に合った服を選ぶのと、ベルトやイヤリング、カバンでアクセントを付けています。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:25:32",
+      "updated_at": "2018-10-29 15:25:32"
+    },
+    {
+      "comment_id": "10566",
+      "comment_title": "",
+      "comment_text": "自分のセンスにあまり自信がないので、何でもかんでも姉に相談します(笑)",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:26:04",
+      "updated_at": "2018-10-29 15:26:04"
+    },
+    {
+      "comment_id": "10567",
+      "comment_title": "",
+      "comment_text": "スカートの長さ。\n膝上10センチの長さか、またはロングスカートにしている。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:26:15",
+      "updated_at": "2018-10-29 15:26:15"
+    },
+    {
+      "comment_id": "10568",
+      "comment_title": "",
+      "comment_text": "・珍しい形の服を選ぶ\n・格好良い感じの服を選ぶ",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:26:27",
+      "updated_at": "2018-10-29 15:26:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

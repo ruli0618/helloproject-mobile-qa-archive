@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "40699",
+      "comment_title": "",
+      "comment_text": "総指揮をして担当の割り振りをします。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:08",
+      "updated_at": "2026-04-02 18:45:08"
+    },
+    {
+      "comment_id": "40700",
+      "comment_title": "",
+      "comment_text": "ポジティブな空気作り担当",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:14",
+      "updated_at": "2026-04-02 18:45:14"
+    },
+    {
+      "comment_id": "40702",
+      "comment_title": "",
+      "comment_text": "笑わせ係？笑\nなんか面白いことしようかな",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:29",
+      "updated_at": "2026-04-02 18:45:29"
+    },
+    {
+      "comment_id": "40703",
+      "comment_title": "",
+      "comment_text": "みんなのサポート係。\nサバイバルが得意なメンバーに、何をしたらいいかを聞いて行動するのがいいと思います！\nあとは！\nみんなが疲れてきた時も笑顔でニコニコして癒しを与える係。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:37",
+      "updated_at": "2026-04-02 18:45:37"
+    },
+    {
+      "comment_id": "40704",
+      "comment_title": "",
+      "comment_text": "ポジティブさでみんなを元気付ける係！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:43",
+      "updated_at": "2026-04-02 18:45:43"
+    },
+    {
+      "comment_id": "40705",
+      "comment_title": "",
+      "comment_text": "力持ち係です。\n案外、筋力あります。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:50",
+      "updated_at": "2026-04-02 18:45:50"
+    },
+    {
+      "comment_id": "40706",
+      "comment_title": "",
+      "comment_text": "砂浜にでっかく『SOS』って書く係！！！\nメッチャ派手に飾りつけるよ～！！！！！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-02 18:45:58",
+      "updated_at": "2026-04-02 18:45:58"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

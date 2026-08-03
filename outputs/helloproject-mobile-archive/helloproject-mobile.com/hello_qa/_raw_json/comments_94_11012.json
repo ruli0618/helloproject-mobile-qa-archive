@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "12111",
+      "comment_title": "",
+      "comment_text": "文字を小さく書きすぎないことです。\n絵はこれからもっと上手にかけるようにしたいなって思っています。笑",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 13:20:34",
+      "updated_at": "2019-03-15 13:20:34"
+    },
+    {
+      "comment_id": "12112",
+      "comment_title": "",
+      "comment_text": "色にこだわります！\n出来るだけ、鮮やかになるようにたくさんの色を使います！\nそのなかでも、よく使うのはパステルカラーです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:13:51",
+      "updated_at": "2019-03-15 14:13:51"
+    },
+    {
+      "comment_id": "12114",
+      "comment_title": "",
+      "comment_text": "とにかく心を込めて！！\n喜んでいただけるような書き物が出来たらいいなぁと思ってかいています！\nあとは、川村文乃ちゃんリスペクトで頑張っています！！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:16:02",
+      "updated_at": "2019-03-15 14:16:02"
+    },
+    {
+      "comment_id": "12116",
+      "comment_title": "",
+      "comment_text": "ピンクをたくさん使います♡\n名前はピンクで書くことが圧倒的に多いです♡",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:16:19",
+      "updated_at": "2019-03-15 14:16:19"
+    },
+    {
+      "comment_id": "12117",
+      "comment_title": "",
+      "comment_text": "絵を丸いイメージで描くこと！！\n画伯と言われないように精一杯色を使うことです…。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:16:33",
+      "updated_at": "2019-03-15 14:16:33"
+    },
+    {
+      "comment_id": "12118",
+      "comment_title": "",
+      "comment_text": "色の組み合わせ！\n字を綺麗にかっこよく書くこと！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:16:46",
+      "updated_at": "2019-03-15 14:16:46"
+    },
+    {
+      "comment_id": "12119",
+      "comment_title": "",
+      "comment_text": "使う色を2、3色に抑えて、シンプルに書くようにしています。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:17:03",
+      "updated_at": "2019-03-15 14:17:03"
+    },
+    {
+      "comment_id": "12120",
+      "comment_title": "",
+      "comment_text": "色の組み合わせにこだわっています！\nあと、よく愛犬のおもちくんを書きます♡",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 14:17:12",
+      "updated_at": "2019-03-15 14:17:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

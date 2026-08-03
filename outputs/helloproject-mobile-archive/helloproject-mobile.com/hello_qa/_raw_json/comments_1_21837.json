@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "35935",
+      "comment_title": "",
+      "comment_text": "長風呂しながらのカジサックチャンネル",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-10 16:20:00",
+      "updated_at": "2024-12-10 16:20:00"
+    },
+    {
+      "comment_id": "34053",
+      "comment_title": "",
+      "comment_text": "布団に入る。",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-17 19:04:06",
+      "updated_at": "2024-06-17 19:04:06"
+    },
+    {
+      "comment_id": "34054",
+      "comment_title": "",
+      "comment_text": "お散歩すること。",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-20 18:13:50",
+      "updated_at": "2024-06-20 18:13:50"
+    },
+    {
+      "comment_id": "32108",
+      "comment_title": "",
+      "comment_text": "とりあえず深呼吸ですね。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-05 12:14:49",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "32171",
+      "comment_title": "",
+      "comment_text": "草木のある場所でボーっとする。\n自然豊かな場所に行く。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-05 12:32:53",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

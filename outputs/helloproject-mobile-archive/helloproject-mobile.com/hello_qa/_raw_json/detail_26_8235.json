@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "8235",
+    "content_title": "自分のグッズを貰ったらどうしてる？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2018-01-20 10:00:00",
+    "created_at": "2017-12-13 11:11:07",
+    "updated_at": "2018-01-19 23:15:38",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8236",
+    "next_id": "8234"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

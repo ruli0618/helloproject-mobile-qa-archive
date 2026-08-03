@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "20768",
+      "comment_title": "",
+      "comment_text": "怖いのでとりあえず全力で逃げます。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-16 18:47:34",
+      "updated_at": "2021-02-16 18:47:34"
+    },
+    {
+      "comment_id": "20767",
+      "comment_title": "",
+      "comment_text": "とりあえず後退",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-16 18:47:25",
+      "updated_at": "2021-02-16 18:47:25"
+    },
+    {
+      "comment_id": "20775",
+      "comment_title": "",
+      "comment_text": "見ないふり",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-16 18:48:43",
+      "updated_at": "2021-02-16 18:48:43"
+    },
+    {
+      "comment_id": "20776",
+      "comment_title": "",
+      "comment_text": "悪い宇宙人だったら、パンダさんパワーで戦って、良い宇宙人だったら、パンダさんポーズで写真撮る！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-16 18:48:52",
+      "updated_at": "2021-02-16 18:48:52"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

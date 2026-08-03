@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12003",
+      "comment_title": "",
+      "comment_text": "丁寧に書く。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:16:22",
+      "updated_at": "2019-03-15 12:16:22"
+    },
+    {
+      "comment_id": "12006",
+      "comment_title": "",
+      "comment_text": "読みやすい字で書く。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:17:24",
+      "updated_at": "2019-03-15 12:17:24"
+    },
+    {
+      "comment_id": "12007",
+      "comment_title": "",
+      "comment_text": "可愛らしく！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:17:37",
+      "updated_at": "2019-03-15 12:17:37"
+    },
+    {
+      "comment_id": "12008",
+      "comment_title": "",
+      "comment_text": "・その時に書きたい！！って思ったのを書きます！！\n・最近は似顔絵を描くのが好きです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:17:52",
+      "updated_at": "2019-03-15 12:17:52"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

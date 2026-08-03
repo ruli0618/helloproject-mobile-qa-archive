@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "17687",
+      "comment_title": "",
+      "comment_text": "おいしいもの食べてる時",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 15:44:13",
+      "updated_at": "2020-05-25 15:44:13"
+    },
+    {
+      "comment_id": "17686",
+      "comment_title": "",
+      "comment_text": "ライブを楽しんでいる時",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 15:44:03",
+      "updated_at": "2020-05-25 15:44:03"
+    },
+    {
+      "comment_id": "17688",
+      "comment_title": "",
+      "comment_text": "汗を流してパフォーマンスをしている時です。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 15:44:24",
+      "updated_at": "2020-05-25 15:44:24"
+    },
+    {
+      "comment_id": "17689",
+      "comment_title": "",
+      "comment_text": "あまり思ったことがないので、色んな場面で輝く人になれるよう頑張ります。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 15:44:33",
+      "updated_at": "2020-05-25 15:44:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

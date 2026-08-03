@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22595",
+      "comment_title": "",
+      "comment_text": "洋服のセレクトショップ\n海外に行って洋服買いつけしてみたいです。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:58:21",
+      "updated_at": "2021-09-17 11:58:21"
+    },
+    {
+      "comment_id": "22598",
+      "comment_title": "",
+      "comment_text": "パン屋さん！\nパン屋さんのにおいが、ほんとに大好きなんですよ～。\nいるだけで幸せになれる！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:05:53",
+      "updated_at": "2021-09-17 12:05:53"
+    },
+    {
+      "comment_id": "22599",
+      "comment_title": "",
+      "comment_text": "クレープ屋さん！自分で作って毎日食べたい笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:06:04",
+      "updated_at": "2021-09-17 12:06:04"
+    },
+    {
+      "comment_id": "22600",
+      "comment_title": "",
+      "comment_text": "お花屋さんをしたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:06:13",
+      "updated_at": "2021-09-17 12:06:13"
+    },
+    {
+      "comment_id": "22601",
+      "comment_title": "",
+      "comment_text": "ラーメン屋さん\n美味しいラーメンを研究してみたい！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:06:23",
+      "updated_at": "2021-09-17 12:06:23"
+    },
+    {
+      "comment_id": "22603",
+      "comment_title": "",
+      "comment_text": "うどん屋さん",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:06:46",
+      "updated_at": "2021-09-17 12:06:46"
+    },
+    {
+      "comment_id": "22604",
+      "comment_title": "",
+      "comment_text": "和菓子屋さん",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:06:56",
+      "updated_at": "2021-09-17 12:06:56"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

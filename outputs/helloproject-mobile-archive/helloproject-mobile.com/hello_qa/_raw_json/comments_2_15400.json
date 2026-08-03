@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "20344",
+      "comment_title": "",
+      "comment_text": "落ち着かないと思うので、普通の家で十分です…！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:28:41",
+      "updated_at": "2021-02-01 15:28:41"
+    },
+    {
+      "comment_id": "20343",
+      "comment_title": "",
+      "comment_text": "猫や犬が暮らしやすいおうち！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:28:32",
+      "updated_at": "2021-02-01 15:28:32"
+    },
+    {
+      "comment_id": "20351",
+      "comment_title": "",
+      "comment_text": "白で統一したいのと、あまり余計な物は置きたくないです笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:29:55",
+      "updated_at": "2021-02-01 15:29:55"
+    },
+    {
+      "comment_id": "20352",
+      "comment_title": "",
+      "comment_text": "パンダさんグッズいっぱいの、パンダさんが入る大きさの可愛いお家にしたいです。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:30:04",
+      "updated_at": "2021-02-01 15:30:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "1758",
+      "comment_title": "",
+      "comment_text": "財布&ケータイ&ポーチのみ…。\n必要最低限で生きてます！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-10-13 11:01:32",
+      "updated_at": "2015-10-13 11:01:32"
+    },
+    {
+      "comment_id": "1756",
+      "comment_title": "",
+      "comment_text": "ヘッドホンです！\nイヤホンの方が小さくて便利でも、私は絶対にヘッドホン派です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-10-13 11:01:04",
+      "updated_at": "2015-10-13 11:01:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

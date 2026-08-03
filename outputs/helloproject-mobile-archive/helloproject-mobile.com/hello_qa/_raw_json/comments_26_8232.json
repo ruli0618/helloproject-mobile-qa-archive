@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8041",
+      "comment_title": "",
+      "comment_text": "親から誕生日プレゼントにもらった、お猿さんのお人形。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:29:20",
+      "updated_at": "2017-12-13 11:29:20"
+    },
+    {
+      "comment_id": "8044",
+      "comment_title": "",
+      "comment_text": "タオルケットです。\n好きな匂いがして、落ち着けます。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:30:03",
+      "updated_at": "2017-12-13 11:30:03"
+    },
+    {
+      "comment_id": "8045",
+      "comment_title": "",
+      "comment_text": "小中学校でやったピアノの伴奏の楽譜。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:31:17",
+      "updated_at": "2017-12-13 11:31:17"
+    },
+    {
+      "comment_id": "8046",
+      "comment_title": "",
+      "comment_text": "小学校の頃遊んでたウサギの人形です。\n捨てられなくて家に大事に保管してあります。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:31:28",
+      "updated_at": "2017-12-13 11:31:28"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

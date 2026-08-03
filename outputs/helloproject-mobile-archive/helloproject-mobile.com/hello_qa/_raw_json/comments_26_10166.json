@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "10545",
+      "comment_title": "",
+      "comment_text": "1人で行動出来るようになったのと、メイクが上手になった事。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:21:57",
+      "updated_at": "2018-10-29 15:21:57"
+    },
+    {
+      "comment_id": "10548",
+      "comment_title": "",
+      "comment_text": "食べ物の好き嫌いがあまり無いところ。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:22:31",
+      "updated_at": "2018-10-29 15:22:31"
+    },
+    {
+      "comment_id": "10549",
+      "comment_title": "",
+      "comment_text": "時々、食事管理をしっかりしているところ。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:22:40",
+      "updated_at": "2018-10-29 15:22:40"
+    },
+    {
+      "comment_id": "10550",
+      "comment_title": "",
+      "comment_text": "・アラームで起きれるところ\n・行動が早い\n・節約上手！\n・お肉を自分で焼けるところ",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 15:22:50",
+      "updated_at": "2018-10-29 15:22:50"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

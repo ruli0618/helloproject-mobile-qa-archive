@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "comment_id": "35752",
+      "comment_title": "",
+      "comment_text": "蛯原友里さん",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:11:53",
+      "updated_at": "2026-06-29 14:30:46"
+    },
+    {
+      "comment_id": "35794",
+      "comment_title": "",
+      "comment_text": "考えたことがなかったです。尊敬する人はたくさんいます！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:32:57",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "35855",
+      "comment_title": "",
+      "comment_text": "さかなクン、叶姉妹\nクルエラ・ド・ヴィル",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 19:00:20",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "7532",
+      "comment_title": "",
+      "comment_text": "電車に乗ってウトウトしていて、パッて起きたら降りる駅だったこと。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-10 10:56:20",
+      "updated_at": "2017-10-10 10:56:20"
+    },
+    {
+      "comment_id": "17379",
+      "comment_title": "",
+      "comment_text": "ファミレスで食事をしていた時に、隣に座っていた3人組の方がいきなり怖い話をしだしました。怖いものが大の苦手なので聞こえないように工夫したのですが、声が大きくてその話を最後まで聞くはめになって焦っていました。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 11:37:48",
+      "updated_at": "2020-04-03 11:37:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

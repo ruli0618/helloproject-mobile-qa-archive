@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "20384",
+      "comment_title": "",
+      "comment_text": "都心に行き来出来やすい地方に大きな一軒家建てたい。家の中にエレベーターあったり、ジャグジーのお風呂もほしいな～。あとお庭もあったらいいな！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:58:00",
+      "updated_at": "2021-02-01 15:58:00"
+    },
+    {
+      "comment_id": "20387",
+      "comment_title": "",
+      "comment_text": "プール付きで日当たりがいい、ドラマや映画で出てきそうな豪邸。\nつばきのみんなとパーティーしたいです♡",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:58:37",
+      "updated_at": "2021-02-01 15:58:37"
+    },
+    {
+      "comment_id": "20388",
+      "comment_title": "",
+      "comment_text": "お城に住むのが夢なので、お城みたいな家にしたいです。あと、部屋は広くないとソワソワしてしまうので広い部屋がいいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:58:56",
+      "updated_at": "2021-02-01 15:58:56"
+    },
+    {
+      "comment_id": "20389",
+      "comment_title": "",
+      "comment_text": "お庭にお花をたくさん植えたいです。\nあとはプールもつけたい！\nリビングが大きい太陽の光を浴びられる部屋にしたいです！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:59:08",
+      "updated_at": "2021-02-01 15:59:08"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

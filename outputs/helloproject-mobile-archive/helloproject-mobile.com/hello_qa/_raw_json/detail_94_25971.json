@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "25971",
+    "content_title": "パフォーマンスで大切にしていることは？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2026-06-05 10:00:00",
+    "created_at": "2026-03-26 12:38:27",
+    "updated_at": "2026-06-04 18:13:41",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26318",
+    "next_id": "25970"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

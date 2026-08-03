@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 242,
+    "content_id": "16630",
+    "content_title": "健康のために行っている事はありますか？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2021-09-13 10:00:00",
+    "created_at": "2021-09-07 15:16:43",
+    "updated_at": "2021-09-09 09:59:05",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16631",
+    "next_id": "16340"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

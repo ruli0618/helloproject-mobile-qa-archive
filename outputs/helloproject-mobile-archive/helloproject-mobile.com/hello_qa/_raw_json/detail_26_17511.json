@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 222,
+    "content_id": "17511",
+    "content_title": "「絶対○○宣言」◯◯に好きな言葉を入れてください。",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2022-02-10 10:00:00",
+    "created_at": "2022-01-18 18:17:46",
+    "updated_at": "2022-02-09 19:55:59",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17512",
+    "next_id": "17510"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

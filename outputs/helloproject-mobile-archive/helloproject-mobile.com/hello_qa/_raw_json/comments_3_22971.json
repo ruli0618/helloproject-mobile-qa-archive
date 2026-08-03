@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "35029",
+      "comment_title": "",
+      "comment_text": "目力",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:49:06",
+      "updated_at": "2024-09-26 11:49:06"
+    },
+    {
+      "comment_id": "35032",
+      "comment_title": "",
+      "comment_text": "記憶力\n人の顔や名前、思い出話をトークする時、振り付けを覚える時など、記憶力が必要な場面が多く、人よりも劣っていると感じるので記憶力を上げたいです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:50:07",
+      "updated_at": "2024-09-26 11:50:07"
+    },
+    {
+      "comment_id": "35030",
+      "comment_title": "",
+      "comment_text": "表現力",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:49:21",
+      "updated_at": "2024-09-26 11:49:21"
+    },
+    {
+      "comment_id": "35031",
+      "comment_title": "",
+      "comment_text": "視力です！\nコンタクトがないと本当になにも見えなくて生活しづらいことに最近気付きました。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:49:31",
+      "updated_at": "2024-09-26 11:49:31"
+    },
+    {
+      "comment_id": "35033",
+      "comment_title": "",
+      "comment_text": "画力です！\nなんでも可愛くイラストを描けちゃう力が欲しいです、、、。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:50:18",
+      "updated_at": "2024-09-26 11:50:18"
+    },
+    {
+      "comment_id": "35034",
+      "comment_title": "",
+      "comment_text": "身体能力",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:50:28",
+      "updated_at": "2024-09-26 11:50:28"
+    },
+    {
+      "comment_id": "35035",
+      "comment_title": "",
+      "comment_text": "精神力☆",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:50:35",
+      "updated_at": "2024-09-26 11:50:35"
+    },
+    {
+      "comment_id": "35036",
+      "comment_title": "",
+      "comment_text": "集中力と努力",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:50:44",
+      "updated_at": "2024-09-26 11:50:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

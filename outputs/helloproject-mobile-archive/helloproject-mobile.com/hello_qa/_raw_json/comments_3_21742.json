@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33055",
+      "comment_title": "",
+      "comment_text": "淡い水色",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:09:00",
+      "updated_at": "2024-02-14 14:09:00"
+    },
+    {
+      "comment_id": "33058",
+      "comment_title": "",
+      "comment_text": "黄色です！\n新しく買った黄色のチェックを着て、HAPPYで明るい気持ちなので！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:09:48",
+      "updated_at": "2024-02-14 14:09:48"
+    },
+    {
+      "comment_id": "33056",
+      "comment_title": "",
+      "comment_text": "パープル(金欠の為)",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:09:12",
+      "updated_at": "2024-02-14 14:09:12"
+    },
+    {
+      "comment_id": "33057",
+      "comment_title": "",
+      "comment_text": "冬の晴れた空みたいな色",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:09:29",
+      "updated_at": "2024-02-14 14:09:29"
+    },
+    {
+      "comment_id": "33059",
+      "comment_title": "",
+      "comment_text": "オレンジ色です！\nなぜだかわからないのですが、すごくすごく元気なので、オレンジ色かなと思いました！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:10:03",
+      "updated_at": "2024-02-15 18:48:58"
+    },
+    {
+      "comment_id": "33060",
+      "comment_title": "",
+      "comment_text": "青！落ち着いているので！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:10:13",
+      "updated_at": "2024-02-14 14:10:13"
+    },
+    {
+      "comment_id": "33061",
+      "comment_title": "",
+      "comment_text": "ネイビーです。\n今すごく眠いからです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:10:24",
+      "updated_at": "2024-02-14 14:10:24"
+    },
+    {
+      "comment_id": "33062",
+      "comment_title": "",
+      "comment_text": "赤！\n橋迫さんといるから！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:10:37",
+      "updated_at": "2024-02-14 14:10:37"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "30667",
+      "comment_title": "",
+      "comment_text": "焼肉とジンジャーエール",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 15:59:50",
+      "updated_at": "2023-07-18 15:59:50"
+    },
+    {
+      "comment_id": "30668",
+      "comment_title": "",
+      "comment_text": "麦茶×そうめん",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 15:59:57",
+      "updated_at": "2023-07-18 15:59:57"
+    },
+    {
+      "comment_id": "30669",
+      "comment_title": "",
+      "comment_text": "タコの唐揚げとリボンナポリン",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:08",
+      "updated_at": "2023-07-18 16:00:08"
+    },
+    {
+      "comment_id": "30670",
+      "comment_title": "",
+      "comment_text": "雲丹とお水！\n雲丹は単純においしくて、1番好きな飲み物は水なので！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:19",
+      "updated_at": "2023-07-18 16:00:19"
+    },
+    {
+      "comment_id": "30671",
+      "comment_title": "",
+      "comment_text": "おにぎりとあったかい緑茶",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:29",
+      "updated_at": "2023-07-18 16:00:29"
+    },
+    {
+      "comment_id": "30672",
+      "comment_title": "",
+      "comment_text": "アボカド&クリームチーズ",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:37",
+      "updated_at": "2023-07-18 16:00:37"
+    },
+    {
+      "comment_id": "30673",
+      "comment_title": "",
+      "comment_text": "お肉とジンジャーエールです！\nお肉じゃなくても、ご飯屋さんに行くと飲み物は必ずジンジャーエールです笑",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:47",
+      "updated_at": "2023-07-18 16:00:47"
+    },
+    {
+      "comment_id": "30674",
+      "comment_title": "",
+      "comment_text": "白米とお茶",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:00:55",
+      "updated_at": "2023-07-18 16:00:55"
+    },
+    {
+      "comment_id": "30675",
+      "comment_title": "",
+      "comment_text": "ブラックコーヒーとバニラアイス",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:01:03",
+      "updated_at": "2023-07-18 16:01:03"
+    },
+    {
+      "comment_id": "30676",
+      "comment_title": "",
+      "comment_text": "ピザとコーラです！",
+      "user_name": "川嶋美楓",
+      "user_icon": "0",
+      "artist_id": "151",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:01:11",
+      "updated_at": "2023-07-18 16:01:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

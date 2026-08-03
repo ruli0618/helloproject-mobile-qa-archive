@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31995",
+      "comment_title": "",
+      "comment_text": "16ビート",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:44:21",
+      "updated_at": "2023-10-24 16:44:21"
+    },
+    {
+      "comment_id": "31996",
+      "comment_title": "",
+      "comment_text": "曲中の言葉の頭に「ン」語尾は「ッーヤッ」",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:44:30",
+      "updated_at": "2023-10-24 16:44:30"
+    },
+    {
+      "comment_id": "31997",
+      "comment_title": "",
+      "comment_text": "語尾が上がる。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:44:39",
+      "updated_at": "2023-10-24 16:44:39"
+    },
+    {
+      "comment_id": "31998",
+      "comment_title": "",
+      "comment_text": "みんな垢抜ける。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:44:48",
+      "updated_at": "2023-10-24 16:44:48"
+    },
+    {
+      "comment_id": "31999",
+      "comment_title": "",
+      "comment_text": "16ビートを意識する！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:44:55",
+      "updated_at": "2023-10-24 16:44:55"
+    },
+    {
+      "comment_id": "32001",
+      "comment_title": "",
+      "comment_text": "ギャップのあるメンバーが多い！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:45:12",
+      "updated_at": "2023-10-24 16:45:12"
+    },
+    {
+      "comment_id": "32002",
+      "comment_title": "",
+      "comment_text": "みんな音楽だいすき。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:45:21",
+      "updated_at": "2023-10-24 16:45:21"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

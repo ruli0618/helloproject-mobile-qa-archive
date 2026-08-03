@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "25811",
+      "comment_title": "",
+      "comment_text": "寝る。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:14:08",
+      "updated_at": "2022-06-06 18:14:08"
+    },
+    {
+      "comment_id": "25809",
+      "comment_title": "",
+      "comment_text": "なんでイライラしてるのかと、自分になんのデメリットがあるんだ？をよく考えます！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:13:04",
+      "updated_at": "2022-06-06 18:13:04"
+    },
+    {
+      "comment_id": "25817",
+      "comment_title": "",
+      "comment_text": "寝る！！\n起きていると怒りがフツフツ湧いてきてしまうので、一旦リセットする為に寝ます。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:15:52",
+      "updated_at": "2022-06-06 18:27:35"
+    },
+    {
+      "comment_id": "25818",
+      "comment_title": "",
+      "comment_text": "寝る。\nとにかく寝て、時間が経つのを待ちます。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:16:20",
+      "updated_at": "2022-06-06 18:28:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

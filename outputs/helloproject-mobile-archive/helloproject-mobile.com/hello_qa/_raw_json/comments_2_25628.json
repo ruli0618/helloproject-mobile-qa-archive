@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "39888",
+      "comment_title": "",
+      "comment_text": "平泳ぎが得意です。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:19:13",
+      "updated_at": "2026-01-26 11:19:13"
+    },
+    {
+      "comment_id": "39889",
+      "comment_title": "",
+      "comment_text": "後輩と仲良しのイメージが既にあるかもしれませんが、多分皆さんが思ってるより仲良しです。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:19:20",
+      "updated_at": "2026-01-26 11:19:20"
+    },
+    {
+      "comment_id": "39891",
+      "comment_title": "",
+      "comment_text": "意外と1人が好き？",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:19:36",
+      "updated_at": "2026-01-26 11:19:36"
+    },
+    {
+      "comment_id": "39892",
+      "comment_title": "",
+      "comment_text": "泳げない。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:19:45",
+      "updated_at": "2026-01-26 11:19:45"
+    },
+    {
+      "comment_id": "39893",
+      "comment_title": "",
+      "comment_text": "6個下の弟と結構仲良いです！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:19:56",
+      "updated_at": "2026-01-26 11:19:56"
+    },
+    {
+      "comment_id": "39894",
+      "comment_title": "",
+      "comment_text": "昔は英語を喋れた。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:20:05",
+      "updated_at": "2026-01-26 11:20:05"
+    },
+    {
+      "comment_id": "39895",
+      "comment_title": "",
+      "comment_text": "実はとても優しくて繊細で優しくて照れ屋で優しいシャイガール",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:20:14",
+      "updated_at": "2026-01-26 11:20:14"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

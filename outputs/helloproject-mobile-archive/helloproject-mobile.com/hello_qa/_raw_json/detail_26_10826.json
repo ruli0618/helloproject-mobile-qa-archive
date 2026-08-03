@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 382,
+    "content_id": "10826",
+    "content_title": "イベントグッズをプロデュース！何を作る？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2019-03-02 10:00:00",
+    "created_at": "2019-02-08 14:10:55",
+    "updated_at": "2019-03-14 14:25:30",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10827",
+    "next_id": "10824"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

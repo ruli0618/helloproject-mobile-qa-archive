@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30103",
+      "comment_title": "",
+      "comment_text": "「和顔愛語」\nこれが私のモットーです！",
+      "user_name": "斉藤円香",
+      "user_icon": "0",
+      "artist_id": "133",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:44:00",
+      "updated_at": "2023-05-08 17:44:00"
+    },
+    {
+      "comment_id": "30104",
+      "comment_title": "",
+      "comment_text": "進取果敢",
+      "user_name": "広本瑠璃",
+      "user_icon": "0",
+      "artist_id": "134",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:44:18",
+      "updated_at": "2023-05-08 17:44:18"
+    },
+    {
+      "comment_id": "30106",
+      "comment_title": "",
+      "comment_text": "三日坊主",
+      "user_name": "米村姫良々",
+      "user_icon": "0",
+      "artist_id": "136",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:44:52",
+      "updated_at": "2023-05-08 17:44:52"
+    },
+    {
+      "comment_id": "30107",
+      "comment_title": "",
+      "comment_text": "愛嬌満点！\nみんなの事だぁいすき！",
+      "user_name": "窪田七海",
+      "user_icon": "0",
+      "artist_id": "137",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:45:10",
+      "updated_at": "2023-05-08 17:45:10"
+    },
+    {
+      "comment_id": "30109",
+      "comment_title": "",
+      "comment_text": "厄年真中",
+      "user_name": "中山夏月姫",
+      "user_icon": "0",
+      "artist_id": "139",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:45:38",
+      "updated_at": "2023-05-08 17:45:38"
+    },
+    {
+      "comment_id": "30110",
+      "comment_title": "",
+      "comment_text": "喜怒哀楽",
+      "user_name": "西﨑美空",
+      "user_icon": "0",
+      "artist_id": "140",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:46:02",
+      "updated_at": "2023-05-08 17:46:02"
+    },
+    {
+      "comment_id": "30111",
+      "comment_title": "",
+      "comment_text": "「四角四面」\n私は自分の性格を、真面目で面白みがないなって思っていて、この性格を表す四字熟語を探して、「四角四面」にたどり着きました！\n四角四面には、真四角という意味があるそうです。少し柔らかさが欲しいです！",
+      "user_name": "北原もも",
+      "user_icon": "0",
+      "artist_id": "141",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:46:14",
+      "updated_at": "2023-05-08 17:46:14"
+    },
+    {
+      "comment_id": "30112",
+      "comment_title": "",
+      "comment_text": "起承転結",
+      "user_name": "筒井澪心",
+      "user_icon": "0",
+      "artist_id": "142",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:46:35",
+      "updated_at": "2023-05-08 17:46:35"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

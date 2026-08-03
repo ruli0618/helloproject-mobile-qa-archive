@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "28999",
+      "comment_title": "",
+      "comment_text": "放浪",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 14:23:55",
+      "updated_at": "2023-02-28 14:23:55"
+    },
+    {
+      "comment_id": "28998",
+      "comment_title": "",
+      "comment_text": "初期装備強くないんだったら、平民として静かに暮らします…。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 14:23:47",
+      "updated_at": "2023-02-28 14:23:47"
+    },
+    {
+      "comment_id": "29004",
+      "comment_title": "",
+      "comment_text": "今とは別のお仕事についてみたいです！！\nどんな仕事でもいい！！色んな事を経験してみたい。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 14:24:32",
+      "updated_at": "2023-02-28 14:24:32"
+    },
+    {
+      "comment_id": "29005",
+      "comment_title": "",
+      "comment_text": "転生した場所にもよるのですが、魔法は絶対に使いたいです。\n色んな新しいものを魔法で作り出したり、ビームを出してみたいです。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 14:24:43",
+      "updated_at": "2023-02-28 14:24:43"
+    },
+    {
+      "comment_id": "29006",
+      "comment_title": "",
+      "comment_text": "客観的に自分を見てみる。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 14:24:49",
+      "updated_at": "2023-02-28 14:24:49"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

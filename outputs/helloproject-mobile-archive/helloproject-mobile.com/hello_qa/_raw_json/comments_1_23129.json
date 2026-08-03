@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "34104",
+      "comment_title": "",
+      "comment_text": "友だちと樹脂粘土で遊んだ。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 16:30:54",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "34107",
+      "comment_title": "",
+      "comment_text": "ファイターズ浴衣着れたこと。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 16:31:40",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "34140",
+      "comment_title": "",
+      "comment_text": "アンジュで海に行って、バーベキューをして、夜に花火をしたこと。また行きたいです！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:29:09",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "34204",
+      "comment_title": "",
+      "comment_text": "花火を買いました。\nこれからやりたいです。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:28:39",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

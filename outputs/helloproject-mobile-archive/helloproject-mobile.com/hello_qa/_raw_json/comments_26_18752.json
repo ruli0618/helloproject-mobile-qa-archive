@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "26902",
+      "comment_title": "",
+      "comment_text": "そっとしてあげる。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:04:03",
+      "updated_at": "2022-08-29 15:04:03"
+    },
+    {
+      "comment_id": "26905",
+      "comment_title": "",
+      "comment_text": "ええ\nどうするんでしょうか、、、\nその時々かもしれませんがまず話を聞きます。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:04:31",
+      "updated_at": "2022-08-29 15:04:31"
+    },
+    {
+      "comment_id": "26906",
+      "comment_title": "",
+      "comment_text": "とりあえず1人にしてから、落ちついたところで話をする。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:04:42",
+      "updated_at": "2022-08-29 15:04:42"
+    },
+    {
+      "comment_id": "26907",
+      "comment_title": "",
+      "comment_text": "寄り添う。\n話を聞いてほしそうであれば聞く。\nその子が喜ぶ事を全力でしてあげたい。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:04:51",
+      "updated_at": "2022-08-29 15:04:51"
+    },
+    {
+      "comment_id": "26908",
+      "comment_title": "",
+      "comment_text": "なんで怒ってるのか、話を聞く！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:05:08",
+      "updated_at": "2022-08-29 15:05:08"
+    },
+    {
+      "comment_id": "26910",
+      "comment_title": "",
+      "comment_text": "ほっておいて落ち着くまで待つ。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:05:29",
+      "updated_at": "2022-08-29 15:05:29"
+    },
+    {
+      "comment_id": "26911",
+      "comment_title": "",
+      "comment_text": "ごめんなさいをする。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 15:05:42",
+      "updated_at": "2022-08-29 15:05:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

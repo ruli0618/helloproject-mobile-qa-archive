@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "21082",
+      "comment_title": "",
+      "comment_text": "一番面倒くさくなりそうな所から。\n私の部屋だったら、クローゼット。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:16:36",
+      "updated_at": "2021-03-22 18:16:36"
+    },
+    {
+      "comment_id": "21086",
+      "comment_title": "",
+      "comment_text": "玄関から始めます！\n大掃除の場合は、1週間前から徐々に玄関から奥の部屋まで綺麗にしていきたいタイプです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:17:26",
+      "updated_at": "2021-03-22 18:17:26"
+    },
+    {
+      "comment_id": "21084",
+      "comment_title": "",
+      "comment_text": "学校のプリント類の整理",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:16:49",
+      "updated_at": "2021-03-22 18:16:49"
+    },
+    {
+      "comment_id": "21085",
+      "comment_title": "",
+      "comment_text": "まずは、引き出しや押し入れの中身を全部出して綺麗にします。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:17:05",
+      "updated_at": "2021-03-22 18:17:05"
+    },
+    {
+      "comment_id": "21087",
+      "comment_title": "",
+      "comment_text": "服の整理からです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:17:36",
+      "updated_at": "2021-03-22 18:17:36"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

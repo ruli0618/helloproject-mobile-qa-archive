@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "9096",
+      "comment_title": "",
+      "comment_text": "お化け屋敷で一緒に怖がりたい。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-14 13:36:18",
+      "updated_at": "2018-05-14 13:36:18"
+    },
+    {
+      "comment_id": "9099",
+      "comment_title": "",
+      "comment_text": "優柔不断で何も決められないので、いろんな所に連れまわしてほしいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-14 13:36:58",
+      "updated_at": "2018-05-14 13:36:58"
+    },
+    {
+      "comment_id": "9100",
+      "comment_title": "",
+      "comment_text": "私は水族館が好きなので、水族館に行きたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-14 13:37:14",
+      "updated_at": "2018-05-14 13:37:14"
+    },
+    {
+      "comment_id": "9101",
+      "comment_title": "",
+      "comment_text": "遊園地でたくさん遊び、その後ごはんを食べに行く。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-14 13:37:23",
+      "updated_at": "2018-05-14 13:37:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

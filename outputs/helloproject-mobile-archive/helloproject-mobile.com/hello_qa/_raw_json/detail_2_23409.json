@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 82,
+    "content_id": "23409",
+    "content_title": "自分の顔や体の中でお気に入りのパーツは？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2024-12-10 10:00:00",
+    "created_at": "2024-12-03 18:08:30",
+    "updated_at": "2024-12-09 11:52:29",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "23410",
+    "next_id": "23309"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

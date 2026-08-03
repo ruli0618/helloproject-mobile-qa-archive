@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30758",
+      "comment_title": "",
+      "comment_text": "海派",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:21:47",
+      "updated_at": "2023-07-18 16:21:47"
+    },
+    {
+      "comment_id": "30761",
+      "comment_title": "",
+      "comment_text": "山派！！！！！\n山に囲まれた県で育ったからっていうのもあって山の方が好きです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:16",
+      "updated_at": "2023-07-18 16:22:16"
+    },
+    {
+      "comment_id": "30759",
+      "comment_title": "",
+      "comment_text": "海派",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:21:59",
+      "updated_at": "2023-07-18 16:21:59"
+    },
+    {
+      "comment_id": "30760",
+      "comment_title": "",
+      "comment_text": "山派です！木漏れ日のなかで深呼吸したいです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:07",
+      "updated_at": "2023-07-18 16:22:07"
+    },
+    {
+      "comment_id": "30762",
+      "comment_title": "",
+      "comment_text": "海！みんなでバーベキューしたいです！お肉と焼きそば食べたい！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:24",
+      "updated_at": "2023-07-18 16:22:24"
+    },
+    {
+      "comment_id": "30763",
+      "comment_title": "",
+      "comment_text": "海！\n毒持ってる生き物とか少なそう。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:36",
+      "updated_at": "2023-07-18 16:22:36"
+    },
+    {
+      "comment_id": "30764",
+      "comment_title": "",
+      "comment_text": "海派！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:43",
+      "updated_at": "2023-07-18 16:22:43"
+    },
+    {
+      "comment_id": "30765",
+      "comment_title": "",
+      "comment_text": "海です！\n泳げないけど砂浜で遊べるし、青春だなぁ～！って感じがするからです！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:22:53",
+      "updated_at": "2023-07-18 16:22:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

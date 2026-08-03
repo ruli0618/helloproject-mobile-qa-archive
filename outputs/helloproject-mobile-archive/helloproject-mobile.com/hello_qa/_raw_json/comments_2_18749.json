@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "26871",
+      "comment_title": "",
+      "comment_text": "優しく、穏やかに",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 14:54:54",
+      "updated_at": "2022-08-29 14:54:54"
+    },
+    {
+      "comment_id": "26870",
+      "comment_title": "",
+      "comment_text": "憧れの特定は二番煎じ",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 14:54:45",
+      "updated_at": "2022-08-29 14:54:45"
+    },
+    {
+      "comment_id": "26877",
+      "comment_title": "",
+      "comment_text": "花よりみすじ",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 14:55:51",
+      "updated_at": "2022-08-29 14:55:51"
+    },
+    {
+      "comment_id": "26878",
+      "comment_title": "",
+      "comment_text": "白黒には差し色を！\n私はパンダさんカラーに差し色を入れると運気が上がるそうなので、最近意識しています。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 14:56:05",
+      "updated_at": "2022-08-29 14:56:05"
+    },
+    {
+      "comment_id": "26879",
+      "comment_title": "",
+      "comment_text": "信じ続ければ夢は叶う",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-29 14:56:18",
+      "updated_at": "2022-08-29 14:56:18"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

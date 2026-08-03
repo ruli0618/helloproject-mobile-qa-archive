@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 202,
+    "content_id": "4275",
+    "content_title": "お花見に行くとしたら、誰と行きたいですか？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2016-03-18 10:00:00",
+    "created_at": "2016-03-17 12:24:16",
+    "updated_at": "2016-03-17 15:55:27",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "4276",
+    "next_id": "3804"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

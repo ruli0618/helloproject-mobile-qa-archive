@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19202",
+      "comment_title": "",
+      "comment_text": "「鬼滅の刃」の映画を観て泣きました。\nもう1回見たくて2回目観に行って、2回とも泣きました。笑",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 14:56:19",
+      "updated_at": "2020-11-27 14:56:19"
+    },
+    {
+      "comment_id": "19201",
+      "comment_title": "",
+      "comment_text": "本を読んで。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 14:56:04",
+      "updated_at": "2020-11-27 14:56:04"
+    },
+    {
+      "comment_id": "19203",
+      "comment_title": "",
+      "comment_text": "意外と数え切れないくらい、やるせない気持ちで泣いたり、感動して泣いたり、悔しくて泣いたり、不安で泣いたりします。\n感情の波がすぐいっぱいになりやすいんだなぁと思います、、！",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 14:56:30",
+      "updated_at": "2020-11-27 14:56:30"
+    },
+    {
+      "comment_id": "19204",
+      "comment_title": "",
+      "comment_text": "あくびをした時です。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 14:56:38",
+      "updated_at": "2020-11-27 14:56:38"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "24864",
+    "content_title": "歌を好きになる時、歌詞とメロディーどちらから好きになる？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2025-09-06 10:00:00",
+    "created_at": "2025-08-27 15:11:25",
+    "updated_at": "2025-09-04 16:52:55",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24865",
+    "next_id": "24651"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

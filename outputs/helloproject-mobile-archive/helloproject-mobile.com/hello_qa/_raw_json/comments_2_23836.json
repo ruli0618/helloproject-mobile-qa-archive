@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "36546",
+      "comment_title": "",
+      "comment_text": "笑顔の君は太陽さ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:20:13",
+      "updated_at": "2025-02-19 11:20:13"
+    },
+    {
+      "comment_id": "36545",
+      "comment_title": "",
+      "comment_text": "「笑顔の君は太陽さ」です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:20:00",
+      "updated_at": "2025-02-19 11:20:00"
+    },
+    {
+      "comment_id": "36551",
+      "comment_title": "",
+      "comment_text": "ぁまのじゃく\nハロー！を知るきっかけになった曲です！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:21:57",
+      "updated_at": "2025-02-19 11:21:57"
+    },
+    {
+      "comment_id": "36552",
+      "comment_title": "",
+      "comment_text": "チャンス！(月島きらり starring 久住小春さん)\nソロフェス！で3位をいただけて嬉しかった。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:22:11",
+      "updated_at": "2025-02-19 11:22:11"
+    },
+    {
+      "comment_id": "36553",
+      "comment_title": "",
+      "comment_text": "I'm Lucky girl\n何度聴いても歌詞に勇気づけられます。\nこの曲の主人公のマインドで生きていきたい。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:22:24",
+      "updated_at": "2025-02-19 11:22:24"
+    },
+    {
+      "comment_id": "36554",
+      "comment_title": "",
+      "comment_text": "みかん/モーニング娘。\nなんか号泣しながら聴いた覚えがありますね。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:22:37",
+      "updated_at": "2025-02-19 11:22:37"
+    },
+    {
+      "comment_id": "36555",
+      "comment_title": "",
+      "comment_text": "《浪漫～MY DEAR BOY～》",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-19 11:22:49",
+      "updated_at": "2025-02-19 11:22:49"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

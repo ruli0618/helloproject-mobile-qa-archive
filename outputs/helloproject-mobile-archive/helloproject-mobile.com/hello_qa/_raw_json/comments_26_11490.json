@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12806",
+      "comment_title": "",
+      "comment_text": "透き通った綺麗な海に行くこと！！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:51:49",
+      "updated_at": "2019-05-27 13:51:49"
+    },
+    {
+      "comment_id": "12807",
+      "comment_title": "",
+      "comment_text": "海に行きたい！\n入らなくても、見るだけでもいいので、、、。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:52:19",
+      "updated_at": "2019-05-27 13:52:19"
+    },
+    {
+      "comment_id": "12808",
+      "comment_title": "",
+      "comment_text": "キャンプです！\n毎年行っているので、絶対に今年も行きたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:52:29",
+      "updated_at": "2019-05-27 13:52:29"
+    },
+    {
+      "comment_id": "12809",
+      "comment_title": "",
+      "comment_text": "家族で海に行く事です！！！\n去年は、行けたので今年も行きたいです！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:52:41",
+      "updated_at": "2019-05-27 13:52:41"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

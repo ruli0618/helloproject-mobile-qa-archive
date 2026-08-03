@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 422,
+    "content_id": "9190",
+    "content_title": "ハロー！プロジェクトを知ったきっかけは？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2018-06-18 10:00:00",
+    "created_at": "2018-05-17 11:31:56",
+    "updated_at": "2018-06-18 09:50:26",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9191",
+    "next_id": "9189"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

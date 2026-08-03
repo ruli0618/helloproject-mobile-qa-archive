@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 502,
+    "content_id": "5400",
+    "content_title": "お化け屋敷に入るとしたら、誰を連れて行きますか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2016-10-02 10:00:00",
+    "created_at": "2016-09-30 21:12:03",
+    "updated_at": "2016-09-30 22:52:17",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5470",
+    "next_id": "5368"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

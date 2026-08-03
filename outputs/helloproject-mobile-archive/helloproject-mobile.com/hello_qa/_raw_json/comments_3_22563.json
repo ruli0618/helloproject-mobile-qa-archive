@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34488",
+      "comment_title": "",
+      "comment_text": "多分ベース、絶対ベース！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:58:18",
+      "updated_at": "2024-07-09 18:58:18"
+    },
+    {
+      "comment_id": "34491",
+      "comment_title": "",
+      "comment_text": "ドラムです！\n小さい頃にドラム習っていたんですけど、長野から東京に来た時に辞めてしまったので、また1から習い始めたいです！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:58:47",
+      "updated_at": "2024-07-09 18:58:47"
+    },
+    {
+      "comment_id": "34489",
+      "comment_title": "",
+      "comment_text": "アコースティックギター",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:58:26",
+      "updated_at": "2024-07-09 18:58:26"
+    },
+    {
+      "comment_id": "34490",
+      "comment_title": "",
+      "comment_text": "習うならリード楽器です。\n独学で音を出すのがいちばん難しそう。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:58:37",
+      "updated_at": "2024-07-09 18:58:37"
+    },
+    {
+      "comment_id": "34492",
+      "comment_title": "",
+      "comment_text": "ドラム！\nドラムができる人に憧れがあります！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:58:55",
+      "updated_at": "2024-07-09 18:58:55"
+    },
+    {
+      "comment_id": "34493",
+      "comment_title": "",
+      "comment_text": "ドラム\nリズム極めたい。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:59:04",
+      "updated_at": "2024-07-09 18:59:04"
+    },
+    {
+      "comment_id": "34494",
+      "comment_title": "",
+      "comment_text": "ドラムです。\nドラムをたたく女性をかっこいいと思うからです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:59:12",
+      "updated_at": "2024-07-09 18:59:12"
+    },
+    {
+      "comment_id": "34495",
+      "comment_title": "",
+      "comment_text": "リコーダー！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:59:19",
+      "updated_at": "2024-07-09 18:59:19"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

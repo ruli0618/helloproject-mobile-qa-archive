@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "39588",
+      "comment_title": "",
+      "comment_text": "キムチ鍋",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:34:21",
+      "updated_at": "2025-12-08 13:34:21"
+    },
+    {
+      "comment_id": "39589",
+      "comment_title": "",
+      "comment_text": "キムチ！！\n辛いお鍋大好きです！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:34:36",
+      "updated_at": "2025-12-08 13:34:36"
+    },
+    {
+      "comment_id": "39591",
+      "comment_title": "",
+      "comment_text": "しゃぶしゃぶとミルフィーユ鍋",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:34:59",
+      "updated_at": "2025-12-08 13:34:59"
+    },
+    {
+      "comment_id": "39592",
+      "comment_title": "",
+      "comment_text": "キムチ鍋\nあんまりお鍋を食べませんが、辛いのが好きだから。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:35:12",
+      "updated_at": "2025-12-08 13:35:12"
+    },
+    {
+      "comment_id": "39593",
+      "comment_title": "",
+      "comment_text": "まいたけ鍋！！\nとっても美味しいので、広めたいです！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:35:28",
+      "updated_at": "2025-12-08 13:35:28"
+    },
+    {
+      "comment_id": "39594",
+      "comment_title": "",
+      "comment_text": "おでん\n卵が好き。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:35:40",
+      "updated_at": "2025-12-08 13:35:40"
+    },
+    {
+      "comment_id": "39595",
+      "comment_title": "",
+      "comment_text": "ミルフィーユ鍋",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-12-08 13:35:50",
+      "updated_at": "2025-12-08 13:35:50"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "comment_id": "37441",
+      "comment_title": "",
+      "comment_text": "イカフライのレモン煮、1番大好き！！\n・きなこ揚げパン\n・わかめご飯\n・手のひらサイズの揚げ餃子\n・野菜チップス\n・抹茶トースト\n・シャトレーゼのセレクトケーキ\n・食後のアップルパイ\n・キャベツのゆかり和え",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:10:15",
+      "updated_at": "2026-06-29 14:30:46"
+    },
+    {
+      "comment_id": "37450",
+      "comment_title": "",
+      "comment_text": "もやしのナムル。うどん。だご汁。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:13:16",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "37469",
+      "comment_title": "",
+      "comment_text": "青のり大豆。お菓子みたいでおいしかった！",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:23:04",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

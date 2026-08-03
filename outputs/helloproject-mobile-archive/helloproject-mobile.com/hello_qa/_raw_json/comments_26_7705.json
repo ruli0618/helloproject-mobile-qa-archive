@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "7472",
+      "comment_title": "",
+      "comment_text": "今のうちだよ！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:31:02",
+      "updated_at": "2017-10-03 16:31:02"
+    },
+    {
+      "comment_id": "7475",
+      "comment_title": "",
+      "comment_text": "「この前、中学校の卒業遠足ぶりに夢の国に行ったよ！」\nずっと行きたい！って思ってたんです…！！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:33:29",
+      "updated_at": "2017-10-03 16:33:29"
+    },
+    {
+      "comment_id": "7476",
+      "comment_title": "",
+      "comment_text": "もうちょっと、自撮り上手になってー！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:34:12",
+      "updated_at": "2017-10-03 16:34:12"
+    },
+    {
+      "comment_id": "7477",
+      "comment_title": "",
+      "comment_text": "女子力が少し高くなったで！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:35:13",
+      "updated_at": "2017-10-03 16:35:13"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

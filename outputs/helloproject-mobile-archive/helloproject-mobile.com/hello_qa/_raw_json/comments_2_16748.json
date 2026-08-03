@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "22740",
+      "comment_title": "",
+      "comment_text": "ヒーロー！心も優しくなれそうだからです～！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:54:23",
+      "updated_at": "2021-09-17 13:54:23"
+    },
+    {
+      "comment_id": "22739",
+      "comment_title": "",
+      "comment_text": "正義がいいです！\nでもできれば、正義のヒロイン希望です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:54:14",
+      "updated_at": "2021-09-17 13:54:14"
+    },
+    {
+      "comment_id": "22747",
+      "comment_title": "",
+      "comment_text": "悪役",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:55:15",
+      "updated_at": "2021-09-17 13:55:15"
+    },
+    {
+      "comment_id": "22748",
+      "comment_title": "",
+      "comment_text": "「ヒーロー」\n魔法少女みたいなのに変身して、魔法使ってみたい！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:55:23",
+      "updated_at": "2021-09-17 13:55:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "31354",
+      "comment_title": "",
+      "comment_text": "輝\n卒業までの私の目標",
+      "user_name": "譜久村聖",
+      "user_icon": "0",
+      "artist_id": "6",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:38:08",
+      "updated_at": "2023-11-30 17:25:49"
+    },
+    {
+      "comment_id": "31356",
+      "comment_title": "",
+      "comment_text": "困\n(シンプル今困ったことが起きた)",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:38:21",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "31329",
+      "comment_title": "",
+      "comment_text": "考\n考えながら回答しています。",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:33:05",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "31359",
+      "comment_title": "",
+      "comment_text": "熊",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:38:40",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "31381",
+      "comment_title": "",
+      "comment_text": "眠",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:43:12",
+      "updated_at": "2024-06-20 17:57:24"
+    },
+    {
+      "comment_id": "31400",
+      "comment_title": "",
+      "comment_text": "早\n時が経つのは早いなの早。",
+      "user_name": "山岸理子",
+      "user_icon": "0",
+      "artist_id": "50",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:48:19",
+      "updated_at": "2023-11-07 14:47:45"
+    },
+    {
+      "comment_id": "31379",
+      "comment_title": "",
+      "comment_text": "秋！！！\n大好き！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-09-27 12:42:44",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "31443",
+      "comment_title": "",
+      "comment_text": "涼",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-02 11:59:16",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

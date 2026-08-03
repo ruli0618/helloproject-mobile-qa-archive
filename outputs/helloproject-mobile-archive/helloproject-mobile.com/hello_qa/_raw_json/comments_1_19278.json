@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "26000",
+      "comment_title": "",
+      "comment_text": "ケビン\n(家族旅行において行かれない様にしたいです)",
+      "user_name": "譜久村聖",
+      "user_icon": "0",
+      "artist_id": "6",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:02:06",
+      "updated_at": "2023-11-30 17:25:49"
+    },
+    {
+      "comment_id": "26048",
+      "comment_title": "",
+      "comment_text": "はるき",
+      "user_name": "竹内朱莉",
+      "user_icon": "0",
+      "artist_id": "22",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:35:37",
+      "updated_at": "2023-06-22 13:14:27"
+    },
+    {
+      "comment_id": "26002",
+      "comment_title": "",
+      "comment_text": "工藤新二\n(某有名高校生探偵の弟に生まれ変わります)",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:05:52",
+      "updated_at": "2024-12-10 12:01:40"
+    },
+    {
+      "comment_id": "25967",
+      "comment_title": "",
+      "comment_text": "蓮",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 17:05:27",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "26005",
+      "comment_title": "",
+      "comment_text": "SHINJO",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:06:37",
+      "updated_at": "2026-06-29 14:30:48"
+    },
+    {
+      "comment_id": "26050",
+      "comment_title": "",
+      "comment_text": "ジャック・ドーソン",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:35:57",
+      "updated_at": "2024-06-20 17:57:24"
+    },
+    {
+      "comment_id": "26088",
+      "comment_title": "",
+      "comment_text": "こうたろう。\n私がもし男の子だったら付けてた名前だそうです！",
+      "user_name": "山岸理子",
+      "user_icon": "0",
+      "artist_id": "50",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:47:54",
+      "updated_at": "2023-11-07 14:47:45"
+    },
+    {
+      "comment_id": "29451",
+      "comment_title": "",
+      "comment_text": "浅倉春樹",
+      "user_name": "浅倉樹々",
+      "user_icon": "0",
+      "artist_id": "54",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-04-03 11:53:33",
+      "updated_at": "2023-04-03 11:53:33"
+    },
+    {
+      "comment_id": "26051",
+      "comment_title": "",
+      "comment_text": "ケビン",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:36:09",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "26137",
+      "comment_title": "",
+      "comment_text": "ゴン",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-09 10:59:46",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

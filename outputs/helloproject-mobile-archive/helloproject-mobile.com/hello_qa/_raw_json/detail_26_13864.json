@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 302,
+    "content_id": "13864",
+    "content_title": "好きな香りは何の香り？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2020-07-16 10:00:00",
+    "created_at": "2020-05-26 11:50:03",
+    "updated_at": "2020-07-14 19:27:11",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "14102",
+    "next_id": "13859"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

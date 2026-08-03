@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "37018",
+      "comment_title": "",
+      "comment_text": "皿洗い、洋服を畳む",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:04:55",
+      "updated_at": "2025-04-08 15:04:55"
+    },
+    {
+      "comment_id": "37016",
+      "comment_title": "",
+      "comment_text": "なんだろう… \n猫を撫でて舞った毛を集めるとか…？",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:02:16",
+      "updated_at": "2025-04-08 15:02:16"
+    },
+    {
+      "comment_id": "37023",
+      "comment_title": "",
+      "comment_text": "お皿洗い",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:06:17",
+      "updated_at": "2025-04-08 15:06:17"
+    },
+    {
+      "comment_id": "37024",
+      "comment_title": "",
+      "comment_text": "食器を拭くこと！\n水滴がちょっと付いてたりしたら気になっちゃって、全部拭きとるまでしっかり拭きたくなるんです笑",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:06:25",
+      "updated_at": "2025-04-08 15:06:25"
+    },
+    {
+      "comment_id": "37025",
+      "comment_title": "",
+      "comment_text": "小学生の頃からずっとお家ではお風呂掃除担当です！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:06:35",
+      "updated_at": "2025-04-08 15:06:35"
+    },
+    {
+      "comment_id": "37026",
+      "comment_title": "",
+      "comment_text": "白玉だんご作り。\nお母さんより上手に作れます。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:06:44",
+      "updated_at": "2025-04-08 15:06:44"
+    },
+    {
+      "comment_id": "37027",
+      "comment_title": "",
+      "comment_text": "モップで床をツルピカにする事です。\nおばあちゃん家に居る時は暇さえあればずっと床磨いてます！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:06:55",
+      "updated_at": "2025-04-08 15:06:55"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

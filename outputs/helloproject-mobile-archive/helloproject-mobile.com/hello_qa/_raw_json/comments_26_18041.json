@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "25453",
+      "comment_title": "",
+      "comment_text": "英語！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:09:38",
+      "updated_at": "2022-04-26 17:09:38"
+    },
+    {
+      "comment_id": "25456",
+      "comment_title": "",
+      "comment_text": "英語とピアノ。\n英語は中学の頃から苦手意識がとっても強いので、小さい頃から習っておきたかったなとよく考えます。\nピアノは、弾ける人が羨ましいからです！\n歌を歌うのが好きなので、家で弾き語りとかしてみたかったです！！！！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:10:11",
+      "updated_at": "2022-04-26 17:10:11"
+    },
+    {
+      "comment_id": "25457",
+      "comment_title": "",
+      "comment_text": "英語\n英語が苦手なので英会話など少しでも習っておきたかったです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:10:21",
+      "updated_at": "2022-04-26 17:10:21"
+    },
+    {
+      "comment_id": "25458",
+      "comment_title": "",
+      "comment_text": "ピアノ、ギター、歌、そろばん、ポップダンス\nいっぱいあります！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:10:31",
+      "updated_at": "2022-04-26 17:10:31"
+    },
+    {
+      "comment_id": "25459",
+      "comment_title": "",
+      "comment_text": "私は泳げないので水泳を習いたかった！笑",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:10:39",
+      "updated_at": "2022-04-26 17:10:39"
+    },
+    {
+      "comment_id": "25461",
+      "comment_title": "",
+      "comment_text": "スケート、書道",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:11:02",
+      "updated_at": "2022-04-26 17:11:02"
+    },
+    {
+      "comment_id": "25462",
+      "comment_title": "",
+      "comment_text": "ピアノです。\nやってたけど、もっと長くやってたかったです。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:11:10",
+      "updated_at": "2022-04-26 17:11:10"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "4568",
+      "comment_title": "",
+      "comment_text": "セーラー派！！\nセーラー服着たことないから憧れてます",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:15:44",
+      "updated_at": "2016-10-21 13:15:44"
+    },
+    {
+      "comment_id": "4571",
+      "comment_title": "",
+      "comment_text": "ブレザーしか着たことがないのですが、セーラー服に憧れます。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:16:20",
+      "updated_at": "2016-10-21 13:16:20"
+    },
+    {
+      "comment_id": "4572",
+      "comment_title": "",
+      "comment_text": "セーラー派",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:16:27",
+      "updated_at": "2016-10-21 13:16:27"
+    },
+    {
+      "comment_id": "4573",
+      "comment_title": "",
+      "comment_text": "セーラー服",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:16:41",
+      "updated_at": "2016-10-21 13:16:41"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34580",
+      "comment_title": "",
+      "comment_text": "ジェットコースター(外にあるタイプ)",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:46:05",
+      "updated_at": "2024-07-10 10:46:05"
+    },
+    {
+      "comment_id": "34581",
+      "comment_title": "",
+      "comment_text": "ジェットコースターです！！！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:46:15",
+      "updated_at": "2024-07-10 10:46:15"
+    },
+    {
+      "comment_id": "34583",
+      "comment_title": "",
+      "comment_text": "ジェットコースター",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:46:39",
+      "updated_at": "2024-07-10 10:46:39"
+    },
+    {
+      "comment_id": "34584",
+      "comment_title": "",
+      "comment_text": "ジェットコースター！\n絶叫系大好きです！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:46:51",
+      "updated_at": "2024-07-10 10:46:51"
+    },
+    {
+      "comment_id": "34585",
+      "comment_title": "",
+      "comment_text": "室内コースター\nジェットコースターは怖いけど、室内なら行けます！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:47:03",
+      "updated_at": "2024-07-10 10:47:03"
+    },
+    {
+      "comment_id": "34586",
+      "comment_title": "",
+      "comment_text": "ジェットコースター",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:47:15",
+      "updated_at": "2024-07-10 10:47:15"
+    },
+    {
+      "comment_id": "34587",
+      "comment_title": "",
+      "comment_text": "ジェットコースター！\n絶叫系好きなのですが、最近年齢とともに浮遊感がちょっとダメになってきました…。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:47:29",
+      "updated_at": "2024-07-10 10:47:29"
+    },
+    {
+      "comment_id": "34588",
+      "comment_title": "",
+      "comment_text": "ジェットコースターかフリーフォール！\n絶叫系が非常に好きです！！！！！！！！！！！！！！！！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:47:48",
+      "updated_at": "2024-07-10 10:47:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

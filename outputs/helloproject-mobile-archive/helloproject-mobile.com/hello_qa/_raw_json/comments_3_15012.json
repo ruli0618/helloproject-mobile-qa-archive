@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "19449",
+      "comment_title": "",
+      "comment_text": "キムチ鍋です。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 13:41:29",
+      "updated_at": "2020-11-30 13:41:29"
+    },
+    {
+      "comment_id": "19452",
+      "comment_title": "",
+      "comment_text": "豆腐\n味がしみている鍋の豆腐も好きですが、水炊き鍋でゆずポン酢につけて食べるのが1番好きです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 13:42:05",
+      "updated_at": "2020-11-30 13:42:05"
+    },
+    {
+      "comment_id": "19450",
+      "comment_title": "",
+      "comment_text": "キムチ鍋\n食べた事はまだないのですが、ずっと食べてみたいな〜と思ってます。笑\n鍋と聞いたらパッ！と思いつくのはキムチ鍋です。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 13:41:42",
+      "updated_at": "2020-11-30 13:41:42"
+    },
+    {
+      "comment_id": "19451",
+      "comment_title": "",
+      "comment_text": "キムチ鍋です！\n具もキムチです。辛いものが好きです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 13:41:53",
+      "updated_at": "2020-11-30 13:41:53"
+    },
+    {
+      "comment_id": "19453",
+      "comment_title": "",
+      "comment_text": "ミルフィーユ鍋です。\n柔らかくなったたっぷりの白菜と豚肉が最高です。ちなみにポン酢でさっぱり食べるのが好きです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 13:42:16",
+      "updated_at": "2020-11-30 13:42:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "35567",
+      "comment_title": "",
+      "comment_text": "負けず嫌い",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:38:36",
+      "updated_at": "2024-11-20 15:38:36"
+    },
+    {
+      "comment_id": "35568",
+      "comment_title": "",
+      "comment_text": "少年",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:38:44",
+      "updated_at": "2024-11-20 15:38:44"
+    },
+    {
+      "comment_id": "35569",
+      "comment_title": "",
+      "comment_text": "ポジティブ頑固",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:38:59",
+      "updated_at": "2024-11-20 15:38:59"
+    },
+    {
+      "comment_id": "35570",
+      "comment_title": "",
+      "comment_text": "マイペース\n小学校の図書館の司書さんにずっと言われていたので！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:10",
+      "updated_at": "2024-11-20 15:39:10"
+    },
+    {
+      "comment_id": "35571",
+      "comment_title": "",
+      "comment_text": "すぐお腹空いてすぐ眠たくなる性格",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:20",
+      "updated_at": "2024-11-20 15:39:20"
+    },
+    {
+      "comment_id": "36491",
+      "comment_title": "",
+      "comment_text": "真面目！笑",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-01-31 12:04:06",
+      "updated_at": "2025-01-31 12:04:06"
+    },
+    {
+      "comment_id": "35572",
+      "comment_title": "",
+      "comment_text": "人にサプライズしたり何かをあげたりする事が好き、調子に乗りやすい、熱しやすく冷めにくい性格だとおもいます。",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:32",
+      "updated_at": "2024-11-20 15:39:32"
+    },
+    {
+      "comment_id": "35573",
+      "comment_title": "",
+      "comment_text": "雑",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:41",
+      "updated_at": "2024-11-20 15:39:41"
+    },
+    {
+      "comment_id": "35574",
+      "comment_title": "",
+      "comment_text": "ポジティブすぎる、深く考えない。",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:48",
+      "updated_at": "2024-11-20 15:39:48"
+    },
+    {
+      "comment_id": "35575",
+      "comment_title": "",
+      "comment_text": "よく寝る",
+      "user_name": "川嶋美楓",
+      "user_icon": "0",
+      "artist_id": "151",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-20 15:39:57",
+      "updated_at": "2024-11-20 15:39:57"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

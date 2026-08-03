@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13987",
+      "comment_title": "",
+      "comment_text": "お気に入りの抱き枕は、チンアナゴの触り心地が良い抱き枕です。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:10:54",
+      "updated_at": "2019-08-21 18:10:54"
+    },
+    {
+      "comment_id": "13989",
+      "comment_title": "",
+      "comment_text": "最近お気に入りのベルトグミの味は、ベリーブルーです。\nコットンキャンディは殿堂入りです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:11:22",
+      "updated_at": "2019-08-21 18:11:22"
+    },
+    {
+      "comment_id": "13990",
+      "comment_title": "",
+      "comment_text": "乳酸菌入りの食べ物飲み物。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:11:37",
+      "updated_at": "2019-08-21 18:11:37"
+    },
+    {
+      "comment_id": "13991",
+      "comment_title": "",
+      "comment_text": "最近お気に入りのアイシャドウは、RMKのグリーンのアイシャドウです！\nアクセントで目に色を入れるのにはまってます(^^)",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:11:48",
+      "updated_at": "2019-08-21 18:11:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

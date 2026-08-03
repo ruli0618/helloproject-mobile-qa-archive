@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 262,
+    "content_id": "15666",
+    "content_title": "ライブのセットリストを自由に決められます。最初の曲と最後の曲は何？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2021-04-06 10:00:00",
+    "created_at": "2021-03-22 17:46:58",
+    "updated_at": "2021-04-05 19:38:55",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "15667",
+    "next_id": "15611"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "31119",
+      "comment_title": "",
+      "comment_text": "基本的になんでも1人でできる人。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:14:17",
+      "updated_at": "2023-08-02 14:14:17"
+    },
+    {
+      "comment_id": "31120",
+      "comment_title": "",
+      "comment_text": "余裕があって、内面も外見も美しい女性に憧れます！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:14:25",
+      "updated_at": "2023-08-02 14:14:25"
+    },
+    {
+      "comment_id": "31122",
+      "comment_title": "",
+      "comment_text": "鈴木愛理さんみたいな素敵な大人になりたい、、。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:14:59",
+      "updated_at": "2023-08-02 14:14:59"
+    },
+    {
+      "comment_id": "31124",
+      "comment_title": "",
+      "comment_text": "自分を持ってる人！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:15:21",
+      "updated_at": "2023-08-02 14:15:21"
+    },
+    {
+      "comment_id": "31125",
+      "comment_title": "",
+      "comment_text": "周りに囚われない人\n自分の中の正しいと世間体の正しいのバランスが上手く取れる人",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:15:34",
+      "updated_at": "2023-08-02 14:15:34"
+    },
+    {
+      "comment_id": "31126",
+      "comment_title": "",
+      "comment_text": "いつまでも向上心がある人",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:15:44",
+      "updated_at": "2023-08-02 14:15:44"
+    },
+    {
+      "comment_id": "31127",
+      "comment_title": "",
+      "comment_text": "余裕がある人！やることはちゃっちゃとやるけど、基本ヘラヘラしていたいです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:15:56",
+      "updated_at": "2023-08-02 14:15:56"
+    },
+    {
+      "comment_id": "31128",
+      "comment_title": "",
+      "comment_text": "好きなものを好きなように愛して、周りや仕事に対して誠実で、時間を大切にできる、可愛いに全力なひと！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:16:07",
+      "updated_at": "2023-08-02 14:16:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

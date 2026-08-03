@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 422,
+    "content_id": "9191",
+    "content_title": "ライブ中、楽しい！と思う瞬間はどんな時？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2018-06-25 10:00:00",
+    "created_at": "2018-05-17 11:32:46",
+    "updated_at": "2018-06-25 10:28:16",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9192",
+    "next_id": "9190"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

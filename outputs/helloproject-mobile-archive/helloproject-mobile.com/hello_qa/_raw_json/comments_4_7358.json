@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "6883",
+      "comment_title": "",
+      "comment_text": "家族からは、るるって呼ばれていて、\n友達からは、るる、るるちゃんとか、るーちゃんとか、るんちゃんって言われています。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-08-30 11:22:06",
+      "updated_at": "2017-08-30 11:22:06"
+    },
+    {
+      "comment_id": "17376",
+      "comment_title": "",
+      "comment_text": "れいれい\nれいちゃん\nれい\n井上氏",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 11:33:27",
+      "updated_at": "2020-04-03 11:33:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21705",
+      "comment_title": "",
+      "comment_text": "花鳥風月ツアーの花チームメンバーみんな！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-06-28 14:44:07",
+      "updated_at": "2021-06-28 14:44:07"
+    },
+    {
+      "comment_id": "21704",
+      "comment_title": "",
+      "comment_text": "島倉りかちゃん！\n好きな食べ物が同じで、一緒に食べに行くようになりました！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-06-28 14:43:56",
+      "updated_at": "2021-06-28 14:43:56"
+    },
+    {
+      "comment_id": "21712",
+      "comment_title": "",
+      "comment_text": "横山玲奈さん",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-06-28 14:45:22",
+      "updated_at": "2021-06-28 14:45:22"
+    },
+    {
+      "comment_id": "21713",
+      "comment_title": "",
+      "comment_text": "モーニング娘。'21 石田亜佑美さん\n花鳥風月で同じ風チームになって、お話する機会が増えました。\n2人でゲームしたり、色々楽しかったです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-06-28 14:45:33",
+      "updated_at": "2021-06-28 14:45:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "24233",
+      "comment_title": "",
+      "comment_text": "メンバーにヘアアレンジやってあげる時、みんないつも嬉しそうにしてくれて、頼ってもらえるのが嬉しいです！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:24:00",
+      "updated_at": "2022-01-18 16:24:00"
+    },
+    {
+      "comment_id": "24234",
+      "comment_title": "",
+      "comment_text": "譜久村聖さんがどんな髪型でも合うねと、褒めてくださいました！",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:24:08",
+      "updated_at": "2022-01-18 16:24:08"
+    },
+    {
+      "comment_id": "24235",
+      "comment_title": "",
+      "comment_text": "メイクです。\nメンバーさんから褒めて頂けるのがとても嬉しいです！",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:24:21",
+      "updated_at": "2022-01-18 16:24:21"
+    },
+    {
+      "comment_id": "24236",
+      "comment_title": "",
+      "comment_text": "アイラインの書き方をメンバーにたくさん褒めていただきました！\n自分にしか出来ないのが駄目ポイントですが、跳ね上げアイラインのプロです。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:24:33",
+      "updated_at": "2022-01-18 16:24:33"
+    },
+    {
+      "comment_id": "24237",
+      "comment_title": "",
+      "comment_text": "服を綺麗に畳んだこと！",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:24:42",
+      "updated_at": "2022-01-18 16:24:42"
+    },
+    {
+      "comment_id": "24238",
+      "comment_title": "",
+      "comment_text": "いい匂いする！って言われたこと。",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:25:34",
+      "updated_at": "2022-01-18 16:25:34"
+    },
+    {
+      "comment_id": "24239",
+      "comment_title": "",
+      "comment_text": "髪の毛まくの上手いね～！",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:25:42",
+      "updated_at": "2022-01-18 16:25:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

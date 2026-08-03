@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "28359",
+      "comment_title": "",
+      "comment_text": "パウダー200%ハッピーターン",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-12-19 15:00:26",
+      "updated_at": "2022-12-19 15:00:26"
+    },
+    {
+      "comment_id": "28358",
+      "comment_title": "",
+      "comment_text": "しゃりしゃりもにもにしたグミです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-12-19 15:00:14",
+      "updated_at": "2022-12-19 15:00:14"
+    },
+    {
+      "comment_id": "28364",
+      "comment_title": "",
+      "comment_text": "れんこんチップス。ごま油味",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-12-19 15:01:16",
+      "updated_at": "2022-12-19 15:01:16"
+    },
+    {
+      "comment_id": "28365",
+      "comment_title": "",
+      "comment_text": "安くて美味しいので「駄菓子」\n特にタラタラしてんじゃねーよが好きです。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-12-19 15:01:30",
+      "updated_at": "2022-12-19 15:01:30"
+    },
+    {
+      "comment_id": "28366",
+      "comment_title": "",
+      "comment_text": "ラムネ\nブドウ糖がたくさん含まれているので、集中したい時によく食べています！！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-12-19 15:01:50",
+      "updated_at": "2022-12-19 15:01:50"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

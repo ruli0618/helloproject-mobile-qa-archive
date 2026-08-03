@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "38701",
+      "comment_title": "",
+      "comment_text": "西田汐里のためにならない豆知識",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:05:01",
+      "updated_at": "2025-09-17 15:05:01"
+    },
+    {
+      "comment_id": "38702",
+      "comment_title": "",
+      "comment_text": "えぐえぐラジオ",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:05:17",
+      "updated_at": "2025-09-17 15:05:17"
+    },
+    {
+      "comment_id": "38704",
+      "comment_title": "",
+      "comment_text": "こころの君の心を癒したいラジオ",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:05:36",
+      "updated_at": "2025-09-17 15:05:36"
+    },
+    {
+      "comment_id": "38705",
+      "comment_title": "",
+      "comment_text": "♡DJみいみミュージック♡\nいっぱい音楽語る番組面白そうです！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:05:48",
+      "updated_at": "2025-09-17 15:05:48"
+    },
+    {
+      "comment_id": "38706",
+      "comment_title": "",
+      "comment_text": "みよちゃん家の縁側！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:06:01",
+      "updated_at": "2025-09-17 15:06:01"
+    },
+    {
+      "comment_id": "38707",
+      "comment_title": "",
+      "comment_text": "ほのぴラジオ！\nシンプルにわかりやすく笑",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:06:14",
+      "updated_at": "2025-09-17 15:06:14"
+    },
+    {
+      "comment_id": "38708",
+      "comment_title": "",
+      "comment_text": "「うーたんのトリコにするラジオ」\nうトラジ",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 15:06:25",
+      "updated_at": "2025-09-17 15:06:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

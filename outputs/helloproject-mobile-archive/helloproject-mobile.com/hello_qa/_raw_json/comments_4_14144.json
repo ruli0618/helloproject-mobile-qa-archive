@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18273",
+      "comment_title": "",
+      "comment_text": "パン屋さんクイーン",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:48:21",
+      "updated_at": "2020-07-20 12:48:21"
+    },
+    {
+      "comment_id": "18272",
+      "comment_title": "",
+      "comment_text": "ボイパクイーン",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:48:09",
+      "updated_at": "2020-07-20 12:48:09"
+    },
+    {
+      "comment_id": "18274",
+      "comment_title": "",
+      "comment_text": "ブログ長いクイーン",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:48:34",
+      "updated_at": "2020-07-20 12:48:34"
+    },
+    {
+      "comment_id": "18275",
+      "comment_title": "",
+      "comment_text": "元気クイーン！\nいつでも元気です！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:48:45",
+      "updated_at": "2020-07-20 12:48:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

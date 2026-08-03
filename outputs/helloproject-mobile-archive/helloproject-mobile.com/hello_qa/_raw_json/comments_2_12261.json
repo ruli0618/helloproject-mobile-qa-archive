@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14455",
+      "comment_title": "",
+      "comment_text": "歴史、個性ある楽曲",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:15:56",
+      "updated_at": "2019-10-11 16:15:56"
+    },
+    {
+      "comment_id": "14454",
+      "comment_title": "",
+      "comment_text": "歴史がある事と、各々パフォーマンスにこだわりがあるところ！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:15:42",
+      "updated_at": "2019-10-11 16:15:42"
+    },
+    {
+      "comment_id": "14462",
+      "comment_title": "",
+      "comment_text": "それぞれ、一人一人に個性があるところ。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:17:58",
+      "updated_at": "2019-10-11 16:17:58"
+    },
+    {
+      "comment_id": "14463",
+      "comment_title": "",
+      "comment_text": "・歴史が長い\n・心にひびく歌が沢山ある\n・パワーがある",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:18:12",
+      "updated_at": "2019-10-11 16:18:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

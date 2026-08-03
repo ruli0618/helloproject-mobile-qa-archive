@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30008",
+      "comment_title": "",
+      "comment_text": "眠寝怠楽",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:59:38",
+      "updated_at": "2023-05-08 16:59:38"
+    },
+    {
+      "comment_id": "30011",
+      "comment_title": "",
+      "comment_text": "優柔不断です！\n自分の優柔不断なところは好きではないので、キッパリと決めれるようになりたい。。",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:00:12",
+      "updated_at": "2023-05-08 17:00:12"
+    },
+    {
+      "comment_id": "30009",
+      "comment_title": "",
+      "comment_text": "自由奔放",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:59:48",
+      "updated_at": "2023-05-08 16:59:48"
+    },
+    {
+      "comment_id": "30010",
+      "comment_title": "",
+      "comment_text": "悠悠閑閑",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:59:56",
+      "updated_at": "2023-05-08 16:59:56"
+    },
+    {
+      "comment_id": "30012",
+      "comment_title": "",
+      "comment_text": "勇往邁進",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:00:19",
+      "updated_at": "2023-05-08 17:00:19"
+    },
+    {
+      "comment_id": "30013",
+      "comment_title": "",
+      "comment_text": "疑心暗鬼",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 17:00:26",
+      "updated_at": "2023-05-08 17:00:26"
+    },
+    {
+      "comment_id": "30614",
+      "comment_title": "",
+      "comment_text": "明朗快活です！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:10:44",
+      "updated_at": "2023-06-16 15:10:44"
+    },
+    {
+      "comment_id": "30615",
+      "comment_title": "",
+      "comment_text": "自由闊達！！\nとにかく元気で自由だから！！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:10:56",
+      "updated_at": "2023-06-16 15:10:56"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

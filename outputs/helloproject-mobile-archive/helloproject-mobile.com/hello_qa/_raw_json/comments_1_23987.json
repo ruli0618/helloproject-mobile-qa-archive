@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "comment_id": "36807",
+      "comment_title": "",
+      "comment_text": "マフラー",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 12:24:34",
+      "updated_at": "2026-06-29 14:30:46"
+    },
+    {
+      "comment_id": "36816",
+      "comment_title": "",
+      "comment_text": "筆箱\n高校時代の友達から落書きされた筆箱を、そのまま今でも使っています。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 12:28:21",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "36836",
+      "comment_title": "",
+      "comment_text": "実印かな。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 12:35:06",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

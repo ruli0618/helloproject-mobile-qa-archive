@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "29293",
+      "comment_title": "",
+      "comment_text": "カメラでかざすとプロフィールが分かるアプリ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:39:41",
+      "updated_at": "2023-03-13 18:39:41"
+    },
+    {
+      "comment_id": "29295",
+      "comment_title": "",
+      "comment_text": "私に似合う服を定期的に配送してくれるアプリ",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:40:20",
+      "updated_at": "2023-03-13 18:40:20"
+    },
+    {
+      "comment_id": "29296",
+      "comment_title": "",
+      "comment_text": "お話をしてくれるアプリ！\nどうでもいいような話を永遠に聞いてほしい！笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:40:43",
+      "updated_at": "2023-03-13 18:40:43"
+    },
+    {
+      "comment_id": "29297",
+      "comment_title": "",
+      "comment_text": "2日に一回タクシー無料アプリ",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:40:59",
+      "updated_at": "2023-03-13 18:40:59"
+    },
+    {
+      "comment_id": "29298",
+      "comment_title": "",
+      "comment_text": "似合う服とか、似合う髪型とかを選んでくれるアプリ！\n優柔不断なので教えて欲しいです笑",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:41:12",
+      "updated_at": "2023-03-13 18:41:12"
+    },
+    {
+      "comment_id": "29300",
+      "comment_title": "",
+      "comment_text": "毎日コーディネートを決めてくれるアプリです。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:41:45",
+      "updated_at": "2023-03-13 18:41:45"
+    },
+    {
+      "comment_id": "29301",
+      "comment_title": "",
+      "comment_text": "心で思ってることが文字に変身してくれる。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:41:56",
+      "updated_at": "2023-03-13 18:41:56"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

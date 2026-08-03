@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "25040",
+      "comment_title": "",
+      "comment_text": "コジコジ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:51:39",
+      "updated_at": "2022-04-06 12:51:39"
+    },
+    {
+      "comment_id": "25043",
+      "comment_title": "",
+      "comment_text": "高校を卒業して制服がコスプレになっちゃったんですけど、いつまでも心の中はJKでいたいから制服です！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:52:03",
+      "updated_at": "2022-04-06 12:52:03"
+    },
+    {
+      "comment_id": "25041",
+      "comment_title": "",
+      "comment_text": "ジョジョの奇妙な冒険の空条徐倫",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:51:46",
+      "updated_at": "2022-04-06 12:51:46"
+    },
+    {
+      "comment_id": "25042",
+      "comment_title": "",
+      "comment_text": "西川貴教さんの、HOT LIMITのあの衣装を着てみたいです笑",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:51:55",
+      "updated_at": "2022-04-06 12:51:55"
+    },
+    {
+      "comment_id": "25044",
+      "comment_title": "",
+      "comment_text": "キョンシー\n黒のワンピースが可愛いなぁと思うからです！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:52:15",
+      "updated_at": "2022-04-06 12:52:15"
+    },
+    {
+      "comment_id": "25045",
+      "comment_title": "",
+      "comment_text": "ジブリの「風の谷のナウシカ」に出てくる、クシャナっていうお姫様です！\n凄い武装してるのでどれくらい重いのものなのかとか試してみたいし、強くてかっこいい女性なのでコスプレしてみたいです！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:52:25",
+      "updated_at": "2022-04-06 12:52:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

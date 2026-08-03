@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "18511",
+      "comment_title": "",
+      "comment_text": "それぞれのジャンルで尊敬する方はたくさんいますが全てを含めて凄く尊敬する先輩は、鈴木愛理さんです！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:39:42",
+      "updated_at": "2020-07-28 15:39:42"
+    },
+    {
+      "comment_id": "18512",
+      "comment_title": "",
+      "comment_text": "船木結さん\n背の高さが似ているので、素敵なパフォーマンスに自分も近づけるよういつも、こっそり観察して参考にしています。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:39:51",
+      "updated_at": "2020-07-28 15:39:51"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

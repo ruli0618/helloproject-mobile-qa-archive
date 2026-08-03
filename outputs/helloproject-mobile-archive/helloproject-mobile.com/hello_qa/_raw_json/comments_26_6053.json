@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "5466",
+      "comment_title": "",
+      "comment_text": "のんびり幸せに暮らす。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 11:52:35",
+      "updated_at": "2017-01-12 11:52:35"
+    },
+    {
+      "comment_id": "5469",
+      "comment_title": "",
+      "comment_text": "世界で一番幸せになりたいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 11:52:59",
+      "updated_at": "2017-01-12 11:52:59"
+    },
+    {
+      "comment_id": "5470",
+      "comment_title": "",
+      "comment_text": "美味しいと言われている世界中の食べ物を食べる。\n服の大人買い。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 11:53:09",
+      "updated_at": "2017-01-12 11:53:09"
+    },
+    {
+      "comment_id": "5471",
+      "comment_title": "",
+      "comment_text": "海外旅行",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 11:53:17",
+      "updated_at": "2017-01-12 11:53:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

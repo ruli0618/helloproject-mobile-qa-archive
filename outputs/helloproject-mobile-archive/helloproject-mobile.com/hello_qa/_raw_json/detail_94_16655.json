@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 242,
+    "content_id": "16655",
+    "content_title": "最近ハマっている食べ物は？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2021-10-01 10:00:00",
+    "created_at": "2021-09-07 17:22:23",
+    "updated_at": "2021-10-01 10:00:16",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16738",
+    "next_id": "16654"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

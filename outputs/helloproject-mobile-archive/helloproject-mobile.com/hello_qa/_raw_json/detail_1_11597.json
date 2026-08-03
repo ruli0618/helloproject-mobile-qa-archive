@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 362,
+    "content_id": "11597",
+    "content_title": "10分前、あなたは何を考えていましたか？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2019-05-27 10:00:00",
+    "created_at": "2019-06-13 15:42:25",
+    "updated_at": "2019-06-18 11:18:04",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11598",
+    "next_id": "11596"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

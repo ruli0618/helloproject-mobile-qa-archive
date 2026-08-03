@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "27200",
+      "comment_title": "",
+      "comment_text": "ロミオとジュリエット",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:45:53",
+      "updated_at": "2022-09-16 12:45:53"
+    },
+    {
+      "comment_id": "27203",
+      "comment_title": "",
+      "comment_text": "『日常』っていうアニメの世界に入りたいです！！\nSFなどの非現実的な物語も好きなんですけど、自分が物語の世界に入るなら平和でほのぼのとしてる物語がいいなって思ったので！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:46:23",
+      "updated_at": "2022-09-16 12:46:23"
+    },
+    {
+      "comment_id": "27201",
+      "comment_title": "",
+      "comment_text": "バイオハザード",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:46:05",
+      "updated_at": "2022-09-16 12:46:05"
+    },
+    {
+      "comment_id": "27202",
+      "comment_title": "",
+      "comment_text": "銀魂かムーミン。\n神様みたいに強いキャラになりたいのと、のどかに暮らすのも憧れだからです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:46:15",
+      "updated_at": "2022-09-16 12:46:15"
+    },
+    {
+      "comment_id": "27204",
+      "comment_title": "",
+      "comment_text": "ワールドトリガーの世界に入って小南とタッグを組みたいです笑笑",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:46:31",
+      "updated_at": "2022-09-16 12:46:31"
+    },
+    {
+      "comment_id": "27205",
+      "comment_title": "",
+      "comment_text": "風の谷のナウシカ！！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:46:39",
+      "updated_at": "2022-09-16 12:46:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

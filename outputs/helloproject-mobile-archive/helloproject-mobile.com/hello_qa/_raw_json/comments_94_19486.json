@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "28801",
+      "comment_title": "",
+      "comment_text": "レッスン靴！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:25:47",
+      "updated_at": "2023-01-10 14:25:47"
+    },
+    {
+      "comment_id": "28802",
+      "comment_title": "",
+      "comment_text": "AirPodsです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:25:56",
+      "updated_at": "2023-01-10 14:25:56"
+    },
+    {
+      "comment_id": "28804",
+      "comment_title": "",
+      "comment_text": "イヤホンかなぁ～。\n移動や空き時間は、音楽聴くかドラマや映画やYouTubeなど観たい！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:26:17",
+      "updated_at": "2023-01-10 14:26:17"
+    },
+    {
+      "comment_id": "28806",
+      "comment_title": "",
+      "comment_text": "映画を観るためのタブレット！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:26:57",
+      "updated_at": "2023-01-10 14:26:57"
+    },
+    {
+      "comment_id": "28807",
+      "comment_title": "",
+      "comment_text": "ヘッドホン！ノイズキャンセリング付き！絶対！\n飛行機とか新幹線で耳が包み込まれてると安心で寝れる！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:27:08",
+      "updated_at": "2023-01-10 14:27:08"
+    },
+    {
+      "comment_id": "28808",
+      "comment_title": "",
+      "comment_text": "愛用のスマホスタンド",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:27:24",
+      "updated_at": "2023-01-10 14:27:24"
+    },
+    {
+      "comment_id": "28809",
+      "comment_title": "",
+      "comment_text": "お風呂上がりの時につける、ヘアオイル！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:27:36",
+      "updated_at": "2023-01-10 14:27:36"
+    },
+    {
+      "comment_id": "28810",
+      "comment_title": "",
+      "comment_text": "カフェインレスのティーバッグやコーヒー！ホテルで寝る前と朝に絶対温かいの飲んでいます！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-01-10 14:27:48",
+      "updated_at": "2023-01-10 14:27:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

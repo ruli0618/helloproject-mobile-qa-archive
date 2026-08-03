@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 362,
+    "content_id": "11419",
+    "content_title": "花を貰うなら何が嬉しいですか？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2019-07-09 10:00:00",
+    "created_at": "2019-05-24 10:47:00",
+    "updated_at": "2019-07-05 18:41:44",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11420",
+    "next_id": "11418"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "26750",
+      "comment_title": "",
+      "comment_text": "チーズボール食べたい。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:02",
+      "updated_at": "2022-08-17 15:38:02"
+    },
+    {
+      "comment_id": "26753",
+      "comment_title": "",
+      "comment_text": "「寝ちゃった」です。\nこのアンケートを書かなきゃいけなかったのに、いつの間にか寝ててお母さんに起こされた後の一言です！笑",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:33",
+      "updated_at": "2022-08-17 15:38:33"
+    },
+    {
+      "comment_id": "26751",
+      "comment_title": "",
+      "comment_text": "ハッピーうれピーよろピくね",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:13",
+      "updated_at": "2022-08-17 15:38:13"
+    },
+    {
+      "comment_id": "26752",
+      "comment_title": "",
+      "comment_text": "「美味しい！」です！\nとっても美味しいコーヒー牛乳飲みました♡",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:23",
+      "updated_at": "2022-08-17 15:38:23"
+    },
+    {
+      "comment_id": "26754",
+      "comment_title": "",
+      "comment_text": "ステーキ食べたい。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:42",
+      "updated_at": "2022-08-17 15:38:42"
+    },
+    {
+      "comment_id": "26755",
+      "comment_title": "",
+      "comment_text": "溶き卵にしてスープに入れればいっか。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-08-17 15:38:54",
+      "updated_at": "2022-08-17 15:38:54"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

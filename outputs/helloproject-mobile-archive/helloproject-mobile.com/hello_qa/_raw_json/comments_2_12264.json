@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14497",
+      "comment_title": "",
+      "comment_text": "普通の、学校に通う平日を過ごしたいです。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:35:31",
+      "updated_at": "2019-10-11 16:35:31"
+    },
+    {
+      "comment_id": "14496",
+      "comment_title": "",
+      "comment_text": "鬼ごっこ！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:35:21",
+      "updated_at": "2019-10-11 16:35:21"
+    },
+    {
+      "comment_id": "14504",
+      "comment_title": "",
+      "comment_text": "遠足をする！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:37:13",
+      "updated_at": "2019-10-11 16:37:13"
+    },
+    {
+      "comment_id": "14505",
+      "comment_title": "",
+      "comment_text": "キッズメニューを食べる。\nお子様ランチを食べる。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-11 16:37:28",
+      "updated_at": "2019-10-11 16:37:28"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

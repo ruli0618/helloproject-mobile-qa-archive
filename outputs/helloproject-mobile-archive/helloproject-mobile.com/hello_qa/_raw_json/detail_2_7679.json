@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "7679",
+    "content_title": "自分のチャームポイントを教えてください。",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2017-12-05 10:00:00",
+    "created_at": "2017-10-02 18:32:51",
+    "updated_at": "2017-10-10 16:26:04",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7984",
+    "next_id": "7678"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

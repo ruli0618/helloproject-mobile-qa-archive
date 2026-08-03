@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "32781",
+      "comment_title": "",
+      "comment_text": "何も考えずに、音楽を爆音で聴くこと。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:02:13",
+      "updated_at": "2024-02-13 11:11:06"
+    },
+    {
+      "comment_id": "32784",
+      "comment_title": "",
+      "comment_text": "整体や足つぼなど、メンテナンスに行って寝落ちする！\n寝てしまう罪悪感もないので、一番リラックス出来ます！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:02:40",
+      "updated_at": "2024-02-06 17:02:40"
+    },
+    {
+      "comment_id": "32782",
+      "comment_title": "",
+      "comment_text": "ゲームをする。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:02:22",
+      "updated_at": "2024-02-06 17:02:22"
+    },
+    {
+      "comment_id": "32783",
+      "comment_title": "",
+      "comment_text": "あたたかい場所であたたかい飲み物を飲んで、優しい音楽を聴く。お洋服はもふもふで、明かりはオレンジ色だともっといいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:02:30",
+      "updated_at": "2024-02-06 17:02:30"
+    },
+    {
+      "comment_id": "32785",
+      "comment_title": "",
+      "comment_text": "楽しく料理をする！\n料理をするときは余計なことを考えないで、どうやったら美味しく作れるかだけを考えています！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:02:52",
+      "updated_at": "2024-02-06 17:02:52"
+    },
+    {
+      "comment_id": "32786",
+      "comment_title": "",
+      "comment_text": "音楽を聴きながらお散歩したり、ぼーっと考え事をします！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:03:02",
+      "updated_at": "2024-02-06 17:03:02"
+    },
+    {
+      "comment_id": "32787",
+      "comment_title": "",
+      "comment_text": "好きな漫画を読んだり、ゲームをしてリラックスします。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:03:10",
+      "updated_at": "2024-02-06 17:03:10"
+    },
+    {
+      "comment_id": "32788",
+      "comment_title": "",
+      "comment_text": "独り言をたくさん言ったり、ゆっくりしたり、あったかい飲み物を飲むことです！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:03:17",
+      "updated_at": "2024-02-06 17:03:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

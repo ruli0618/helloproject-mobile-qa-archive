@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22681",
+      "comment_title": "",
+      "comment_text": "20歳っていう自分の年齢にびっくりです。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:19:05",
+      "updated_at": "2021-09-17 13:19:05"
+    },
+    {
+      "comment_id": "22680",
+      "comment_title": "",
+      "comment_text": "テーマパークの料金が大人料金になったこと。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:18:51",
+      "updated_at": "2021-09-17 13:18:51"
+    },
+    {
+      "comment_id": "22682",
+      "comment_title": "",
+      "comment_text": "ヘアメイクや服、オシャレの楽しさに気付いタコとです！",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:30:32",
+      "updated_at": "2021-09-17 13:44:10"
+    },
+    {
+      "comment_id": "22683",
+      "comment_title": "",
+      "comment_text": "お仕事とプライベートの区別をきちんと付けられるようになった気がします。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:30:45",
+      "updated_at": "2021-09-17 13:30:45"
+    },
+    {
+      "comment_id": "22684",
+      "comment_title": "",
+      "comment_text": "わさびが食べれるようになった。",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:30:55",
+      "updated_at": "2021-09-17 13:30:55"
+    },
+    {
+      "comment_id": "22685",
+      "comment_title": "",
+      "comment_text": "公園の雲梯に足がつくようになっていたこと！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:31:03",
+      "updated_at": "2021-09-17 13:31:03"
+    },
+    {
+      "comment_id": "22686",
+      "comment_title": "",
+      "comment_text": "紅茶を飲めるようになった事です。",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:31:10",
+      "updated_at": "2021-09-17 13:31:10"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

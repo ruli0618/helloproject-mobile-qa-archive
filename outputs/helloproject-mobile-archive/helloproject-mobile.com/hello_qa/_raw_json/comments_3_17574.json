@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "24671",
+      "comment_title": "",
+      "comment_text": "パワー！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:24:29",
+      "updated_at": "2022-01-28 18:24:29"
+    },
+    {
+      "comment_id": "24674",
+      "comment_title": "",
+      "comment_text": "計画性。私の性格上計画性が無いのは一生の課題だと思います…！！\nしっかりと計画して有言実行できる人になりたいです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:25:29",
+      "updated_at": "2022-01-28 18:25:29"
+    },
+    {
+      "comment_id": "24672",
+      "comment_title": "",
+      "comment_text": "語彙力。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:24:41",
+      "updated_at": "2022-01-28 18:24:41"
+    },
+    {
+      "comment_id": "24673",
+      "comment_title": "",
+      "comment_text": "睡眠！1番大事だし、1番足りていないからです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:24:52",
+      "updated_at": "2022-01-28 18:24:52"
+    },
+    {
+      "comment_id": "24675",
+      "comment_title": "",
+      "comment_text": "身長",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:25:36",
+      "updated_at": "2022-01-28 18:25:36"
+    },
+    {
+      "comment_id": "24676",
+      "comment_title": "",
+      "comment_text": "メンタル、決断力。。行動力！！\n\n結構すぐ溜め込んでボーンって爆発して泣いたりとかするのでメンタル強化したいなって思いました（笑）\n決断力は、自分との約束を守れないときがあるので。。これを必ずやる！！って決めても疲れて寝たりとかするので、決めたことをちゃんと守っていけるようにしていきたいと思いました！！\n行動力は。。決めたことをすぐ行動に移せるようにしたいです！！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 18:25:44",
+      "updated_at": "2022-01-28 18:25:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

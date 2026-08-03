@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21447",
+      "comment_title": "",
+      "comment_text": "基本夢は見ないタイプだけど、最近だと夢の国に行く夢が楽しかったです！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 15:44:58",
+      "updated_at": "2021-05-14 15:44:58"
+    },
+    {
+      "comment_id": "21446",
+      "comment_title": "",
+      "comment_text": "今日の夢は、壮大に忘れ物をする夢。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 15:44:44",
+      "updated_at": "2021-05-14 15:44:44"
+    },
+    {
+      "comment_id": "21448",
+      "comment_title": "",
+      "comment_text": "小さいゴキブリが出た夢。\n起きた時は鳥肌で、家中の壁と天井と床を見ました。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 15:45:11",
+      "updated_at": "2021-05-14 15:45:11"
+    },
+    {
+      "comment_id": "21449",
+      "comment_title": "",
+      "comment_text": "ジェットコースターに乗って人間の体内を旅する夢。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 15:45:21",
+      "updated_at": "2021-05-14 15:45:21"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

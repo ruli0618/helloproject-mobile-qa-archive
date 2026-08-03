@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22793",
+      "comment_title": "",
+      "comment_text": "1わんちゃん\n2マイクロブタ\n3ねこ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:26:44",
+      "updated_at": "2021-09-17 14:26:44"
+    },
+    {
+      "comment_id": "22796",
+      "comment_title": "",
+      "comment_text": "うさぎちゃん♡\nわんちゃんねこちゃん♡\n順位なんてつけられません！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:27:19",
+      "updated_at": "2021-09-17 14:27:19"
+    },
+    {
+      "comment_id": "22797",
+      "comment_title": "",
+      "comment_text": "わんちゃん\nねこちゃん\nモルモット\nペットを飼ったことがないので、飼ってみたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:27:29",
+      "updated_at": "2021-09-17 14:27:29"
+    },
+    {
+      "comment_id": "22798",
+      "comment_title": "",
+      "comment_text": "1.犬\n2.いるか\n3.ねこ\nわんちゃんだいすきです！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:27:41",
+      "updated_at": "2021-09-17 14:27:41"
+    },
+    {
+      "comment_id": "22799",
+      "comment_title": "",
+      "comment_text": "1位 猫\n2位 犬\n3位 パンダ\nです！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:27:54",
+      "updated_at": "2021-09-17 14:27:54"
+    },
+    {
+      "comment_id": "22801",
+      "comment_title": "",
+      "comment_text": "1クオッカワラビー\n2シロイルカ\n3犬",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:28:22",
+      "updated_at": "2021-09-17 14:28:22"
+    },
+    {
+      "comment_id": "22802",
+      "comment_title": "",
+      "comment_text": "1位！！ 犬＆ハムスター\n2位！！ 猫\n3位！！ ユニコーン",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 14:28:33",
+      "updated_at": "2021-09-17 14:28:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

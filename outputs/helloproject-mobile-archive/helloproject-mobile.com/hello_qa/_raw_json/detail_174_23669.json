@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "23669",
+    "content_title": "もし昨日に戻れるなら、やり直したいことは何ですか？",
+    "content_sub_title": "",
+    "category_id": "174",
+    "release_date": "2025-02-16 10:00:00",
+    "created_at": "2025-01-23 10:27:43",
+    "updated_at": "2025-02-14 17:30:15",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "23670",
+    "next_id": "23668"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

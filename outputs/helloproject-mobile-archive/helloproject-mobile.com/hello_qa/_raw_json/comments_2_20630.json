@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30956",
+      "comment_title": "",
+      "comment_text": "やんな？",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:34:57",
+      "updated_at": "2023-08-02 11:34:57"
+    },
+    {
+      "comment_id": "30955",
+      "comment_title": "",
+      "comment_text": "こないだ〇〇行ったやんか～。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:34:50",
+      "updated_at": "2023-08-02 11:34:50"
+    },
+    {
+      "comment_id": "30961",
+      "comment_title": "",
+      "comment_text": "やけん\n可愛いなぁ～。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:35:33",
+      "updated_at": "2023-08-02 11:35:33"
+    },
+    {
+      "comment_id": "30962",
+      "comment_title": "",
+      "comment_text": "「なんでやねん」\n素でいうの面白い！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:35:51",
+      "updated_at": "2023-08-02 11:35:51"
+    },
+    {
+      "comment_id": "30963",
+      "comment_title": "",
+      "comment_text": "したっけ\n北海道の方言が可愛くて大好きです！\n遠藤彩加里ちゃんのたまに出る方言が本当に可愛い。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:36:02",
+      "updated_at": "2023-08-02 11:36:02"
+    },
+    {
+      "comment_id": "30964",
+      "comment_title": "",
+      "comment_text": "おおきに",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:36:17",
+      "updated_at": "2023-08-02 11:36:17"
+    },
+    {
+      "comment_id": "30965",
+      "comment_title": "",
+      "comment_text": "「うちっち」\nです。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 11:36:25",
+      "updated_at": "2023-08-02 11:36:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

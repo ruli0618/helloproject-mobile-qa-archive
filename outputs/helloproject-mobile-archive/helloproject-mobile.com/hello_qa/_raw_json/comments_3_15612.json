@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "20912",
+      "comment_title": "",
+      "comment_text": "ずんだ餅！！\n最近好きだから。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-09 12:28:02",
+      "updated_at": "2021-03-09 12:28:02"
+    },
+    {
+      "comment_id": "20915",
+      "comment_title": "",
+      "comment_text": "魚介類食べ放題！\n特にカニ、うに、いくら、たらこをお腹いっぱいになるまで食べたいです！！！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-09 12:29:01",
+      "updated_at": "2021-03-09 12:29:01"
+    },
+    {
+      "comment_id": "20913",
+      "comment_title": "",
+      "comment_text": "牛タン",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-09 12:28:30",
+      "updated_at": "2021-03-09 12:28:30"
+    },
+    {
+      "comment_id": "20914",
+      "comment_title": "",
+      "comment_text": "甘いものもしょっぱい物も食べ続けられないので、白米！おかず付きでお腹いっぱいに食べたいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-09 12:28:48",
+      "updated_at": "2021-03-09 12:28:48"
+    },
+    {
+      "comment_id": "20916",
+      "comment_title": "",
+      "comment_text": "チーズケーキ",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-09 12:29:12",
+      "updated_at": "2021-03-09 12:29:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

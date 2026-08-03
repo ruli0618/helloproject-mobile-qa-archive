@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "20507",
+    "content_title": "今の気分に合う一曲はなんですか？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2023-08-04 10:00:00",
+    "created_at": "2023-07-18 17:34:21",
+    "updated_at": "2023-08-03 17:19:52",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "20508",
+    "next_id": "20506"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

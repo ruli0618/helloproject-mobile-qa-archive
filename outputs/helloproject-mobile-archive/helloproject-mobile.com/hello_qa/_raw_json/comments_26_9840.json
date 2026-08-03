@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "10100",
+      "comment_title": "",
+      "comment_text": "「平成とは」で検索する。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-09-06 18:50:53",
+      "updated_at": "2018-09-06 18:50:53"
+    },
+    {
+      "comment_id": "10103",
+      "comment_title": "",
+      "comment_text": "海に遊びに行きたい。\n中学1年生の時に行った臨海学校以来、海に行っても水に入っていないので、海で泳ぎたいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-09-06 18:51:34",
+      "updated_at": "2018-09-06 18:51:34"
+    },
+    {
+      "comment_id": "10104",
+      "comment_title": "",
+      "comment_text": "大嫌いなジェットコースターに、もう1回乗ってみる。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-09-06 18:51:47",
+      "updated_at": "2018-09-06 18:51:47"
+    },
+    {
+      "comment_id": "10105",
+      "comment_title": "",
+      "comment_text": "「平成の時代に生まれました！！」って言いたい。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-09-06 18:52:03",
+      "updated_at": "2018-09-06 18:52:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

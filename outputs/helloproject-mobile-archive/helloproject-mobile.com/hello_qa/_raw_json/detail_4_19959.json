@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 162,
+    "content_id": "19959",
+    "content_title": "好きなコンサート・イベント会場はどこ？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2023-05-01 10:00:00",
+    "created_at": "2023-04-04 16:36:54",
+    "updated_at": "2023-04-28 10:48:46",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "19960",
+    "next_id": "19786"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

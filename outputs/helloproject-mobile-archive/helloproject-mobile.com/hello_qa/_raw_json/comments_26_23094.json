@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "35462",
+      "comment_title": "",
+      "comment_text": "ハンバーグ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:18:06",
+      "updated_at": "2024-10-15 13:18:06"
+    },
+    {
+      "comment_id": "35463",
+      "comment_title": "",
+      "comment_text": "納豆ごはんです♡\n毎日食べられる！消費量NO.1だと思いますっ。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:18:16",
+      "updated_at": "2024-10-15 13:18:16"
+    },
+    {
+      "comment_id": "35464",
+      "comment_title": "",
+      "comment_text": "あったかいごはん！\n味の濃いおかずがあるとより幸せです。笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:18:26",
+      "updated_at": "2024-10-15 13:18:26"
+    },
+    {
+      "comment_id": "35465",
+      "comment_title": "",
+      "comment_text": "ステーキ♡おにく",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:18:38",
+      "updated_at": "2024-10-15 13:18:38"
+    },
+    {
+      "comment_id": "35466",
+      "comment_title": "",
+      "comment_text": "いっぱいありますね、、牛カツ！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:18:48",
+      "updated_at": "2024-10-15 13:18:48"
+    },
+    {
+      "comment_id": "35468",
+      "comment_title": "",
+      "comment_text": "サムギョプサルです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:19:18",
+      "updated_at": "2024-10-15 13:19:18"
+    },
+    {
+      "comment_id": "35469",
+      "comment_title": "",
+      "comment_text": "お母さんの作ったハンバーグです。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:19:30",
+      "updated_at": "2024-10-15 13:19:30"
+    },
+    {
+      "comment_id": "35470",
+      "comment_title": "",
+      "comment_text": "カルボナーラです！！\nだーーーい好きだからです！",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:19:43",
+      "updated_at": "2024-10-15 13:19:43"
+    },
+    {
+      "comment_id": "35471",
+      "comment_title": "",
+      "comment_text": "梅こんぶです！",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:20:00",
+      "updated_at": "2024-10-15 13:20:00"
+    },
+    {
+      "comment_id": "35472",
+      "comment_title": "",
+      "comment_text": "オムライスです！\nオムライスを食べたら、頑張ろうと思えるからです！",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:20:12",
+      "updated_at": "2024-10-15 13:20:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "category": [
+    {
+      "idx": 1,
+      "category_id": "2",
+      "category_title": "モーニング娘。'26",
+      "category_content": "",
+      "category_color": "#d92c1b",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 2,
+      "category_id": "3",
+      "category_title": "アンジュルム",
+      "category_content": "",
+      "category_color": "#1d91cd",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 3,
+      "category_id": "4",
+      "category_title": "Juice=Juice",
+      "category_content": "",
+      "category_color": "#7263aa",
+      "menu_id": "6",
+      "is_new": "1"
+    },
+    {
+      "idx": 4,
+      "category_id": "26",
+      "category_title": "つばきファクトリー",
+      "category_content": "",
+      "category_color": "#ef93bb",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 5,
+      "category_id": "94",
+      "category_title": "BEYOOOOONDS",
+      "category_content": "",
+      "category_color": "#20a239",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 6,
+      "category_id": "131",
+      "category_title": "OCHA NORMA",
+      "category_content": "",
+      "category_color": "#f1881a",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 7,
+      "category_id": "174",
+      "category_title": "ロージークロニクル",
+      "category_content": "",
+      "category_color": "#f5d11f",
+      "menu_id": "6",
+      "is_new": "0"
+    },
+    {
+      "idx": 8,
+      "category_id": "1",
+      "category_title": "OG",
+      "category_content": "",
+      "category_color": "#0075C2",
+      "menu_id": "6",
+      "is_new": "0"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

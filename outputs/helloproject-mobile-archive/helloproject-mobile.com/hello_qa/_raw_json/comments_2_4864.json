@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "3745",
+      "comment_title": "",
+      "comment_text": "エアコンを少し我慢する。\n夏バテしない。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-06-28 15:56:37",
+      "updated_at": "2016-06-28 15:56:37"
+    },
+    {
+      "comment_id": "3743",
+      "comment_title": "",
+      "comment_text": "「どんな夏にしたい」ということより、絶対に焼けたくない。\n今年こそ…。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-06-28 15:56:17",
+      "updated_at": "2016-06-28 15:56:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

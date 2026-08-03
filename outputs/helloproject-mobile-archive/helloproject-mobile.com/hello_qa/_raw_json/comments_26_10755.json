@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "11386",
+      "comment_title": "",
+      "comment_text": "流行のメイク動画を配信するか、世界で流行っている物や場所・食などを発信する動画",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-05 13:22:38",
+      "updated_at": "2019-02-05 13:22:38"
+    },
+    {
+      "comment_id": "11389",
+      "comment_title": "",
+      "comment_text": "ASMR\nお菓子作りをしながらの音フェチ動画を配信したいです。\nいつも見ているので。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-05 13:24:36",
+      "updated_at": "2019-02-05 13:24:36"
+    },
+    {
+      "comment_id": "11390",
+      "comment_title": "",
+      "comment_text": "ひたすら自分の思ったことやハマっていることを紹介する動画を配信する。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-05 13:24:46",
+      "updated_at": "2019-02-05 13:24:46"
+    },
+    {
+      "comment_id": "11391",
+      "comment_title": "",
+      "comment_text": "最高級黒毛和牛5万円分一人で食べてみた。\nをやりたいです。私、お肉大好きです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-05 13:24:53",
+      "updated_at": "2019-02-05 13:24:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

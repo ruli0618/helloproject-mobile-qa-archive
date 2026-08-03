@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "21832",
+      "comment_title": "",
+      "comment_text": "一つの事を考えすぎること。\n変にどんどんネガティブになっていきつつあります！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:23:46",
+      "updated_at": "2021-07-06 14:23:46"
+    },
+    {
+      "comment_id": "21835",
+      "comment_title": "",
+      "comment_text": "切り替えが苦手なところです。\n失敗しちゃったり、自分の評価が気になりすぎるといつまでもそのことを引きずって、色んな人に｢どうかな～｣と客観的な意見を求めにいってしまうので気をつけたいです…。",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:24:20",
+      "updated_at": "2021-07-06 14:24:20"
+    },
+    {
+      "comment_id": "21833",
+      "comment_title": "",
+      "comment_text": "好きな物がころころ変わるところです。\n自分の中でブームがきたらとことんのめり込みますが、すぐに飽きます！笑",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:24:00",
+      "updated_at": "2021-07-06 14:24:00"
+    },
+    {
+      "comment_id": "21834",
+      "comment_title": "",
+      "comment_text": "自分の経験した面白いエピソードを人に話すときに、より面白いと思って欲しくて全部の状況を長々と説明してしまうところ。\n話が長い自覚はあるけれど、要約する力もないのでどうにかしたいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:24:08",
+      "updated_at": "2021-07-06 14:24:08"
+    },
+    {
+      "comment_id": "21836",
+      "comment_title": "",
+      "comment_text": "時間に細かいところです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:24:29",
+      "updated_at": "2021-07-06 14:24:29"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

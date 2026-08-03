@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "32300",
+      "comment_title": "",
+      "comment_text": "かむかむレモンってうまくね。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 13:54:56",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "32232",
+      "comment_title": "",
+      "comment_text": "23好きなことに理由はありません！",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-11 16:16:44",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "32303",
+      "comment_title": "",
+      "comment_text": "くじゃくーー",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 13:55:28",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "32386",
+      "comment_title": "",
+      "comment_text": "ありすぎるけど、、、\n今日も愛してくれてありがとう。",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:47:10",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "32384",
+      "comment_title": "",
+      "comment_text": "世界は広い！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:46:42",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "32468",
+      "comment_title": "",
+      "comment_text": "「ビタミンME」のポンポンは、ミスではなく、振り付けで落としています！！！\nライブ中のハプニングではないです！",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:19:07",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

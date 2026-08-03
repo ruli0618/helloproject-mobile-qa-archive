@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 262,
+    "content_id": "16270",
+    "content_title": "最近よく話すようになったメンバーは？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2021-07-05 10:00:00",
+    "created_at": "2021-06-28 14:38:45",
+    "updated_at": "2021-07-02 09:52:05",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16305",
+    "next_id": "16021"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 82,
+    "content_id": "9340",
+    "content_title": "夏といえばこれ！というもの・ことを教えてください。",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2018-07-06 10:00:00",
+    "created_at": "2018-06-26 18:06:26",
+    "updated_at": "2018-07-06 09:57:20",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9341",
+    "next_id": "9170"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

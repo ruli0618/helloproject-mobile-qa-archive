@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 22,
+    "content_id": "11071",
+    "content_title": "服装を決める時、まず何から決めますか？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2019-04-18 10:00:00",
+    "created_at": "2019-03-19 18:19:17",
+    "updated_at": "2019-04-17 18:49:09",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11072",
+    "next_id": "11070"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

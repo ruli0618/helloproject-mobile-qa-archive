@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "24093",
+    "content_title": "得意な家事は何ですか？",
+    "content_sub_title": "",
+    "category_id": "174",
+    "release_date": "2025-04-20 10:00:00",
+    "created_at": "2025-04-08 15:26:13",
+    "updated_at": "2025-04-18 17:23:17",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24100",
+    "next_id": "23890"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

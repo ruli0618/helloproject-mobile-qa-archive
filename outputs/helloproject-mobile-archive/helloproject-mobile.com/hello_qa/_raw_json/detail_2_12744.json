@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "12744",
+    "content_title": "好きなおでんの具は何ですか？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2020-02-11 10:00:00",
+    "created_at": "2019-12-20 17:17:43",
+    "updated_at": "2020-02-10 10:20:25",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "12745",
+    "next_id": "12743"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

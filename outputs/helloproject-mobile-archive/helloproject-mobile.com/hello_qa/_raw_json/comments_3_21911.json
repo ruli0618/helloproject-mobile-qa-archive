@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33268",
+      "comment_title": "",
+      "comment_text": "チャーハン",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:25:46",
+      "updated_at": "2024-03-14 15:25:46"
+    },
+    {
+      "comment_id": "33271",
+      "comment_title": "",
+      "comment_text": "だし巻き玉子です！！！\nお出汁にひったひたにつかってるだし巻き玉子が美味しい！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:15",
+      "updated_at": "2024-03-14 15:26:15"
+    },
+    {
+      "comment_id": "33269",
+      "comment_title": "",
+      "comment_text": "母ちゃんの作る卵焼き",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:25:53",
+      "updated_at": "2024-03-14 15:25:53"
+    },
+    {
+      "comment_id": "33270",
+      "comment_title": "",
+      "comment_text": "母が作る親子丼",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:00",
+      "updated_at": "2024-03-14 15:26:00"
+    },
+    {
+      "comment_id": "33272",
+      "comment_title": "",
+      "comment_text": "ごま油で炒めたもやしの上に、ふわっと炒めた玉子をのせて、さらにその上から甘酢餡かけをかけたおかずをお母さんがよく作ってくれて、大好きです！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:27",
+      "updated_at": "2024-03-14 15:26:27"
+    },
+    {
+      "comment_id": "33273",
+      "comment_title": "",
+      "comment_text": "キクラゲと卵の炒め物が好きです！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:34",
+      "updated_at": "2024-03-14 15:26:34"
+    },
+    {
+      "comment_id": "33274",
+      "comment_title": "",
+      "comment_text": "卵焼き",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:41",
+      "updated_at": "2024-03-14 15:26:41"
+    },
+    {
+      "comment_id": "33275",
+      "comment_title": "",
+      "comment_text": "卵焼き！！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:26:48",
+      "updated_at": "2024-03-14 15:26:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

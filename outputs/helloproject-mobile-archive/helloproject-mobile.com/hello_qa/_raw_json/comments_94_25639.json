@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "39988",
+      "comment_title": "",
+      "comment_text": "こぶしファクトリーさん！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:49:36",
+      "updated_at": "2026-01-26 11:49:36"
+    },
+    {
+      "comment_id": "39989",
+      "comment_title": "",
+      "comment_text": "K-POPです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:49:46",
+      "updated_at": "2026-01-26 11:49:46"
+    },
+    {
+      "comment_id": "39991",
+      "comment_title": "",
+      "comment_text": "邦ロックバンド！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:50:10",
+      "updated_at": "2026-01-26 11:50:10"
+    },
+    {
+      "comment_id": "39992",
+      "comment_title": "",
+      "comment_text": "移動中に寝たい時は映画のサントラをよく聴きます！\nシチュエーションによって色んなプレイリストを作るのが趣味なので、割と色んなジャンルを聴いてる気がします！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:50:26",
+      "updated_at": "2026-01-26 11:50:26"
+    },
+    {
+      "comment_id": "39993",
+      "comment_title": "",
+      "comment_text": "J-POPや宝塚歌劇団の劇中歌をよく聴きます！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:50:38",
+      "updated_at": "2026-01-26 11:50:38"
+    },
+    {
+      "comment_id": "39994",
+      "comment_title": "",
+      "comment_text": "最近はクラシックをよく聴きます！\nよくリピートするのはベートーヴェンの交響曲第7番！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:50:49",
+      "updated_at": "2026-01-29 19:00:33"
+    },
+    {
+      "comment_id": "39995",
+      "comment_title": "",
+      "comment_text": "アイドルソングが多いです！\n最近は松浦亜弥さんのアルバムを聴いています…！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:51:02",
+      "updated_at": "2026-01-29 19:00:49"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

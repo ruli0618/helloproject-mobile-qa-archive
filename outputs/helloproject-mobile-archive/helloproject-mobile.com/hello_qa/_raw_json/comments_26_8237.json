@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8087",
+      "comment_title": "",
+      "comment_text": "巻きツイン。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 12:04:07",
+      "updated_at": "2017-12-13 12:04:07"
+    },
+    {
+      "comment_id": "8090",
+      "comment_title": "",
+      "comment_text": "私自身が挑戦しようと思ったことはないのですが、ショートカットの女の子が好きです。\nショートカットの女の子がたまにウェーブをかけているのを見ると、可愛さが増す気がします。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 12:04:46",
+      "updated_at": "2017-12-13 12:04:46"
+    },
+    {
+      "comment_id": "8091",
+      "comment_title": "",
+      "comment_text": "ツインテール！！！\n高めのツインテールが好きです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 12:04:59",
+      "updated_at": "2017-12-13 12:04:59"
+    },
+    {
+      "comment_id": "8092",
+      "comment_title": "",
+      "comment_text": "ゆる巻きです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 12:05:09",
+      "updated_at": "2017-12-13 12:05:09"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

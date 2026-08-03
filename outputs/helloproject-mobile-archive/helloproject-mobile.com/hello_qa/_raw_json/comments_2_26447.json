@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "41289",
+      "comment_title": "",
+      "comment_text": "納豆",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:13:26",
+      "updated_at": "2026-06-23 14:13:26"
+    },
+    {
+      "comment_id": "41290",
+      "comment_title": "",
+      "comment_text": "ラー油！何にでもかけたいです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:13:38",
+      "updated_at": "2026-06-23 14:13:38"
+    },
+    {
+      "comment_id": "41291",
+      "comment_title": "",
+      "comment_text": "温泉水",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:13:48",
+      "updated_at": "2026-06-23 14:13:48"
+    },
+    {
+      "comment_id": "41292",
+      "comment_title": "",
+      "comment_text": "最近だと、東北のおばあちゃんが送ってくれた手作りの辛いお味噌。お豆腐や野菜やおにぎりとか、色々使えて美味しい。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:14:02",
+      "updated_at": "2026-06-23 14:14:02"
+    },
+    {
+      "comment_id": "41293",
+      "comment_title": "",
+      "comment_text": "ヨーグルト！！特に、たんぱく質が取れるヨーグルトがお気に入りです。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:14:18",
+      "updated_at": "2026-06-23 14:14:18"
+    },
+    {
+      "comment_id": "41294",
+      "comment_title": "",
+      "comment_text": "スライスチーズ\n卵焼きに入れたり、パンにのせたりします。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:14:31",
+      "updated_at": "2026-06-23 14:14:31"
+    },
+    {
+      "comment_id": "41295",
+      "comment_title": "",
+      "comment_text": "梅干し（白干し梅）",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:14:52",
+      "updated_at": "2026-06-23 14:14:52"
+    },
+    {
+      "comment_id": "41296",
+      "comment_title": "",
+      "comment_text": "めんこちゃん",
+      "user_name": "杉原明紗",
+      "user_icon": "0",
+      "artist_id": "168",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:14:58",
+      "updated_at": "2026-06-23 14:14:58"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

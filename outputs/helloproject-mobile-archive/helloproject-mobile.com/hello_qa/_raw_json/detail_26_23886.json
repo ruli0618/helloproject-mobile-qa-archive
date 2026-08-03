@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "23886",
+    "content_title": "最近見た夢はどんな夢ですか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2025-04-10 10:00:00",
+    "created_at": "2025-02-25 13:43:34",
+    "updated_at": "2025-04-09 16:17:14",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24124",
+    "next_id": "23879"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

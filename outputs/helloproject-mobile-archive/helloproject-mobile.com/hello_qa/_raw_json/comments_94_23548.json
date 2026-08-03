@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "36125",
+      "comment_title": "",
+      "comment_text": "今はもち巾着一強です！！！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:23:22",
+      "updated_at": "2024-12-23 16:23:22"
+    },
+    {
+      "comment_id": "36126",
+      "comment_title": "",
+      "comment_text": "1.牛すじ\n2.大根\n3.餅巾着",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:23:34",
+      "updated_at": "2024-12-23 16:23:34"
+    },
+    {
+      "comment_id": "36128",
+      "comment_title": "",
+      "comment_text": "ちくわぶ\nはんぺん\nだいこん",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:24:07",
+      "updated_at": "2024-12-23 16:24:07"
+    },
+    {
+      "comment_id": "36129",
+      "comment_title": "",
+      "comment_text": "1.里芋\n2.餅きんちゃく\n3.つくね",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:24:22",
+      "updated_at": "2024-12-23 16:24:22"
+    },
+    {
+      "comment_id": "36130",
+      "comment_title": "",
+      "comment_text": "はんぺん！\nちくわぶ！\nがんも！！！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:24:38",
+      "updated_at": "2024-12-23 16:24:38"
+    },
+    {
+      "comment_id": "36131",
+      "comment_title": "",
+      "comment_text": "大根・白滝・もち巾着",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:24:55",
+      "updated_at": "2024-12-23 16:24:55"
+    },
+    {
+      "comment_id": "36132",
+      "comment_title": "",
+      "comment_text": "1. ちくわぶ\n2. しらたき\n3. もち巾着\n出汁が沁みやすい具材も好きです！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:25:10",
+      "updated_at": "2024-12-23 16:25:10"
+    },
+    {
+      "comment_id": "36133",
+      "comment_title": "",
+      "comment_text": "1.はんぺん\n2.はんぺん\n3.はんぺん",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 16:25:26",
+      "updated_at": "2024-12-23 16:25:26"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

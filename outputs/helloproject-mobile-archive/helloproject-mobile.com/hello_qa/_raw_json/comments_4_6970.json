@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "6611",
+      "comment_title": "",
+      "comment_text": "お好み焼き！ 広島県出身なので。\n他には納豆が大好きで、熊本の九州本仕込みっていう赤いパッケージの納豆がすっごい美味しいんです。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-19 11:16:56",
+      "updated_at": "2017-07-19 12:38:52"
+    },
+    {
+      "comment_id": "17367",
+      "comment_title": "",
+      "comment_text": "冷やしトマト！\n私は、何も味つけせずに食べます！",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 11:28:40",
+      "updated_at": "2020-04-03 11:28:40"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

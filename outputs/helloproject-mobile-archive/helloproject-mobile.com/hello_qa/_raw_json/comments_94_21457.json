@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "32433",
+      "comment_title": "",
+      "comment_text": "誰かと行くなら立てたい！\n1人なら行き当たりばったりがいい！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:06:22",
+      "updated_at": "2023-12-14 15:06:22"
+    },
+    {
+      "comment_id": "32434",
+      "comment_title": "",
+      "comment_text": "行き当たりばったりです！明日行こうってなっても全然遠くまで行けるし、だいたい無計画で旅行に行くことが多いです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:06:33",
+      "updated_at": "2023-12-14 15:06:33"
+    },
+    {
+      "comment_id": "32436",
+      "comment_title": "",
+      "comment_text": "計画を立てる！\n調べるの大好きー！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:06:53",
+      "updated_at": "2023-12-14 15:06:53"
+    },
+    {
+      "comment_id": "32438",
+      "comment_title": "",
+      "comment_text": "行き当たりばったりです！\nこの前初めて1人でテーマパークに行ったんですけど、当日に行くと決めてノープランで1日過ごしました！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:07:19",
+      "updated_at": "2023-12-14 15:07:19"
+    },
+    {
+      "comment_id": "32439",
+      "comment_title": "",
+      "comment_text": "計画立てます！！！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:07:30",
+      "updated_at": "2023-12-14 15:07:30"
+    },
+    {
+      "comment_id": "32440",
+      "comment_title": "",
+      "comment_text": "計画は事前に緻密に立てるけど、当日は疲労度や直感で変更したりもします。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:07:40",
+      "updated_at": "2023-12-14 15:07:40"
+    },
+    {
+      "comment_id": "32441",
+      "comment_title": "",
+      "comment_text": "ある程度計画立てて行き当たりばったり派です！\n時間を無駄に使いたくないので、道順くらいは決めちゃいます！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:07:50",
+      "updated_at": "2023-12-14 15:07:50"
+    },
+    {
+      "comment_id": "32442",
+      "comment_title": "",
+      "comment_text": "ド計画派です。\n計画が狂うとドキドキしちゃう…。",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 15:08:04",
+      "updated_at": "2023-12-14 15:08:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

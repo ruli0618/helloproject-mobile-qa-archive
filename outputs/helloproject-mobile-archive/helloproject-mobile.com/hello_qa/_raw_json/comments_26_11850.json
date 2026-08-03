@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13548",
+      "comment_title": "",
+      "comment_text": "グッズなど全部フル装備で応援する。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-08 11:05:51",
+      "updated_at": "2019-08-08 11:05:51"
+    },
+    {
+      "comment_id": "13550",
+      "comment_title": "",
+      "comment_text": "友達と一緒に行って、たくさん声出して応援してみたいです。\nTシャツとかも着てみたい！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-08 11:06:15",
+      "updated_at": "2019-08-08 11:06:15"
+    },
+    {
+      "comment_id": "13551",
+      "comment_title": "",
+      "comment_text": "ペンライト持って、声出します！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-08 11:06:25",
+      "updated_at": "2019-08-08 11:06:25"
+    },
+    {
+      "comment_id": "13552",
+      "comment_title": "",
+      "comment_text": "Tシャツ絶対買いたい！\nタオルも首にかけてペンライトも持ちたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-08 11:06:34",
+      "updated_at": "2019-08-08 11:06:34"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

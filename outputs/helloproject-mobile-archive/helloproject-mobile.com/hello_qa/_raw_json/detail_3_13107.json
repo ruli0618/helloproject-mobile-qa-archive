@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "13107",
+    "content_title": "自分で自分を褒めてみてください！",
+    "content_sub_title": "",
+    "category_id": "3",
+    "release_date": "2020-03-11 10:00:00",
+    "created_at": "2020-02-19 18:44:31",
+    "updated_at": "2020-03-10 18:57:02",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13109",
+    "next_id": "13213"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

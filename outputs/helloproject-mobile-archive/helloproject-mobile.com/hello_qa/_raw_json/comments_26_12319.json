@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14869",
+      "comment_title": "",
+      "comment_text": "スノーボードやってみたいです。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 15:01:57",
+      "updated_at": "2019-10-15 15:01:57"
+    },
+    {
+      "comment_id": "14872",
+      "comment_title": "",
+      "comment_text": "たくさん外に出る！\n冬になると寒いのが苦手で、家に引きこもってしまいがちなので、、、。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 15:02:39",
+      "updated_at": "2019-10-15 15:02:39"
+    },
+    {
+      "comment_id": "14873",
+      "comment_title": "",
+      "comment_text": "インフルエンザ対策。\nもう既に流行り始めているので、対策をしていきたい。\nつばきに入ってからインフルエンザにならなかった年は、1度あるかないかくらいしかない。\n毎年風邪をひいてしまうので、早めの対策をする。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 15:02:58",
+      "updated_at": "2019-10-15 15:02:58"
+    },
+    {
+      "comment_id": "14874",
+      "comment_title": "",
+      "comment_text": "スノーボードをやりたいです！\n何年か前に家族と行って、すごく楽しかったのを覚えているのでまた行きたいです。\nいつか、つばきのメンバーと行けたらなと思います！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 15:03:11",
+      "updated_at": "2019-10-15 15:03:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

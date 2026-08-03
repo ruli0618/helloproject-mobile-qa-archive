@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "27210",
+      "comment_title": "",
+      "comment_text": "早着替えのスピードが速くなった。\n要領良くなった。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:48:27",
+      "updated_at": "2022-09-16 12:48:27"
+    },
+    {
+      "comment_id": "27213",
+      "comment_title": "",
+      "comment_text": "歩き方です！パフォーマンス中の自分の移動の仕方が不自然に感じていたので、春ツアーから今までずっと先輩方のかっこいい移動の仕方をみて学んでいます！！身についたかといわれるとまだぎこちない感じがするので、かっこよくランウェイを歩いてる感覚で移動できるようになりたいです！！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:48:50",
+      "updated_at": "2022-09-16 12:48:50"
+    },
+    {
+      "comment_id": "27211",
+      "comment_title": "",
+      "comment_text": "タオルの回し方",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:48:34",
+      "updated_at": "2022-09-16 12:48:34"
+    },
+    {
+      "comment_id": "27212",
+      "comment_title": "",
+      "comment_text": "ご飯は公演の1～2時間前に食べると丁度いいこと。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:48:41",
+      "updated_at": "2022-09-16 12:48:41"
+    },
+    {
+      "comment_id": "27214",
+      "comment_title": "",
+      "comment_text": "カメラに向かってキメ顔をすること。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:48:57",
+      "updated_at": "2022-09-16 12:48:57"
+    },
+    {
+      "comment_id": "27215",
+      "comment_title": "",
+      "comment_text": "練習することも大事だけど、コンサートに挑む気持ちの持っていき方も大事！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:49:05",
+      "updated_at": "2022-09-16 12:49:05"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

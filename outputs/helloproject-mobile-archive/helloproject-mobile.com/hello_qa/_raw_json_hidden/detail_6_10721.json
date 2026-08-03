@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "10721",
+    "content_title": "最近読んで面白かった本、雑誌は何ですか？",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2019-02-01 10:00:00",
+    "created_at": "2019-01-30 10:54:56",
+    "updated_at": "2019-01-31 19:28:26",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10745",
+    "next_id": "10165"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

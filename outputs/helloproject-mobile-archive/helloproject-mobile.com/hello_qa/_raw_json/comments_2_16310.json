@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21798",
+      "comment_title": "",
+      "comment_text": "かわいい動物の動画などを共有したがるところ。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:58:15",
+      "updated_at": "2021-07-06 13:58:15"
+    },
+    {
+      "comment_id": "21797",
+      "comment_title": "",
+      "comment_text": "自己肯定感が高いところ！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:58:01",
+      "updated_at": "2021-07-15 15:44:35"
+    },
+    {
+      "comment_id": "21805",
+      "comment_title": "",
+      "comment_text": "変なところで考えすぎるところ。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:59:26",
+      "updated_at": "2021-07-06 13:59:26"
+    },
+    {
+      "comment_id": "21806",
+      "comment_title": "",
+      "comment_text": "独り言が大きいので、これは独り言なのか、話しかけているのか、判断が難しいところ。\nあと、話すテンポがスローだから、話し終わるのに時間がかかります…。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:59:39",
+      "updated_at": "2021-07-06 13:59:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

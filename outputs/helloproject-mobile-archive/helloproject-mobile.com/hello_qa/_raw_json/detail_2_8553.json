@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 422,
+    "content_id": "8553",
+    "content_title": "自由研究の課題が出されました。テーマは何にする？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2018-04-03 10:00:00",
+    "created_at": "2018-02-13 13:45:54",
+    "updated_at": "2018-04-03 10:00:35",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8554",
+    "next_id": "8552"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

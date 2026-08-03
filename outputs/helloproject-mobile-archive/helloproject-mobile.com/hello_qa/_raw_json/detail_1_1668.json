@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 582,
+    "content_id": "1668",
+    "content_title": "今年の夏はこれがしたい！何かありますか？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2015-07-23 00:00:00",
+    "created_at": "2015-06-30 00:00:00",
+    "updated_at": "2015-07-18 20:15:12",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "1673",
+    "next_id": "1663"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

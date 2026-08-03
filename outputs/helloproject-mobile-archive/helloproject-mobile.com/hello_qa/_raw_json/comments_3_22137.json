@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33599",
+      "comment_title": "",
+      "comment_text": "ご飯が美味しくて空気が美味しい。\nとにかく美味しいです。\nご飯は海鮮だけではなくお肉も美味しすぎるし、本当になんでも美味しいんです。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:14",
+      "updated_at": "2024-05-02 13:01:14"
+    },
+    {
+      "comment_id": "33602",
+      "comment_title": "",
+      "comment_text": "長野県の良いところは、山に囲まれているので夏は涼しくて、冬はウィンタースポーツを楽しめるところ！空気もおいしいです！あと、8県がお隣さんなので色んな県からアクセスもしやすいかなって思います！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:42",
+      "updated_at": "2024-05-02 13:01:42"
+    },
+    {
+      "comment_id": "33600",
+      "comment_title": "",
+      "comment_text": "水道水が美味しい。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:25",
+      "updated_at": "2024-05-02 13:01:25"
+    },
+    {
+      "comment_id": "33601",
+      "comment_title": "",
+      "comment_text": "自然が豊かなところ、美味しいものがたくさんあるところ、わたしの親戚がたくさんいるところ。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:32",
+      "updated_at": "2024-05-02 13:01:32"
+    },
+    {
+      "comment_id": "33603",
+      "comment_title": "",
+      "comment_text": "落ち着いた雰囲気で、ご近所さんがみんな優しいです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:51",
+      "updated_at": "2024-05-02 13:01:51"
+    },
+    {
+      "comment_id": "33604",
+      "comment_title": "",
+      "comment_text": "穏やかでお散歩向きな道が沢山あるところです！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:01:59",
+      "updated_at": "2024-05-02 13:01:59"
+    },
+    {
+      "comment_id": "33605",
+      "comment_title": "",
+      "comment_text": "自然豊かで桜の名所が豊富。\n温泉もたくさんあります。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:02:08",
+      "updated_at": "2024-05-02 13:02:08"
+    },
+    {
+      "comment_id": "33606",
+      "comment_title": "",
+      "comment_text": "平和で暮らしやすい！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:02:16",
+      "updated_at": "2024-05-02 13:02:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

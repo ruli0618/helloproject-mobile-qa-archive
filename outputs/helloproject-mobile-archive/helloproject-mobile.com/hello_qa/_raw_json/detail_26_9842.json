@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 402,
+    "content_id": "9842",
+    "content_title": "リフレッシュしたい時、何をしますか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2018-09-29 10:00:00",
+    "created_at": "2018-09-06 18:33:32",
+    "updated_at": "2018-09-28 16:21:21",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9843",
+    "next_id": "9841"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

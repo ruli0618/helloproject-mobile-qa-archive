@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "6029",
+      "comment_title": "",
+      "comment_text": "「HELLO EVERYONE！」\n「HOW ARE YOU DOING？！」\n「I'M FINE」",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-19 18:36:01",
+      "updated_at": "2017-04-26 10:36:11"
+    },
+    {
+      "comment_id": "6027",
+      "comment_title": "",
+      "comment_text": "「来世は東京のイケメン男子にしてくださーい！」",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-19 18:35:45",
+      "updated_at": "2017-04-19 18:35:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

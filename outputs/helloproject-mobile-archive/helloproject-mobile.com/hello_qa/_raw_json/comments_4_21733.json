@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "32950",
+      "comment_title": "",
+      "comment_text": "キンモクセイ",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:30:50",
+      "updated_at": "2024-02-14 13:30:50"
+    },
+    {
+      "comment_id": "32951",
+      "comment_title": "",
+      "comment_text": "石鹸、ローズ",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:31:05",
+      "updated_at": "2024-02-14 13:31:05"
+    },
+    {
+      "comment_id": "32952",
+      "comment_title": "",
+      "comment_text": "柑橘系",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:31:17",
+      "updated_at": "2024-02-14 13:31:17"
+    },
+    {
+      "comment_id": "32953",
+      "comment_title": "",
+      "comment_text": "ナチュラルな香りが好きなので、石けんやハーブの香りが好きです！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:31:27",
+      "updated_at": "2024-02-14 13:31:27"
+    },
+    {
+      "comment_id": "32954",
+      "comment_title": "",
+      "comment_text": "ちょっと癖の強い匂いが好き。",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:31:41",
+      "updated_at": "2024-02-14 13:31:41"
+    },
+    {
+      "comment_id": "32955",
+      "comment_title": "",
+      "comment_text": "シャボン系の香りが好きです！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:31:52",
+      "updated_at": "2024-02-14 13:31:52"
+    },
+    {
+      "comment_id": "32956",
+      "comment_title": "",
+      "comment_text": "フローラル系のお花とさっぱりした甘さがある感じの香りが好きです。",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:32:14",
+      "updated_at": "2024-02-14 13:32:14"
+    },
+    {
+      "comment_id": "32957",
+      "comment_title": "",
+      "comment_text": "清潔感のある匂い！",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:32:34",
+      "updated_at": "2024-02-14 13:32:34"
+    },
+    {
+      "comment_id": "32958",
+      "comment_title": "",
+      "comment_text": "シトラスとか石鹸の甘すぎないさっぱりした優しい香り",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:32:46",
+      "updated_at": "2024-02-14 13:32:46"
+    },
+    {
+      "comment_id": "33774",
+      "comment_title": "",
+      "comment_text": "チェリー",
+      "user_name": "川嶋美楓",
+      "user_icon": "0",
+      "artist_id": "151",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 15:30:32",
+      "updated_at": "2024-05-02 15:30:32"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

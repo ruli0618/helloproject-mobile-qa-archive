@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8405",
+      "comment_title": "",
+      "comment_text": "料理教室に通って、もっと料理の腕を上達させる。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:50:16",
+      "updated_at": "2018-02-02 16:50:16"
+    },
+    {
+      "comment_id": "8408",
+      "comment_title": "",
+      "comment_text": "ピクニックがしたいです。\nみんなで料理を持ち寄って食べるのが楽しそう！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:51:36",
+      "updated_at": "2018-02-02 16:51:36"
+    },
+    {
+      "comment_id": "8409",
+      "comment_title": "",
+      "comment_text": "かわいいフリフリの春服を着てお花見に行き、満開の桜と自撮りをする！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:52:17",
+      "updated_at": "2018-02-02 16:52:17"
+    },
+    {
+      "comment_id": "8410",
+      "comment_title": "",
+      "comment_text": "・つばきファクトリーのみんなでお花見をしたいです。\n・桜を見ながら屋台をまわりたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:52:27",
+      "updated_at": "2018-02-02 16:52:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

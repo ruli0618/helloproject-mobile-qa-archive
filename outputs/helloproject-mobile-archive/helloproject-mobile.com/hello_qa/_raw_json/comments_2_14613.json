@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18977",
+      "comment_title": "",
+      "comment_text": "よく着る色→なんでも着るかも！\n着ない色→意外とメンバーカラーの紫は少ない、、",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:38:08",
+      "updated_at": "2020-09-30 14:38:08"
+    },
+    {
+      "comment_id": "18976",
+      "comment_title": "",
+      "comment_text": "よく着る→黄色！好き！\n絶対着ない→んん～黒？とか意外と着ないかも…。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:37:54",
+      "updated_at": "2020-09-30 14:37:54"
+    },
+    {
+      "comment_id": "18984",
+      "comment_title": "",
+      "comment_text": "よく着る→黒 \n絶対着ない→蛍光色",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:39:27",
+      "updated_at": "2020-09-30 14:39:27"
+    },
+    {
+      "comment_id": "18985",
+      "comment_title": "",
+      "comment_text": "よく着る→白黒、青、紫、ピンクなど…白黒の服はパンダさんカラーなのでよく着ます。\n絶対着ない→真っ白服。(パンダさんがついていればいいのですが、白だけだと汚してしまう可能性があるからです)",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:39:37",
+      "updated_at": "2020-09-30 14:39:37"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

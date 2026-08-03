@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "5538",
+      "comment_title": "",
+      "comment_text": "キリンさん\n今、どんな気持ちですか？？って。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 12:53:32",
+      "updated_at": "2017-01-12 12:53:32"
+    },
+    {
+      "comment_id": "5541",
+      "comment_title": "",
+      "comment_text": "蚊に「もう人間の血を吸わないで、他の何かを探してください。」とお願いします。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 12:54:04",
+      "updated_at": "2017-01-12 12:54:04"
+    },
+    {
+      "comment_id": "5542",
+      "comment_title": "",
+      "comment_text": "カピバラさん\n何を考えていますか？",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 12:54:14",
+      "updated_at": "2017-01-12 12:54:14"
+    },
+    {
+      "comment_id": "5543",
+      "comment_title": "",
+      "comment_text": "犬 (家で飼っている犬)\nご飯はいつも美味しいの？ いつもひま？って質問したいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-12 12:54:23",
+      "updated_at": "2017-01-12 12:54:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

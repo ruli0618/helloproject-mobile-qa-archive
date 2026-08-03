@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "29304",
+      "comment_title": "",
+      "comment_text": "自分の誕生日",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:43:32",
+      "updated_at": "2023-03-13 18:43:32"
+    },
+    {
+      "comment_id": "29306",
+      "comment_title": "",
+      "comment_text": "学生の頃は合唱コンクールが好きでした！笑\n今は夏が好き！夏っぽいイベントならなんでも好きかも！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:43:54",
+      "updated_at": "2023-03-13 18:43:54"
+    },
+    {
+      "comment_id": "29307",
+      "comment_title": "",
+      "comment_text": "誕生日です！\nアイドルだからこそ、たくさんの方にお祝いしてもらう事が出来て毎年しあわせです！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:44:04",
+      "updated_at": "2023-03-13 18:44:04"
+    },
+    {
+      "comment_id": "29308",
+      "comment_title": "",
+      "comment_text": "クリスマス\n街並みや雰囲気にワクワクします。\nあと冬はファッションをより楽しめて好きです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:44:24",
+      "updated_at": "2023-03-13 18:44:24"
+    },
+    {
+      "comment_id": "29309",
+      "comment_title": "",
+      "comment_text": "お正月！！美味しいご飯いっぱいだし、初詣とか行くのも楽しみです！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:44:37",
+      "updated_at": "2023-03-13 18:44:37"
+    },
+    {
+      "comment_id": "29311",
+      "comment_title": "",
+      "comment_text": "クリスマスです。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:45:06",
+      "updated_at": "2023-03-13 18:45:06"
+    },
+    {
+      "comment_id": "29312",
+      "comment_title": "",
+      "comment_text": "最近はリリイベです。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:45:27",
+      "updated_at": "2023-03-13 18:45:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

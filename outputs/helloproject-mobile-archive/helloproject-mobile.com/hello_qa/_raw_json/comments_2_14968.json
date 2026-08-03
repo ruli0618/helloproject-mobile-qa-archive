@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19288",
+      "comment_title": "",
+      "comment_text": "たまに赤い鳥を飛ばすゲームをします〜！有名なやつ〜。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:43:26",
+      "updated_at": "2020-11-27 16:43:26"
+    },
+    {
+      "comment_id": "19287",
+      "comment_title": "",
+      "comment_text": "おはじきを先日久しぶりにやったんですが、すごくすごく楽しかったんです〜。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:43:13",
+      "updated_at": "2020-11-27 16:43:13"
+    },
+    {
+      "comment_id": "19295",
+      "comment_title": "",
+      "comment_text": "最近、弟と大乱闘スマッシュブラザーズをするのにハマっています！\nしずえさんが欲しくて、コンピュータの相手とひたすら父に頑張って戦って貰ってました笑\nそのおかげで？？しずえさんもゲット出来ました☆",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:44:48",
+      "updated_at": "2020-11-27 16:44:48"
+    },
+    {
+      "comment_id": "19296",
+      "comment_title": "",
+      "comment_text": "トランプ\n1番好きなのは大富豪です！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:44:59",
+      "updated_at": "2020-11-27 16:44:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

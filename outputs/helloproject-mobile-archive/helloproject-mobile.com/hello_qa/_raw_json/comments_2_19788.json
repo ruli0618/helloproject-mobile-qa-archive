@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "29208",
+      "comment_title": "",
+      "comment_text": "紛失物捜索アプリ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:07:46",
+      "updated_at": "2023-03-13 18:07:46"
+    },
+    {
+      "comment_id": "29207",
+      "comment_title": "",
+      "comment_text": "現在地から目的地までの間のご飯屋さんをお知らせしてくれるアプリ",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:07:40",
+      "updated_at": "2023-03-13 18:07:40"
+    },
+    {
+      "comment_id": "29213",
+      "comment_title": "",
+      "comment_text": "スマホでプリクラが撮れるアプリ！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:08:36",
+      "updated_at": "2023-03-13 18:08:36"
+    },
+    {
+      "comment_id": "29214",
+      "comment_title": "",
+      "comment_text": "ドラえもんの四次元ポケットみたいな感じで、持ち物をスキャンするとスマホに入れたり、出したり出来るアプリ。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:08:44",
+      "updated_at": "2023-03-13 18:08:44"
+    },
+    {
+      "comment_id": "29215",
+      "comment_title": "",
+      "comment_text": "ハロー！プロジェクトの曲、instrumentalが全曲聴けるアプリ。あったらいいなぁ！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:08:52",
+      "updated_at": "2023-03-13 18:08:52"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

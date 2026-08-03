@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6268",
+      "comment_title": "",
+      "comment_text": "「パァーーーーーー」",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 16:00:22",
+      "updated_at": "2017-04-21 16:00:22"
+    },
+    {
+      "comment_id": "6271",
+      "comment_title": "",
+      "comment_text": "「元気ですか～？」と叫びます。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 16:00:44",
+      "updated_at": "2017-04-21 16:00:44"
+    },
+    {
+      "comment_id": "6272",
+      "comment_title": "",
+      "comment_text": "「お菓子～でも痩せたい～！！」",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 16:00:52",
+      "updated_at": "2017-04-21 16:00:52"
+    },
+    {
+      "comment_id": "6273",
+      "comment_title": "",
+      "comment_text": "「幸せ～～～♡♡♡」",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 16:00:59",
+      "updated_at": "2017-04-21 16:00:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

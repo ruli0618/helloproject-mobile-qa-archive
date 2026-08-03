@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 22,
+    "content_id": "25469",
+    "content_title": "好きな鍋は、何鍋？",
+    "content_sub_title": "",
+    "category_id": "174",
+    "release_date": "2026-01-11 10:00:00",
+    "created_at": "2025-12-08 13:59:37",
+    "updated_at": "2026-01-09 18:18:06",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "25470",
+    "next_id": "25385"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

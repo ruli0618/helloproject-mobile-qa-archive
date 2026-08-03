@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31075",
+      "comment_title": "",
+      "comment_text": "余裕があって気品のある大人",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:02",
+      "updated_at": "2023-08-02 14:04:02"
+    },
+    {
+      "comment_id": "31076",
+      "comment_title": "",
+      "comment_text": "人の痛みや心の変化に気づいて手を差し伸べられる人。自然体の人。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:12",
+      "updated_at": "2023-08-02 14:04:12"
+    },
+    {
+      "comment_id": "31077",
+      "comment_title": "",
+      "comment_text": "メリハリのある毎日を送る大人が理想です。あと、仕事できる人になりたい！！笑これはゆめです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:19",
+      "updated_at": "2023-08-02 14:04:19"
+    },
+    {
+      "comment_id": "31078",
+      "comment_title": "",
+      "comment_text": "やりたい事を見つけて生きてる人。\n周りの人を笑顔にできて、支えてあげられる大人。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:30",
+      "updated_at": "2023-08-02 14:04:30"
+    },
+    {
+      "comment_id": "31079",
+      "comment_title": "",
+      "comment_text": "周りに優しくて、仕事ができる人！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:40",
+      "updated_at": "2023-08-02 14:04:40"
+    },
+    {
+      "comment_id": "31081",
+      "comment_title": "",
+      "comment_text": "自分の与えられた役割をしっかりと果たせる人。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:04:59",
+      "updated_at": "2023-08-02 14:04:59"
+    },
+    {
+      "comment_id": "31082",
+      "comment_title": "",
+      "comment_text": "ふふふなニコニコ笑顔で\n(´˘｀*)うんうん\nみたいな人！",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-02 14:05:08",
+      "updated_at": "2023-08-02 14:05:08"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

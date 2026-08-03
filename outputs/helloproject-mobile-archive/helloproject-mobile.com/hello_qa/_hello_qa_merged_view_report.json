@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-08-03T06:35:31.982Z",
+  "displayed_questions": 3999,
+  "displayed_answers": 25008,
+  "moved_og_answers": 6727,
+  "skipped_duplicate_og_answers": 241,
+  "moved_og_question_count": 600,
+  "remaining_og_questions": 0,
+  "remaining_og_answers": 0,
+  "group_pages": [
+    {
+      "category_title": "モーニング娘。'26",
+      "file": "01_モーニング娘。26.html"
+    },
+    {
+      "category_title": "アンジュルム",
+      "file": "02_アンジュルム.html"
+    },
+    {
+      "category_title": "Juice=Juice",
+      "file": "03_Juice=Juice.html"
+    },
+    {
+      "category_title": "つばきファクトリー",
+      "file": "04_つばきファクトリー.html"
+    },
+    {
+      "category_title": "BEYOOOOONDS",
+      "file": "05_BEYOOOOONDS.html"
+    },
+    {
+      "category_title": "OCHA NORMA",
+      "file": "06_OCHA_NORMA.html"
+    },
+    {
+      "category_title": "ロージークロニクル",
+      "file": "07_ロージークロニクル.html"
+    },
+    {
+      "category_title": "℃-ute",
+      "file": "08_℃-ute.html"
+    },
+    {
+      "category_title": "カントリー・ガールズ",
+      "file": "09_カントリー・ガールズ.html"
+    },
+    {
+      "category_title": "こぶしファクトリー",
+      "file": "10_こぶしファクトリー.html"
+    }
+  ],
+  "category_counts": [
+    {
+      "category_id": "2",
+      "category_title": "モーニング娘。'26",
+      "questions": 604
+    },
+    {
+      "category_id": "3",
+      "category_title": "アンジュルム",
+      "questions": 592
+    },
+    {
+      "category_id": "4",
+      "category_title": "Juice=Juice",
+      "questions": 608
+    },
+    {
+      "category_id": "26",
+      "category_title": "つばきファクトリー",
+      "questions": 575
+    },
+    {
+      "category_id": "94",
+      "category_title": "BEYOOOOONDS",
+      "questions": 413
+    },
+    {
+      "category_id": "131",
+      "category_title": "OCHA NORMA",
+      "questions": 242
+    },
+    {
+      "category_id": "174",
+      "category_title": "ロージークロニクル",
+      "questions": 111
+    },
+    {
+      "category_id": "h_cute",
+      "category_title": "℃-ute",
+      "questions": 115
+    },
+    {
+      "category_id": "h_country",
+      "category_title": "カントリー・ガールズ",
+      "questions": 257
+    },
+    {
+      "category_id": "h_kobushi",
+      "category_title": "こぶしファクトリー",
+      "questions": 482
+    }
+  ]
+}

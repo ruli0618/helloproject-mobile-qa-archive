@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "5188",
+      "comment_title": "",
+      "comment_text": "水族館に行って、魚と話す！泳ぐの楽しいですか～？！って！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-06 16:45:12",
+      "updated_at": "2017-01-06 16:45:12"
+    },
+    {
+      "comment_id": "5186",
+      "comment_title": "",
+      "comment_text": "うちにいるネコに、今の生活はどう？って聞きたいです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-01-06 16:44:44",
+      "updated_at": "2017-01-06 16:44:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

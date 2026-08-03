@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15440",
+      "comment_title": "",
+      "comment_text": "横顔図鑑",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 17:08:11",
+      "updated_at": "2019-12-20 17:08:11"
+    },
+    {
+      "comment_id": "15439",
+      "comment_title": "",
+      "comment_text": "佐藤優樹さんについての図鑑\n今後関わっていく上で、理解しておきたい事が沢山あります。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 17:08:04",
+      "updated_at": "2019-12-20 17:08:04"
+    },
+    {
+      "comment_id": "15447",
+      "comment_title": "",
+      "comment_text": "お肉図鑑！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 17:09:11",
+      "updated_at": "2019-12-20 17:09:11"
+    },
+    {
+      "comment_id": "15448",
+      "comment_title": "",
+      "comment_text": "パンダさん図鑑\nパンダ王国図鑑\n絶対可愛い！！もっとパンダさんについて詳しくなりたいから。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 17:09:19",
+      "updated_at": "2019-12-20 17:09:19"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

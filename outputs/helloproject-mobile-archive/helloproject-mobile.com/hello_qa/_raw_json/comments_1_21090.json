@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31877",
+      "comment_title": "",
+      "comment_text": "｢Danceでバコーン！｣を皆踊れる。",
+      "user_name": "譜久村聖",
+      "user_icon": "0",
+      "artist_id": "6",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 10:48:28",
+      "updated_at": "2023-11-30 17:25:49"
+    },
+    {
+      "comment_id": "31879",
+      "comment_title": "",
+      "comment_text": "武道館に立たせていただく時、観に来てくれるハロメンがどこに座るかよく知ってるので、そこを基準に立ち位置を覚えたりする。\n(私はそう、他にもいると信じて)",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 10:48:44",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "31891",
+      "comment_title": "",
+      "comment_text": "大前提でリズムを刻みます。",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:25:57",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "31882",
+      "comment_title": "",
+      "comment_text": "『Hello! Project』のことを、｢ハロー｣と言う？",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 10:49:09",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "31930",
+      "comment_title": "",
+      "comment_text": "えー！苗字呼び？とか、、？\nわたしも後輩ちゃん達からりかこさんとかりーさんとか、言われたことほぼないな、、\nみんな言ってよお（ ;  ; ）言われたいだけの奴です笑",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:33:39",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "31928",
+      "comment_title": "",
+      "comment_text": "新幹線が動き出すと「お願いします」と言いたくなる。\nハロー！で集まると人数が多くて、誰に挨拶したか分からなくなる。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:33:21",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "31971",
+      "comment_title": "",
+      "comment_text": "すぐ曲とダンスを覚える。\n他のアーティストのライブに行った時、知らない曲でもすぐに対応出来る。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 16:39:16",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

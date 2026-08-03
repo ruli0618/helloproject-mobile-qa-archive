@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 162,
+    "content_id": "5491",
+    "content_title": "家の中でいちばん落ち着く場所はどこですか？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2016-10-28 10:00:00",
+    "created_at": "2016-10-13 17:31:09",
+    "updated_at": "2016-10-28 10:07:00",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5492",
+    "next_id": "5490"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

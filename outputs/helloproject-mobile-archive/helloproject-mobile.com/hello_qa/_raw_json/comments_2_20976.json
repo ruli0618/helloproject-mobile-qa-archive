@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31481",
+      "comment_title": "",
+      "comment_text": "やっぱり、ちぇる！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:27:22",
+      "updated_at": "2023-10-10 17:27:22"
+    },
+    {
+      "comment_id": "31480",
+      "comment_title": "",
+      "comment_text": "小田ちゃん！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:27:15",
+      "updated_at": "2023-10-10 17:27:15"
+    },
+    {
+      "comment_id": "31486",
+      "comment_title": "",
+      "comment_text": "ほまたん\n生田衣梨奈さんがつけてくださったあだ名！！\n皆さんに浸透してて嬉しいです^^\nほまたんって呼んで～。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:28:13",
+      "updated_at": "2023-10-10 17:28:13"
+    },
+    {
+      "comment_id": "31487",
+      "comment_title": "",
+      "comment_text": "め～",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:28:21",
+      "updated_at": "2023-10-10 17:28:21"
+    },
+    {
+      "comment_id": "31488",
+      "comment_title": "",
+      "comment_text": "なしお。(名前の梨央をひらがなにしてそのまま読んだもの)\n前に友達がふざけて呼んでいました笑",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:28:29",
+      "updated_at": "2023-10-10 17:28:29"
+    },
+    {
+      "comment_id": "31489",
+      "comment_title": "",
+      "comment_text": "はるさめ",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:28:39",
+      "updated_at": "2023-10-10 17:28:39"
+    },
+    {
+      "comment_id": "31490",
+      "comment_title": "",
+      "comment_text": "ゆみげ",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-10 17:28:45",
+      "updated_at": "2023-10-10 17:28:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "8234",
+    "content_title": "無人島に一つだけ何かを持っていけるとしたら？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2018-01-13 10:00:00",
+    "created_at": "2017-12-13 11:06:47",
+    "updated_at": "2018-01-12 22:56:05",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8235",
+    "next_id": "8233"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

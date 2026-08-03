@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 102,
+    "content_id": "22502",
+    "content_title": "今、やってみたいことは？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2024-07-13 10:00:00",
+    "created_at": "2024-07-01 12:11:58",
+    "updated_at": "2024-07-12 16:30:04",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "22503",
+    "next_id": "22225"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 22,
+    "content_id": "25594",
+    "content_title": "今の季節で一番好きな瞬間は？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2026-01-19 10:00:00",
+    "created_at": "2026-01-15 10:14:55",
+    "updated_at": "2026-01-16 18:15:45",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "25595",
+    "next_id": "25458"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

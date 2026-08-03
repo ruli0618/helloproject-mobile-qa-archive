@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21346",
+      "comment_title": "",
+      "comment_text": "ママです。\nママの若い頃に顔が似ているみたいです。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:39:53",
+      "updated_at": "2021-04-22 18:39:53"
+    },
+    {
+      "comment_id": "21349",
+      "comment_title": "",
+      "comment_text": "姉です。\nよく言われます。話し方も顔も似ているらしいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:40:59",
+      "updated_at": "2021-04-22 18:40:59"
+    },
+    {
+      "comment_id": "21350",
+      "comment_title": "",
+      "comment_text": "パパです。\nよく似ていると言われる事が多いです。特にここが似ているというのはないのですが、雰囲気や性格が似ていると思います。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:41:17",
+      "updated_at": "2021-04-22 18:41:17"
+    },
+    {
+      "comment_id": "21351",
+      "comment_title": "",
+      "comment_text": "兄ですかね～。\nふとした表情とかよく似てると言われるので、似てるのかな？と思います。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:41:31",
+      "updated_at": "2021-04-22 18:41:31"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

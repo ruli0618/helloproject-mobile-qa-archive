@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21039",
+      "comment_title": "",
+      "comment_text": "とりあえず断捨離！使わないものと使うものを分けます！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:01:15",
+      "updated_at": "2021-03-22 18:01:15"
+    },
+    {
+      "comment_id": "21038",
+      "comment_title": "",
+      "comment_text": "大掃除する気分をどうやって作るか考えます！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:01:06",
+      "updated_at": "2021-03-22 18:01:06"
+    },
+    {
+      "comment_id": "21047",
+      "comment_title": "",
+      "comment_text": "特に決めてはないけど、大きい物から片付けます。服とか？？",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:02:40",
+      "updated_at": "2021-03-24 16:12:42"
+    },
+    {
+      "comment_id": "21048",
+      "comment_title": "",
+      "comment_text": "パンダさんグッズの整理。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-03-22 18:02:53",
+      "updated_at": "2021-03-22 18:02:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

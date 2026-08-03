@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30799",
+      "comment_title": "",
+      "comment_text": "海派",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:00",
+      "updated_at": "2023-07-18 16:35:00"
+    },
+    {
+      "comment_id": "30800",
+      "comment_title": "",
+      "comment_text": "どっちも好きです！どっちも派！！！\n都会派？海山派？だったら海山派です～笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:15",
+      "updated_at": "2023-07-18 16:35:15"
+    },
+    {
+      "comment_id": "30801",
+      "comment_title": "",
+      "comment_text": "山派です！\nキャンプが好きで、よく家族で行っていました！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:24",
+      "updated_at": "2023-07-18 16:35:24"
+    },
+    {
+      "comment_id": "30802",
+      "comment_title": "",
+      "comment_text": "もちろん海っすね。\n山も自然がいっぱいあって好きですが、わたしは海が大好きなの！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:32",
+      "updated_at": "2023-07-18 16:35:32"
+    },
+    {
+      "comment_id": "30803",
+      "comment_title": "",
+      "comment_text": "どっちもいいけど、夏は海にいきたい！！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:42",
+      "updated_at": "2023-07-18 16:35:42"
+    },
+    {
+      "comment_id": "30805",
+      "comment_title": "",
+      "comment_text": "海派です。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:35:59",
+      "updated_at": "2023-07-18 16:35:59"
+    },
+    {
+      "comment_id": "30806",
+      "comment_title": "",
+      "comment_text": "うみー！ー！",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:36:07",
+      "updated_at": "2023-07-18 16:36:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

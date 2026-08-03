@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19005",
+      "comment_title": "",
+      "comment_text": "場所→北海道\n何する→自然いっぱいなところの空気を吸いたい！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:53:02",
+      "updated_at": "2020-09-30 14:53:02"
+    },
+    {
+      "comment_id": "19004",
+      "comment_title": "",
+      "comment_text": "場所→沖縄！\n何する→水族館がすごく好きなので、美ら海は絶対に行きたい！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:52:49",
+      "updated_at": "2020-09-30 14:52:49"
+    },
+    {
+      "comment_id": "19012",
+      "comment_title": "",
+      "comment_text": "場所→パリ \n何する→エッフェル塔で映えたい。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:54:21",
+      "updated_at": "2020-09-30 14:54:21"
+    },
+    {
+      "comment_id": "19013",
+      "comment_title": "",
+      "comment_text": "場所→北海道\n何する→祖父母やお友達に会いに行く。ジンギスカンやスープカレーやラーメンを食べる。アイスやスイーツを食べて、お土産も買う。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:54:30",
+      "updated_at": "2020-09-30 14:54:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

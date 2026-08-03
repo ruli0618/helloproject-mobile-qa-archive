@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 22,
+    "content_id": "25376",
+    "content_title": "一日で好きな時間帯は?",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2026-01-02 10:00:00",
+    "created_at": "2025-11-26 10:27:37",
+    "updated_at": "2025-12-26 18:32:55",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "25465",
+    "next_id": "25375"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

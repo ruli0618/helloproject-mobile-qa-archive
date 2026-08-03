@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21497",
+      "comment_title": "",
+      "comment_text": "とりあえずお茶を飲みます(食べ物じゃないけど…)。それでも空いてたら、その時食べたいものを！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 16:25:26",
+      "updated_at": "2021-05-14 16:25:26"
+    },
+    {
+      "comment_id": "21496",
+      "comment_title": "",
+      "comment_text": "梅干しとか茎わかめとかです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-14 16:25:16",
+      "updated_at": "2021-05-14 16:25:16"
+    },
+    {
+      "comment_id": "21683",
+      "comment_title": "",
+      "comment_text": "干し梅",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-17 12:26:32",
+      "updated_at": "2021-05-17 12:26:32"
+    },
+    {
+      "comment_id": "21684",
+      "comment_title": "",
+      "comment_text": "お菓子\nチョコとか飴とか気軽に食べれるので好きです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-05-17 12:26:43",
+      "updated_at": "2021-05-17 12:26:43"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

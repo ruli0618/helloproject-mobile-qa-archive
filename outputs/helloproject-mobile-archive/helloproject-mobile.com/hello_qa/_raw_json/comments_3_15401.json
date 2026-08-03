@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "20358",
+      "comment_title": "",
+      "comment_text": "朝は、起きてからうがいと洗顔をして、お風呂入って、髪乾かしてから、リンゴを食べて、メイクして、出掛けます！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:34:44",
+      "updated_at": "2021-02-01 15:34:44"
+    },
+    {
+      "comment_id": "20361",
+      "comment_title": "",
+      "comment_text": "モーニングルーティン…レモン白湯を飲むこと。\nナイトルーティン…七美茶を飲むこと。\n起きた後と寝る前は暖かいものが飲みたくなります…！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:35:19",
+      "updated_at": "2021-02-01 15:35:19"
+    },
+    {
+      "comment_id": "20359",
+      "comment_title": "",
+      "comment_text": "朝と夜お風呂に入って、そのあと足パカと自転車のストレッチをする。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:34:53",
+      "updated_at": "2021-02-01 15:34:53"
+    },
+    {
+      "comment_id": "20360",
+      "comment_title": "",
+      "comment_text": "朝はまず水を飲みます。\n夜はストレッチとマッサージをしてから寝ます。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:35:08",
+      "updated_at": "2021-02-01 15:35:08"
+    },
+    {
+      "comment_id": "20362",
+      "comment_title": "",
+      "comment_text": "モーニングルーティンは、白湯を飲むことです。\nナイトルーティンは、ストレッチをすることです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 15:35:30",
+      "updated_at": "2021-02-01 15:35:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

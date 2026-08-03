@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "37711",
+      "comment_title": "",
+      "comment_text": "スマホの充電が切れそうなので、充電器",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:33:24",
+      "updated_at": "2025-06-16 16:33:24"
+    },
+    {
+      "comment_id": "37710",
+      "comment_title": "",
+      "comment_text": "美味しいご飯と楽しい趣味！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:33:11",
+      "updated_at": "2025-06-16 16:33:11"
+    },
+    {
+      "comment_id": "37715",
+      "comment_title": "",
+      "comment_text": "ごはん！！\nお腹すいたよぉー。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:35:39",
+      "updated_at": "2025-06-16 16:35:39"
+    },
+    {
+      "comment_id": "37716",
+      "comment_title": "",
+      "comment_text": "好奇心\n時間がある時、色んな事に挑戦しようと思って何もしてないので…。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:35:57",
+      "updated_at": "2025-06-16 16:35:57"
+    },
+    {
+      "comment_id": "37717",
+      "comment_title": "",
+      "comment_text": "スマホの容量\n写真が多すぎて大変なことになってます！！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:37:52",
+      "updated_at": "2025-06-16 16:37:52"
+    },
+    {
+      "comment_id": "37718",
+      "comment_title": "",
+      "comment_text": "どんなことがあっても日々を楽しむ気持ち。\nネガティブなので…。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:38:12",
+      "updated_at": "2025-06-16 16:38:12"
+    },
+    {
+      "comment_id": "37719",
+      "comment_title": "",
+      "comment_text": "シャー芯\n課題終わらなーい！！！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 16:38:22",
+      "updated_at": "2025-06-16 16:38:22"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

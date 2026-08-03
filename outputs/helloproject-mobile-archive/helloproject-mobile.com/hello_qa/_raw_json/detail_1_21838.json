@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 122,
+    "content_id": "21838",
+    "content_title": "旅行に行く時、計画立てる派？行き当たりばったり派？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2024-01-05 10:00:00",
+    "created_at": "2024-02-29 18:56:59",
+    "updated_at": "2024-06-18 10:43:11",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "21839",
+    "next_id": "21837"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

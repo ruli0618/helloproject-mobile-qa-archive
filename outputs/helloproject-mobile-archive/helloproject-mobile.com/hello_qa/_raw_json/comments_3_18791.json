@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "27018",
+      "comment_title": "",
+      "comment_text": "一緒に美味しいご飯を食べに行く。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:40:57",
+      "updated_at": "2022-09-05 16:40:57"
+    },
+    {
+      "comment_id": "27021",
+      "comment_title": "",
+      "comment_text": "私が悲しい想いをしてる時に誰かから優しい言葉をかけられた時により泣いちゃった経験があるので、声をかけたくなるけど、出来るだけ1人の時間を作ってあげるかも…。\nでも悲しんでる時に周りに誰もいないのも寂しいから、何も喋らずとも近くで寄り添ってあげるのが1番なのかな？",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:41:25",
+      "updated_at": "2022-09-05 16:41:25"
+    },
+    {
+      "comment_id": "27019",
+      "comment_title": "",
+      "comment_text": "笑える動画を見せる。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:41:06",
+      "updated_at": "2022-09-05 16:41:06"
+    },
+    {
+      "comment_id": "27020",
+      "comment_title": "",
+      "comment_text": "明るい(その人の聴きたい)音楽を流す。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:41:14",
+      "updated_at": "2022-09-05 16:41:14"
+    },
+    {
+      "comment_id": "27022",
+      "comment_title": "",
+      "comment_text": "まぁ、そんなときもあるよ！と励ます。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:41:34",
+      "updated_at": "2022-09-05 16:41:34"
+    },
+    {
+      "comment_id": "27023",
+      "comment_title": "",
+      "comment_text": "その人の立場の気持ちに寄り添う、かけて欲しい言葉を考えて言う。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 16:41:42",
+      "updated_at": "2022-09-05 16:41:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

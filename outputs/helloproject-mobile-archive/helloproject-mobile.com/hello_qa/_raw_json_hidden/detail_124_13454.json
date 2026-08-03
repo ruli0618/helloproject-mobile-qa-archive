@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "13454",
+    "content_title": "自分の地元のここが良い！どんなところ？",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-16 05:00:00",
+    "created_at": "2020-03-31 10:52:51",
+    "updated_at": "2020-03-31 11:00:41",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13455",
+    "next_id": "13453"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

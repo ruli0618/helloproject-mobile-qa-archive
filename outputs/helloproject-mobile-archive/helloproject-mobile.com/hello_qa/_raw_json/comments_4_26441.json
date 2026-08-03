@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "comment_id": "41223",
+      "comment_title": "",
+      "comment_text": "アウトドア派",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:37:14",
+      "updated_at": "2026-06-23 13:37:14"
+    },
+    {
+      "comment_id": "41224",
+      "comment_title": "",
+      "comment_text": "アウトドア派",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:37:27",
+      "updated_at": "2026-06-23 13:37:27"
+    },
+    {
+      "comment_id": "41225",
+      "comment_title": "",
+      "comment_text": "インドア派寄り",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:37:42",
+      "updated_at": "2026-06-23 13:37:42"
+    },
+    {
+      "comment_id": "41226",
+      "comment_title": "",
+      "comment_text": "うわーどっちもある気がします。\n休みの日は外には出るものの、森に引き篭もるのでなんだかんだインドア、、？",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:38:07",
+      "updated_at": "2026-06-23 13:38:07"
+    },
+    {
+      "comment_id": "41227",
+      "comment_title": "",
+      "comment_text": "日によるけど、インドア",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:38:46",
+      "updated_at": "2026-06-23 13:38:46"
+    },
+    {
+      "comment_id": "41228",
+      "comment_title": "",
+      "comment_text": "最近はアウトドアかも！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:39:08",
+      "updated_at": "2026-06-23 13:39:08"
+    },
+    {
+      "comment_id": "41229",
+      "comment_title": "",
+      "comment_text": "アウトドア派！\nインドアな日もあります(´▽｀)",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:39:24",
+      "updated_at": "2026-06-23 13:39:24"
+    },
+    {
+      "comment_id": "41230",
+      "comment_title": "",
+      "comment_text": "100％何があってもインドア派",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:39:47",
+      "updated_at": "2026-06-23 13:39:47"
+    },
+    {
+      "comment_id": "41231",
+      "comment_title": "",
+      "comment_text": "アウトドア派",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:40:29",
+      "updated_at": "2026-06-23 13:40:29"
+    },
+    {
+      "comment_id": "41232",
+      "comment_title": "",
+      "comment_text": "インドア派",
+      "user_name": "川嶋美楓",
+      "user_icon": "0",
+      "artist_id": "151",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:40:48",
+      "updated_at": "2026-06-23 13:40:48"
+    },
+    {
+      "comment_id": "41233",
+      "comment_title": "",
+      "comment_text": "アウトドア派",
+      "user_name": "林仁愛",
+      "user_icon": "0",
+      "artist_id": "165",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 13:40:58",
+      "updated_at": "2026-06-23 13:40:58"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

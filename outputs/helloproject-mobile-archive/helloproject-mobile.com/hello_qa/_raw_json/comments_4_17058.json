@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22895",
+      "comment_title": "",
+      "comment_text": "ベビーカステラのお店。\n自分が好きで、食べたいから！笑",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:51:48",
+      "updated_at": "2021-11-09 12:51:48"
+    },
+    {
+      "comment_id": "22894",
+      "comment_title": "",
+      "comment_text": "モグラ叩き",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:51:35",
+      "updated_at": "2021-11-09 12:51:35"
+    },
+    {
+      "comment_id": "22896",
+      "comment_title": "",
+      "comment_text": "折り紙展示\n折り紙販売\n角っこのスペースはタココーナー",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:52:14",
+      "updated_at": "2021-11-09 12:52:14"
+    },
+    {
+      "comment_id": "22897",
+      "comment_title": "",
+      "comment_text": "たこ焼き屋さん！\nたこ焼きは壊滅的に作れないので隣であらよ！って盛り上げたいです。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:52:29",
+      "updated_at": "2021-11-09 12:52:29"
+    },
+    {
+      "comment_id": "22898",
+      "comment_title": "",
+      "comment_text": "たまごせんべい屋です！",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:52:38",
+      "updated_at": "2021-11-09 12:52:38"
+    },
+    {
+      "comment_id": "22899",
+      "comment_title": "",
+      "comment_text": "クレープ屋さん！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:52:45",
+      "updated_at": "2021-11-09 12:52:45"
+    },
+    {
+      "comment_id": "22900",
+      "comment_title": "",
+      "comment_text": "メイクアップ屋さん！",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:53:01",
+      "updated_at": "2021-11-09 12:53:01"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

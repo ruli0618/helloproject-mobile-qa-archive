@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15654",
+      "comment_title": "",
+      "comment_text": "TSUBAKIのシャンプー\nポカリスエット、シーブリーズ\n高校野球のCM",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:21:39",
+      "updated_at": "2019-12-20 18:21:39"
+    },
+    {
+      "comment_id": "15657",
+      "comment_title": "",
+      "comment_text": "ラムネのCM。\nそして、ラムネ、一年分、、、。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:22:09",
+      "updated_at": "2019-12-20 18:22:09"
+    },
+    {
+      "comment_id": "15658",
+      "comment_title": "",
+      "comment_text": "なんでも！！！！！！！！！！！！！　特に、食べ物。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:22:20",
+      "updated_at": "2019-12-20 18:22:20"
+    },
+    {
+      "comment_id": "15659",
+      "comment_title": "",
+      "comment_text": "メイクのCM\ndanceのCM\nケンタッキーのCM\n洋服ブランドのCM",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:22:27",
+      "updated_at": "2019-12-20 18:22:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

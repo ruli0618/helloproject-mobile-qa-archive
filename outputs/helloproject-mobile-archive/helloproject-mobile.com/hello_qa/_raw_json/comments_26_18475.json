@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "26599",
+      "comment_title": "",
+      "comment_text": "キッザニアに行く。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:27:28",
+      "updated_at": "2022-07-06 11:27:28"
+    },
+    {
+      "comment_id": "26602",
+      "comment_title": "",
+      "comment_text": "全力で、学生を楽しみます！\n知識とか全部知らないものとして、一から楽しみたい！笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:28:26",
+      "updated_at": "2022-07-06 11:28:26"
+    },
+    {
+      "comment_id": "26603",
+      "comment_title": "",
+      "comment_text": "思いっきり食べる。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:28:34",
+      "updated_at": "2022-07-06 11:28:34"
+    },
+    {
+      "comment_id": "26604",
+      "comment_title": "",
+      "comment_text": "英語習う。\nダンス習う。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:28:47",
+      "updated_at": "2022-07-06 11:28:47"
+    },
+    {
+      "comment_id": "26605",
+      "comment_title": "",
+      "comment_text": "小学生料金でアトラクション楽しむ＾＾",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:29:19",
+      "updated_at": "2022-07-06 11:29:19"
+    },
+    {
+      "comment_id": "26607",
+      "comment_title": "",
+      "comment_text": "もう一度小学校に通って勉強し直す。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:29:52",
+      "updated_at": "2022-07-06 11:29:52"
+    },
+    {
+      "comment_id": "26608",
+      "comment_title": "",
+      "comment_text": "ネバーランドに行く。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-06 11:30:06",
+      "updated_at": "2022-07-06 11:30:06"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

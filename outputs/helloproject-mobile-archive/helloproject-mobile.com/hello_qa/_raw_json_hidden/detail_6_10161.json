@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "10161",
+    "content_title": "自分のファンの特徴・傾向を分析して教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2018-12-28 10:00:00",
+    "created_at": "2018-10-29 14:57:13",
+    "updated_at": "2018-12-27 17:30:41",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10162",
+    "next_id": "10160"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

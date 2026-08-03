@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15246",
+      "comment_title": "",
+      "comment_text": "着ぐるみ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-18 18:15:51",
+      "updated_at": "2019-12-18 18:15:51"
+    },
+    {
+      "comment_id": "15245",
+      "comment_title": "",
+      "comment_text": "夢の国のお土産屋さん",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-18 18:15:44",
+      "updated_at": "2019-12-18 18:15:44"
+    },
+    {
+      "comment_id": "15253",
+      "comment_title": "",
+      "comment_text": "可愛いピンクのやつを着たいです♡",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-18 18:21:46",
+      "updated_at": "2019-12-18 18:21:46"
+    },
+    {
+      "comment_id": "15254",
+      "comment_title": "",
+      "comment_text": "スイーツ屋さんの可愛い制服",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-18 18:21:53",
+      "updated_at": "2019-12-18 18:21:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

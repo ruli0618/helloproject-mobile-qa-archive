@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6849",
+      "comment_title": "",
+      "comment_text": "pizzaの専門店のお店",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:27:39",
+      "updated_at": "2017-07-31 18:27:39"
+    },
+    {
+      "comment_id": "6852",
+      "comment_title": "",
+      "comment_text": "ケーキ屋さん。\nお祝い事のケーキを買う人がたくさんいると思うので、自分まで嬉しい気持ちになれそうだからです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:28:08",
+      "updated_at": "2017-07-31 18:28:08"
+    },
+    {
+      "comment_id": "6853",
+      "comment_title": "",
+      "comment_text": "駄菓子屋さん",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:28:15",
+      "updated_at": "2017-07-31 18:28:15"
+    },
+    {
+      "comment_id": "6854",
+      "comment_title": "",
+      "comment_text": "服屋さんの店長になりたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:28:24",
+      "updated_at": "2017-07-31 18:28:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

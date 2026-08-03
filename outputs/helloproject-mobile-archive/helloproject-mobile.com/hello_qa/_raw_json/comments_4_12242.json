@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14319",
+      "comment_title": "",
+      "comment_text": "洗濯物やっとくよ～。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-10 17:34:52",
+      "updated_at": "2019-10-10 17:34:52"
+    },
+    {
+      "comment_id": "17492",
+      "comment_title": "",
+      "comment_text": "いつでも味方だよ。\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:34:41",
+      "updated_at": "2020-04-03 18:34:41"
+    },
+    {
+      "comment_id": "14321",
+      "comment_title": "",
+      "comment_text": "熱々なタコ焼きを一緒に食べに行こう。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-10 17:35:17",
+      "updated_at": "2019-10-10 17:35:17"
+    },
+    {
+      "comment_id": "14322",
+      "comment_title": "",
+      "comment_text": "おれはチーターだ！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-10 17:35:40",
+      "updated_at": "2019-10-10 17:35:40"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

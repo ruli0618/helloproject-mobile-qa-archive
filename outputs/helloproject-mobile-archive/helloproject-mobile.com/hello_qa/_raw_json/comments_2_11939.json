@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13708",
+      "comment_title": "",
+      "comment_text": "永遠にかかると思う。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:42:34",
+      "updated_at": "2019-08-19 14:42:34"
+    },
+    {
+      "comment_id": "13707",
+      "comment_title": "",
+      "comment_text": "1分くらいですかね…。\n飛ばなきゃ終わらない、けどちょっとこわい、けど高いところは好き、だけどちょっとこわいと思います笑",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:42:22",
+      "updated_at": "2019-08-19 14:42:22"
+    },
+    {
+      "comment_id": "13715",
+      "comment_title": "",
+      "comment_text": "30秒",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:43:55",
+      "updated_at": "2019-08-19 14:43:55"
+    },
+    {
+      "comment_id": "13716",
+      "comment_title": "",
+      "comment_text": "300秒\nすぐに飛ぶのはもったいないから、上からの景色をよく観察してから飛ぶ。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:44:03",
+      "updated_at": "2019-08-19 14:44:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

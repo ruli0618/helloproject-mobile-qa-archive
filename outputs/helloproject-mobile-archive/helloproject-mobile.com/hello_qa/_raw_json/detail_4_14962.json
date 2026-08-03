@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 282,
+    "content_id": "14962",
+    "content_title": "取得したい資格はありますか？(無ければ、これから頑張りたい特技など)",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2021-01-11 10:00:00",
+    "created_at": "2020-11-27 15:25:00",
+    "updated_at": "2021-01-06 19:39:20",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "14963",
+    "next_id": "14961"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

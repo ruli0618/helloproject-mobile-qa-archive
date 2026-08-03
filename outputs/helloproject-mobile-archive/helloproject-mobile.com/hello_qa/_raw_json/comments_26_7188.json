@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6840",
+      "comment_title": "",
+      "comment_text": "何でもできる変幻自在なグループ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:25:29",
+      "updated_at": "2017-07-31 18:25:29"
+    },
+    {
+      "comment_id": "6843",
+      "comment_title": "",
+      "comment_text": "ザ・正統派アイドル",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:26:07",
+      "updated_at": "2017-07-31 18:26:07"
+    },
+    {
+      "comment_id": "6844",
+      "comment_title": "",
+      "comment_text": "とにかく可愛く！衣装も可愛いグループ。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:26:20",
+      "updated_at": "2017-08-02 10:41:47"
+    },
+    {
+      "comment_id": "6845",
+      "comment_title": "",
+      "comment_text": "色々なジャンルのダンスが出来るアイドルグループです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:26:29",
+      "updated_at": "2017-07-31 18:26:29"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

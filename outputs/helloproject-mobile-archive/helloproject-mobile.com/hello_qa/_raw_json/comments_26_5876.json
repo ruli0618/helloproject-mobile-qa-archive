@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "4862",
+      "comment_title": "",
+      "comment_text": "ちょっと1回自分も宇宙人の気持ちになってみる。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-12-13 17:41:41",
+      "updated_at": "2016-12-13 17:41:41"
+    },
+    {
+      "comment_id": "4865",
+      "comment_title": "",
+      "comment_text": "地球に何をしに来たのかを聞いて、目的が地球人を支配しに来たこと以外だったら友達になります。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-12-13 17:42:10",
+      "updated_at": "2016-12-13 17:42:10"
+    },
+    {
+      "comment_id": "4866",
+      "comment_title": "",
+      "comment_text": "目を閉じて落ち着く。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-12-13 17:42:21",
+      "updated_at": "2016-12-13 17:42:21"
+    },
+    {
+      "comment_id": "4867",
+      "comment_title": "",
+      "comment_text": "実際に見たことがあるのですが、怖くて家族みんなで隠れました。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-12-13 17:42:30",
+      "updated_at": "2016-12-13 17:42:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

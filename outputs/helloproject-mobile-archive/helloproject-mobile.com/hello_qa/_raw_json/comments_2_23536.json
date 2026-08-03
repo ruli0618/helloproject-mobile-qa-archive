@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "36001",
+      "comment_title": "",
+      "comment_text": "秋なので、モーニング娘。の「秋麗」",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:54:02",
+      "updated_at": "2024-12-23 14:54:02"
+    },
+    {
+      "comment_id": "36000",
+      "comment_title": "",
+      "comment_text": "モーニング娘。の春の歌！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:53:47",
+      "updated_at": "2024-12-23 14:53:47"
+    },
+    {
+      "comment_id": "36006",
+      "comment_title": "",
+      "comment_text": "「LOVE涙色」最近ずっと聴いてます。1回自分の中でブーム来ると飽きるまで聴くよ。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:55:15",
+      "updated_at": "2024-12-23 14:55:15"
+    },
+    {
+      "comment_id": "36011",
+      "comment_title": "",
+      "comment_text": "「この地球の平和を本気で願ってるんだよ！」\n好きな曲。平和っていいよなーって感じです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 15:00:41",
+      "updated_at": "2024-12-23 15:00:41"
+    },
+    {
+      "comment_id": "36008",
+      "comment_title": "",
+      "comment_text": "「ラヴ&ピィ～ス！HEROがやって来たっ。」\nこの曲だいすき！！パフォーマンスしたい！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:57:07",
+      "updated_at": "2024-12-23 14:57:07"
+    },
+    {
+      "comment_id": "36009",
+      "comment_title": "",
+      "comment_text": "人生Blues",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:57:20",
+      "updated_at": "2024-12-23 14:57:20"
+    },
+    {
+      "comment_id": "36010",
+      "comment_title": "",
+      "comment_text": "「人生はSTEP!」\n書き物の仕事が丁度今キチンと終わったからです。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-23 14:57:30",
+      "updated_at": "2024-12-23 14:57:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

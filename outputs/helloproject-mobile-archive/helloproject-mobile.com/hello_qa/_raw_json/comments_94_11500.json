@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "12912",
+      "comment_title": "",
+      "comment_text": "レッサーパンダです。\n可愛い姿に癒されたいからです。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:48:47",
+      "updated_at": "2019-05-27 14:48:47"
+    },
+    {
+      "comment_id": "12913",
+      "comment_title": "",
+      "comment_text": "ぞうさん！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:48:56",
+      "updated_at": "2019-05-27 14:48:56"
+    },
+    {
+      "comment_id": "12915",
+      "comment_title": "",
+      "comment_text": "サル\n似ていると言われるから。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:49:17",
+      "updated_at": "2019-05-27 14:49:17"
+    },
+    {
+      "comment_id": "12917",
+      "comment_title": "",
+      "comment_text": "ホワイトタイガーです！！\n将来絶対に飼います♡♡",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:49:49",
+      "updated_at": "2019-05-27 14:49:49"
+    },
+    {
+      "comment_id": "12918",
+      "comment_title": "",
+      "comment_text": "ヤギ！\n私はヤギと喋れるのでヤギと喋ってから他も回りたいです。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:50:08",
+      "updated_at": "2019-05-27 14:50:08"
+    },
+    {
+      "comment_id": "12919",
+      "comment_title": "",
+      "comment_text": "キリン！\n動物園に来たなぁ～って気持ちになるからです！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:50:30",
+      "updated_at": "2019-05-27 14:50:30"
+    },
+    {
+      "comment_id": "12920",
+      "comment_title": "",
+      "comment_text": "見た目も行動も一番可愛いのでアライグマです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:50:41",
+      "updated_at": "2019-05-27 14:50:41"
+    },
+    {
+      "comment_id": "12921",
+      "comment_title": "",
+      "comment_text": "迷うなぁ～……。\n今の気分はシロクマ！です！！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:50:52",
+      "updated_at": "2019-05-27 14:50:52"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

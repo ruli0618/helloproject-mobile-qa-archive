@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "451",
+      "comment_title": "",
+      "comment_text": "うーん…5000円？！",
+      "user_name": "矢島舞美",
+      "user_icon": "0",
+      "artist_id": "1",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    },
+    {
+      "comment_id": "452",
+      "comment_title": "",
+      "comment_text": "1000円",
+      "user_name": "中島早貴",
+      "user_icon": "0",
+      "artist_id": "2",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    },
+    {
+      "comment_id": "453",
+      "comment_title": "",
+      "comment_text": "50円｡なｰんとなく､銀だと気付きそう！！（笑）",
+      "user_name": "鈴木愛理",
+      "user_icon": "0",
+      "artist_id": "3",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    },
+    {
+      "comment_id": "12987",
+      "comment_title": "",
+      "comment_text": "500円玉。誰かのお昼ご飯代！！",
+      "user_name": "宮崎由加",
+      "user_icon": "0",
+      "artist_id": "28",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-06-18 10:18:08",
+      "updated_at": "2019-06-18 10:18:08"
+    },
+    {
+      "comment_id": "20042",
+      "comment_title": "",
+      "comment_text": "100円！！だと思ったら、駄菓子屋さんのコインだった。。",
+      "user_name": "宮本佳林",
+      "user_icon": "0",
+      "artist_id": "31",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-12-11 12:56:28",
+      "updated_at": "2020-12-11 12:56:28"
+    },
+    {
+      "comment_id": "524",
+      "comment_title": "",
+      "comment_text": "1万円札がいっぱい。（新大阪駅で本当に、目の前に上から1万円札の束が落ちてきて、怖くてさわらなかったら、コンビニの店員さんが拾った）",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2024-06-17 17:30:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

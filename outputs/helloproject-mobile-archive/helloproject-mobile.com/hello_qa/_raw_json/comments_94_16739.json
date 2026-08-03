@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "22643",
+      "comment_title": "",
+      "comment_text": "パン屋さんがいいです！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:23:58",
+      "updated_at": "2021-09-17 12:23:58"
+    },
+    {
+      "comment_id": "22644",
+      "comment_title": "",
+      "comment_text": "わたがし屋さんです。\nわたがしが好きで作るのも楽しくて好きなので、わたがし屋さんになりたいです。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:24:14",
+      "updated_at": "2021-09-17 12:24:14"
+    },
+    {
+      "comment_id": "22646",
+      "comment_title": "",
+      "comment_text": "写真屋さん\nメンバーの写真を撮るのが好きなので、お客さんを素敵に撮りたい！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:24:39",
+      "updated_at": "2021-09-17 12:24:39"
+    },
+    {
+      "comment_id": "22648",
+      "comment_title": "",
+      "comment_text": "お花屋さん♡\n最近お部屋にお花を飾るようになってお花屋さんに行く機会が増えたんですけど、「今の時期おすすめのお花とかあるんですか？」って聞いたら、いつもとっても嬉しそうにお花を紹介してくれるのが素敵だなぁと思ったからです！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:25:13",
+      "updated_at": "2021-09-27 11:24:01"
+    },
+    {
+      "comment_id": "22649",
+      "comment_title": "",
+      "comment_text": "農家\n無人の売り場を作って、それを密かに見張る係。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:25:28",
+      "updated_at": "2021-09-17 12:25:28"
+    },
+    {
+      "comment_id": "22650",
+      "comment_title": "",
+      "comment_text": "パン屋さんか餃子屋",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:25:41",
+      "updated_at": "2021-09-17 12:25:41"
+    },
+    {
+      "comment_id": "22651",
+      "comment_title": "",
+      "comment_text": "イタリアンレストランか、お花屋さん！\nイタリアンが大好きなのと、お花屋さんは心が綺麗になりそうなので。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:25:54",
+      "updated_at": "2021-09-17 12:25:54"
+    },
+    {
+      "comment_id": "22652",
+      "comment_title": "",
+      "comment_text": "ハンドメイドのアクセサリーショップ！\n全部手作りにする！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 12:26:07",
+      "updated_at": "2021-09-17 12:26:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

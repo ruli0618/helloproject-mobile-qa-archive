@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33279",
+      "comment_title": "",
+      "comment_text": "一人旅してみたいです\nあんまり遠出しない人間なのですが、どこまで一人で生きていけるか試しにやってみたい。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:27:32",
+      "updated_at": "2024-03-14 15:27:32"
+    },
+    {
+      "comment_id": "33282",
+      "comment_title": "",
+      "comment_text": "バックパッカーになってみたいです！\n色んなところ旅してみたい！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:28:04",
+      "updated_at": "2024-03-14 15:28:04"
+    },
+    {
+      "comment_id": "33280",
+      "comment_title": "",
+      "comment_text": "バンジージャンプ",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:27:48",
+      "updated_at": "2024-03-14 15:27:48"
+    },
+    {
+      "comment_id": "33281",
+      "comment_title": "",
+      "comment_text": "今までお世話になった人に会いに行く。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:27:53",
+      "updated_at": "2024-03-14 15:27:53"
+    },
+    {
+      "comment_id": "33283",
+      "comment_title": "",
+      "comment_text": "ライブやイベントの時のケータリングを、一から作ってみたいです！たくさんご飯を作りたい！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:28:15",
+      "updated_at": "2024-03-14 15:28:15"
+    },
+    {
+      "comment_id": "33284",
+      "comment_title": "",
+      "comment_text": "お化け屋敷に一人で行ってみたいです！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:28:23",
+      "updated_at": "2024-03-14 15:28:23"
+    },
+    {
+      "comment_id": "33285",
+      "comment_title": "",
+      "comment_text": "モデル、ロケです。\nモデルは、してみたいからです。\nロケは、見るのが好きで楽しそうだからです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:28:35",
+      "updated_at": "2024-03-14 15:28:35"
+    },
+    {
+      "comment_id": "33286",
+      "comment_title": "",
+      "comment_text": "一人旅！！\nできないけどやってみたいなー！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:28:45",
+      "updated_at": "2024-03-14 15:28:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

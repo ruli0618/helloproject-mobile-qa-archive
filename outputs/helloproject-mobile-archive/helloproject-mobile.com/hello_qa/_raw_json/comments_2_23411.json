@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "35763",
+      "comment_title": "",
+      "comment_text": "音楽",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:14:11",
+      "updated_at": "2024-12-03 18:14:11"
+    },
+    {
+      "comment_id": "35762",
+      "comment_title": "",
+      "comment_text": "モーニング娘。オタクです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:14:04",
+      "updated_at": "2024-12-03 18:14:04"
+    },
+    {
+      "comment_id": "35768",
+      "comment_title": "",
+      "comment_text": "せっけんの香りオタク？\nせっけんの香りの香水とか大好き！！今お気に入り2つあります♡",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:14:55",
+      "updated_at": "2024-12-03 18:14:55"
+    },
+    {
+      "comment_id": "35769",
+      "comment_title": "",
+      "comment_text": "アニメオタク\nまだまだ「アニメオタクです！」っていえるレベルではないけど、いろんなアニメが好きで、好きなキャラのタイプも分かってきて、すごいハマってます！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:15:03",
+      "updated_at": "2024-12-03 18:15:03"
+    },
+    {
+      "comment_id": "35770",
+      "comment_title": "",
+      "comment_text": "ハロメンオタク",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:15:13",
+      "updated_at": "2024-12-03 18:15:13"
+    },
+    {
+      "comment_id": "35771",
+      "comment_title": "",
+      "comment_text": "なんかちいさくてかわいいキャラクターのオタクです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:15:20",
+      "updated_at": "2024-12-03 18:15:20"
+    },
+    {
+      "comment_id": "35772",
+      "comment_title": "",
+      "comment_text": "ヒロアカ",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:15:28",
+      "updated_at": "2024-12-03 18:15:28"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

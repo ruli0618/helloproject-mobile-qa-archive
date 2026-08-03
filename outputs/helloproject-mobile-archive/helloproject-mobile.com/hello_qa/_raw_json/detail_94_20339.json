@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "20339",
+    "content_title": "ワガママを一つ言って下さい。",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2023-07-21 10:00:00",
+    "created_at": "2023-06-12 14:27:16",
+    "updated_at": "2023-07-20 16:33:24",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "20506",
+    "next_id": "20338"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

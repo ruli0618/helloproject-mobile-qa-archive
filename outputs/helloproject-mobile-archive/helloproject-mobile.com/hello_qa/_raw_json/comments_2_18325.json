@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "26040",
+      "comment_title": "",
+      "comment_text": "あまり緊張しません…、ソワソワはありますが！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:15:53",
+      "updated_at": "2022-06-08 18:15:53"
+    },
+    {
+      "comment_id": "26039",
+      "comment_title": "",
+      "comment_text": "JAPAN JAMです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:15:43",
+      "updated_at": "2022-06-08 18:15:43"
+    },
+    {
+      "comment_id": "26046",
+      "comment_title": "",
+      "comment_text": "JAPAN JAM",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:17:17",
+      "updated_at": "2022-06-08 18:17:17"
+    },
+    {
+      "comment_id": "26047",
+      "comment_title": "",
+      "comment_text": "JAPAN JAM\n初☆野外フェスで、めっちゃお客さんいて緊張した。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:17:32",
+      "updated_at": "2022-06-08 18:17:32"
+    },
+    {
+      "comment_id": "26497",
+      "comment_title": "",
+      "comment_text": "合格後、モーニング娘｡'22のメンバーさんと初めてお会いした時です。スタジオの扉を開けるまで、ずっと緊張で頭が真っ白になりそうでした。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-04 11:57:42",
+      "updated_at": "2022-07-04 11:57:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

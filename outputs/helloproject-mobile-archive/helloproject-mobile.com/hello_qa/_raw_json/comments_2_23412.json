@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "35775",
+      "comment_title": "",
+      "comment_text": "1.大根\n2.餅巾着\n3.がんも",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:16:39",
+      "updated_at": "2024-12-03 18:16:39"
+    },
+    {
+      "comment_id": "35774",
+      "comment_title": "",
+      "comment_text": "一位 大根！\n二位 ウインナー！\n三位 卵！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:16:31",
+      "updated_at": "2024-12-03 18:16:31"
+    },
+    {
+      "comment_id": "35780",
+      "comment_title": "",
+      "comment_text": "だいこん\nこんにゃく\nつくね",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:17:20",
+      "updated_at": "2024-12-03 18:17:20"
+    },
+    {
+      "comment_id": "36266",
+      "comment_title": "",
+      "comment_text": "猫舌なので、熱いイメージのあるおでんはあまり食べませんが…\n3 → ソーセージ\n2 → 大根\n1 → お豆腐",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-01-06 10:07:35",
+      "updated_at": "2025-01-06 10:07:35"
+    },
+    {
+      "comment_id": "35782",
+      "comment_title": "",
+      "comment_text": "1.こんにゃく 2.大根 3.卵",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:17:38",
+      "updated_at": "2024-12-03 18:17:38"
+    },
+    {
+      "comment_id": "35783",
+      "comment_title": "",
+      "comment_text": "1位 たまご\n2位 お肉\n3位 だいこん",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:17:48",
+      "updated_at": "2024-12-03 18:17:48"
+    },
+    {
+      "comment_id": "35784",
+      "comment_title": "",
+      "comment_text": "1位 卵\n2位 牛すじ\n3位 卵",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-12-03 18:17:55",
+      "updated_at": "2024-12-03 18:17:55"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

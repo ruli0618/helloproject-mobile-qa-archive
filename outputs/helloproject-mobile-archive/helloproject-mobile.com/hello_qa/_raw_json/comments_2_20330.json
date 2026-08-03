@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30452",
+      "comment_title": "",
+      "comment_text": "私の好きなところがあれば教えてください！( ^ω^ )",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:26:12",
+      "updated_at": "2023-06-12 12:26:12"
+    },
+    {
+      "comment_id": "30451",
+      "comment_title": "",
+      "comment_text": "私が踊ってる時はずっと私を見てて欲しいな～。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:26:05",
+      "updated_at": "2023-06-12 12:26:05"
+    },
+    {
+      "comment_id": "30457",
+      "comment_title": "",
+      "comment_text": "美味しいお肉食べたい。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:26:51",
+      "updated_at": "2023-06-12 12:26:51"
+    },
+    {
+      "comment_id": "30458",
+      "comment_title": "",
+      "comment_text": "パンダさんと一緒に住みたい！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:27:02",
+      "updated_at": "2023-06-12 12:27:02"
+    },
+    {
+      "comment_id": "30459",
+      "comment_title": "",
+      "comment_text": "同期の石山咲良ちゃん、遠藤彩加里ちゃんとイベントがやりたいです。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:27:15",
+      "updated_at": "2023-06-12 12:27:15"
+    },
+    {
+      "comment_id": "30612",
+      "comment_title": "",
+      "comment_text": "一日中休みをもらって、お友達とご飯にいったり海辺に行ってソフトクリームを食べたりそういうちょっとしたことがしたいです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:07:24",
+      "updated_at": "2023-06-16 15:07:24"
+    },
+    {
+      "comment_id": "30613",
+      "comment_title": "",
+      "comment_text": "時間を気にせずアニメを観たいです。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:07:33",
+      "updated_at": "2023-06-16 15:07:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

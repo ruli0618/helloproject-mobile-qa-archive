@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18281",
+      "comment_title": "",
+      "comment_text": "シュールクイーン",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:51:47",
+      "updated_at": "2020-07-20 12:51:47"
+    },
+    {
+      "comment_id": "18280",
+      "comment_title": "",
+      "comment_text": "ツッコミ(に回らざるを得なかった)クイーン",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:51:39",
+      "updated_at": "2020-07-20 12:51:39"
+    },
+    {
+      "comment_id": "18288",
+      "comment_title": "",
+      "comment_text": "ビーフクイーン",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:53:09",
+      "updated_at": "2020-07-20 12:53:09"
+    },
+    {
+      "comment_id": "18289",
+      "comment_title": "",
+      "comment_text": "パンダさんクイーン\n私が1番パンダさんが大好きだと思うから！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:53:22",
+      "updated_at": "2020-07-20 12:53:22"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

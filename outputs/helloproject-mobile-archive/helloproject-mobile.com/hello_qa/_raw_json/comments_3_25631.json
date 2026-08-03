@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "comment_id": "39914",
+      "comment_title": "",
+      "comment_text": "Funk",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:26:54",
+      "updated_at": "2026-01-26 11:26:54"
+    },
+    {
+      "comment_id": "39915",
+      "comment_title": "",
+      "comment_text": "J-POPです！\n今のトップ100とかを聴くことが多いんですけど、その中でもアイドルソングをよく聴くので、やっぱり自分はアイドルが好きなんだなぁと実感します！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:27:06",
+      "updated_at": "2026-01-26 11:27:06"
+    },
+    {
+      "comment_id": "39916",
+      "comment_title": "",
+      "comment_text": "ジャンルは無い。\n好きなアーティストをずっと流してる。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:27:19",
+      "updated_at": "2026-01-26 11:27:19"
+    },
+    {
+      "comment_id": "39917",
+      "comment_title": "",
+      "comment_text": "最近はやわらかい楽器の音が聴こえてくるような、ゆったりした曲が好きです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:27:27",
+      "updated_at": "2026-01-26 11:27:27"
+    },
+    {
+      "comment_id": "39918",
+      "comment_title": "",
+      "comment_text": "J-POPです！\nアイドルやバンドの音楽を聴くことが多いです！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:27:39",
+      "updated_at": "2026-01-26 11:27:39"
+    },
+    {
+      "comment_id": "39919",
+      "comment_title": "",
+      "comment_text": "最近はテンポの早い楽器の音が多い曲を聴くことが多いです！！\n流行の曲もチェックしてます！！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:27:53",
+      "updated_at": "2026-01-26 11:27:53"
+    },
+    {
+      "comment_id": "39920",
+      "comment_title": "",
+      "comment_text": "アイドルソングです！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:28:02",
+      "updated_at": "2026-01-26 11:28:02"
+    },
+    {
+      "comment_id": "39921",
+      "comment_title": "",
+      "comment_text": "J-POPです！\nBGMよりも歌詞がある曲が特に好みでよく聴きますが、その時の気分で変えてます！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:28:18",
+      "updated_at": "2026-01-26 11:28:18"
+    },
+    {
+      "comment_id": "39922",
+      "comment_title": "",
+      "comment_text": "気分によってまちまちだけど、最近はボカロを聴くことが多いです！\n世界観がしっかりある曲が多いから、集中できるのが好き！音楽聴いてると顔が神妙な面持ちになります。",
+      "user_name": "長野桃羽",
+      "user_icon": "0",
+      "artist_id": "166",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:28:30",
+      "updated_at": "2026-01-26 11:28:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

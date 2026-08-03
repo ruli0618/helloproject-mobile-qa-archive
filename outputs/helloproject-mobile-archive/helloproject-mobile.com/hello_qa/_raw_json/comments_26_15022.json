@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19555",
+      "comment_title": "",
+      "comment_text": "ミルフィーユ鍋！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 15:53:25",
+      "updated_at": "2020-11-30 15:53:25"
+    },
+    {
+      "comment_id": "19558",
+      "comment_title": "",
+      "comment_text": "闇鍋したい！\nつばきのみんなで！！\n美味しく出来上がるのもいいけど、誰か冒険してケーキとか入れて欲しい。笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 15:54:03",
+      "updated_at": "2020-11-30 15:54:03"
+    },
+    {
+      "comment_id": "19559",
+      "comment_title": "",
+      "comment_text": "キムチ鍋\n特に豚肉と肉団子がお気に入りで、いつもママに「野菜も食べなさい」と言われます。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 15:54:47",
+      "updated_at": "2020-11-30 15:54:47"
+    },
+    {
+      "comment_id": "19560",
+      "comment_title": "",
+      "comment_text": "キムチ鍋\n最近は辛いのが好きなのでよく食べます、キムチ鍋とてもすき。\nでも辛すぎるのはまだ食べれません。笑",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-30 15:55:03",
+      "updated_at": "2020-11-30 15:55:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

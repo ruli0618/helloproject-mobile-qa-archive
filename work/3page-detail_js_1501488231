@@ -1,0 +1,131 @@
+/**
+  * 3ページ構成の3ページ目（詳細）
+  */
+hlpr._3pageDetail = (function() {
+  var utils = hlpr.utils;
+  var _initProperties = {
+    content_id: null,
+    content_title: null,
+    content_sub_title: null,
+    content_text: null,
+    content_date: null,
+    materials: [],
+    month: null,
+    day: null,
+    next_content: null,
+    prev_content: null,
+    comments: [],
+    category_id: null,
+    category_title: null,
+    category_thumbnail:null,
+    menu_id: null
+  };
+
+  function _loadData() {
+    var onsuccess = function(data) {
+
+      if (!data.error.status && data.content) {
+
+        this.content_id(data.content.content_id);
+        this.content_title(data.content.content_title);
+        this.content_sub_title(data.content.content_sub_title);
+
+        var content_text = data.content.content_text;
+        _.forEach(data.content.materials, function(material) {
+          if (!_.isEmpty(material.material_id)){
+            // スタッフ日記だけ、別処理
+            if (this.resource.resourceName == 'qa') {
+              material.image = "/materials/viewer?secretKey=" + material.secretKey + "&material_file=" + material.material_file;
+              this.materials.push(material);
+            } else {
+              content_text = utils.setImageOnContent(content_text, material.material_title, material.secretKey, material.material_file);
+            }
+          }
+        }, this);
+        this.content_text(utils.encodeToHtml(content_text));
+
+        var date = new Date(data.content.release_date.replace(/-/g, '/'));
+        this.month((date.getMonth() + 1) + "月");
+        this.day(date.getDate());
+
+        this.next_content("");
+        this.prev_content("");
+        if (data.content.next_id != -1) {
+          this.next_content(
+            this.viewer + "/detail?menu_id=" + params.menu_id
+           + "&content_id=" + data.content.next_id
+           + "&content_title=" + data.content.content_title
+           + "&category_id=" + this.category_id()
+           + "&category_title=" + encodeURIComponent(this.category_title())
+           + (!_.isUndefined(this.category_color) ? "&category_color=" + this.category_color : "")
+           + "&idx=" + (parseInt(params.idx) + 1)
+           );
+        }
+        if (data.content.previous_id != -1 ) {
+          this.prev_content(
+            this.viewer + "/detail?menu_id=" + params.menu_id
+            + "&content_id=" + data.content.previous_id
+            + "&content_title=" + data.content.content_title
+            + "&category_id=" + this.category_id()
+            + "&category_title=" + encodeURIComponent(this.category_title())
+            + (!_.isUndefined(this.category_color) ? "&category_color=" + this.category_color : "")
+            + "&idx=" + (parseInt(params.idx) - 1)
+            );
+        }
+      }
+      // Q&Aの場合、コメントを取得する
+      if (this.resource.resourceName == 'qa') {
+        _loadComment.call(this);
+      }
+    }
+
+    var params = utils.params();
+    this.category_id(params.category_id);
+    this.category_title(params.category_title);
+    this.menu_id(params.menu_id);
+    this.category_color = (!_.isUndefined(params.category_color) ? params.category_color : undefined);
+
+    utils.get("/api/contents/" + params.content_id, {idx: params.idx, page: params.page, category_id: params.category_id}, onsuccess, undefined, this);
+  }
+
+  function _loadComment() {
+
+    var onsuccess = function (data) {
+        if (!data.error.status && data.comments) {
+            _.forEach(data.comments, function(item) {
+
+              item.comment_text = utils.encodeToHtml(item.comment_text);
+              if (item.artist_id != "0") {
+                item.imageUrl = "/images/artist_thumbnail/" + item.artist_id + ".jpg";
+              } else {
+                item.imageUrl = "/images/user_icon/" + item.user_icon + ".png";
+              }
+              this.comments.push(item);
+            }, this);
+        }
+    }
+    var onerror = function (e) {
+
+    }
+    utils.get("/api/comments?order=true&content_id=" + this.content_id(), {}, onsuccess, onerror, this);
+  }
+
+  return {
+    init: function () {
+      console.log("*****hlpr._3pageDetail.init() start");
+      hlpr._ContentBase.call(this);
+      _.assign(this, ko.mapping.fromJS(_initProperties));
+
+      _loadData.call(this);
+
+      ko.applyBindings(this, document.getElementById("bindingContext"));
+    },
+    clickAnchor: function (nextPage, thisArg) {
+      if (!_.isEmpty(nextPage)) {
+        location.href = nextPage;
+      }
+
+    }
+  }
+}()).init();
+

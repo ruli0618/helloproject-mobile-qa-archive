@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 222,
+    "content_id": "17567",
+    "content_title": "未来の自分に手紙を書くなら、なんて書く？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2022-03-01 10:00:00",
+    "created_at": "2022-01-28 17:43:32",
+    "updated_at": "2022-02-28 19:44:46",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17568",
+    "next_id": "17503"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

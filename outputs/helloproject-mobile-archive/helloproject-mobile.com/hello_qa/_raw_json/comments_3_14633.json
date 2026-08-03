@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "19052",
+      "comment_title": "",
+      "comment_text": "フランス一択です！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:01:04",
+      "updated_at": "2020-09-30 16:01:04"
+    },
+    {
+      "comment_id": "19175",
+      "comment_title": "",
+      "comment_text": "京都に行ってパワースポットを巡りたい。",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:26:48",
+      "updated_at": "2020-11-09 11:26:48"
+    },
+    {
+      "comment_id": "19053",
+      "comment_title": "",
+      "comment_text": "京都に行って抹茶スイーツめぐりをしたい。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:01:11",
+      "updated_at": "2020-09-30 16:01:11"
+    },
+    {
+      "comment_id": "19174",
+      "comment_title": "",
+      "comment_text": "北海道で海の幸を食べまくりたいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:26:39",
+      "updated_at": "2020-11-09 11:26:39"
+    },
+    {
+      "comment_id": "19176",
+      "comment_title": "",
+      "comment_text": "ディズニーランドに行って、いろんなアトラクションに乗りたいです。最後にディズニーランドに行ったのが幼稚園であまり覚えていないので、またディズニーランドを満喫したいです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:26:57",
+      "updated_at": "2020-11-09 11:26:57"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

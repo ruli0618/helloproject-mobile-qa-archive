@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "33853",
+      "comment_title": "",
+      "comment_text": "飲み水の確保からだと思いますが、、それをするにも汗をかきそうですよね、、煮沸できたりしそうな道具を探すのが早いか、奇跡の湧き水を探すのが早いか、、",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 13:19:35",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "33856",
+      "comment_title": "",
+      "comment_text": "食料探す。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 13:19:57",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "33900",
+      "comment_title": "",
+      "comment_text": "まずはどうにか火を起こして、あとは楽しく生きる！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 14:08:13",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "33977",
+      "comment_title": "",
+      "comment_text": "足裏を守るための靴を作る。\n人形を作って、孤独に耐える。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 14:44:34",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

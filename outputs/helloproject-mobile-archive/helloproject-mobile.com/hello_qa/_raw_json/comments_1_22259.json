@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "32712",
+      "comment_title": "",
+      "comment_text": "お雑煮を、母の味のレシピを聞かず、見よう見まねで作ったら全然美味しくなくて驚いたので、今度はレシピを聞いてちゃんと作ろうと思う。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:30:29",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "32671",
+      "comment_title": "",
+      "comment_text": "牛すじ煮込み",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 15:23:51",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "32725",
+      "comment_title": "",
+      "comment_text": "ばあちゃんの豚汁",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:33:24",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "32791",
+      "comment_title": "",
+      "comment_text": "料理というか、、\nお菓子作り！！",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:03:51",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "32789",
+      "comment_title": "",
+      "comment_text": "肉じゃが",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:03:33",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "32834",
+      "comment_title": "",
+      "comment_text": "ふわふわのオムライス\nお店の味を作りたい！",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:34:41",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

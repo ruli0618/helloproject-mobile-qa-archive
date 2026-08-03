@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15021",
+      "comment_title": "",
+      "comment_text": "芋虫が大量発生した夢",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-16 17:21:51",
+      "updated_at": "2019-10-16 17:21:51"
+    },
+    {
+      "comment_id": "15024",
+      "comment_title": "",
+      "comment_text": "包丁を持って追いかけられる夢とか？\n怖い夢を見た記憶はたくさんあるけど、夢の内容までは覚えていません。。。\nみんなも割とそうでしょ！？",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-16 17:23:55",
+      "updated_at": "2019-10-16 17:23:55"
+    },
+    {
+      "comment_id": "15025",
+      "comment_title": "",
+      "comment_text": "高校で殺し合いの戦いがあり、それに自分も巻き込まれてしまったこと。\n追いかけられて自分もやられてしまう寸前で起きました。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-16 17:24:24",
+      "updated_at": "2019-10-16 17:24:24"
+    },
+    {
+      "comment_id": "15026",
+      "comment_title": "",
+      "comment_text": "お化けが来るのを分かってて逃げてるのに、逃げ足がとてもスローになってしまう夢です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-16 17:24:44",
+      "updated_at": "2019-10-16 17:24:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

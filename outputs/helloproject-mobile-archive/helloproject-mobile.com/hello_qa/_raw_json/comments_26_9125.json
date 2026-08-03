@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8839",
+      "comment_title": "",
+      "comment_text": "ホームシアター\n映画が好きだから。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-07 10:50:04",
+      "updated_at": "2018-05-07 10:50:04"
+    },
+    {
+      "comment_id": "8842",
+      "comment_title": "",
+      "comment_text": "マッサージチェア",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-07 10:50:38",
+      "updated_at": "2018-05-07 10:50:38"
+    },
+    {
+      "comment_id": "8843",
+      "comment_title": "",
+      "comment_text": "推しのキャラクターの大きいぬいぐるみ",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-07 10:50:50",
+      "updated_at": "2018-05-07 10:50:50"
+    },
+    {
+      "comment_id": "8844",
+      "comment_title": "",
+      "comment_text": "家です。\nつばきファクトリー皆で何日か住みたいからです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-07 10:51:02",
+      "updated_at": "2018-05-07 10:51:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

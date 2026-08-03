@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13824",
+      "comment_title": "",
+      "comment_text": "ヨーロッパ！\nワールドツアーで一度、イギリス、フランス、ドイツに行って、街がすごくキレイで芸術作品みたいで感動したのを覚えています。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 18:07:06",
+      "updated_at": "2019-08-19 18:07:06"
+    },
+    {
+      "comment_id": "17488",
+      "comment_title": "",
+      "comment_text": "夢の国！\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:34:01",
+      "updated_at": "2020-04-03 18:34:01"
+    },
+    {
+      "comment_id": "13826",
+      "comment_title": "",
+      "comment_text": "ピラミッド",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 18:07:24",
+      "updated_at": "2019-08-22 11:44:37"
+    },
+    {
+      "comment_id": "13827",
+      "comment_title": "",
+      "comment_text": "今、目の前にあるポスターの中です。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 18:07:32",
+      "updated_at": "2019-08-19 18:07:32"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

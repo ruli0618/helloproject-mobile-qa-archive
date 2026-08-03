@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "13769",
+    "content_title": "今の自分に足りないと思うものは何ですか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2020-05-21 10:00:00",
+    "created_at": "2020-05-12 17:13:49",
+    "updated_at": "2020-05-18 09:59:48",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13788",
+    "next_id": "13757"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

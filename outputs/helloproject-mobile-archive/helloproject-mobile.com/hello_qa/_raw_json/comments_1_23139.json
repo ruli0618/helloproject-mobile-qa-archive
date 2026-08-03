@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "34870",
+      "comment_title": "",
+      "comment_text": "大阪の冷や汁もう一回食べたい..。\n大阪にまたあれあったらすっごい喜ぶ。\nハマって家でも作りました。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-04 19:00:47",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "34873",
+      "comment_title": "",
+      "comment_text": "冷きしめん",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-04 19:01:16",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "34891",
+      "comment_title": "",
+      "comment_text": "牛タン、デザート、ハニーマスタードチキン",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:22:22",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "34933",
+      "comment_title": "",
+      "comment_text": "明太子！\n明太子マヨ丼が大好き♡",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:51:34",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

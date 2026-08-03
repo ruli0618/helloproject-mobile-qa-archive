@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 502,
+    "content_id": "5470",
+    "content_title": "挑戦してみたいヘアスタイルは何ですか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2016-10-09 10:00:00",
+    "created_at": "2016-10-07 23:34:39",
+    "updated_at": "2016-10-07 23:34:39",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5502",
+    "next_id": "5400"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 202,
+    "content_id": "18325",
+    "content_title": "最近、一番緊張したことは何ですか？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2022-07-26 10:00:00",
+    "created_at": "2022-06-08 18:15:00",
+    "updated_at": "2022-07-25 16:23:36",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18469",
+    "next_id": "18324"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

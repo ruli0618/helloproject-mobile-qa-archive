@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30769",
+      "comment_title": "",
+      "comment_text": "ポップコーンとコカコーラ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:24:24",
+      "updated_at": "2023-07-18 16:24:24"
+    },
+    {
+      "comment_id": "30772",
+      "comment_title": "",
+      "comment_text": "焼き菓子と紅茶！！\n甘すぎない焼き菓子にスッキリとした紅茶がピッタリです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:24:54",
+      "updated_at": "2023-07-18 16:24:54"
+    },
+    {
+      "comment_id": "30770",
+      "comment_title": "",
+      "comment_text": "焼肉とウーロン茶",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:24:36",
+      "updated_at": "2023-07-18 16:24:36"
+    },
+    {
+      "comment_id": "30771",
+      "comment_title": "",
+      "comment_text": "オレオと牛乳です！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:24:43",
+      "updated_at": "2023-07-18 16:24:43"
+    },
+    {
+      "comment_id": "30773",
+      "comment_title": "",
+      "comment_text": "おにぎりと緑茶は間違い無いですね。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:25:00",
+      "updated_at": "2023-07-18 16:25:00"
+    },
+    {
+      "comment_id": "30774",
+      "comment_title": "",
+      "comment_text": "コーヒーと甘いスイーツ！特にキャラメル系の！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:25:10",
+      "updated_at": "2023-07-18 16:25:10"
+    },
+    {
+      "comment_id": "30775",
+      "comment_title": "",
+      "comment_text": "和菓子と抹茶～",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:25:18",
+      "updated_at": "2023-07-18 16:25:18"
+    },
+    {
+      "comment_id": "30776",
+      "comment_title": "",
+      "comment_text": "ハンバーガーとコーラ\nパンと牛乳\nおいしいです！！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:25:25",
+      "updated_at": "2023-07-18 16:25:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

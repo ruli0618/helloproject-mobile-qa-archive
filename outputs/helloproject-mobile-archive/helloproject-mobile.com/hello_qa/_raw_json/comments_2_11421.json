@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12516",
+      "comment_title": "",
+      "comment_text": "触れ合い系のひよこ！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 12:23:04",
+      "updated_at": "2019-05-24 12:23:04"
+    },
+    {
+      "comment_id": "12515",
+      "comment_title": "",
+      "comment_text": "クマ！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 12:22:57",
+      "updated_at": "2019-05-24 12:22:57"
+    },
+    {
+      "comment_id": "13400",
+      "comment_title": "",
+      "comment_text": "ライオン！ライオンバスが大好きです！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 15:30:58",
+      "updated_at": "2019-07-12 15:30:58"
+    },
+    {
+      "comment_id": "13401",
+      "comment_title": "",
+      "comment_text": "パンダさんです！！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 15:31:07",
+      "updated_at": "2019-07-12 15:31:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

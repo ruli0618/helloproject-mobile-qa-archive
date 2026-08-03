@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "35015",
+      "comment_title": "",
+      "comment_text": "焼き肉！ユッケ！\nそのとき食べたい！と思ったものを惜しむことなく食べるのが一番ご褒美。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:40:53",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "35018",
+      "comment_title": "",
+      "comment_text": "Aaron Judgeに会う。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:41:17",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "35037",
+      "comment_title": "",
+      "comment_text": "屋久島旅行\nそこで美味しいご飯を苦しいくらい食べます。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 11:51:30",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "35079",
+      "comment_title": "",
+      "comment_text": "川に、飛び込む。\n全てがスッキリします。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-26 12:05:11",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

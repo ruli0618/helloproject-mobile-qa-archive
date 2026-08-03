@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 162,
+    "content_id": "13449",
+    "content_title": "雨の日の楽しみ方を教えてください。",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-15 10:00:00",
+    "created_at": "2020-03-31 10:44:54",
+    "updated_at": "2020-03-31 10:50:34",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13450",
+    "next_id": "13448"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

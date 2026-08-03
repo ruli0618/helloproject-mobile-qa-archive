@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19302",
+      "comment_title": "",
+      "comment_text": "あります◎",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:47:12",
+      "updated_at": "2020-11-27 16:47:12"
+    },
+    {
+      "comment_id": "19301",
+      "comment_title": "",
+      "comment_text": "10月の武道館の時、笑顔でステージから降りてきた途端に泣く後輩達を見て泣きました。。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:47:00",
+      "updated_at": "2020-11-27 16:47:00"
+    },
+    {
+      "comment_id": "19309",
+      "comment_title": "",
+      "comment_text": "武道館のコンサートで自分のパフォーマンスが終わったあとに泣きました。\n緊張がほぐれたからだと思います！笑\n私はすぐ泣いてしまうので、直したいなという風に思っています。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 16:48:26",
+      "updated_at": "2020-11-27 16:48:26"
+    },
+    {
+      "comment_id": "19310",
+      "comment_title": "",
+      "comment_text": "「Hello! Project 2020 Autumn  〜The Ballad〜 Extra Number」日本武道館公演の時。\n自分のソロが終わった後、待っていてくださった先輩方を見て、緊張がほどけて泣きました。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 17:04:33",
+      "updated_at": "2020-11-27 17:04:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

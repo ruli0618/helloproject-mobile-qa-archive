@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22479",
+      "comment_title": "",
+      "comment_text": "暑い！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:04:27",
+      "updated_at": "2021-09-16 18:04:27"
+    },
+    {
+      "comment_id": "22478",
+      "comment_title": "",
+      "comment_text": "あああああああ",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:04:18",
+      "updated_at": "2021-09-16 18:04:18"
+    },
+    {
+      "comment_id": "22480",
+      "comment_title": "",
+      "comment_text": "単独ツアーもしたいなぁ！",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:04:37",
+      "updated_at": "2021-09-16 18:04:37"
+    },
+    {
+      "comment_id": "22481",
+      "comment_title": "",
+      "comment_text": "あつーーーーい！！！！！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:04:49",
+      "updated_at": "2021-09-16 18:04:49"
+    },
+    {
+      "comment_id": "22482",
+      "comment_title": "",
+      "comment_text": "あついいいいいいいいいい",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:04:58",
+      "updated_at": "2021-09-16 18:04:58"
+    },
+    {
+      "comment_id": "22483",
+      "comment_title": "",
+      "comment_text": "寝ても寝ても眠いーーーー！！！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:05:07",
+      "updated_at": "2021-09-16 18:05:07"
+    },
+    {
+      "comment_id": "22484",
+      "comment_title": "",
+      "comment_text": "単独ツアーをやらせてください！！",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-16 18:05:17",
+      "updated_at": "2021-09-16 18:05:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

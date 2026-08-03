@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "9460",
+      "comment_title": "",
+      "comment_text": "・いつもお腹がすぐ空くので、食べ物をあげると喜びます。\n・めんどくさがり屋なので、頼んだ事はやってあげて下さい。\n・体調が悪いと機嫌が悪くなりますので、寝かせてあげて下さい。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:32:26",
+      "updated_at": "2018-07-18 14:32:26"
+    },
+    {
+      "comment_id": "9463",
+      "comment_title": "",
+      "comment_text": "・朝は起きたい時間の30分前から起こしてください。\n・昼は日によってテンションが違います。\n・夜は一番元気です。かまってやってください。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:33:27",
+      "updated_at": "2018-07-18 14:33:27"
+    },
+    {
+      "comment_id": "9464",
+      "comment_title": "",
+      "comment_text": "・気分屋さんです。なので少し気をつかわせてしまうかもしれません。\n・甘いものが大スキなので、一緒に甘いものを食べにいくと喜びます。\n・でも食べすぎも嫌なので、たくさん歩きたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:33:52",
+      "updated_at": "2018-07-18 14:33:52"
+    },
+    {
+      "comment_id": "9465",
+      "comment_title": "",
+      "comment_text": "・運動が好きで、一番ダンスが好きです。\n・お肉が好きなので、お肉を食べさせると喜びます。\n・マッサージが好きなので、マッサージをやってあげると喜びます。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:34:14",
+      "updated_at": "2018-07-18 14:34:14"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 182,
+    "content_id": "4734",
+    "content_title": "自分が似てると思う動物は？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2016-06-10 10:00:00",
+    "created_at": "2016-06-03 10:23:46",
+    "updated_at": "2016-06-10 10:07:10",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "4736",
+    "next_id": "4733"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

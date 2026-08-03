@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21255",
+      "comment_title": "",
+      "comment_text": "歌う時に自分から見てななめ右上を見がちな気がしています…？！歌いやすい角度があるようです。。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 17:43:35",
+      "updated_at": "2021-04-22 17:43:35"
+    },
+    {
+      "comment_id": "21254",
+      "comment_title": "",
+      "comment_text": "高い音出すときに斜め上を見ないと安定しなくて、上手に歌うおまじないみたいな感じでつい上を向いてしまいます。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 17:43:23",
+      "updated_at": "2021-04-22 17:43:23"
+    },
+    {
+      "comment_id": "21262",
+      "comment_title": "",
+      "comment_text": "癖というのかは分かりませんが、上の方を見がちかもしれません。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 17:45:03",
+      "updated_at": "2021-04-22 17:45:03"
+    },
+    {
+      "comment_id": "21263",
+      "comment_title": "",
+      "comment_text": "会場にパンダさんグッズをみつけると、「じー」っと見ちゃいます。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 17:45:16",
+      "updated_at": "2021-04-22 17:45:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

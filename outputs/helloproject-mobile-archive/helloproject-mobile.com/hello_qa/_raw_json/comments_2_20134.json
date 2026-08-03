@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "29974",
+      "comment_title": "",
+      "comment_text": "日々精進",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:50:46",
+      "updated_at": "2023-05-08 16:50:46"
+    },
+    {
+      "comment_id": "29973",
+      "comment_title": "",
+      "comment_text": "はい。私の性格を四字熟語で表しますと\n「日進月歩」です。\n私は、日々成長を止めない事を意識して生活しております。\nそして、変化を恐れない所が自分の長所でもありますので、そういった面を今後も活かしていけたらと思っております。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:50:38",
+      "updated_at": "2023-05-08 16:50:38"
+    },
+    {
+      "comment_id": "29979",
+      "comment_title": "",
+      "comment_text": "喜怒哀楽\n喜怒哀楽が分かりやすそうだから？笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:51:41",
+      "updated_at": "2023-05-08 16:51:41"
+    },
+    {
+      "comment_id": "29980",
+      "comment_title": "",
+      "comment_text": "自由闊達\nマイペースです。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:51:51",
+      "updated_at": "2023-05-08 16:51:51"
+    },
+    {
+      "comment_id": "29981",
+      "comment_title": "",
+      "comment_text": "大胆不敵\nと、よく言われます…笑！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:52:06",
+      "updated_at": "2023-05-08 16:52:06"
+    },
+    {
+      "comment_id": "30596",
+      "comment_title": "",
+      "comment_text": "小春日和\n人からよく穏やかだねと言われるからです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:03:56",
+      "updated_at": "2023-06-16 15:03:56"
+    },
+    {
+      "comment_id": "30597",
+      "comment_title": "",
+      "comment_text": "即決即断です！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:04:05",
+      "updated_at": "2023-06-16 15:04:05"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

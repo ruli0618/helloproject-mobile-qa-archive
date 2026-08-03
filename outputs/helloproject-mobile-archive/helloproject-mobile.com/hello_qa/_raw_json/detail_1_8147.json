@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "8147",
+    "content_title": "我が家の特別なルールを教えてください。",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2017-10-24 00:00:00",
+    "created_at": "2017-12-07 14:31:22",
+    "updated_at": "2017-12-12 10:38:19",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8148",
+    "next_id": "8146"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

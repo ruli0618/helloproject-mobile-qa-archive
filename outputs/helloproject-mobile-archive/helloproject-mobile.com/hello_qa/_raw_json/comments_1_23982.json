@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "comment_id": "36321",
+      "comment_title": "",
+      "comment_text": "耳をうさぎに変える。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-01-23 10:49:15",
+      "updated_at": "2026-06-29 14:30:46"
+    },
+    {
+      "comment_id": "36349",
+      "comment_title": "",
+      "comment_text": "難しい質問、、、、。逆にありますか？？笑",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-01-23 11:01:43",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "36416",
+      "comment_title": "",
+      "comment_text": "脳をダチョウ。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-01-23 11:26:23",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

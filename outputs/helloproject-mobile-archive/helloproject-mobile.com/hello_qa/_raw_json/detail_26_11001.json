@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 362,
+    "content_id": "11001",
+    "content_title": "ハロー！プロジェクトOGとユニットを組むなら誰？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2019-04-27 10:00:00",
+    "created_at": "2019-03-15 11:11:10",
+    "updated_at": "2019-04-25 17:50:13",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11002",
+    "next_id": "11000"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

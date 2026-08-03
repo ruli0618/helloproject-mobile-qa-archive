@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "35397",
+      "comment_title": "",
+      "comment_text": "焼き肉！ユッケ！",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 12:56:34",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "35400",
+      "comment_title": "",
+      "comment_text": "天壇のミルフィーユロース",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 12:57:06",
+      "updated_at": "2026-06-29 14:30:46"
+    },
+    {
+      "comment_id": "35430",
+      "comment_title": "",
+      "comment_text": "あまり無いですが、焼肉がいいです！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:06:31",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "35493",
+      "comment_title": "",
+      "comment_text": "色々なものにバルサミコ酢ドバドバかけます。勝負の日関係なく。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-15 13:29:55",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

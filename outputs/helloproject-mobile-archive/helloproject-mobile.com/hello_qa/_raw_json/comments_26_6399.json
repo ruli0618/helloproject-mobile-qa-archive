@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "5737",
+      "comment_title": "",
+      "comment_text": "大地が広い分、皆のほほーんとしてる所。\n心が広い。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-03-29 16:52:17",
+      "updated_at": "2017-03-29 16:52:17"
+    },
+    {
+      "comment_id": "5740",
+      "comment_title": "",
+      "comment_text": "東京なのに、都会過ぎないところです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-03-29 16:52:43",
+      "updated_at": "2017-03-29 16:52:43"
+    },
+    {
+      "comment_id": "5741",
+      "comment_title": "",
+      "comment_text": "空気はおいしい。\n緑が多い。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-03-29 16:52:50",
+      "updated_at": "2017-03-29 16:52:50"
+    },
+    {
+      "comment_id": "5742",
+      "comment_title": "",
+      "comment_text": "みんな、ノリが良い！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-03-29 16:52:57",
+      "updated_at": "2017-03-29 16:52:57"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

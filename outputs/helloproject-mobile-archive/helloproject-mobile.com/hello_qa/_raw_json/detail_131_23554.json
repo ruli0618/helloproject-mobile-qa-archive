@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 82,
+    "content_id": "23554",
+    "content_title": "つい買ってしまう・集めているものはありますか？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2025-01-11 10:00:00",
+    "created_at": "2024-12-23 16:41:14",
+    "updated_at": "2025-01-10 17:04:29",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "23555",
+    "next_id": "23553"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

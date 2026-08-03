@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "25370",
+      "comment_title": "",
+      "comment_text": "宝塚歌劇団の団員さんを1人ずつを紹介する。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:17:27",
+      "updated_at": "2022-04-12 17:17:27"
+    },
+    {
+      "comment_id": "25373",
+      "comment_title": "",
+      "comment_text": "食べ比べをテーマにして自由研究してみたいです！\nどうして同じものでも味や栄養素が少しずつ違うのかとか、気になるのでやってみたい！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:17:53",
+      "updated_at": "2022-04-12 17:17:53"
+    },
+    {
+      "comment_id": "25371",
+      "comment_title": "",
+      "comment_text": "爬虫類について",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:17:33",
+      "updated_at": "2022-04-12 17:17:33"
+    },
+    {
+      "comment_id": "25372",
+      "comment_title": "",
+      "comment_text": "カエルの標本作り\n中身を見たら新しい発見がありそう！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:17:42",
+      "updated_at": "2022-04-12 17:17:42"
+    },
+    {
+      "comment_id": "25374",
+      "comment_title": "",
+      "comment_text": "食パンの深さ",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:18:02",
+      "updated_at": "2022-04-12 17:18:02"
+    },
+    {
+      "comment_id": "25375",
+      "comment_title": "",
+      "comment_text": "人工甘味料についてレポートにまとめます！\n最近、コンビニをよく利用するようになってから人工甘味料について興味があるので、ちゃんと調べて今後どうするのがいいのかとかを調べてまとめてみたいです！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 17:18:59",
+      "updated_at": "2022-04-12 17:18:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

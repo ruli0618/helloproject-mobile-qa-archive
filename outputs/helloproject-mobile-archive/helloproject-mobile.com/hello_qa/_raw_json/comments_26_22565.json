@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "34507",
+      "comment_title": "",
+      "comment_text": "好きなものをたくさん買える私。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:07:27",
+      "updated_at": "2024-07-10 10:07:27"
+    },
+    {
+      "comment_id": "34508",
+      "comment_title": "",
+      "comment_text": "良いドライヤーが欲しいですっ。\n良い物を買おう買おうと思っても、壊れてないから結局買い替えられずに今です。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:07:38",
+      "updated_at": "2024-07-10 10:07:38"
+    },
+    {
+      "comment_id": "34509",
+      "comment_title": "",
+      "comment_text": "趣味です！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:07:48",
+      "updated_at": "2024-07-10 10:07:48"
+    },
+    {
+      "comment_id": "34510",
+      "comment_title": "",
+      "comment_text": "夏休みかなぁ。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:07:59",
+      "updated_at": "2024-07-10 10:07:59"
+    },
+    {
+      "comment_id": "34511",
+      "comment_title": "",
+      "comment_text": "お洋服！！\n夏服たくさん買いたいですー！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:08:12",
+      "updated_at": "2024-07-10 10:08:12"
+    },
+    {
+      "comment_id": "34513",
+      "comment_title": "",
+      "comment_text": "目がどんどん悪くなってきているので視力です。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:08:31",
+      "updated_at": "2024-07-10 10:08:31"
+    },
+    {
+      "comment_id": "34514",
+      "comment_title": "",
+      "comment_text": "ほしがほしいー！☆",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:08:43",
+      "updated_at": "2024-07-10 10:08:43"
+    },
+    {
+      "comment_id": "34515",
+      "comment_title": "",
+      "comment_text": "ドライヤーです！",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:08:54",
+      "updated_at": "2024-07-10 10:08:54"
+    },
+    {
+      "comment_id": "34516",
+      "comment_title": "",
+      "comment_text": "身長です！",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:09:04",
+      "updated_at": "2024-07-10 10:09:04"
+    },
+    {
+      "comment_id": "34517",
+      "comment_title": "",
+      "comment_text": "お洋服です！\n可愛いお洋服を着てお出かけしたいからです！",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 10:09:15",
+      "updated_at": "2024-07-10 10:09:15"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

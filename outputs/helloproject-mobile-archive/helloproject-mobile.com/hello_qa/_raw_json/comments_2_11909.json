@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13578",
+      "comment_title": "",
+      "comment_text": "自然に照れる女の子って可愛いです。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-15 10:46:54",
+      "updated_at": "2019-08-15 10:46:54"
+    },
+    {
+      "comment_id": "13577",
+      "comment_title": "",
+      "comment_text": "素直な感情表現をしている子かわいいなぁと思います！\nうれしい、美味しい、楽しい、びっくり、悲しい、気に入らない\nとか色々！\nでも、わがまま過ぎないくらいが良いですね！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-15 10:46:42",
+      "updated_at": "2019-08-15 10:46:42"
+    },
+    {
+      "comment_id": "13584",
+      "comment_title": "",
+      "comment_text": "目が合った時にニコッとほほえむ。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-15 10:53:02",
+      "updated_at": "2019-08-15 10:53:02"
+    },
+    {
+      "comment_id": "13585",
+      "comment_title": "",
+      "comment_text": "嬉しい時にピョンピョンジャンプする。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-15 10:53:10",
+      "updated_at": "2019-08-15 10:53:10"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

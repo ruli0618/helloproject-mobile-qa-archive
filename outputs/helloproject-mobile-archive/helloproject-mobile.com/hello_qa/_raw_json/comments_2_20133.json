@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "29962",
+      "comment_title": "",
+      "comment_text": "巻き舌ができるようになりました！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:46:29",
+      "updated_at": "2023-05-08 16:46:29"
+    },
+    {
+      "comment_id": "29961",
+      "comment_title": "",
+      "comment_text": "背が1.1cm縮みました。でもこんなのは誤差だと思います。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:46:15",
+      "updated_at": "2023-05-08 16:46:15"
+    },
+    {
+      "comment_id": "29967",
+      "comment_title": "",
+      "comment_text": "スキンケアを変えた！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:47:07",
+      "updated_at": "2023-05-08 16:47:07"
+    },
+    {
+      "comment_id": "29968",
+      "comment_title": "",
+      "comment_text": "熱い飲み物で舌を火傷した(笑)",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:47:14",
+      "updated_at": "2023-05-08 16:47:14"
+    },
+    {
+      "comment_id": "29969",
+      "comment_title": "",
+      "comment_text": "祝！暖かくなってきたので再販。某コンビニのマンゴーアイスを毎日食べています。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-08 16:47:25",
+      "updated_at": "2023-05-08 16:47:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "comment_id": "29163",
+      "comment_title": "",
+      "comment_text": "ふわっと抽象的に思ったことを言語化してくれるアプリ",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:56:27",
+      "updated_at": "2023-03-13 17:56:27"
+    },
+    {
+      "comment_id": "29164",
+      "comment_title": "",
+      "comment_text": "頭で思い浮かべたら、その文字を勝手に打ち込んでくれるアプリ",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:56:36",
+      "updated_at": "2023-03-13 17:56:36"
+    },
+    {
+      "comment_id": "29165",
+      "comment_title": "",
+      "comment_text": "毎日の食事のメニューを考えてくれるアプリ",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:56:44",
+      "updated_at": "2023-03-13 17:56:44"
+    },
+    {
+      "comment_id": "29166",
+      "comment_title": "",
+      "comment_text": "自分の充電を人に分けられるアプリ。\n私もよく充電無くなるので、助け合いの世界にしていきたい所存です。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:56:55",
+      "updated_at": "2023-03-13 17:56:55"
+    },
+    {
+      "comment_id": "29167",
+      "comment_title": "",
+      "comment_text": "間違えている日本語を勝手に変換してくれるアプリ",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:57:02",
+      "updated_at": "2023-03-13 17:57:02"
+    },
+    {
+      "comment_id": "29168",
+      "comment_title": "",
+      "comment_text": "目的地を設定したら瞬間移動できるアプリ",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:57:11",
+      "updated_at": "2023-03-13 17:57:11"
+    },
+    {
+      "comment_id": "29169",
+      "comment_title": "",
+      "comment_text": "忘れ物を探してくれるアプリ",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:57:19",
+      "updated_at": "2023-03-13 17:57:19"
+    },
+    {
+      "comment_id": "29170",
+      "comment_title": "",
+      "comment_text": "すぐにご飯が出てくるアプリ",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:57:30",
+      "updated_at": "2023-03-13 17:57:30"
+    },
+    {
+      "comment_id": "29171",
+      "comment_title": "",
+      "comment_text": "アイスについての豆知識や、新商品のアイス、地域別のアイス屋さん情報やランキングがわかるアプリ",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 17:57:39",
+      "updated_at": "2023-03-13 17:57:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

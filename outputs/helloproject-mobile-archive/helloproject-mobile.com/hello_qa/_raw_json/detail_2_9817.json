@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 402,
+    "content_id": "9817",
+    "content_title": "他のグループの衣装で、好きな衣装を教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2018-10-30 10:00:00",
+    "created_at": "2018-09-06 12:17:02",
+    "updated_at": "2018-10-29 18:35:17",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9818",
+    "next_id": "9816"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

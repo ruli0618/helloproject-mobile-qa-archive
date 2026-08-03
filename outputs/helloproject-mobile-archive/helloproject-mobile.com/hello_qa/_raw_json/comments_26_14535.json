@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18710",
+      "comment_title": "",
+      "comment_text": "1人でどこでもいけるようになった所です。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-25 12:03:33",
+      "updated_at": "2020-09-25 12:03:33"
+    },
+    {
+      "comment_id": "18713",
+      "comment_title": "",
+      "comment_text": "朝、自分で起きられるようになったこと。\n2分ごとにアラームセットします。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-25 12:04:06",
+      "updated_at": "2020-09-25 12:04:06"
+    },
+    {
+      "comment_id": "18714",
+      "comment_title": "",
+      "comment_text": "お肌に気をつけ出したこと。\n今まで肌のお手入れを周りの子ほどしていなかったけど、最近は朝起きてからの洗顔も手を抜かなくなりました。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-25 12:04:17",
+      "updated_at": "2020-09-25 12:04:17"
+    },
+    {
+      "comment_id": "18715",
+      "comment_title": "",
+      "comment_text": "一人でも寝れる所。\n前まではソワソワして怖がっていたけど、一人でも大丈夫になれました。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-25 12:04:27",
+      "updated_at": "2020-09-25 12:04:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

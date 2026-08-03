@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "33549",
+      "comment_title": "",
+      "comment_text": "静岡県は海・山に囲まれ、自然豊かで観光地が多い！利便性も高く、都市部は商業施設が集まっているし東京や名古屋にもでやすい！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:33:59",
+      "updated_at": "2024-05-02 11:33:59"
+    },
+    {
+      "comment_id": "33548",
+      "comment_title": "",
+      "comment_text": "美味しいカレーパンがあります。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:33:49",
+      "updated_at": "2024-05-02 11:33:49"
+    },
+    {
+      "comment_id": "33554",
+      "comment_title": "",
+      "comment_text": "東京生まれ東京育ちですが、東京といっても中心に行けば都会だし自然が多いところも沢山あるので、そこがいいところだと思います。\n私は自然多めで育ったので、都心から少し離れた公園とかも好きです笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:34:43",
+      "updated_at": "2024-05-02 11:34:43"
+    },
+    {
+      "comment_id": "33555",
+      "comment_title": "",
+      "comment_text": "・私の地元北海道は、美味しいフード＆スイーツがいっぱいあります！\n・お土産のお菓子も美味しい。特にチョコ系が好き♡",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:34:55",
+      "updated_at": "2024-05-02 11:34:55"
+    },
+    {
+      "comment_id": "33556",
+      "comment_title": "",
+      "comment_text": "地元は東京なのですが…交通の便が良すぎるところかな…？",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:35:07",
+      "updated_at": "2024-05-02 11:35:07"
+    },
+    {
+      "comment_id": "33557",
+      "comment_title": "",
+      "comment_text": "山が多くて、花や虫がいるところです。\nゲームなどの娯楽が無くても楽しめます。ご飯も美味しいです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:35:17",
+      "updated_at": "2024-05-02 11:35:17"
+    },
+    {
+      "comment_id": "33558",
+      "comment_title": "",
+      "comment_text": "都会過ぎず田舎過ぎずなとこ！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:35:27",
+      "updated_at": "2024-05-02 11:35:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

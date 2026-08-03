@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "4109",
+      "comment_title": "",
+      "comment_text": "自分が願ったことが叶う能力。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 13:13:57",
+      "updated_at": "2016-08-18 13:13:57"
+    },
+    {
+      "comment_id": "4118",
+      "comment_title": "",
+      "comment_text": "瞬間移動",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:02:35",
+      "updated_at": "2016-08-18 14:02:35"
+    },
+    {
+      "comment_id": "4119",
+      "comment_title": "",
+      "comment_text": "タイムリープしてみたい。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:02:44",
+      "updated_at": "2016-08-18 14:02:44"
+    },
+    {
+      "comment_id": "4120",
+      "comment_title": "",
+      "comment_text": "時間を止める能力です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:02:54",
+      "updated_at": "2016-08-18 14:02:54"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

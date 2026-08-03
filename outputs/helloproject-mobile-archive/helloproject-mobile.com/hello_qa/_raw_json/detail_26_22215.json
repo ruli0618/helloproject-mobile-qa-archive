@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 102,
+    "content_id": "22215",
+    "content_title": "幸せを感じる瞬間は？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2024-06-20 10:00:00",
+    "created_at": "2024-05-15 14:29:27",
+    "updated_at": "2024-06-19 16:33:47",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "22216",
+    "next_id": "22214"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 242,
+    "content_id": "16345",
+    "content_title": "ドッキリ企画！誰にどんなドッキリを仕掛ける？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2021-08-31 10:00:00",
+    "created_at": "2021-07-16 11:35:35",
+    "updated_at": "2021-08-25 10:29:20",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16346",
+    "next_id": "16344"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

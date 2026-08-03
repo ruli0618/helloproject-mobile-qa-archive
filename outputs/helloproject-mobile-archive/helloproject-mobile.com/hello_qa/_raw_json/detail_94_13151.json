@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "13151",
+    "content_title": "あなたが頼りにしているメンバーは？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2020-04-24 10:00:00",
+    "created_at": "2020-02-20 16:15:35",
+    "updated_at": "2020-04-23 10:05:50",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13152",
+    "next_id": "13150"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

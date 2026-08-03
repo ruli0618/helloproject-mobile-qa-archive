@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "17955",
+      "comment_title": "",
+      "comment_text": "買い物したい。今は部屋のインテリアとアクセサリーが欲しいからそれ！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:21:04",
+      "updated_at": "2020-05-26 11:21:04"
+    },
+    {
+      "comment_id": "17954",
+      "comment_title": "",
+      "comment_text": "ちょっと良い美味しいもの！！\nとにかく美味しいもの！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:20:21",
+      "updated_at": "2020-05-26 11:20:21"
+    },
+    {
+      "comment_id": "17962",
+      "comment_title": "",
+      "comment_text": "お肉、お刺身\n私が好きな食べ物です！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:22:04",
+      "updated_at": "2020-05-26 11:22:04"
+    },
+    {
+      "comment_id": "17963",
+      "comment_title": "",
+      "comment_text": "パンダさんのスイーツを1人でい～っぱい食べる。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:22:11",
+      "updated_at": "2020-05-26 11:22:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

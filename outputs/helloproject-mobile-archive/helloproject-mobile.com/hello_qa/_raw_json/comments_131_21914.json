@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33334",
+      "comment_title": "",
+      "comment_text": "だし巻き玉子！\n本当に美味しいので、たくさん食べたくなっちゃいます！",
+      "user_name": "斉藤円香",
+      "user_icon": "0",
+      "artist_id": "133",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:17:00",
+      "updated_at": "2024-03-14 16:17:00"
+    },
+    {
+      "comment_id": "33335",
+      "comment_title": "",
+      "comment_text": "甘い卵焼き",
+      "user_name": "広本瑠璃",
+      "user_icon": "0",
+      "artist_id": "134",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:17:12",
+      "updated_at": "2024-03-14 16:17:12"
+    },
+    {
+      "comment_id": "33337",
+      "comment_title": "",
+      "comment_text": "卵焼き",
+      "user_name": "米村姫良々",
+      "user_icon": "0",
+      "artist_id": "136",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:17:41",
+      "updated_at": "2024-03-14 16:17:41"
+    },
+    {
+      "comment_id": "33338",
+      "comment_title": "",
+      "comment_text": "茶碗蒸し！\n小さい頃から大好きで、初めて作れるようになった料理も多分茶碗蒸しです！",
+      "user_name": "窪田七海",
+      "user_icon": "0",
+      "artist_id": "137",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:17:56",
+      "updated_at": "2024-03-14 16:17:56"
+    },
+    {
+      "comment_id": "33340",
+      "comment_title": "",
+      "comment_text": "スクランブルエッグ",
+      "user_name": "中山夏月姫",
+      "user_icon": "0",
+      "artist_id": "139",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:18:22",
+      "updated_at": "2024-03-14 16:18:22"
+    },
+    {
+      "comment_id": "33341",
+      "comment_title": "",
+      "comment_text": "オムライスです！",
+      "user_name": "西﨑美空",
+      "user_icon": "0",
+      "artist_id": "140",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:18:32",
+      "updated_at": "2024-03-14 16:18:32"
+    },
+    {
+      "comment_id": "33342",
+      "comment_title": "",
+      "comment_text": "たまごスープです！\nあったまりますよね！あったかいんだから！",
+      "user_name": "北原もも",
+      "user_icon": "0",
+      "artist_id": "141",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:18:49",
+      "updated_at": "2024-03-14 16:18:49"
+    },
+    {
+      "comment_id": "33343",
+      "comment_title": "",
+      "comment_text": "おじいちゃんの作る卵焼きです！\nいつ食べても美味しいです！",
+      "user_name": "筒井澪心",
+      "user_icon": "0",
+      "artist_id": "142",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 16:19:01",
+      "updated_at": "2024-03-14 16:19:01"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

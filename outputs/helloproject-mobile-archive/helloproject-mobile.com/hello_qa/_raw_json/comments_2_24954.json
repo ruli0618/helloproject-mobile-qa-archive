@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "38609",
+      "comment_title": "",
+      "comment_text": "「ちぇるラジ！」とか…？",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:34:36",
+      "updated_at": "2025-09-17 14:34:36"
+    },
+    {
+      "comment_id": "38612",
+      "comment_title": "",
+      "comment_text": "すみません前にFCでやってた時のままなんですがこれよりわかりやすいのが見つかりません。「さくらさくラジオ」",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:34:56",
+      "updated_at": "2025-09-17 14:34:56"
+    },
+    {
+      "comment_id": "38618",
+      "comment_title": "",
+      "comment_text": "岡村ほまれのホマラジ！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:35:44",
+      "updated_at": "2025-09-17 14:35:44"
+    },
+    {
+      "comment_id": "38619",
+      "comment_title": "",
+      "comment_text": "Mei World Max！\n今担当しているラジオ「山﨑愛生のメイボンソワ」ぜひ聴いてね。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:35:52",
+      "updated_at": "2025-09-17 14:35:52"
+    },
+    {
+      "comment_id": "38620",
+      "comment_title": "",
+      "comment_text": "「ラジリオ～帰ってきた！櫻井の時間～」\nFCでやっていたソロwebラジオ。\nまたやりたいです！！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:36:00",
+      "updated_at": "2025-09-17 14:36:00"
+    },
+    {
+      "comment_id": "38621",
+      "comment_title": "",
+      "comment_text": "意外としゃべるねん。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:36:11",
+      "updated_at": "2025-09-17 14:36:11"
+    },
+    {
+      "comment_id": "38622",
+      "comment_title": "",
+      "comment_text": "《聞いてください弓桁団長！》\n視聴率78%",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-09-17 14:36:22",
+      "updated_at": "2025-09-17 14:36:22"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

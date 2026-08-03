@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "comment_id": "503",
+      "comment_title": "",
+      "comment_text": "お花見(^o^)／去年から花粉症が治ったので、もっと桜を楽しめます！！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    },
+    {
+      "comment_id": "501",
+      "comment_title": "",
+      "comment_text": "さくらでしょう！！もしくはマイバースデー♪",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    },
+    {
+      "comment_id": "504",
+      "comment_title": "",
+      "comment_text": "プロ野球開幕",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2015-07-16 15:56:09",
+      "updated_at": "2015-07-16 15:56:09"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

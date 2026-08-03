@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30440",
+      "comment_title": "",
+      "comment_text": "たくさんあります！美容もパフォーマンスも！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:23:41",
+      "updated_at": "2023-06-12 12:23:41"
+    },
+    {
+      "comment_id": "30439",
+      "comment_title": "",
+      "comment_text": "笑い方も喋り方も振る舞いも好きな食べ物も、メンバーの影響を受けてる部分の方が多いです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:23:32",
+      "updated_at": "2023-06-12 12:23:32"
+    },
+    {
+      "comment_id": "30445",
+      "comment_title": "",
+      "comment_text": "全くアニメを見なかったのですが最近は見てます！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:24:21",
+      "updated_at": "2023-06-12 12:24:21"
+    },
+    {
+      "comment_id": "30446",
+      "comment_title": "",
+      "comment_text": "笑い声が大きくなった。\n笑い声が独特で大きいメンバーが多いので、釣られてこうなりました(笑)",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:24:33",
+      "updated_at": "2023-06-12 12:24:33"
+    },
+    {
+      "comment_id": "30447",
+      "comment_title": "",
+      "comment_text": "撮影の時の表情やポージングなど。実際に先輩の様子を見て学ぶのが1番身につきます。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:24:41",
+      "updated_at": "2023-06-12 12:24:41"
+    },
+    {
+      "comment_id": "30610",
+      "comment_title": "",
+      "comment_text": "かっこいいパフォーマンスです。\nアイドルはかわいい感じのイメージがあったのですが、モーニング娘。の野外フェスを映像で観た時こんなにかっこいいアイドルもいるんだと驚き、自分もこんなパフォーマンスができるようになりたいと影響を受けました。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:07:01",
+      "updated_at": "2023-06-16 15:07:01"
+    },
+    {
+      "comment_id": "30611",
+      "comment_title": "",
+      "comment_text": "一時期ケンタッキーを食べる時は、ガーリックホットチキンを買うようにしてました！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:07:09",
+      "updated_at": "2023-06-16 15:07:09"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

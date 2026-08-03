@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 182,
+    "content_id": "13428",
+    "content_title": "貰って一番ビックリしたプレゼントは何ですか？",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-14 00:00:00",
+    "created_at": "2020-03-30 19:39:29",
+    "updated_at": "2020-03-30 19:42:47",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13429",
+    "next_id": "13427"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

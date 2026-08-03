@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 22,
+    "content_id": "25310",
+    "content_title": "自分のファンの皆さんの印象は？",
+    "content_sub_title": "",
+    "category_id": "174",
+    "release_date": "2025-11-30 10:00:00",
+    "created_at": "2025-11-18 13:05:43",
+    "updated_at": "2025-11-28 18:23:40",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "25322",
+    "next_id": "25264"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

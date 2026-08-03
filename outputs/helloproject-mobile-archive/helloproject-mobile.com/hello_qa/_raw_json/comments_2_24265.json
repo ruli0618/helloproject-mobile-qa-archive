@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "37439",
+      "comment_title": "",
+      "comment_text": "フルーツポンチ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:09:51",
+      "updated_at": "2025-05-08 13:09:51"
+    },
+    {
+      "comment_id": "37438",
+      "comment_title": "",
+      "comment_text": "うずらの卵が使われているお料理だったら、なんでもテンション上がってました。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:09:44",
+      "updated_at": "2025-05-08 13:09:44"
+    },
+    {
+      "comment_id": "37445",
+      "comment_title": "",
+      "comment_text": "七夕とかにでる七夕ゼリー。\nデザートが好きでした！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:11:03",
+      "updated_at": "2025-05-08 13:11:03"
+    },
+    {
+      "comment_id": "37446",
+      "comment_title": "",
+      "comment_text": "枝豆、揚げパン、ラーメン、カレー、わかめご飯、ABCスープ。\n初めておかわりしたのが高学年になった時で「わかめご飯」でした！普段おかわりしないので先生や友達が珍しがっていました笑",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:11:13",
+      "updated_at": "2025-05-08 13:11:13"
+    },
+    {
+      "comment_id": "37447",
+      "comment_title": "",
+      "comment_text": "揚げパン一択！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:11:43",
+      "updated_at": "2025-05-08 13:11:43"
+    },
+    {
+      "comment_id": "37448",
+      "comment_title": "",
+      "comment_text": "かぼちゃコロッケと、わかめご飯と照り焼きチキンです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:11:55",
+      "updated_at": "2025-05-08 13:11:55"
+    },
+    {
+      "comment_id": "37449",
+      "comment_title": "",
+      "comment_text": "かくあえ！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-08 13:12:02",
+      "updated_at": "2025-05-08 13:12:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

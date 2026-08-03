@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 302,
+    "content_id": "14582",
+    "content_title": "スーパーヒーローになるなら、どんな能力が欲しい？",
+    "content_sub_title": "",
+    "category_id": "3",
+    "release_date": "2020-10-14 10:00:00",
+    "created_at": "2020-09-28 17:42:37",
+    "updated_at": "2020-10-08 09:53:13",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "14583",
+    "next_id": "14476"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

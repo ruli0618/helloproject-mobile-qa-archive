@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "27187",
+      "comment_title": "",
+      "comment_text": "ボケ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:42:26",
+      "updated_at": "2022-09-16 12:42:26"
+    },
+    {
+      "comment_id": "27186",
+      "comment_title": "",
+      "comment_text": "多分ツッコミなんですけど最近怪しい。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:42:18",
+      "updated_at": "2022-09-16 12:42:18"
+    },
+    {
+      "comment_id": "27193",
+      "comment_title": "",
+      "comment_text": "どちらかというとボケ？？\nツッコミもできるようになりたいです。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:43:26",
+      "updated_at": "2022-09-16 12:43:26"
+    },
+    {
+      "comment_id": "27194",
+      "comment_title": "",
+      "comment_text": "たぶん…ボケ派です。\nツッコミを入れても、そのツッコミも意味が分からない感じになっちゃうので。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:43:38",
+      "updated_at": "2022-09-16 12:43:38"
+    },
+    {
+      "comment_id": "27195",
+      "comment_title": "",
+      "comment_text": "ボケてるつもりはないのですが、よく突っ込まれるのでボケ派かもしれません…。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 12:43:48",
+      "updated_at": "2022-09-16 12:43:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

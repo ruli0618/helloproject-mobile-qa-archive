@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "11982",
+    "content_title": "他のグループで歌いたい曲を教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2019-09-26 10:00:00",
+    "created_at": "2019-08-21 11:15:31",
+    "updated_at": "2019-09-25 17:43:12",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11989",
+    "next_id": "11956"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

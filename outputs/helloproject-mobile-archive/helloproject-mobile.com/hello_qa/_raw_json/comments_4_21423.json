@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "32243",
+      "comment_title": "",
+      "comment_text": "ぞう！優しくて強そう！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:43:23",
+      "updated_at": "2023-12-12 15:43:23"
+    },
+    {
+      "comment_id": "32244",
+      "comment_title": "",
+      "comment_text": "龍",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:43:37",
+      "updated_at": "2023-12-12 15:43:37"
+    },
+    {
+      "comment_id": "32245",
+      "comment_title": "",
+      "comment_text": "ツノモチダコ",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:43:52",
+      "updated_at": "2023-12-12 15:43:52"
+    },
+    {
+      "comment_id": "32246",
+      "comment_title": "",
+      "comment_text": "猫！好きだから♡",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:44:10",
+      "updated_at": "2023-12-12 15:44:10"
+    },
+    {
+      "comment_id": "32247",
+      "comment_title": "",
+      "comment_text": "段原瑠々さん！敵を一撃できそう！",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:44:22",
+      "updated_at": "2023-12-12 15:44:22"
+    },
+    {
+      "comment_id": "32248",
+      "comment_title": "",
+      "comment_text": "えば(江端妃咲ちゃん)",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:44:39",
+      "updated_at": "2023-12-12 15:44:39"
+    },
+    {
+      "comment_id": "32249",
+      "comment_title": "",
+      "comment_text": "工藤由愛さん",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:44:54",
+      "updated_at": "2023-12-12 15:44:54"
+    },
+    {
+      "comment_id": "32250",
+      "comment_title": "",
+      "comment_text": "シャチ",
+      "user_name": "石山咲良",
+      "user_icon": "0",
+      "artist_id": "146",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:45:07",
+      "updated_at": "2023-12-12 15:45:07"
+    },
+    {
+      "comment_id": "32251",
+      "comment_title": "",
+      "comment_text": "カワウソ！",
+      "user_name": "遠藤彩加里",
+      "user_icon": "0",
+      "artist_id": "145",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:45:20",
+      "updated_at": "2023-12-12 15:45:20"
+    },
+    {
+      "comment_id": "33768",
+      "comment_title": "",
+      "comment_text": "猫！",
+      "user_name": "川嶋美楓",
+      "user_icon": "0",
+      "artist_id": "151",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 15:28:39",
+      "updated_at": "2024-05-02 15:28:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

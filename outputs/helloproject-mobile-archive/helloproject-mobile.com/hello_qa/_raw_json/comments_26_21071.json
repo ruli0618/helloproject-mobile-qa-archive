@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31748",
+      "comment_title": "",
+      "comment_text": "カフェの店員さん",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:06:55",
+      "updated_at": "2023-10-19 15:06:55"
+    },
+    {
+      "comment_id": "31749",
+      "comment_title": "",
+      "comment_text": "カフェ店員さんになってみたいです！！\nお客さんといっぱいお話したい笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:07:13",
+      "updated_at": "2023-10-19 15:07:13"
+    },
+    {
+      "comment_id": "31750",
+      "comment_title": "",
+      "comment_text": "ビールの売り子さんです！\n絶対にチャレンジしてみたい！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:07:23",
+      "updated_at": "2023-10-19 15:07:23"
+    },
+    {
+      "comment_id": "31751",
+      "comment_title": "",
+      "comment_text": "服を作る人\nご飯屋さん",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:07:34",
+      "updated_at": "2023-10-19 15:07:34"
+    },
+    {
+      "comment_id": "31752",
+      "comment_title": "",
+      "comment_text": "接客業してみたい！お菓子屋さんか焼肉屋さんとか！\nお菓子の匂いもお肉の匂いも好き～。",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:07:45",
+      "updated_at": "2023-10-19 15:07:45"
+    },
+    {
+      "comment_id": "31754",
+      "comment_title": "",
+      "comment_text": "本屋さんでアルバイトしてみたいです！本の匂いってなんだか落ち着くので、ゆったり自分らしくアルバイトできる気がするからです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:08:06",
+      "updated_at": "2023-10-19 15:08:06"
+    },
+    {
+      "comment_id": "31755",
+      "comment_title": "",
+      "comment_text": "ペンキ塗る。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:08:15",
+      "updated_at": "2023-10-19 15:08:15"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

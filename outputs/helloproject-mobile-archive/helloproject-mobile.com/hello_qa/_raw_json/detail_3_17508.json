@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 222,
+    "content_id": "17508",
+    "content_title": "急に今日の仕事がオフに！一日をどうやって過ごす？",
+    "content_sub_title": "",
+    "category_id": "3",
+    "release_date": "2022-02-23 10:00:00",
+    "created_at": "2022-01-18 18:05:35",
+    "updated_at": "2022-02-22 00:18:44",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17572",
+    "next_id": "17507"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

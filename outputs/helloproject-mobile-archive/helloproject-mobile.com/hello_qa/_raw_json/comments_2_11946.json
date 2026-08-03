@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13771",
+      "comment_title": "",
+      "comment_text": "「はじめてのおつかい」。おつかいすることにずっと憧れてました。アメリカには、おつかいする文化があまり無いので！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 15:35:03",
+      "updated_at": "2019-08-19 15:35:03"
+    },
+    {
+      "comment_id": "13770",
+      "comment_title": "",
+      "comment_text": "「100万回生きた猫」です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 15:34:52",
+      "updated_at": "2019-08-19 15:34:52"
+    },
+    {
+      "comment_id": "13777",
+      "comment_title": "",
+      "comment_text": "「きんぎょがにげた」です。逃げたきんぎょを探すのが楽しくてよく読んでました！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 15:36:09",
+      "updated_at": "2019-08-19 15:36:09"
+    },
+    {
+      "comment_id": "13778",
+      "comment_title": "",
+      "comment_text": "・Snow White(白雪姫)\n・のんたんの絵本",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 15:36:15",
+      "updated_at": "2019-08-19 15:36:15"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

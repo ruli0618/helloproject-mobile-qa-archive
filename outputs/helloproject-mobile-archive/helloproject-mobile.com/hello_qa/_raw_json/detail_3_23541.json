@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "23541",
+    "content_title": "今の気分で歌いたいハロプロ曲は？",
+    "content_sub_title": "",
+    "category_id": "3",
+    "release_date": "2025-01-22 10:00:00",
+    "created_at": "2024-12-23 15:10:09",
+    "updated_at": "2025-01-21 10:32:42",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "23542",
+    "next_id": "23540"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "24248",
+    "content_title": "テーマパークに行ったらアトラクション派？パレード派？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2025-05-15 10:00:00",
+    "created_at": "2025-05-07 18:55:25",
+    "updated_at": "2025-05-14 16:38:26",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24260",
+    "next_id": "24127"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

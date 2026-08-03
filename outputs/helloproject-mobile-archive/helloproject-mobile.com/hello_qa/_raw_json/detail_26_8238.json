@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "8238",
+    "content_title": "ファンに質問したい事は？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2018-02-10 10:00:00",
+    "created_at": "2017-12-13 11:14:13",
+    "updated_at": "2018-02-09 10:10:01",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8239",
+    "next_id": "8237"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

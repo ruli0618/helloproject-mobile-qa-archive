@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "10819",
+      "comment_title": "",
+      "comment_text": "入ったことがないのですが、怖いので守ってもらいたいです。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:51:52",
+      "updated_at": "2018-11-07 12:51:52"
+    },
+    {
+      "comment_id": "10820",
+      "comment_title": "",
+      "comment_text": "守られるタイプです。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:52:01",
+      "updated_at": "2018-11-07 12:52:01"
+    },
+    {
+      "comment_id": "10822",
+      "comment_title": "",
+      "comment_text": "入らないタイプ",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:52:18",
+      "updated_at": "2018-11-07 12:52:18"
+    },
+    {
+      "comment_id": "10824",
+      "comment_title": "",
+      "comment_text": "守られるタイプです。\nおばけは大の苦手です…。",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:52:39",
+      "updated_at": "2018-11-07 12:52:39"
+    },
+    {
+      "comment_id": "10825",
+      "comment_title": "",
+      "comment_text": "どっちもです。\n私は、お化けによく話しかける人なので、どっちかというと守るタイプです。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:52:51",
+      "updated_at": "2018-11-07 12:52:51"
+    },
+    {
+      "comment_id": "10921",
+      "comment_title": "",
+      "comment_text": "そもそも絶対行きません！！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:56:43",
+      "updated_at": "2018-12-13 13:56:43"
+    },
+    {
+      "comment_id": "10922",
+      "comment_title": "",
+      "comment_text": "意外と、守るタイプ！\n…というより、何も無いのに叫んで怖がらせるタイプ…。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:56:53",
+      "updated_at": "2018-12-13 13:56:53"
+    },
+    {
+      "comment_id": "10923",
+      "comment_title": "",
+      "comment_text": "苦手なので守られるタイプ…かな？",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:57:03",
+      "updated_at": "2018-12-13 13:57:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

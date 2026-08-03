@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "comment_id": "40928",
+      "comment_title": "",
+      "comment_text": "たまに充電が必要です。",
+      "user_name": "橋田歩果",
+      "user_icon": "0",
+      "artist_id": "156",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:03:20",
+      "updated_at": "2026-04-07 11:03:20"
+    },
+    {
+      "comment_id": "40929",
+      "comment_title": "",
+      "comment_text": "笑いだしたら止まらなくなるので注意してください。",
+      "user_name": "吉田姫杷",
+      "user_icon": "0",
+      "artist_id": "157",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:03:39",
+      "updated_at": "2026-04-07 11:03:39"
+    },
+    {
+      "comment_id": "40930",
+      "comment_title": "",
+      "comment_text": "先延ばし癖がありますが、締切前に覚醒するのでそっとしといてください。",
+      "user_name": "小野田華凜",
+      "user_icon": "0",
+      "artist_id": "158",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:03:48",
+      "updated_at": "2026-04-07 11:03:48"
+    },
+    {
+      "comment_id": "40931",
+      "comment_title": "",
+      "comment_text": "静かな時は充電切れです！",
+      "user_name": "村越彩菜",
+      "user_icon": "0",
+      "artist_id": "159",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:04:01",
+      "updated_at": "2026-04-07 11:04:01"
+    },
+    {
+      "comment_id": "40932",
+      "comment_title": "",
+      "comment_text": "主食は牛乳です。",
+      "user_name": "植村葉純",
+      "user_icon": "0",
+      "artist_id": "160",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:04:15",
+      "updated_at": "2026-04-07 11:04:15"
+    },
+    {
+      "comment_id": "40933",
+      "comment_title": "",
+      "comment_text": "宿題や課題をギリギリまでやらないので、締め切り時間をこまめに設定してください。",
+      "user_name": "松原ユリヤ",
+      "user_icon": "0",
+      "artist_id": "161",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:04:25",
+      "updated_at": "2026-04-07 11:04:25"
+    },
+    {
+      "comment_id": "40934",
+      "comment_title": "",
+      "comment_text": "まず、よく話します。",
+      "user_name": "島川波菜",
+      "user_icon": "0",
+      "artist_id": "162",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:04:46",
+      "updated_at": "2026-04-07 11:04:46"
+    },
+    {
+      "comment_id": "40935",
+      "comment_title": "",
+      "comment_text": "人見知りですが、慣れたらめっちゃ喋ります。",
+      "user_name": "上村麗菜",
+      "user_icon": "0",
+      "artist_id": "163",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:05:01",
+      "updated_at": "2026-04-07 11:05:01"
+    },
+    {
+      "comment_id": "40936",
+      "comment_title": "",
+      "comment_text": "急に歌い出すことがありますが、通常運転です。",
+      "user_name": "相馬優芽",
+      "user_icon": "0",
+      "artist_id": "164",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-04-07 11:05:13",
+      "updated_at": "2026-04-07 11:05:13"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

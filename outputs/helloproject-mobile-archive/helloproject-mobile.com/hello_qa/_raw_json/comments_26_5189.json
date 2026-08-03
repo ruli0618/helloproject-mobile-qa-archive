@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "4115",
+      "comment_title": "",
+      "comment_text": "アクロバットやってみたい。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 13:58:37",
+      "updated_at": "2016-08-18 13:58:37"
+    },
+    {
+      "comment_id": "4121",
+      "comment_title": "",
+      "comment_text": "ホットヨガを始めてみたいです！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:03:31",
+      "updated_at": "2016-08-18 14:03:31"
+    },
+    {
+      "comment_id": "4122",
+      "comment_title": "",
+      "comment_text": "女子力を上げるために、料理ができるようになりたい。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:03:40",
+      "updated_at": "2016-08-18 14:03:40"
+    },
+    {
+      "comment_id": "4123",
+      "comment_title": "",
+      "comment_text": "バク転にチャレンジしたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-08-18 14:03:49",
+      "updated_at": "2016-08-18 14:03:49"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

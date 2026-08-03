@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 242,
+    "content_id": "17217",
+    "content_title": "お店を開くなら何屋さんをする？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2021-10-11 00:00:00",
+    "created_at": "2021-11-24 20:04:13",
+    "updated_at": "2021-11-25 11:50:15",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17218",
+    "next_id": "17216"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

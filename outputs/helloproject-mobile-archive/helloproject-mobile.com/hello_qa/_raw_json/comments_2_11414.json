@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "12446",
+      "comment_title": "",
+      "comment_text": "なるようにしかならない！！ポジティブに考えよう！！\nそして、握手会に来てくれたらいつでも励ましますよ(＾＾)",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 10:51:21",
+      "updated_at": "2019-05-24 10:51:21"
+    },
+    {
+      "comment_id": "12445",
+      "comment_title": "",
+      "comment_text": "あなたにとって大切な事だったらきっと解決するし、解決しなかったらそんなに大事な問題じゃないから大丈夫！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 10:51:11",
+      "updated_at": "2019-05-24 10:51:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

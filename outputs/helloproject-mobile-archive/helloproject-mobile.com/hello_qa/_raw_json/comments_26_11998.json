@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14050",
+      "comment_title": "",
+      "comment_text": "ツアーなどで、全国色々なところに行けること。\nアイドルじゃなかったら、こんなに色んな都道府県行ってないと思うので。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-22 11:17:03",
+      "updated_at": "2019-08-22 11:17:03"
+    },
+    {
+      "comment_id": "14052",
+      "comment_title": "",
+      "comment_text": "生活の中心が学校生活からアイドル活動になりました。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-22 11:17:30",
+      "updated_at": "2019-08-22 11:17:30"
+    },
+    {
+      "comment_id": "14053",
+      "comment_title": "",
+      "comment_text": "ファッションとお化粧！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-22 11:17:53",
+      "updated_at": "2019-08-22 11:17:53"
+    },
+    {
+      "comment_id": "14077",
+      "comment_title": "",
+      "comment_text": "一人〇〇が色々出来るようになりました！\nカラオケやご飯、電車も一人で乗る事なかったので、1人で出来ることが増えたかな？って思います！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-23 17:37:19",
+      "updated_at": "2019-08-23 17:37:19"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

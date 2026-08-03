@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "11505",
+      "comment_title": "",
+      "comment_text": "ジンジャールージュの香り\n柔軟剤の香り",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-08 14:37:01",
+      "updated_at": "2019-02-08 14:37:01"
+    },
+    {
+      "comment_id": "11508",
+      "comment_title": "",
+      "comment_text": "柔軟剤。ナチュラルな香りが好きです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-08 14:37:53",
+      "updated_at": "2019-02-08 14:37:53"
+    },
+    {
+      "comment_id": "11509",
+      "comment_title": "",
+      "comment_text": "香水だと柑橘系の香りが好きで、普段外にいる時は、地元の自然な香りが好きです！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-08 14:38:39",
+      "updated_at": "2019-02-08 14:38:39"
+    },
+    {
+      "comment_id": "11510",
+      "comment_title": "",
+      "comment_text": "あまり、これ！と言う香りはないのですが、石鹸の香りが好きです！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-08 14:39:04",
+      "updated_at": "2019-02-08 14:39:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

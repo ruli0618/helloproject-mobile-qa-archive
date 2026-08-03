@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 202,
+    "content_id": "18668",
+    "content_title": "ついさっき話した言葉はなんですか？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2022-08-26 10:00:00",
+    "created_at": "2022-08-17 15:52:08",
+    "updated_at": "2022-08-25 18:23:19",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18669",
+    "next_id": "18480"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

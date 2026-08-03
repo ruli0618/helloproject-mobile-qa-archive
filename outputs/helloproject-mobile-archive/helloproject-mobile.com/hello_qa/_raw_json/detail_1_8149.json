@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 442,
+    "content_id": "8149",
+    "content_title": "1年前の自分に一言！",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2017-11-07 00:00:00",
+    "created_at": "2017-12-07 14:33:09",
+    "updated_at": "2017-12-12 10:38:07",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8150",
+    "next_id": "8148"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

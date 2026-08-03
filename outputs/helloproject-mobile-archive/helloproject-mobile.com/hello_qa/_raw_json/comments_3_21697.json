@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "32757",
+      "comment_title": "",
+      "comment_text": "牛丼に明太マヨたっぷり…食べてみたいです。\n食べたことないけど永遠の憧れです。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:49:45",
+      "updated_at": "2024-02-06 16:49:45"
+    },
+    {
+      "comment_id": "32760",
+      "comment_title": "",
+      "comment_text": "たらこ丼！！\nたらこ7割、米3割くらいの究極たらこ丼を食べたいです！笑\n最初は生たらこで、最後出汁を入れて少し火が通ったたらこにしてみたい！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:50:18",
+      "updated_at": "2024-02-06 16:50:18"
+    },
+    {
+      "comment_id": "32758",
+      "comment_title": "",
+      "comment_text": "ハーフ&ハーフで牛たんといくら",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:49:54",
+      "updated_at": "2024-02-06 16:49:54"
+    },
+    {
+      "comment_id": "32759",
+      "comment_title": "",
+      "comment_text": "こんにゃく丼！\nごま油で炒めたいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:50:05",
+      "updated_at": "2024-02-06 16:50:05"
+    },
+    {
+      "comment_id": "32761",
+      "comment_title": "",
+      "comment_text": "まぐろ、納豆、オクラ、とろろ、温玉をのせたネバネバのばくだん丼！\n大好きで定期的に食べます！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:50:29",
+      "updated_at": "2024-02-06 16:50:29"
+    },
+    {
+      "comment_id": "32762",
+      "comment_title": "",
+      "comment_text": "お肉ともやしとキャベツを甘辛煮にします！\nそれでアボカドを追加します！！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:50:43",
+      "updated_at": "2024-02-06 16:50:43"
+    },
+    {
+      "comment_id": "32765",
+      "comment_title": "",
+      "comment_text": "すき焼き丼\nすき焼きの残りで作る丼。\nすごくおいしいです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:50:54",
+      "updated_at": "2024-02-06 16:50:54"
+    },
+    {
+      "comment_id": "32766",
+      "comment_title": "",
+      "comment_text": "ステーキ！\nお肉が大好きだから！！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:51:06",
+      "updated_at": "2024-02-06 16:51:06"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

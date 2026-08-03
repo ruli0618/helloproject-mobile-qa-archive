@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "24609",
+      "comment_title": "",
+      "comment_text": "コンサート！！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 17:57:27",
+      "updated_at": "2022-01-28 17:57:27"
+    },
+    {
+      "comment_id": "24608",
+      "comment_title": "",
+      "comment_text": "発想力！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 17:57:20",
+      "updated_at": "2022-01-28 17:57:20"
+    },
+    {
+      "comment_id": "24616",
+      "comment_title": "",
+      "comment_text": "運気！笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 17:58:30",
+      "updated_at": "2022-01-28 17:58:30"
+    },
+    {
+      "comment_id": "24617",
+      "comment_title": "",
+      "comment_text": "学力\nテスト頑張ります…。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-28 17:58:36",
+      "updated_at": "2022-01-28 17:58:36"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

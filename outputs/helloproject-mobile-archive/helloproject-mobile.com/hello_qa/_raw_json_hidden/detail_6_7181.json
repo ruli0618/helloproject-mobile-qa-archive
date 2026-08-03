@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "7181",
+    "content_title": "自分の人生にタイトルをつけるとしたら何？",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2017-08-04 10:00:00",
+    "created_at": "2017-07-31 18:10:39",
+    "updated_at": "2017-08-04 10:00:54",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7183",
+    "next_id": "6987"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

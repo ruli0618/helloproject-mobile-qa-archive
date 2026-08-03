@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30235",
+      "comment_title": "",
+      "comment_text": "ポテチです！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:08:56",
+      "updated_at": "2023-05-12 14:08:56"
+    },
+    {
+      "comment_id": "30238",
+      "comment_title": "",
+      "comment_text": "好きな食べ物を食べます！\nご褒美だったら海鮮系か肉系でちょっと贅沢しちゃうかも～。",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:09:20",
+      "updated_at": "2023-05-12 14:09:20"
+    },
+    {
+      "comment_id": "30236",
+      "comment_title": "",
+      "comment_text": "コスメ",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:09:04",
+      "updated_at": "2023-05-12 14:09:04"
+    },
+    {
+      "comment_id": "30237",
+      "comment_title": "",
+      "comment_text": "美味しい食べ物をたくさん食べます！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:09:11",
+      "updated_at": "2023-05-12 14:09:11"
+    },
+    {
+      "comment_id": "30239",
+      "comment_title": "",
+      "comment_text": "とにかくキッチンにこもって料理をする！食べる！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:09:26",
+      "updated_at": "2023-05-12 14:09:26"
+    },
+    {
+      "comment_id": "30240",
+      "comment_title": "",
+      "comment_text": "美味しい食べ物か、時間があれば本買って公園とかで読みます！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-05-12 14:09:33",
+      "updated_at": "2023-05-12 14:09:33"
+    },
+    {
+      "comment_id": "30622",
+      "comment_title": "",
+      "comment_text": "焼肉を食べる！\nその時欲しい物を買う！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:12:53",
+      "updated_at": "2023-06-16 15:12:53"
+    },
+    {
+      "comment_id": "30623",
+      "comment_title": "",
+      "comment_text": "生ハムです～！\nあのしょっぱさがいいんですよ！\n疲れた体に染み渡って疲れがとれます！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:13:03",
+      "updated_at": "2023-06-16 15:13:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

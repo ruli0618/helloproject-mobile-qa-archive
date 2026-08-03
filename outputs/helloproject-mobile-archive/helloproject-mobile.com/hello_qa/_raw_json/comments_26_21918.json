@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "33300",
+      "comment_title": "",
+      "comment_text": "47都道府県をめぐりたい！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:40:29",
+      "updated_at": "2024-03-14 15:40:29"
+    },
+    {
+      "comment_id": "33301",
+      "comment_title": "",
+      "comment_text": "海外旅行にいきたいです！！オーロラ見てみたいっ。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:40:38",
+      "updated_at": "2024-03-14 15:40:38"
+    },
+    {
+      "comment_id": "33302",
+      "comment_title": "",
+      "comment_text": "SASUKE、釣り、着物や袴のモデル、1日どれくらいなら歩けるのか、やってみたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:40:47",
+      "updated_at": "2024-03-14 15:40:47"
+    },
+    {
+      "comment_id": "33304",
+      "comment_title": "",
+      "comment_text": "服作りと、海で生活！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:40:57",
+      "updated_at": "2024-03-14 15:40:57"
+    },
+    {
+      "comment_id": "33305",
+      "comment_title": "",
+      "comment_text": "ホッケーのアンバサダーとして試合をしたいです。",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:41:06",
+      "updated_at": "2024-03-14 15:41:06"
+    },
+    {
+      "comment_id": "33307",
+      "comment_title": "",
+      "comment_text": "激辛料理に挑戦してみたいです。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:41:27",
+      "updated_at": "2024-03-14 15:41:27"
+    },
+    {
+      "comment_id": "33308",
+      "comment_title": "",
+      "comment_text": "ゲーム実況(≧▽≦)",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:41:35",
+      "updated_at": "2024-03-14 15:41:35"
+    },
+    {
+      "comment_id": "33309",
+      "comment_title": "",
+      "comment_text": "食品サンプルを作ってみたいです。\nテレビなどで作っているのを見て、「作ってみたい！！」と思いました。",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:41:46",
+      "updated_at": "2024-03-14 15:41:46"
+    },
+    {
+      "comment_id": "33310",
+      "comment_title": "",
+      "comment_text": "1日だけ学校の先生\nいつも学校を支えてくださっている先生の立場になって、学校の裏側や大変さを感じてみたいからです。",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:41:57",
+      "updated_at": "2024-03-14 15:41:57"
+    },
+    {
+      "comment_id": "33311",
+      "comment_title": "",
+      "comment_text": "たくさん野外でライブしたいです。\n大阪のテーマパークでライブがしたいです。",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-03-14 15:42:08",
+      "updated_at": "2024-03-14 15:42:08"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

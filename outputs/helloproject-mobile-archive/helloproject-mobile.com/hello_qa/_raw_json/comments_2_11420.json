@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12506",
+      "comment_title": "",
+      "comment_text": "避暑地に行って、アウトレットに行き買い物する～！あと、夏の星空もみたい～！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 11:23:55",
+      "updated_at": "2019-05-24 11:23:55"
+    },
+    {
+      "comment_id": "12505",
+      "comment_title": "",
+      "comment_text": "天気がいい日に丈が長いスカートを履いて、緑があるところに行って、風が吹いてスカートがふわっとなりながら笑って、その場にいる人に「ジ◯リか」って言われること。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-24 11:21:57",
+      "updated_at": "2019-05-24 11:21:57"
+    },
+    {
+      "comment_id": "13403",
+      "comment_title": "",
+      "comment_text": "手持ち花火をしたい！\n最近全くできていないので、今年こそはしたいです…！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 15:31:36",
+      "updated_at": "2019-07-12 15:31:36"
+    },
+    {
+      "comment_id": "13404",
+      "comment_title": "",
+      "comment_text": "オリジナルのかき氷を作って食べる。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 15:31:45",
+      "updated_at": "2019-07-12 15:31:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6449",
+      "comment_title": "",
+      "comment_text": "とろけるショコラというチョコレートケーキ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-06-30 18:49:46",
+      "updated_at": "2017-06-30 18:49:46"
+    },
+    {
+      "comment_id": "6452",
+      "comment_title": "",
+      "comment_text": "ねぎです。\n万能だからです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-06-30 18:50:21",
+      "updated_at": "2017-06-30 18:50:21"
+    },
+    {
+      "comment_id": "6453",
+      "comment_title": "",
+      "comment_text": "カシューナッツ",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-06-30 18:50:31",
+      "updated_at": "2017-06-30 18:50:31"
+    },
+    {
+      "comment_id": "6454",
+      "comment_title": "",
+      "comment_text": "「梅ねり」と「トマトのオリーブチーズ焼き」です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-06-30 18:50:41",
+      "updated_at": "2017-06-30 18:50:41"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

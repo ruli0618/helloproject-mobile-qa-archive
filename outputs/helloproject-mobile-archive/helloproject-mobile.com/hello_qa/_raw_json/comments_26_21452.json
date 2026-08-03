@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "32396",
+      "comment_title": "",
+      "comment_text": "一緒に行く人に任せる派です。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:52:06",
+      "updated_at": "2023-12-14 14:52:06"
+    },
+    {
+      "comment_id": "32397",
+      "comment_title": "",
+      "comment_text": "一緒に行く人に合わせる派です。\n1人だったら多分立てないで、行きの移動中に考えます～。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:52:21",
+      "updated_at": "2023-12-14 14:52:21"
+    },
+    {
+      "comment_id": "32398",
+      "comment_title": "",
+      "comment_text": "行き当たりばったり派です！！\n計画立てられない！なんとかなる！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:52:35",
+      "updated_at": "2023-12-14 14:52:35"
+    },
+    {
+      "comment_id": "32399",
+      "comment_title": "",
+      "comment_text": "人による。その時による。\nどっちでもいけます！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:52:51",
+      "updated_at": "2023-12-14 14:52:51"
+    },
+    {
+      "comment_id": "32400",
+      "comment_title": "",
+      "comment_text": "結構行き当たりばったり派かな～。\nどうしても行きたいところは、あらかじめ調べておく！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:53:04",
+      "updated_at": "2023-12-14 14:53:04"
+    },
+    {
+      "comment_id": "32402",
+      "comment_title": "",
+      "comment_text": "あまり細かい計画は立てずその場で考えることが多いですが、大まかな計画は立てるタイプなので、どっちのタイプでもあるかもしれません。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:53:25",
+      "updated_at": "2023-12-14 14:53:25"
+    },
+    {
+      "comment_id": "32403",
+      "comment_title": "",
+      "comment_text": "行き当たりばったり？\nですかも！",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 14:53:41",
+      "updated_at": "2023-12-14 14:53:41"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

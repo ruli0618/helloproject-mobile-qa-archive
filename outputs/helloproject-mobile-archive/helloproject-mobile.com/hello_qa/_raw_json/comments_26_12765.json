@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15663",
+      "comment_title": "",
+      "comment_text": "大根、つくね",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:24:20",
+      "updated_at": "2019-12-20 18:24:20"
+    },
+    {
+      "comment_id": "15666",
+      "comment_title": "",
+      "comment_text": "ちくわぶ・だいこん・はんぺん\nしみしみのおでんが好きです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:24:48",
+      "updated_at": "2019-12-20 18:24:48"
+    },
+    {
+      "comment_id": "15667",
+      "comment_title": "",
+      "comment_text": "こんぶ、牛すじ、うどん、餅巾着",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:24:57",
+      "updated_at": "2019-12-20 18:24:57"
+    },
+    {
+      "comment_id": "15668",
+      "comment_title": "",
+      "comment_text": "白滝と大根が大好きです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-20 18:25:13",
+      "updated_at": "2019-12-20 18:25:13"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

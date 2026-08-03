@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 542,
+    "content_id": "3251",
+    "content_title": "では、前回の質問に、自分で回答お願いします！",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2015-12-10 10:00:00",
+    "created_at": "2015-10-09 17:18:14",
+    "updated_at": "2015-10-13 12:43:41",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "19940",
+    "next_id": "19939"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

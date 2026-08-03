@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "24224",
+      "comment_title": "",
+      "comment_text": "絶対がんばる宣言",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:18:14",
+      "updated_at": "2022-01-18 16:18:14"
+    },
+    {
+      "comment_id": "24225",
+      "comment_title": "",
+      "comment_text": "絶対私の人生においてチョコ食べ続ける宣言",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:18:24",
+      "updated_at": "2022-01-18 16:18:24"
+    },
+    {
+      "comment_id": "24226",
+      "comment_title": "",
+      "comment_text": "絶対全力宣言",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:18:34",
+      "updated_at": "2022-01-18 16:18:34"
+    },
+    {
+      "comment_id": "24227",
+      "comment_title": "",
+      "comment_text": "絶対爆睡宣言",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:18:44",
+      "updated_at": "2022-01-18 16:18:44"
+    },
+    {
+      "comment_id": "24228",
+      "comment_title": "",
+      "comment_text": "絶対美髪宣言",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:18:55",
+      "updated_at": "2022-01-18 16:18:55"
+    },
+    {
+      "comment_id": "24229",
+      "comment_title": "",
+      "comment_text": "絶対ハッピー宣言！",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:19:08",
+      "updated_at": "2022-01-18 16:19:08"
+    },
+    {
+      "comment_id": "24230",
+      "comment_title": "",
+      "comment_text": "絶対楽しむ宣言！\n毎分毎秒楽しんでいきたいです！",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 16:19:16",
+      "updated_at": "2022-01-18 16:19:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

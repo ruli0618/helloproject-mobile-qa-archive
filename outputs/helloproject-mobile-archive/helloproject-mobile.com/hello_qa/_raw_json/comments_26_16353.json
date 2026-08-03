@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22128",
+      "comment_title": "",
+      "comment_text": "たくさん食べるところ。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:45:36",
+      "updated_at": "2021-07-16 14:45:36"
+    },
+    {
+      "comment_id": "22131",
+      "comment_title": "",
+      "comment_text": "下まつ毛が長いこと。\n上まつ毛並みにあるので、褒めてもらえます。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:46:13",
+      "updated_at": "2021-07-16 14:46:13"
+    },
+    {
+      "comment_id": "22132",
+      "comment_title": "",
+      "comment_text": "顔が好きです。\nこの間鏡を見ながら自分の顔を見ていたら1時間経っていました。さすがにびっくりしました。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:46:25",
+      "updated_at": "2021-07-16 14:46:25"
+    },
+    {
+      "comment_id": "22133",
+      "comment_title": "",
+      "comment_text": "お洋服を大事にするところ。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:46:37",
+      "updated_at": "2021-07-16 14:46:37"
+    },
+    {
+      "comment_id": "22134",
+      "comment_title": "",
+      "comment_text": "負けず嫌い",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:46:50",
+      "updated_at": "2021-07-16 14:46:50"
+    },
+    {
+      "comment_id": "22136",
+      "comment_title": "",
+      "comment_text": "諦めないところ",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:47:12",
+      "updated_at": "2021-07-16 14:47:12"
+    },
+    {
+      "comment_id": "22137",
+      "comment_title": "",
+      "comment_text": "家族や友達のことが大好きなところです。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:47:21",
+      "updated_at": "2021-07-16 14:47:21"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

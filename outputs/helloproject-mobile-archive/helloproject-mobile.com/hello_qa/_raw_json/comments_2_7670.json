@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "7188",
+      "comment_title": "",
+      "comment_text": "家に財布を忘れて外出した。\n交通系ICカードでなんとか乗り切りました。\n便利な世の中で良かった。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-02 17:28:16",
+      "updated_at": "2017-10-02 17:28:16"
+    },
+    {
+      "comment_id": "7186",
+      "comment_title": "",
+      "comment_text": "目が覚めたらお風呂にいたこと。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-02 17:27:39",
+      "updated_at": "2017-10-02 17:27:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

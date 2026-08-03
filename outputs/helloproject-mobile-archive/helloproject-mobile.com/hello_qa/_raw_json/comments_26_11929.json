@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13677",
+      "comment_title": "",
+      "comment_text": "半分は貯金して、もう半分は、好きなものをたくさん買う！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:14:08",
+      "updated_at": "2019-08-19 14:14:08"
+    },
+    {
+      "comment_id": "13679",
+      "comment_title": "",
+      "comment_text": "貯金したいです。\nあまり無駄遣いはせずに、大切に使っていきたい。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:17:30",
+      "updated_at": "2019-08-19 14:17:30"
+    },
+    {
+      "comment_id": "13680",
+      "comment_title": "",
+      "comment_text": "貯金して、欲しいものができたら買う！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:17:47",
+      "updated_at": "2019-08-19 14:17:47"
+    },
+    {
+      "comment_id": "13681",
+      "comment_title": "",
+      "comment_text": "貯める半分、使う半分！\nたくさん可愛いお洋服を買いたい！！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-19 14:18:00",
+      "updated_at": "2019-08-19 14:18:00"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

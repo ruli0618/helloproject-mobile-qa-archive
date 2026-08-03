@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "39116",
+      "comment_title": "",
+      "comment_text": "卵焼き屋さん",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:16:59",
+      "updated_at": "2025-11-07 11:16:59"
+    },
+    {
+      "comment_id": "39117",
+      "comment_title": "",
+      "comment_text": "バンドをやりたい！\nまだ全然弾けないけど、エレキギターしたいです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:17:24",
+      "updated_at": "2025-11-07 11:17:24"
+    },
+    {
+      "comment_id": "39119",
+      "comment_title": "",
+      "comment_text": "かわいい制服のカフェしたい！\n学園ドラマとかでよく見るやつ！文化祭憧れ～～！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:17:54",
+      "updated_at": "2025-11-07 11:17:54"
+    },
+    {
+      "comment_id": "39120",
+      "comment_title": "",
+      "comment_text": "クレープ屋さん！\n小さい時からずっとクレープの生地を焼いてみたくて…！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:18:12",
+      "updated_at": "2025-11-07 11:18:12"
+    },
+    {
+      "comment_id": "39121",
+      "comment_title": "",
+      "comment_text": "たこ焼き屋さん(冷凍)\n自分が高校生の時、有志でバンドとダンスパフォーマンス(ソロ)、クラスで演劇(脚本・演出・出演(・音響)担当)をやって夏休み中に体重が4kg落ちるほど大変だったので普通のをやりたい。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:18:28",
+      "updated_at": "2025-11-07 11:18:28"
+    },
+    {
+      "comment_id": "39122",
+      "comment_title": "",
+      "comment_text": "チョコバナナ作って売りたいです！文化祭といえば食べ物！\n自分の学校はカレーだけだったので、おやつを作ってみたいです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:18:50",
+      "updated_at": "2025-11-07 11:18:50"
+    },
+    {
+      "comment_id": "39123",
+      "comment_title": "",
+      "comment_text": "高三の時にご飯系のお店をしたのが、準備からとっても楽しかったので、ご飯系がいいな！ \nあんず飴とか！！！！！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-11-07 11:19:11",
+      "updated_at": "2025-11-07 11:19:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8396",
+      "comment_title": "",
+      "comment_text": "スキー学習の時、クラスの子5人くらいと遭難しかけた事です。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:46:14",
+      "updated_at": "2018-02-02 16:46:14"
+    },
+    {
+      "comment_id": "8399",
+      "comment_title": "",
+      "comment_text": "学校の帰り道に友達と、雪に顔をうずめて顔のかたを作ったことです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:46:48",
+      "updated_at": "2018-02-02 16:46:48"
+    },
+    {
+      "comment_id": "8400",
+      "comment_title": "",
+      "comment_text": "自分の誕生日の日にインフルエンザになってしまったこと。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:47:01",
+      "updated_at": "2018-02-02 16:47:01"
+    },
+    {
+      "comment_id": "8401",
+      "comment_title": "",
+      "comment_text": "・サンタさんからのクリスマスプレゼントです！\n・小学校の頃からやり始めた、スノーボードです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:47:15",
+      "updated_at": "2018-02-02 16:47:15"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

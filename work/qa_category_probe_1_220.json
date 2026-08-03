@@ -1,0 +1,1297 @@
+[
+  {
+    "category_id": 1,
+    "count": 20,
+    "first": "最近、楽しかったことは？",
+    "first_id": "26405",
+    "cat": "1"
+  },
+  {
+    "category_id": 2,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26451",
+    "cat": "2"
+  },
+  {
+    "category_id": 3,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26459",
+    "cat": "3"
+  },
+  {
+    "category_id": 4,
+    "count": 20,
+    "first": "宇宙人に会ったらどうする？",
+    "first_id": "26445",
+    "cat": "4"
+  },
+  {
+    "category_id": 5,
+    "count": 20,
+    "first": "今、一番欲しい\"◯◯力\"は何ですか？",
+    "first_id": "12671",
+    "cat": "5"
+  },
+  {
+    "category_id": 6,
+    "count": 20,
+    "first": "小さい頃から変わってないなと思うところは？",
+    "first_id": "13205",
+    "cat": "6"
+  },
+  {
+    "category_id": 11,
+    "count": 20,
+    "first": "暑中見舞い特設",
+    "first_id": "26560",
+    "cat": "11"
+  },
+  {
+    "category_id": 12,
+    "count": 20,
+    "first": "武道館！！",
+    "first_id": "5739",
+    "cat": "12"
+  },
+  {
+    "category_id": 13,
+    "count": 1,
+    "first": "マイメニュー引継ぎについて",
+    "first_id": "440",
+    "cat": "13"
+  },
+  {
+    "category_id": 14,
+    "count": 20,
+    "first": "ハロコン",
+    "first_id": "3071",
+    "cat": "14"
+  },
+  {
+    "category_id": 15,
+    "count": 1,
+    "first": "対応端末について",
+    "first_id": "1565",
+    "cat": "15"
+  },
+  {
+    "category_id": 16,
+    "count": 1,
+    "first": "決済方法について",
+    "first_id": "1570",
+    "cat": "16"
+  },
+  {
+    "category_id": 17,
+    "count": 1,
+    "first": "ハロー！ラジオの対応端末について",
+    "first_id": "1586",
+    "cat": "17"
+  },
+  {
+    "category_id": 18,
+    "count": 1,
+    "first": "会員種別変更について",
+    "first_id": "1587",
+    "cat": "18"
+  },
+  {
+    "category_id": 19,
+    "count": 1,
+    "first": "退会について",
+    "first_id": "1588",
+    "cat": "19"
+  },
+  {
+    "category_id": 20,
+    "count": 20,
+    "first": "アン10ルム日記！ 日本武道館編",
+    "first_id": "23401",
+    "cat": "20"
+  },
+  {
+    "category_id": 21,
+    "count": 2,
+    "first": "8月20日",
+    "first_id": "3026",
+    "cat": "21"
+  },
+  {
+    "category_id": 22,
+    "count": 1,
+    "first": "マイページ内の誕生日入力を間違えた時について",
+    "first_id": "2849",
+    "cat": "22"
+  },
+  {
+    "category_id": 23,
+    "count": 1,
+    "first": "会員コース変更時の会員情報引き継ぎについて",
+    "first_id": "3226",
+    "cat": "23"
+  },
+  {
+    "category_id": 25,
+    "count": 5,
+    "first": "ホールツアー！",
+    "first_id": "3514",
+    "cat": "25"
+  },
+  {
+    "category_id": 26,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26466",
+    "cat": "26"
+  },
+  {
+    "category_id": 27,
+    "count": 20,
+    "first": "もうすぐ…",
+    "first_id": "3535",
+    "cat": "27"
+  },
+  {
+    "category_id": 28,
+    "count": 1,
+    "first": "ハロー!メルマガご利用環境に関して",
+    "first_id": "3659",
+    "cat": "28"
+  },
+  {
+    "category_id": 29,
+    "count": 3,
+    "first": "12月6日",
+    "first_id": "3533",
+    "cat": "29"
+  },
+  {
+    "category_id": 30,
+    "count": 10,
+    "first": "ナルチカ、ファイナル！",
+    "first_id": "3577",
+    "cat": "30"
+  },
+  {
+    "category_id": 31,
+    "count": 2,
+    "first": "明けましておめでとうございます！",
+    "first_id": "3779",
+    "cat": "31"
+  },
+  {
+    "category_id": 32,
+    "count": 2,
+    "first": "山梨♪",
+    "first_id": "3588",
+    "cat": "32"
+  },
+  {
+    "category_id": 33,
+    "count": 2,
+    "first": "ハロ！プロモバイル 企画大募集！",
+    "first_id": "3807",
+    "cat": "33"
+  },
+  {
+    "category_id": 34,
+    "count": 20,
+    "first": "ファイナル",
+    "first_id": "4095",
+    "cat": "34"
+  },
+  {
+    "category_id": 35,
+    "count": 20,
+    "first": "メンバーにプレゼントをあげるとしたら､誰にどんなものをあげますか？",
+    "first_id": "3829",
+    "cat": "35"
+  },
+  {
+    "category_id": 37,
+    "count": 6,
+    "first": "仙台公演",
+    "first_id": "4425",
+    "cat": "37"
+  },
+  {
+    "category_id": 38,
+    "count": 20,
+    "first": "さんふら",
+    "first_id": "26602",
+    "cat": "38"
+  },
+  {
+    "category_id": 39,
+    "count": 20,
+    "first": "大阪最高～♪ ",
+    "first_id": "4672",
+    "cat": "39"
+  },
+  {
+    "category_id": 40,
+    "count": 1,
+    "first": "クレジット決済ご利用時のログインPWを忘れた場合",
+    "first_id": "7552",
+    "cat": "40"
+  },
+  {
+    "category_id": 41,
+    "count": 7,
+    "first": "ホールラスト",
+    "first_id": "4842",
+    "cat": "41"
+  },
+  {
+    "category_id": 42,
+    "count": 1,
+    "first": "思い出！！",
+    "first_id": "4712",
+    "cat": "42"
+  },
+  {
+    "category_id": 43,
+    "count": 1,
+    "first": "凱旋ライブ",
+    "first_id": "4646",
+    "cat": "43"
+  },
+  {
+    "category_id": 44,
+    "count": 2,
+    "first": "6月11日",
+    "first_id": "4778",
+    "cat": "44"
+  },
+  {
+    "category_id": 45,
+    "count": 20,
+    "first": "セクシーキャットの演説／ムキダシで向き合って／そうじゃない",
+    "first_id": "5751",
+    "cat": "45"
+  },
+  {
+    "category_id": 46,
+    "count": 20,
+    "first": "もうすぐ...",
+    "first_id": "23636",
+    "cat": "46"
+  },
+  {
+    "category_id": 48,
+    "count": 20,
+    "first": "最終日☆",
+    "first_id": "5325",
+    "cat": "48"
+  },
+  {
+    "category_id": 49,
+    "count": 6,
+    "first": "早い！",
+    "first_id": "5165",
+    "cat": "49"
+  },
+  {
+    "category_id": 50,
+    "count": 5,
+    "first": "香川公演",
+    "first_id": "5869",
+    "cat": "50"
+  },
+  {
+    "category_id": 51,
+    "count": 2,
+    "first": "笑い疲れた〜( *´︶`*)",
+    "first_id": "5700",
+    "cat": "51"
+  },
+  {
+    "category_id": 52,
+    "count": 20,
+    "first": "ラストのツアー日記！",
+    "first_id": "6129",
+    "cat": "52"
+  },
+  {
+    "category_id": 53,
+    "count": 2,
+    "first": "パシフィコ横浜",
+    "first_id": "5779",
+    "cat": "53"
+  },
+  {
+    "category_id": 54,
+    "count": 2,
+    "first": "12月10日",
+    "first_id": "5866",
+    "cat": "54"
+  },
+  {
+    "category_id": 55,
+    "count": 19,
+    "first": "つばきファクトリー",
+    "first_id": "12411",
+    "cat": "55"
+  },
+  {
+    "category_id": 57,
+    "count": 20,
+    "first": "ラスト☆",
+    "first_id": "6329",
+    "cat": "57"
+  },
+  {
+    "category_id": 59,
+    "count": 7,
+    "first": "高松",
+    "first_id": "6684",
+    "cat": "59"
+  },
+  {
+    "category_id": 60,
+    "count": 6,
+    "first": "岐阜",
+    "first_id": "6501",
+    "cat": "60"
+  },
+  {
+    "category_id": 61,
+    "count": 2,
+    "first": "hokkaido",
+    "first_id": "6481",
+    "cat": "61"
+  },
+  {
+    "category_id": 62,
+    "count": 20,
+    "first": "岡山",
+    "first_id": "7261",
+    "cat": "62"
+  },
+  {
+    "category_id": 63,
+    "count": 5,
+    "first": "福岡",
+    "first_id": "6690",
+    "cat": "63"
+  },
+  {
+    "category_id": 65,
+    "count": 1,
+    "first": "5月20日",
+    "first_id": "6718",
+    "cat": "65"
+  },
+  {
+    "category_id": 66,
+    "count": 1,
+    "first": "お腹いっぱい(◉ ω ◉｀)",
+    "first_id": "6582",
+    "cat": "66"
+  },
+  {
+    "category_id": 68,
+    "count": 4,
+    "first": "ラスト！",
+    "first_id": "6750",
+    "cat": "68"
+  },
+  {
+    "category_id": 69,
+    "count": 1,
+    "first": "5月7日",
+    "first_id": "6673",
+    "cat": "69"
+  },
+  {
+    "category_id": 70,
+    "count": 1,
+    "first": "ハロ！モバPR映像",
+    "first_id": "6627",
+    "cat": "70"
+  },
+  {
+    "category_id": 71,
+    "count": 20,
+    "first": "千秋楽",
+    "first_id": "7447",
+    "cat": "71"
+  },
+  {
+    "category_id": 72,
+    "count": 19,
+    "first": "武道館☆",
+    "first_id": "8039",
+    "cat": "72"
+  },
+  {
+    "category_id": 73,
+    "count": 20,
+    "first": "最強",
+    "first_id": "13092",
+    "cat": "73"
+  },
+  {
+    "category_id": 74,
+    "count": 12,
+    "first": "ナルチカ",
+    "first_id": "7329",
+    "cat": "74"
+  },
+  {
+    "category_id": 75,
+    "count": 3,
+    "first": "宮城公演",
+    "first_id": "7821",
+    "cat": "75"
+  },
+  {
+    "category_id": 77,
+    "count": 20,
+    "first": "ツアーラスト",
+    "first_id": "8219",
+    "cat": "77"
+  },
+  {
+    "category_id": 78,
+    "count": 2,
+    "first": "奇跡の大ジャンプ",
+    "first_id": "7933",
+    "cat": "78"
+  },
+  {
+    "category_id": 80,
+    "count": 18,
+    "first": "ラスト！",
+    "first_id": "12143",
+    "cat": "80"
+  },
+  {
+    "category_id": 82,
+    "count": 20,
+    "first": "北海道♡",
+    "first_id": "8722",
+    "cat": "82"
+  },
+  {
+    "category_id": 83,
+    "count": 17,
+    "first": "11月18日 滋賀公演",
+    "first_id": "10279",
+    "cat": "83"
+  },
+  {
+    "category_id": 84,
+    "count": 20,
+    "first": "新メンバープロフィールムービー",
+    "first_id": "16607",
+    "cat": "84"
+  },
+  {
+    "category_id": 85,
+    "count": 1,
+    "first": "千秋楽♩",
+    "first_id": "8759",
+    "cat": "85"
+  },
+  {
+    "category_id": 86,
+    "count": 20,
+    "first": "北陸地方!",
+    "first_id": "9260",
+    "cat": "86"
+  },
+  {
+    "category_id": 87,
+    "count": 4,
+    "first": "高崎公演",
+    "first_id": "10308",
+    "cat": "87"
+  },
+  {
+    "category_id": 88,
+    "count": 5,
+    "first": "初恋",
+    "first_id": "9240",
+    "cat": "88"
+  },
+  {
+    "category_id": 89,
+    "count": 6,
+    "first": "中野サンプラザ公演",
+    "first_id": "9135",
+    "cat": "89"
+  },
+  {
+    "category_id": 90,
+    "count": 20,
+    "first": "ハロコンおわり！",
+    "first_id": "9796",
+    "cat": "90"
+  },
+  {
+    "category_id": 91,
+    "count": 2,
+    "first": "沖縄公演",
+    "first_id": "9874",
+    "cat": "91"
+  },
+  {
+    "category_id": 92,
+    "count": 10,
+    "first": "千秋楽",
+    "first_id": "10400",
+    "cat": "92"
+  },
+  {
+    "category_id": 93,
+    "count": 15,
+    "first": "振り返り",
+    "first_id": "10588",
+    "cat": "93"
+  },
+  {
+    "category_id": 94,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26473",
+    "cat": "94"
+  },
+  {
+    "category_id": 95,
+    "count": 20,
+    "first": "岐阜",
+    "first_id": "10933",
+    "cat": "95"
+  },
+  {
+    "category_id": 96,
+    "count": 6,
+    "first": "3月7日",
+    "first_id": "10943",
+    "cat": "96"
+  },
+  {
+    "category_id": 97,
+    "count": 9,
+    "first": "素敵なライブ",
+    "first_id": "11020",
+    "cat": "97"
+  },
+  {
+    "category_id": 98,
+    "count": 10,
+    "first": "中野",
+    "first_id": "11456",
+    "cat": "98"
+  },
+  {
+    "category_id": 99,
+    "count": 11,
+    "first": "私の移動日記7",
+    "first_id": "11481",
+    "cat": "99"
+  },
+  {
+    "category_id": 100,
+    "count": 14,
+    "first": "野中の気持ちです読んでね",
+    "first_id": "11567",
+    "cat": "100"
+  },
+  {
+    "category_id": 101,
+    "count": 3,
+    "first": "仙台",
+    "first_id": "11611",
+    "cat": "101"
+  },
+  {
+    "category_id": 102,
+    "count": 9,
+    "first": "金沢公演",
+    "first_id": "11563",
+    "cat": "102"
+  },
+  {
+    "category_id": 103,
+    "count": 20,
+    "first": "中野公演3日目！",
+    "first_id": "12075",
+    "cat": "103"
+  },
+  {
+    "category_id": 104,
+    "count": 15,
+    "first": "8年間",
+    "first_id": "12664",
+    "cat": "104"
+  },
+  {
+    "category_id": 105,
+    "count": 16,
+    "first": "小樽公演",
+    "first_id": "12626",
+    "cat": "105"
+  },
+  {
+    "category_id": 106,
+    "count": 7,
+    "first": "長野",
+    "first_id": "12188",
+    "cat": "106"
+  },
+  {
+    "category_id": 107,
+    "count": 12,
+    "first": "千秋楽",
+    "first_id": "12659",
+    "cat": "107"
+  },
+  {
+    "category_id": 108,
+    "count": 15,
+    "first": "山形",
+    "first_id": "12625",
+    "cat": "108"
+  },
+  {
+    "category_id": 109,
+    "count": 1,
+    "first": "Tokyo",
+    "first_id": "12392",
+    "cat": "109"
+  },
+  {
+    "category_id": 111,
+    "count": 4,
+    "first": "Juice=Juice",
+    "first_id": "13071",
+    "cat": "111"
+  },
+  {
+    "category_id": 112,
+    "count": 20,
+    "first": "ハロコン",
+    "first_id": "13201",
+    "cat": "112"
+  },
+  {
+    "category_id": 113,
+    "count": 1,
+    "first": "2月19日",
+    "first_id": "13120",
+    "cat": "113"
+  },
+  {
+    "category_id": 114,
+    "count": 3,
+    "first": "横浜",
+    "first_id": "13061",
+    "cat": "114"
+  },
+  {
+    "category_id": 115,
+    "count": 20,
+    "first": "そば",
+    "first_id": "20322",
+    "cat": "115"
+  },
+  {
+    "category_id": 116,
+    "count": 2,
+    "first": "横浜",
+    "first_id": "13210",
+    "cat": "116"
+  },
+  {
+    "category_id": 120,
+    "count": 20,
+    "first": "為永幸音",
+    "first_id": "20226",
+    "cat": "120"
+  },
+  {
+    "category_id": 122,
+    "count": 20,
+    "first": "ありがとう",
+    "first_id": "26407",
+    "cat": "122"
+  },
+  {
+    "category_id": 123,
+    "count": 20,
+    "first": "上から",
+    "first_id": "26659",
+    "cat": "123"
+  },
+  {
+    "category_id": 124,
+    "count": 20,
+    "first": "小さい頃から変わってないなと思うところは？",
+    "first_id": "13617",
+    "cat": "124"
+  },
+  {
+    "category_id": 125,
+    "count": 20,
+    "first": "12月19日セルリアンタワー公演",
+    "first_id": "15264",
+    "cat": "125"
+  },
+  {
+    "category_id": 126,
+    "count": 20,
+    "first": "冬ハロー千秋楽！",
+    "first_id": "15560",
+    "cat": "126"
+  },
+  {
+    "category_id": 127,
+    "count": 20,
+    "first": "5/22.山梨公演",
+    "first_id": "16169",
+    "cat": "127"
+  },
+  {
+    "category_id": 128,
+    "count": 20,
+    "first": "Hello! Project 2021 Summer　",
+    "first_id": "16794",
+    "cat": "128"
+  },
+  {
+    "category_id": 129,
+    "count": 20,
+    "first": "秋 「続・花鳥風月」",
+    "first_id": "17271",
+    "cat": "129"
+  },
+  {
+    "category_id": 130,
+    "count": 20,
+    "first": "福岡国際会議場メインホール",
+    "first_id": "17757",
+    "cat": "130"
+  },
+  {
+    "category_id": 131,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26480",
+    "cat": "131"
+  },
+  {
+    "category_id": 132,
+    "count": 10,
+    "first": "6月20日@日本武道館",
+    "first_id": "18387",
+    "cat": "132"
+  },
+  {
+    "category_id": 133,
+    "count": 8,
+    "first": "5/28.大阪公演",
+    "first_id": "18295",
+    "cat": "133"
+  },
+  {
+    "category_id": 134,
+    "count": 15,
+    "first": "最後のコンサート。",
+    "first_id": "18285",
+    "cat": "134"
+  },
+  {
+    "category_id": 135,
+    "count": 10,
+    "first": "春ツアーin北海道",
+    "first_id": "18351",
+    "cat": "135"
+  },
+  {
+    "category_id": 136,
+    "count": 12,
+    "first": "北海道公演",
+    "first_id": "18296",
+    "cat": "136"
+  },
+  {
+    "category_id": 137,
+    "count": 9,
+    "first": "緊張の初パフォーマンス",
+    "first_id": "18767",
+    "cat": "137"
+  },
+  {
+    "category_id": 138,
+    "count": 4,
+    "first": "名古屋公演",
+    "first_id": "18743",
+    "cat": "138"
+  },
+  {
+    "category_id": 139,
+    "count": 9,
+    "first": "中野サンプラザ公演",
+    "first_id": "18760",
+    "cat": "139"
+  },
+  {
+    "category_id": 140,
+    "count": 8,
+    "first": "千秋楽！",
+    "first_id": "18773",
+    "cat": "140"
+  },
+  {
+    "category_id": 141,
+    "count": 7,
+    "first": "中野サンプラザ公演",
+    "first_id": "18745",
+    "cat": "141"
+  },
+  {
+    "category_id": 142,
+    "count": 8,
+    "first": "ホールツアーラスト！愛媛公演♡",
+    "first_id": "19255",
+    "cat": "142"
+  },
+  {
+    "category_id": 143,
+    "count": 13,
+    "first": "11月13日 日曜日 仙台♡",
+    "first_id": "19191",
+    "cat": "143"
+  },
+  {
+    "category_id": 144,
+    "count": 9,
+    "first": "広島公演",
+    "first_id": "19104",
+    "cat": "144"
+  },
+  {
+    "category_id": 145,
+    "count": 11,
+    "first": "秋ツアー北海道公演",
+    "first_id": "19225",
+    "cat": "145"
+  },
+  {
+    "category_id": 146,
+    "count": 8,
+    "first": "千秋楽！",
+    "first_id": "19238",
+    "cat": "146"
+  },
+  {
+    "category_id": 147,
+    "count": 8,
+    "first": "新たな目標の境い目2022.2023年",
+    "first_id": "19465",
+    "cat": "147"
+  },
+  {
+    "category_id": 148,
+    "count": 20,
+    "first": "仙台の日撮った☆",
+    "first_id": "19777",
+    "cat": "148"
+  },
+  {
+    "category_id": 149,
+    "count": 10,
+    "first": "九州、鹿児島にて恥ずかしかった話とうれしかった話",
+    "first_id": "20301",
+    "cat": "149"
+  },
+  {
+    "category_id": 150,
+    "count": 8,
+    "first": "鹿児島公演",
+    "first_id": "20298",
+    "cat": "150"
+  },
+  {
+    "category_id": 151,
+    "count": 10,
+    "first": "日本特殊陶業市民会館ビレッジホール",
+    "first_id": "20148",
+    "cat": "151"
+  },
+  {
+    "category_id": 152,
+    "count": 8,
+    "first": "仙台公演",
+    "first_id": "20297",
+    "cat": "152"
+  },
+  {
+    "category_id": 153,
+    "count": 9,
+    "first": "仙台公演",
+    "first_id": "20299",
+    "cat": "153"
+  },
+  {
+    "category_id": 154,
+    "count": 8,
+    "first": "大阪ホール",
+    "first_id": "20269",
+    "cat": "154"
+  },
+  {
+    "category_id": 155,
+    "count": 20,
+    "first": "楽しみがいっぱいな夏！",
+    "first_id": "26691",
+    "cat": "155"
+  },
+  {
+    "category_id": 156,
+    "count": 8,
+    "first": "千秋楽",
+    "first_id": "20821",
+    "cat": "156"
+  },
+  {
+    "category_id": 157,
+    "count": 6,
+    "first": "8/19 愛知公演",
+    "first_id": "20752",
+    "cat": "157"
+  },
+  {
+    "category_id": 158,
+    "count": 9,
+    "first": "千秋楽",
+    "first_id": "20808",
+    "cat": "158"
+  },
+  {
+    "category_id": 159,
+    "count": 8,
+    "first": "〜シュンカンアンコール〜",
+    "first_id": "20809",
+    "cat": "159"
+  },
+  {
+    "category_id": 160,
+    "count": 9,
+    "first": "千秋楽公演",
+    "first_id": "20812",
+    "cat": "160"
+  },
+  {
+    "category_id": 161,
+    "count": 8,
+    "first": "ツアー千秋楽！",
+    "first_id": "20785",
+    "cat": "161"
+  },
+  {
+    "category_id": 162,
+    "count": 11,
+    "first": "北海道公演",
+    "first_id": "21304",
+    "cat": "162"
+  },
+  {
+    "category_id": 163,
+    "count": 7,
+    "first": "福岡",
+    "first_id": "21150",
+    "cat": "163"
+  },
+  {
+    "category_id": 164,
+    "count": 9,
+    "first": "広島",
+    "first_id": "21156",
+    "cat": "164"
+  },
+  {
+    "category_id": 165,
+    "count": 8,
+    "first": "可惜夜",
+    "first_id": "21196",
+    "cat": "165"
+  },
+  {
+    "category_id": 166,
+    "count": 8,
+    "first": "福岡県",
+    "first_id": "21309",
+    "cat": "166"
+  },
+  {
+    "category_id": 167,
+    "count": 20,
+    "first": "千秋楽",
+    "first_id": "21803",
+    "cat": "167"
+  },
+  {
+    "category_id": 168,
+    "count": 10,
+    "first": "日本武道館",
+    "first_id": "22370",
+    "cat": "168"
+  },
+  {
+    "category_id": 169,
+    "count": 8,
+    "first": "福岡公演",
+    "first_id": "22378",
+    "cat": "169"
+  },
+  {
+    "category_id": 170,
+    "count": 9,
+    "first": "1-LINE広島！",
+    "first_id": "22371",
+    "cat": "170"
+  },
+  {
+    "category_id": 171,
+    "count": 8,
+    "first": "千秋楽",
+    "first_id": "22347",
+    "cat": "171"
+  },
+  {
+    "category_id": 172,
+    "count": 11,
+    "first": "山口公演",
+    "first_id": "22396",
+    "cat": "172"
+  },
+  {
+    "category_id": 173,
+    "count": 15,
+    "first": "佐賀公演",
+    "first_id": "22437",
+    "cat": "173"
+  },
+  {
+    "category_id": 174,
+    "count": 20,
+    "first": "あ～小腹空いたな～。何を食べる？",
+    "first_id": "26487",
+    "cat": "174"
+  },
+  {
+    "category_id": 175,
+    "count": 20,
+    "first": "渋谷公演",
+    "first_id": "22841",
+    "cat": "175"
+  },
+  {
+    "category_id": 176,
+    "count": 11,
+    "first": "宮城公演",
+    "first_id": "23463",
+    "cat": "176"
+  },
+  {
+    "category_id": 177,
+    "count": 8,
+    "first": "千秋楽！",
+    "first_id": "23358",
+    "cat": "177"
+  },
+  {
+    "category_id": 178,
+    "count": 6,
+    "first": "TRIANGROOOVE2広島！",
+    "first_id": "23236",
+    "cat": "178"
+  },
+  {
+    "category_id": 179,
+    "count": 19,
+    "first": "山梨公演",
+    "first_id": "23354",
+    "cat": "179"
+  },
+  {
+    "category_id": 180,
+    "count": 9,
+    "first": "日本武道館公演",
+    "first_id": "23307",
+    "cat": "180"
+  },
+  {
+    "category_id": 181,
+    "count": 19,
+    "first": "石川公演",
+    "first_id": "23467",
+    "cat": "181"
+  },
+  {
+    "category_id": 182,
+    "count": 20,
+    "first": "広島公演",
+    "first_id": "24004",
+    "cat": "182"
+  },
+  {
+    "category_id": 183,
+    "count": 11,
+    "first": "鹿児島公演",
+    "first_id": "24425",
+    "cat": "183"
+  },
+  {
+    "category_id": 184,
+    "count": 13,
+    "first": "台北公演",
+    "first_id": "24524",
+    "cat": "184"
+  },
+  {
+    "category_id": 185,
+    "count": 9,
+    "first": "Crimson×Azure Special",
+    "first_id": "24557",
+    "cat": "185"
+  },
+  {
+    "category_id": 186,
+    "count": 8,
+    "first": "名古屋公演",
+    "first_id": "24592",
+    "cat": "186"
+  },
+  {
+    "category_id": 187,
+    "count": 5,
+    "first": "大阪公演",
+    "first_id": "24326",
+    "cat": "187"
+  },
+  {
+    "category_id": 188,
+    "count": 7,
+    "first": "東京公演",
+    "first_id": "24330",
+    "cat": "188"
+  },
+  {
+    "category_id": 189,
+    "count": 20,
+    "first": "2025.8.31名古屋公演",
+    "first_id": "24942",
+    "cat": "189"
+  },
+  {
+    "category_id": 190,
+    "count": 11,
+    "first": "秋ツアー終了！",
+    "first_id": "25217",
+    "cat": "190"
+  },
+  {
+    "category_id": 191,
+    "count": 20,
+    "first": "感謝♡",
+    "first_id": "25323",
+    "cat": "191"
+  },
+  {
+    "category_id": 192,
+    "count": 14,
+    "first": "氷見♡",
+    "first_id": "25386",
+    "cat": "192"
+  },
+  {
+    "category_id": 193,
+    "count": 18,
+    "first": "千葉！",
+    "first_id": "25879",
+    "cat": "193"
+  },
+  {
+    "category_id": 194,
+    "count": 9,
+    "first": "完走！",
+    "first_id": "25476",
+    "cat": "194"
+  },
+  {
+    "category_id": 195,
+    "count": 8,
+    "first": "ファーストライブツアー",
+    "first_id": "25451",
+    "cat": "195"
+  },
+  {
+    "category_id": 196,
+    "count": 20,
+    "first": "ありがとう！",
+    "first_id": "26016",
+    "cat": "196"
+  },
+  {
+    "category_id": 197,
+    "count": 13,
+    "first": "2度目の大阪！",
+    "first_id": "26438",
+    "cat": "197"
+  },
+  {
+    "category_id": 198,
+    "count": 9,
+    "first": "北海道！満喫！",
+    "first_id": "26401",
+    "cat": "198"
+  },
+  {
+    "category_id": 199,
+    "count": 9,
+    "first": "大阪",
+    "first_id": "26214",
+    "cat": "199"
+  },
+  {
+    "category_id": 200,
+    "count": 11,
+    "first": "わくわくどきどき",
+    "first_id": "26398",
+    "cat": "200"
+  },
+  {
+    "category_id": 201,
+    "count": 8,
+    "first": "ホールラスト！",
+    "first_id": "26324",
+    "cat": "201"
+  },
+  {
+    "category_id": 202,
+    "count": 8,
+    "first": "中野ZERO大ホール",
+    "first_id": "26399",
+    "cat": "202"
+  },
+  {
+    "category_id": 203,
+    "count": 9,
+    "first": "春ツアー千秋楽！",
+    "first_id": "26435",
+    "cat": "203"
+  },
+  {
+    "category_id": 205,
+    "count": 20,
+    "first": "ハロコン大阪！！",
+    "first_id": "26701",
+    "cat": "205"
+  }
+]

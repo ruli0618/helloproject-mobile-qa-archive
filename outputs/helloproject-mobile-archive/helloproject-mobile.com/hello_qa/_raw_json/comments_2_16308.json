@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "21770",
+      "comment_title": "",
+      "comment_text": "ENGLISH",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:46:22",
+      "updated_at": "2021-07-06 13:46:22"
+    },
+    {
+      "comment_id": "21769",
+      "comment_title": "",
+      "comment_text": "音楽と家庭科は楽しかったです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:46:10",
+      "updated_at": "2021-07-06 13:46:10"
+    },
+    {
+      "comment_id": "21777",
+      "comment_title": "",
+      "comment_text": "美術",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:47:47",
+      "updated_at": "2021-07-06 13:47:47"
+    },
+    {
+      "comment_id": "21778",
+      "comment_title": "",
+      "comment_text": "英語\n英語を習っていたから、授業中とか自信持って手をあげてました。成績も良かったです。\n美術の絵や工作と、体育のダンスも得意でした。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:47:56",
+      "updated_at": "2021-07-06 13:47:56"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

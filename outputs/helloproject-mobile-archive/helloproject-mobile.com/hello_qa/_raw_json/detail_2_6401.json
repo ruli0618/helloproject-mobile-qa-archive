@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 482,
+    "content_id": "6401",
+    "content_title": "好きな入浴剤の香りは？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2017-04-11 10:00:00",
+    "created_at": "2017-03-29 17:01:40",
+    "updated_at": "2017-04-11 10:06:29",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "6408",
+    "next_id": "6393"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

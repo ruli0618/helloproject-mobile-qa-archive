@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33176",
+      "comment_title": "",
+      "comment_text": "エメラルドグリーン！\nなんとなく爽やかな気持ちがするので！",
+      "user_name": "斉藤円香",
+      "user_icon": "0",
+      "artist_id": "133",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:06:43",
+      "updated_at": "2024-02-14 15:06:43"
+    },
+    {
+      "comment_id": "33177",
+      "comment_title": "",
+      "comment_text": "パステルイエロー",
+      "user_name": "広本瑠璃",
+      "user_icon": "0",
+      "artist_id": "134",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:06:53",
+      "updated_at": "2024-02-14 15:06:53"
+    },
+    {
+      "comment_id": "33179",
+      "comment_title": "",
+      "comment_text": "ねずみ色",
+      "user_name": "米村姫良々",
+      "user_icon": "0",
+      "artist_id": "136",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:07:21",
+      "updated_at": "2024-02-14 15:07:21"
+    },
+    {
+      "comment_id": "33180",
+      "comment_title": "",
+      "comment_text": "黒！\nタピオカが飲みたいので。。。\nタピオカカラー！",
+      "user_name": "窪田七海",
+      "user_icon": "0",
+      "artist_id": "137",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:07:42",
+      "updated_at": "2024-02-14 15:07:42"
+    },
+    {
+      "comment_id": "33182",
+      "comment_title": "",
+      "comment_text": "グレー\n(唇の皮がめくれそうだから)",
+      "user_name": "中山夏月姫",
+      "user_icon": "0",
+      "artist_id": "139",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:08:09",
+      "updated_at": "2024-02-14 15:08:09"
+    },
+    {
+      "comment_id": "33183",
+      "comment_title": "",
+      "comment_text": "空みたいな青色です！",
+      "user_name": "西﨑美空",
+      "user_icon": "0",
+      "artist_id": "140",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:08:20",
+      "updated_at": "2024-02-14 15:08:20"
+    },
+    {
+      "comment_id": "33184",
+      "comment_title": "",
+      "comment_text": "ライトグリーン！\n北原ももはどんな時だってライトグリーン精神。",
+      "user_name": "北原もも",
+      "user_icon": "0",
+      "artist_id": "141",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:08:34",
+      "updated_at": "2024-02-14 15:08:34"
+    },
+    {
+      "comment_id": "33185",
+      "comment_title": "",
+      "comment_text": "ロイヤルブルーです！\nこれはいつもです！\n悲しいとかではなく意味は無いけど、ロイヤルブルーです！",
+      "user_name": "筒井澪心",
+      "user_icon": "0",
+      "artist_id": "142",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 15:08:48",
+      "updated_at": "2024-02-14 15:08:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

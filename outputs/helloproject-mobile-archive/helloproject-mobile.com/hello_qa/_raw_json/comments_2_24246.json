@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "37303",
+      "comment_title": "",
+      "comment_text": "アトラクション派",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:28:35",
+      "updated_at": "2025-05-07 18:28:35"
+    },
+    {
+      "comment_id": "37302",
+      "comment_title": "",
+      "comment_text": "アトラクション！アトラクション！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:28:26",
+      "updated_at": "2025-05-07 18:28:26"
+    },
+    {
+      "comment_id": "37308",
+      "comment_title": "",
+      "comment_text": "アトラクション！！絶叫系が好きです。でも最近はゆったり雰囲気を楽しむのもいいなと思います！！あとはフードを食べまくります！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:29:30",
+      "updated_at": "2025-05-07 18:29:30"
+    },
+    {
+      "comment_id": "37309",
+      "comment_title": "",
+      "comment_text": "アトラクション派！！気に入ったアトラクションは何回も乗ります。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:29:38",
+      "updated_at": "2025-05-07 18:29:38"
+    },
+    {
+      "comment_id": "37310",
+      "comment_title": "",
+      "comment_text": "アトラクションかな…。新しいものが気になるタイプなので、新アトラクションとかも興味はあります！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:29:46",
+      "updated_at": "2025-05-07 18:29:46"
+    },
+    {
+      "comment_id": "37311",
+      "comment_title": "",
+      "comment_text": "アトラクション派です。空飛ぶ系の屋外のアトラクションに乗って、ちらっと見えるパレードを見ます。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:29:56",
+      "updated_at": "2025-05-07 18:29:56"
+    },
+    {
+      "comment_id": "37312",
+      "comment_title": "",
+      "comment_text": "アトラクション！！！！！！アトラクション！！！！！！！アトラクション！！！！！！！必ず10個は乗りたい！！！！！！！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-05-07 18:30:25",
+      "updated_at": "2025-05-07 18:30:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

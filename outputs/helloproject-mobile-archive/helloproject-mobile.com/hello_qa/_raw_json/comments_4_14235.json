@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18485",
+      "comment_title": "",
+      "comment_text": "Juice=Juiceのメンバーは、リハーサルでも本番でも勉強になることがたくさんあります。\n一番近くにいるメンバーから学んでいます。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:28:45",
+      "updated_at": "2020-07-28 15:28:45"
+    },
+    {
+      "comment_id": "18484",
+      "comment_title": "",
+      "comment_text": "萩原舞さん",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:28:36",
+      "updated_at": "2020-07-28 15:28:36"
+    },
+    {
+      "comment_id": "18486",
+      "comment_title": "",
+      "comment_text": "パフォーマンス、美容などなど色んな項目がある中でそれぞれ憧れの方がいらっしゃるので難しいのですが、ずっと小田さくらさんは憧れの尊敬の先輩です。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:28:56",
+      "updated_at": "2020-07-28 15:28:56"
+    },
+    {
+      "comment_id": "18487",
+      "comment_title": "",
+      "comment_text": "モーニング娘。'20の佐藤優樹さんです。\nいつも周りと違った視点から見ている所が素敵です。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 15:29:04",
+      "updated_at": "2020-07-28 15:29:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

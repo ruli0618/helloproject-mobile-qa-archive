@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14540",
+      "comment_title": "",
+      "comment_text": "英語！と言いたいところですが、文法分からないので、音楽。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 10:13:59",
+      "updated_at": "2019-10-15 10:13:59"
+    },
+    {
+      "comment_id": "14539",
+      "comment_title": "",
+      "comment_text": "敬語、道徳、ポジティブ思考",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 10:13:49",
+      "updated_at": "2019-10-15 10:13:49"
+    },
+    {
+      "comment_id": "14547",
+      "comment_title": "",
+      "comment_text": "ハロー！プロジェクトの事！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 10:15:52",
+      "updated_at": "2019-10-15 10:15:52"
+    },
+    {
+      "comment_id": "14548",
+      "comment_title": "",
+      "comment_text": "パンダさんについて。\n私が描くパンダさんのキャラクターについて教えます。\nパンダさんパワーについて教えます。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 10:16:02",
+      "updated_at": "2019-10-15 10:16:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

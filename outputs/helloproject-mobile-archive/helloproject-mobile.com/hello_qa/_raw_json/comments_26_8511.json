@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8441",
+      "comment_title": "",
+      "comment_text": "「きれいな景色」\n自然や夜景などが好きだから、1番きれいな所を探したい。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 17:30:00",
+      "updated_at": "2018-02-02 17:30:00"
+    },
+    {
+      "comment_id": "8444",
+      "comment_title": "",
+      "comment_text": "長寿の秘訣。\n小学生の時に一度調べたのですが、成長した今、もっと詳しく調べてみたいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 17:30:32",
+      "updated_at": "2018-02-02 17:30:32"
+    },
+    {
+      "comment_id": "8445",
+      "comment_title": "",
+      "comment_text": "占いは本当に当たるのか。\n占いのラッキーアイテムで、本当に1日は良くなるのか研究する。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 17:30:41",
+      "updated_at": "2018-02-13 10:39:49"
+    },
+    {
+      "comment_id": "8446",
+      "comment_title": "",
+      "comment_text": "服の「着回しコーデ」についてやりたいです。\n私は、服が好きなのですが着回しがあまり得意じゃないので、着回しコーデを研究したいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 17:30:51",
+      "updated_at": "2018-02-02 17:30:51"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

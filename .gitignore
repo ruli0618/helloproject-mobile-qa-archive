@@ -1,0 +1,9 @@
+.agents/
+work/top_flick_numeric_probe/
+outputs/*
+!outputs/helloproject-mobile-archive/
+outputs/helloproject-mobile-archive/*
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/
+outputs/helloproject-mobile-archive/helloproject-mobile.com/*
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/**

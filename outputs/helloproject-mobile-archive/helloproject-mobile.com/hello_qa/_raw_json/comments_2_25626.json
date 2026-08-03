@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "39872",
+      "comment_title": "",
+      "comment_text": "理由なく、してしまうのが、夜更かしです。\n川柳みたいになってしまいました笑",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:14:13",
+      "updated_at": "2026-01-26 11:14:13"
+    },
+    {
+      "comment_id": "39873",
+      "comment_title": "",
+      "comment_text": "歌の練習をしてると時間溶けます！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:14:20",
+      "updated_at": "2026-01-26 11:14:20"
+    },
+    {
+      "comment_id": "39875",
+      "comment_title": "",
+      "comment_text": "Netflix！！笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:14:35",
+      "updated_at": "2026-01-26 11:14:35"
+    },
+    {
+      "comment_id": "39876",
+      "comment_title": "",
+      "comment_text": "アニメの続きが気になる時とか。\nなので、寝る部屋にスマホを持ち込まないようにしてます！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:14:48",
+      "updated_at": "2026-01-26 11:14:48"
+    },
+    {
+      "comment_id": "39877",
+      "comment_title": "",
+      "comment_text": "最近はゲーム実況をよく見るのですが、一本一本が長いので、見終わるとだいたい遅い時間になってしまいます…。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:15:09",
+      "updated_at": "2026-01-26 11:15:09"
+    },
+    {
+      "comment_id": "39878",
+      "comment_title": "",
+      "comment_text": "いいこと思いついた時。\n頭の中がうるさくなって寝れません。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:15:21",
+      "updated_at": "2026-01-26 11:15:21"
+    },
+    {
+      "comment_id": "39879",
+      "comment_title": "",
+      "comment_text": "模試の一夜漬け",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-01-26 11:15:35",
+      "updated_at": "2026-01-26 11:15:35"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

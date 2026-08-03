@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "24622",
+    "content_title": "最近印象的だった作品を教えてください。",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2025-08-02 10:00:00",
+    "created_at": "2025-07-09 12:27:24",
+    "updated_at": "2025-08-01 16:51:58",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24630",
+    "next_id": "24615"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

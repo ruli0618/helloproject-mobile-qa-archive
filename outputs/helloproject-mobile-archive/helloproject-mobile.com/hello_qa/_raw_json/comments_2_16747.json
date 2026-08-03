@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "22726",
+      "comment_title": "",
+      "comment_text": "1位犬\n2位猫\n3位ハムスター",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:50:19",
+      "updated_at": "2021-09-17 13:50:19"
+    },
+    {
+      "comment_id": "22725",
+      "comment_title": "",
+      "comment_text": "1位.哺乳類\n2位.鳥類\n3位.両生類",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:50:10",
+      "updated_at": "2021-09-17 13:50:10"
+    },
+    {
+      "comment_id": "22733",
+      "comment_title": "",
+      "comment_text": "1位 犬\n2位 ライオン\n3位 イルカ",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:51:56",
+      "updated_at": "2021-09-17 13:51:56"
+    },
+    {
+      "comment_id": "22734",
+      "comment_title": "",
+      "comment_text": "No.1 パンダさん\nNo.2 パンダさん\nNo.3 パンダさん",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:52:04",
+      "updated_at": "2021-09-17 13:52:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

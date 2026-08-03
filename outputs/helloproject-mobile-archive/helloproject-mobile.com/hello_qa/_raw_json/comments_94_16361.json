@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "22224",
+      "comment_title": "",
+      "comment_text": "小林萌花ちゃん",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:20:39",
+      "updated_at": "2021-07-16 15:20:39"
+    },
+    {
+      "comment_id": "22225",
+      "comment_title": "",
+      "comment_text": "アンジュルムの川村文乃さんです。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:20:52",
+      "updated_at": "2021-07-16 15:20:52"
+    },
+    {
+      "comment_id": "22227",
+      "comment_title": "",
+      "comment_text": "森戸知沙希さん！\n私服がドタイプです！！\n一緒にお買い物したい…。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:21:19",
+      "updated_at": "2021-07-16 15:21:19"
+    },
+    {
+      "comment_id": "22229",
+      "comment_title": "",
+      "comment_text": "岸本ゆめのさん！\n海外の方みたいで、すごくかっこいいなぁって思います！\n岸本さんだから着こなせるファッション！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:21:53",
+      "updated_at": "2021-07-16 15:21:53"
+    },
+    {
+      "comment_id": "22230",
+      "comment_title": "",
+      "comment_text": "小林萌花ちゃん\n最新のお洋服からレトロなものまで着こなしているから。メイクや髪型までお洋服に合わせていてとても魅力的です。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:22:04",
+      "updated_at": "2021-07-16 15:22:04"
+    },
+    {
+      "comment_id": "22231",
+      "comment_title": "",
+      "comment_text": "小林萌花ちゃん\nヴィンテージもののワンピースやジャケットなどを着こなしていてかっこいい！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:22:17",
+      "updated_at": "2021-07-16 15:22:17"
+    },
+    {
+      "comment_id": "22232",
+      "comment_title": "",
+      "comment_text": "伊勢鈴蘭ちゃん！\n落ち着いているけれど、色使いや全体のバランスがすごく好きです！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:22:37",
+      "updated_at": "2021-07-16 15:22:37"
+    },
+    {
+      "comment_id": "22233",
+      "comment_title": "",
+      "comment_text": "川村文乃さん！\nいつもInstagramやブログのお写真が可愛すぎて、必ずチェックしちゃいます……！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 15:22:46",
+      "updated_at": "2021-07-16 15:22:46"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

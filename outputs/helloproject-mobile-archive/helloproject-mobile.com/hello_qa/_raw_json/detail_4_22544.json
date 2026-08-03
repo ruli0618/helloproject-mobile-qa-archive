@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 102,
+    "content_id": "22544",
+    "content_title": "気になるメイク・ファッションは？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2024-08-12 10:00:00",
+    "created_at": "2024-07-09 16:39:18",
+    "updated_at": "2024-08-09 18:21:46",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "22545",
+    "next_id": "22543"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

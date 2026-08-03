@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "23214",
+      "comment_title": "",
+      "comment_text": "飛行機にイヤホンを置いてきました(無事に戻ってきました)(；；)",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:16:25",
+      "updated_at": "2021-11-10 18:16:25"
+    },
+    {
+      "comment_id": "23213",
+      "comment_title": "",
+      "comment_text": "食事の時は大体失敗します。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:16:11",
+      "updated_at": "2021-11-10 18:16:11"
+    },
+    {
+      "comment_id": "23221",
+      "comment_title": "",
+      "comment_text": "仕事の帰りに疲れすぎて電車で寝過ごしてしまって、知らない駅に行って帰るのに約3時間かかったこと。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:17:24",
+      "updated_at": "2021-11-10 18:17:24"
+    },
+    {
+      "comment_id": "23222",
+      "comment_title": "",
+      "comment_text": "シャンプーの詰め替えを失敗して、容器から溢れました…。\n手伝うつもりが、「余計に仕事を増やした…」とお母さんに怒られました。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:17:37",
+      "updated_at": "2021-11-10 18:17:37"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "9149",
+      "comment_title": "",
+      "comment_text": "見に来て下さった皆さんや、メンバーと目が合って、ニコニコになった時！\n特に、盛り上がる感じの曲で皆で一体となって、この空間を楽しんでいる感じが大好きです。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-17 11:55:22",
+      "updated_at": "2018-05-17 11:55:22"
+    },
+    {
+      "comment_id": "17418",
+      "comment_title": "",
+      "comment_text": "ファンの皆さんがコールをして下さって、みんなで盛り上がっている時。\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:14:32",
+      "updated_at": "2020-04-03 18:14:32"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

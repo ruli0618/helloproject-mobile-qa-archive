@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "35167",
+      "comment_title": "",
+      "comment_text": "石田亜佑美さんが踊る、時空を超え 宇宙を超え()",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-09 16:33:05",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "35170",
+      "comment_title": "",
+      "comment_text": "森本稀哲コーチ\nダンスキレッキレ",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-09 16:33:31",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "35202",
+      "comment_title": "",
+      "comment_text": "小田さくらさんの、音が聞こえてくるダンスが好きです！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-09 16:44:36",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "35265",
+      "comment_title": "",
+      "comment_text": "遠藤彩加里ちゃん\nどこで止めても綺麗な姿で目をひきます！",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-10-09 17:06:56",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

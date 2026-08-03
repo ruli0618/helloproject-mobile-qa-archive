@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "33560",
+      "comment_title": "",
+      "comment_text": "気の持ちよう",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:37:32",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "33511",
+      "comment_title": "",
+      "comment_text": "20歳の頃はこれといった趣味が無かったのですが、今は趣味が沢山増えました！",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:26:32",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "33563",
+      "comment_title": "",
+      "comment_text": "足腰が弱くなった。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 11:37:53",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "33609",
+      "comment_title": "",
+      "comment_text": "普通に見た目",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:03:32",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "33607",
+      "comment_title": "",
+      "comment_text": "考え方",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:03:12",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "33700",
+      "comment_title": "",
+      "comment_text": "目が悪くなった。\n時間を大事に使うようになった。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-02 13:25:02",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

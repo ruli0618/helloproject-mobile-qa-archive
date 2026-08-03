@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "comment_id": "8128",
+      "comment_title": "",
+      "comment_text": "内容が言えないぐらい怖くて残酷だったのですが、調べてみたら、すごくいい意味でした！笑",
+      "user_name": "小関舞",
+      "user_icon": "0",
+      "artist_id": "38",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 12:38:36",
+      "updated_at": "2017-12-13 12:38:36"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

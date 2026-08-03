@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "21071",
+    "content_title": "アルバイトをするなら、どんな仕事をしてみたい？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2023-11-09 10:00:00",
+    "created_at": "2023-10-19 15:06:10",
+    "updated_at": "2023-11-08 17:25:32",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "21072",
+    "next_id": "21070"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

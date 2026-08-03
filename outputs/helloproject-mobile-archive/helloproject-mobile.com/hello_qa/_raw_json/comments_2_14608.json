@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18963",
+      "comment_title": "",
+      "comment_text": "病院などの予定の予約の電話。。\nなんでそういう電話って勇気いるんだろう、、",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:32:19",
+      "updated_at": "2020-09-30 14:32:19"
+    },
+    {
+      "comment_id": "18962",
+      "comment_title": "",
+      "comment_text": "毎日の…お風呂…。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:32:07",
+      "updated_at": "2020-09-30 14:32:07"
+    },
+    {
+      "comment_id": "18970",
+      "comment_title": "",
+      "comment_text": "メイクを落とすこと、お風呂に入ること。\nこの二つはどうしても先延ばしにしてしまう…。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:33:26",
+      "updated_at": "2020-09-30 14:33:26"
+    },
+    {
+      "comment_id": "18971",
+      "comment_title": "",
+      "comment_text": "苦手な食べ物を、「今日こそ食べなきゃ！」って思ってるけど、「まだいっか！」ってなります。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:33:36",
+      "updated_at": "2020-09-30 14:33:36"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

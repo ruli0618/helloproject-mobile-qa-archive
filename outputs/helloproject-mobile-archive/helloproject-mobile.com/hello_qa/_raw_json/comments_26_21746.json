@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "33098",
+      "comment_title": "",
+      "comment_text": "白",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:33:01",
+      "updated_at": "2024-02-14 14:33:01"
+    },
+    {
+      "comment_id": "33099",
+      "comment_title": "",
+      "comment_text": "むずかしい！みずいろときいろです！\n晴れた空の下で寝転びたいからです！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:33:25",
+      "updated_at": "2024-02-14 14:33:25"
+    },
+    {
+      "comment_id": "33100",
+      "comment_title": "",
+      "comment_text": "ピーチ色\nメンバーカラーだから！！！笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:33:49",
+      "updated_at": "2024-02-14 14:33:49"
+    },
+    {
+      "comment_id": "33101",
+      "comment_title": "",
+      "comment_text": "深い青。眠いから。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:34:28",
+      "updated_at": "2024-02-14 14:34:28"
+    },
+    {
+      "comment_id": "33102",
+      "comment_title": "",
+      "comment_text": "黄色！！なんとなく黄色！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:34:56",
+      "updated_at": "2024-02-14 14:34:56"
+    },
+    {
+      "comment_id": "33104",
+      "comment_title": "",
+      "comment_text": "鮮やかな青色です。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:35:25",
+      "updated_at": "2024-02-14 14:35:25"
+    },
+    {
+      "comment_id": "33105",
+      "comment_title": "",
+      "comment_text": "透き通ったきいろです。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:35:37",
+      "updated_at": "2024-02-14 14:35:37"
+    },
+    {
+      "comment_id": "33106",
+      "comment_title": "",
+      "comment_text": "オレンジ色\nつばきファクトリーに加入できた嬉しさと、少しの不安と、って感じです。",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:35:53",
+      "updated_at": "2024-02-14 14:35:53"
+    },
+    {
+      "comment_id": "33107",
+      "comment_title": "",
+      "comment_text": "黄色\n黄色は明るいイメージが強くて、年中無休でいつも明るく日々を過ごしているからです。",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:36:09",
+      "updated_at": "2024-02-14 14:36:09"
+    },
+    {
+      "comment_id": "33108",
+      "comment_title": "",
+      "comment_text": "白色\nハッピーな気持ちだからです。",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:36:25",
+      "updated_at": "2024-02-14 14:36:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

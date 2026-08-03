@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "12888",
+      "comment_title": "",
+      "comment_text": "ピンクガーベラです。\n小学生の時に綺麗なお花だなって思って、スケッチしたことがあります！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:37:37",
+      "updated_at": "2019-05-27 14:37:37"
+    },
+    {
+      "comment_id": "12889",
+      "comment_title": "",
+      "comment_text": "ガーベラの花束が嬉しいです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:38:19",
+      "updated_at": "2019-05-27 14:38:19"
+    },
+    {
+      "comment_id": "12891",
+      "comment_title": "",
+      "comment_text": "花より団子、、",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:39:32",
+      "updated_at": "2019-05-27 14:39:32"
+    },
+    {
+      "comment_id": "12893",
+      "comment_title": "",
+      "comment_text": "ピンク色のガーベラです♡♡\n舞台「マリーゴールド」で田村芽実さんが演じていた役の名前で、それをきっかけに好きになりました♡♡",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:40:24",
+      "updated_at": "2019-05-27 14:40:24"
+    },
+    {
+      "comment_id": "12894",
+      "comment_title": "",
+      "comment_text": "たんぽぽ！綿毛でも嬉しいです！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:40:34",
+      "updated_at": "2019-05-27 14:40:34"
+    },
+    {
+      "comment_id": "12895",
+      "comment_title": "",
+      "comment_text": "黄色のガーベラ",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:40:45",
+      "updated_at": "2019-05-27 14:40:45"
+    },
+    {
+      "comment_id": "12896",
+      "comment_title": "",
+      "comment_text": "お花大好きなので何でも嬉しいけれど、バラとかだと可愛らしくて貰ったら嬉しいです！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:41:35",
+      "updated_at": "2019-05-27 14:41:35"
+    },
+    {
+      "comment_id": "12897",
+      "comment_title": "",
+      "comment_text": "桜や、アネモネなどの春の花が好きです♡\n向日葵も貰ったら元気になれそう！！！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 14:41:59",
+      "updated_at": "2019-05-27 14:41:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

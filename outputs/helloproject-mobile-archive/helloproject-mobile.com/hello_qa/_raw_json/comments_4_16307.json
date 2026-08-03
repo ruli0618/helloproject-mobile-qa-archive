@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "21762",
+      "comment_title": "",
+      "comment_text": "わがままなところ！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:34:37",
+      "updated_at": "2021-07-06 13:34:37"
+    },
+    {
+      "comment_id": "21761",
+      "comment_title": "",
+      "comment_text": "暇さえあればリップを塗りなおすところ",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:34:28",
+      "updated_at": "2021-07-06 13:34:28"
+    },
+    {
+      "comment_id": "21763",
+      "comment_title": "",
+      "comment_text": "お腹がいっぱいになってくると口数が減る気がします、、、そこかなぁと思います。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:34:46",
+      "updated_at": "2021-07-06 13:34:46"
+    },
+    {
+      "comment_id": "21764",
+      "comment_title": "",
+      "comment_text": "興味の有無が激しいところです。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 13:34:54",
+      "updated_at": "2021-07-06 13:34:54"
+    },
+    {
+      "comment_id": "21904",
+      "comment_title": "",
+      "comment_text": "お腹が減ると機嫌が悪くなっちゃうことです。。！",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 16:31:57",
+      "updated_at": "2021-07-08 16:31:57"
+    },
+    {
+      "comment_id": "21905",
+      "comment_title": "",
+      "comment_text": "やる気が出るまで怠け者なところです(。-∀-)",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 16:32:09",
+      "updated_at": "2021-07-08 16:32:09"
+    },
+    {
+      "comment_id": "21906",
+      "comment_title": "",
+      "comment_text": "怒られたりしたらすぐに立ち直れないところです。",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 16:32:16",
+      "updated_at": "2021-07-08 16:32:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

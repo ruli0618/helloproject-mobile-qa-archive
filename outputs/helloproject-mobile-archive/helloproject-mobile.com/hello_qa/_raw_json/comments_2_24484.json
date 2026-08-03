@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "37777",
+      "comment_title": "",
+      "comment_text": "タンポポ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:25:15",
+      "updated_at": "2025-06-16 17:25:15"
+    },
+    {
+      "comment_id": "37776",
+      "comment_title": "",
+      "comment_text": "やっぱり「桜」です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:25:05",
+      "updated_at": "2025-06-16 17:25:05"
+    },
+    {
+      "comment_id": "37781",
+      "comment_title": "",
+      "comment_text": "デイジー！！！\nメンバーカラーの名前なので好きなお花です！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:25:50",
+      "updated_at": "2025-06-16 17:25:50"
+    },
+    {
+      "comment_id": "37782",
+      "comment_title": "",
+      "comment_text": "ゼラニウム\n6月28日の誕生花です！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:25:58",
+      "updated_at": "2025-06-16 17:25:58"
+    },
+    {
+      "comment_id": "37783",
+      "comment_title": "",
+      "comment_text": "梨\n梨央の名前の由来に、梨の花が関係しているからです！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:26:06",
+      "updated_at": "2025-06-16 17:26:06"
+    },
+    {
+      "comment_id": "37784",
+      "comment_title": "",
+      "comment_text": "コルシカンミントの花\n小さいミントだから。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:26:16",
+      "updated_at": "2025-06-16 17:26:16"
+    },
+    {
+      "comment_id": "37785",
+      "comment_title": "",
+      "comment_text": "薔薇がイイです！！！(願望)",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-06-16 17:26:25",
+      "updated_at": "2025-06-16 17:26:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

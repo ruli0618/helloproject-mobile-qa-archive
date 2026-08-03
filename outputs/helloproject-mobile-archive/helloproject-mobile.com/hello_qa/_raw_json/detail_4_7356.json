@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 462,
+    "content_id": "7356",
+    "content_title": "1日だけ店長になれます！何のお店の店長になりますか？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2017-09-11 10:00:00",
+    "created_at": "2017-08-30 11:15:10",
+    "updated_at": "2017-09-11 10:04:23",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7357",
+    "next_id": "7355"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

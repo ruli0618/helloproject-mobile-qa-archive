@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "4559",
+      "comment_title": "",
+      "comment_text": "可愛い衣装着ている時。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:03:50",
+      "updated_at": "2016-10-21 13:03:50"
+    },
+    {
+      "comment_id": "4562",
+      "comment_title": "",
+      "comment_text": "前髪がなかなか思う通りにセットできなくて、ずっといじっている時。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:04:12",
+      "updated_at": "2016-10-21 13:04:12"
+    },
+    {
+      "comment_id": "4563",
+      "comment_title": "",
+      "comment_text": "鏡を見ている時",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:04:18",
+      "updated_at": "2016-10-21 13:04:18"
+    },
+    {
+      "comment_id": "4564",
+      "comment_title": "",
+      "comment_text": "小学校に入った時から毎日、必ず前髪を編み込みして行っている事が女子だなって思います",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-10-21 13:04:25",
+      "updated_at": "2016-10-21 13:04:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

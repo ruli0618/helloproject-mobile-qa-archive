@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34428",
+      "comment_title": "",
+      "comment_text": "ゴーカート",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:39:28",
+      "updated_at": "2024-07-09 18:39:28"
+    },
+    {
+      "comment_id": "34431",
+      "comment_title": "",
+      "comment_text": "ジェットコースター\n絶叫系大好きなので、ジェットコースターは怖ければ怖いほど好きです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:40:06",
+      "updated_at": "2024-07-09 18:40:06"
+    },
+    {
+      "comment_id": "34429",
+      "comment_title": "",
+      "comment_text": "ジェットコースター",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:39:38",
+      "updated_at": "2024-07-09 18:39:38"
+    },
+    {
+      "comment_id": "34430",
+      "comment_title": "",
+      "comment_text": "めっちゃ早いジェットコースターです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:39:48",
+      "updated_at": "2024-07-09 18:39:48"
+    },
+    {
+      "comment_id": "34432",
+      "comment_title": "",
+      "comment_text": "水に濡れる系のアトラクション！\nみんなでわいわいするのが好き！スピード感があると嬉しい。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:40:17",
+      "updated_at": "2024-07-09 18:40:17"
+    },
+    {
+      "comment_id": "34433",
+      "comment_title": "",
+      "comment_text": "怖いジェットコースター",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:40:25",
+      "updated_at": "2024-07-09 18:40:25"
+    },
+    {
+      "comment_id": "34434",
+      "comment_title": "",
+      "comment_text": "ジェットコースターです！\nジェットコースターならではの浮遊感とスリル満載なところが好きです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:40:36",
+      "updated_at": "2024-07-09 18:40:36"
+    },
+    {
+      "comment_id": "34435",
+      "comment_title": "",
+      "comment_text": "ジェットコースター！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:40:44",
+      "updated_at": "2024-07-09 18:40:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

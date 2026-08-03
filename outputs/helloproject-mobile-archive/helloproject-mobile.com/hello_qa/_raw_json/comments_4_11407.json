@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12411",
+      "comment_title": "",
+      "comment_text": "高菜まぜごはんに、辛子明太子いれる！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-23 18:52:18",
+      "updated_at": "2019-05-23 18:52:18"
+    },
+    {
+      "comment_id": "17476",
+      "comment_title": "",
+      "comment_text": "牛タン！\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:31:18",
+      "updated_at": "2020-04-03 18:31:18"
+    },
+    {
+      "comment_id": "13410",
+      "comment_title": "",
+      "comment_text": "粉々にしたたこせん",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 19:27:51",
+      "updated_at": "2019-07-12 19:27:51"
+    },
+    {
+      "comment_id": "13411",
+      "comment_title": "",
+      "comment_text": "ワッフルを入れたらパサパサしそうなのでワッフルの生地です。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-07-12 19:28:04",
+      "updated_at": "2019-07-12 19:28:04"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

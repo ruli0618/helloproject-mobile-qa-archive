@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "13610",
+    "content_title": "出演してみたいCMは？",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2017-01-01 00:06:00",
+    "created_at": "2020-03-31 17:57:37",
+    "updated_at": "2020-03-31 18:06:57",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13611",
+    "next_id": "13609"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

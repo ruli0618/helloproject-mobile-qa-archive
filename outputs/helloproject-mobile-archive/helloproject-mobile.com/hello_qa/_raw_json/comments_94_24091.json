@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "37038",
+      "comment_title": "",
+      "comment_text": "強いていうなら洗濯です、、。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:11:39",
+      "updated_at": "2025-04-08 15:11:39"
+    },
+    {
+      "comment_id": "37039",
+      "comment_title": "",
+      "comment_text": "洗い物です！\n洗い物大好きなので、全然苦じゃありません！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:11:49",
+      "updated_at": "2025-04-08 15:11:49"
+    },
+    {
+      "comment_id": "37041",
+      "comment_title": "",
+      "comment_text": "お皿洗い。任せてください。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:14:07",
+      "updated_at": "2025-04-08 15:14:07"
+    },
+    {
+      "comment_id": "37042",
+      "comment_title": "",
+      "comment_text": "お料理は好きな時期もあります！(めんどくさい事も多いけど…)\nでも得意ではないなぁ。。。",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:14:22",
+      "updated_at": "2025-04-08 15:14:22"
+    },
+    {
+      "comment_id": "37043",
+      "comment_title": "",
+      "comment_text": "洗濯だよ～。\n柔軟剤をコロコロ変えたりして飽きないように工夫してます！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:14:33",
+      "updated_at": "2025-04-08 15:14:33"
+    },
+    {
+      "comment_id": "37044",
+      "comment_title": "",
+      "comment_text": "“自分の”部屋の掃除",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:14:48",
+      "updated_at": "2025-04-08 15:14:48"
+    },
+    {
+      "comment_id": "37045",
+      "comment_title": "",
+      "comment_text": "お皿洗いです！\n唯一ぼーっとしながらできるから…笑",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:14:57",
+      "updated_at": "2025-04-08 15:14:57"
+    },
+    {
+      "comment_id": "37046",
+      "comment_title": "",
+      "comment_text": "強いて言うならお料理……か",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-04-08 15:15:06",
+      "updated_at": "2025-04-08 15:15:06"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

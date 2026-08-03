@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "9369",
+      "comment_title": "",
+      "comment_text": "かみこ～。みなみな。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-17 10:00:57",
+      "updated_at": "2018-07-17 10:00:57"
+    },
+    {
+      "comment_id": "9368",
+      "comment_title": "",
+      "comment_text": "まりあと仲良くなりたい！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-17 09:59:35",
+      "updated_at": "2018-07-17 09:59:35"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

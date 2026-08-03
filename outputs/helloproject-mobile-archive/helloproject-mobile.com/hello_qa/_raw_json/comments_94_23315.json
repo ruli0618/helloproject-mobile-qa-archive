@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "35654",
+      "comment_title": "",
+      "comment_text": "マイペースです。\n基本的にゆっくり行動するのが好きなので急ぐのが苦手！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:29:11",
+      "updated_at": "2024-11-21 11:29:11"
+    },
+    {
+      "comment_id": "35655",
+      "comment_title": "",
+      "comment_text": "人見知りで優柔不断です！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:29:20",
+      "updated_at": "2024-11-21 11:29:20"
+    },
+    {
+      "comment_id": "35657",
+      "comment_title": "",
+      "comment_text": "優しくありたいと思ってます、、、。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:29:38",
+      "updated_at": "2024-11-21 11:29:38"
+    },
+    {
+      "comment_id": "35658",
+      "comment_title": "",
+      "comment_text": "マイペース\nゆったりするのが好きです！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:29:49",
+      "updated_at": "2024-11-21 11:29:49"
+    },
+    {
+      "comment_id": "35659",
+      "comment_title": "",
+      "comment_text": "好奇心旺盛！\n気になるものがあるとすぐ走っていっちゃいます(*^^*)",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:30:11",
+      "updated_at": "2024-11-21 11:30:11"
+    },
+    {
+      "comment_id": "35660",
+      "comment_title": "",
+      "comment_text": "極度の真面目さんと極度の面倒くさがりさんが私の中で同居してる。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:30:22",
+      "updated_at": "2024-11-21 11:30:22"
+    },
+    {
+      "comment_id": "35661",
+      "comment_title": "",
+      "comment_text": "めんどくさがり、自分の好きなことにだけ好奇心旺盛",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:30:33",
+      "updated_at": "2024-11-21 11:30:33"
+    },
+    {
+      "comment_id": "35662",
+      "comment_title": "",
+      "comment_text": "納得できないことができない！頑固か！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-11-21 11:30:44",
+      "updated_at": "2024-11-21 11:30:44"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

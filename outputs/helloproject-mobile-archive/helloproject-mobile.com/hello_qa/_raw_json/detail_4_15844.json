@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 262,
+    "content_id": "15844",
+    "content_title": "未来の自分に「3文字だけ」メッセージを送れます。なんて送る？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2021-05-24 10:00:00",
+    "created_at": "2021-04-22 17:14:24",
+    "updated_at": "2021-05-19 10:44:22",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "15845",
+    "next_id": "15843"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

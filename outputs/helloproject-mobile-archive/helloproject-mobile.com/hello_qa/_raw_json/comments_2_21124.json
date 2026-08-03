@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31918",
+      "comment_title": "",
+      "comment_text": "スラップベース",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:31:29",
+      "updated_at": "2023-10-24 15:31:29"
+    },
+    {
+      "comment_id": "31917",
+      "comment_title": "",
+      "comment_text": "声",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:31:23",
+      "updated_at": "2023-10-24 15:31:23"
+    },
+    {
+      "comment_id": "31923",
+      "comment_title": "",
+      "comment_text": "音？！\n琥珀糖とかのしゃりしゃり系の音かな……。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:32:04",
+      "updated_at": "2023-10-24 15:32:04"
+    },
+    {
+      "comment_id": "31924",
+      "comment_title": "",
+      "comment_text": "音階だと「ソ」「ラ」「シ」が好き！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:32:12",
+      "updated_at": "2023-10-24 15:32:12"
+    },
+    {
+      "comment_id": "31925",
+      "comment_title": "",
+      "comment_text": "たくさんあって決めきれませんが…最近は「記憶の迷路」をよく聴いていて、この曲のアウトロが好きです。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:32:26",
+      "updated_at": "2023-10-24 15:32:26"
+    },
+    {
+      "comment_id": "31926",
+      "comment_title": "",
+      "comment_text": "かき氷を削る音です。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:32:32",
+      "updated_at": "2023-10-24 15:32:32"
+    },
+    {
+      "comment_id": "31927",
+      "comment_title": "",
+      "comment_text": "高い「レ」です。\nリコーダーのテストで、毎回唯一上手く出せる音です。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-24 15:32:41",
+      "updated_at": "2023-11-16 17:38:10"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

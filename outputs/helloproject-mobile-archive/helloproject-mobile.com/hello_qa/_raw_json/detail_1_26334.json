@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "26334",
+    "content_title": "もし自分がバトル漫画の登場人物ならどんな能力で戦う？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2025-08-08 10:00:00",
+    "created_at": "2026-06-10 15:49:34",
+    "updated_at": "2026-06-23 15:34:29",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26335",
+    "next_id": "26333"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

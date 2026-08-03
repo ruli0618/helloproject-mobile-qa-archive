@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31653",
+      "comment_title": "",
+      "comment_text": "CDショップの店員、音楽スタジオの受付！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:51:47",
+      "updated_at": "2023-10-19 12:51:47"
+    },
+    {
+      "comment_id": "31652",
+      "comment_title": "",
+      "comment_text": "いらっしゃいませ～をしたいので、接客が良いです。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:51:41",
+      "updated_at": "2023-10-19 12:51:41"
+    },
+    {
+      "comment_id": "31658",
+      "comment_title": "",
+      "comment_text": "これは昔からあって、巫女さん！！\n御朱印集めも好きだし、神社の空気感もすきなので！！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:52:25",
+      "updated_at": "2023-10-19 12:52:25"
+    },
+    {
+      "comment_id": "31659",
+      "comment_title": "",
+      "comment_text": "パンダさんのお世話\nパンダさんを抱っこしたいです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:52:32",
+      "updated_at": "2023-10-19 12:52:32"
+    },
+    {
+      "comment_id": "31660",
+      "comment_title": "",
+      "comment_text": "憧れがあるのは、テーマパークでのアルバイト！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:52:41",
+      "updated_at": "2023-10-19 12:52:41"
+    },
+    {
+      "comment_id": "31661",
+      "comment_title": "",
+      "comment_text": "アイスをすくいたいです。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:52:47",
+      "updated_at": "2023-10-19 12:52:47"
+    },
+    {
+      "comment_id": "31662",
+      "comment_title": "",
+      "comment_text": "チケットをもぎるのが好きなので、会場でお客さんのチケットをたくさんもぎるアルバイトをしてみたいです。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:52:54",
+      "updated_at": "2023-10-19 12:52:54"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

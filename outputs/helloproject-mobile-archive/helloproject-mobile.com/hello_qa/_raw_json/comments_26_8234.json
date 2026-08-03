@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8059",
+      "comment_title": "",
+      "comment_text": "火をつけれるもの",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:41:07",
+      "updated_at": "2017-12-13 11:41:07"
+    },
+    {
+      "comment_id": "8062",
+      "comment_title": "",
+      "comment_text": "布団です。寒い時に暖かくなれる道具があった方がいいと思うからです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:41:53",
+      "updated_at": "2017-12-13 11:41:53"
+    },
+    {
+      "comment_id": "8063",
+      "comment_title": "",
+      "comment_text": "四次元ポケット",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:42:19",
+      "updated_at": "2017-12-13 11:42:19"
+    },
+    {
+      "comment_id": "8064",
+      "comment_title": "",
+      "comment_text": "四次元ポケットです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:42:59",
+      "updated_at": "2017-12-13 11:42:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

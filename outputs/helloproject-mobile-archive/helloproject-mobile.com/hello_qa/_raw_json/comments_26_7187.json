@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6831",
+      "comment_title": "",
+      "comment_text": "小片リサちゃん\nいつも冷静だからこわそう。。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:23:28",
+      "updated_at": "2017-07-31 18:23:28"
+    },
+    {
+      "comment_id": "6834",
+      "comment_title": "",
+      "comment_text": "小野田紗栞ちゃんです。\n意外に怖いと思います、、、笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:24:00",
+      "updated_at": "2017-07-31 18:24:00"
+    },
+    {
+      "comment_id": "6835",
+      "comment_title": "",
+      "comment_text": "岸本ゆめのちゃん",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:24:09",
+      "updated_at": "2017-07-31 18:24:09"
+    },
+    {
+      "comment_id": "6836",
+      "comment_title": "",
+      "comment_text": "小片リサちゃんです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-07-31 18:24:17",
+      "updated_at": "2017-07-31 18:24:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

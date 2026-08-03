@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 82,
+    "content_id": "13522",
+    "content_title": "最近、周りで流行っている事を教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-23 03:00:00",
+    "created_at": "2020-03-31 13:19:51",
+    "updated_at": "2020-03-31 13:25:49",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13523",
+    "next_id": "13521"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

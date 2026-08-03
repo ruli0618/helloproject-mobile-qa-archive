@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "10765",
+      "comment_title": "",
+      "comment_text": "メイク直し",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:22:07",
+      "updated_at": "2018-11-07 12:22:07"
+    },
+    {
+      "comment_id": "10766",
+      "comment_title": "",
+      "comment_text": "おしゃべりをしています。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:22:18",
+      "updated_at": "2018-11-07 12:22:18"
+    },
+    {
+      "comment_id": "10768",
+      "comment_title": "",
+      "comment_text": "メンバーの皆と、ずっとさわがしくお喋りしています。\n主に清野桃々姫ちゃんと岡村美波ちゃんがずっとさわいでいます。\n楽屋でシャトルランをやりはじめたり、すごく賑やかです。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:22:57",
+      "updated_at": "2018-11-09 10:53:29"
+    },
+    {
+      "comment_id": "10770",
+      "comment_title": "",
+      "comment_text": "時間があまるときは皆で筋トレしたり、お昼寝します。",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:23:21",
+      "updated_at": "2018-11-07 12:23:21"
+    },
+    {
+      "comment_id": "10771",
+      "comment_title": "",
+      "comment_text": "一岡さんとは、よく気が合うので、一緒に動画を見たりしています。\n西田汐里ちゃんにメイクを教えてもらったりします。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-11-07 12:23:33",
+      "updated_at": "2018-11-07 12:23:33"
+    },
+    {
+      "comment_id": "10903",
+      "comment_title": "",
+      "comment_text": "ひたすら緊張と闘ってます…。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:51:30",
+      "updated_at": "2018-12-13 13:51:30"
+    },
+    {
+      "comment_id": "10904",
+      "comment_title": "",
+      "comment_text": "お弁当がとっっっても美味しいので、味わって食べています♡",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:51:42",
+      "updated_at": "2018-12-13 13:51:42"
+    },
+    {
+      "comment_id": "10905",
+      "comment_title": "",
+      "comment_text": "まだ緊張しているのでどんな風に過ごしたらいいのか分からないのですが、現場で頂くお弁当がすごく美味しくて、いつも完食してしまいます！！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-12-13 13:51:53",
+      "updated_at": "2018-12-13 13:51:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

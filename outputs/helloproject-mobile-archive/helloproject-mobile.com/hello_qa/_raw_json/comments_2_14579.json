@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18757",
+      "comment_title": "",
+      "comment_text": "空飛びたい、、",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-28 16:15:38",
+      "updated_at": "2020-09-28 16:15:38"
+    },
+    {
+      "comment_id": "18756",
+      "comment_title": "",
+      "comment_text": "時間を止める能力あったら最強だなぁ。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-28 16:15:29",
+      "updated_at": "2020-09-28 16:15:29"
+    },
+    {
+      "comment_id": "18764",
+      "comment_title": "",
+      "comment_text": "空を飛べる。透明人間になる。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-28 16:16:49",
+      "updated_at": "2020-09-28 16:16:49"
+    },
+    {
+      "comment_id": "18765",
+      "comment_title": "",
+      "comment_text": "全部の能力がほしいです。\n例えば、空を飛ぶ、タイムスリップする、心の中が読める、壁を通り抜ける、透明人間になる、瞬間移動する…とかです！\n特に、パンダさんの分身を作って、一緒に過ごせる能力がいいです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-28 16:17:01",
+      "updated_at": "2020-09-28 16:17:01"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

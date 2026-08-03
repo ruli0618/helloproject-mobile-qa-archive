@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "7070",
+      "comment_title": "",
+      "comment_text": "梅ねりや干し梅などの梅系のお菓子",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-08-30 13:08:18",
+      "updated_at": "2017-08-30 13:08:18"
+    },
+    {
+      "comment_id": "7073",
+      "comment_title": "",
+      "comment_text": "きな粉ねじりです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-08-30 13:08:52",
+      "updated_at": "2017-08-30 13:08:52"
+    },
+    {
+      "comment_id": "7074",
+      "comment_title": "",
+      "comment_text": "チョコレート",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-08-30 13:09:00",
+      "updated_at": "2017-08-30 13:09:00"
+    },
+    {
+      "comment_id": "7076",
+      "comment_title": "",
+      "comment_text": "「梅ねり」です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-08-30 13:09:12",
+      "updated_at": "2017-08-30 13:09:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

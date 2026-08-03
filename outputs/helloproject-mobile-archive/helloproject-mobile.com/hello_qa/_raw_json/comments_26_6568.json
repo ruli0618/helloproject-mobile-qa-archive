@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6250",
+      "comment_title": "",
+      "comment_text": "北海道で、雪合戦！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:57:10",
+      "updated_at": "2017-04-21 15:57:10"
+    },
+    {
+      "comment_id": "6253",
+      "comment_title": "",
+      "comment_text": "沢山の人と鬼ごっこをしたいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:57:29",
+      "updated_at": "2017-04-21 15:57:29"
+    },
+    {
+      "comment_id": "6254",
+      "comment_title": "",
+      "comment_text": "じゃんけん大会",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:57:36",
+      "updated_at": "2017-04-21 15:57:36"
+    },
+    {
+      "comment_id": "6255",
+      "comment_title": "",
+      "comment_text": "リレー\nネコとネズミ\nドッチボール\nビンゴ大会",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:57:43",
+      "updated_at": "2017-04-21 15:57:43"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

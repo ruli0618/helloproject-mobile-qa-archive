@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34132",
+      "comment_title": "",
+      "comment_text": "ラフティング！！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:24:01",
+      "updated_at": "2024-06-28 17:24:01"
+    },
+    {
+      "comment_id": "34135",
+      "comment_title": "",
+      "comment_text": "バンジージャンプ！！！\nずっと挑戦してみたいことのひとつです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:24:58",
+      "updated_at": "2024-06-28 17:24:58"
+    },
+    {
+      "comment_id": "34133",
+      "comment_title": "",
+      "comment_text": "自分でヘアカット",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:24:17",
+      "updated_at": "2024-06-28 17:24:17"
+    },
+    {
+      "comment_id": "34134",
+      "comment_title": "",
+      "comment_text": "バンジージャンプです！\nもうやりたすぎて、やった気になってます。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:24:38",
+      "updated_at": "2024-06-28 17:24:38"
+    },
+    {
+      "comment_id": "34136",
+      "comment_title": "",
+      "comment_text": "ケータリングを作ってみたいです！！\n給食みたいに大量のご飯を作るのが夢！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:25:19",
+      "updated_at": "2024-06-28 17:25:19"
+    },
+    {
+      "comment_id": "34137",
+      "comment_title": "",
+      "comment_text": "のんびり旅",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:25:46",
+      "updated_at": "2024-06-28 17:25:46"
+    },
+    {
+      "comment_id": "34138",
+      "comment_title": "",
+      "comment_text": "男装です。\n髪をショートにしてイケメンになってみたいからです。",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:26:07",
+      "updated_at": "2024-06-28 17:26:07"
+    },
+    {
+      "comment_id": "34139",
+      "comment_title": "",
+      "comment_text": "バンジージャンプ！！！\nぜーったいやりたいので、バンジージャンプするタイミングがあれば私を連れてってください！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 17:26:33",
+      "updated_at": "2024-06-28 17:26:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

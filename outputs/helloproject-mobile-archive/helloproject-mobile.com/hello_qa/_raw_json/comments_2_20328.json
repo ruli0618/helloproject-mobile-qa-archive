@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30428",
+      "comment_title": "",
+      "comment_text": "睡眠時間を確保する、コンディションを整える。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:21:10",
+      "updated_at": "2023-06-12 12:21:10"
+    },
+    {
+      "comment_id": "30427",
+      "comment_title": "",
+      "comment_text": "自分が正解だと思いこまない事です。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:21:02",
+      "updated_at": "2023-06-12 12:21:02"
+    },
+    {
+      "comment_id": "30433",
+      "comment_title": "",
+      "comment_text": "なるべくすぐメイクは落とす。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:21:55",
+      "updated_at": "2023-06-12 12:21:55"
+    },
+    {
+      "comment_id": "30434",
+      "comment_title": "",
+      "comment_text": "笑顔\n私がニコニコしてると周りもニコニコになるので！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:22:02",
+      "updated_at": "2023-06-12 12:22:02"
+    },
+    {
+      "comment_id": "30435",
+      "comment_title": "",
+      "comment_text": "自分を客観的に見ること。活動を始めてから、その意識が高まりました。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-12 12:22:10",
+      "updated_at": "2023-06-12 12:22:10"
+    },
+    {
+      "comment_id": "30608",
+      "comment_title": "",
+      "comment_text": "プレッシャーや緊張で表情が固くなってしまったり気分が悪くなってしまうことが多いので、一度落ち着いてみることを心がけています。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:06:40",
+      "updated_at": "2023-06-16 15:06:40"
+    },
+    {
+      "comment_id": "30609",
+      "comment_title": "",
+      "comment_text": "姿勢良くいる事です！",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-06-16 15:06:47",
+      "updated_at": "2023-06-16 15:06:47"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

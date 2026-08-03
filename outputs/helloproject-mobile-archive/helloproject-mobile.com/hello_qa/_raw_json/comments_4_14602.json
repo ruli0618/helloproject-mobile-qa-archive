@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18941",
+      "comment_title": "",
+      "comment_text": "北海道か福岡で、美味しいものたくさん食べたいです！",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:16:59",
+      "updated_at": "2020-09-30 14:16:59"
+    },
+    {
+      "comment_id": "18940",
+      "comment_title": "",
+      "comment_text": "マレーシアの海に行きたい。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:16:51",
+      "updated_at": "2020-09-30 14:16:51"
+    },
+    {
+      "comment_id": "18942",
+      "comment_title": "",
+      "comment_text": "大阪に行って、里愛とUSJに行ってみたいです！\nタコグッズも見つけに行きたいです！\nあとはJuice=Juice全員でもキャンプに行ってみたいです！",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:17:09",
+      "updated_at": "2020-09-30 14:17:09"
+    },
+    {
+      "comment_id": "18943",
+      "comment_title": "",
+      "comment_text": "海外や自然の多い場所に1人で行って、のんびりと過ごしたいです。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 14:17:17",
+      "updated_at": "2020-09-30 14:17:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

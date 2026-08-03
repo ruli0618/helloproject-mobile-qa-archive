@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 222,
+    "content_id": "17061",
+    "content_title": "この名前になってみたいと思うメンバーはいますか？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2022-01-03 10:00:00",
+    "created_at": "2021-11-09 12:59:03",
+    "updated_at": "2021-12-28 18:09:22",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17062",
+    "next_id": "17060"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

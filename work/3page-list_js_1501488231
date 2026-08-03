@@ -1,0 +1,88 @@
+/**
+  * 3ページ構成の2ページ目（一覧2）
+  * A-031 ツアー日記・日記一覧
+  * A-061 Q&A・Q&A一覧
+  */
+hlpr._3pageList = (function() {
+  var utils = hlpr.utils;
+
+  function _loadData() {
+
+    var onsuccess = function(data) {
+      var params = utils.params();
+
+      if (data.error.status == false && data.contents) {
+
+        _.forEach(data.contents, function(item) {
+          // 各リンクを組み立てる→非会員の場合リンクURLを空にしておく
+          item["url"] = this.viewer + "/detail?content_id=" + item.content_id
+                      + "&menu_id=" + params.menu_id
+                      + "&category_id=" + params.category_id
+                      + "&category_title=" + encodeURIComponent(params.category_title)
+                      + "&idx=" + item.idx;
+          if (!_.isUndefined(this.category_color)) {
+            item.url += "&category_color=" + this.category_color;
+          }
+
+          var temp = _.isEmpty(item.release_date) ? item.created_at : item.release_date;
+          var date = new Date(temp.replace(/-/g, '/'));
+          item["month"] = (date.getMonth() + 1) + "月";
+          item["day"]   = date.getDate();
+
+          this.contents.push(item);
+        }, this);
+
+        var color = !_.isUndefined(this.category_color) ? "&category_color=" + this.category_color : "";
+
+        // 前後ページの制御
+        if (!_.isUndefined(params.page) && params.page != "1") {
+          this.previousPage(this.viewer + "/list?menu_id=" + params.menu_id + "&page=" + (params.page - 1)
+                        + "&category_id=" + params.category_id
+                        + "&category_title=" + encodeURIComponent(params.category_title) + color);
+
+        } else {
+
+        }
+        if (data.hasNext) {
+          this.nextPage(this.viewer + "/list?menu_id=" + params.menu_id
+                        + "&page=" + (_.isUndefined(params.page) ? "2" : (Number(params.page) + 1))
+                        + "&category_id=" + params.category_id
+                        + "&category_title=" + encodeURIComponent(params.category_title) + color);
+        }
+      } else {
+        utils.showReload();
+      }
+    }
+
+    var params = utils.params();
+    this.menu_id(params.menu_id);
+    this.category_id =params.category_id;
+    this.category_title = params.category_title;
+    this.category_color = !_.isUndefined(params.category_color) ? params.category_color : undefined;
+    this.category_thumbnail = "/images/" + params.menu_id + this.resource.resourceName + "/"
+                           + params.category_id + ".jpg";
+
+    var queryParams = {
+      category_id: params.category_id,
+      page: params.page
+    }
+
+    utils.get("/api/contents", queryParams, onsuccess, undefined, this);
+  }
+
+  return {
+    init:  function () {
+      console.log("*****hlpr._3pageList.init() start");
+      hlpr._ContentBase.call(this);
+
+      this.contents = ko.observableArray();
+      this.menu_id = ko.observable();
+      this.previousPage = ko.observable('');
+      this.nextPage = ko.observable('');
+
+      _loadData.call(this);
+      ko.applyBindings(this, document.getElementById("bindingContext"));
+    }
+  }
+}()).init();
+

@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "26082",
+      "comment_title": "",
+      "comment_text": "ライブ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:13",
+      "updated_at": "2022-06-08 18:45:13"
+    },
+    {
+      "comment_id": "26085",
+      "comment_title": "",
+      "comment_text": "JAPAN JAMです！\n前日からずっと緊張してました…！笑",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:38",
+      "updated_at": "2022-06-08 18:45:38"
+    },
+    {
+      "comment_id": "26083",
+      "comment_title": "",
+      "comment_text": "JAPAN JAM",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:23",
+      "updated_at": "2022-06-08 18:45:23"
+    },
+    {
+      "comment_id": "26084",
+      "comment_title": "",
+      "comment_text": "JAPAN JAM 2022への出演。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:30",
+      "updated_at": "2022-06-08 18:45:30"
+    },
+    {
+      "comment_id": "26086",
+      "comment_title": "",
+      "comment_text": "JAPAN JAM",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:47",
+      "updated_at": "2022-06-08 18:45:47"
+    },
+    {
+      "comment_id": "26087",
+      "comment_title": "",
+      "comment_text": "60TRY部です！でもすごく楽しかった！！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:45:56",
+      "updated_at": "2022-06-08 18:45:56"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

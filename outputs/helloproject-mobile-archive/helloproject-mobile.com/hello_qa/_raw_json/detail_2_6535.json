@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 482,
+    "content_id": "6535",
+    "content_title": "海に向かって叫ぶとしたら、何て叫びますか？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2017-06-06 10:00:00",
+    "created_at": "2017-04-19 18:32:31",
+    "updated_at": "2017-06-06 10:03:00",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "6536",
+    "next_id": "6534"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

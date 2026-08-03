@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 342,
+    "content_id": "12315",
+    "content_title": "待ち合わせの相手が来ない。どれくらい待てますか？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2019-11-23 10:00:00",
+    "created_at": "2019-10-15 14:41:50",
+    "updated_at": "2019-11-22 18:16:13",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "12316",
+    "next_id": "12314"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

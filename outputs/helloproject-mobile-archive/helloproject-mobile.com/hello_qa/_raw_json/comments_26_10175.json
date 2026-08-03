@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "10626",
+      "comment_title": "",
+      "comment_text": "ステーキ！！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 16:56:32",
+      "updated_at": "2018-10-29 16:56:32"
+    },
+    {
+      "comment_id": "10629",
+      "comment_title": "",
+      "comment_text": "お寿司が食べたいです！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 16:57:03",
+      "updated_at": "2018-10-29 16:57:03"
+    },
+    {
+      "comment_id": "10630",
+      "comment_title": "",
+      "comment_text": "お寿司！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 16:57:14",
+      "updated_at": "2018-10-29 16:57:14"
+    },
+    {
+      "comment_id": "10631",
+      "comment_title": "",
+      "comment_text": "お寿司です。特に、サーモンです！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-10-29 16:57:27",
+      "updated_at": "2018-10-29 16:57:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

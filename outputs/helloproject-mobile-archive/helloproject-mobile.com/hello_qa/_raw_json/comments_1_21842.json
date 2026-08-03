@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "32313",
+      "comment_title": "",
+      "comment_text": "たんじろーーーーー",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 13:58:02",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "32242",
+      "comment_title": "",
+      "comment_text": "鬼",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-12 15:43:00",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "32316",
+      "comment_title": "",
+      "comment_text": "くじゃくーー",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-12-14 13:58:28",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "32544",
+      "comment_title": "",
+      "comment_text": "わたしやろ。",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-01-11 15:42:19",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "32542",
+      "comment_title": "",
+      "comment_text": "だんご三兄弟",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-01-11 15:41:40",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "32602",
+      "comment_title": "",
+      "comment_text": "象\n島まで乗せてもらいたい。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-01-11 16:34:52",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

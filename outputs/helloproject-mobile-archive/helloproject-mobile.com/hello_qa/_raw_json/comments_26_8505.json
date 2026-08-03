@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8387",
+      "comment_title": "",
+      "comment_text": "人のフードの下に手を入れてしまう事。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:38:08",
+      "updated_at": "2018-02-02 16:38:08"
+    },
+    {
+      "comment_id": "8390",
+      "comment_title": "",
+      "comment_text": "人と腕を組んでしまう。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:38:44",
+      "updated_at": "2018-02-02 16:38:44"
+    },
+    {
+      "comment_id": "8391",
+      "comment_title": "",
+      "comment_text": "手をポケットの中に入れてしまったり、温かい飲み物を買ってしまう。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:39:03",
+      "updated_at": "2018-02-02 16:39:03"
+    },
+    {
+      "comment_id": "8392",
+      "comment_title": "",
+      "comment_text": "・両手を脇に挟む。\n・カイロを顔に当てる。\n・足を動かす。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-02-02 16:39:14",
+      "updated_at": "2018-02-02 16:39:14"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

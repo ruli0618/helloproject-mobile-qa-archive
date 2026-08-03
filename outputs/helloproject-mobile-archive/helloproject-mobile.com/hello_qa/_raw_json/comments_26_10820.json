@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "11604",
+      "comment_title": "",
+      "comment_text": "沖縄県\n地元の北海道から1番遠いので住んでみたい。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-12 11:02:05",
+      "updated_at": "2019-02-12 11:02:05"
+    },
+    {
+      "comment_id": "11607",
+      "comment_title": "",
+      "comment_text": "沖縄県に住みたいです。\nのんびり生活したいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-12 11:07:56",
+      "updated_at": "2019-02-12 11:07:56"
+    },
+    {
+      "comment_id": "11608",
+      "comment_title": "",
+      "comment_text": "北海道！雪かきをたくさんしてみたい！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-12 11:08:03",
+      "updated_at": "2019-02-12 11:08:03"
+    },
+    {
+      "comment_id": "11609",
+      "comment_title": "",
+      "comment_text": "北海道に住みたいです。\nウィンタースポーツも好きですし、美味しいご飯が食べたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-02-12 11:08:14",
+      "updated_at": "2019-02-12 11:08:14"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

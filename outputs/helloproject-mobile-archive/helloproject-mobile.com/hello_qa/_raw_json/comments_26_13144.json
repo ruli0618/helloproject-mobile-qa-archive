@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "16394",
+      "comment_title": "",
+      "comment_text": "しっぽから食べる。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:37:20",
+      "updated_at": "2020-02-20 15:37:20"
+    },
+    {
+      "comment_id": "16397",
+      "comment_title": "",
+      "comment_text": "しっぽです。\n美味しいところは最後に残す派です。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:37:53",
+      "updated_at": "2020-02-20 15:37:53"
+    },
+    {
+      "comment_id": "16398",
+      "comment_title": "",
+      "comment_text": "頭から。頭が良くなりたいから。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:38:02",
+      "updated_at": "2020-02-20 15:38:02"
+    },
+    {
+      "comment_id": "16399",
+      "comment_title": "",
+      "comment_text": "頭から食べる派",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:38:13",
+      "updated_at": "2020-02-20 15:38:13"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

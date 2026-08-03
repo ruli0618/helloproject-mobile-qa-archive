@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 182,
+    "content_id": "19129",
+    "content_title": "好きなアイスは何ですか？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2022-12-31 10:00:00",
+    "created_at": "2022-11-08 16:57:44",
+    "updated_at": "2022-12-26 15:17:58",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "19419",
+    "next_id": "19128"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

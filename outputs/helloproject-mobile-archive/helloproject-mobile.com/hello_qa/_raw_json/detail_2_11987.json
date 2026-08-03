@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 342,
+    "content_id": "11987",
+    "content_title": "最近お気に入りの○○を教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2019-10-01 10:00:00",
+    "created_at": "2019-08-21 13:29:49",
+    "updated_at": "2019-09-30 17:48:35",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11994",
+    "next_id": "11980"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

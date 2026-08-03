@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 242,
+    "content_id": "16741",
+    "content_title": "今、一番叫びたい言葉は？",
+    "content_sub_title": "",
+    "category_id": "94",
+    "release_date": "2021-10-29 10:00:00",
+    "created_at": "2021-09-17 12:31:33",
+    "updated_at": "2021-10-29 09:58:48",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16755",
+    "next_id": "16740"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

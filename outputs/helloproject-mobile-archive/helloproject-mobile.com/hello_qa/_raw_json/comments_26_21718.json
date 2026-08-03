@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "32918",
+      "comment_title": "",
+      "comment_text": "和食",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:19:17",
+      "updated_at": "2024-02-07 17:19:17"
+    },
+    {
+      "comment_id": "32919",
+      "comment_title": "",
+      "comment_text": "いちごあめ！\n難しそうって思って一回も作ったことないんだけど、買うのは高いしな～って最近思ってあんまり食べられてないので、挑戦してみたいですっ！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:19:34",
+      "updated_at": "2024-02-07 17:19:34"
+    },
+    {
+      "comment_id": "32920",
+      "comment_title": "",
+      "comment_text": "全て。\nお料理が苦手なので、全て上手になりたいです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:19:45",
+      "updated_at": "2024-02-07 17:19:45"
+    },
+    {
+      "comment_id": "32921",
+      "comment_title": "",
+      "comment_text": "和食かな～！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:19:53",
+      "updated_at": "2024-02-07 17:19:53"
+    },
+    {
+      "comment_id": "32922",
+      "comment_title": "",
+      "comment_text": "肉じゃが！\n前回失敗しちゃったので、、。",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:20:03",
+      "updated_at": "2024-02-07 17:20:03"
+    },
+    {
+      "comment_id": "32924",
+      "comment_title": "",
+      "comment_text": "ビーフシチューです。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-07 17:20:23",
+      "updated_at": "2024-02-07 17:20:23"
+    },
+    {
+      "comment_id": "32929",
+      "comment_title": "",
+      "comment_text": "ポテトサラダ",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-13 11:15:32",
+      "updated_at": "2024-02-13 11:15:32"
+    },
+    {
+      "comment_id": "32939",
+      "comment_title": "",
+      "comment_text": "カルボナーラ\n2ヶ月に一度来るカルボナーラブームに備えたいからです。",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-13 11:25:54",
+      "updated_at": "2024-02-13 11:25:54"
+    },
+    {
+      "comment_id": "32940",
+      "comment_title": "",
+      "comment_text": "オムライス\nオムライスが大好きなので、作れるようになったら好きな時に作れてたくさん食べることができるからです。",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-13 11:26:06",
+      "updated_at": "2024-02-13 11:26:06"
+    },
+    {
+      "comment_id": "32941",
+      "comment_title": "",
+      "comment_text": "オムライス\n好きな食べ物だからです。",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-13 11:26:20",
+      "updated_at": "2024-02-13 11:26:20"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

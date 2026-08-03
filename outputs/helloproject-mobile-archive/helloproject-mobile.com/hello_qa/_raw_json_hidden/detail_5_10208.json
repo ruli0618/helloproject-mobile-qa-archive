@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "10208",
+    "content_title": "子どもの頃、好きだった遊びは何ですか？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2019-01-10 10:00:00",
+    "created_at": "2018-10-31 13:19:57",
+    "updated_at": "2019-01-09 16:20:30",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10211",
+    "next_id": "10207"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

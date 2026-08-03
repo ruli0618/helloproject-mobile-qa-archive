@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "36755",
+      "comment_title": "",
+      "comment_text": "ナンカレー",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:47:48",
+      "updated_at": "2025-02-25 11:47:48"
+    },
+    {
+      "comment_id": "36756",
+      "comment_title": "",
+      "comment_text": "カップ焼きそばです。\n大好きだから見たら食べたくなっちゃう！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:48:07",
+      "updated_at": "2025-02-25 11:48:07"
+    },
+    {
+      "comment_id": "36757",
+      "comment_title": "",
+      "comment_text": "カップ焼きそば！\n時々食べるから美味しさをより感じます！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:48:18",
+      "updated_at": "2025-02-25 11:48:18"
+    },
+    {
+      "comment_id": "36758",
+      "comment_title": "",
+      "comment_text": "たい焼きーー！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:48:29",
+      "updated_at": "2025-02-25 11:48:29"
+    },
+    {
+      "comment_id": "36759",
+      "comment_title": "",
+      "comment_text": "たまにというか常に食べたいのは牛タン",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:48:38",
+      "updated_at": "2025-02-25 11:48:38"
+    },
+    {
+      "comment_id": "36761",
+      "comment_title": "",
+      "comment_text": "辛いラーメンです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:49:04",
+      "updated_at": "2025-02-25 11:49:04"
+    },
+    {
+      "comment_id": "36762",
+      "comment_title": "",
+      "comment_text": "タピオカ",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:49:13",
+      "updated_at": "2025-02-25 11:49:13"
+    },
+    {
+      "comment_id": "36763",
+      "comment_title": "",
+      "comment_text": "オクラの浅漬けです。",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:49:37",
+      "updated_at": "2025-02-25 11:49:37"
+    },
+    {
+      "comment_id": "36764",
+      "comment_title": "",
+      "comment_text": "ハヤシライス",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:49:47",
+      "updated_at": "2025-02-25 11:49:47"
+    },
+    {
+      "comment_id": "36765",
+      "comment_title": "",
+      "comment_text": "チョコレートです。\n無性に甘い物が食べたくなる時があります。",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2025-02-25 11:49:59",
+      "updated_at": "2025-02-25 11:49:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

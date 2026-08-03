@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "17799",
+      "comment_title": "",
+      "comment_text": "好きなものに集中すると歯止めがきかず止まらなくなること。人の声も聞こえなくなる。。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 18:05:20",
+      "updated_at": "2020-05-25 18:05:20"
+    },
+    {
+      "comment_id": "17798",
+      "comment_title": "",
+      "comment_text": "右側で感じた衝撃などを左側でも感じたくなります。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 18:05:11",
+      "updated_at": "2020-05-25 18:05:11"
+    },
+    {
+      "comment_id": "17806",
+      "comment_title": "",
+      "comment_text": "骨を鳴らしてしまう。\n音が嫌と家族にも言われてしまいます。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 18:07:03",
+      "updated_at": "2020-05-25 18:07:03"
+    },
+    {
+      "comment_id": "17807",
+      "comment_title": "",
+      "comment_text": "パンダさんグッズや白黒のものを見てしまうと、一度は手にとってしまう。立ち止まってしまう。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 18:07:11",
+      "updated_at": "2020-05-25 18:07:11"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

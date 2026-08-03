@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "16403",
+      "comment_title": "",
+      "comment_text": "リーダーの山岸理子ちゃん",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:39:59",
+      "updated_at": "2020-02-20 15:39:59"
+    },
+    {
+      "comment_id": "16406",
+      "comment_title": "",
+      "comment_text": "つばきファクトリーみんな♡",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:40:37",
+      "updated_at": "2020-02-20 15:40:37"
+    },
+    {
+      "comment_id": "16407",
+      "comment_title": "",
+      "comment_text": "新沼希空ちゃん\n本番前にいつも顔髪型チェックをしてくれるから。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:40:48",
+      "updated_at": "2020-02-20 15:40:48"
+    },
+    {
+      "comment_id": "16408",
+      "comment_title": "",
+      "comment_text": "佐々木莉佳子さん\nいつも話しかけてきてくれて色々教えてくれる優しい先輩です！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-02-20 15:40:57",
+      "updated_at": "2020-02-20 15:40:57"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

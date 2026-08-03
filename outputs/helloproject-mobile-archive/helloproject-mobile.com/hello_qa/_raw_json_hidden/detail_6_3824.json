@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 202,
+    "content_id": "3824",
+    "content_title": "あなたの食のこだわり、教えてください！",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2016-02-20 10:00:00",
+    "created_at": "2016-01-08 17:35:54",
+    "updated_at": "2016-01-15 14:14:36",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3825",
+    "next_id": "3823"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

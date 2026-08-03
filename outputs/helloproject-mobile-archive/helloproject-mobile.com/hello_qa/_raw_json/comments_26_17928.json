@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "25048",
+      "comment_title": "",
+      "comment_text": "人気のアニメキャラ",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:54:12",
+      "updated_at": "2022-04-06 12:54:12"
+    },
+    {
+      "comment_id": "25051",
+      "comment_title": "",
+      "comment_text": "セーラー服\n写真集でセーラー服を着てる人に憧れがありました。笑\nもう現役じゃないからコスプレになっちゃうのが悔しい！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:54:51",
+      "updated_at": "2022-04-06 12:54:51"
+    },
+    {
+      "comment_id": "25052",
+      "comment_title": "",
+      "comment_text": "なにかのアニメのキャラクター。カラーコンタクトまでしっかりしたい。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:55:04",
+      "updated_at": "2022-04-06 12:55:04"
+    },
+    {
+      "comment_id": "25053",
+      "comment_title": "",
+      "comment_text": "・海外映画のキャラクター\n・夢の国のプリンセス",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:55:15",
+      "updated_at": "2022-04-06 12:55:15"
+    },
+    {
+      "comment_id": "25054",
+      "comment_title": "",
+      "comment_text": "フランケンシュタイン",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:55:26",
+      "updated_at": "2022-04-06 12:55:26"
+    },
+    {
+      "comment_id": "25056",
+      "comment_title": "",
+      "comment_text": "クオッカワラビーか自動販売機",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:55:43",
+      "updated_at": "2022-04-06 12:55:43"
+    },
+    {
+      "comment_id": "25057",
+      "comment_title": "",
+      "comment_text": "セーラームーン\n⇒みんなでやってみたいです\nふたりはプリキュア キュアホワイト\n⇒昔から好きだったから\nオロナミンC\n⇒好きだから",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:55:54",
+      "updated_at": "2022-04-06 12:55:54"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

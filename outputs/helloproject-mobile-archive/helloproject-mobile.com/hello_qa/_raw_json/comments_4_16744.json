@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "22691",
+      "comment_title": "",
+      "comment_text": "1位 犬\n2位 パンダ\n3位 猫",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:33:44",
+      "updated_at": "2021-09-17 13:33:44"
+    },
+    {
+      "comment_id": "22690",
+      "comment_title": "",
+      "comment_text": "犬\nレッサーパンダ\nカワウソ",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:33:33",
+      "updated_at": "2021-09-17 13:33:33"
+    },
+    {
+      "comment_id": "22692",
+      "comment_title": "",
+      "comment_text": "1位 タコ\n2位 ライオン\n3位 猿",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:33:55",
+      "updated_at": "2021-09-17 13:33:55"
+    },
+    {
+      "comment_id": "22693",
+      "comment_title": "",
+      "comment_text": "1：お猫ちゃん\n2：お犬ちゃん\n3：オオカミ",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:34:05",
+      "updated_at": "2021-09-17 13:34:05"
+    },
+    {
+      "comment_id": "22694",
+      "comment_title": "",
+      "comment_text": "1.インコ\n2.ミニブタ\n3.ニュウドウカジカ",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:34:19",
+      "updated_at": "2021-09-17 13:34:19"
+    },
+    {
+      "comment_id": "22695",
+      "comment_title": "",
+      "comment_text": "1.いぬ\n2.ぞう\n3.ミニブタ",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:34:33",
+      "updated_at": "2021-09-17 13:34:33"
+    },
+    {
+      "comment_id": "22696",
+      "comment_title": "",
+      "comment_text": "1.犬 (アレルギーがあるけど大好き)\n2.猫 (犬よりも更にアレルギーがあるけど大好き)\n3.馬 (おばあちゃんとお姉ちゃんが馬好きの為)",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 13:34:53",
+      "updated_at": "2021-09-17 13:34:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

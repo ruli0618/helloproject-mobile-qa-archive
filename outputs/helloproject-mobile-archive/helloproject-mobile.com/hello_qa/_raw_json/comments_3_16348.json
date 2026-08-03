@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "22080",
+      "comment_title": "",
+      "comment_text": "ソファベッド\n寝心地いいのです。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:29:37",
+      "updated_at": "2021-07-16 14:29:37"
+    },
+    {
+      "comment_id": "22083",
+      "comment_title": "",
+      "comment_text": "防音してくれるカーテン！\n私は家で大きな声で歌うことが多いので歌う時はカーテンを閉めて、日光を浴びたい時はレースのカーテンの方だけ閉めるとオシャレな感じになって、とってもお気に入りです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:31:42",
+      "updated_at": "2021-07-16 14:31:42"
+    },
+    {
+      "comment_id": "22081",
+      "comment_title": "",
+      "comment_text": "玄関にある水槽です。\n玄関にも金魚を置いているので家に入った時の水族館みたいな水槽の音がすごく好きです。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:31:23",
+      "updated_at": "2021-07-16 14:31:23"
+    },
+    {
+      "comment_id": "22082",
+      "comment_title": "",
+      "comment_text": "窓が沢山あるところ！陽の光が入ってきて、心が明るくなります！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:31:33",
+      "updated_at": "2021-07-16 14:31:33"
+    },
+    {
+      "comment_id": "22084",
+      "comment_title": "",
+      "comment_text": "窓のサッシが茶色の木っぽくて可愛いのがお気に入りです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-16 14:31:52",
+      "updated_at": "2021-07-16 14:31:52"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

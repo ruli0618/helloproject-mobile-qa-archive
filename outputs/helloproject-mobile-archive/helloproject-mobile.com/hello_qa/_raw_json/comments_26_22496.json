@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "comment_id": "34161",
+      "comment_title": "",
+      "comment_text": "乗馬",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:05:12",
+      "updated_at": "2024-06-28 18:05:12"
+    },
+    {
+      "comment_id": "34162",
+      "comment_title": "",
+      "comment_text": "満天の星空の下で、寝転んでみたいです☆彡",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:05:31",
+      "updated_at": "2024-07-01 15:26:21"
+    },
+    {
+      "comment_id": "34163",
+      "comment_title": "",
+      "comment_text": "47都道府県旅行！！！\nアクトシティ浜松でコンサート！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:05:51",
+      "updated_at": "2024-06-28 18:05:51"
+    },
+    {
+      "comment_id": "34164",
+      "comment_title": "",
+      "comment_text": "服作りたい！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:06:06",
+      "updated_at": "2024-06-28 18:06:06"
+    },
+    {
+      "comment_id": "34165",
+      "comment_title": "",
+      "comment_text": "富士山に登る。",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:06:29",
+      "updated_at": "2024-06-28 18:06:29"
+    },
+    {
+      "comment_id": "34167",
+      "comment_title": "",
+      "comment_text": "絵画教室に通ってみたいです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:07:12",
+      "updated_at": "2024-06-28 18:07:12"
+    },
+    {
+      "comment_id": "34168",
+      "comment_title": "",
+      "comment_text": "宇宙観光？",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:07:27",
+      "updated_at": "2024-06-28 18:07:27"
+    },
+    {
+      "comment_id": "34169",
+      "comment_title": "",
+      "comment_text": "レッサーパンダに会いに行きたいです！",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:07:49",
+      "updated_at": "2024-07-01 15:26:47"
+    },
+    {
+      "comment_id": "34170",
+      "comment_title": "",
+      "comment_text": "リフティング50回やれるまで終われません！\nリフティング50回するのが夢です。",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:08:24",
+      "updated_at": "2024-06-28 18:08:24"
+    },
+    {
+      "comment_id": "34171",
+      "comment_title": "",
+      "comment_text": "トマトを大食いしてみたいです！\n何個食べられるか知りたいからです！",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-06-28 18:08:47",
+      "updated_at": "2024-06-28 18:08:47"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

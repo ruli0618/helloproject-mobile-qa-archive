@@ -1,0 +1,154 @@
+{
+  "comments": [
+    {
+      "comment_id": "23267",
+      "comment_title": "",
+      "comment_text": "脇屋シェフ監修のジャージャー麺(里山イベント)",
+      "user_name": "譜久村聖",
+      "user_icon": "0",
+      "artist_id": "6",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:38:48",
+      "updated_at": "2023-11-30 17:25:49"
+    },
+    {
+      "comment_id": "23368",
+      "comment_title": "",
+      "comment_text": "ハンバーグ",
+      "user_name": "竹内朱莉",
+      "user_icon": "0",
+      "artist_id": "22",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:04:32",
+      "updated_at": "2023-06-22 13:14:28"
+    },
+    {
+      "comment_id": "23269",
+      "comment_title": "",
+      "comment_text": "手作りしたスパイスカレーでした！\n枝豆と生姜きかせたキーマ！",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:39:05",
+      "updated_at": "2024-12-10 12:01:40"
+    },
+    {
+      "comment_id": "22901",
+      "comment_title": "",
+      "comment_text": "いきなりステーキ",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 12:54:16",
+      "updated_at": "2024-06-17 17:30:36"
+    },
+    {
+      "comment_id": "23272",
+      "comment_title": "",
+      "comment_text": "焼きそばパン",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 18:39:38",
+      "updated_at": "2026-06-29 14:30:48"
+    },
+    {
+      "comment_id": "23370",
+      "comment_title": "",
+      "comment_text": "鯖弁当",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:04:46",
+      "updated_at": "2024-06-20 17:57:24"
+    },
+    {
+      "comment_id": "25557",
+      "comment_title": "",
+      "comment_text": "パンとカフェラテとカプレーゼ！\nなんか丁度オシャレな感じで良かった！笑",
+      "user_name": "稲場愛香",
+      "user_icon": "0",
+      "artist_id": "35",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-05-30 16:40:02",
+      "updated_at": "2022-05-30 16:40:02"
+    },
+    {
+      "comment_id": "26325",
+      "comment_title": "",
+      "comment_text": "明太子とイカのパスタ",
+      "user_name": "森戸知沙希　",
+      "user_icon": "0",
+      "artist_id": "96",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-21 12:04:49",
+      "updated_at": "2022-06-21 12:04:49"
+    },
+    {
+      "comment_id": "23015",
+      "comment_title": "",
+      "comment_text": "まだ食べてません！\nお弁当を食べる予定です！",
+      "user_name": "山岸理子",
+      "user_icon": "0",
+      "artist_id": "50",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 16:33:53",
+      "updated_at": "2023-11-07 14:47:46"
+    },
+    {
+      "comment_id": "29520",
+      "comment_title": "",
+      "comment_text": "いま流行りの？ごはんバーガー\nチーズ系にしました。",
+      "user_name": "浅倉樹々",
+      "user_icon": "0",
+      "artist_id": "54",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-04-03 13:48:55",
+      "updated_at": "2023-04-03 13:48:55"
+    },
+    {
+      "comment_id": "23371",
+      "comment_title": "",
+      "comment_text": "鯖弁当",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:04:55",
+      "updated_at": "2025-06-24 19:39:16"
+    },
+    {
+      "comment_id": "23136",
+      "comment_title": "",
+      "comment_text": "野菜が入ったペペロンチーノ\n緑のパスタが好きです。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-09 17:23:22",
+      "updated_at": "2025-06-17 16:36:25"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "13140",
+    "content_title": "春といえば？",
+    "content_sub_title": "",
+    "category_id": "3",
+    "release_date": "2020-04-29 10:00:00",
+    "created_at": "2020-02-20 15:23:27",
+    "updated_at": "2020-04-23 10:08:03",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13141",
+    "next_id": "13139"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

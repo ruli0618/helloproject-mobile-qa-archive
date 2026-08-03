@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "7287",
+      "comment_title": "",
+      "comment_text": "外科Doctor\n賢いから。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-02 18:23:07",
+      "updated_at": "2017-10-02 18:23:07"
+    },
+    {
+      "comment_id": "7285",
+      "comment_title": "",
+      "comment_text": "コンサートをつくるスタッフさん",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-02 18:22:38",
+      "updated_at": "2017-10-02 18:22:38"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

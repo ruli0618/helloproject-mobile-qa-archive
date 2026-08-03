@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "14036",
+      "comment_title": "",
+      "comment_text": "気持ちの意識",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:47:09",
+      "updated_at": "2019-08-21 18:47:09"
+    },
+    {
+      "comment_id": "14037",
+      "comment_title": "",
+      "comment_text": "1人で行動する事が多くなりました。(新幹線など)",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:47:16",
+      "updated_at": "2019-08-21 18:47:16"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

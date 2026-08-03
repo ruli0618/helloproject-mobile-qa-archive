@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "31706",
+      "comment_title": "",
+      "comment_text": "絶対にコンビニです！やってみたいです！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:54:54",
+      "updated_at": "2023-10-19 14:54:54"
+    },
+    {
+      "comment_id": "31709",
+      "comment_title": "",
+      "comment_text": "接客業をしてみたいです！\nできれば飲食店で、美味しいまかないが食べたい。笑",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:19",
+      "updated_at": "2023-10-19 14:55:19"
+    },
+    {
+      "comment_id": "31707",
+      "comment_title": "",
+      "comment_text": "コンビニ店員",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:02",
+      "updated_at": "2023-10-19 14:55:02"
+    },
+    {
+      "comment_id": "31708",
+      "comment_title": "",
+      "comment_text": "ドラッグストアのレジです。\nドラッグストアの匂いが好きだからです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:10",
+      "updated_at": "2023-10-19 14:55:10"
+    },
+    {
+      "comment_id": "31710",
+      "comment_title": "",
+      "comment_text": "中華料理屋さんで中華鍋を振るいたい！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:25",
+      "updated_at": "2023-10-19 14:55:25"
+    },
+    {
+      "comment_id": "31711",
+      "comment_title": "",
+      "comment_text": "在庫出し！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:32",
+      "updated_at": "2023-10-19 14:55:32"
+    },
+    {
+      "comment_id": "31712",
+      "comment_title": "",
+      "comment_text": "アパレルショップの店員",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:40",
+      "updated_at": "2023-10-19 14:55:40"
+    },
+    {
+      "comment_id": "31713",
+      "comment_title": "",
+      "comment_text": "マックの店員さん！\nテレレって音を聞きたいから！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 14:55:49",
+      "updated_at": "2023-10-19 14:55:49"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

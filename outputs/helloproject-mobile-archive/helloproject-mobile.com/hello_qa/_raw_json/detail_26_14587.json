@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 302,
+    "content_id": "14587",
+    "content_title": "思い出の給食メニューは？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2020-10-29 10:00:00",
+    "created_at": "2020-09-28 18:06:00",
+    "updated_at": "2020-10-26 01:11:27",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "14634",
+    "next_id": "14586"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

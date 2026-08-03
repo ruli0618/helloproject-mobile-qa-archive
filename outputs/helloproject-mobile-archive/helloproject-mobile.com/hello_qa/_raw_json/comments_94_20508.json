@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "30845",
+      "comment_title": "",
+      "comment_text": "海派！眺めてたい！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:40:20",
+      "updated_at": "2023-07-18 17:40:20"
+    },
+    {
+      "comment_id": "30846",
+      "comment_title": "",
+      "comment_text": "海派です！\n綺麗な海を見るのも泳いで遊ぶのも大好きです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:40:30",
+      "updated_at": "2023-07-18 17:40:30"
+    },
+    {
+      "comment_id": "30848",
+      "comment_title": "",
+      "comment_text": "海！見たい！\nでも山でキャンプもしてみたいなぁ。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:40:46",
+      "updated_at": "2023-07-18 17:40:46"
+    },
+    {
+      "comment_id": "30850",
+      "comment_title": "",
+      "comment_text": "やっぱり海でしょ～♡\n今年の夏はBEYOOOOONDSみんなで海行きたいです！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:41:23",
+      "updated_at": "2023-07-18 17:41:23"
+    },
+    {
+      "comment_id": "30851",
+      "comment_title": "",
+      "comment_text": "海！あまり行ったことがないから！",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:41:35",
+      "updated_at": "2023-07-18 17:41:35"
+    },
+    {
+      "comment_id": "30852",
+      "comment_title": "",
+      "comment_text": "海！\n今の季節、山に行くと虫が多そうなので！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:41:48",
+      "updated_at": "2023-07-18 17:41:48"
+    },
+    {
+      "comment_id": "30853",
+      "comment_title": "",
+      "comment_text": "どちらかといえば海！！海の家でずっとのんびりしていたいです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:41:55",
+      "updated_at": "2023-07-18 17:41:55"
+    },
+    {
+      "comment_id": "30854",
+      "comment_title": "",
+      "comment_text": "海派です！\n決して泳ぎはしないのですが、海のにおいと音が好きです！\nあと水族館が好き！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 17:42:03",
+      "updated_at": "2023-07-18 17:42:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

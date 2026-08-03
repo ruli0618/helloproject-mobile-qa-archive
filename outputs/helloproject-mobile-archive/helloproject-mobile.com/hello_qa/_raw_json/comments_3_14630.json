@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "19028",
+      "comment_title": "",
+      "comment_text": "部屋のお掃除です！！！！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 15:42:47",
+      "updated_at": "2020-09-30 15:42:47"
+    },
+    {
+      "comment_id": "19166",
+      "comment_title": "",
+      "comment_text": "部屋の片付け",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:17:29",
+      "updated_at": "2020-11-09 11:17:29"
+    },
+    {
+      "comment_id": "19029",
+      "comment_title": "",
+      "comment_text": "勉強。やらなきゃ...といつも思っているから。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 15:42:55",
+      "updated_at": "2020-09-30 15:42:55"
+    },
+    {
+      "comment_id": "19165",
+      "comment_title": "",
+      "comment_text": "部屋の片付けは1ヶ月以上先延ばしました。昨日終わりました！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:17:22",
+      "updated_at": "2020-11-09 11:17:22"
+    },
+    {
+      "comment_id": "19167",
+      "comment_title": "",
+      "comment_text": "部屋の片付けです。\n引っ越しの段ボールがまだ残っていて目につくので、片付けなきゃなぁと思いつつもめんどくさくて後回しにしています。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-09 11:17:42",
+      "updated_at": "2020-11-09 11:17:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

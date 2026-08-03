@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "25835",
+      "comment_title": "",
+      "comment_text": "朝6時に起きよう！とか言って起きれてないから無理に頑張るのをやめました。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:07:52",
+      "updated_at": "2022-06-07 10:07:52"
+    },
+    {
+      "comment_id": "25838",
+      "comment_title": "",
+      "comment_text": "朝ヨーグルトを食べること！\n最近は朝しっかりとお米を食べて、ヨーグルトを食べたい時は夜食べてます。",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:08:55",
+      "updated_at": "2022-06-07 10:08:55"
+    },
+    {
+      "comment_id": "25836",
+      "comment_title": "",
+      "comment_text": "お風呂上がりの足のマッサージ",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:08:19",
+      "updated_at": "2022-06-07 10:08:19"
+    },
+    {
+      "comment_id": "25837",
+      "comment_title": "",
+      "comment_text": "ホットアイマスクです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:08:36",
+      "updated_at": "2022-06-07 10:08:36"
+    },
+    {
+      "comment_id": "25839",
+      "comment_title": "",
+      "comment_text": "食べてすぐ運動すること。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:09:15",
+      "updated_at": "2022-06-07 10:09:15"
+    },
+    {
+      "comment_id": "25840",
+      "comment_title": "",
+      "comment_text": "休みの日に家から出ない。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:09:35",
+      "updated_at": "2022-06-07 10:09:35"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

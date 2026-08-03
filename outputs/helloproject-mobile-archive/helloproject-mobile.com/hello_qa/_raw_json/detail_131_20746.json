@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "20746",
+    "content_title": "好きなケーキは？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2023-09-30 10:00:00",
+    "created_at": "2023-08-22 13:47:07",
+    "updated_at": "2023-09-29 16:51:06",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "20931",
+    "next_id": "20745"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

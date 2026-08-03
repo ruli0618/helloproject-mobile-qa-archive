@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "33134",
+      "comment_title": "",
+      "comment_text": "赤色",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:47:10",
+      "updated_at": "2024-02-14 14:47:10"
+    },
+    {
+      "comment_id": "33135",
+      "comment_title": "",
+      "comment_text": "白",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:48:12",
+      "updated_at": "2024-02-14 14:48:12"
+    },
+    {
+      "comment_id": "33137",
+      "comment_title": "",
+      "comment_text": "黄色！\n朝から太陽浴びて、明るい気持ちになってます！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:48:40",
+      "updated_at": "2024-02-14 14:48:40"
+    },
+    {
+      "comment_id": "33139",
+      "comment_title": "",
+      "comment_text": "透明！\nちょっと眠くて何も考えられないから…笑",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:49:05",
+      "updated_at": "2024-02-14 14:49:05"
+    },
+    {
+      "comment_id": "33140",
+      "comment_title": "",
+      "comment_text": "黄土色ですーーー。\n眠たい時に書いています。。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:49:19",
+      "updated_at": "2024-02-14 14:49:19"
+    },
+    {
+      "comment_id": "33141",
+      "comment_title": "",
+      "comment_text": "水色っぽい白っぽいグレー",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:49:31",
+      "updated_at": "2024-02-14 14:49:31"
+    },
+    {
+      "comment_id": "33142",
+      "comment_title": "",
+      "comment_text": "白！何も考えてない…。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:49:47",
+      "updated_at": "2024-02-14 14:49:47"
+    },
+    {
+      "comment_id": "33143",
+      "comment_title": "",
+      "comment_text": "クリーム色？\nちょっと眠たいので～zz",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:50:02",
+      "updated_at": "2024-02-14 14:50:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

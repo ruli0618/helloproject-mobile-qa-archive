@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 142,
+    "content_id": "20492",
+    "content_title": "遊びに行くなら、海派？山派？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2023-08-07 10:00:00",
+    "created_at": "2023-07-18 15:55:52",
+    "updated_at": "2023-08-04 11:27:11",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "20493",
+    "next_id": "20491"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

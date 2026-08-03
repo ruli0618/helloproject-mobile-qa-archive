@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "7452",
+      "comment_title": "",
+      "comment_text": "テレビを見る時やお買い物する時は、家族全員で見たり行ったりする。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:04:15",
+      "updated_at": "2017-10-03 16:04:15"
+    },
+    {
+      "comment_id": "7455",
+      "comment_title": "",
+      "comment_text": "ドラマは全部録画します！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:08:11",
+      "updated_at": "2017-10-03 16:08:11"
+    },
+    {
+      "comment_id": "7456",
+      "comment_title": "",
+      "comment_text": "食事中に、ママに「あれとって」という場合、たいていティッシュペーパーのこと。\nママの近くにティッシュペーパーがあるからだと思うが、ママは何も言わずにとってくれます。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:08:33",
+      "updated_at": "2017-10-03 16:08:33"
+    },
+    {
+      "comment_id": "7457",
+      "comment_title": "",
+      "comment_text": "カバンはみんなで使う！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 16:09:03",
+      "updated_at": "2017-10-03 16:09:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

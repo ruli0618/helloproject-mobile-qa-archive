@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 262,
+    "content_id": "17187",
+    "content_title": "○○食べ放題！何を食べたい？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2021-03-15 00:00:00",
+    "created_at": "2021-11-24 19:26:30",
+    "updated_at": "2021-11-25 18:00:37",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17188",
+    "next_id": "17186"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

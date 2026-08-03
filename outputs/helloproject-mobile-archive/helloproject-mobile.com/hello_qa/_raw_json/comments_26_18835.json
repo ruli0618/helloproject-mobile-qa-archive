@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "27274",
+      "comment_title": "",
+      "comment_text": "どっちも派！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:26:44",
+      "updated_at": "2022-09-16 14:26:44"
+    },
+    {
+      "comment_id": "27277",
+      "comment_title": "",
+      "comment_text": "ボケ派だと思います。\n考えてなくても笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:27:14",
+      "updated_at": "2022-09-16 14:27:14"
+    },
+    {
+      "comment_id": "27278",
+      "comment_title": "",
+      "comment_text": "どちらもだと思っています！笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:27:23",
+      "updated_at": "2022-09-16 14:27:23"
+    },
+    {
+      "comment_id": "27279",
+      "comment_title": "",
+      "comment_text": "ボケなのかなぁと思います！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:27:39",
+      "updated_at": "2022-09-16 14:27:39"
+    },
+    {
+      "comment_id": "27280",
+      "comment_title": "",
+      "comment_text": "どちらかというとボケてるのかな？笑\nわかんない。",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:27:52",
+      "updated_at": "2022-09-16 14:27:52"
+    },
+    {
+      "comment_id": "27282",
+      "comment_title": "",
+      "comment_text": "ツッコミ派",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:28:14",
+      "updated_at": "2022-09-16 14:28:14"
+    },
+    {
+      "comment_id": "27283",
+      "comment_title": "",
+      "comment_text": "分からないですが、大阪弁を時々使うのでツッコミ？",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:28:22",
+      "updated_at": "2022-09-16 14:28:22"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

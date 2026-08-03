@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "27250",
+      "comment_title": "",
+      "comment_text": "周りをよく見れるようになった。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:19:24",
+      "updated_at": "2022-09-16 14:19:24"
+    },
+    {
+      "comment_id": "27253",
+      "comment_title": "",
+      "comment_text": "歌う前に息吸ったり吐いたりしすぎると逆に失敗しちゃう！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:19:56",
+      "updated_at": "2022-09-16 14:19:56"
+    },
+    {
+      "comment_id": "27254",
+      "comment_title": "",
+      "comment_text": "かっこいい表情。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:20:07",
+      "updated_at": "2022-09-16 14:20:07"
+    },
+    {
+      "comment_id": "27255",
+      "comment_title": "",
+      "comment_text": "楽しんだもんがち。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:20:17",
+      "updated_at": "2022-09-16 14:20:17"
+    },
+    {
+      "comment_id": "27256",
+      "comment_title": "",
+      "comment_text": "アイコンタクトをとると緊張がなくなる！！って、最近思った！！仲間のいる安心さ！！笑",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:20:32",
+      "updated_at": "2022-09-16 14:20:32"
+    },
+    {
+      "comment_id": "27258",
+      "comment_title": "",
+      "comment_text": "発声の大切さ",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:20:53",
+      "updated_at": "2022-09-16 14:20:53"
+    },
+    {
+      "comment_id": "27259",
+      "comment_title": "",
+      "comment_text": "カメラの位置",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-16 14:21:05",
+      "updated_at": "2022-09-16 14:21:05"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

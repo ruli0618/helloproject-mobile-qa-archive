@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "31246",
+      "comment_title": "",
+      "comment_text": "なんでも好きだから気分によるけど、いまはチーズケーキ。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:17:47",
+      "updated_at": "2023-08-22 13:17:47"
+    },
+    {
+      "comment_id": "31249",
+      "comment_title": "",
+      "comment_text": "チョコケーキです！！\n濃厚なチョコケーキが好き！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:10",
+      "updated_at": "2023-08-22 13:18:10"
+    },
+    {
+      "comment_id": "31247",
+      "comment_title": "",
+      "comment_text": "チーズケーキ",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:17:55",
+      "updated_at": "2023-08-22 13:17:55"
+    },
+    {
+      "comment_id": "31248",
+      "comment_title": "",
+      "comment_text": "ケーキかはわからないけど、アップルパイとガトーショコラです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:02",
+      "updated_at": "2023-08-22 13:18:02"
+    },
+    {
+      "comment_id": "31250",
+      "comment_title": "",
+      "comment_text": "ピスタチオタルト！サクサクタルトと濃厚ピスタチオが最高です、、フランボワーズとかベリー系も一緒だとなお嬉しい！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:18",
+      "updated_at": "2023-08-22 13:18:18"
+    },
+    {
+      "comment_id": "31251",
+      "comment_title": "",
+      "comment_text": "全部好きだけども、ガトーショコラ！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:26",
+      "updated_at": "2023-08-22 13:18:26"
+    },
+    {
+      "comment_id": "31252",
+      "comment_title": "",
+      "comment_text": "フルーツタルト！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:33",
+      "updated_at": "2023-08-22 13:18:33"
+    },
+    {
+      "comment_id": "31253",
+      "comment_title": "",
+      "comment_text": "フルーツタルトです！！\nタルトの生地が好きです！！",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-08-22 13:18:42",
+      "updated_at": "2023-08-22 13:18:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

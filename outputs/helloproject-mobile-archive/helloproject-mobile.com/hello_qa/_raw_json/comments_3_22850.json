@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34893",
+      "comment_title": "",
+      "comment_text": "カレーライス、辛子明太子、チーズインハンバーグ、春雨サラダ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:22:44",
+      "updated_at": "2024-09-05 10:22:44"
+    },
+    {
+      "comment_id": "34896",
+      "comment_title": "",
+      "comment_text": "各地の名物！！\n地方でしか食べられなかったり、地方ならではのメニューがあると喜びます！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:23:17",
+      "updated_at": "2024-09-05 10:23:17"
+    },
+    {
+      "comment_id": "34894",
+      "comment_title": "",
+      "comment_text": "カレー",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:22:54",
+      "updated_at": "2024-09-05 10:22:54"
+    },
+    {
+      "comment_id": "34895",
+      "comment_title": "",
+      "comment_text": "スクランブルエッグ！！忘れられない味です。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:23:03",
+      "updated_at": "2024-09-05 10:23:03"
+    },
+    {
+      "comment_id": "34897",
+      "comment_title": "",
+      "comment_text": "生姜焼き！！！\nそもそも毎日食べたいくらい生姜焼きが大好きなのですが、ケータリングだと豚バラだったり、豚ロースだったり、甘かったり、しょっぱかったり、いろんな生姜焼きを楽しめるからです！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:23:27",
+      "updated_at": "2024-09-05 10:23:27"
+    },
+    {
+      "comment_id": "34898",
+      "comment_title": "",
+      "comment_text": "豚汁",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:23:37",
+      "updated_at": "2024-09-05 10:23:37"
+    },
+    {
+      "comment_id": "34899",
+      "comment_title": "",
+      "comment_text": "牛タン！！",
+      "user_name": "下井谷幸穂",
+      "user_icon": "0",
+      "artist_id": "150",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:23:46",
+      "updated_at": "2024-09-05 10:23:46"
+    },
+    {
+      "comment_id": "34900",
+      "comment_title": "",
+      "comment_text": "唐揚げ！\n唐揚げが出たことあったか忘れちゃったけど笑",
+      "user_name": "後藤花",
+      "user_icon": "0",
+      "artist_id": "149",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-09-05 10:24:00",
+      "updated_at": "2024-09-05 10:24:00"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18027",
+      "comment_title": "",
+      "comment_text": "絶対に柔軟剤の香り",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:51:13",
+      "updated_at": "2020-05-26 11:51:13"
+    },
+    {
+      "comment_id": "18030",
+      "comment_title": "",
+      "comment_text": "人から香る香りは、柔軟剤の香りが好きです。\n人からじゃなかったら、紙袋の香り、学校で配られるプリントの香り、パンの香り、ニラの香りも好きです。笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:51:50",
+      "updated_at": "2020-05-26 11:51:50"
+    },
+    {
+      "comment_id": "18031",
+      "comment_title": "",
+      "comment_text": "柑橘系の香り\nさっぱりしているのが好きです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:52:02",
+      "updated_at": "2020-05-26 11:52:02"
+    },
+    {
+      "comment_id": "18032",
+      "comment_title": "",
+      "comment_text": "石鹸の香りと赤ちゃんの香り",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-26 11:52:15",
+      "updated_at": "2020-05-26 11:52:15"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

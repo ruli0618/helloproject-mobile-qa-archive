@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "27567",
+      "comment_title": "",
+      "comment_text": "今動いた方が効率良いですよー！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-31 14:07:51",
+      "updated_at": "2022-10-31 14:07:51"
+    },
+    {
+      "comment_id": "27566",
+      "comment_title": "",
+      "comment_text": "座るな！！座ったら終わるぞ！！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-31 14:07:44",
+      "updated_at": "2022-10-31 14:07:44"
+    },
+    {
+      "comment_id": "27573",
+      "comment_title": "",
+      "comment_text": "動け明日の私が感謝するぞ！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-31 14:08:50",
+      "updated_at": "2022-10-31 14:08:50"
+    },
+    {
+      "comment_id": "27574",
+      "comment_title": "",
+      "comment_text": "「パンダさ～～ん、パワーーーー！！！！」",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-31 14:09:03",
+      "updated_at": "2022-10-31 14:09:03"
+    },
+    {
+      "comment_id": "27575",
+      "comment_title": "",
+      "comment_text": "今日も頑張ったあなた、とってもえらいり～( ^_^)＼(^-^ )！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-31 14:09:12",
+      "updated_at": "2022-10-31 14:09:12"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

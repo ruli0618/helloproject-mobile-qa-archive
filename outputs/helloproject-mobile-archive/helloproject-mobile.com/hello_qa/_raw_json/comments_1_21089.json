@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31677",
+      "comment_title": "",
+      "comment_text": "あみこみずき",
+      "user_name": "譜久村聖",
+      "user_icon": "0",
+      "artist_id": "6",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:56:58",
+      "updated_at": "2023-11-30 17:25:49"
+    },
+    {
+      "comment_id": "31679",
+      "comment_title": "",
+      "comment_text": "ブームは、お団子から細い三つ編みがピロピロしてるチャイニーズヘアー、ずっと好きなのはポニー♡",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:57:11",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "31624",
+      "comment_title": "",
+      "comment_text": "サラサラストレートヘア",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:35:59",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "31682",
+      "comment_title": "",
+      "comment_text": "アーニャ",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 12:57:29",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "31727",
+      "comment_title": "",
+      "comment_text": "なんでも好きです！",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:00:57",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "31725",
+      "comment_title": "",
+      "comment_text": "今はボリューム感のあるボブにしたいです！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:00:39",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "31812",
+      "comment_title": "",
+      "comment_text": "無造作ヘア",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:24:25",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

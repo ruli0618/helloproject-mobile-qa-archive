@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "26004",
+      "comment_title": "",
+      "comment_text": "みきお",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:06:24",
+      "updated_at": "2022-06-08 18:06:24"
+    },
+    {
+      "comment_id": "26003",
+      "comment_title": "",
+      "comment_text": "「れい」とかが良いなぁ。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:06:14",
+      "updated_at": "2022-06-08 18:06:14"
+    },
+    {
+      "comment_id": "26010",
+      "comment_title": "",
+      "comment_text": "ゆうとくん？？分かりません笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:07:49",
+      "updated_at": "2022-06-08 18:07:49"
+    },
+    {
+      "comment_id": "26011",
+      "comment_title": "",
+      "comment_text": "れん\n名前ランキングをみたら１位だったので！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:08:08",
+      "updated_at": "2022-06-08 18:08:08"
+    },
+    {
+      "comment_id": "26494",
+      "comment_title": "",
+      "comment_text": "「りく」\n自分の名前である「りお」と似ているのと、ら行が好きだからです。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-07-04 11:56:26",
+      "updated_at": "2022-07-04 11:56:26"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

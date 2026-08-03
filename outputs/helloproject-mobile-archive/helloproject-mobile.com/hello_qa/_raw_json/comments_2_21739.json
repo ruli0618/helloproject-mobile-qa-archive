@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "33018",
+      "comment_title": "",
+      "comment_text": "デザイン性・履きやすさ",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:58:35",
+      "updated_at": "2024-02-14 13:58:35"
+    },
+    {
+      "comment_id": "33017",
+      "comment_title": "",
+      "comment_text": "かわいいかどうか！\n22.5㎝の中でも、小さめの作りかどうか！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:58:22",
+      "updated_at": "2024-02-14 13:58:22"
+    },
+    {
+      "comment_id": "33023",
+      "comment_title": "",
+      "comment_text": "可愛いやつ♪♪",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:59:28",
+      "updated_at": "2024-02-14 13:59:28"
+    },
+    {
+      "comment_id": "33024",
+      "comment_title": "",
+      "comment_text": "自分の足のサイズにぴったり合う靴を選びます！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:59:35",
+      "updated_at": "2024-02-14 13:59:35"
+    },
+    {
+      "comment_id": "33025",
+      "comment_title": "",
+      "comment_text": "自分の持っているくつの種類とかぶらないようにする、着脱がすぐにできるかを確認！",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:59:45",
+      "updated_at": "2024-02-14 13:59:45"
+    },
+    {
+      "comment_id": "33026",
+      "comment_title": "",
+      "comment_text": "身長が盛れるかどうか！\n足が疲れるよりも、身長が盛れる方が最優先です。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:00:00",
+      "updated_at": "2024-02-14 14:00:00"
+    },
+    {
+      "comment_id": "33027",
+      "comment_title": "",
+      "comment_text": "立ったままチャックを閉めれるかどうか。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:00:09",
+      "updated_at": "2024-02-14 14:00:09"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

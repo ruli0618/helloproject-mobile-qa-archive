@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "21855",
+      "comment_title": "",
+      "comment_text": "しつこいところ。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 16:13:35",
+      "updated_at": "2021-07-06 16:13:35"
+    },
+    {
+      "comment_id": "21858",
+      "comment_title": "",
+      "comment_text": "決まったルーティンを崩せないこと。\n時間がない時とか、イレギュラーなことがある時に困ります。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 16:14:05",
+      "updated_at": "2021-07-06 16:14:05"
+    },
+    {
+      "comment_id": "21859",
+      "comment_title": "",
+      "comment_text": "変なこだわりがある事。\n大雑把なのですが、机が綺麗じゃないとと思ってしまったり、自分の決まった時間があるので出来ればそれ通りに全ての物事をこなしていきたい。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 16:14:16",
+      "updated_at": "2021-07-06 16:14:16"
+    },
+    {
+      "comment_id": "21860",
+      "comment_title": "",
+      "comment_text": "優柔不断なところ。\n買い物してる時になかなか決められず、ままがイライラします笑\n悩みだすと長い。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 16:14:27",
+      "updated_at": "2021-07-06 16:14:27"
+    },
+    {
+      "comment_id": "21915",
+      "comment_title": "",
+      "comment_text": "おしゃべりなところ",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 16:36:27",
+      "updated_at": "2021-07-08 16:36:27"
+    },
+    {
+      "comment_id": "21917",
+      "comment_title": "",
+      "comment_text": "負けず嫌いなところ",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 16:36:50",
+      "updated_at": "2021-07-08 16:36:50"
+    },
+    {
+      "comment_id": "21920",
+      "comment_title": "",
+      "comment_text": "好きな物を語りだしたら止まらないところです。\n(音楽、漫画など)",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-08 19:20:45",
+      "updated_at": "2021-07-08 19:20:45"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

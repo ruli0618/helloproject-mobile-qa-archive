@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "40558",
+      "comment_title": "",
+      "comment_text": "パーティーしたい！\n一緒にご飯食べて、みんなの話を聞きたい！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:35:59",
+      "updated_at": "2026-03-26 12:35:59"
+    },
+    {
+      "comment_id": "40559",
+      "comment_title": "",
+      "comment_text": "ゴーカート対決をやってみたいです！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:36:09",
+      "updated_at": "2026-03-26 12:36:09"
+    },
+    {
+      "comment_id": "40561",
+      "comment_title": "",
+      "comment_text": "一緒にごはん食べたい！\nおいしいね～ってしたいです＾＾",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:36:33",
+      "updated_at": "2026-03-26 12:36:33"
+    },
+    {
+      "comment_id": "40562",
+      "comment_title": "",
+      "comment_text": "DJイベント！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:36:44",
+      "updated_at": "2026-03-26 12:36:44"
+    },
+    {
+      "comment_id": "40563",
+      "comment_title": "",
+      "comment_text": "大きな会場でトロッコに乗って会いに行きたい。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:36:57",
+      "updated_at": "2026-03-26 12:36:57"
+    },
+    {
+      "comment_id": "40564",
+      "comment_title": "",
+      "comment_text": "ヨーロッパ旅行！\nイベントでみんなで旅行したいです♪",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:37:08",
+      "updated_at": "2026-03-26 12:37:08"
+    },
+    {
+      "comment_id": "40565",
+      "comment_title": "",
+      "comment_text": "キッザニアのお仕事体験。\n私がいろんなお仕事するので、お客さんしてくださいね。",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-03-26 12:37:17",
+      "updated_at": "2026-03-26 12:37:17"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

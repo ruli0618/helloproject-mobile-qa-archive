@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "9432",
+      "comment_title": "",
+      "comment_text": "あっちむいてホイッ！",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:14:56",
+      "updated_at": "2018-07-18 14:14:56"
+    },
+    {
+      "comment_id": "9435",
+      "comment_title": "",
+      "comment_text": "ドラマを見ることです。\n空き時間、皆で感想を言い合ったり、鑑賞会をしたりします。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:16:13",
+      "updated_at": "2018-07-18 14:16:13"
+    },
+    {
+      "comment_id": "9436",
+      "comment_title": "",
+      "comment_text": "おにぎりを食べること。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:18:06",
+      "updated_at": "2018-07-18 14:18:06"
+    },
+    {
+      "comment_id": "9437",
+      "comment_title": "",
+      "comment_text": "歌を1文字ずつ何人かで歌う遊びです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-18 14:18:19",
+      "updated_at": "2018-07-18 14:18:19"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

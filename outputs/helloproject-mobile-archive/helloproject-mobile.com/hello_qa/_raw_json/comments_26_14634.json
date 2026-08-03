@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19057",
+      "comment_title": "",
+      "comment_text": "焼き魚定食\n最近私が定食ハマっているので。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:04:22",
+      "updated_at": "2020-09-30 16:04:22"
+    },
+    {
+      "comment_id": "19060",
+      "comment_title": "",
+      "comment_text": "餃子\n今食べたい気分だからです！笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:04:57",
+      "updated_at": "2020-09-30 16:04:57"
+    },
+    {
+      "comment_id": "19061",
+      "comment_title": "",
+      "comment_text": "カレー\nあまり失敗しなさそうなのと、コスパの良さ笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:05:11",
+      "updated_at": "2020-09-30 16:05:11"
+    },
+    {
+      "comment_id": "19062",
+      "comment_title": "",
+      "comment_text": "「からあげ」\nわたしはお母さんの唐揚げが世界で一番好きなんですけど、いつも美味しいご飯を作ってくれるお母さんとお仕事頑張ってるお父さんに感謝の気持ちを込めて美味しいからあげを作って驚かしてあげたい！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-09-30 16:05:24",
+      "updated_at": "2020-09-30 16:05:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

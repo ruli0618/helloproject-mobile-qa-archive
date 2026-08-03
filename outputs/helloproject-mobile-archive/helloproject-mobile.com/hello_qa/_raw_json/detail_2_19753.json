@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 162,
+    "content_id": "19753",
+    "content_title": "コメ派？パン派？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2023-03-14 10:00:00",
+    "created_at": "2023-02-28 14:20:39",
+    "updated_at": "2023-03-13 12:47:10",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "19754",
+    "next_id": "19654"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

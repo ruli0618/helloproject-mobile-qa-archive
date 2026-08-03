@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "comment_id": "34830",
+      "comment_title": "",
+      "comment_text": "私は、フルートを習っていたことがあるので、レッスンを受けてもう一度吹きたいです！！！",
+      "user_name": "橋田歩果",
+      "user_icon": "0",
+      "artist_id": "156",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:06:56",
+      "updated_at": "2024-07-10 17:06:56"
+    },
+    {
+      "comment_id": "34831",
+      "comment_title": "",
+      "comment_text": "ドラム！",
+      "user_name": "吉田姫杷",
+      "user_icon": "0",
+      "artist_id": "157",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:07:09",
+      "updated_at": "2024-07-10 17:07:09"
+    },
+    {
+      "comment_id": "34832",
+      "comment_title": "",
+      "comment_text": "ハープ",
+      "user_name": "小野田華凜",
+      "user_icon": "0",
+      "artist_id": "158",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:07:28",
+      "updated_at": "2024-07-10 17:07:28"
+    },
+    {
+      "comment_id": "34833",
+      "comment_title": "",
+      "comment_text": "ドラムを習ってみたいです！\nできるようになったら絶対にかっこいい！",
+      "user_name": "村越彩菜",
+      "user_icon": "0",
+      "artist_id": "159",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:07:44",
+      "updated_at": "2024-09-18 11:30:23"
+    },
+    {
+      "comment_id": "34834",
+      "comment_title": "",
+      "comment_text": "ドラムです。",
+      "user_name": "植村葉純",
+      "user_icon": "0",
+      "artist_id": "160",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:08:01",
+      "updated_at": "2024-07-10 17:08:01"
+    },
+    {
+      "comment_id": "34835",
+      "comment_title": "",
+      "comment_text": "ウクレレ\nハロプロ研修生発表会実力診断テストで初受賞(いやされましたで賞)した時に、ご褒美で買ってもらいました。習いたいです。",
+      "user_name": "松原ユリヤ",
+      "user_icon": "0",
+      "artist_id": "161",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:08:15",
+      "updated_at": "2024-07-10 17:08:15"
+    },
+    {
+      "comment_id": "34836",
+      "comment_title": "",
+      "comment_text": "ギターかベース！バンドを組みたい！",
+      "user_name": "島川波菜",
+      "user_icon": "0",
+      "artist_id": "162",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:08:30",
+      "updated_at": "2024-07-10 17:08:30"
+    },
+    {
+      "comment_id": "34837",
+      "comment_title": "",
+      "comment_text": "ピアノ",
+      "user_name": "上村麗菜",
+      "user_icon": "0",
+      "artist_id": "163",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:08:42",
+      "updated_at": "2024-07-10 17:08:42"
+    },
+    {
+      "comment_id": "34838",
+      "comment_title": "",
+      "comment_text": "フルート♪",
+      "user_name": "相馬優芽",
+      "user_icon": "0",
+      "artist_id": "164",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 17:09:03",
+      "updated_at": "2024-07-10 17:09:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

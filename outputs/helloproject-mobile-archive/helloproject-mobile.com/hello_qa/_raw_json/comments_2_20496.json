@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "30709",
+      "comment_title": "",
+      "comment_text": "海をカフェ等の室内から見たいです。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:10:24",
+      "updated_at": "2023-07-18 16:10:24"
+    },
+    {
+      "comment_id": "30708",
+      "comment_title": "",
+      "comment_text": "どっちも好きですが…\n今は山に行きたいです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:10:17",
+      "updated_at": "2023-07-18 16:10:17"
+    },
+    {
+      "comment_id": "30714",
+      "comment_title": "",
+      "comment_text": "海！！\n怖くてしっかり入れないけど、パチャパチャするだけで十分楽しいです笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:11:00",
+      "updated_at": "2023-07-18 16:11:00"
+    },
+    {
+      "comment_id": "30715",
+      "comment_title": "",
+      "comment_text": "「海派」\n虫が苦手なので、どちらかといえば「海派」\n私は泳げないので、砂浜でお城とか作って遊びたいです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:11:13",
+      "updated_at": "2023-07-18 16:11:13"
+    },
+    {
+      "comment_id": "30716",
+      "comment_title": "",
+      "comment_text": "山派。自然を大いに感じられる場所が好きなので、夏も比較的涼しいところに行きたいです。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:11:19",
+      "updated_at": "2023-07-18 16:11:19"
+    },
+    {
+      "comment_id": "30717",
+      "comment_title": "",
+      "comment_text": "海派",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:11:27",
+      "updated_at": "2023-07-18 16:11:27"
+    },
+    {
+      "comment_id": "30718",
+      "comment_title": "",
+      "comment_text": "海です。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-07-18 16:11:33",
+      "updated_at": "2023-07-18 16:11:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

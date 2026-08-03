@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18385",
+      "comment_title": "",
+      "comment_text": "家族！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 14:45:29",
+      "updated_at": "2020-07-28 14:45:29"
+    },
+    {
+      "comment_id": "18384",
+      "comment_title": "",
+      "comment_text": "パフォーマンス時と裏とのギャップ！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 14:45:20",
+      "updated_at": "2020-07-28 14:45:20"
+    },
+    {
+      "comment_id": "18392",
+      "comment_title": "",
+      "comment_text": "14個それぞれの色！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 14:47:30",
+      "updated_at": "2020-07-28 14:47:30"
+    },
+    {
+      "comment_id": "18393",
+      "comment_title": "",
+      "comment_text": "メンバー皆んな、それぞれ得意なものがあって、個性的です。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-28 14:47:39",
+      "updated_at": "2020-07-28 14:47:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "32709",
+      "comment_title": "",
+      "comment_text": "西田汐里！かわいい！",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:29:48",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "32704",
+      "comment_title": "",
+      "comment_text": "つばきファクトリーの福田真琳ちゃんです。",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 15:35:10",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "32723",
+      "comment_title": "",
+      "comment_text": "中山夏月姫ちゃん",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:32:54",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "32769",
+      "comment_title": "",
+      "comment_text": "田代すみれちゃん♡",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:00:04",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "32767",
+      "comment_title": "",
+      "comment_text": "ももも (OCHA NORMA 北原もも)",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 16:57:15",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "32812",
+      "comment_title": "",
+      "comment_text": "豫風瑠乃ちゃん\n人懐っこくて子どもで、超かわいいです。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-06 17:17:21",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

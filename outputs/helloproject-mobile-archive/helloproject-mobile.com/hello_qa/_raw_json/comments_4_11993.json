@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14008",
+      "comment_title": "",
+      "comment_text": "ヒールの高さ",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:40:22",
+      "updated_at": "2019-08-21 18:40:22"
+    },
+    {
+      "comment_id": "17491",
+      "comment_title": "",
+      "comment_text": "写真を撮る量が増えました！\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:34:28",
+      "updated_at": "2020-04-03 18:34:28"
+    },
+    {
+      "comment_id": "14010",
+      "comment_title": "",
+      "comment_text": "汗をかく事がもっと好きになりました。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:40:45",
+      "updated_at": "2019-08-21 18:40:45"
+    },
+    {
+      "comment_id": "14011",
+      "comment_title": "",
+      "comment_text": "目が変わりました。",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 18:41:07",
+      "updated_at": "2019-08-21 18:41:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

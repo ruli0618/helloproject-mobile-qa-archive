@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "19316",
+      "comment_title": "",
+      "comment_text": "キムチ鍋！\n先日、ちぃちゃんおすすめの辛い鍋を一緒に食べました◎",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 17:07:35",
+      "updated_at": "2020-11-27 17:07:35"
+    },
+    {
+      "comment_id": "19315",
+      "comment_title": "",
+      "comment_text": "キムチ鍋！！です！\nあったかくて辛いなんてポカポカですねぇ。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 17:06:48",
+      "updated_at": "2020-11-27 17:06:48"
+    },
+    {
+      "comment_id": "19323",
+      "comment_title": "",
+      "comment_text": "豆腐！！\n熱々のお豆腐が無いと鍋じゃない！！笑",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 17:08:46",
+      "updated_at": "2020-11-27 17:08:46"
+    },
+    {
+      "comment_id": "19324",
+      "comment_title": "",
+      "comment_text": "キムチ鍋\n辛いものが好きだから！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-11-27 17:08:57",
+      "updated_at": "2020-11-27 17:08:57"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

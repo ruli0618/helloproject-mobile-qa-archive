@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 362,
+    "content_id": "11929",
+    "content_title": "宝くじで一等が当たりました。どう使う？",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2019-08-31 10:00:00",
+    "created_at": "2019-08-19 10:59:52",
+    "updated_at": "2019-08-30 18:31:23",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11943",
+    "next_id": "11913"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

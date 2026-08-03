@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "25445",
+      "comment_title": "",
+      "comment_text": "絶対ピアノ！！！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:07:35",
+      "updated_at": "2022-04-26 17:07:35"
+    },
+    {
+      "comment_id": "25448",
+      "comment_title": "",
+      "comment_text": "バレエ！\n幼い頃からやっていれば柔軟性も今より高かっただろうし、バレエはダンスの基礎なので幼い頃に身につけておきたかったです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:08:03",
+      "updated_at": "2022-04-26 17:08:03"
+    },
+    {
+      "comment_id": "25446",
+      "comment_title": "",
+      "comment_text": "水泳",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:07:43",
+      "updated_at": "2022-04-26 17:07:43"
+    },
+    {
+      "comment_id": "25447",
+      "comment_title": "",
+      "comment_text": "バレエ\nバレエをしている人特有の脚の筋肉の付き方が好きだからです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:07:52",
+      "updated_at": "2022-04-26 17:07:52"
+    },
+    {
+      "comment_id": "25449",
+      "comment_title": "",
+      "comment_text": "書道です。\n竹内さんの書道を見て、かっこいいなと思うからです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:08:12",
+      "updated_at": "2022-04-26 17:08:12"
+    },
+    {
+      "comment_id": "25450",
+      "comment_title": "",
+      "comment_text": "水泳とドラムです！\n未だに5mも泳げず、一応泳げるようにはしておきたいので習っておけばよかったなって思ってます！ドラムは、リズム感鍛えておけばよかったと思ってるからです！笑",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-26 17:08:23",
+      "updated_at": "2022-04-26 17:08:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "21303",
+      "comment_title": "",
+      "comment_text": "母かな？",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:03:12",
+      "updated_at": "2021-04-22 18:03:12"
+    },
+    {
+      "comment_id": "21306",
+      "comment_title": "",
+      "comment_text": "お母さん似かもしれないです！\n不意に撮った自分の写っている写真が、お母さんにそっくりすぎたので！笑",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:03:56",
+      "updated_at": "2021-04-22 18:03:56"
+    },
+    {
+      "comment_id": "21304",
+      "comment_title": "",
+      "comment_text": "母親(小さい時から周りに似ていると言われていたから)",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:03:26",
+      "updated_at": "2021-04-22 18:03:26"
+    },
+    {
+      "comment_id": "21305",
+      "comment_title": "",
+      "comment_text": "父です！最近言動が似ていると言われるようになりました。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:03:39",
+      "updated_at": "2021-04-22 18:03:39"
+    },
+    {
+      "comment_id": "21307",
+      "comment_title": "",
+      "comment_text": "お母さんです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-04-22 18:04:08",
+      "updated_at": "2021-04-22 18:04:08"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

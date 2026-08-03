@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "21812",
+      "comment_title": "",
+      "comment_text": "英語！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:08:10",
+      "updated_at": "2021-07-06 14:08:10"
+    },
+    {
+      "comment_id": "21815",
+      "comment_title": "",
+      "comment_text": "「数学」です！\n私は暗記系が苦手で文章力もないので、主要5教科の中では数学が得意でした！\n親友と数学係をやっていたっていうのも好きだった理由の1つです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:08:40",
+      "updated_at": "2021-07-06 14:08:40"
+    },
+    {
+      "comment_id": "21813",
+      "comment_title": "",
+      "comment_text": "体育です。\n走るのは遅いですが、大好きなダンスやマット運動があったので得意でした。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:08:19",
+      "updated_at": "2021-07-06 14:08:19"
+    },
+    {
+      "comment_id": "21814",
+      "comment_title": "",
+      "comment_text": "音楽です。好きな教科でもあったので、授業態度も良かったらしく成績が良い感じでした！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:08:30",
+      "updated_at": "2021-07-06 14:08:30"
+    },
+    {
+      "comment_id": "21816",
+      "comment_title": "",
+      "comment_text": "家庭科です。\n料理や食べ物のことに興味があるので、勉強していて凄く楽しいです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-07-06 14:08:51",
+      "updated_at": "2021-07-06 14:08:51"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

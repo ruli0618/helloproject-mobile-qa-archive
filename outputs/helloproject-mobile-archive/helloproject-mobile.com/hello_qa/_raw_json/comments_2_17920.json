@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "24961",
+      "comment_title": "",
+      "comment_text": "幼少期に鉄棒のもも掛け回転が得意で、もも掛け回転の回数でギネス行けるかも？！と思っていましたが、今できるのかはわかりません！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:21:01",
+      "updated_at": "2022-04-06 12:21:01"
+    },
+    {
+      "comment_id": "24960",
+      "comment_title": "",
+      "comment_text": "ゆっくり美味しく食べる。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:20:52",
+      "updated_at": "2022-04-06 12:20:52"
+    },
+    {
+      "comment_id": "24968",
+      "comment_title": "",
+      "comment_text": "1分間で何粒のチョコを箸で掴むか。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:22:31",
+      "updated_at": "2022-04-06 12:22:31"
+    },
+    {
+      "comment_id": "24969",
+      "comment_title": "",
+      "comment_text": "パンダさんパワー何回出せるか！(1位になれそうです)",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:22:38",
+      "updated_at": "2022-04-06 12:22:38"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

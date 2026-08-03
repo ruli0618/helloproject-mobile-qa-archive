@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "15070",
+      "comment_title": "",
+      "comment_text": "物欲抑える力",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-16 17:53:30",
+      "updated_at": "2019-12-16 17:53:30"
+    },
+    {
+      "comment_id": "17502",
+      "comment_title": "",
+      "comment_text": "超能力\n",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-04-03 18:37:44",
+      "updated_at": "2020-04-03 18:37:44"
+    },
+    {
+      "comment_id": "15072",
+      "comment_title": "",
+      "comment_text": "吸引力",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-16 17:53:52",
+      "updated_at": "2019-12-16 17:53:52"
+    },
+    {
+      "comment_id": "15073",
+      "comment_title": "",
+      "comment_text": "持続力",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-12-16 17:54:03",
+      "updated_at": "2019-12-16 17:54:03"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

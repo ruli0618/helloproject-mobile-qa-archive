@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "22369",
+      "comment_title": "",
+      "comment_text": "朝ごはんをきちんと食べることです。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:14:19",
+      "updated_at": "2021-09-07 17:14:19"
+    },
+    {
+      "comment_id": "22370",
+      "comment_title": "",
+      "comment_text": "毎日野菜ジュースを飲んでいます。\n元々野菜を食べるのも好きなのですが、野菜ジュースを飲んで沢山野菜を摂るようにしています。朝飲むとスッキリして1日の良いスタートが切れます。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:14:35",
+      "updated_at": "2021-09-07 17:14:35"
+    },
+    {
+      "comment_id": "22372",
+      "comment_title": "",
+      "comment_text": "毎朝マヌカハニーを食べる！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:14:58",
+      "updated_at": "2021-09-07 17:14:58"
+    },
+    {
+      "comment_id": "22374",
+      "comment_title": "",
+      "comment_text": "最近めっちゃサラダを作るのにハマっていて、ドレッシングも自分で作るんです！\n自分で作るとどれだけ調味料が入ってるか分かりやすいので、自分でお料理するのはいい事なのかも…と思います！！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:15:33",
+      "updated_at": "2021-09-07 17:15:33"
+    },
+    {
+      "comment_id": "22375",
+      "comment_title": "",
+      "comment_text": "夜寝る前に逆立ちをすることです。むくみも取れるし、いい感じに疲れるのでオススメです。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:15:50",
+      "updated_at": "2021-09-07 17:15:50"
+    },
+    {
+      "comment_id": "22376",
+      "comment_title": "",
+      "comment_text": "適度な筋トレ・有酸素運動！\n食事はPFCバランス気をつけてます！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:16:40",
+      "updated_at": "2021-09-07 17:16:40"
+    },
+    {
+      "comment_id": "22377",
+      "comment_title": "",
+      "comment_text": "20～30分湯船に浸かって汗を流すことと、早寝早起きです！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:16:49",
+      "updated_at": "2021-09-07 17:16:49"
+    },
+    {
+      "comment_id": "22378",
+      "comment_title": "",
+      "comment_text": "フルーツのお酢を飲んでます。\nどちらかというと健康のためじゃなくて炭酸水を箱買いしてて、炭酸水で割るととっても美味しいので飲んでます。\nたぶん健康にもいいです。",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-07 17:17:06",
+      "updated_at": "2021-09-07 17:17:06"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

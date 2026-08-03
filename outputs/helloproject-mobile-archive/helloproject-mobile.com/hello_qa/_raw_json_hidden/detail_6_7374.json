@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 122,
+    "content_id": "7374",
+    "content_title": "今までで一番お気に入りの衣装を教えてください。",
+    "content_sub_title": "",
+    "category_id": "6",
+    "release_date": "2017-09-15 10:00:00",
+    "created_at": "2017-08-30 12:45:38",
+    "updated_at": "2017-09-15 10:06:41",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7375",
+    "next_id": "7373"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

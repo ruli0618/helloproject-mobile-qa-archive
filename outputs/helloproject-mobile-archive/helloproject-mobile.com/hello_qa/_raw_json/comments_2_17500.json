@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "24266",
+      "comment_title": "",
+      "comment_text": "ぼく、のなえもんです",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 17:17:35",
+      "updated_at": "2022-01-18 17:17:35"
+    },
+    {
+      "comment_id": "24265",
+      "comment_title": "",
+      "comment_text": "極度の蟹好き 小田さくらです！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 17:17:27",
+      "updated_at": "2022-01-18 17:17:27"
+    },
+    {
+      "comment_id": "24273",
+      "comment_title": "",
+      "comment_text": "大人ほまたん始めます。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 17:18:53",
+      "updated_at": "2022-01-18 17:18:53"
+    },
+    {
+      "comment_id": "24274",
+      "comment_title": "",
+      "comment_text": "モーニング娘。'22 最年少 パンダさん大好き 山﨑愛生です！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-01-18 17:19:01",
+      "updated_at": "2022-01-18 17:19:01"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

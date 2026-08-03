@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "13318",
+    "content_title": "自分の顔のパーツで、気に入ってるところは？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2020-02-26 10:00:00",
+    "created_at": "2020-03-19 14:21:03",
+    "updated_at": "2020-03-23 14:40:09",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13321",
+    "next_id": "13317"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

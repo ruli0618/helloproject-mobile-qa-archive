@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "27812",
+      "comment_title": "",
+      "comment_text": "伊勢プロダクション\nイセプロ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:00",
+      "updated_at": "2022-11-08 15:05:00"
+    },
+    {
+      "comment_id": "27815",
+      "comment_title": "",
+      "comment_text": "\"株式会社ハッピーサウンド\"\n音楽関連の会社ですかね～！！笑",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:34",
+      "updated_at": "2022-11-08 15:05:34"
+    },
+    {
+      "comment_id": "27813",
+      "comment_title": "",
+      "comment_text": "bridge bell",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:08",
+      "updated_at": "2022-11-08 15:05:08"
+    },
+    {
+      "comment_id": "27814",
+      "comment_title": "",
+      "comment_text": "株式会社ケロープロジェクト",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:17",
+      "updated_at": "2022-11-08 15:05:17"
+    },
+    {
+      "comment_id": "27816",
+      "comment_title": "",
+      "comment_text": "松本食パン",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:40",
+      "updated_at": "2022-11-08 15:05:40"
+    },
+    {
+      "comment_id": "27817",
+      "comment_title": "",
+      "comment_text": "ぺいーむかんぱにー",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 15:05:51",
+      "updated_at": "2022-11-08 15:05:51"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

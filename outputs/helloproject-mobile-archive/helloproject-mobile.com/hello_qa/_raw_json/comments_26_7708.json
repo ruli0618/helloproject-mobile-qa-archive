@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "7491",
+      "comment_title": "",
+      "comment_text": "プロ野球選手",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 17:20:18",
+      "updated_at": "2017-10-03 17:20:18"
+    },
+    {
+      "comment_id": "7494",
+      "comment_title": "",
+      "comment_text": "スーパーのレジ打ちの人、学校の先生、テーマパークで働いている人、、、\n真剣にお仕事を頑張っていたら、どんな職業でもかっこいいなーと思います！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 17:22:37",
+      "updated_at": "2017-10-03 17:22:37"
+    },
+    {
+      "comment_id": "7495",
+      "comment_title": "",
+      "comment_text": "何事にも努力をしていれば、かっこいいと思う。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 17:22:54",
+      "updated_at": "2017-10-03 17:22:54"
+    },
+    {
+      "comment_id": "7496",
+      "comment_title": "",
+      "comment_text": "消防士です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-10-03 17:24:07",
+      "updated_at": "2017-10-03 17:24:07"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

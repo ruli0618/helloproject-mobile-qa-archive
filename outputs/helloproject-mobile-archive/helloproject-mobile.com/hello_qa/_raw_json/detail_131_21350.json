@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 122,
+    "content_id": "21350",
+    "content_title": "リラックスする方法は？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2023-12-30 10:00:00",
+    "created_at": "2023-12-05 12:45:51",
+    "updated_at": "2023-12-27 17:47:55",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "21461",
+    "next_id": "21349"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

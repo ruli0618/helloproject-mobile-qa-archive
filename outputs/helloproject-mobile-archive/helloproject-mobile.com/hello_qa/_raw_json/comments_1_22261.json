@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "33003",
+      "comment_title": "",
+      "comment_text": "ぴーーーんく\n(このアンケートに答えているのが、まりあの誕生日当日なので)",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:53:17",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "32959",
+      "comment_title": "",
+      "comment_text": "白",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:33:06",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "33006",
+      "comment_title": "",
+      "comment_text": "黒",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:53:39",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "33054",
+      "comment_title": "",
+      "comment_text": "あか",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:08:50",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "33052",
+      "comment_title": "",
+      "comment_text": "桜色",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:08:27",
+      "updated_at": "2025-06-24 19:39:15"
+    },
+    {
+      "comment_id": "33133",
+      "comment_title": "",
+      "comment_text": "茶色\nお茶を飲んでるから。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 14:46:57",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

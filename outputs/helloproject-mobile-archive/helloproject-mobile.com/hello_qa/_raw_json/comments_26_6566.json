@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "6232",
+      "comment_title": "",
+      "comment_text": "実は私、意外と家事が好きな女子なんです。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:44:17",
+      "updated_at": "2017-04-21 15:44:17"
+    },
+    {
+      "comment_id": "6235",
+      "comment_title": "",
+      "comment_text": "「楽器」です。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:44:40",
+      "updated_at": "2017-04-21 15:44:40"
+    },
+    {
+      "comment_id": "6236",
+      "comment_title": "",
+      "comment_text": "パソコンが使えない",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:44:48",
+      "updated_at": "2017-04-21 15:44:48"
+    },
+    {
+      "comment_id": "6237",
+      "comment_title": "",
+      "comment_text": "肉食系",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-04-21 15:44:55",
+      "updated_at": "2017-04-21 15:44:55"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

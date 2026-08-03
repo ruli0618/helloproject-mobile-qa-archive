@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "13859",
+      "comment_title": "",
+      "comment_text": "夏でも涼しく過ごせる場所。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 11:07:01",
+      "updated_at": "2019-08-21 11:07:01"
+    },
+    {
+      "comment_id": "13861",
+      "comment_title": "",
+      "comment_text": "涼しくて、空気が綺麗な屋外。\n時間を気にせずにまったりしたいです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 11:07:20",
+      "updated_at": "2019-08-21 11:07:20"
+    },
+    {
+      "comment_id": "13862",
+      "comment_title": "",
+      "comment_text": "北海道に行きたい。ただ自分が観光したいだけです！！\nでも長時間すぎて飛ぶの疲れちゃって、途中休憩たくさんしちゃいそう笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 11:07:29",
+      "updated_at": "2019-08-21 11:07:29"
+    },
+    {
+      "comment_id": "13863",
+      "comment_title": "",
+      "comment_text": "ハワイに行きたいです！\nそして海に入りたいです。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-08-21 11:07:38",
+      "updated_at": "2019-08-21 11:07:38"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

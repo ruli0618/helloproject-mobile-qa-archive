@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "25823",
+      "comment_title": "",
+      "comment_text": "直近だと「ポチらせる文章術」\n課題の参考に！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:18:26",
+      "updated_at": "2022-06-06 18:29:22"
+    },
+    {
+      "comment_id": "25822",
+      "comment_title": "",
+      "comment_text": "「超人X」という漫画です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:18:11",
+      "updated_at": "2022-06-06 18:18:11"
+    },
+    {
+      "comment_id": "25829",
+      "comment_title": "",
+      "comment_text": "SPY×FAMILY\n明日、私は誰かのカノジョ",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:21:52",
+      "updated_at": "2022-06-06 18:29:47"
+    },
+    {
+      "comment_id": "25830",
+      "comment_title": "",
+      "comment_text": "「鬼滅の刃」\n一回全部読んだけど、また読み直してます。\n時透無一郎くんが好きなので、次回予定のアニメ、めっちゃ楽しみです！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-06 18:22:32",
+      "updated_at": "2022-06-06 18:22:32"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "8032",
+      "comment_title": "",
+      "comment_text": "小さい頃、深夜に目が覚めて親の寝室に行ったら、ベッドがあるはずの所に何か変な生き物がいた。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:24:53",
+      "updated_at": "2017-12-13 11:24:53"
+    },
+    {
+      "comment_id": "8035",
+      "comment_title": "",
+      "comment_text": "夢の中に黒豆が出てきて、起きた日の給食にも黒豆が出てきました！\n初めての正夢！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:26:12",
+      "updated_at": "2017-12-13 11:26:12"
+    },
+    {
+      "comment_id": "8036",
+      "comment_title": "",
+      "comment_text": "夢の中で起床して、そのあとすぐに本当に起床しました。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:26:24",
+      "updated_at": "2017-12-13 11:26:24"
+    },
+    {
+      "comment_id": "8037",
+      "comment_title": "",
+      "comment_text": "切符を手に持っていたのに、切符を改札に通す時には無くなっていたんです。\nその時とっても不思議でした。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2017-12-13 11:26:37",
+      "updated_at": "2017-12-13 11:26:37"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

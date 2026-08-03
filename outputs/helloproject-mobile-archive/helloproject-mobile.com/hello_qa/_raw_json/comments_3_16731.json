@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "22556",
+      "comment_title": "",
+      "comment_text": "ケーキ！！！！",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:04:25",
+      "updated_at": "2021-09-17 11:04:25"
+    },
+    {
+      "comment_id": "22559",
+      "comment_title": "",
+      "comment_text": "紅茶専門店！\nまず○○専門店って書かれているお店に凄く興味があるので専門店にしたいのと、紅茶が大好きなので、茶葉のいい匂いの中でずっと働いていたいです！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:05:04",
+      "updated_at": "2021-09-17 11:05:04"
+    },
+    {
+      "comment_id": "22557",
+      "comment_title": "",
+      "comment_text": "香水のお店",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:04:34",
+      "updated_at": "2021-09-17 11:04:34"
+    },
+    {
+      "comment_id": "22558",
+      "comment_title": "",
+      "comment_text": "古着屋さん\n海外に行って好みの服を集めて、自分の好きな物で埋め尽くされた空間を作りたいです。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:04:50",
+      "updated_at": "2021-09-17 11:04:50"
+    },
+    {
+      "comment_id": "22560",
+      "comment_title": "",
+      "comment_text": "和食の定食屋さん",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-17 11:05:13",
+      "updated_at": "2021-09-17 11:05:13"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

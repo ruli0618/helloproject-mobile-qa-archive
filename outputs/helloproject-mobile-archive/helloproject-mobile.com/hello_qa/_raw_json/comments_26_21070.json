@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "31738",
+      "comment_title": "",
+      "comment_text": "バター",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:03:59",
+      "updated_at": "2023-10-19 15:03:59"
+    },
+    {
+      "comment_id": "31740",
+      "comment_title": "",
+      "comment_text": "気分によりますが、シュガートーストを久しぶりに食べたいですっ。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:04:19",
+      "updated_at": "2023-10-19 15:04:19"
+    },
+    {
+      "comment_id": "31741",
+      "comment_title": "",
+      "comment_text": "バターをたっぷりつけるのが好きです！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:04:28",
+      "updated_at": "2023-10-19 15:04:28"
+    },
+    {
+      "comment_id": "31742",
+      "comment_title": "",
+      "comment_text": "明太子ー！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:04:44",
+      "updated_at": "2023-10-19 15:04:44"
+    },
+    {
+      "comment_id": "31743",
+      "comment_title": "",
+      "comment_text": "ジャムかなー！いちごとか、ブルーベリーとか！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:04:58",
+      "updated_at": "2023-10-19 15:04:58"
+    },
+    {
+      "comment_id": "31745",
+      "comment_title": "",
+      "comment_text": "クリームチーズと苺ジャムを塗って食べるのが好きです！\nとても美味しいんです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:05:31",
+      "updated_at": "2023-10-19 15:05:31"
+    },
+    {
+      "comment_id": "31746",
+      "comment_title": "",
+      "comment_text": "butterかblueberryジャム？",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-10-19 15:05:41",
+      "updated_at": "2023-10-19 15:05:41"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 542,
+    "content_id": "3783",
+    "content_title": "オススメの泣ける映画はありますか？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2016-01-25 10:00:00",
+    "created_at": "2016-01-06 12:52:58",
+    "updated_at": "2016-01-15 19:01:06",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3952",
+    "next_id": "3782"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

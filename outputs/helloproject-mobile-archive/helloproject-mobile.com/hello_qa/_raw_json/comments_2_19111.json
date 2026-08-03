@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "27778",
+      "comment_title": "",
+      "comment_text": "ごめんな・・・",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 14:41:30",
+      "updated_at": "2022-11-08 14:41:30"
+    },
+    {
+      "comment_id": "27777",
+      "comment_title": "",
+      "comment_text": "俺の煮物で元気出せよ",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 14:41:17",
+      "updated_at": "2022-11-08 14:41:17"
+    },
+    {
+      "comment_id": "27783",
+      "comment_title": "",
+      "comment_text": "愛してるよ",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 14:42:14",
+      "updated_at": "2022-11-08 14:42:14"
+    },
+    {
+      "comment_id": "27784",
+      "comment_title": "",
+      "comment_text": "パンダさんと同じくらい君が好きだぜー！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 14:42:22",
+      "updated_at": "2022-11-08 14:42:22"
+    },
+    {
+      "comment_id": "27785",
+      "comment_title": "",
+      "comment_text": "君を笑顔にするのは俺だ",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-11-08 14:42:30",
+      "updated_at": "2022-11-08 14:42:30"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

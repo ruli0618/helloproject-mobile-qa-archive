@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "24481",
+    "content_title": "今、必要なものは何？",
+    "content_sub_title": "",
+    "category_id": "131",
+    "release_date": "2025-06-28 10:00:00",
+    "created_at": "2025-06-16 17:13:34",
+    "updated_at": "2025-06-27 18:58:37",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24488",
+    "next_id": "24291"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

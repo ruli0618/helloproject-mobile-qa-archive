@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "13549",
+    "content_title": "今日の晩ご飯は何が食べたいですか？",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-25 10:00:00",
+    "created_at": "2020-03-31 14:37:49",
+    "updated_at": "2020-03-31 14:46:00",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13550",
+    "next_id": "13548"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

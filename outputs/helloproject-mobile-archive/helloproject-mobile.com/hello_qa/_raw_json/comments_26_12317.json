@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "14851",
+      "comment_title": "",
+      "comment_text": "ダンスが上手くなったねと周りから言われた時。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 14:55:42",
+      "updated_at": "2019-10-15 14:55:42"
+    },
+    {
+      "comment_id": "14854",
+      "comment_title": "",
+      "comment_text": "今振り返ってみて、自分一人で起きられるようになったことは、成長したな～と思います！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 14:56:25",
+      "updated_at": "2019-10-15 14:56:25"
+    },
+    {
+      "comment_id": "14855",
+      "comment_title": "",
+      "comment_text": "今までのミュージックビデオを見返したり、今までのつばき曲の振り入れの動画を見た時。\n顔も変わっているけれど、表情の作り方が全然違ったりする。\nダンスも踊り方が良いように変化しているなぁーと思うことが多いです。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 14:56:39",
+      "updated_at": "2019-10-15 14:56:39"
+    },
+    {
+      "comment_id": "14856",
+      "comment_title": "",
+      "comment_text": "ファンの方やメンバー、スタッフさんに褒められたときに感じます。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-10-15 14:56:54",
+      "updated_at": "2019-10-15 14:56:54"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

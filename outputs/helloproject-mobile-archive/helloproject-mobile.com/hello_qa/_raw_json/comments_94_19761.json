@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "29072",
+      "comment_title": "",
+      "comment_text": "コミュニケーションの天才",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:39:07",
+      "updated_at": "2023-02-28 18:39:07"
+    },
+    {
+      "comment_id": "29073",
+      "comment_title": "",
+      "comment_text": "芸術の天才",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:39:17",
+      "updated_at": "2023-02-28 18:39:17"
+    },
+    {
+      "comment_id": "29075",
+      "comment_title": "",
+      "comment_text": "天才の天才\nとりあえず天才になりたい。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:39:34",
+      "updated_at": "2023-02-28 18:39:34"
+    },
+    {
+      "comment_id": "29077",
+      "comment_title": "",
+      "comment_text": "アイドルの天才！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:39:53",
+      "updated_at": "2023-02-28 18:39:53"
+    },
+    {
+      "comment_id": "29078",
+      "comment_title": "",
+      "comment_text": "だし巻き玉子！\nなんか偶然綺麗にできた時があったので、極めたいです。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:40:04",
+      "updated_at": "2023-02-28 18:40:04"
+    },
+    {
+      "comment_id": "29079",
+      "comment_title": "",
+      "comment_text": "サバイバル",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:40:14",
+      "updated_at": "2023-02-28 18:40:14"
+    },
+    {
+      "comment_id": "29080",
+      "comment_title": "",
+      "comment_text": "語学の天才！\nいろんな言語話せたら楽しそう～！",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:40:27",
+      "updated_at": "2023-02-28 18:40:27"
+    },
+    {
+      "comment_id": "29081",
+      "comment_title": "",
+      "comment_text": "「可愛いの天才」\n最強可愛いを作れる人間になりたい。",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-02-28 18:40:38",
+      "updated_at": "2023-02-28 18:40:38"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

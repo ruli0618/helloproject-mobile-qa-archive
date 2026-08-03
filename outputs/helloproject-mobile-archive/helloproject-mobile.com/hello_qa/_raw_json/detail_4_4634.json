@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 522,
+    "content_id": "4634",
+    "content_title": "目の前にボタンがあります。押したらどうなる？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2016-08-08 10:00:00",
+    "created_at": "2016-05-18 13:42:18",
+    "updated_at": "2016-08-08 09:53:43",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5148",
+    "next_id": "4633"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

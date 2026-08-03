@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 102,
+    "content_id": "22264",
+    "content_title": "一番好きな卵料理は何？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2024-04-11 10:00:00",
+    "created_at": "2024-05-21 16:09:08",
+    "updated_at": "2024-06-18 10:37:43",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "22265",
+    "next_id": "22263"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

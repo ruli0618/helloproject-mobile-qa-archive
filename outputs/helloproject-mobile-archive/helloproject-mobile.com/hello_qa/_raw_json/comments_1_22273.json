@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "33840",
+      "comment_title": "",
+      "comment_text": "だーーれにも気を使わず\nなーーんにも考えなくていいとき。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 13:15:04",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "33794",
+      "comment_title": "",
+      "comment_text": "ご飯を食べている時です。",
+      "user_name": "植村あかり",
+      "user_icon": "0",
+      "artist_id": "32",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-10 18:48:22",
+      "updated_at": "2024-06-17 17:30:35"
+    },
+    {
+      "comment_id": "33843",
+      "comment_title": "",
+      "comment_text": "寝てるとき・おいしいもの食べてるとき・球場でファイターズを応援してるとき。",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 13:15:26",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "33891",
+      "comment_title": "",
+      "comment_text": "ご飯を食べてるとき\n寝てるとき\nみんなと笑ってるとき\n雨じゃないとき\n自分の顔が盛れたとき「まじかわいい」と思う。",
+      "user_name": "佐々木莉佳子",
+      "user_icon": "0",
+      "artist_id": "27",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 14:05:50",
+      "updated_at": "2024-06-20 17:57:23"
+    },
+    {
+      "comment_id": "33889",
+      "comment_title": "",
+      "comment_text": "美味しいご飯をお腹いっぱい食べた時、一人旅で出会った知らない人と会話をした時、絶景を見た時、アンジュのみんなで爆笑してる時。",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 14:05:29",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "34038",
+      "comment_title": "",
+      "comment_text": "海に潜って魚を見ている時\n珍しい動物に遭遇した時",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-05-15 15:15:08",
+      "updated_at": "2025-06-17 16:36:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

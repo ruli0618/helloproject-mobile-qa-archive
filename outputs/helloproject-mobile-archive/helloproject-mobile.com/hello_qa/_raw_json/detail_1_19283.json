@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 182,
+    "content_id": "19283",
+    "content_title": "メイクのこだわりポイント。一番時間をかけているところは？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2022-08-09 10:00:00",
+    "created_at": "2022-12-06 14:22:53",
+    "updated_at": "2022-12-12 10:45:49",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "19284",
+    "next_id": "19282"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

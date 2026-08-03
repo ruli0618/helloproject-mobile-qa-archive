@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "34640",
+      "comment_title": "",
+      "comment_text": "ドラム",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:25:52",
+      "updated_at": "2024-07-10 11:25:52"
+    },
+    {
+      "comment_id": "34641",
+      "comment_title": "",
+      "comment_text": "ギターをちゃんと習って弾き語りできるようになりたいです。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:26:00",
+      "updated_at": "2024-07-10 11:26:00"
+    },
+    {
+      "comment_id": "34643",
+      "comment_title": "",
+      "comment_text": "ピアノ！こばかっこいいから！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:26:21",
+      "updated_at": "2024-07-10 11:26:21"
+    },
+    {
+      "comment_id": "34644",
+      "comment_title": "",
+      "comment_text": "ギター！\n弾き語りできたらかっこいいよね～！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:26:54",
+      "updated_at": "2024-07-10 11:26:54"
+    },
+    {
+      "comment_id": "34645",
+      "comment_title": "",
+      "comment_text": "木琴",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:27:04",
+      "updated_at": "2024-07-10 11:27:04"
+    },
+    {
+      "comment_id": "34646",
+      "comment_title": "",
+      "comment_text": "スティールパン",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:27:15",
+      "updated_at": "2024-07-10 11:27:15"
+    },
+    {
+      "comment_id": "34647",
+      "comment_title": "",
+      "comment_text": "エレクトーン！\n難しそうだけどピアノやってたらある程度できそうなので、やってみたいです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:27:30",
+      "updated_at": "2024-07-10 11:27:30"
+    },
+    {
+      "comment_id": "34648",
+      "comment_title": "",
+      "comment_text": "MPCかドラムを習ってみたい！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:27:42",
+      "updated_at": "2024-07-10 11:27:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "comment_id": "9523",
+      "comment_title": "",
+      "comment_text": "2014年の黄金オーディションを受けたオーディション同期でグループを組みたい！\nグループ名は…黄金(GOLDEN)オーディションだったので、「GOLD」とか！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-20 12:18:37",
+      "updated_at": "2018-07-20 12:18:37"
+    },
+    {
+      "comment_id": "9522",
+      "comment_title": "",
+      "comment_text": "私、野中、和田彩花さん、かみこ、川村文乃ちゃん、小片リサまる。\nグループ名は「VOICE」",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-07-20 12:18:29",
+      "updated_at": "2018-07-20 12:18:29"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

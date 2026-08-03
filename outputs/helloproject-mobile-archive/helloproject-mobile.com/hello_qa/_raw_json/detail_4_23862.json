@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 62,
+    "content_id": "23862",
+    "content_title": "たまに食べたくなる食べ物は？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2025-03-17 10:00:00",
+    "created_at": "2025-02-25 11:17:57",
+    "updated_at": "2025-03-14 17:51:05",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "23869",
+    "next_id": "23835"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "24974",
+      "comment_title": "",
+      "comment_text": "睡眠時間の長さ",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:24:33",
+      "updated_at": "2022-04-06 12:24:33"
+    },
+    {
+      "comment_id": "24977",
+      "comment_title": "",
+      "comment_text": "最高齢を目指します！！\n健康的に長生きできるのが1番！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:25:02",
+      "updated_at": "2022-04-06 12:25:02"
+    },
+    {
+      "comment_id": "24975",
+      "comment_title": "",
+      "comment_text": "水の早飲み",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:24:39",
+      "updated_at": "2022-04-06 12:24:39"
+    },
+    {
+      "comment_id": "24976",
+      "comment_title": "",
+      "comment_text": "消しカスの長さ！\n競っている方がいるらしいので私もやってみたいです！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:24:52",
+      "updated_at": "2022-04-06 12:24:52"
+    },
+    {
+      "comment_id": "24978",
+      "comment_title": "",
+      "comment_text": "トイレットペーパーの先を三角にする速さ",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:25:11",
+      "updated_at": "2022-04-06 12:25:11"
+    },
+    {
+      "comment_id": "24979",
+      "comment_title": "",
+      "comment_text": "世界一寝た人！笑\n寝ることが好きなので、たっくさん寝て一緒にギネスも取っちゃいます！笑",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-06 12:25:21",
+      "updated_at": "2022-04-06 12:25:21"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

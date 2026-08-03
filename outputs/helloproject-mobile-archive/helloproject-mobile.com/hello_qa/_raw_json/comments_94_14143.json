@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "18257",
+      "comment_title": "",
+      "comment_text": "マリンバ！\nできるようになったらかっこいいし、叩くことでリズム感も鍛えられそうだからです。",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:40:54",
+      "updated_at": "2020-07-20 12:40:54"
+    },
+    {
+      "comment_id": "18258",
+      "comment_title": "",
+      "comment_text": "ドラムです。",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:41:10",
+      "updated_at": "2020-07-20 12:41:10"
+    },
+    {
+      "comment_id": "18260",
+      "comment_title": "",
+      "comment_text": "バイオリン！\nいつか挑戦してみたいな～\n出来たらカッコイイですよね！",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:41:37",
+      "updated_at": "2020-07-20 12:41:37"
+    },
+    {
+      "comment_id": "18262",
+      "comment_title": "",
+      "comment_text": "ベースです！！\n小さい時からコントラバスが大好きでコントラバスにもチャレンジしてみたいんですけど、コントラバスと同じ役目で、身近な存在のベースは絶対弾けるようになりたいなと思っています！！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:42:30",
+      "updated_at": "2020-07-20 12:42:30"
+    },
+    {
+      "comment_id": "18263",
+      "comment_title": "",
+      "comment_text": "ディジュリドゥ。\n難しそうだからです。\nあと、楽器ではないですが拡声器で歌ってみたいです。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:42:52",
+      "updated_at": "2020-07-20 12:42:52"
+    },
+    {
+      "comment_id": "18264",
+      "comment_title": "",
+      "comment_text": "テルミン。\n以前からずっと興味があって今1番やってみたい楽器です！",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:43:03",
+      "updated_at": "2020-07-20 12:43:03"
+    },
+    {
+      "comment_id": "18265",
+      "comment_title": "",
+      "comment_text": "チェロです！好きな楽器もチェロ！\n家にあるピアノ以外の楽器もチェロなので、トライしてみたいです。",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:43:15",
+      "updated_at": "2020-07-20 12:43:15"
+    },
+    {
+      "comment_id": "18266",
+      "comment_title": "",
+      "comment_text": "MPCです！！\nずっとやってみたくて……！\nおうちで練習しやすいし、BEYOOOOONDSのパフォーマンスに活かせそうだからです！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-20 12:43:28",
+      "updated_at": "2020-07-20 12:43:28"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

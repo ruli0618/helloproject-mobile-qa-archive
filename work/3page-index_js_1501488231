@@ -1,0 +1,76 @@
+/**
+  * 3ページ構成の1ページ目（一覧）
+  * 使用箇所
+  * A-030 ツアー日記・ツアー一覧
+  * A-060 Q&A・グループ一覧
+  */
+hlpr._3pageIndex = (function() {
+  var utils = hlpr.utils;
+
+  function _loadData() {
+    var onsuccess = function(data) {
+      var params = utils.params();
+
+      if (!data.error.status && data.category) {
+
+        _.forEach(data.category, function(item) {
+            item["url"] = this.viewer + "/list?menu_id=" + params.menu_id
+            + "&category_id=" + item.category_id
+            + "&category_title=" + encodeURIComponent(item.category_title)
+            + "&category_color=" + item.category_color.replace(/#/, "");
+
+            if (!_.isUndefined(item.materials) && !_.isUndefined(item.materials[0].material_id)){
+              item["imageUrl"] = "/images/thumbnail/" + item.materials[0].material_id + ".jpg";
+            } else if (this.resource.resourceName == 'tour') {
+                item["imageUrl"] = "/images/2tour/" + item.category_id + ".jpg";
+              }
+
+            item["category_color"] = item.category_color;
+
+            this.categories.push(item);
+        }, this);
+
+        // 前後ページの制御
+        if (!_.isUndefined(params.page) && params.page != "1") {
+          this.previousPage(this.viewer + "?menu_id=" + params.menu_id + "&page=" + (params.page - 1));
+        } else {
+
+        }
+        if (data.hasNext) {
+          this.nextPage(this.viewer + "?menu_id=" + params.menu_id
+                        + "&page=" + (_.isUndefined(params.page) ? "2" : (Number(params.page) + 1)));
+        }
+      } else {
+        utils.showReload("データが取得できませんでした。<br>更新をして下さい。");
+      }
+    }
+
+    var params = utils.params();
+    var queryParams = {
+      menu_id: params.menu_id,
+      page: params.page
+    }
+
+    utils.get("/api/category", queryParams, onsuccess, undefined, this);
+  }
+
+  return {
+    init: function () {
+      console.log("*****hlpr._3pageIndex.init() start");
+      hlpr._ContentBase.call(this);
+      this.categories = ko.observableArray();
+      this.previousPage = ko.observable('');
+      this.nextPage = ko.observable('');
+
+      _loadData.call(this);
+      ko.applyBindings(this, document.getElementById("bindingContext"));
+    },
+    clickAnchor: function (nextPage, thisArg) {
+      if (!_.isEmpty(nextPage)) {
+        location.href = nextPage;
+      }
+
+    }
+  }
+}()).init();
+

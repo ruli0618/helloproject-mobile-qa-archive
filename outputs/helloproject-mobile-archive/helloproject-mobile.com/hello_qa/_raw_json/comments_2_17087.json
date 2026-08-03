@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "23415",
+      "comment_title": "",
+      "comment_text": "料理に自信がないのでありません(；；)",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-18 12:26:05",
+      "updated_at": "2021-11-18 12:26:05"
+    },
+    {
+      "comment_id": "23414",
+      "comment_title": "",
+      "comment_text": "ユッケダレ！！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-18 12:25:54",
+      "updated_at": "2021-11-18 12:25:54"
+    },
+    {
+      "comment_id": "23422",
+      "comment_title": "",
+      "comment_text": "サーモンユッケ",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-18 12:27:33",
+      "updated_at": "2021-11-18 12:27:33"
+    },
+    {
+      "comment_id": "23423",
+      "comment_title": "",
+      "comment_text": "「おにぎり」と「卵焼き」\n明太子のおにぎりが好きです。自分で作ると凄い美味しい。\n卵を上手に割れるようになって、卵焼きを作れるようになりました。\nこれからもお料理頑張ります！",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-18 12:27:42",
+      "updated_at": "2021-11-18 12:27:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

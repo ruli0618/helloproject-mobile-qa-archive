@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "26072",
+      "comment_title": "",
+      "comment_text": "陶芸やってみたい。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:42:38",
+      "updated_at": "2022-06-08 18:42:38"
+    },
+    {
+      "comment_id": "26075",
+      "comment_title": "",
+      "comment_text": "ホットヨガです！\n体の外の筋肉だけじゃなくて、インナーマッスルを鍛えたい！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:43:05",
+      "updated_at": "2022-06-08 18:43:05"
+    },
+    {
+      "comment_id": "26073",
+      "comment_title": "",
+      "comment_text": "トランポリン",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:42:46",
+      "updated_at": "2022-06-08 18:42:46"
+    },
+    {
+      "comment_id": "26074",
+      "comment_title": "",
+      "comment_text": "ピラティス、料理",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:42:55",
+      "updated_at": "2022-06-08 18:42:55"
+    },
+    {
+      "comment_id": "26076",
+      "comment_title": "",
+      "comment_text": "資格を取りたい。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:43:13",
+      "updated_at": "2022-06-08 18:43:13"
+    },
+    {
+      "comment_id": "26077",
+      "comment_title": "",
+      "comment_text": "色んなジャンルのダンスレッスン、音楽学校で声楽学習",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-08 18:43:21",
+      "updated_at": "2022-06-08 18:43:21"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

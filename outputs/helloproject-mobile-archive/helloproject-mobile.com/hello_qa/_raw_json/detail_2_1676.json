@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 562,
+    "content_id": "1676",
+    "content_title": "夏祭りで屋台を出すことになりました。何の屋台を出したいですか？",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2015-08-04 00:00:00",
+    "created_at": "2015-07-06 00:00:00",
+    "updated_at": "2015-07-18 20:15:12",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "1680",
+    "next_id": "1671"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "27036",
+      "comment_title": "",
+      "comment_text": "ティッシュをあげる。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:04:55",
+      "updated_at": "2022-09-05 17:04:55"
+    },
+    {
+      "comment_id": "27039",
+      "comment_title": "",
+      "comment_text": "抱きしめる！笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:06:03",
+      "updated_at": "2022-09-05 17:06:03"
+    },
+    {
+      "comment_id": "27040",
+      "comment_title": "",
+      "comment_text": "隣にいて話を聞く。",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:06:34",
+      "updated_at": "2022-09-05 17:06:34"
+    },
+    {
+      "comment_id": "27041",
+      "comment_title": "",
+      "comment_text": "寄り添う。\n近くにいる。\nぎゅーする。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:06:56",
+      "updated_at": "2022-09-05 17:06:56"
+    },
+    {
+      "comment_id": "27042",
+      "comment_title": "",
+      "comment_text": "悲しんでる理由によるけど、その人の好きなところや好きなことをして励ます！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:07:08",
+      "updated_at": "2022-09-05 17:07:08"
+    },
+    {
+      "comment_id": "27044",
+      "comment_title": "",
+      "comment_text": "甘いものを食べに行って話を聞く。",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:07:34",
+      "updated_at": "2022-09-05 17:07:34"
+    },
+    {
+      "comment_id": "27045",
+      "comment_title": "",
+      "comment_text": "理由を聞けたら聞いて、それを一緒に考える。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-09-05 17:07:48",
+      "updated_at": "2022-09-05 17:07:48"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

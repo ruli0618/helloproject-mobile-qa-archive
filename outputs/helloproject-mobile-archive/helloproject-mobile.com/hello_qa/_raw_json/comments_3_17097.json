@@ -1,0 +1,70 @@
+{
+  "comments": [
+    {
+      "comment_id": "23363",
+      "comment_title": "",
+      "comment_text": "ジェットコースター作りたい。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:02:55",
+      "updated_at": "2021-11-10 19:02:55"
+    },
+    {
+      "comment_id": "23366",
+      "comment_title": "",
+      "comment_text": "脱出ゲーム！！\n謎解き好きな人多いイメージなので友達と大人数とかだとかなり盛り上がると思うし、ホラー要素も入れたら楽しそう！！！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:03:33",
+      "updated_at": "2021-11-10 19:03:33"
+    },
+    {
+      "comment_id": "23364",
+      "comment_title": "",
+      "comment_text": "お化け屋敷です。\nお化け屋敷をするのが小さい頃からの夢です。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:03:09",
+      "updated_at": "2021-11-10 19:03:09"
+    },
+    {
+      "comment_id": "23365",
+      "comment_title": "",
+      "comment_text": "学校ではやりたくても出来なかった、お化け屋敷をやりたいです！\nおばけ役と言うよりは受付係になってこの人は叫びそうとか考えるのを楽しみたいです笑",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:03:21",
+      "updated_at": "2021-11-10 19:03:21"
+    },
+    {
+      "comment_id": "23367",
+      "comment_title": "",
+      "comment_text": "食べ物系のお店！焼きそば屋さんをやりたいです。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-11-10 19:03:39",
+      "updated_at": "2021-11-10 19:03:39"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

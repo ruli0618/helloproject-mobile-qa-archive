@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 122,
+    "content_id": "13491",
+    "content_title": "今までに体験した不思議なことは？",
+    "content_sub_title": "",
+    "category_id": "124",
+    "release_date": "2016-12-20 01:00:00",
+    "created_at": "2020-03-31 11:56:55",
+    "updated_at": "2020-03-31 12:07:42",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13492",
+    "next_id": "13490"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

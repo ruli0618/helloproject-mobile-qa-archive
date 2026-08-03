@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 322,
+    "content_id": "12763",
+    "content_title": "朝起きるのが苦手です。目の覚めるような一言を下さい。",
+    "content_sub_title": "",
+    "category_id": "26",
+    "release_date": "2020-01-31 10:00:00",
+    "created_at": "2019-12-20 18:19:18",
+    "updated_at": "2020-01-30 16:11:06",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "12764",
+    "next_id": "12762"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

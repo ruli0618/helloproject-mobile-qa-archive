@@ -1,0 +1,334 @@
+
+<html lang="ja"><head><meta charset="utf-8">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+
+<title>H！M&nbsp;ハロ！プロモバイル</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="css/common.css">
+</head>
+
+
+<body>
+<div class="HeadArea">
+	<h1><img src="img/logo.png" alt="H！M&nbsp;ハロ！プロモバイル"></h1>
+</div>
+<div class="MainArea">
+		<h2><img src="img/about.png" alt="ハロー！プロジェクトモバイルとは？"></h2>
+		<img src="img/qrcode.png" alt="QRコード" style="float: left;">
+		<div class="qrabout">
+			<p>「ハロー！プロジェクトモバイル」はハロー！プロジェクトアーティストの公式スマートフォン向けサービスです。<br>
+			月額会員（400円コース、700円コース）になることで会員限定コンテンツをご利用することができます。</p>
+			<p>左のQRコード、<br>
+			または<a href="http://helloproject-mobile.com/" target="_blank">http://helloproject-mobile.com/</a>にスマートフォンよりアクセスをしてご利用ください。</p>
+		</div>
+		<h2><img src="img/about_2.png" alt="会員コンテンツについて" style="margin-top: 80px;"></h2>
+		
+		<table>
+		<tbody><tr>
+		<th>コンテンツ</th>
+		<th>内容</th>
+		<th>400円会員</th>
+		<th>700円会員</th>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！ラジオ</td>
+			<td>ハロー！プロジェクトの楽曲をランダムで配信！<br>ハロー！ラジオオリジナル番組</td>
+			<td>×</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！ムービー</td>
+			<td>ハロー！プロジェクトメンバーが出演する映像コンテンツ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ツアー日記</td>
+			<td>コンサートツアーと連動した日記を配信！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">スタッフ日記</td>
+			<td>スタッフならではの情報をお届けします！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！ショット</td>
+			<td>ハロー！プロジェクトメンバーの画像を平日毎日更新！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ショップフォト</td>
+			<td>ハロー！ショップで販売している写真を大公開！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！Q&amp;A</td>
+			<td>ハロー！プロジェクトメンバーがあなたの質問にお答えします！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！メルマガ</td>
+			<td>「ハロー！プロジェクトモバイル」オリジナルのメルマガを配信！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">ハロー！ガチャ</td>
+			<td>1日1回ランダムで画像が引ける待ち受けコンテンツ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">スペシャルコンテンツ</td>
+			<td>リリース特設や、その時々の企画特集を大公開！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+		<td class="menu_left">Juice=JuiceのLike=Like</td>
+		<td>Juice=Juiceメンバーが撮影するフォトコンテンツ！</td>
+		<td>◯</td>
+		<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">つばきのスキップ日和</td>
+			<td>つばきファクトリーメンバーが送る<br>楽しい嬉しい飛び跳ねるフォトコンテンツ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">BEYOOOOONDSの<br>ビヨンズした！</td>
+			<td>BEYOOOOONDSメンバーが<br>指定されたお題に沿って更新するフォトコンテンツ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">前田こころの今月の一言！</td>
+			<td>BEYOOOOONDS前田こころが月1で送るメッセージ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<td class="menu_left">野中部長の裏日記</td>
+			<td>モーニング娘。野中美希が自由に綴る日記コンテンツ！</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<td class="menu_left">ハロー！ペディア</td>
+		<td>宣伝会議ラジオ連動、皆で作る辞書コンテンツ！</td>
+		<td>◯</td>
+		<td>◯</td>
+		</tr>
+		</tbody>
+		</table>
+		
+		<h2><img src="img/about_3_.png" alt="ハローラジオオリジナル番組スタート！"></h2>
+
+		<div class="qrabout1">
+		<p><font color=#ff0000><b>★各番組各回「#1」の7分間が、ご入会前のお客様も無料でお聴き頂けるようになりました。<br>
+		入会を検討されている方は、ぜひ一度ご試聴ください。</b></font></p>
+
+		<p>■「ろこの部屋」<br>
+		パーソナリティ：筒井澪心(OCHA NORMA)<br>
+		配信：隔週火曜日(予定)<br>
+		ゲスト：メディアページをご確認下さい。<br>
+		</p>
+		<br>
+		
+		<p>■「みよちゃん家の縁側」<br>
+		パーソナリティ：平井美葉(BEYOOOOONDS/SeasoningS)<br>
+		配信：隔週火曜日(予定)<br>
+		ゲスト：メディアページをご確認下さい。<br>
+		</p>
+		<br>
+
+
+		<p>■「ハロ！モバ宣伝会議」<br>
+		パーソナリティ：ハロ！モバ宣伝部員<br>
+		(モーニング娘。 野中美希、BEYOOOOONDS 前田こころ、Juice=Juice 入江里咲、ロージークロニクル 小野田華凜)<br>
+		配信：月2回木曜日(予定)</p>
+		<br>
+
+		<p>■番組へのメール募集中！<br>
+		「ろこの部屋」「みよちゃん家の縁側」へのコーナーメール、<br>
+		「ハロ！モバ宣伝会議」への励ましのメールをお送り下さい！<br>
+		ご意見、ご質問、ご要望などなど…大募集！<br>
+		<br>
+		メール件名に番組名・コーナー名、<br>
+		本文にはラジオネームを明記の上、下記宛先までお送り下さい。<br>
+		たくさんのメール、お待ちしております！</p>
+		<p>宛先：<a href="mailto:halomoba@gmail.com"><b><font color="#0000ff">halomoba@gmail.com</b></font></a><br>
+		<p>【注意事項】（※必ずお読みください。）<br>
+		※募集は、700円会員に登録している方が対象となります。<br>
+		400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。<br>
+		※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。<br>
+		まだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。<br>
+		詳しくは、<a href="https://twitter.com/halomoba" target="_blank">ハロー！プロジェクトモバイル公式X</a>をご確認ください。
+		</p>
+		</div>
+		<br>
+
+
+		<h3><img src="img/about_4.png" alt="対応機種について"></h3>
+
+		<div class="qrabout2">
+			<h4 class="blue">端末</h4>
+			<p>
+				<div class="list_newstitle">
+					<ul>
+						<li>スマートフォン</li>
+						※タブレット端末・ガラホ端末は表示・操作に制限があり、動作を保証するものではありません。<br>
+						※PCからのご利用には対応しておりません。
+					</ul>
+				</div>
+			</p>
+			<h4 class="blue">OS</h4>
+			<p>
+				<div class="list_newstitle">
+					<ul>
+						<li>Android4.0以上</li>
+						<li>iOS7.0以上</li>
+					</ul>
+				</div>
+			</p>
+			<h4 class="blue">推奨ブラウザ</h4>
+			<p>
+				<div class="list_newstitle">
+					<ul>
+						<li>Chrome(ver35.x.x以上)</li>
+						<li>Safari(iOS7.0以上)</li>
+						※推奨環境以外でのご利用や、お客様のブラウザの設定によっては、ご利用できない・もしくは正しく表示されない場合がございます。
+					</ul>
+				</div>
+			</p>
+			<hr>
+			<h5>ハロー！ラジオ対応環境</h5>
+			<p>
+			<div class="list_newstitle">
+			<p class="text">
+				【Android】<br/>
+				4.1.2以上のOS搭載端末<br/>
+				ブラウザ：Chrome(ver35.x.x以上)
+			</p>
+			<p class="text">
+				【iOS】<br/>
+				iOS7.1.x、8.0.0〜8.2.0、9.x、10.x搭載端末
+			</p>
+			<h5>対応表</h5>
+			<table class="compatible_model">
+			<tbody>
+                        <tr>
+                            <th>OS</th>
+                            <th>ブラウザ</th>
+                            <th>通常再生</th>
+                            <th>バックグラウンド</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">Android4.1.2以上</td>
+                            <td>標準ブラウザ</td>
+                            <td class="center">×</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">iOS7.1.0〜7.1.2</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">iOS8.0.0〜8.1.0</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+				<td rowspan="2">iOS8.1.1〜8.2.0</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+				<td rowspan="2">iOS9.0.0〜9.3.5</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">◯</td>
+                        </tr>
+                        <tr>
+				<td rowspan="2">iOS10.0.0〜10.3.3</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+				<td rowspan="2">iOS11.0.0〜11.2.1</td>
+                            <td>Safari</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+                        <tr>
+                            <td>Chrome</td>
+                            <td class="center">◯</td>
+                            <td class="center">×</td>
+                        </tr>
+
+
+			</tbody></table>
+		</div>
+		</p>
+	</div>
+</div>
+
+<div class="hoverarea">
+<div class="hover">
+<center><a href="http://www.helloproject.com/">Hello! Project オフィシャルサイト</a></center>
+</div></div>
+<br><br><br>
+<div class="FooterArea">
+©DC FACTORY All Rights Reserved.
+</div>
+
+
+</body></html>

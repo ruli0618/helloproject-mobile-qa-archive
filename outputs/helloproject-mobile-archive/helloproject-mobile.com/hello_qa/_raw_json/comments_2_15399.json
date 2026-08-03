@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "20330",
+      "comment_title": "",
+      "comment_text": "朝は時間がないので必要最低限のことだけします。\n愛犬のとうふちゃんと遊ぶことだけは欠かせませんが…！\n夜は筋トレやストレッチをするようにしています。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 14:51:56",
+      "updated_at": "2021-02-01 14:51:56"
+    },
+    {
+      "comment_id": "20329",
+      "comment_title": "",
+      "comment_text": "朝は起きて、夜は寝ます。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 14:51:45",
+      "updated_at": "2021-02-01 14:51:45"
+    },
+    {
+      "comment_id": "20337",
+      "comment_title": "",
+      "comment_text": "スキンケアは絶対にします！最近寒いからか乾燥肌で大変です…。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 14:54:48",
+      "updated_at": "2021-02-01 14:54:48"
+    },
+    {
+      "comment_id": "20338",
+      "comment_title": "",
+      "comment_text": "朝起きたら、夢の内容を思い出しながら「のびー」ってします！\n夜寝るときは、見たい夢を妄想しながら寝ます。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-02-01 14:55:00",
+      "updated_at": "2021-02-01 14:55:00"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

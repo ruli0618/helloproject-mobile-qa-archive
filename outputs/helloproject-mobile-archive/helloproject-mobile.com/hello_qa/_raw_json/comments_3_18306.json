@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "25845",
+      "comment_title": "",
+      "comment_text": "とにかく食べる。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:12:06",
+      "updated_at": "2022-06-07 10:12:06"
+    },
+    {
+      "comment_id": "25848",
+      "comment_title": "",
+      "comment_text": "もしこのまま怒ってしまったらどうなるかなって考えて、怒ったあと自分の得にならなさそうだなって想像すると怒りがおさまります！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:13:06",
+      "updated_at": "2022-06-07 10:13:06"
+    },
+    {
+      "comment_id": "25846",
+      "comment_title": "",
+      "comment_text": "怒りが落ち着くまで泣く。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:12:24",
+      "updated_at": "2022-06-07 10:12:24"
+    },
+    {
+      "comment_id": "25847",
+      "comment_title": "",
+      "comment_text": "人はそれぞれ色んな環境で育ってきたんだって思えば、ムカついても「そんなときもある」って思える。",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:12:47",
+      "updated_at": "2022-06-07 10:12:47"
+    },
+    {
+      "comment_id": "25849",
+      "comment_title": "",
+      "comment_text": "そんなときもある！",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:13:36",
+      "updated_at": "2022-06-07 10:13:36"
+    },
+    {
+      "comment_id": "25850",
+      "comment_title": "",
+      "comment_text": "本当に怒る必要があるか考えて深呼吸！",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-06-07 10:13:53",
+      "updated_at": "2022-06-07 10:13:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

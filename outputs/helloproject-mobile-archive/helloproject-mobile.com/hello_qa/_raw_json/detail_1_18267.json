@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 222,
+    "content_id": "18267",
+    "content_title": "地球最後の一週間、何をする？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2022-03-07 10:00:00",
+    "created_at": "2022-05-30 15:21:48",
+    "updated_at": "2022-05-31 14:46:13",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18268",
+    "next_id": "18266"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

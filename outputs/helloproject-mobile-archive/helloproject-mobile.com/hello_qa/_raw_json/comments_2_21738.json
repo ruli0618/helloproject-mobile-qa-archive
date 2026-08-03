@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "33005",
+      "comment_title": "",
+      "comment_text": "黄色",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:53:32",
+      "updated_at": "2024-02-14 13:53:32"
+    },
+    {
+      "comment_id": "33004",
+      "comment_title": "",
+      "comment_text": "今とてもまったりしているので、緑です！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:53:25",
+      "updated_at": "2024-02-14 13:53:25"
+    },
+    {
+      "comment_id": "33010",
+      "comment_title": "",
+      "comment_text": "薄オレンジ！！\n美味しいご飯を食べて幸せ！",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:54:20",
+      "updated_at": "2024-02-14 13:54:20"
+    },
+    {
+      "comment_id": "33011",
+      "comment_title": "",
+      "comment_text": "白\n特に何も考えてなくて、のんびりいいなーって感じです。笑",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:54:29",
+      "updated_at": "2024-02-14 13:54:29"
+    },
+    {
+      "comment_id": "33012",
+      "comment_title": "",
+      "comment_text": "グレー\n今は朝です。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:54:40",
+      "updated_at": "2024-02-14 13:54:40"
+    },
+    {
+      "comment_id": "33013",
+      "comment_title": "",
+      "comment_text": "黒です。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:54:47",
+      "updated_at": "2024-02-14 13:54:47"
+    },
+    {
+      "comment_id": "33014",
+      "comment_title": "",
+      "comment_text": "ピンク\n頭の中で牧野さんが踊っていたので。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-02-14 13:54:59",
+      "updated_at": "2024-02-14 13:54:59"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

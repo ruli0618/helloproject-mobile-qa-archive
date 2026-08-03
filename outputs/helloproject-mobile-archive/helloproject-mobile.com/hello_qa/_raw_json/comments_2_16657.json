@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "22408",
+      "comment_title": "",
+      "comment_text": "・筋トレ！\n・食べすぎない！\n・たくさん寝る！\n・歩く！",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-08 15:52:22",
+      "updated_at": "2021-09-08 15:52:22"
+    },
+    {
+      "comment_id": "22407",
+      "comment_title": "",
+      "comment_text": "少し前に遺伝子検査をして、ゆるくですが体質改善をしました！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-08 15:52:11",
+      "updated_at": "2021-09-08 15:52:11"
+    },
+    {
+      "comment_id": "22415",
+      "comment_title": "",
+      "comment_text": "サプリメントを飲む。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-08 15:54:11",
+      "updated_at": "2021-09-08 15:54:11"
+    },
+    {
+      "comment_id": "22416",
+      "comment_title": "",
+      "comment_text": "ぐっすり寝る。いっぱい寝る。\n面白い夢をみる。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2021-09-08 15:54:24",
+      "updated_at": "2021-09-08 15:54:24"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

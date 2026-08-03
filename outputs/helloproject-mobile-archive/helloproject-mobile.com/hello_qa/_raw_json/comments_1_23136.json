@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "34401",
+      "comment_title": "",
+      "comment_text": "TAK-TSUK\n(読み：タカツカ)",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:29:10",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "34404",
+      "comment_title": "",
+      "comment_text": "Aaron Judge？",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:29:35",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "34476",
+      "comment_title": "",
+      "comment_text": "雲外蒼天",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:55:06",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "34629",
+      "comment_title": "",
+      "comment_text": "ゴリ押し My Self",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:20:48",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

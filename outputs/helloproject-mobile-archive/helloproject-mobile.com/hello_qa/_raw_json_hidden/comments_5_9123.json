@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "comment_id": "8829",
+      "comment_title": "",
+      "comment_text": "靴です！赤いスニーカーが欲しいです！",
+      "user_name": "小関舞",
+      "user_icon": "0",
+      "artist_id": "38",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2018-05-07 10:43:08",
+      "updated_at": "2018-05-07 10:43:08"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

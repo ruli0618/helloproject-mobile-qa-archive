@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "29315",
+      "comment_title": "",
+      "comment_text": "学生の役",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:47:14",
+      "updated_at": "2023-03-13 18:47:14"
+    },
+    {
+      "comment_id": "29317",
+      "comment_title": "",
+      "comment_text": "牧野つくしです。",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:47:32",
+      "updated_at": "2023-03-13 18:47:32"
+    },
+    {
+      "comment_id": "29318",
+      "comment_title": "",
+      "comment_text": "ヤンキー役。\n少し似合うと思う。笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:47:42",
+      "updated_at": "2023-03-13 18:47:42"
+    },
+    {
+      "comment_id": "29319",
+      "comment_title": "",
+      "comment_text": "すごい特殊能力を持った女の子。と、執筆役です。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:47:53",
+      "updated_at": "2023-03-13 18:47:53"
+    },
+    {
+      "comment_id": "29320",
+      "comment_title": "",
+      "comment_text": "怖い系の役オバケとか笑\nあとは真面目な女の子！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:48:05",
+      "updated_at": "2023-03-13 18:48:05"
+    },
+    {
+      "comment_id": "29322",
+      "comment_title": "",
+      "comment_text": "アクション映画でかっこいい役をやりたいです！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:48:25",
+      "updated_at": "2023-03-13 18:48:25"
+    },
+    {
+      "comment_id": "29323",
+      "comment_title": "",
+      "comment_text": "叫ぶ人？",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2023-03-13 18:48:33",
+      "updated_at": "2023-03-13 18:48:33"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

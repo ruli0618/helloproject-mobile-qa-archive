@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "26373",
+    "content_title": "どこでもドアを使えるなら、今日どこに行く？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2026-05-08 10:00:00",
+    "created_at": "2026-06-10 16:04:23",
+    "updated_at": "2026-06-23 15:31:37",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26374",
+    "next_id": "26372"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

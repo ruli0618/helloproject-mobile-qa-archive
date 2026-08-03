@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "25088",
+    "content_title": "自分に背番号を付けるなら何番？",
+    "content_sub_title": "",
+    "category_id": "4",
+    "release_date": "2025-10-20 10:00:00",
+    "created_at": "2025-10-08 17:49:45",
+    "updated_at": "2025-10-17 18:18:38",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "25089",
+    "next_id": "25087"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

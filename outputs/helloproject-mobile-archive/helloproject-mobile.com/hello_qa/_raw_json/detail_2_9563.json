@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 402,
+    "content_id": "9563",
+    "content_title": "あなたの取り扱い説明書を教えて下さい。",
+    "content_sub_title": "",
+    "category_id": "2",
+    "release_date": "2018-08-14 10:00:00",
+    "created_at": "2018-07-20 12:10:37",
+    "updated_at": "2018-08-14 09:50:22",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9564",
+    "next_id": "9562"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

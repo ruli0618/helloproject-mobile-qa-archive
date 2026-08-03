@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "17791",
+      "comment_title": "",
+      "comment_text": "ヘアメイク、短時間でささっとやろう～と思ってやり始めても、やってるうちにこだわりが出始めて、気付いたら時間かかってたみたいなことがよくあります。",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 17:58:32",
+      "updated_at": "2020-05-25 17:58:32"
+    },
+    {
+      "comment_id": "17790",
+      "comment_title": "",
+      "comment_text": "リップを重ね塗りしているうちに濃い色になってしまうこと。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 17:58:10",
+      "updated_at": "2020-05-25 17:58:10"
+    },
+    {
+      "comment_id": "17792",
+      "comment_title": "",
+      "comment_text": "アホ毛にはいつも困っていますが、それを含め私の一部なんだなと苦笑して乗りこえています。",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 17:58:42",
+      "updated_at": "2020-05-25 17:58:42"
+    },
+    {
+      "comment_id": "17793",
+      "comment_title": "",
+      "comment_text": "片付けに没頭しすぎてしまいます。\n気付いたら1日が過ぎています。笑",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-05-25 17:58:53",
+      "updated_at": "2020-05-25 17:58:53"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

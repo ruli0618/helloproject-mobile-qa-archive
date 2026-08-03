@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "18125",
+      "comment_title": "",
+      "comment_text": "すぐものをなくします。\nすぐコケます。\nすぐぶつけます。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-14 16:29:06",
+      "updated_at": "2020-07-14 16:29:06"
+    },
+    {
+      "comment_id": "18124",
+      "comment_title": "",
+      "comment_text": "ご飯よくこぼしてしまいます。\nちゃんとシミ抜き毎日持ち歩いてます！",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-14 16:28:54",
+      "updated_at": "2020-07-14 16:28:54"
+    },
+    {
+      "comment_id": "18132",
+      "comment_title": "",
+      "comment_text": "小学生の時、「遅刻だ～！」と焦って家を出たら教室でランドセルを忘れたことに気づいて急いでとりに帰ったこと。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-14 16:30:23",
+      "updated_at": "2020-07-14 16:30:23"
+    },
+    {
+      "comment_id": "18133",
+      "comment_title": "",
+      "comment_text": "小学校の時、テストで100点とったんです。\nみんなに「おめでとう〜！」って言ってもらって、照れながら自分の席に戻ろうとした時、派手に転びました…",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2020-07-14 16:30:34",
+      "updated_at": "2020-07-14 16:30:34"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

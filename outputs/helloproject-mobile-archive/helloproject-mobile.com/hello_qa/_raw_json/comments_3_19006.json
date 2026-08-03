@@ -1,0 +1,82 @@
+{
+  "comments": [
+    {
+      "comment_id": "27412",
+      "comment_title": "",
+      "comment_text": "最近ですと、ご飯食べながらみんなでドラマ見てみんなで泣いたことです。",
+      "user_name": "伊勢鈴蘭",
+      "user_icon": "0",
+      "artist_id": "112",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:25:42",
+      "updated_at": "2022-10-24 14:25:42"
+    },
+    {
+      "comment_id": "27415",
+      "comment_title": "",
+      "comment_text": "この前、お母さんの仕事場の近くに私もいたので、ランチを一緒にしよう！ってことになりました！！笑\nお昼の休憩時間に私と食事をしてくれるってことがすごく嬉しかったです！",
+      "user_name": "為永幸音",
+      "user_icon": "0",
+      "artist_id": "123",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:26:07",
+      "updated_at": "2022-10-24 14:26:07"
+    },
+    {
+      "comment_id": "27413",
+      "comment_title": "",
+      "comment_text": "お子様セットでもらったおもちゃで遊ぶ。",
+      "user_name": "橋迫鈴",
+      "user_icon": "0",
+      "artist_id": "121",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:25:51",
+      "updated_at": "2022-10-24 14:25:51"
+    },
+    {
+      "comment_id": "27414",
+      "comment_title": "",
+      "comment_text": "毎日必ず｢おはよう｣｢おやすみ｣｢ただいま｣｢おかえり｣を言います！あとよくみんなでハグします！",
+      "user_name": "川名凜",
+      "user_icon": "0",
+      "artist_id": "122",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:25:58",
+      "updated_at": "2022-10-24 14:25:58"
+    },
+    {
+      "comment_id": "27416",
+      "comment_title": "",
+      "comment_text": "日に一回以上は、家族のグループで連絡を取っています。",
+      "user_name": "松本わかな",
+      "user_icon": "0",
+      "artist_id": "124",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:26:14",
+      "updated_at": "2022-10-24 14:26:14"
+    },
+    {
+      "comment_id": "27417",
+      "comment_title": "",
+      "comment_text": "良い意味でリビングはいつも騒がしい。",
+      "user_name": "平山遊季",
+      "user_icon": "0",
+      "artist_id": "143",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-10-24 14:26:26",
+      "updated_at": "2022-10-24 14:26:26"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

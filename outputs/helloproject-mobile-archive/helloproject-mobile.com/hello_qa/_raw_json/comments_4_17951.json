@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "comment_id": "25214",
+      "comment_title": "",
+      "comment_text": "カレーシュークリーム",
+      "user_name": "段原瑠々",
+      "user_icon": "0",
+      "artist_id": "100",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:55:55",
+      "updated_at": "2022-04-12 10:55:55"
+    },
+    {
+      "comment_id": "25215",
+      "comment_title": "",
+      "comment_text": "カレージュース",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:56:05",
+      "updated_at": "2022-04-12 10:56:05"
+    },
+    {
+      "comment_id": "25216",
+      "comment_title": "",
+      "comment_text": "シーフードカレーにタコを入れます。。\n過去に、シーフードなのに、タコが入ってないことがあって(泣)",
+      "user_name": "工藤由愛",
+      "user_icon": "0",
+      "artist_id": "116",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:56:18",
+      "updated_at": "2022-04-12 10:56:18"
+    },
+    {
+      "comment_id": "25217",
+      "comment_title": "",
+      "comment_text": "カレー苺大福\n私はカレーも苺大福も好きなので、好き同士を合わせれば大好きになるのではないでしょうか！！",
+      "user_name": "松永里愛",
+      "user_icon": "0",
+      "artist_id": "117",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:56:30",
+      "updated_at": "2022-04-12 10:56:30"
+    },
+    {
+      "comment_id": "25218",
+      "comment_title": "",
+      "comment_text": "カレーフルーツ\nカレーのルーの中にフルーツが入っている。",
+      "user_name": "有澤一華",
+      "user_icon": "0",
+      "artist_id": "125",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:56:42",
+      "updated_at": "2022-04-12 10:56:42"
+    },
+    {
+      "comment_id": "25219",
+      "comment_title": "",
+      "comment_text": "カレーにゅうめん",
+      "user_name": "入江里咲",
+      "user_icon": "0",
+      "artist_id": "126",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:56:50",
+      "updated_at": "2022-04-12 10:56:50"
+    },
+    {
+      "comment_id": "25220",
+      "comment_title": "",
+      "comment_text": "カレーいちご\n少し柔らかくなった、いちごが入ったカレーです！",
+      "user_name": "江端妃咲",
+      "user_icon": "0",
+      "artist_id": "127",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2022-04-12 10:57:02",
+      "updated_at": "2022-04-12 10:57:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

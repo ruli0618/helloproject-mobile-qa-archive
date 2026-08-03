@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "comment_id": "2556",
+      "comment_title": "",
+      "comment_text": "国語と美術です。\n美術は、絵を描くことが好きなので！\n国語は、なんとなく好きです。",
+      "user_name": "井上玲音",
+      "user_icon": "0",
+      "artist_id": "46",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2016-01-08 11:56:43",
+      "updated_at": "2016-01-08 11:56:43"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

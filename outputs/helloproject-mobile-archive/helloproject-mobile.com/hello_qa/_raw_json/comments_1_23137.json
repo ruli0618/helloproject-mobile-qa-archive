@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "34414",
+      "comment_title": "",
+      "comment_text": "いやあまり楽器を習う想像が出来ないので、パン作り習ってもいいかな。",
+      "user_name": "石田亜佑美",
+      "user_icon": "0",
+      "artist_id": "11",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:32:34",
+      "updated_at": "2024-12-10 12:01:39"
+    },
+    {
+      "comment_id": "34417",
+      "comment_title": "",
+      "comment_text": "たいこ",
+      "user_name": "牧野真莉愛",
+      "user_icon": "0",
+      "artist_id": "17",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:33:01",
+      "updated_at": "2026-06-29 14:30:47"
+    },
+    {
+      "comment_id": "34486",
+      "comment_title": "",
+      "comment_text": "ドラム！！やりたい！！",
+      "user_name": "上國料萌衣",
+      "user_icon": "0",
+      "artist_id": "66",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-09 18:57:55",
+      "updated_at": "2025-06-24 19:39:14"
+    },
+    {
+      "comment_id": "34639",
+      "comment_title": "",
+      "comment_text": "ウクレレ\nビーチで弾きたいな～。",
+      "user_name": "島倉りか",
+      "user_icon": "0",
+      "artist_id": "103",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2024-07-10 11:25:43",
+      "updated_at": "2025-06-17 16:36:23"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

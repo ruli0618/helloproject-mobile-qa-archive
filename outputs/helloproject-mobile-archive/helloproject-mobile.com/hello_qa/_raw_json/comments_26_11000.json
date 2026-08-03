@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "11985",
+      "comment_title": "",
+      "comment_text": "トップス",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:04:41",
+      "updated_at": "2019-03-15 12:04:41"
+    },
+    {
+      "comment_id": "11988",
+      "comment_title": "",
+      "comment_text": "気温に適した着たい服を1つ探します。そこから色々決める！",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:05:04",
+      "updated_at": "2019-03-15 12:05:04"
+    },
+    {
+      "comment_id": "11989",
+      "comment_title": "",
+      "comment_text": "髪型",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:05:14",
+      "updated_at": "2019-03-15 12:05:14"
+    },
+    {
+      "comment_id": "11990",
+      "comment_title": "",
+      "comment_text": "日によって違いますが、トップスから決める事が多いです！！その日に着たい！って思ったものに合わせて組み合わせます！",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-03-15 12:05:22",
+      "updated_at": "2019-03-15 12:05:22"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

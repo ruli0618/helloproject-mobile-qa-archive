@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "comment_id": "12785",
+      "comment_title": "",
+      "comment_text": "趣味を見つけることが趣味です。と言う。",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:38:05",
+      "updated_at": "2019-05-27 13:38:05"
+    },
+    {
+      "comment_id": "12787",
+      "comment_title": "",
+      "comment_text": "寝ること。とか、ご飯食べること。とか、人が当たり前にしていることを趣味に挙げてみる。笑",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:38:31",
+      "updated_at": "2019-05-27 13:38:31"
+    },
+    {
+      "comment_id": "12788",
+      "comment_title": "",
+      "comment_text": "近くにあるものを見て、あ！あれ趣味にしたいんです！今趣味が無いので、とその場しのぎをします。笑笑",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:38:47",
+      "updated_at": "2019-05-27 13:38:47"
+    },
+    {
+      "comment_id": "12789",
+      "comment_title": "",
+      "comment_text": "今探してます！と答えると良いと思います。",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2019-05-27 13:39:02",
+      "updated_at": "2019-05-27 13:39:02"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

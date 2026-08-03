@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "10813",
+    "content_title": "地元以外の都道府県に住むなら、どこがいいですか？",
+    "content_sub_title": "",
+    "category_id": "5",
+    "release_date": "2019-02-18 10:02:00",
+    "created_at": "2019-02-08 12:49:27",
+    "updated_at": "2019-03-14 14:14:15",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10814",
+    "next_id": "10812"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

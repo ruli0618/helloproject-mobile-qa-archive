@@ -1,0 +1,27 @@
+{
+  "content": {
+    "idx": 462,
+    "content_id": "6417",
+    "content_title": "好きな食べ物を持ち寄ってピクニック！何を持っていきますか？",
+    "content_sub_title": "",
+    "category_id": "1",
+    "release_date": "2017-04-27 10:00:00",
+    "created_at": "2017-03-29 18:17:54",
+    "updated_at": "2017-04-27 10:10:01",
+    "is_new": 0,
+    "content_text": "",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "6541",
+    "next_id": "6410"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}
