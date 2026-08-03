@@ -313,10 +313,7 @@ hlpr.utils = {
    * APIデータ取得でエラーが有った場合に使用
    **/
   showReload: function(msg) {
-    if (!_.isEmpty(msg)) {
-      $("#reload_comment").html(msg);
-    }
-    hlpr.utils.modalDisplay("#reload-content");
+    return false;
   },
   /**
    * モーダルの中を自由に変える甩

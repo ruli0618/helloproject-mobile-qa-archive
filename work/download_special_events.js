@@ -41,7 +41,7 @@ function localAssetPath(url) {
 async function fetchText(url) {
   const res = await fetch(url, { headers: { 'user-agent': UA } });
   if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return await res.text();
+  return Buffer.from(await res.arrayBuffer()).toString('utf8');
 }
 
 async function fetchBuffer(url) {
@@ -141,7 +141,9 @@ async function main() {
         }
         if (/\.(?:jpe?g|png|gif|webp|css|js)(?:$|\?)/i.test(abs.pathname + abs.search)) {
           const target = localAssetPath(abs.href);
-          return `${attr}="${path.relative(pageDir, target).replace(/\\/g, '/')}"`;
+          const rel = path.relative(pageDir, target).replace(/\\/g, '/');
+          const cacheBust = /\/js\/base\.js$/.test(abs.pathname) ? '?archive_fix=1' : '';
+          return `${attr}="${rel}${cacheBust}"`;
         }
         return match;
       });
@@ -163,7 +165,15 @@ async function main() {
     try {
       const buf = await fetchBuffer(assetUrl);
       ensureDir(file);
-      fs.writeFileSync(file, buf);
+      if (/\/js\/base\.js(?:$|\?)/.test(new URL(assetUrl).pathname + new URL(assetUrl).search)) {
+        const patched = buf.toString('utf8').replace(
+          /showReload:\s*function\(msg\)\s*\{[\s\S]*?hlpr\.utils\.modalDisplay\("#reload-content"\);\s*\},/,
+          'showReload: function(msg) {\n    return false;\n  },',
+        );
+        fs.writeFileSync(file, patched);
+      } else {
+        fs.writeFileSync(file, buf);
+      }
       downloadedAssets++;
     } catch (e) {
       errors.push({ url: assetUrl, file, error: String(e.message || e) });
