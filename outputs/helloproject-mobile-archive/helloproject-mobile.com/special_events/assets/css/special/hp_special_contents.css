@@ -1,0 +1,900 @@
+/*特設CSS*/
+
+a{
+	/*-webkit-touch-callout:none;*/
+	-webkit-tap-highlight-color:rgba(128,128,128,0.8);
+}
+
+
+/*↑矢印アイコン↑*/
+.sample4-1::before{
+left: 4px;
+box-sizing: border-box;
+width: 4px;
+height: 4px;
+border: 4px solid transparent;
+border-left: 4px solid #7a0;
+}
+/*↑------------------↑*/
+
+/*COMMING_SOON*/
+.commingsoon {
+	color: #FF0000;
+	font-weight: bold;
+	text-align: center;
+	padding: 1em;
+}
+/*COMMING_SOON*/
+	
+
+/*↓TOP画像あたりにあるリード文の調整↓*/
+.spacial_header {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.spacial_header2 {
+	text-align: center;
+	background-color: #f5f5f5;
+	color: #a9a9a9;
+	text-shadow: -1px 1px 0 rgba(255,255,255,0.2);
+	margin: -15px 8px 15px 8px;
+	padding: 10px;
+	line-height: 1em;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;
+	font-size: small;
+}
+
+.spacial_header3 {
+	text-align: center;
+	background-color: #FFFFFF;
+	color: #a9a9a9;
+	text-shadow: -1px 1px 0 rgba(255,255,255,0.2);
+	box-sizing:border-box
+	margin: -15px 8px 15px 8px;
+	padding-left: 18px;
+	padding-right:18px;
+	line-height: 1.5em;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;
+	font-size: small;
+}
+
+/*↑------------------↑*/
+
+
+/*↓TOPメインコンテンツ↓*/
+/*枠付角丸リスト（サムネイルなし）*/
+.hp_special_contents1{
+	margin: 15px;
+}
+
+.hp_special_contents1 ul{
+	/*margin: 10px;*/
+	border:1px solid #f6efe2;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;	
+}
+
+
+.hp_special_contents1 ul li{
+	display:table;
+	width:100%;
+	padding: -30px;
+}
+
+.hp_special_contents1 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents1 ul li a{
+	display:block;
+	padding:15px 25px 15px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+}
+
+.hp_special_contents1 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+	
+}
+/*枠付角丸リスト（サムネイルなし）<終了>*/
+/*枠付角丸リスト（サムネイルあり）*/
+.hp_special_contents2{
+	margin: 15px;
+}
+
+.hp_special_contents2 ul{
+	/*margin: 10px;*/
+	border:1px solid #f6efe2;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;	
+}
+
+
+.hp_special_contents2 ul li{
+	display:table;
+	width:100%;
+	padding: -30px;
+}
+
+.hp_special_contents2 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents2 ul li a{
+	display:block;
+	padding:7px 25px 7px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+}
+
+.hp_special_contents2 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+	
+}
+
+.hp_special_contents2 ul li figure{
+	display:table-cell;
+	vertical-align:middle;
+	width:50px;
+	padding-right:5px;
+	line-height:0.1em;
+	font-size:1px;
+}
+
+.hp_special_contents2 ul li figure img{
+	width:50px;
+	height:auto;
+	border:1px solid #ccc;
+}
+
+
+.hp_special_contents2 ul li div{
+	display:table-cell;
+	vertical-align:middle;
+}
+/*枠付角丸リスト（サムネイルあり）<終了>*/
+/*枠なしリスト（サムネイルなし）*/
+.hp_special_contents3{
+	background: #fff;
+}
+
+.hp_special_contents3 ul li{
+	display:table;
+	width:100%;
+}
+
+.hp_special_contents3 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents3 ul li a{
+	display:block;
+	padding:18px 25px 18px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#585858;
+	margin-bottom: 0px;
+}
+
+.hp_special_contents3 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+/*枠なしリスト（サムネイルなし）<終了>*/
+/*枠なしリスト（サムネイルあり）*/
+.hp_special_contents4{
+	background: #fff;	
+}
+
+.hp_special_contents4 ul li{
+	display:table;
+	width:100%;
+}
+
+.hp_special_contents4 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents4 ul li a{
+	display:block;
+	padding:7px 25px 7px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+	margin-bottom: 0px;
+}
+
+.hp_special_contents4 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+
+.hp_special_contents4 ul li figure{
+	display:table-cell;
+	vertical-align:middle;
+	width:50px;
+	padding-right:5px;
+	line-height:0.1em;
+	font-size:1px;
+}
+
+.hp_special_contents4 ul li figure img{
+	width:50px;
+	height:auto;
+	border:1px solid #ccc;
+}
+
+
+.hp_special_contents4 ul li div{
+	display:table-cell;
+	vertical-align:middle;
+}
+/*枠なしリスト（サムネイルあり）<終了>*/
+/*枠付角丸リスト（メルマガ特設用CSS）*/
+.hp_special_contents5{
+	margin: 15px;
+}
+
+.hp_special_contents5 ul{
+	border:1px solid #f6efe2;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;	
+}
+
+
+.hp_special_contents5 ul li{
+	display:table;
+	width:100%;
+	padding: -30px;
+}
+
+.hp_special_contents5 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents5 ul li a{
+	display:block;
+	padding:7px 25px 7px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+}
+
+.hp_special_contents5 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+
+.hp_special_contents5 ul li figure{
+	display:table-cell;
+	vertical-align:middle;
+
+	padding:20px 6px 20px 6px;
+	line-height:0.1em;
+	font-size:13px;
+	border:2px solid #ccc;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;
+}
+
+.hp_special_contents5 ul li figure img{
+	width:50px;
+	height:auto;
+	border:1px solid #ccc;
+}
+
+
+.hp_special_contents5 ul li div{
+	display:table-cell;
+	vertical-align:middle;
+}
+/*枠付角丸リスト（メルマガ特設用CSS）<終了>*/
+/*枠なしリスト（年末年始特設index用）*/
+.hp_special_contents6{
+	background: #fff;
+}
+
+.hp_special_contents6 ul li{
+	display:table;
+	width:100%;
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents6 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents6 ul li a{
+	display:block;
+	padding:18px 25px 18px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+	margin-bottom: 0px;
+}
+
+.hp_special_contents6 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+/*枠なしリスト（年末年始特設index用）<終了>*/
+/*枠なしリスト（サムネイルなし）*/
+.hp_special_contents7{
+	margin: 15px;
+}
+
+hp_special_contents7 ul{
+	background-color: #00B4F0;
+	border:1px solid #00B4F0;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;	
+
+}
+
+.hp_special_contents7 ul li{
+	background-color: #00B4F0;
+	display:table;
+	width:100%;
+	padding: -30px;
+    -webkit-border-top-left-radius: 10px;  
+    -webkit-border-top-right-radius: 10px;  
+    -webkit-border-bottom-right-radius: 10px;  
+    -webkit-border-bottom-left-radius: 10px;  
+    -moz-border-radius-topleft: 10px;  
+    -moz-border-radius-topright: 10px;  
+    -moz-border-radius-bottomright: 10px;  
+    -moz-border-radius-bottomleft: 10px;  
+
+}
+
+.hp_special_contents7 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents7 ul li a{
+	display:block;
+	padding:18px 25px 18px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#ffffff;
+	margin-bottom: 0px;
+}
+
+.hp_special_contents7 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #ffffff;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+/*枠なしリスト（サムネイルなし）<終了>*/
+/*枠なしリスト（サムネイルなし）*/
+.hp_special_contents8{
+	margin: 15px;
+}
+
+hp_special_contents8 ul{
+	background-color: #1C1C1C;
+	border:1px solid #FF8000;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;	
+
+}
+
+.hp_special_contents8 ul li{
+	background-color: #D8D8D8;
+	display:table;
+	width:100%;
+	padding: -30px;
+    -webkit-border-top-left-radius: 10px;  
+    -webkit-border-top-right-radius: 10px;  
+    -webkit-border-bottom-right-radius: 10px;  
+    -webkit-border-bottom-left-radius: 10px;  
+    -moz-border-radius-topleft: 10px;  
+    -moz-border-radius-topright: 10px;  
+    -moz-border-radius-bottomright: 10px;  
+    -moz-border-radius-bottomleft: 10px;  
+
+}
+
+.hp_special_contents8 ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contents8 ul li {
+	display:block;
+	padding:18px 0px 18px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#ffffff;
+	margin-bottom: 0px;
+}
+
+.hp_special_contents8 ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #ffffff;
+	position:absolute;
+	top:45%;
+	right:10px;
+}
+/*枠なしリスト（サムネイルなし）<終了>*/
+
+/*枠あり応募フォーム用リスト（応募フォームリンク用）*/
+.hp_special_contentsex{
+	margin: 15px;
+}
+
+.hp_special_contentsex ul{
+	/*margin: 10px;*/
+	border:1px solid #f6efe2;
+	border-radius: 5px;	/* CSS3草案 */
+	-webkit-border-radius: 5px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px;
+}
+
+
+.hp_special_contentsex ul li{
+	display:table;
+	width:100%;
+	padding: -30px;
+}
+
+.hp_special_contentsex ul li:not(:last-child){
+	border-bottom:1px solid #f6efe2;
+}
+
+.hp_special_contentsex ul li a{
+	display:block;
+	padding:15px 25px 15px 7px;
+	position:relative;
+	text-decoration:none;
+	color:#574b35;
+}
+
+.hp_special_contentsex ul li a:after{
+	content: "";
+	display: block;
+	height: 0px;
+	width: 0px;
+	border: 4px solid transparent;
+	border-left-color: #e2a6a6;
+	position:absolute;
+	top:45%;
+	right:10px;
+	
+}
+/*枠あり応募フォーム用リスト（応募フォームリンク用）<終了>*/
+/*枠付角丸リスト見出し*/
+.content_title{
+	background-color: #f72f1f;
+	border-radius: 5px 5px 0px 0px;	/* CSS3草案 */
+	-webkit-border-radius: 5px 5px 0px 0px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px 5px 0px 0px;
+	padding:10px 25px 10px 7px;
+}
+
+.content_title div p{
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+.content_title2{
+	background-color: #787fdc;
+	padding:10px 25px 10px 7px;
+	border-radius: 5px 5px 0px 0px;	/* CSS3草案 */
+	-webkit-border-radius: 5px 5px 0px 0px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px 5px 0px 0px;
+}
+
+.content_title2 div p{
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+.content_title3{
+	background-color: #f72f1f;
+	color: #000;
+	padding:10px 25px 10px 7px;
+}
+
+.content_title3 div p{
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+.content_title4{
+	background-color: #10b0be;
+	color: #000;
+	padding:10px 25px 10px 7px;
+	border-radius: 5px 5px 0px 0px;	/* CSS3草案 */
+	-webkit-border-radius: 5px 5px 0px 0px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 5px 5px 0px 0px;
+	padding:10px 25px 10px 7px;
+}
+
+.content_title4 div p{
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+/*枠付角丸リスト見出し<終了>*/
+/*↑------------------↑*/
+
+
+/*↓見出し↓*/
+h1{/*スペシャルTOP見出し*/
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+	border-bottom: 1px solid #15567b;
+	color: #fff;
+	background: url(../../images/mypage_bg.png);/*見出し背景は「7*53」の画像を作成して変更する。*/
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+.menuRibbon {/*TOPメインコンテンツ各見出し*/
+	margin:0;
+	padding:10px 8px;
+	background: url(../../images/mypage_bg.png);
+	font-weight:bold;
+	border-bottom: 1px solid #15567b;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+.menuRibbon2 {/*TOPメインコンテンツ各見出し*/
+	margin:0;
+	padding:10px 8px;
+	background: url(../../images/mypage_bg.png);
+	font-weight:bold;
+	border-bottom: 1px solid #15567b;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+}
+/*↑------------------↑*/
+
+
+/*↓Music_Video↓*/
+.c_video {/*動画を表示するときに使用してください*/
+	text-align: center;
+	padding: 10px 0px;
+	font-size: 14px;
+	font-weight: bold;
+	border-bottom: 1px dotted #333;
+}
+
+.c_video2 {/*動画を表示するときに使用してください*/
+	text-align: center;
+	padding: 10px 0px;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+.music_video_nm_midashi {/* リンクボタンの見出しを挿入したい場合に使用。*/
+	text-align: center;
+	margin: 10px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.music_video_nm {/* リンクボタンとして使いたい場合に使用。*/
+	text-align: center;
+	margin: 15px 30px 15px 30px;
+}
+
+.music_video_nm p{
+	font-size: 12px;
+	background: -moz-linear-gradient(top, #fff, #F1F1F1 1%, #F1F1F1 50%, #DFDFDF 99%, #ccc);  
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(0.01, #F1F1F1), color-stop(0.5, #F1F1F1), color-stop(0.99, #DFDFDF), to(#ccc));
+	padding: 14px;
+	border-radius: 10px;
+	border:1px solid #ddd;
+	text-shadow: 1px 1px 3px #fff;
+}
+.music_video_nm p:hover {
+	background-color: #59b1eb;
+}
+
+/*↑------------------↑*/
+
+/*↓フッター付近SNSリンクボタン↓*/
+.SNS_LINQ{
+	margin: 10px 10px;
+}
+
+.SNS_LINQ ul{
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	text-align: center;
+}
+
+.SNS_LINQ ul li{
+	display: table-cell;
+}
+
+.SNS_LINQ ul li img{
+	-webkit-tap-highlight-color:rgba(128,128,128,0.8);
+}
+
+.SNS_TITLE {
+	margin: 15px 0px;
+}
+
+.SNS_TITLE p{
+	padding: 0px;
+	margin: 0px 15px -10px 15px;
+}
+
+.SNS_LINQ_box {
+	margin: 25px 0px 15px 0px;
+}
+
+/*↑------------------↑*/
+
+/*↓メンバー個別待受　写真とフッターの間にある文章の調整↓*/
+.sp_centertitle{
+	border-bottom: 1px dotted #708090;
+}
+
+.list_centertitle{
+	border-top: 1px dotted #708090;
+	text-align: center;
+	padding: 10px; 
+	margin-top: 20px;
+	padding:14px 14px 14px 1px;
+}
+
+.list_basictitle{
+	border-bottom: 0px;
+	padding:10px;
+	position: static;
+	padding: 10px 0px 10px 0px;
+	margin: 10px;
+	text-align: center;
+}
+/*↑------------------↑*/
+
+/*↓フッターボタン(各ページの固定遷移ボタン)↓*/
+.btnleft_sp{
+	position:absolute;
+	bottom:15px;
+	left:10px;
+}
+
+.btnright_sp{
+	position:absolute;
+	bottom:15px;
+	right:10px;
+}
+
+.btnrightin_sp{
+	position:absolute;
+	top:50%;
+	right:5px;
+	margin-top:-9px;
+}
+
+.btn_spaceleft_sp{
+	margin-left: 5px;
+}
+/*↑------------------↑*/
+/* 特設用アコーディオン */
+
+.cp_actab {
+position: relative;
+overflow: hidden;
+width: 100%;
+margin: 0 auto;
+color: #585858;
+}
+.cp_actab input {
+position: absolute;
+z-index: -1;
+opacity: 0;
+}
+.cp_actab label {
+line-height: 2;
+position: relative;
+display: block;
+padding: 10px;
+cursor: pointer;
+margin: 0 0 0px 0;
+background: #FFFFFF;
+}
+.cp_actab .cp_actab-content {
+overflow: hidden;
+max-height: 0;
+-webkit-transition: max-height 0.55s;
+transition: max-height 0.55s;
+color: #585858;
+background: #FFFFFF;
+}
+.cp_actab .cp_actab-content p {
+margin: 15px;
+}
+/* :checked */
+.cp_actab input:checked ~ .cp_actab-content {
+max-height: 20em;
+}
+/* Icon */
+.cp_actab label::after {
+line-height: 3;
+position: absolute;
+top: 0;
+right: 0;
+display: block;
+color: #E3A6A6;
+width: 3em;
+height: 3em;
+-webkit-transition: all 0.45s;
+transition: all 0.55s;
+text-align: center;
+}
+.cp_actab input[type=checkbox] + label::after {
+content: '▼';
+}
+.cp_actab input[type=checkbox]:checked + label::after {
+transform: rotate(270deg);
+}
+
+/*↑------------------↑*/
+
+/*↓メルマガ特設用CSS↓*/
+.sp_mailmag_1{
+	margin: 10px 0 0px 10px;
+	padding: 8px 0 13px 0;
+	border-top:1px solid #d6d6d6;
+	border-bottom:1px solid #d6d6d6;
+	line-height:1.6em;
+	color: #333;
+}
+
+.sp_mailmag_2{
+	margin: 0px 10px 10px 10px;
+	padding: 10px;
+	line-height:1.5em;
+	color: #333;
+}
+
+.sp_mailmag_3{
+	padding: 10px 0 10px 0;
+	border-top:1px dashed #333;
+	border-bottom:1px dashed #333;
+}
+
+.sp_mailmag_4{
+	margin: 10px;
+}
+
+.sp_mailmag_4 p{
+	padding: 10px;
+	margin: 10px 0;
+	border-top:1px dashed #333;
+	border-bottom:1px dashed #333;
+}
+/*↑------------------↑*/
+
+/*↓ネガティブマージン（固定フッターが重なった時に使用する）↓*/
+.sp_bottom {
+	margin-bottom: -56px; /* 固定ナビの高さ分のネガティブマージン */
+	padding-bottom: 56px; /* 打ち消し用のパディング */
+}
+/*↑------------------↑*/
+
+/*↓各コンテンツ文字の調整↓*/
+.content_m {
+	padding: 0 0 0 5px;
+	
+}
+/*↑------------------↑*/
+
+
+label {
+    background: green;
+    color: #fff;
+    padding: 10px;
+    display: block;
+    margin: 0;
+    border: 1px solid #fff;
+}
+
+input[type="checkbox"].on-off{
+    display: none;
+}
+
+.mor_test ul {
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.mor_test li {
+    padding: 5px;
+}
+
+input[type="checkbox"].on-off + ul{
+    height: 0;
+    overflow: hidden;
+}
+
+input[type="checkbox"].on-off:checked + ul{
+    height: 200px;
+}
+
+/* Accordion*/
+.child {
+    display: none;
+}

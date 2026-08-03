@@ -3,10 +3,64 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="refresh" content="0; url=outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/index.html">
-  <title>ハロー！Q&A アーカイブ</title>
+  <title>ハロモバ保存アーカイブ</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f5f7fb;
+      color: #182235;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1 {
+      margin: 0 0 18px;
+      font-size: 26px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+    a.card {
+      display: block;
+      padding: 18px;
+      border: 1px solid #dbe3ef;
+      border-radius: 8px;
+      background: #fff;
+      color: inherit;
+      text-decoration: none;
+      box-shadow: 0 8px 24px rgba(20, 36, 64, .06);
+    }
+    .title {
+      display: block;
+      font-size: 18px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+    .desc {
+      color: #617089;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+  </style>
 </head>
 <body>
-  <p><a href="outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/index.html">ハロー！Q&amp;A アーカイブを開く</a></p>
+  <main>
+    <h1>ハロモバ保存アーカイブ</h1>
+    <div class="grid">
+      <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/index.html">
+        <span class="title">ハロー！Q&amp;A</span>
+        <span class="desc">保存済みQ&amp;Aをグループ別に閲覧できます。</span>
+      </a>
+      <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/special_events/index.html">
+        <span class="title">特設イベント書き物</span>
+        <span class="desc">暑中見舞い・クリスマスカードなどの直筆企画を保存しています。</span>
+      </a>
+    </div>
+  </main>
 </body>
 </html>
