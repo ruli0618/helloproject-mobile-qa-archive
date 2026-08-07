@@ -1,0 +1,35 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "25202",
+    "content_title": "福岡",
+    "content_sub_title": "野中美希",
+    "category_id": "192",
+    "release_date": "2025-10-29 00:00:00",
+    "created_at": "2025-10-29 13:11:01",
+    "updated_at": "2025-10-29 13:11:01",
+    "is_new": 0,
+    "content_text": "野中美希です！\r\n秋ツアー福岡公演が終了しました。\r\n\r\nモーニング娘。初代リーダーの中澤裕子さんが、コンサートを観に来てくださいました！\r\n\r\n中澤さんとお会いするのは、Hulu「モーニング娘。の未来もWow Wowリーダー会議」ぶりでした。当日は、収録中も収録後も、本当にたくさんお話することができました！福岡にてまたお会いすることができて幸せでした<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\ns-nonaka_1.jpg\r\n\r\n中澤さんから、たくさんの素敵なお言葉をかけていただきました。そのお言葉を胸に、ツアー後半戦も楽しんでいきます<img src=\"/emoji/emoji-images/f653.gif\"/>\r\n\r\ns-nonaka_2.jpg\r\n\r\n福岡で食べたカレー<img src=\"/emoji/emoji-images/f38a.gif\"/>\r\nらいりーとごはん食べました！\r\n\r\nコンサートに来てくださったみなさん、遠くから応援してくださっていたみなさん、ありがとうございました‎♡\r\n\r\nそれでわん<img src=\"/emoji/emoji-images/4772.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "05083cb5d4a06563c29d0b0a11b22cb4",
+        "material_id": "20611",
+        "material_title": "s-nonaka_2.jpg",
+        "material_file": "ab3ad189d432b029ff062210c67aaa9a470f81f325f897b309d03be812c5fc9520611.jpeg"
+      },
+      {
+        "secretKey": "05083cb5d4a06563c29d0b0a11b22cb4",
+        "material_id": "20612",
+        "material_title": "s-nonaka_1.jpg",
+        "material_file": "fdf6b9ed0c31ebb3873658f98575238f50da208ccb5463a66601a75ca064c89b20612.jpeg"
+      }
+    ],
+    "previous_id": "25206",
+    "next_id": "25178"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

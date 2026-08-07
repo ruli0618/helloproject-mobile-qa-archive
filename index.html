@@ -7,18 +7,20 @@
   <style>
     body {
       margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
       background: #f5f7fb;
       color: #182235;
+      line-height: 1.6;
     }
     main {
-      max-width: 960px;
+      max-width: 980px;
       margin: 0 auto;
       padding: 24px;
     }
     h1 {
       margin: 0 0 18px;
       font-size: 26px;
+      line-height: 1.3;
     }
     .grid {
       display: grid;
@@ -27,6 +29,7 @@
     }
     a.card {
       display: block;
+      min-height: 128px;
       padding: 18px;
       border: 1px solid #dbe3ef;
       border-radius: 8px;
@@ -44,7 +47,6 @@
     .desc {
       color: #617089;
       font-size: 14px;
-      line-height: 1.6;
     }
   </style>
 </head>
@@ -54,15 +56,19 @@
     <div class="grid">
       <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/index.html">
         <span class="title">ハロー！Q&amp;A</span>
-        <span class="desc">保存済みQ&amp;Aをグループ別に閲覧できます。</span>
+        <span class="desc">保存済みQ&amp;Aをグループ別・検索つきで閲覧できます。</span>
       </a>
       <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_pedia/index.html">
         <span class="title">ハロー！ペディア</span>
         <span class="desc">ハロ！モバ宣伝会議連動の辞書コンテンツを閲覧できます。</span>
       </a>
+      <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/tour_diary/index.html">
+        <span class="title">ツアー日記</span>
+        <span class="desc">ツアーごとの日記本文と画像をまとめて閲覧できます。</span>
+      </a>
       <a class="card" href="outputs/helloproject-mobile-archive/helloproject-mobile.com/special_events/index.html">
         <span class="title">特設イベント書き物</span>
-        <span class="desc">暑中見舞い・クリスマスカードなどの直筆企画を保存しています。</span>
+        <span class="desc">暑中見舞い、年始、クリスマスカードなどの直筆画像を保存しています。</span>
       </a>
     </div>
   </main>

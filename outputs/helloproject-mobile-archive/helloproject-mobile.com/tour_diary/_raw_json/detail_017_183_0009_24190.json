@@ -1,0 +1,35 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "24190",
+    "content_title": "静岡公演",
+    "content_sub_title": "野中美希",
+    "category_id": "183",
+    "release_date": "2025-04-17 15:09:00",
+    "created_at": "2025-04-17 15:09:49",
+    "updated_at": "2025-04-17 15:09:49",
+    "is_new": 0,
+    "content_text": "静岡公演が終了しました！\r\n2年ぶりの静岡での公演、\r\nとても楽しみにしていました。\r\n\r\n弓桁朱琴ちゃんと一緒に\r\n「ただいま」をいえたこと、\r\nメンバーが静岡を楽しんでくれたこと、\r\n生田さんラストツアーで静岡に来れたこと！\r\nそして何よりファンのみなさんと\r\n大切な時間を共有できたこと！\r\n\r\n全てが幸せな瞬間でした。\r\nありがとうございました！\r\n\r\n0417_nonaka_01_s.jpg\r\n\r\n0417_nonaka_02_.jpg\r\n\r\n静岡に貢献できるよう、\r\nこれからも精進します！",
+    "materials": [
+      {
+        "secretKey": "2b4cde20ffdcadaf96df66df7eece968",
+        "material_id": "19822",
+        "material_title": "0417_nonaka_02_.jpg",
+        "material_file": "9da497142990605972a6506e2ebe0554577152c557b9994773943842e342c82b19822.jpeg"
+      },
+      {
+        "secretKey": "2b4cde20ffdcadaf96df66df7eece968",
+        "material_id": "19823",
+        "material_title": "0417_nonaka_01_s.jpg",
+        "material_file": "61e00101bb20e7bb9dc109b784bb506c54a5b2e85e1f545e1faf29a45577337019823.jpeg"
+      }
+    ],
+    "previous_id": "24197",
+    "next_id": "24189"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "category": [
+    {
+      "idx": 21,
+      "category_id": "187",
+      "category_title": "BEYOOOOONDS CONCERT TOUR 2025 SPRING 〜Take Me Out To The BALLROOOOOM！〜",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 22,
+      "category_id": "188",
+      "category_title": "OCHA NORMA LIVE TOUR 2025 〜ウチらの地元は日本じゃん！〜",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 23,
+      "category_id": "182",
+      "category_title": "Hello! Project 2025 Winter Fes.「各」「合」",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 24,
+      "category_id": "176",
+      "category_title": "モーニング娘。'24 コンサートツアー秋 WE CAN DANCE !",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 25,
+      "category_id": "177",
+      "category_title": "ANGERME 10th ANNIVERSARY TOUR 2024 AUTUMN「ROOTS」",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 26,
+      "category_id": "178",
+      "category_title": "Juice=Juice Concert Tour 2024 TRIANGROOOVE2",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 27,
+      "category_id": "179",
+      "category_title": "つばきファクトリー ライブツアー2024秋 -鼓動-",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 28,
+      "category_id": "180",
+      "category_title": "BEYOOOOONDS CONCERT TOUR 2024 AUTUMN「DISCOOOOOTHEQUE」",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 29,
+      "category_id": "181",
+      "category_title": "OCHA NORMA LIVE TOUR 2024 season2 〜ウチらの地元は日本じゃん！〜",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

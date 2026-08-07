@@ -1,0 +1,29 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "23115",
+    "content_title": "最高",
+    "content_sub_title": "有澤一華",
+    "category_id": "178",
+    "release_date": "2024-10-16 13:49:00",
+    "created_at": "2024-10-16 13:54:03",
+    "updated_at": "2024-10-16 13:54:03",
+    "is_new": 0,
+    "content_text": "今日は大阪でライブでした〜！\r\n地元〜！！！！やっぱ会場がソース味のたこ焼きの匂いがしました（感覚）\r\n湯気と鰹節が頭から出てましたよー！\r\n\r\nまた大阪でライブできますよーに！\r\n\r\n1016_arisawa_s.jpg",
+    "materials": [
+      {
+        "secretKey": "fcec4d42c0bc212ef57127afe61f5791",
+        "material_id": "18913",
+        "material_title": "1016_arisawa_s.jpg",
+        "material_file": "1362f3a097c03a766e7377913e534f137a256e79bd140deaef7484432077204718913.jpeg"
+      }
+    ],
+    "previous_id": "23235",
+    "next_id": "23114"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}
