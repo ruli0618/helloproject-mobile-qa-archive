@@ -18,7 +18,16 @@ function dateOnly(value) {
 }
 
 function textToHtml(text) {
-  return esc(text || '').replace(/\r?\n/g, '<br>');
+  return esc(text || '')
+    .replace(
+      /&lt;img src=&quot;\/emoji\/emoji-images\/([^&"<>/]+\.gif)&quot;\/&gt;/g,
+      '<img class="emoji" loading="lazy" src="assets/emoji/emoji-images/$1" alt="">',
+    )
+    .replace(
+      /&lt;img src=&quot;\/emoji\/emoji-images\/([^&"<>/]+\.gif)&quot;\/(?=(?:\r?\n|$))/g,
+      '<img class="emoji" loading="lazy" src="assets/emoji/emoji-images/$1" alt="">',
+    )
+    .replace(/\r?\n/g, '<br>');
 }
 
 function removeMaterialFileNames(text, materials) {
@@ -35,11 +44,16 @@ function navLink(href, label) {
   return `<a class="archive-link" href="${href}">${esc(label)}</a>`;
 }
 
+function buildSourceUrl(category, entry, detail) {
+  return `http://helloproject-mobile.com/dialy/tour/detail?content_id=${encodeURIComponent(detail.content_id || entry.list.content_id)}&menu_id=2&category_id=${encodeURIComponent(category.category_id)}&category_title=${encodeURIComponent(category.category_title)}&idx=${encodeURIComponent(detail.idx || entry.list.idx || '')}`;
+}
+
 function main() {
   const archive = JSON.parse(fs.readFileSync(ARCHIVE, 'utf8'));
   const categories = archive.categories || [];
   const entries = archive.entries || [];
   const byCategory = new Map();
+
   for (const category of categories) byCategory.set(category.category_id, []);
   for (const entry of entries) {
     const key = entry.category.category_id;
@@ -63,7 +77,7 @@ function main() {
         detail.content_sub_title,
         body,
       ].join(' ');
-      const sourceUrl = `http://helloproject-mobile.com/dialy/tour/detail?content_id=${encodeURIComponent(detail.content_id || entry.list.content_id)}&menu_id=2&category_id=${encodeURIComponent(category.category_id)}&category_title=${encodeURIComponent(category.category_title)}&idx=${encodeURIComponent(detail.idx || entry.list.idx || '')}`;
+      const sourceUrl = buildSourceUrl(category, entry, detail);
       return `<article class="diary-card" data-category="${esc(category.category_id)}" data-search="${esc(search)}">
   <header>
     <div>
@@ -93,7 +107,7 @@ function main() {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ツアー日記 アーカイブ</title>
+<title>ツアー日記アーカイブ</title>
 <style>
 :root{color-scheme:light;--ink:#162033;--sub:#637083;--line:#dbe3ee;--soft:#f4f7fb;--panel:#fff;--accent:#0b7fab;--warm:#d15f2f}
 *{box-sizing:border-box}body{margin:0;background:var(--soft);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.72;letter-spacing:0}
@@ -104,13 +118,13 @@ nav{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);ove
 input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff}.clear{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;color:var(--ink);font-size:13px}
 .tour-button{display:flex;align-items:center;gap:8px;width:100%;min-height:36px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);text-align:left;font-size:13px}.tour-button span,h2 span{width:10px;height:10px;border-radius:50%;background:var(--accent);flex:0 0 auto}.tour-button strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.tour-button b,h2 b{margin-left:auto;color:var(--sub);font-size:12px}.tour-button.active{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent),transparent 78%);background:color-mix(in srgb,var(--accent),#fff 92%)}
 .tour-section{margin-bottom:30px;content-visibility:auto;contain-intrinsic-size:1000px}h2{display:flex;align-items:center;gap:8px;font-size:20px;line-height:1.35;margin:4px 0 12px}
-.diary-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden;content-visibility:auto;contain-intrinsic-size:360px}.diary-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h3{font-size:18px;line-height:1.42;margin:1px 0 0}.member{margin:3px 0 0;color:#174154;font-weight:700}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.body{padding:14px;font-size:15px;overflow-wrap:anywhere}.images{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;padding:0 14px 14px}figure{margin:0;border:1px solid #edf1f6;border-radius:8px;overflow:hidden;background:#fff}img{display:block;width:100%;height:auto}figcaption{padding:6px 8px;color:var(--sub);font-size:12px;overflow-wrap:anywhere}.hidden{display:none!important}
+.diary-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden;content-visibility:auto;contain-intrinsic-size:360px}.diary-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h3{font-size:18px;line-height:1.42;margin:1px 0 0}.member{margin:3px 0 0;color:#174154;font-weight:700}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.body{padding:14px;font-size:15px;overflow-wrap:anywhere}.body img.emoji{display:inline-block;width:1.25em;height:1.25em;vertical-align:-.2em;margin:0 .04em}.images{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;padding:0 14px 14px}figure{margin:0;border:1px solid #edf1f6;border-radius:8px;overflow:hidden;background:#fff}img{display:block;width:100%;height:auto}figcaption{padding:6px 8px;color:var(--sub);font-size:12px;overflow-wrap:anywhere}.hidden{display:none!important}
 @media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}nav{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.controls{grid-template-columns:1fr auto}.controls .tour-button{grid-column:1/-1}.tour-section{padding:12px;margin:0;content-visibility:visible;contain-intrinsic-size:auto}h2{font-size:18px}.diary-card{border-left:0;border-right:0;border-radius:0;margin:0 -12px 10px;content-visibility:visible;contain-intrinsic-size:auto}.diary-card header{grid-template-columns:1fr;gap:6px;padding:11px 12px}.source{justify-self:start}.body{padding:12px}.images{grid-template-columns:1fr;padding:0 12px 12px}}
 </style>
 </head>
 <body>
 <header class="hero"><div class="hero-inner">
-  <h1>ツアー日記 アーカイブ</h1>
+  <h1>ツアー日記アーカイブ</h1>
   <div class="meta">
     <span class="pill">ツアー ${categories.length}件</span>
     <span class="pill">日記 ${entries.length}件</span>
