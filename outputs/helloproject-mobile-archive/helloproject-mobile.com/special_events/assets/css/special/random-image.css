@@ -1,0 +1,17 @@
+
+
+
+
+
+/*↑---------ランダムボタン---------↑*/
+ul#random-image {
+	width : 100%;
+	margin : 20px auto;
+	list-style-type : none;
+}
+
+ul#random-image li{
+	display : none;
+}
+
+/*↑---------ランダムボタン---------↑*/

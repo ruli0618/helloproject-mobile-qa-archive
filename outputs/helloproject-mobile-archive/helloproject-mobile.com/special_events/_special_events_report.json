@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-03T10:05:35.086Z",
-  "event_seed_count": 3,
-  "page_count": 204,
-  "asset_count": 281,
-  "downloaded_assets": 281,
+  "generated_at": "2026-08-10T16:35:33.364Z",
+  "note": "Seasonal candidates were inferred from the official X account text and probed against /info/special/content?page=.../index.",
+  "event_seed_count": 6,
+  "page_count": 398,
+  "asset_count": 542,
+  "downloaded_assets": 1,
   "eventSeeds": [
     {
       "idx": 1,
@@ -33,12 +34,30 @@
       "content_sub_title": "xmas_2025/index.html",
       "release_date": "2025",
       "content_id": "discovered-xmas-2025"
+    },
+    {
+      "content_title": "年末特集 2025",
+      "content_sub_title": "nenmatsu_2025/index.html",
+      "release_date": "2025",
+      "content_id": "discovered-nenmatsu-2025"
+    },
+    {
+      "content_title": "年始特設 2026",
+      "content_sub_title": "nenshi_2026/index.html",
+      "release_date": "2026",
+      "content_id": "discovered-nenshi-2026"
+    },
+    {
+      "content_title": "前田こころの今月の一言！",
+      "content_sub_title": "maeda_word/index.html",
+      "release_date": "",
+      "content_id": "support-maeda-word"
     }
   ],
   "pages": [
     {
       "page": "syotyuumimai_2026/index.html",
-      "source": "api",
+      "source": "seed",
       "title": "暑中見舞い特設",
       "release_date": "2026-07-09 11:00:00",
       "content_id": "26560",
@@ -47,7 +66,7 @@
     },
     {
       "page": "syotyuumimai_2025/index.html",
-      "source": "api",
+      "source": "seed",
       "title": "暑中見舞い特設 2025",
       "release_date": "2025",
       "content_id": "discovered-syotyuumimai-2025",
@@ -56,12 +75,39 @@
     },
     {
       "page": "xmas_2025/index.html",
-      "source": "api",
+      "source": "seed",
       "title": "クリスマス特集 2025",
       "release_date": "2025",
       "content_id": "discovered-xmas-2025",
       "url": "http://helloproject-mobile.com/info/special/content?page=xmas_2025/index.html",
       "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\xmas_2025\\index.html"
+    },
+    {
+      "page": "nenmatsu_2025/index.html",
+      "source": "seed",
+      "title": "年末特集 2025",
+      "release_date": "2025",
+      "content_id": "discovered-nenmatsu-2025",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\index.html"
+    },
+    {
+      "page": "nenshi_2026/index.html",
+      "source": "seed",
+      "title": "年始特設 2026",
+      "release_date": "2026",
+      "content_id": "discovered-nenshi-2026",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\index.html"
+    },
+    {
+      "page": "maeda_word/index.html",
+      "source": "seed",
+      "title": "前田こころの今月の一言！",
+      "release_date": "",
+      "content_id": "support-maeda-word",
+      "url": "http://helloproject-mobile.com/info/special/content?page=maeda_word/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\maeda_word\\index.html"
     },
     {
       "page": "syotyuumimai_2026/morningmusume/nonaka.html",
@@ -1252,30 +1298,1169 @@
       "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\xmas_2025\\rosychronicle\\soma.html"
     },
     {
-      "page": "syotyuumimai_2026/index",
-      "source": "syotyuumimai_2026/morningmusume/nonaka.html",
-      "url": "http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2026/index",
-      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\syotyuumimai_2026\\index.html"
+      "page": "nenmatsu_2025/morningmusume/nonaka.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/nonaka.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\nonaka.html"
     },
     {
-      "page": "syotyuumimai_2025/index",
-      "source": "syotyuumimai_2025/morningmusume/nonaka.html",
-      "url": "http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2025/index",
-      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\syotyuumimai_2025\\index.html"
+      "page": "nenmatsu_2025/morningmusume/oda.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/oda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\oda.html"
     },
     {
-      "page": "xmas_2025/index",
-      "source": "xmas_2025/morningmusume/nonaka.html",
-      "url": "http://helloproject-mobile.com/info/special/content?page=xmas_2025/index",
-      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\xmas_2025\\index.html"
+      "page": "nenmatsu_2025/morningmusume/makino.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/makino.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\makino.html"
+    },
+    {
+      "page": "nenmatsu_2025/morningmusume/okamura.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\okamura.html"
+    },
+    {
+      "page": "nenmatsu_2025/morningmusume/yamazaki.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/yamazaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\yamazaki.html"
+    },
+    {
+      "page": "nenmatsu_2025/morningmusume/sakurai.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/sakurai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\sakurai.html"
+    },
+    {
+      "page": "nenmatsu_2025/morningmusume/inoue.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\inoue.html"
+    },
+    {
+      "page": "nenmatsu_2025/morningmusume/yumigeta.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/morningmusume/yumigeta.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\morningmusume\\yumigeta.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/ise.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/ise.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\ise.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/tamenaga.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/tamenaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\tamenaga.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/hashisako.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/hashisako.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\hashisako.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/kawana.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/kawana.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\kawana.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/matsumoto.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/matsumoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\matsumoto.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/hirayama.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/hirayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\hirayama.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/shimoitani.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/shimoitani.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\shimoitani.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/goto.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/goto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\goto.html"
+    },
+    {
+      "page": "nenmatsu_2025/angerme/nagano.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/angerme/nagano.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\angerme\\nagano.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/dambara.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/dambara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\dambara.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/inoue.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\inoue.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/kudo.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/kudo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\kudo.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/matsunaga.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/matsunaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\matsunaga.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/arisawa.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/arisawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\arisawa.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/irie.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/irie.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\irie.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/ebata.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/ebata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\ebata.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/ishiyama.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/ishiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\ishiyama.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/endo.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/endo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\endo.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/kawashima.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/kawashima.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\kawashima.html"
+    },
+    {
+      "page": "nenmatsu_2025/juicejuice/hayashi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/juicejuice/hayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\juicejuice\\hayashi.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/tanimoto.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/tanimoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\tanimoto.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/ono.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/ono.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\ono.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/onoda.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\onoda.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/akiyama.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/akiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\akiyama.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/kasai.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/kasai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\kasai.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/fukuda.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/fukuda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\fukuda.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/yofu.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/yofu.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\yofu.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/ishii.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/ishii.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\ishii.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/murata.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/murata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\murata.html"
+    },
+    {
+      "page": "nenmatsu_2025/tsubakifactory/doi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/tsubakifactory/doi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\tsubakifactory\\doi.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/nishida.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/nishida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\nishida.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/eguchi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/eguchi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\eguchi.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/takase.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/takase.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\takase.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/maeda.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/maeda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\maeda.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/okamura.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\okamura.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/hirai.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/hirai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\hirai.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/kobayashi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/kobayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\kobayashi.html"
+    },
+    {
+      "page": "nenmatsu_2025/beyooooonds/satoyoshi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/beyooooonds/satoyoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\beyooooonds\\satoyoshi.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/saito.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/saito.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\saito.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/hiromoto.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/hiromoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\hiromoto.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/yonemura.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/yonemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\yonemura.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/kubota.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/kubota.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\kubota.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/nakayama.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/nakayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\nakayama.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/nishizaki.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/nishizaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\nishizaki.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/kitahara.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/kitahara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\kitahara.html"
+    },
+    {
+      "page": "nenmatsu_2025/ochanorma/tsutsui.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/ochanorma/tsutsui.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\ochanorma\\tsutsui.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/hashida.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/hashida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\hashida.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/yoshida.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/yoshida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\yoshida.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/onoda.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\onoda.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/murakoshi.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/murakoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\murakoshi.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/uemura.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/uemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\uemura.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/matsubara.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/matsubara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\matsubara.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/shimakawa.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/shimakawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\shimakawa.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/kamimura.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/kamimura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\kamimura.html"
+    },
+    {
+      "page": "nenmatsu_2025/rosychronicle/soma.html",
+      "source": "nenmatsu_2025/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenmatsu_2025/rosychronicle/soma.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenmatsu_2025\\rosychronicle\\soma.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/index.html",
+      "source": "nenshi_2026/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\index.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/index.html",
+      "source": "nenshi_2026/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\index.html"
+    },
+    {
+      "page": "nenshi_2026/omikuji/index.html",
+      "source": "nenshi_2026/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/omikuji/index.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\omikuji\\index.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/nonaka.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/nonaka.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\nonaka.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/oda.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/oda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\oda.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/makino.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/makino.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\makino.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/okamura.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\okamura.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/yamazaki.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/yamazaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\yamazaki.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/sakurai.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/sakurai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\sakurai.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/inoue.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\inoue.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/morningmusume/yumigeta.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/morningmusume/yumigeta.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\morningmusume\\yumigeta.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/ise.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/ise.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\ise.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/tamenaga.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/tamenaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\tamenaga.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/hashisako.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/hashisako.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\hashisako.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/kawana.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/kawana.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\kawana.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/matsumoto.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/matsumoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\matsumoto.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/hirayama.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/hirayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\hirayama.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/shimoitani.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/shimoitani.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\shimoitani.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/goto.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/goto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\goto.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/nagano.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/nagano.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\nagano.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/dambara.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/dambara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\dambara.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/inoue.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\inoue.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/kudo.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/kudo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\kudo.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/matsunaga.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/matsunaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\matsunaga.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/arisawa.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/arisawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\arisawa.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/irie.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/irie.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\irie.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/ebata.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/ebata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\ebata.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/ishiyama.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/ishiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\ishiyama.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/endo.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/endo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\endo.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/kawashima.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/kawashima.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\kawashima.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/juicejuice/hayashi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/juicejuice/hayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\juicejuice\\hayashi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/tanimoto.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/tanimoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\tanimoto.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/ono.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/ono.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\ono.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/onoda.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\onoda.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/akiyama.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/akiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\akiyama.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/kasai.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/kasai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\kasai.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/fukuda.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/fukuda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\fukuda.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/yofu.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/yofu.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\yofu.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/ishii.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/ishii.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\ishii.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/murata.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/murata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\murata.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/tsubakifactory/doi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/tsubakifactory/doi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\tsubakifactory\\doi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/nishida.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/nishida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\nishida.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/eguchi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/eguchi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\eguchi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/takase.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/takase.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\takase.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/maeda.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/maeda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\maeda.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/okamura.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\okamura.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/hirai.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/hirai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\hirai.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/kobayashi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/kobayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\kobayashi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/beyooooonds/satoyoshi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/beyooooonds/satoyoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\beyooooonds\\satoyoshi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/saito.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/saito.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\saito.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/hiromoto.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/hiromoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\hiromoto.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/yonemura.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/yonemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\yonemura.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/kubota.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/kubota.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\kubota.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/nakayama.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/nakayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\nakayama.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/nishizaki.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/nishizaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\nishizaki.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/kitahara.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/kitahara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\kitahara.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/ochanorma/tsutsui.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/ochanorma/tsutsui.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\ochanorma\\tsutsui.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/hashida.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/hashida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\hashida.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/yoshida.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/yoshida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\yoshida.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/onoda.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\onoda.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/murakoshi.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/murakoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\murakoshi.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/uemura.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/uemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\uemura.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/matsubara.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/matsubara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\matsubara.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/shimakawa.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/shimakawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\shimakawa.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/kamimura.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/kamimura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\kamimura.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/rosychronicle/soma.html",
+      "source": "nenshi_2026/nengajo/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/rosychronicle/soma.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\rosychronicle\\soma.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/nonaka.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/nonaka.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\nonaka.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/oda.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/oda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\oda.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/makino.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/makino.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\makino.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/okamura.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\okamura.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/yamazaki.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/yamazaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\yamazaki.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/sakurai.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/sakurai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\sakurai.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/inoue.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\inoue.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/morningmusume/yumigeta.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/morningmusume/yumigeta.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\morningmusume\\yumigeta.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/ise.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/ise.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\ise.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/tamenaga.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/tamenaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\tamenaga.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/hashisako.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/hashisako.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\hashisako.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/kawana.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/kawana.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\kawana.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/matsumoto.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/matsumoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\matsumoto.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/hirayama.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/hirayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\hirayama.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/shimoitani.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/shimoitani.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\shimoitani.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/goto.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/goto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\goto.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/nagano.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/nagano.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\nagano.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/dambara.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/dambara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\dambara.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/inoue.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/inoue.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\inoue.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/kudo.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/kudo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\kudo.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/matsunaga.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/matsunaga.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\matsunaga.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/arisawa.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/arisawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\arisawa.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/irie.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/irie.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\irie.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/ebata.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/ebata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\ebata.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/ishiyama.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/ishiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\ishiyama.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/endo.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/endo.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\endo.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/kawashima.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/kawashima.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\kawashima.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/juicejuice/hayashi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/juicejuice/hayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\juicejuice\\hayashi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/tanimoto.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/tanimoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\tanimoto.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/ono.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/ono.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\ono.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/onoda.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\onoda.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/akiyama.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/akiyama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\akiyama.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/kasai.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/kasai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\kasai.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/fukuda.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/fukuda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\fukuda.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/yofu.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/yofu.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\yofu.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/ishii.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/ishii.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\ishii.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/murata.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/murata.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\murata.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/tsubakifactory/doi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/tsubakifactory/doi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\tsubakifactory\\doi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/nishida.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/nishida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\nishida.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/eguchi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/eguchi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\eguchi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/takase.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/takase.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\takase.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/maeda.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/maeda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\maeda.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/okamura.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/okamura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\okamura.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/hirai.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/hirai.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\hirai.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/kobayashi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/kobayashi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\kobayashi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/beyooooonds/satoyoshi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/beyooooonds/satoyoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\beyooooonds\\satoyoshi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/saito.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/saito.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\saito.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/hiromoto.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/hiromoto.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\hiromoto.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/yonemura.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/yonemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\yonemura.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/kubota.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/kubota.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\kubota.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/nakayama.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/nakayama.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\nakayama.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/nishizaki.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/nishizaki.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\nishizaki.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/kitahara.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/kitahara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\kitahara.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/ochanorma/tsutsui.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/ochanorma/tsutsui.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\ochanorma\\tsutsui.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/hashida.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/hashida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\hashida.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/yoshida.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/yoshida.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\yoshida.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/onoda.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/onoda.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\onoda.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/murakoshi.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/murakoshi.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\murakoshi.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/uemura.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/uemura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\uemura.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/matsubara.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/matsubara.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\matsubara.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/shimakawa.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/shimakawa.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\shimakawa.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/kamimura.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/kamimura.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\kamimura.html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/rosychronicle/soma.html",
+      "source": "nenshi_2026/shinnen/index.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/rosychronicle/soma.html",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\rosychronicle\\soma.html"
+    },
+    {
+      "page": "nenshi_2026/nengajo/angerme/nagano.html ",
+      "source": "nenshi_2026/nengajo/angerme/ise.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/nengajo/angerme/nagano.html ",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\nengajo\\angerme\\nagano.html .html"
+    },
+    {
+      "page": "nenshi_2026/shinnen/angerme/nagano.html ",
+      "source": "nenshi_2026/shinnen/angerme/ise.html",
+      "url": "http://helloproject-mobile.com/info/special/content?page=nenshi_2026/shinnen/angerme/nagano.html ",
+      "file": "outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\special_events\\pages\\nenshi_2026\\shinnen\\angerme\\nagano.html .html"
     }
   ],
-  "errors": [
-    {
-      "page": "syotyuumimai_2026/tsubakifactory/11_nishimura.html",
-      "source": "syotyuumimai_2026/tsubakifactory/doi.html",
-      "url": "http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2026/tsubakifactory/11_nishimura.html",
-      "error": "500 http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2026/tsubakifactory/11_nishimura.html"
-    }
-  ]
+  "errors": []
 }
