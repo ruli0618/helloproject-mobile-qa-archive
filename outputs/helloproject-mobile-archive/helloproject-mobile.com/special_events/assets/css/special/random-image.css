@@ -1,17 +1,20 @@
-
-
-
-
-
-/*↑---------ランダムボタン---------↑*/
 ul#random-image {
-	width : 100%;
-	margin : 20px auto;
-	list-style-type : none;
+  width: 100%;
+  margin: 20px auto;
+  list-style-type: none;
 }
 
-ul#random-image li{
-	display : none;
+ul#random-image li {
+  display: none;
 }
 
-/*↑---------ランダムボタン---------↑*/
+ul#random-image li .img_guard_body {
+  max-width: min(360px, 88vw);
+  margin: 0 auto;
+}
+
+ul#random-image li img.full {
+  display: block;
+  width: 100%;
+  height: auto;
+}
