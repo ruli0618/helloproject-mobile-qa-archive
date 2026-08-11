@@ -4,9 +4,7 @@
     <meta charset="UTF-8"/>
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="expires" content="0" />
-    <meta http-equiv="x-xrds-location" content="http://helloproject-mobile.com/authorize/docomo/xrds" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="ハロー！プロジェクト　公式サイト　ハロプロメンバーの最新情報が満載！" />
     <meta name="keywords" content="ハロプロ,ハロー!プロジェクト,モーニング娘。’14,モームス,もーむす,モー娘。,モーむす,道重さゆみ,Berryz工房,べりーず,ベリーズ,嗣永桃子,℃-ute,キュート,きゅーと,ベリキュ,s/mileage,スマイレージ,Juice=Juice,ジュースジュース" />
     <title>ハロ！プロモバイル</title>
@@ -14,36 +12,8 @@
     <link rel="stylesheet" href="../../../../assets/css/style.css">
     <link rel="stylesheet" href="../../../../assets/css/jquery.mobile.custom.structure.min.css">
     <link rel="stylesheet" href="../../../../assets/css/jquery.mobile.custom.theme.min.css">
-    <link rel="stylesheet" href="../../../../assets/css/jquery.sidr.light.css">
-    <script src="../../../../assets/js/plugins/jquery-2.1.1.min.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/plugins/lodash.min.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/plugins/knockout-3.2.0.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/plugins/knockout.mapping-latest.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/plugins/jquery.overflowScroll.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/menu.js" type="text/javascript"></script>
-    <script src="../../../../assets/js/base.js?archive_fix=1" type="text/javascript"></script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KMT768H');</script>
-<!-- End Google Tag Manager -->
-</head>
-<body onContextmenu="return false">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMT768H"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <div id="js-off">
-        Javascriptの設定をONにしてください。<br>
-        当サイトは、Javascript設定ONでのみ、お楽しみ頂けます。
-    </div>
-    <script type="text/javascript">
-      document.getElementById("js-off").style.display = "none";
-    </script>
-
-    <div id="js-on" style="display: none;">
+    <script src="../../../../assets/js/plugins/jquery-2.1.1.min.js" type="text/javascript"></script></head>
+<body><div id="js-on">
         <div id="bindingContext">
             <div class="wrap">
                 <div class="container">
@@ -51,10 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!--ヘッダー-->
 	<link rel="stylesheet" href="../../../../assets/css/special/hp_special_contents.css">
     <header class="header">
-        <div class="side-menu-btn" id="js__sideMenuBtn">
-            <img src="../../../../assets/images/sp_menubtn.png">
-        </div>
-        <a href="/"><img src="../../../../assets/images/logo.png"></a>
+        <a href="../../../../index.html"><img src="../../../../assets/images/logo.png"></a>
     </header>
     <h1 style=" padding: 10px 0;
     text-align: center;
@@ -88,184 +55,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="../../../../assets/js/static.js" type="text/javascript" defer="defer"></script>                </div>
             </div><!-- end class=wrap -->
 
-            <div class="overlay" id="js__overlay"></div>
-            <nav class="side-menu" id="js__sideMenu">
-                <ul class="side-menu__ul">
-                    <div class="slidemenu-header"><div>MENU</div></div>
-                    <li id="sidemenu_top" style="background-color:#1e7296;"><span style="color:#fff;">Top</span></li>
-                    <li><a href="/">トップへ</a></li>
-                    <li data-bind="visible: $root.is_login()" style="background-color:#17375a;"><span style="color:#fff;">My Page</span></li>
-                    <li data-bind="visible: $root.is_login()"><a data-bind="click: hlpr.utils.checkIfMember.bind($data, $root.user_status(), $root.is_login(), 2);, attr: {href: '/mypage/manage'}">マイページ</a></li>
-                    <li data-bind="visible: !$root.is_login()" style="background-color:#17375a;"><span style="color:#fff;">ログイン</span></li>
-                    <li data-bind="visible: !$root.is_login()"><a data-bind="attr: {href: '/authorize/select'}">新規会員登録/ログイン</a></li>
-                    <li style="background-color:#17375a;"><span style="color:#fff;">Member's Contents</span></li>
-                    <li><a href="/content/qa?menu_id=6">ハロー！Q&A</a></li>
-                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/photo/hello?menu_id=4', false);">ハロー！ショット</a></li>
-                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/photo/shop?menu_id=5', false);">ショップフォト</a></li>
-                    <li><a href="/content/gacya?menu_id=7">ハロー！ガチャ</a></li>
-                    <li><a href="/info/movie?menu_id=17">ハロー！ムービー</a></li>
-                    <li><a href="/info/music?menu_id=10">ハロー！ラジオ</a></li>
-                    <li><a href="/content/artist10?menu_id=25">ハロー！ペディア</a></li>
-                    <li><a href="/dialy/tour?menu_id=2">ツアー日記</a></li>
-                    <li><a href="/dialy/member?menu_id=3">スタッフ日記</a></li>
-                    <li><a href="/info/special?menu_id=11">スペシャル</a></li>
-                    <li><a href="/content/artist3?menu_id=16">Juice=JuiceのLike=Like</a></li>
-                    <li><a href="/content/artist11?menu_id=27">つばきのスキップ日和</a></li>
-                    <li><a href="/content/artist9?menu_id=24">BEYOOOOONDSのビヨンズした！</a></li>
-                    <li><a href="../../../maeda_word/index.html">前田こころの今月の一言！</a></li>
-                    <li><a href="/content/artist8?menu_id=23">野中部長の裏日記</a></li>
-                    <li><a href="/content/artist7?menu_id=22">意識高い乙女の記し</a></li>
-                    <li><a href="/content/artist4?menu_id=19">つばきファクトリーのハナモヨウ</a></li>
-                    <li><a href="/content/artist6?menu_id=21">野中部長の小説コーナー</a></li>
-                    <li><a href="/content/artist?menu_id=13">どぅーでもいい写真館</a></li>
-                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/mail/magazine?menu_id=8', false);">ハロー！メルマガ</a></li>
-                    <li><a href="/info/form?menu_id=14">応募フォーム</a></li>
-<!--
-                    <li><a href="/content/sns?menu_id=9">ハロースレッド</a></li>
--->
-                    <li style="background-color:#38a8ac;"><span style="color:#fff;">Free Contents</span></li>
-                    <li><a href="http://www.helloproject.com/" target="_blank">インフォメーション</a></li>
-                    <li><a href="http://www.helloproject.com/news/" target="_blank">ニュース</a></li>
-                    <li><a href="http://www.helloproject.com/release/" target="_blank">リリース</a></li>
-                    <li><a href="http://www.helloproject.com/media/" target="_blank">メディア</a></li>
-                    <li><a href="http://www.helloproject.com/event/" target="_blank">コンサート&イベント</a></li>
-                    <li><a href="/info/helloproject?link=profile">プロフィール</a></li>
-                    <li><a href="/info/helloproject?link=blog">ブログ</a></li>
-                    <li><a href="/info/helloproject?link=youtube">YouTube</a></li>
-                    <li><a href="/info/og/">OG</a></li>
-                    <li style="background-color:#17375a;"><span style="color:#fff;">Support Menu</span></li>
-                    <li><a href="/info/helloproject/about">このサイトについて</a></li>
-                    <li><a href="/info/helloproject/available_devices">対応機種</a></li>
-                    <li><a href="/info/faq?menu_id=12">お問い合わせ</a></li>
-                    <li><a href="/info/helloproject/use_policy">利用規約</a></li>
-                    <li><a href="/info/helloproject/privacy_policy">プライバシーポリシー</a></li>
-                    <li><a href="/info/helloproject/law">特定商取引法に基づく表示</a></li>
-                </ul>
-            </nav>
-        </div>
-        <!-- 会員登録モーダルダイアログ -->
-        <div id="modal-content" style="margin: 10px;">
-            <div class="alert_body">
-                <div class="close" id="modal-close" data-bind="click: modalClose.bind($data)" >閉じる</div>
-                <div class="alert_text">
-                    <p>
-                        会員限定コンテンツや会員特典をご利用頂くには、月額会員登録又はログインが必要となります。
-                    </p>
-                </div>
-                <div class="alert_btn"><a data-bind="click: toCarrierSelect.bind($data)">会員登録/ログイン</a></div>
             </div>
-        </div>
+        <!-- 会員登録モーダルダイアログ -->
+
         <!-- 会員登録モーダルダイアログ -->
         <!-- ログイン済みモーダルダイアログ 後々に会員登録モーダルと共通化予定-->
-        <div id="login-content" style="margin: 10px;">
-            <div class="alert_body">
-                <div class="close" id="login-close" data-bind="click: modalClose.bind($data)" >閉じる</div>
-                <div class="alert_text">
-                    <p>
-                        キャリアIDでログイン済みです。
-                    </p>
-                    <p>
-                        引き続きお楽しみ下さい。
-                    </p>
-                </div>
-            </div>
-        </div>
+
         <!-- 会員登録モーダルダイアログ -->
         <!-- APIエラーモーダルダイアログ -->
-        <div id="reload-content">
-            <div class="alert_body">
-                <div class="alert_btn"><a href="/">トップ画面へ</a></div><br>
-                <div class="alert_btn"><a href="JavaScript: history.back();">戻る</a></div>
-                <div class="alert_btn"><a href="JavaScript: window.location.reload(true);">更新</a></div>
-                <div class="alert_text">
-                    <span id="reload_comment">
-                        データロードエラー。更新して下さい。
-                    </span>
-                </div>
-            </div>
-        </div>
+
         <!-- APIエラーモーダルダイアログ -->
         <!-- モーダルダイアログ -->
-        <div id="arrangeable-modal">
-            <div id="arrangeable-modal-body" class="alert_body">
-                <div class="alert_btn"><a href="/">トップ画面へ</a></div><br>
-                <div class="alert_btn" data-bind="click: closeArrangeableModal.bind($data)" ><a>閉じる</a></div>
-                <div class="alert_text">
-                    <span id="reload_comment">
-                        データロードエラー。更新して下さい。
-                    </span>
-                </div>
-            </div>
-        </div>
+
     </div>
     <script type="text/javascript">
       document.getElementById("js-on").style.display = "block";
     </script>
-    <!-- 全画面共通のJS処理 -->
-    <script type="text/javascript">
-    // 画像読み込み後にロゴ付与
-    $(window).load(function(){
-        $(".img_guard_body > .full").after("<img class='logo_wrapper' src="../../../../assets/images/images_wrapper_log.jpg" />")
-    });
-
-    $(function() {
-        // 全てのimg要素のロングタップを禁止
-        $("img").bind("contextmenu", function () {
-            return false;
-        });
-
-        var $jsBlogMenuChild = $('.side-menu__li'),
-            $body = $('body');
-        //blog side menu
-        $jsBlogMenuChild.on('click', function () {
-            $(this).toggleClass('active');
-        });
-        //menu btn
-        $('#js__sideMenuBtn').on('click', function () {
-            $body.toggleClass('side-open');
-            $body.toggleClass('overflow_xy');
-            $('#js__overlay').on('click', function () {
-                $body.removeClass('side-open');
-                $body.removeClass('overflow_xy');
-            });
-        });
-        // iOSだけに処理
-        // if (navigator.userAgent.indexOf('iPhone') > 0 ||
-        //     navigator.userAgent.indexOf('iPad') > 0 ||
-        //     navigator.userAgent.indexOf('iPod') > 0 ) {
-        //     $("html").css('overflow','hidden');
-        // }
-
-    });
-
-    // 画面回転時にモーダルが表示されている場合リサイズ
-    $(window).on('orientationchange resize', function () {
-        if ($("#modal-content").is(":visible")) {
-            centeringModalSyncer("#modal-content");
-        } else if ($("#reload-content").is(":visible")) {
-            centeringModalSyncer("#reload-content");
-        }
-    });
-
-    // ガチャ一覧の処理->ガチャ一覧画面に実装すると、ページ読み込みの関係上動作しない為、ここで行う必要がある
-/*
-    if (window.location.pathname == '/content/gacya/list') {
-        window.onload = function () {
-            // photoswipeの設定knockout読み込み後に行う
-            (function(window, PhotoSwipe){
-                if (window.document.querySelectorAll('#Gallery a').length > 0) {
-                    var options = {},
-                    instance = PhotoSwipe.attach( window.document.querySelectorAll('#Gallery a'), options );
-                }
-            }(window, window.Code.PhotoSwipe));
-
-            $("#Gallery").bind("contextmenu", function () {
-            // ban to tap
-            return false;
-        });
-        }
-    }
-*/
-    </script>
-</body>
+    </body>
 </html>
