@@ -60,6 +60,7 @@ function cleanHtml(file, html) {
 
   out = out.replace(/<!--\s*[^<]*JS[^<]*-->\s*<script type="text\/javascript">\s*\/\/[\s\S]*?<\/script>\s*/i, '');
   out = out.replace(/<a href=["']\/["']>\s*(<img\b[^>]*src=["'][^"']*logo\.png["'][^>]*>)\s*<\/a>/gi, `<a href="${specialIndex}">$1</a>`);
+  out = out.replace(/\bhref=["']\/info\/special\?menu_id=11["']/gi, `href="${specialIndex}"`);
   out = out.replace(/\bhref=["']\/["']/gi, `href="${specialIndex}"`);
 
   out = out.replace(/\s+data-bind=["'][^"']*["']/gi, '');
