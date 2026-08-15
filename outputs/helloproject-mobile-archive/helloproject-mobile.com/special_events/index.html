@@ -241,7 +241,7 @@ buttons.forEach(button=>button.addEventListener('click',()=>{buttons.forEach(b=>
 search.addEventListener('input',apply); clear.addEventListener('click',()=>{search.value=''; apply(); search.focus();});
 const lightbox=document.getElementById('lightbox'), lightboxImage=document.getElementById('lightboxImage'), lightboxTitle=document.getElementById('lightboxTitle'), lightboxClose=document.getElementById('lightboxClose'), rotateLeft=document.getElementById('rotateLeft'), rotateRight=document.getElementById('rotateRight');
 let lightboxRotation=0;
-function updateRotation(){lightboxImage.style.transform='rotate('+lightboxRotation+'deg)';}
+function updateRotation(){const sideways=Math.abs(lightboxRotation % 180) === 90; lightboxImage.style.transform='rotate('+lightboxRotation+'deg)'; lightboxImage.style.maxWidth=sideways ? '86vh' : '100%'; lightboxImage.style.maxHeight=sideways ? '96vw' : '86vh';}
 function openLightbox(link){lightboxRotation=0; updateRotation(); lightboxImage.src=link.href; lightboxImage.alt=link.dataset.title || ''; lightboxTitle.textContent=link.dataset.title || ''; lightbox.classList.add('open'); lightbox.setAttribute('aria-hidden','false');}
 function closeLightbox(){lightbox.classList.remove('open'); lightbox.setAttribute('aria-hidden','true'); lightboxImage.removeAttribute('src'); lightboxRotation=0; updateRotation();}
 document.addEventListener('click',event=>{const link=event.target.closest('.image-card'); if(link){event.preventDefault(); openLightbox(link); return;} if(event.target===lightbox || event.target===lightboxClose) closeLightbox();});
