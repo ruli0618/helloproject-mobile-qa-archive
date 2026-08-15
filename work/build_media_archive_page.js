@@ -209,8 +209,8 @@ input[type=search],select{width:100%;font-size:15px;padding:9px 10px;border:1px 
 .compact-nav{border:1px solid var(--line);border-radius:8px;background:#fff;margin-top:8px}.compact-nav summary{cursor:pointer;padding:8px 10px;color:var(--sub);font-size:13px;font-weight:700}.compact-nav[open] summary{border-bottom:1px solid var(--line)}.compact-nav-body{max-height:38vh;overflow:auto;padding:8px}
 .group-button{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;width:100%;min-height:40px;margin-bottom:7px;padding:7px 8px;text-align:left}.group-button strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.group-button b,.group-button span{color:var(--sub);font-size:12px}.group-button span{grid-column:1/-1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:12px}.stat{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.stat strong{display:block;font-size:22px;line-height:1.15}.stat span{color:var(--sub);font-size:12px}
-.list{display:grid;gap:10px}.item{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px 12px;content-visibility:auto;contain-intrinsic-size:130px}.item-header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:start}.badge{display:inline-block;border-radius:999px;padding:1px 8px;font-size:12px;color:#fff;background:var(--mousou);margin-right:5px}h2{font-size:16px;line-height:1.45;margin:3px 0 4px}.detail{color:var(--sub);font-size:12px}.play{border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:8px;padding:7px 10px;font-weight:700;white-space:nowrap}.player{display:none;margin-top:10px}.player.open{display:block}video{width:100%;max-height:58vh;background:#000;border-radius:8px}.empty{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px;color:var(--sub)}
-@media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}aside{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.summary{grid-template-columns:repeat(2,minmax(0,1fr));padding:12px 12px 0;margin:0}.list{gap:0}.item{border-left:0;border-right:0;border-radius:0;margin:0;content-visibility:visible;contain-intrinsic-size:auto}.item-header{grid-template-columns:1fr}.play{justify-self:start}}
+.list{display:grid;gap:10px}.item{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px 12px;content-visibility:auto;contain-intrinsic-size:210px}.item-header{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;align-items:start}.badge{display:inline-block;border-radius:999px;padding:1px 8px;font-size:12px;color:#fff;background:var(--mousou);margin-right:5px}h2{font-size:16px;line-height:1.45;margin:3px 0 4px}.detail{color:var(--sub);font-size:12px}.play{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;min-height:46px;margin-top:10px;border:1px solid var(--accent);background:color-mix(in srgb,var(--accent),#fff 92%);color:var(--accent);border-radius:8px;padding:10px 12px;font-size:15px;font-weight:800;white-space:nowrap}.play::before{content:"▶";font-size:13px}.item.open .play::before{content:"■"}.player{display:none;margin-top:10px}.player.open{display:block}video{width:100%;max-height:58vh;background:#000;border-radius:8px}.empty{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px;color:var(--sub)}
+@media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}aside{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.summary{grid-template-columns:repeat(2,minmax(0,1fr));padding:12px 12px 0;margin:0}.list{gap:0}.item{border-left:0;border-right:0;border-radius:0;margin:0;content-visibility:visible;contain-intrinsic-size:auto}.play{min-height:50px;font-size:16px}}
 </style>
 </head>
 <body>
@@ -292,7 +292,7 @@ function renderList(){
       '<span class="detail">' + escapeHtml(group) + '</span>' +
       '<h2>' + escapeHtml(item.title) + '</h2>' +
       '<div class="detail">' + escapeHtml([item.date, item.size, item.name].filter(Boolean).join(' / ')) + '</div>' +
-      '</div><button class="play" data-index="' + index + '">再生</button></div>' +
+      '</div><button class="play" data-index="' + index + '">動画を再生</button></div>' +
       '<div class="player"></div>' +
       '</article>';
   }).join('');
@@ -328,14 +328,20 @@ listEl.addEventListener('click', event => {
   const item = button.closest('.item');
   const player = item.querySelector('.player');
   const open = player.classList.toggle('open');
-  button.textContent = open ? '閉じる' : '再生';
+  item.classList.toggle('open', open);
+  button.textContent = open ? '閉じる' : '動画を再生';
   if (open && !player.firstElementChild) {
     const tag = 'video';
     const media = document.createElement(tag);
     media.controls = true;
-    media.preload = 'none';
+    media.preload = 'metadata';
+    media.playsInline = true;
     media.src = item.dataset.src;
     player.appendChild(media);
+    media.play().catch(() => {});
+  } else if (open) {
+    const media = player.querySelector('video');
+    if (media) media.play().catch(() => {});
   } else if (!open) {
     const media = player.querySelector('video');
     if (media) media.pause();
