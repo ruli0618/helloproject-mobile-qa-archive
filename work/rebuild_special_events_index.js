@@ -45,9 +45,51 @@ function imageTitle(file) {
   return base;
 }
 
+const groupOrder = [
+  'morningmusume',
+  'angerme',
+  'juicejuice',
+  'tsubakifactory',
+  'beyooooonds',
+  'ochanorma',
+  'rosychronicle',
+];
+
+const memberOrder = {
+  morningmusume: ['ikuta', 'oda', 'nonaka', 'makino', 'haga', 'yokoyama', 'kitagawa', 'okamura', 'yamazaki', 'sakurai', 'inoue', 'yumigeta'],
+  angerme: ['kamikokuryo', 'ise', 'hashisako', 'kawana', 'tamenaga', 'matsumoto', 'hirayama', 'shimoitani', 'goto', 'nagano'],
+  juicejuice: ['dambara', 'inoue', 'kudo', 'matsunaga', 'arisawa', 'irie', 'ebata', 'ishiyama', 'endo', 'kawashima', 'hayashi'],
+  tsubakifactory: ['tanimoto', 'ono', 'onoda', 'akiyama', 'kasai', 'yagi', 'fukuda', 'yofuu', 'ishii', 'murata', 'doi'],
+  beyooooonds: ['takase', 'maeda', 'nishida', 'eguchi', 'okamura', 'kiyono', 'hirai', 'kobayashi', 'satoyoshi'],
+  ochanorma: ['saito', 'hiromoto', 'ishiguri', 'yonemura', 'kubota', 'tashiro', 'nakayama', 'nishizaki', 'kitahara', 'tsutsui'],
+  rosychronicle: ['hashida', 'yoshida', 'onoda', 'murakoshi', 'uemura', 'matsubara', 'shimakawa', 'souma', 'soma', 'kamimura'],
+};
+
+function orderIndex(list, value) {
+  const index = list.indexOf(value);
+  return index === -1 ? 999 : index;
+}
+
+function specialSortKey(file) {
+  const rel = path.relative(path.join(OUT, 'assets', 'images', 'special'), file).replace(/\\/g, '/');
+  const parts = rel.split('/');
+  const group = parts.find(part => groupOrder.includes(part)) || '';
+  const rawMember = path.basename(file, path.extname(file));
+  const numbered = rawMember.match(/^(\d+)_/);
+  const member = rawMember.replace(/^\d+_/, '');
+  const memberRank = numbered ? Number(numbered[1]) - 1 : orderIndex(memberOrder[group] || [], member);
+  return [
+    String(orderIndex(groupOrder, group)).padStart(3, '0'),
+    String(memberRank).padStart(3, '0'),
+    group,
+    member,
+    rel,
+  ].join('\u0000');
+}
+
 function eventImages(key) {
   return walkFiles(path.join(OUT, 'assets', 'images', 'special', key), file => /\.(png|jpe?g|gif|webp)$/i.test(file))
-    .sort((a, b) => a.localeCompare(b, 'ja'))
+    .sort((a, b) => specialSortKey(a).localeCompare(specialSortKey(b), 'ja'))
     .map(file => ({ src: relFromOut(file), title: imageTitle(file) }));
 }
 
