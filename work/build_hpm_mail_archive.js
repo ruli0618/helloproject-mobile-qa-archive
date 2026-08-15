@@ -179,11 +179,38 @@ const list = document.getElementById('list'), count = document.getElementById('c
 function esc(value){return String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));}
 function memberName(subject){return String(subject || '').replace(/^\\s*From☆\\s*/, '').trim() || '不明';}
 function ym(date){return String(date || '').slice(0, 7);}
+const MEMBER_GROUPS = [
+  ['モーニング娘。', ['譜久村聖','生田衣梨奈','石田亜佑美','佐藤優樹','小田さくら','野中美希','牧野真莉愛','羽賀朱音','加賀楓','横山玲奈','森戸知沙希','北川莉央','岡村ほまれ','山﨑愛生','櫻井梨央','井上春華','弓桁朱琴','杉原明紗']],
+  ['アンジュルム', ['竹内朱莉','中西香菜','室田瑞希','佐々木莉佳子','上國料萌衣','笠原桃奈','船木結','川村文乃','太田遥香','伊勢鈴蘭','橋迫鈴','川名凜','為永幸音','松本わかな','平山遊季','下井谷幸穂','後藤花']],
+  ['Juice=Juice', ['宮本佳林','金澤朋子','高木紗友希','植村あかり','稲場愛香','段原瑠々','井上玲音','工藤由愛','松永里愛','有澤一華','入江里咲','江端妃咲','石山咲良','遠藤彩加里','川嶋美楓']],
+  ['つばきファクトリー', ['山岸理子','小片リサ','新沼希空','谷本安美','谷本亜美','岸本ゆめの','浅倉樹々','小野瑞歩','小野田紗栞','秋山眞緒','河西結心','八木栞','福田真琳','豫風瑠乃','石井泉羽','村田結生','土居楓奏']],
+  ['BEYOOOOONDS', ['一岡伶奈','高瀬くるみ','清野桃々姫','島倉りか','西田汐里','江口紗耶','前田こころ','山﨑夢羽','岡村美波','平井美葉','小林萌花','里吉うたの','小島はな','大坪茉乃','杉山結菜']],
+  ['OCHA NORMA', ['斉藤円香','広本瑠璃','石栗奏美','米村姫良々','窪田七海','田代すみれ','中山夏月姫','西﨑美空','北原もも','筒井澪心']],
+  ['ロージークロニクル', ['橋田歩果','吉田姫杷','小野田華凜','村越彩菜','植村葉純','松原ユリヤ','島川波菜','上村麗菜','相馬優芽']],
+  ['カントリー・ガールズ', ['山木梨沙','小関舞']],
+  ['こぶしファクトリー', ['広瀬彩海','野村みな美','浜浦彩乃','和田桜子']],
+  ['ハロプロ研修生', ['林仁愛','西村乙輝','長野桃羽','安田美結']]
+];
+function memberOptions(values){
+  const existing = new Set(values);
+  const used = new Set();
+  let html = '<option value="">すべて</option>';
+  for (const [group, names] of MEMBER_GROUPS) {
+    const rows = names.filter(name => existing.has(name));
+    if (!rows.length) continue;
+    rows.forEach(name => used.add(name));
+    html += '<optgroup label="'+esc(group)+'">' + rows.map(name => '<option value="'+esc(name)+'">'+esc(name)+'</option>').join('') + '</optgroup>';
+  }
+  const others = values.filter(name => !used.has(name)).sort((a,b)=>a.localeCompare(b,'ja'));
+  if (others.length) html += '<optgroup label="その他">' + others.map(name => '<option value="'+esc(name)+'">'+esc(name)+'</option>').join('') + '</optgroup>';
+  return html;
+}
 function setup(){
   const yearValues = [...new Set(allMessages.map(m => String(m.date).slice(0,4)).filter(Boolean))].sort().reverse();
   years.innerHTML = '<button type="button" data-year="">すべて</button>' + yearValues.map(y => '<button type="button" data-year="'+esc(y)+'">'+esc(y)+'</button>').join('');
-  const members = [...new Set(allMessages.map(m => m.member || memberName(m.subject)))].sort((a,b)=>a.localeCompare(b,'ja'));
+  const members = [...new Set(allMessages.map(m => m.member || memberName(m.subject)))];
   member.innerHTML = '<option value="">すべて</option>' + members.map(v => '<option value="'+esc(v)+'">'+esc(v)+'</option>').join('');
+  member.innerHTML = memberOptions(members);
   const latestMonth = allMessages[0] ? ym(allMessages[0].date) : '';
   state.year = latestMonth.slice(0,4);
   state.month = latestMonth;
