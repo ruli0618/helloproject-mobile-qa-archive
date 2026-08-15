@@ -3,6 +3,18 @@ const path = require('path');
 
 const RADIO_ROOT = 'C:\\Users\\misuz\\Desktop\\RADIO\\ハロモバラジオ';
 const OUT = path.resolve('outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'radio');
+const MANIFEST_PATH = path.join(OUT, 'radio_manifest.json');
+const previousLinks = new Map();
+if (fs.existsSync(MANIFEST_PATH)) {
+  try {
+    const previous = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
+    for (const item of previous.items || []) {
+      previousLinks.set(item.local_path, { audio_url: item.audio_url || '', archive_item: item.archive_item || '' });
+    }
+  } catch {
+    // Rebuild from local files if the old manifest is incomplete.
+  }
+}
 
 function esc(value) {
   return String(value ?? '')
@@ -37,6 +49,7 @@ function parseFile(file) {
   const cleanTitle = title
     .replace(/^\d+\s*-\s*/, '')
     .replace(/\s*\[mid\d+\]\s*$/i, '');
+  const previous = previousLinks.get(file) || {};
   return {
     program: folder,
     title: cleanTitle,
@@ -51,8 +64,8 @@ function parseFile(file) {
     local_path: file,
     size: stat.size,
     size_mb: Math.round((stat.size / 1024 / 1024) * 10) / 10,
-    audio_url: '',
-    archive_item: '',
+    audio_url: previous.audio_url || '',
+    archive_item: previous.archive_item || '',
   };
 }
 
@@ -86,7 +99,7 @@ const manifest = {
   }),
   items,
 };
-fs.writeFileSync(path.join(OUT, 'radio_manifest.json'), JSON.stringify(manifest, null, 2), 'utf8');
+fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2), 'utf8');
 
 const programOptions = programs.map((program) => `<option value="${esc(program)}">${esc(program)}</option>`).join('');
 const rows = items.map((item) => `<article class="radio-card" data-program="${esc(item.program)}" data-search="${esc(`${item.program} ${item.title} ${item.date} ${item.host} ${item.guest} mid${item.mid}`)}" data-episode="${item.episode || 0}">
@@ -102,8 +115,8 @@ const rows = items.map((item) => `<article class="radio-card" data-program="${es
     <div><dt>出演</dt><dd>${esc([item.host, item.guest ? `ゲスト: ${item.guest}` : ''].filter(Boolean).join(' / ') || '-')}</dd></div>
     <div><dt>mid</dt><dd>${esc(item.mid || '-')}</dd></div>
   </dl>
-  <div class="player" data-empty="true">
-    <span>音源アップロード後にここで再生できます</span>
+  <div class="player"${item.audio_url ? '' : ' data-empty="true"'}>
+    ${item.audio_url ? `<audio controls preload="metadata" src="${esc(item.audio_url)}"></audio><a href="${esc(item.audio_url)}" target="_blank" rel="noopener noreferrer">音源を開く</a>` : '<span>音源アップロード後にここで再生できます</span>'}
   </div>
   <p class="filename">${esc(item.file_name)}</p>
 </article>`).join('\n');
