@@ -121,6 +121,16 @@ function stripMailFooter(html) {
     .replace(/<a\b[^>]*helloproject-mobile\.com\/mail\/magazine[^>]*>[\s\S]*?<\/a>/gi, '');
 }
 
+function isOperationalNotice(subject, html) {
+  const title = String(subject || '').replace(/\s+/g, '');
+  const text = String(html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, '');
+  if (/^(?:【)?(?:お詫び|詫び|訂正|再送|誤送信|誤配信|誤掲載|不備|不具合)/i.test(title)) return true;
+  if (/(?:お詫び|深くお詫び|訂正|誤送信|誤配信|誤って|不備|不具合)/.test(title) && !/^From☆/.test(title)) return true;
+  if (/ユーザーの皆様には深くお詫び申し上げます/.test(text)) return true;
+  if (/本来.*(?:予定|表示).*誤って/.test(text)) return true;
+  return false;
+}
+
 function renderPage(count) {
   return `<!doctype html>
 <html lang="ja">
@@ -225,6 +235,7 @@ async function main() {
     const stem = cleanName(`${date}_${subject}_${item.id || messages.length + 1}`, 150);
     let html = findHtmlPart(payload) || item.html || '';
     html = stripMailFooter(html);
+    if (isOperationalNotice(subject, html)) continue;
     html = await localizeImages(html, stem);
     html = await convertSpmessageLinks(html, stem);
     const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
