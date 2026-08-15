@@ -48,10 +48,9 @@ function splitEntries(html) {
 function renderContent(html) {
   const tokenPrefix = `__PEDIA_LINK_${Math.random().toString(36).slice(2)}_`;
   const links = [];
-  let escaped = esc(html ?? '').replace(/&lt;a\s+([^&]*?)href=&quot;([^&]+)&quot;([^&]*?)&gt;([\s\S]*?)&lt;\/a&gt;/gi, (_, before, href, after, label) => {
+  let escaped = esc(html ?? '').replace(/&lt;a\b([\s\S]*?)href=&quot;([^&]+)&quot;([\s\S]*?)&gt;([\s\S]*?)&lt;\/a&gt;/gi, (_, before, href, after, label) => {
     const token = `${tokenPrefix}${links.length}__`;
-    const target = /target=&quot;_blank&quot;/i.test(before + after) ? ' target="_blank" rel="noopener"' : '';
-    links.push(`<a href="${href}"${target}>${label}</a>`);
+    links.push(renderLink(href, label, before + after));
     return token;
   });
 
@@ -63,6 +62,61 @@ function renderContent(html) {
     escaped = escaped.replace(`${tokenPrefix}${i}__`, links[i]);
   }
   return escaped;
+}
+
+function youtubeEmbedUrl(href) {
+  const raw = decodeBasicEntities(href);
+  try {
+    const url = new URL(raw);
+    const host = url.hostname.replace(/^www\./, '');
+    let id = '';
+    if (host === 'youtu.be') {
+      id = url.pathname.split('/').filter(Boolean)[0] || '';
+    } else if (host.endsWith('youtube.com')) {
+      if (url.pathname.startsWith('/watch')) id = url.searchParams.get('v') || '';
+      if (url.pathname.startsWith('/shorts/') || url.pathname.startsWith('/embed/')) {
+        id = url.pathname.split('/').filter(Boolean)[1] || '';
+      }
+    }
+    if (!/^[A-Za-z0-9_-]{6,}$/.test(id)) return null;
+    const start = url.searchParams.get('t') || '';
+    const seconds = parseTimeToSeconds(start);
+    return `https://www.youtube.com/embed/${encodeURIComponent(id)}${seconds ? `?start=${seconds}` : ''}`;
+  } catch {
+    return null;
+  }
+}
+
+function parseTimeToSeconds(value) {
+  const text = String(value || '').trim();
+  if (!text) return 0;
+  if (/^\d+$/.test(text)) return Number(text);
+  const match = text.match(/(?:(\d+)h)?(?:(\d+)m)?(?:(\d+)s)?/i);
+  if (!match) return 0;
+  return (Number(match[1] || 0) * 3600) + (Number(match[2] || 0) * 60) + Number(match[3] || 0);
+}
+
+function linkKind(href) {
+  const raw = decodeBasicEntities(href);
+  try {
+    const host = new URL(raw).hostname.replace(/^www\./, '');
+    if (host.includes('ameblo.jp') || host.includes('ameba.jp')) return 'ブログ';
+    if (host.includes('twitter.com') || host === 'x.com') return 'X';
+    if (host.includes('helloproject.com')) return '公式';
+    return '外部';
+  } catch {
+    return '外部';
+  }
+}
+
+function renderLink(href, label, attrs) {
+  const raw = decodeBasicEntities(href);
+  const safeHref = esc(raw);
+  const target = /target=&quot;_blank&quot;/i.test(attrs) || /^https?:\/\//i.test(raw) ? ' target="_blank" rel="noopener noreferrer"' : '';
+  const embed = youtubeEmbedUrl(raw);
+  const link = `<a class="pedia-link" href="${safeHref}"${target}>${label}<span>${embed ? 'YouTube' : linkKind(raw)}</span></a>`;
+  if (!embed) return link;
+  return `<span class="youtube-block"><iframe src="${esc(embed)}" title="${label.replace(/<[^>]*>/g, '')}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>${link}</span>`;
 }
 
 function renderEntry(entry) {
@@ -137,7 +191,7 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
 nav{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.controls{display:grid;gap:8px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
 input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff}.clear{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;color:var(--ink);font-size:13px}.nav-title{font-size:12px;color:var(--sub);font-weight:700;margin:12px 0 6px}.archive-link-row{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link-row span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link-row strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.archive-link-row b{margin-left:auto;color:var(--sub);font-size:12px}
 .all-button,.pedia-button{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;width:100%;min-height:38px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);text-align:left;font-size:13px}.all-button{display:flex;align-items:center}.all-button strong,.pedia-button strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.all-button b,.pedia-button b{color:var(--sub);font-size:12px}.pedia-button span{grid-column:1/-1;color:var(--sub);font-size:12px}.all-button.active,.pedia-button.active{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent),transparent 78%);background:color-mix(in srgb,var(--accent),#fff 92%)}
-.pedia-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden;content-visibility:auto;contain-intrinsic-size:520px}.pedia-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h2{font-size:20px;line-height:1.38;margin:1px 0 0}.count{margin:3px 0 0;color:var(--sub);font-size:13px}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.entry-list{padding:14px;display:grid;gap:12px}.pedia-entry{border-top:1px solid var(--line);padding-top:12px}.pedia-entry:first-child{border-top:0;padding-top:0}.pedia-entry h3{font-size:17px;line-height:1.45;margin:0 0 6px;color:#174154}.entry-body{font-size:15px;line-height:1.85;overflow-wrap:anywhere}.entry-body a{color:var(--accent);font-weight:700}.hidden{display:none!important}
+.pedia-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden;content-visibility:auto;contain-intrinsic-size:520px}.pedia-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h2{font-size:20px;line-height:1.38;margin:1px 0 0}.count{margin:3px 0 0;color:var(--sub);font-size:13px}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.entry-list{padding:14px;display:grid;gap:12px}.pedia-entry{border-top:1px solid var(--line);padding-top:12px}.pedia-entry:first-child{border-top:0;padding-top:0}.pedia-entry h3{font-size:17px;line-height:1.45;margin:0 0 6px;color:#174154}.entry-body{font-size:15px;line-height:1.85;overflow-wrap:anywhere}.entry-body a{color:var(--accent);font-weight:700}.pedia-link{display:inline-flex;align-items:center;gap:6px;margin:0 2px;padding:1px 7px;border:1px solid color-mix(in srgb,var(--accent),#dbe3ee 65%);border-radius:999px;background:#f7fbfd;text-decoration:none}.pedia-link span{color:var(--sub);font-size:11px;font-weight:700}.youtube-block{display:block;max-width:680px;margin:10px 0 12px}.youtube-block iframe{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:8px;background:#dbe3ee}.youtube-block .pedia-link{margin-top:7px}.hidden{display:none!important}
 @media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}nav{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.controls{grid-template-columns:1fr auto}.controls .all-button{grid-column:1/-1}.pedia-card{border-left:0;border-right:0;border-radius:0;margin:0;content-visibility:visible;contain-intrinsic-size:auto}.pedia-card header{grid-template-columns:1fr;gap:6px;padding:11px 12px}.source{justify-self:start}.entry-list{padding:12px}.pedia-entry h3{font-size:16px}#content{padding-bottom:24px}}
 </style>
 </head>
