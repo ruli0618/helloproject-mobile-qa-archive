@@ -131,6 +131,14 @@ function isOperationalNotice(subject, html) {
   return false;
 }
 
+function shouldSkipMessage(subject, html) {
+  const title = String(subject || '').replace(/\s+/g, '');
+  const text = String(html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, '');
+  const inquiryNotice = new RegExp('(?:\\u304a\\u554f\\u3044\\u5408\\u308f\\u305b|\\u554f\\u3044\\u5408\\u308f\\u305b|\\u554f\\u5408\\u305b)');
+  if (inquiryNotice.test(title) && !/^From/.test(title)) return true;
+  return isOperationalNotice(subject, html);
+}
+
 function renderPage(count) {
   return `<!doctype html>
 <html lang="ja">
@@ -235,7 +243,7 @@ async function main() {
     const stem = cleanName(`${date}_${subject}_${item.id || messages.length + 1}`, 150);
     let html = findHtmlPart(payload) || item.html || '';
     html = stripMailFooter(html);
-    if (isOperationalNotice(subject, html)) continue;
+    if (shouldSkipMessage(subject, html)) continue;
     html = await localizeImages(html, stem);
     html = await convertSpmessageLinks(html, stem);
     const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
