@@ -125,6 +125,13 @@ const data = {
   items,
 };
 
+const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
+<a class="archive-link-row" style="--cat:#127e97" href="../hello_qa/index.html"><span></span><strong>ハロー！Q&amp;A</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#127e97" href="index.html"><span></span><strong>ハローペディア</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#6b63b5" href="../special_events/index.html"><span></span><strong>特設イベント</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>`;
+
 const html = `<!doctype html>
 <html lang="ja">
 <head>
@@ -138,7 +145,7 @@ a{color:inherit}.hero{position:sticky;top:0;z-index:5;background:rgba(255,255,25
 h1{font-size:24px;line-height:1.25;margin:0 0 7px}.meta{display:flex;gap:8px;flex-wrap:wrap;color:var(--sub);font-size:13px}.pill,.archive-link{border:1px solid var(--line);border-radius:999px;background:#fff;padding:2px 9px;text-decoration:none}.archive-link{color:#174154;font-weight:700}
 main{max-width:1380px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-template-columns:330px minmax(0,1fr);gap:16px}
 aside{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.controls{display:grid;gap:8px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
-input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff}.group-button,.clear{border:1px solid var(--line);background:#fff;border-radius:8px;color:var(--ink);font-size:13px}.group-button.active{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent),transparent 78%);background:color-mix(in srgb,var(--accent),#fff 92%)}.clear{padding:7px 10px}
+input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff}.group-button,.clear{border:1px solid var(--line);background:#fff;border-radius:8px;color:var(--ink);font-size:13px}.group-button.active{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent),transparent 78%);background:color-mix(in srgb,var(--accent),#fff 92%)}.clear{padding:7px 10px}.nav-title{font-size:12px;color:var(--sub);font-weight:700;margin:12px 0 6px}.archive-link-row{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link-row span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link-row strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.archive-link-row b{margin-left:auto;color:var(--sub);font-size:12px}
 .group-button{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;width:100%;min-height:40px;margin-bottom:7px;padding:7px 8px;text-align:left}.group-button strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.group-button b,.group-button span{color:var(--sub);font-size:12px}.group-button span{grid-column:1/-1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:12px}.stat{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.stat strong{display:block;font-size:22px;line-height:1.15}.stat span{color:var(--sub);font-size:12px}
 .list{display:grid;gap:10px}.item{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px 12px;content-visibility:auto;contain-intrinsic-size:130px}.item-header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:start}.badge{display:inline-block;border-radius:999px;padding:1px 8px;font-size:12px;color:#fff;background:var(--mousou);margin-right:5px}h2{font-size:16px;line-height:1.45;margin:3px 0 4px}.detail{color:var(--sub);font-size:12px}.play{border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:8px;padding:7px 10px;font-weight:700;white-space:nowrap}.player{display:none;margin-top:10px}.player.open{display:block}video{width:100%;max-height:58vh;background:#000;border-radius:8px}.empty{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px;color:var(--sub)}
@@ -161,6 +168,8 @@ input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid v
 <main>
 <aside>
   <div class="controls">
+    ${archiveLinks}
+    <div class="nav-title">分類</div>
     <input id="search" type="search" placeholder="タイトル、メンバー名、グループ名で検索">
     <button class="clear" id="clear">クリア</button>
   </div>

@@ -1,4 +1,61 @@
-<!doctype html>
+const fs = require('fs');
+const path = require('path');
+
+const OUT = path.resolve('outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'special_events');
+
+function esc(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function fileCount(dir, predicate = () => true) {
+  if (!fs.existsSync(dir)) return 0;
+  let count = 0;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) count += fileCount(full, predicate);
+    else if (predicate(full)) count += 1;
+  }
+  return count;
+}
+
+const events = [
+  { title: '暑中見舞い 2026', date: '2026', href: 'pages/syotyuumimai_2026/index.html', color: '#0b7fab' },
+  { title: '暑中見舞い 2025', date: '2025', href: 'pages/syotyuumimai_2025/index.html', color: '#0b7fab' },
+  { title: 'クリスマス 2025', date: '2025', href: 'pages/xmas_2025/index.html', color: '#d15f2f' },
+  { title: '年末特集 2025', date: '2025', href: 'pages/nenmatsu_2025/index.html', color: '#6b63b5' },
+  { title: '年始特集 2026', date: '2026', href: 'pages/nenshi_2026/index.html', color: '#f1881a' },
+  { title: '前田こころ 今月の一言', date: '', href: 'pages/maeda_word/index.html', color: '#20a239' },
+].filter(item => fs.existsSync(path.join(OUT, item.href)));
+
+const pageCount = fileCount(path.join(OUT, 'pages'), file => /\.html?$/i.test(file));
+const spmessageCount = fileCount(path.join(OUT, 'spmessage'), file => /\.html?$/i.test(file));
+const assetCount = fileCount(path.join(OUT, 'assets'));
+
+const nav = events.map((item, index) => `<button class="event-button${index === 0 ? ' active' : ''}" style="--cat:${item.color}" data-event="event-${index}"><span></span><strong>${esc(item.title)}</strong><b>開く</b></button>`).join('\n');
+const cards = events.map((item, index) => `<article class="event-card" id="event-${index}" data-search="${esc(`${item.title} ${item.date} ${item.href}`)}">
+  <header>
+    <div>
+      <div class="date">${esc(item.date)}</div>
+      <h2>${esc(item.title)}</h2>
+      <p class="path">${esc(item.href)}</p>
+    </div>
+    <a class="source" href="${esc(item.href)}">開く</a>
+  </header>
+</article>`).join('\n');
+
+const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
+<a class="archive-link-row" style="--cat:#127e97" href="../hello_qa/index.html"><span></span><strong>ハロー！Q&amp;A</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#127e97" href="../hello_pedia/index.html"><span></span><strong>ハローペディア</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#4a88c7" href="../hello_pedia/media.html"><span></span><strong>妄想動画</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>`;
+
+const html = `<!doctype html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
@@ -21,82 +78,13 @@ input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid v
 <body>
 <header class="hero"><div class="hero-inner">
   <h1>ハロモバ 特設イベントアーカイブ</h1>
-  <div class="meta"><span class="pill">イベント 6件</span><span class="pill">保存ページ 409件</span><span class="pill">素材 542件</span><a class="archive-link" href="../../../../index.html">トップ</a><a class="archive-link" href="../hello_qa/index.html">ハロー！Q&amp;A</a></div>
+  <div class="meta"><span class="pill">イベント ${events.length}件</span><span class="pill">保存ページ ${pageCount + spmessageCount}件</span><span class="pill">素材 ${assetCount}件</span><a class="archive-link" href="../../../../index.html">トップ</a><a class="archive-link" href="../hello_qa/index.html">ハロー！Q&amp;A</a></div>
 </div></header>
 <main>
-<nav><div class="controls"><div class="nav-title">他のアーカイブ</div>
-<a class="archive-link-row" style="--cat:#127e97" href="../hello_qa/index.html"><span></span><strong>ハロー！Q&amp;A</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#127e97" href="../hello_pedia/index.html"><span></span><strong>ハローペディア</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#4a88c7" href="../hello_pedia/media.html"><span></span><strong>妄想動画</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a><div class="nav-title">イベント</div><input id="search" type="search" placeholder="イベント名、年、保存先で検索"><button class="clear" id="clear">クリア</button></div><button class="event-button active" style="--cat:#0b7fab" data-event="event-0"><span></span><strong>暑中見舞い 2026</strong><b>開く</b></button>
-<button class="event-button" style="--cat:#0b7fab" data-event="event-1"><span></span><strong>暑中見舞い 2025</strong><b>開く</b></button>
-<button class="event-button" style="--cat:#d15f2f" data-event="event-2"><span></span><strong>クリスマス 2025</strong><b>開く</b></button>
-<button class="event-button" style="--cat:#6b63b5" data-event="event-3"><span></span><strong>年末特集 2025</strong><b>開く</b></button>
-<button class="event-button" style="--cat:#f1881a" data-event="event-4"><span></span><strong>年始特集 2026</strong><b>開く</b></button>
-<button class="event-button" style="--cat:#20a239" data-event="event-5"><span></span><strong>前田こころ 今月の一言</strong><b>開く</b></button></nav>
+<nav><div class="controls">${archiveLinks}<div class="nav-title">イベント</div><input id="search" type="search" placeholder="イベント名、年、保存先で検索"><button class="clear" id="clear">クリア</button></div>${nav}</nav>
 <section>
-  <div class="summary"><div class="stat"><strong>6</strong><span>イベント</span></div><div class="stat"><strong>409</strong><span>保存ページ</span></div><div class="stat"><strong>542</strong><span>素材</span></div></div>
-  <div id="list"><article class="event-card" id="event-0" data-search="暑中見舞い 2026 2026 pages/syotyuumimai_2026/index.html">
-  <header>
-    <div>
-      <div class="date">2026</div>
-      <h2>暑中見舞い 2026</h2>
-      <p class="path">pages/syotyuumimai_2026/index.html</p>
-    </div>
-    <a class="source" href="pages/syotyuumimai_2026/index.html">開く</a>
-  </header>
-</article>
-<article class="event-card" id="event-1" data-search="暑中見舞い 2025 2025 pages/syotyuumimai_2025/index.html">
-  <header>
-    <div>
-      <div class="date">2025</div>
-      <h2>暑中見舞い 2025</h2>
-      <p class="path">pages/syotyuumimai_2025/index.html</p>
-    </div>
-    <a class="source" href="pages/syotyuumimai_2025/index.html">開く</a>
-  </header>
-</article>
-<article class="event-card" id="event-2" data-search="クリスマス 2025 2025 pages/xmas_2025/index.html">
-  <header>
-    <div>
-      <div class="date">2025</div>
-      <h2>クリスマス 2025</h2>
-      <p class="path">pages/xmas_2025/index.html</p>
-    </div>
-    <a class="source" href="pages/xmas_2025/index.html">開く</a>
-  </header>
-</article>
-<article class="event-card" id="event-3" data-search="年末特集 2025 2025 pages/nenmatsu_2025/index.html">
-  <header>
-    <div>
-      <div class="date">2025</div>
-      <h2>年末特集 2025</h2>
-      <p class="path">pages/nenmatsu_2025/index.html</p>
-    </div>
-    <a class="source" href="pages/nenmatsu_2025/index.html">開く</a>
-  </header>
-</article>
-<article class="event-card" id="event-4" data-search="年始特集 2026 2026 pages/nenshi_2026/index.html">
-  <header>
-    <div>
-      <div class="date">2026</div>
-      <h2>年始特集 2026</h2>
-      <p class="path">pages/nenshi_2026/index.html</p>
-    </div>
-    <a class="source" href="pages/nenshi_2026/index.html">開く</a>
-  </header>
-</article>
-<article class="event-card" id="event-5" data-search="前田こころ 今月の一言  pages/maeda_word/index.html">
-  <header>
-    <div>
-      <div class="date"></div>
-      <h2>前田こころ 今月の一言</h2>
-      <p class="path">pages/maeda_word/index.html</p>
-    </div>
-    <a class="source" href="pages/maeda_word/index.html">開く</a>
-  </header>
-</article></div>
+  <div class="summary"><div class="stat"><strong>${events.length}</strong><span>イベント</span></div><div class="stat"><strong>${pageCount + spmessageCount}</strong><span>保存ページ</span></div><div class="stat"><strong>${assetCount}</strong><span>素材</span></div></div>
+  <div id="list">${cards}</div>
 </section>
 </main>
 <script>
@@ -106,4 +94,7 @@ buttons.forEach(button=>button.addEventListener('click',()=>{buttons.forEach(b=>
 search.addEventListener('input',apply); clear.addEventListener('click',()=>{search.value=''; apply(); search.focus();});
 </script>
 </body>
-</html>
+</html>`;
+
+fs.writeFileSync(path.join(OUT, 'index.html'), html, 'utf8');
+console.log(JSON.stringify({ events: events.length, pages: pageCount + spmessageCount, assets: assetCount, output: path.join(OUT, 'index.html') }, null, 2));
