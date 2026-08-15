@@ -55,6 +55,16 @@ const groupOrder = [
   'rosychronicle',
 ];
 
+const groupLabels = {
+  morningmusume: 'モーニング娘。',
+  angerme: 'アンジュルム',
+  juicejuice: 'Juice=Juice',
+  tsubakifactory: 'つばきファクトリー',
+  beyooooonds: 'BEYOOOOONDS',
+  ochanorma: 'OCHA NORMA',
+  rosychronicle: 'ロージークロニクル',
+};
+
 const memberOrder = {
   morningmusume: ['ikuta', 'oda', 'nonaka', 'makino', 'haga', 'yokoyama', 'kitagawa', 'okamura', 'yamazaki', 'sakurai', 'inoue', 'yumigeta'],
   angerme: ['kamikokuryo', 'ise', 'hashisako', 'kawana', 'tamenaga', 'matsumoto', 'hirayama', 'shimoitani', 'goto', 'nagano'],
@@ -85,6 +95,26 @@ function specialSortKey(file) {
     member,
     rel,
   ].join('\u0000');
+}
+
+function groupFromImageSrc(src) {
+  const decoded = decodeURIComponent(src);
+  return decoded.split('/').find(part => groupOrder.includes(part)) || '';
+}
+
+function renderGallery(images) {
+  if (!images.length) return '<div class="empty">保存画像が見つかりませんでした。</div>';
+  const buckets = new Map();
+  for (const image of images) {
+    const group = groupFromImageSrc(image.src);
+    if (!buckets.has(group)) buckets.set(group, []);
+    buckets.get(group).push(image);
+  }
+  const orderedGroups = [...buckets.keys()].sort((a, b) => orderIndex(groupOrder, a) - orderIndex(groupOrder, b) || a.localeCompare(b, 'ja'));
+  return orderedGroups.map((group) => `<section class="gallery-group">
+    <h3>${esc(groupLabels[group] || 'その他')}</h3>
+    <div class="gallery">${buckets.get(group).map(image => `<a class="image-card" href="${esc(image.src)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(image.src)}" alt="${esc(image.title)}"><span>${esc(image.title)}</span></a>`).join('')}</div>
+  </section>`).join('');
 }
 
 function eventImages(key) {
@@ -119,7 +149,7 @@ const cards = events.map((item, index) => `<article class="event-card" id="event
     </div>
     <a class="source" href="${esc(item.href)}">元ページ</a>
   </header>
-  ${item.images.length ? `<div class="gallery">${item.images.map(image => `<a class="image-card" href="${esc(image.src)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(image.src)}" alt="${esc(image.title)}"><span>${esc(image.title)}</span></a>`).join('')}</div>` : '<div class="empty">保存画像が見つかりませんでした。</div>'}
+  ${renderGallery(item.images)}
 </article>`).join('\n');
 
 const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
@@ -145,7 +175,7 @@ nav{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);ove
 input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff}.clear{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;color:var(--ink);font-size:13px}.nav-title{font-size:12px;color:var(--sub);font-weight:700;margin:12px 0 6px}
 .archive-link-row,.event-button{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none;text-align:left}.archive-link-row span,.event-button span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link-row strong,.event-button strong{font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.archive-link-row b,.event-button b{margin-left:auto;color:var(--sub);font-size:12px}.event-button.active{border-color:var(--cat);box-shadow:0 0 0 2px color-mix(in srgb,var(--cat),transparent 78%);background:color-mix(in srgb,var(--cat),#fff 92%)}
 .summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:12px}.stat{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.stat strong{display:block;font-size:22px;line-height:1.15}.stat span{color:var(--sub);font-size:12px}
-.event-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 18px;overflow:hidden}.event-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h2{font-size:20px;line-height:1.38;margin:1px 0 0}.path{margin:3px 0 0;color:var(--sub);font-size:13px;overflow-wrap:anywhere}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;padding:12px}.image-card{display:block;border:1px solid #edf1f6;border-radius:8px;background:#fff;overflow:hidden;text-decoration:none}.image-card img{display:block;width:100%;height:210px;object-fit:contain;background:#f8fafc}.image-card span{display:block;padding:6px 8px;color:var(--sub);font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.empty{padding:14px;color:var(--sub)}.hidden{display:none!important}
+.event-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 18px;overflow:hidden}.event-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h2{font-size:20px;line-height:1.38;margin:1px 0 0}.path{margin:3px 0 0;color:var(--sub);font-size:13px;overflow-wrap:anywhere}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.gallery-group{padding:12px 12px 4px}.gallery-group h3{font-size:15px;line-height:1.35;margin:0 0 8px;padding:7px 9px;border-left:4px solid var(--accent);background:#f8fafc;border-radius:6px}.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}.image-card{display:block;border:1px solid #edf1f6;border-radius:8px;background:#fff;overflow:hidden;text-decoration:none}.image-card img{display:block;width:100%;height:210px;object-fit:contain;background:#f8fafc}.image-card span{display:block;padding:6px 8px;color:var(--sub);font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.empty{padding:14px;color:var(--sub)}.hidden{display:none!important}
 @media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}nav{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.controls{grid-template-columns:1fr auto}.summary{grid-template-columns:repeat(2,minmax(0,1fr));padding:12px 12px 0;margin:0}.event-card{border-left:0;border-right:0;border-radius:0;margin:0}.event-card header{grid-template-columns:1fr}.source{justify-self:start}.gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:10px}.image-card img{height:180px}}
 </style>
 </head>
