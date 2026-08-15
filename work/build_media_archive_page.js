@@ -70,8 +70,66 @@ function fileSize(bytes) {
   return `${Math.round(bytes / 1024)} KB`;
 }
 
+const GROUP_ORDER = [
+  'モーニング娘。',
+  'アンジュルム',
+  'Juice=Juice',
+  'つばきファクトリー',
+  'BEYOOOOONDS',
+  'OCHA NORMA',
+  'ロージークロニクル',
+  'カントリー・ガールズ',
+  'こぶしファクトリー',
+  '℃-ute',
+  'Berryz工房',
+];
+
+const MEMBER_ORDER = [
+  '譜久村聖', '生田衣梨奈', '石田亜佑美', '佐藤優樹', '工藤遥', '小田さくら', '尾形春水', '野中美希', '牧野真莉愛', '羽賀朱音', '加賀楓', '横山玲奈', '北川莉央', '岡村ほまれ', '山﨑愛生',
+  '竹内朱莉', '佐々木莉佳子', '川村文乃',
+  '金澤朋子', '宮本佳林', '植村あかり', '段原瑠々', '工藤由愛', '松永里愛', '井上玲音', '入江里咲',
+  '山岸理子', '小片リサ', '新沼希空', '谷本安美', '岸本ゆめの', '浅倉樹々', '小野瑞歩', '小野田紗栞', '秋山眞緒',
+  '一岡伶奈', '高瀬くるみ', '清野桃々姫', '島倉りか', '西田汐里', '江口紗耶', '前田こころ', '山﨑夢羽', '岡村美波', '平井美葉', '里吉うたの',
+  '小野田華凜',
+  '嗣永桃子', '山木梨沙', '稲場愛香', '森戸知沙希', '小関舞', '梁川奈々美', '船木結',
+  '野村みな美',
+  '矢島舞美', '中島早貴', '鈴木愛理', '岡井千聖', '萩原舞',
+];
+
+function primaryGroup(label) {
+  const group = String(label || '').split(' - ')[0].split('・')[0];
+  if (label.includes('モーニング娘。')) return 'モーニング娘。';
+  if (label.includes('アンジュルム')) return 'アンジュルム';
+  if (label.includes('Juice=Juice')) return 'Juice=Juice';
+  if (label.includes('つばきファクトリー')) return 'つばきファクトリー';
+  if (label.includes('BEYOOOOONDS')) return 'BEYOOOOONDS';
+  if (label.includes('OCHA NORMA')) return 'OCHA NORMA';
+  if (label.includes('ロージークロニクル')) return 'ロージークロニクル';
+  if (label.includes('カントリー・ガールズ')) return 'カントリー・ガールズ';
+  if (label.includes('こぶしファクトリー')) return 'こぶしファクトリー';
+  if (label.includes('℃-ute')) return '℃-ute';
+  if (label.includes('Berryz工房')) return 'Berryz工房';
+  return group;
+}
+
+function memberName(label) {
+  return String(label || '').split(' - ').pop();
+}
+
+function groupOrder(label) {
+  const index = GROUP_ORDER.indexOf(primaryGroup(label));
+  return index === -1 ? 999 : index;
+}
+
+function memberOrder(label) {
+  const index = MEMBER_ORDER.indexOf(memberName(label));
+  return index === -1 ? 999 : index;
+}
+
 function sortKey(item) {
   return [
+    String(groupOrder(item.subgroup)).padStart(3, '0'),
+    String(memberOrder(item.subgroup)).padStart(3, '0'),
     item.group || '',
     item.date && /^\d{4}-/.test(item.date) ? item.date : '',
     item.name || '',
@@ -120,6 +178,8 @@ const data = {
   groups: [...groups.values()].sort((a, b) => {
     if (a.subgroup === '未分類') return -1;
     if (b.subgroup === '未分類') return 1;
+    const order = groupOrder(a.subgroup) - groupOrder(b.subgroup) || memberOrder(a.subgroup) - memberOrder(b.subgroup);
+    if (order) return order;
     return a.subgroup.localeCompare(b.subgroup, 'ja');
   }),
   items,
