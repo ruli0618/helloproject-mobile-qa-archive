@@ -13,6 +13,7 @@ _send = requests.sessions.Session.send
 
 def _patched_request(self, method, url, **kwargs):
     kwargs.setdefault("verify", False)
+    kwargs.setdefault("timeout", 90)
     return _request(self, method, url, **kwargs)
 
 
@@ -21,6 +22,7 @@ requests.sessions.Session.request = _patched_request
 
 def _patched_send(self, request, **kwargs):
     kwargs.setdefault("verify", False)
+    kwargs.setdefault("timeout", 90)
     return _send(self, request, **kwargs)
 
 
@@ -79,8 +81,7 @@ def upload_program(program):
     manifest = load_manifest()
     identifier = PROGRAM_IDS[program]
     rows = program_rows(manifest, program)
-    item = internetarchive.get_item(identifier)
-    existing = {file.get("name") for file in item.files}
+    existing = get_existing_names(identifier)
     pending = [row for row in rows if row["file_name"] not in existing]
     print(json.dumps({
         "program": program,
@@ -114,10 +115,33 @@ def upload_program(program):
             except Exception as exc:
                 message = str(exc)
                 print(json.dumps({"retry_after_error": message[:500]}, ensure_ascii=False), file=sys.stderr)
-                if "total_tasks_queued exceeds global_limit" in message or "Please reduce your request rate" in message:
+                if (
+                    "total_tasks_queued exceeds global_limit" in message
+                    or "Please reduce your request rate" in message
+                    or "Read timed out" in message
+                    or "Error retrieving metadata" in message
+                    or "Connection aborted" in message
+                ):
                     time.sleep(900)
+                    existing = get_existing_names(identifier)
+                    if row["file_name"] in existing:
+                        break
                     continue
                 raise
+
+
+def get_existing_names(identifier):
+    while True:
+        try:
+            item = internetarchive.get_item(identifier)
+            return {file.get("name") for file in item.files}
+        except Exception as exc:
+            message = str(exc)
+            print(json.dumps({"metadata_retry": identifier, "error": message[:500]}, ensure_ascii=False), file=sys.stderr)
+            if "Read timed out" in message or "Error retrieving metadata" in message or "Connection" in message:
+                time.sleep(900)
+                continue
+            return set()
 
 
 def main():
