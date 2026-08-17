@@ -102,24 +102,57 @@ const manifest = {
 fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2), 'utf8');
 
 const programOptions = programs.map((program) => `<option value="${esc(program)}">${esc(program)}</option>`).join('');
-const rows = items.map((item) => `<article class="radio-card" data-program="${esc(item.program)}" data-search="${esc(`${item.program} ${item.title} ${item.date} ${item.host} ${item.guest} mid${item.mid}`)}" data-episode="${item.episode || 0}">
+
+const episodeMap = new Map();
+for (const item of items) {
+  const key = `${item.program}\u0000${item.episode || item.order}`;
+  if (!episodeMap.has(key)) episodeMap.set(key, []);
+  episodeMap.get(key).push(item);
+}
+const episodes = [...episodeMap.values()].map((tracks) => tracks.sort(compareItem)).sort((a, b) => compareItem(a[0], b[0]));
+const playableEpisodes = episodes.filter((tracks) => tracks.some((item) => item.audio_url)).length;
+const playableTracks = items.filter((item) => item.audio_url).length;
+
+function compactTitle(tracks) {
+  const first = tracks[0];
+  const guest = first.guest ? ` ゲスト：${first.guest}` : '';
+  return `${first.program} - ${first.episode ? `第${first.episode}回` : first.title}${guest}`;
+}
+
+function trackButton(item, index) {
+  const label = item.part ? `#${item.part}` : `${index + 1}`;
+  const disabled = item.audio_url ? '' : ' disabled';
+  const url = item.audio_url ? ` data-url="${esc(item.audio_url)}"` : '';
+  return `<button class="track-button" type="button"${disabled}${url} data-title="${esc(item.title)}">${esc(label)}<small>${esc(item.size_mb)}MB</small></button>`;
+}
+
+const rows = episodes.map((tracks) => {
+  const first = tracks[0];
+  const playable = tracks.filter((item) => item.audio_url);
+  const search = tracks.map((item) => `${item.program} ${item.title} ${item.date} ${item.host} ${item.guest} mid${item.mid}`).join(' ');
+  const date = [...new Set(tracks.map((item) => item.date).filter(Boolean))].join(' / ');
+  const host = [...new Set(tracks.flatMap((item) => [item.host, item.guest].filter(Boolean)))].join(' / ');
+  const mids = tracks.map((item) => item.mid).filter(Boolean).join(', ');
+  return `<article class="radio-card" data-program="${esc(first.program)}" data-search="${esc(search)}" data-episode="${first.episode || 0}">
   <header>
     <div>
-      <div class="meta-line">${esc(item.program)} / ${item.episode ? `第${item.episode}回` : '回不明'}${item.part ? ` #${item.part}` : ''}</div>
-      <h2>${esc(item.title)}</h2>
+      <div class="meta-line">${esc(first.program)} / ${first.episode ? `第${first.episode}回` : '回不明'} / ${tracks.length}分割</div>
+      <h2>${esc(compactTitle(tracks))}</h2>
     </div>
-    <span class="size">${item.size_mb}MB</span>
+    <span class="size">${playable.length}/${tracks.length} 再生可</span>
   </header>
   <dl>
-    <div><dt>配信</dt><dd>${esc(item.date || '-')}</dd></div>
-    <div><dt>出演</dt><dd>${esc([item.host, item.guest ? `ゲスト: ${item.guest}` : ''].filter(Boolean).join(' / ') || '-')}</dd></div>
-    <div><dt>mid</dt><dd>${esc(item.mid || '-')}</dd></div>
+    <div><dt>配信</dt><dd>${esc(date || '-')}</dd></div>
+    <div><dt>出演</dt><dd>${esc(host || '-')}</dd></div>
+    <div><dt>mid</dt><dd>${esc(mids || '-')}</dd></div>
   </dl>
-  <div class="player"${item.audio_url ? '' : ' data-empty="true"'}>
-    ${item.audio_url ? `<audio controls preload="metadata" src="${esc(item.audio_url)}"></audio><a href="${esc(item.audio_url)}" target="_blank" rel="noopener noreferrer">音源を開く</a>` : '<span>音源アップロード後にここで再生できます</span>'}
+  <div class="player"${playable.length ? '' : ' data-empty="true"'}>
+    ${playable.length ? `<audio controls preload="metadata" src="${esc(playable[0].audio_url)}"></audio><div class="now-playing">再生中: <span>${esc(playable[0].title)}</span></div>` : '<span>音源アップロード後にここで再生できます</span>'}
   </div>
-  <p class="filename">${esc(item.file_name)}</p>
-</article>`).join('\n');
+  <div class="track-list">${tracks.map(trackButton).join('')}</div>
+  <details class="filenames"><summary>分割ファイル名</summary>${tracks.map((item) => `<p>${esc(item.file_name)}</p>`).join('')}</details>
+</article>`;
+}).join('\n');
 
 const html = `<!doctype html>
 <html lang="ja">
@@ -134,15 +167,16 @@ a{color:inherit}.top{position:sticky;top:0;z-index:5;background:rgba(255,255,255
 h1{margin:0 0 8px;font-size:24px;line-height:1.3}.pills{display:flex;gap:8px;flex-wrap:wrap}.pill,.link{border:1px solid var(--line);border-radius:999px;background:#fff;padding:3px 10px;color:var(--sub);font-size:13px;text-decoration:none}.link{color:#174154;font-weight:700}
 main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-template-columns:300px minmax(0,1fr);gap:16px}.side{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px}
 .control{display:grid;gap:6px;margin-bottom:11px}.control label,.nav-title{font-size:12px;color:var(--sub);font-weight:700}.nav-title{margin:12px 0 6px}.side input,.side select{width:100%;border:1px solid var(--line);border-radius:8px;padding:9px 10px;font-size:15px;background:#fff}.side button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;color:var(--ink);font-size:13px}.archive-link{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link b{margin-left:auto;color:var(--sub);font-size:12px}.summary{color:var(--sub);font-size:13px}
-.radio-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden}.radio-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.meta-line{font-size:12px;color:var(--sub)}h2{font-size:18px;line-height:1.42;margin:2px 0 0}.size{align-self:start;color:var(--sub);font-size:12px;white-space:nowrap}dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0;padding:12px 14px}dt{color:var(--sub);font-size:12px;font-weight:700}dd{margin:0;font-size:14px;overflow-wrap:anywhere}.player{margin:0 14px 12px;padding:12px;border:1px dashed var(--line);border-radius:8px;background:var(--accent-soft);color:var(--sub);font-size:13px}.player audio{width:100%}.filename{margin:0;padding:0 14px 14px;color:var(--sub);font-size:12px;overflow-wrap:anywhere}.hidden{display:none!important}
-@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.filename{padding:0 12px 12px}}
+.radio-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden}.radio-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.meta-line{font-size:12px;color:var(--sub)}h2{font-size:18px;line-height:1.42;margin:2px 0 0}.size{align-self:start;color:var(--sub);font-size:12px;white-space:nowrap}dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0;padding:12px 14px}dt{color:var(--sub);font-size:12px;font-weight:700}dd{margin:0;font-size:14px;overflow-wrap:anywhere}.player{margin:0 14px 10px;padding:12px;border:1px dashed var(--line);border-radius:8px;background:var(--accent-soft);color:var(--sub);font-size:13px}.player audio{width:100%}.now-playing{margin-top:7px;color:var(--ink);font-size:13px}.track-list{display:flex;gap:8px;flex-wrap:wrap;margin:0 14px 12px}.track-button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;min-width:74px;color:var(--ink);font-weight:700;cursor:pointer}.track-button small{display:block;color:var(--sub);font-weight:400;font-size:11px}.track-button[disabled]{opacity:.45;cursor:not-allowed}.track-button.is-active{border-color:var(--accent);background:var(--accent);color:#fff}.track-button.is-active small{color:#dff7ff}.filenames{margin:0;padding:0 14px 14px;color:var(--sub);font-size:12px}.filenames summary{cursor:pointer}.filenames p{margin:5px 0;overflow-wrap:anywhere}.hidden{display:none!important}
+@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.track-list{margin:0 12px 12px}.track-button{flex:1 1 76px}.filenames{padding:0 12px 12px}}
 </style>
 </head>
 <body>
 <header class="top"><div class="top-inner">
   <h1>ハローラジオ アーカイブ</h1>
   <div class="pills">
-    <span class="pill">音源 ${items.length}本</span>
+    <span class="pill">音源 ${playableTracks}/${items.length}本 再生可</span>
+    <span class="pill">回 ${playableEpisodes}/${episodes.length}件 再生可</span>
     <span class="pill">番組 ${programs.length}件</span>
     <span class="pill">合計 ${manifest.total_gb}GB</span>
     <a class="link" href="../../../../index.html">トップ</a>
@@ -169,6 +203,29 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
 <script>
 const q=document.getElementById('q'), program=document.getElementById('program'), clear=document.getElementById('clear'), summary=document.getElementById('summary');
 const cards=[...document.querySelectorAll('.radio-card')];
+for(const card of cards){
+  const audio=card.querySelector('audio');
+  const now=card.querySelector('.now-playing span');
+  const buttons=[...card.querySelectorAll('.track-button:not([disabled])')];
+  function activate(button, play){
+    buttons.forEach(item=>item.classList.toggle('is-active',item===button));
+    if(!audio||!button) return;
+    audio.src=button.dataset.url;
+    if(now) now.textContent=button.dataset.title||button.textContent.trim();
+    if(play) audio.play().catch(()=>{});
+  }
+  buttons.forEach((button,index)=>{
+    button.addEventListener('click',()=>activate(button,true));
+    if(index===0) button.classList.add('is-active');
+  });
+  if(audio){
+    audio.addEventListener('ended',()=>{
+      const current=buttons.findIndex(button=>button.classList.contains('is-active'));
+      const next=buttons[current+1];
+      if(next) activate(next,true);
+    });
+  }
+}
 function apply(){
   const term=q.value.trim().toLowerCase();
   const selected=program.value;
