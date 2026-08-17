@@ -200,8 +200,9 @@ const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
 <div class="nav-row" style="--cat:#4a88c7"><a class="cat group-link" href="../hello_pedia/media.html"><span></span><strong>妄想動画</strong><b>開く</b></a></div>
 <div class="nav-row" style="--cat:#d15f2f"><a class="cat group-link" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a></div>
 <div class="nav-row" style="--cat:#6b63b5"><a class="cat group-link" href="../special_events/index.html"><span></span><strong>特設イベント</strong><b>開く</b></a></div>
-<div class="nav-row" style="--cat:#0b7fab"><a class="cat group-link" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a></div>`;
-const archivePills = `<span class="pill"><a href="../hello_pedia/index.html">ペディア</a></span><span class="pill"><a href="../hello_pedia/media.html">妄想動画</a></span><span class="pill"><a href="../tour_diary/index.html">ツアー日記</a></span><span class="pill"><a href="../special_events/index.html">特設イベント</a></span><span class="pill"><a href="../mail/index.html">メール</a></span>`;
+<div class="nav-row" style="--cat:#0b7fab"><a class="cat group-link" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a></div>
+<div class="nav-row" style="--cat:#2b8a5f"><a class="cat group-link" href="../radio/index.html"><span></span><strong>ハローラジオ</strong><b>開く</b></a></div>`;
+const archivePills = `<span class="pill"><a href="../hello_pedia/index.html">ペディア</a></span><span class="pill"><a href="../hello_pedia/media.html">妄想動画</a></span><span class="pill"><a href="../tour_diary/index.html">ツアー日記</a></span><span class="pill"><a href="../special_events/index.html">特設イベント</a></span><span class="pill"><a href="../mail/index.html">メール</a></span><span class="pill"><a href="../radio/index.html">ラジオ</a></span>`;
 function sectionHtml(cat, deferred = false) {
   const items = byCategory.get(cat.id) || [];
   return `<section class="category-section${deferred ? ' deferred' : ''}" id="cat-${htmlEscape(cat.id)}" data-category-section="${htmlEscape(cat.id)}"><h2 style="--cat:#${htmlEscape(cat.color)}"><span></span>${htmlEscape(cat.title)} <small>${items.length}件</small></h2>${items.map(itemHtml).join('\n')}</section>`;

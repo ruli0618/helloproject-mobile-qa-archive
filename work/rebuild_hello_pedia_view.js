@@ -158,7 +158,8 @@ const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
 <a class="archive-link-row" style="--cat:#4a88c7" href="media.html"><span></span><strong>妄想動画</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#6b63b5" href="../special_events/index.html"><span></span><strong>特設イベント</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>`;
+<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#2b8a5f" href="../radio/index.html"><span></span><strong>ハローラジオ</strong><b>開く</b></a>`;
 const nav = items.map((item) => `<button class="pedia-button" data-id="item-${esc(item.id)}"><strong>${esc(item.title)}</strong><b>${item.entries.length || 1}</b><span>${esc(item.date)}</span></button>`).join('\n');
 
 const cards = items.map((item) => {

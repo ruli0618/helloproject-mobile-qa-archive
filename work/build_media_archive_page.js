@@ -190,7 +190,8 @@ const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
 <a class="archive-link-row" style="--cat:#127e97" href="index.html"><span></span><strong>ハローペディア</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#6b63b5" href="../special_events/index.html"><span></span><strong>特設イベント</strong><b>開く</b></a>
-<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>`;
+<a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#2b8a5f" href="../radio/index.html"><span></span><strong>ハローラジオ</strong><b>開く</b></a>`;
 
 const html = `<!doctype html>
 <html lang="ja">

@@ -182,6 +182,7 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
     <a class="link" href="../../../../index.html">トップ</a>
     <a class="link" href="../hello_qa/index.html">ハロー！Q&amp;A</a>
     <a class="link" href="../hello_pedia/index.html">ハローペディア</a>
+    <a class="link" href="../mail/index.html">メール</a>
   </div>
 </div></header>
 <main>
@@ -192,6 +193,7 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
   <a class="archive-link" style="--cat:#4a88c7" href="../hello_pedia/media.html"><span></span><strong>妄想動画</strong><b>開く</b></a>
   <a class="archive-link" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
   <a class="archive-link" style="--cat:#6b63b5" href="../special_events/index.html"><span></span><strong>特設イベント</strong><b>開く</b></a>
+  <a class="archive-link" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>
   <div class="nav-title">絞り込み</div>
   <div class="control"><label for="q">検索</label><input id="q" type="search" placeholder="番組、回、出演者、mid"></div>
   <div class="control"><label for="program">番組</label><select id="program"><option value="">すべて</option>${programOptions}</select></div>
