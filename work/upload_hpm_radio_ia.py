@@ -2,6 +2,7 @@ import json
 import time
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 import urllib3
@@ -133,8 +134,10 @@ def upload_program(program):
 def get_existing_names(identifier):
     while True:
         try:
-            item = internetarchive.get_item(identifier)
-            return {file.get("name") for file in item.files}
+            response = requests.get(f"https://archive.org/metadata/{identifier}", verify=False, timeout=90)
+            response.raise_for_status()
+            files = response.json().get("files", [])
+            return {file.get("name") for file in files if file.get("name")}
         except Exception as exc:
             message = str(exc)
             print(json.dumps({"metadata_retry": identifier, "error": message[:500]}, ensure_ascii=False), file=sys.stderr)
@@ -142,6 +145,26 @@ def get_existing_names(identifier):
                 time.sleep(900)
                 continue
             return set()
+
+
+def relink():
+    manifest = load_manifest()
+    linked = 0
+    counts = {}
+    for program, identifier in PROGRAM_IDS.items():
+        existing = get_existing_names(identifier)
+        counts[program] = 0
+        for row in manifest["items"]:
+            if row["program"] != program:
+                continue
+            if row["file_name"] in existing:
+                row["archive_item"] = identifier
+                row["audio_url"] = f"https://archive.org/download/{identifier}/{quote(row['file_name'])}"
+                linked += 1
+                counts[program] += 1
+    manifest["generated_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps({"linked": linked, "counts": counts}, ensure_ascii=False, indent=2))
 
 
 def main():
@@ -155,7 +178,10 @@ def main():
         for name in programs:
             upload_program(name)
         return
-    print("usage: python work/upload_hpm_radio_ia.py check|upload [program name]")
+    if command == "relink":
+        relink()
+        return
+    print("usage: python work/upload_hpm_radio_ia.py check|upload [program name]|relink")
     sys.exit(2)
 
 
