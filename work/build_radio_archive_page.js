@@ -207,18 +207,40 @@ for(const card of cards){
   const audio=card.querySelector('audio');
   const now=card.querySelector('.now-playing span');
   const buttons=[...card.querySelectorAll('.track-button:not([disabled])')];
+  let preloadAudio=null;
+  function preloadNext(){
+    if(!audio||!buttons.length) return;
+    const current=buttons.findIndex(button=>button.classList.contains('is-active'));
+    const next=buttons[current+1];
+    if(!next||!next.dataset.url) return;
+    if(!preloadAudio){
+      preloadAudio=new Audio();
+      preloadAudio.preload='auto';
+    }
+    if(preloadAudio.src!==next.dataset.url){
+      preloadAudio.src=next.dataset.url;
+      preloadAudio.load();
+    }
+  }
   function activate(button, play){
     buttons.forEach(item=>item.classList.toggle('is-active',item===button));
     if(!audio||!button) return;
     audio.src=button.dataset.url;
     if(now) now.textContent=button.dataset.title||button.textContent.trim();
+    audio.load();
     if(play) audio.play().catch(()=>{});
+    preloadNext();
   }
   buttons.forEach((button,index)=>{
     button.addEventListener('click',()=>activate(button,true));
     if(index===0) button.classList.add('is-active');
   });
   if(audio){
+    audio.addEventListener('play',preloadNext);
+    audio.addEventListener('loadedmetadata',preloadNext);
+    audio.addEventListener('timeupdate',()=>{
+      if(audio.duration&&audio.duration-audio.currentTime<25) preloadNext();
+    });
     audio.addEventListener('ended',()=>{
       const current=buttons.findIndex(button=>button.classList.contains('is-active'));
       const next=buttons[current+1];
