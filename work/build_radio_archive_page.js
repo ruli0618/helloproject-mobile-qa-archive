@@ -126,14 +126,14 @@ function trackButton(item, index) {
   return `<button class="track-button" type="button"${disabled}${url} data-title="${esc(item.title)}">${esc(label)}<small>${esc(item.size_mb)}MB</small></button>`;
 }
 
-const rows = episodes.map((tracks) => {
+const rows = episodes.map((tracks, idx) => {
   const first = tracks[0];
   const playable = tracks.filter((item) => item.audio_url);
   const search = tracks.map((item) => `${item.program} ${item.title} ${item.date} ${item.host} ${item.guest} mid${item.mid}`).join(' ');
   const date = [...new Set(tracks.map((item) => item.date).filter(Boolean))].join(' / ');
   const host = [...new Set(tracks.flatMap((item) => [item.host, item.guest].filter(Boolean)))].join(' / ');
   const mids = tracks.map((item) => item.mid).filter(Boolean).join(', ');
-  return `<article class="radio-card" data-program="${esc(first.program)}" data-search="${esc(search)}" data-episode="${first.episode || 0}">
+  return `<article id="episode-${idx + 1}" class="radio-card" data-program="${esc(first.program)}" data-search="${esc(search)}" data-episode="${first.episode || 0}" data-jump-title="${esc(compactTitle(tracks))}">
   <header>
     <div>
       <div class="meta-line">${esc(first.program)} / ${first.episode ? `第${first.episode}回` : '回不明'} / ${tracks.length}分割</div>
@@ -166,9 +166,9 @@ const html = `<!doctype html>
 a{color:inherit}.top{position:sticky;top:0;z-index:5;background:rgba(255,255,255,.97);border-bottom:1px solid var(--line)}.top-inner{max-width:1320px;margin:auto;padding:13px 18px}
 h1{margin:0 0 8px;font-size:24px;line-height:1.3}.pills{display:flex;gap:8px;flex-wrap:wrap}.pill,.link{border:1px solid var(--line);border-radius:999px;background:#fff;padding:3px 10px;color:var(--sub);font-size:13px;text-decoration:none}.link{color:#174154;font-weight:700}
 main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-template-columns:300px minmax(0,1fr);gap:16px;align-items:start}.side{position:sticky;top:178px;align-self:start;max-height:calc(100vh - 196px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px;overscroll-behavior:contain}
-.control{display:grid;gap:6px;margin-bottom:11px}.control label,.nav-title{font-size:12px;color:var(--sub);font-weight:700}.nav-title{margin:12px 0 6px}.side input,.side select{width:100%;border:1px solid var(--line);border-radius:8px;padding:9px 10px;font-size:15px;background:#fff}.side button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;color:var(--ink);font-size:13px}.archive-link{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link b{margin-left:auto;color:var(--sub);font-size:12px}.summary{color:var(--sub);font-size:13px}
+.control{display:grid;gap:6px;margin-bottom:11px}.control label,.nav-title{font-size:12px;color:var(--sub);font-weight:700}.nav-title{margin:12px 0 6px}.side input,.side select{width:100%;border:1px solid var(--line);border-radius:8px;padding:9px 10px;font-size:15px;background:#fff}.side button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;color:var(--ink);font-size:13px}.archive-link{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link b{margin-left:auto;color:var(--sub);font-size:12px}.summary{color:var(--sub);font-size:13px}.jump-list{display:grid;gap:6px;margin-top:7px;max-height:36vh;overflow:auto;padding-right:2px}.jump-item{display:grid;grid-template-columns:auto minmax(0,1fr);gap:7px;align-items:center;width:100%;text-align:left}.jump-item b{color:#174154;white-space:nowrap}.jump-item span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--sub)}.jump-empty{color:var(--sub);font-size:13px;margin:6px 0 0}
 .global-player{position:sticky;top:68px;z-index:4;max-width:1320px;margin:0 auto;padding:10px 18px;background:rgba(244,247,251,.96);border-bottom:1px solid var(--line)}.global-inner{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.global-player video{width:100%;height:56px;background:#101820;border-radius:6px}.global-title{font-size:13px;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.global-actions{display:flex;gap:8px;align-items:center;justify-content:flex-end;flex-wrap:wrap}.global-nav,.global-open,.history-clear{border:1px solid var(--line);border-radius:999px;background:#fff;padding:7px 12px;color:#174154;text-decoration:none;font-size:13px;font-weight:700;cursor:pointer}.global-nav:disabled{opacity:.42;cursor:not-allowed}.global-open{padding:7px 12px}.history-panel{grid-column:1/-1;border-top:1px solid var(--line);padding-top:8px}.history-panel summary{cursor:pointer;color:var(--sub);font-size:13px;font-weight:700}.history-list{display:grid;gap:6px;max-height:190px;overflow:auto;margin-top:8px}.history-item{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:center;border:1px solid var(--line);border-radius:8px;background:#fbfcfe;padding:8px 9px;text-align:left;color:var(--ink);cursor:pointer}.history-item span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.history-item small{color:var(--sub)}.history-empty{color:var(--sub);font-size:13px;margin:8px 0}.history-clear{margin-top:8px;padding:5px 10px;font-size:12px}.radio-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden}.radio-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.meta-line{font-size:12px;color:var(--sub)}h2{font-size:18px;line-height:1.42;margin:2px 0 0}.size{align-self:start;color:var(--sub);font-size:12px;white-space:nowrap}dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0;padding:12px 14px}dt{color:var(--sub);font-size:12px;font-weight:700}dd{margin:0;font-size:14px;overflow-wrap:anywhere}.player{margin:0 14px 10px;padding:12px;border:1px dashed var(--line);border-radius:8px;background:var(--accent-soft);color:var(--sub);font-size:13px}.load-play{width:100%;margin:0 0 6px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#fff;padding:9px 12px;font-weight:700;cursor:pointer}.track-list{display:flex;gap:8px;flex-wrap:wrap;margin:0 14px 12px}.track-button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;min-width:74px;color:var(--ink);font-weight:700;cursor:pointer}.track-button small{display:block;color:var(--sub);font-weight:400;font-size:11px}.track-button[disabled]{opacity:.45;cursor:not-allowed}.track-button.is-active{border-color:var(--accent);background:var(--accent);color:#fff}.track-button.is-active small{color:#dff7ff}.filenames{margin:0;padding:0 14px 14px;color:var(--sub);font-size:12px}.filenames summary{cursor:pointer}.filenames p{margin:5px 0;overflow-wrap:anywhere}.hidden{display:none!important}
-@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}.top h1{font-size:21px}.global-player{position:sticky;top:0;padding:7px 8px;background:#f8fafc}.global-inner{grid-template-columns:1fr;gap:8px;padding:8px}.global-player video{height:50px}.global-title{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;line-height:1.35}.global-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px}.global-nav,.global-open{min-height:40px;padding:9px 8px;text-align:center}.history-panel{padding-top:6px}.history-list{max-height:34vh}.history-item{grid-template-columns:1fr;gap:2px;padding:9px}.history-item span{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.history-clear{width:100%;min-height:36px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.track-list{margin:0 12px 12px}.track-button{flex:1 1 76px;min-height:44px}.filenames{padding:0 12px 12px}}
+@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}.top h1{font-size:21px}.global-player{position:sticky;top:0;padding:7px 8px;background:#f8fafc}.global-inner{grid-template-columns:1fr;gap:8px;padding:8px}.global-player video{height:50px}.global-title{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;line-height:1.35}.global-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px}.global-nav,.global-open{min-height:40px;padding:9px 8px;text-align:center}.history-panel{padding-top:6px}.history-list{max-height:34vh}.history-item{grid-template-columns:1fr;gap:2px;padding:9px}.history-item span{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.history-clear{width:100%;min-height:36px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.jump-list{display:flex;overflow-x:auto;max-height:none;padding:0 0 4px}.jump-item{grid-template-columns:1fr;min-width:118px}.jump-item span{display:none}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.track-list{margin:0 12px 12px}.track-button{flex:1 1 76px;min-height:44px}.filenames{padding:0 12px 12px}}
 </style>
 </head>
 <body>
@@ -217,11 +217,13 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
   <div class="control"><label for="program">番組</label><select id="program"><option value="">すべて</option>${programOptions}</select></div>
   <button id="clear">クリア</button>
   <p id="summary" class="summary"></p>
+  <div class="nav-title">回数ジャンプ</div>
+  <div id="jumpList" class="jump-list"></div>
 </aside>
 <section id="list">${rows}</section>
 </main>
 <script>
-const q=document.getElementById('q'), program=document.getElementById('program'), clear=document.getElementById('clear'), summary=document.getElementById('summary');
+const q=document.getElementById('q'), program=document.getElementById('program'), clear=document.getElementById('clear'), summary=document.getElementById('summary'), jumpList=document.getElementById('jumpList');
 const cards=[...document.querySelectorAll('.radio-card')];
 const media=document.getElementById('globalMedia');
 const globalTitle=document.getElementById('globalTitle');
@@ -343,14 +345,46 @@ function apply(){
   const term=q.value.trim().toLowerCase();
   const selected=program.value;
   let shown=0;
+  const visible=[];
   for(const card of cards){
     const okProgram=!selected||card.dataset.program===selected;
     const okText=!term||card.dataset.search.toLowerCase().includes(term);
     const ok=okProgram&&okText;
     card.classList.toggle('hidden',!ok);
-    if(ok) shown++;
+    if(ok){
+      shown++;
+      visible.push(card);
+    }
   }
   summary.textContent=shown+' / '+cards.length+'本';
+  renderJumpList(visible);
+}
+function renderJumpList(visible){
+  if(!jumpList) return;
+  jumpList.innerHTML='';
+  const items=visible.slice(0,220);
+  if(!items.length){
+    jumpList.innerHTML='<p class="jump-empty">表示中の回がありません</p>';
+    return;
+  }
+  for(const card of items){
+    const button=document.createElement('button');
+    button.type='button';
+    button.className='jump-item';
+    const episode=Number(card.dataset.episode||0);
+    const label=episode?'第'+episode+'回':'回不明';
+    button.innerHTML='<b></b><span></span>';
+    button.querySelector('b').textContent=label;
+    button.querySelector('span').textContent=card.dataset.jumpTitle||card.querySelector('h2')?.textContent||'';
+    button.addEventListener('click',()=>card.scrollIntoView({behavior:'smooth',block:'start'}));
+    jumpList.appendChild(button);
+  }
+  if(visible.length>items.length){
+    const note=document.createElement('p');
+    note.className='jump-empty';
+    note.textContent='表示が多いため先頭'+items.length+'件まで表示中';
+    jumpList.appendChild(note);
+  }
 }
 function syncUrl(){
   const params=new URLSearchParams(location.search);
