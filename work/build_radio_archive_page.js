@@ -352,9 +352,25 @@ function apply(){
   }
   summary.textContent=shown+' / '+cards.length+'本';
 }
+function syncUrl(){
+  const params=new URLSearchParams(location.search);
+  if(program.value) params.set('program',program.value); else params.delete('program');
+  if(q.value.trim()) params.set('q',q.value.trim()); else params.delete('q');
+  const next=location.pathname+(params.toString()?'?'+params.toString():'')+location.hash;
+  history.replaceState(null,'',next);
+}
+function applyFromUrl(){
+  const params=new URLSearchParams(location.search);
+  const selected=params.get('program')||'';
+  const term=params.get('q')||'';
+  if(selected&&[...program.options].some(option=>option.value===selected)) program.value=selected;
+  if(term) q.value=term;
+}
 q.addEventListener('input',apply);
-program.addEventListener('change',apply);
-clear.addEventListener('click',()=>{q.value='';program.value='';apply();q.focus()});
+q.addEventListener('input',syncUrl);
+program.addEventListener('change',()=>{apply();syncUrl();});
+clear.addEventListener('click',()=>{q.value='';program.value='';apply();syncUrl();q.focus()});
+applyFromUrl();
 apply();
 </script>
 </body>
