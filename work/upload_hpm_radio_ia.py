@@ -122,6 +122,9 @@ def upload_program(program):
                     or "Read timed out" in message
                     or "Error retrieving metadata" in message
                     or "Connection aborted" in message
+                    or "SSLError" in message
+                    or "EOF occurred in violation of protocol" in message
+                    or "Max retries exceeded" in message
                 ):
                     time.sleep(900)
                     existing = get_existing_names(identifier)
