@@ -363,7 +363,13 @@ function applyFromUrl(){
   const params=new URLSearchParams(location.search);
   const selected=params.get('program')||'';
   const term=params.get('q')||'';
-  if(selected&&[...program.options].some(option=>option.value===selected)) program.value=selected;
+  if(selected){
+    const options=[...program.options];
+    const exact=options.find(option=>option.value===selected);
+    const partial=options.find(option=>option.value.includes(selected));
+    const match=exact||partial;
+    if(match) program.value=match.value;
+  }
   if(term) q.value=term;
 }
 q.addEventListener('input',apply);
