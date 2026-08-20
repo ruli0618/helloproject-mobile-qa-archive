@@ -147,7 +147,7 @@ const rows = episodes.map((tracks) => {
     <div><dt>mid</dt><dd>${esc(mids || '-')}</dd></div>
   </dl>
   <div class="player"${playable.length ? '' : ' data-empty="true"'}>
-    ${playable.length ? `<button class="load-play" type="button">この回を再生</button><video controls playsinline preload="none"></video><div class="now-playing">選択中: <span>${esc(playable[0].title)}</span><a class="open-current" href="${esc(playable[0].audio_url)}" target="_blank" rel="noopener noreferrer">直接開く</a></div>` : '<span>音源アップロード後にここで再生できます</span>'}
+    ${playable.length ? `<button class="load-play" type="button">この回を再生</button><span>共通プレイヤーで再生します</span>` : '<span>音源アップロード後にここで再生できます</span>'}
   </div>
   <div class="track-list">${tracks.map(trackButton).join('')}</div>
   <details class="filenames"><summary>分割ファイル名</summary>${tracks.map((item) => `<p>${esc(item.file_name)}</p>`).join('')}</details>
@@ -167,8 +167,8 @@ a{color:inherit}.top{position:sticky;top:0;z-index:5;background:rgba(255,255,255
 h1{margin:0 0 8px;font-size:24px;line-height:1.3}.pills{display:flex;gap:8px;flex-wrap:wrap}.pill,.link{border:1px solid var(--line);border-radius:999px;background:#fff;padding:3px 10px;color:var(--sub);font-size:13px;text-decoration:none}.link{color:#174154;font-weight:700}
 main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-template-columns:300px minmax(0,1fr);gap:16px}.side{position:sticky;top:86px;align-self:start;max-height:calc(100vh - 104px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px}
 .control{display:grid;gap:6px;margin-bottom:11px}.control label,.nav-title{font-size:12px;color:var(--sub);font-weight:700}.nav-title{margin:12px 0 6px}.side input,.side select{width:100%;border:1px solid var(--line);border-radius:8px;padding:9px 10px;font-size:15px;background:#fff}.side button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;color:var(--ink);font-size:13px}.archive-link{display:flex;align-items:center;gap:7px;width:100%;min-height:34px;margin-bottom:7px;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;text-decoration:none}.archive-link span{width:10px;height:10px;border-radius:50%;background:var(--cat);flex:0 0 auto}.archive-link b{margin-left:auto;color:var(--sub);font-size:12px}.summary{color:var(--sub);font-size:13px}
-.radio-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden}.radio-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.meta-line{font-size:12px;color:var(--sub)}h2{font-size:18px;line-height:1.42;margin:2px 0 0}.size{align-self:start;color:var(--sub);font-size:12px;white-space:nowrap}dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0;padding:12px 14px}dt{color:var(--sub);font-size:12px;font-weight:700}dd{margin:0;font-size:14px;overflow-wrap:anywhere}.player{margin:0 14px 10px;padding:12px;border:1px dashed var(--line);border-radius:8px;background:var(--accent-soft);color:var(--sub);font-size:13px}.player video{display:block;width:100%;height:56px;background:#101820;border-radius:6px}.load-play{width:100%;margin:0 0 9px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#fff;padding:9px 12px;font-weight:700;cursor:pointer}.now-playing{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:7px;color:var(--ink);font-size:13px}.open-current{margin-left:auto;border:1px solid var(--line);border-radius:999px;background:#fff;padding:2px 9px;color:#174154;text-decoration:none;font-weight:700}.track-list{display:flex;gap:8px;flex-wrap:wrap;margin:0 14px 12px}.track-button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;min-width:74px;color:var(--ink);font-weight:700;cursor:pointer}.track-button small{display:block;color:var(--sub);font-weight:400;font-size:11px}.track-button[disabled]{opacity:.45;cursor:not-allowed}.track-button.is-active{border-color:var(--accent);background:var(--accent);color:#fff}.track-button.is-active small{color:#dff7ff}.filenames{margin:0;padding:0 14px 14px;color:var(--sub);font-size:12px}.filenames summary{cursor:pointer}.filenames p{margin:5px 0;overflow-wrap:anywhere}.hidden{display:none!important}
-@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.track-list{margin:0 12px 12px}.track-button{flex:1 1 76px}.filenames{padding:0 12px 12px}}
+.global-player{position:sticky;top:68px;z-index:4;max-width:1320px;margin:0 auto;padding:10px 18px;background:rgba(244,247,251,.96);border-bottom:1px solid var(--line)}.global-inner{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.global-player video{width:100%;height:56px;background:#101820;border-radius:6px}.global-title{font-size:13px;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.global-open{border:1px solid var(--line);border-radius:999px;background:#fff;padding:4px 10px;color:#174154;text-decoration:none;font-size:13px;font-weight:700}.radio-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 12px;overflow:hidden}.radio-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.meta-line{font-size:12px;color:var(--sub)}h2{font-size:18px;line-height:1.42;margin:2px 0 0}.size{align-self:start;color:var(--sub);font-size:12px;white-space:nowrap}dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0;padding:12px 14px}dt{color:var(--sub);font-size:12px;font-weight:700}dd{margin:0;font-size:14px;overflow-wrap:anywhere}.player{margin:0 14px 10px;padding:12px;border:1px dashed var(--line);border-radius:8px;background:var(--accent-soft);color:var(--sub);font-size:13px}.load-play{width:100%;margin:0 0 6px;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#fff;padding:9px 12px;font-weight:700;cursor:pointer}.track-list{display:flex;gap:8px;flex-wrap:wrap;margin:0 14px 12px}.track-button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;min-width:74px;color:var(--ink);font-weight:700;cursor:pointer}.track-button small{display:block;color:var(--sub);font-weight:400;font-size:11px}.track-button[disabled]{opacity:.45;cursor:not-allowed}.track-button.is-active{border-color:var(--accent);background:var(--accent);color:#fff}.track-button.is-active small{color:#dff7ff}.filenames{margin:0;padding:0 14px 14px;color:var(--sub);font-size:12px}.filenames summary{cursor:pointer}.filenames p{margin:5px 0;overflow-wrap:anywhere}.hidden{display:none!important}
+@media(max-width:900px){body{background:#fff}.top{position:static}.top-inner{padding:12px}.global-player{position:sticky;top:0;padding:8px 10px;background:#f8fafc}.global-inner{grid-template-columns:1fr}.global-player video{height:54px}main{display:block;padding:0;background:#fff}.side{position:static;max-height:none;border-width:0 0 1px;border-radius:0;background:#f8fafc}.radio-card{border-left:0;border-right:0;border-radius:0;margin:0}.radio-card header{grid-template-columns:1fr;padding:11px 12px}.size{justify-self:start}dl{grid-template-columns:1fr;padding:10px 12px}.player{margin:0 12px 10px}.track-list{margin:0 12px 12px}.track-button{flex:1 1 76px}.filenames{padding:0 12px 12px}}
 </style>
 </head>
 <body>
@@ -185,6 +185,15 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
     <a class="link" href="../mail/index.html">メール</a>
   </div>
 </div></header>
+<section class="global-player">
+  <div class="global-inner">
+    <div>
+      <video id="globalMedia" controls playsinline preload="none"></video>
+      <div id="globalTitle" class="global-title">再生する回または # を選んでください</div>
+    </div>
+    <a id="globalOpen" class="global-open" href="#" target="_blank" rel="noopener noreferrer">直接開く</a>
+  </div>
+</section>
 <main>
 <aside class="side">
   <div class="nav-title">他のアーカイブ</div>
@@ -205,60 +214,58 @@ main{max-width:1320px;margin:0 auto;padding:14px 18px 34px;display:grid;grid-tem
 <script>
 const q=document.getElementById('q'), program=document.getElementById('program'), clear=document.getElementById('clear'), summary=document.getElementById('summary');
 const cards=[...document.querySelectorAll('.radio-card')];
+const media=document.getElementById('globalMedia');
+const globalTitle=document.getElementById('globalTitle');
+const globalOpen=document.getElementById('globalOpen');
+const allTracks=[...document.querySelectorAll('.track-button:not([disabled])')];
+let activeTrack=null;
+let preloadMedia=null;
+function preloadNext(){
+  if(!activeTrack) return;
+  const current=allTracks.indexOf(activeTrack);
+  const next=allTracks[current+1];
+  if(!next||!next.dataset.url) return;
+  if(!preloadMedia){
+    preloadMedia=document.createElement('video');
+    preloadMedia.preload='auto';
+  }
+  if(preloadMedia.src!==next.dataset.url){
+    preloadMedia.src=next.dataset.url;
+    preloadMedia.load();
+  }
+}
+function activateTrack(button, play){
+  if(!button||!button.dataset.url) return;
+  allTracks.forEach(item=>item.classList.toggle('is-active',item===button));
+  activeTrack=button;
+  if(media.src!==button.dataset.url){
+    media.src=button.dataset.url;
+    media.load();
+  }
+  if(globalTitle) globalTitle.textContent=button.dataset.title||button.textContent.trim();
+  if(globalOpen) globalOpen.href=button.dataset.url;
+  if(play) media.play().catch(()=>{});
+  preloadNext();
+}
+allTracks.forEach((button)=>button.addEventListener('click',()=>activateTrack(button,true)));
+if(media){
+  media.addEventListener('play',preloadNext);
+  media.addEventListener('loadedmetadata',preloadNext);
+  media.addEventListener('timeupdate',()=>{
+    if(media.duration&&media.duration-media.currentTime<25) preloadNext();
+  });
+  media.addEventListener('ended',()=>{
+    const current=allTracks.indexOf(activeTrack);
+    const next=allTracks[current+1];
+    if(next) activateTrack(next,true);
+  });
+}
 for(const card of cards){
-  const media=card.querySelector('video');
-  const now=card.querySelector('.now-playing span');
-  const openCurrent=card.querySelector('.open-current');
   const loadPlay=card.querySelector('.load-play');
   const buttons=[...card.querySelectorAll('.track-button:not([disabled])')];
-  let preloadAudio=null;
-  function preloadNext(){
-    if(!media||!buttons.length) return;
-    const current=buttons.findIndex(button=>button.classList.contains('is-active'));
-    const next=buttons[current+1];
-    if(!next||!next.dataset.url) return;
-    if(!preloadAudio){
-      preloadAudio=document.createElement('video');
-      preloadAudio.preload='auto';
-    }
-    if(preloadAudio.src!==next.dataset.url){
-      preloadAudio.src=next.dataset.url;
-      preloadAudio.load();
-    }
-  }
-  function activate(button, play){
-    buttons.forEach(item=>item.classList.toggle('is-active',item===button));
-    if(!media||!button) return;
-    if(media.src!==button.dataset.url){
-      media.src=button.dataset.url;
-      media.load();
-    }
-    if(now) now.textContent=button.dataset.title||button.textContent.trim();
-    if(openCurrent) openCurrent.href=button.dataset.url;
-    if(loadPlay) loadPlay.textContent='再生中';
-    if(play) media.play().catch(()=>{});
-    preloadNext();
-  }
-  buttons.forEach((button,index)=>{
-    button.addEventListener('click',()=>activate(button,true));
-    if(index===0) button.classList.add('is-active');
-  });
   if(loadPlay){
     loadPlay.addEventListener('click',()=>{
-      const active=buttons.find(button=>button.classList.contains('is-active'))||buttons[0];
-      if(active) activate(active,true);
-    });
-  }
-  if(media){
-    media.addEventListener('play',preloadNext);
-    media.addEventListener('loadedmetadata',preloadNext);
-    media.addEventListener('timeupdate',()=>{
-      if(media.duration&&media.duration-media.currentTime<25) preloadNext();
-    });
-    media.addEventListener('ended',()=>{
-      const current=buttons.findIndex(button=>button.classList.contains('is-active'));
-      const next=buttons[current+1];
-      if(next) activate(next,true);
+      if(buttons[0]) activateTrack(buttons[0],true);
     });
   }
 }
