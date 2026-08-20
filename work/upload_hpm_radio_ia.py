@@ -150,19 +150,45 @@ def get_existing_names(identifier):
             return set()
 
 
+def get_item_file_links(identifier):
+    while True:
+        try:
+            response = requests.get(f"https://archive.org/metadata/{identifier}", verify=False, timeout=90)
+            response.raise_for_status()
+            data = response.json()
+            server = data.get("server") or data.get("d2") or data.get("d1")
+            item_dir = data.get("dir") or f"/items/{identifier}"
+            if not server:
+                return {}
+            links = {}
+            for file in data.get("files", []):
+                name = file.get("name")
+                if name:
+                    links[name] = f"https://{server}{item_dir}/{quote(name)}"
+            return links
+        except Exception as exc:
+            message = str(exc)
+            print(json.dumps({"metadata_retry": identifier, "error": message[:500]}, ensure_ascii=False), file=sys.stderr)
+            if "Read timed out" in message or "Error retrieving metadata" in message or "Connection" in message:
+                time.sleep(900)
+                continue
+            return {}
+
+
 def relink():
     manifest = load_manifest()
     linked = 0
     counts = {}
     for program, identifier in PROGRAM_IDS.items():
-        existing = get_existing_names(identifier)
+        file_links = get_item_file_links(identifier)
+        existing = set(file_links)
         counts[program] = 0
         for row in manifest["items"]:
             if row["program"] != program:
                 continue
             if row["file_name"] in existing:
                 row["archive_item"] = identifier
-                row["audio_url"] = f"https://archive.org/download/{identifier}/{quote(row['file_name'])}"
+                row["audio_url"] = file_links[row["file_name"]]
                 linked += 1
                 counts[program] += 1
     manifest["generated_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
