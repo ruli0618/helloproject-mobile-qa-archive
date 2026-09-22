@@ -17,6 +17,7 @@ const TARGETS = [
     program: 'オリジナル番組「みよちゃん家の縁側」',
     host: '平井美葉',
     minEpisode: 110,
+    finalEpisode: 113,
   },
   {
     id: 'rokonoheya',
@@ -24,6 +25,7 @@ const TARGETS = [
     program: 'オリジナル番組「ろこの部屋」',
     host: '筒井澪心',
     minEpisode: 69,
+    finalEpisode: 72,
   },
 ];
 
@@ -44,8 +46,23 @@ function cleanFilename(value) {
 }
 
 function episodeNo(title) {
-  const match = stripHtml(title).match(/第(\d+)回/);
+  const text = stripHtml(title);
+  const match = text.match(/第(\d+)回/);
   return match ? Number(match[1]) : 0;
+}
+
+function contentEpisodeNo(title, target) {
+  const episode = episodeNo(title);
+  if (episode) return episode;
+  return /最終回/.test(stripHtml(title)) ? target.finalEpisode || 0 : 0;
+}
+
+function episodeTitleFor(content, target) {
+  const title = cleanFilename(stripHtml(content.title));
+  if (/最終回/.test(title) && !/第\d+回/.test(title) && target.finalEpisode) {
+    return cleanFilename(`第${target.finalEpisode}回（最終回）${title.replace(/^最終回/, '')}`);
+  }
+  return title;
 }
 
 function maxSeq(dir) {
@@ -132,11 +149,11 @@ async function main() {
     let seq = maxSeq(dir);
 
     const contents = (group.contents || [])
-      .filter((content) => episodeNo(content.title) >= target.minEpisode)
-      .sort((a, b) => episodeNo(a.title) - episodeNo(b.title));
+      .filter((content) => contentEpisodeNo(content.title, target) >= target.minEpisode)
+      .sort((a, b) => contentEpisodeNo(a.title, target) - contentEpisodeNo(b.title, target));
 
     for (const content of contents) {
-      const episodeTitle = cleanFilename(stripHtml(content.title));
+      const episodeTitle = episodeTitleFor(content, target);
       const parts = (content.list || []).filter((item) => !/ALL PLAY/i.test(stripHtml(item.title)));
       for (const item of parts) {
         const mid = String((item.mids || [])[0] || '');
