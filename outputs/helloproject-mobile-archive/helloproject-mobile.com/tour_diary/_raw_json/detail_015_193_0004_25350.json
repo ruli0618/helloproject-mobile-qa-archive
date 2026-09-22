@@ -1,0 +1,35 @@
+{
+  "content": {
+    "idx": 2,
+    "content_id": "25350",
+    "content_title": "静岡公演",
+    "content_sub_title": "下井谷幸穂",
+    "category_id": "193",
+    "release_date": "2025-11-21 21:44:00",
+    "created_at": "2025-11-21 21:48:57",
+    "updated_at": "2025-11-21 21:49:33",
+    "is_new": 0,
+    "content_text": "やっほー\r\n\r\nアンジュルムの下井谷幸穂です！\r\n\r\n秋ツアー 2025   〜Keep Your Smile！〜 \r\n静岡 SOUND SHOWER ark\r\nありがとうございました！<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n私たちとみなさんで気持ちを1つにしてつくりあげた熱く最高なライブでした<img src=\"/emoji/emoji-images/475c.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\n1121_shimoitani_01.jpg\r\n\r\n差し入れもたくさん頂けて本当に幸せ過ぎました- ̗̀ ( ˶'ᵕ'˶) ̖́-\r\n\r\nまた、静岡県でLIVEが出来るよう頑張ります！\r\n\r\n1121_shimoitani_02.jpg\r\n\r\n読んでくれてありがとう！",
+    "materials": [
+      {
+        "secretKey": "033949f92b4dbc523169912c472dba97",
+        "material_id": "20729",
+        "material_title": "1121_shimoitani_01.jpg",
+        "material_file": "129b6aafcf666d4801314b8f329340b0aae0798a7919e7194f847f01d7bcb2d120729.jpeg"
+      },
+      {
+        "secretKey": "033949f92b4dbc523169912c472dba97",
+        "material_id": "20730",
+        "material_title": "1121_shimoitani_02.jpg",
+        "material_file": "55a5c323806d5c27cf865c9ae8670e9806ef138de1dc49aee124d12c80c3ee1a20730.jpeg"
+      }
+    ],
+    "previous_id": "25351",
+    "next_id": "25282"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

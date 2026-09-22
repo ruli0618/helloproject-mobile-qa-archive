@@ -1,6 +1,9 @@
 import json
+import os
+import shutil
 import time
 import sys
+import tempfile
 from pathlib import Path
 from urllib.parse import quote
 
@@ -78,12 +81,35 @@ def check():
     print(json.dumps(session.whoami(), ensure_ascii=False, indent=2))
 
 
+def remote_name(row):
+    name = row["file_name"]
+    if len(quote(name).encode("ascii")) <= 230:
+        return name
+    stem = Path(name).stem
+    prefix = stem.split(" - ", 1)[0]
+    mid = row.get("mid") or ""
+    return f"{prefix} - mid{mid}.mp4"
+
+
+def upload_path_for(file_path, target_name, temp_dir):
+    if Path(file_path).name == target_name:
+        return file_path
+    tmp = Path(temp_dir) / target_name
+    if tmp.exists():
+        tmp.unlink()
+    try:
+        os.link(file_path, tmp)
+    except OSError:
+        shutil.copy2(file_path, tmp)
+    return str(tmp)
+
+
 def upload_program(program):
     manifest = load_manifest()
     identifier = PROGRAM_IDS[program]
     rows = program_rows(manifest, program)
     existing = get_existing_names(identifier)
-    pending = [row for row in rows if row["file_name"] not in existing]
+    pending = [row for row in rows if not row.get("audio_url") and remote_name(row) not in existing]
     print(json.dumps({
         "program": program,
         "identifier": identifier,
@@ -94,11 +120,13 @@ def upload_program(program):
     }, ensure_ascii=False, indent=2))
     if not pending:
         return
-    for index, row in enumerate(pending, start=1):
-        file_path = str(RADIO_DIR / program / row["file_name"])
+    with tempfile.TemporaryDirectory(prefix="hpm-radio-ia-") as temp_dir:
+      for index, row in enumerate(pending, start=1):
+        target_name = remote_name(row)
+        file_path = upload_path_for(str(RADIO_DIR / program / row["file_name"]), target_name, temp_dir)
         while True:
             try:
-                print(json.dumps({"uploading": row["file_name"], "progress": f"{index}/{len(pending)}"}, ensure_ascii=False))
+                print(json.dumps({"uploading": row["file_name"], "archive_name": target_name, "progress": f"{index}/{len(pending)}"}, ensure_ascii=False))
                 upload_metadata = metadata(program, rows) if index == 1 and not existing else None
                 responses = internetarchive.upload(
                     identifier,
@@ -111,6 +139,11 @@ def upload_program(program):
                 )
                 for response in responses:
                     print(response.status_code, response.url)
+                    if response.status_code in (200, 201):
+                        row["archive_item"] = identifier
+                        row["archive_name"] = target_name
+                        row["audio_url"] = response.url
+                        MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
                 time.sleep(8)
                 break
             except Exception as exc:
@@ -128,7 +161,7 @@ def upload_program(program):
                 ):
                     time.sleep(900)
                     existing = get_existing_names(identifier)
-                    if row["file_name"] in existing:
+                    if target_name in existing:
                         break
                     continue
                 raise
@@ -186,9 +219,12 @@ def relink():
         for row in manifest["items"]:
             if row["program"] != program:
                 continue
-            if row["file_name"] in existing:
+            candidates = [remote_name(row), row["file_name"]]
+            target_name = next((name for name in candidates if name in existing), None)
+            if target_name:
                 row["archive_item"] = identifier
-                row["audio_url"] = file_links[row["file_name"]]
+                row["archive_name"] = target_name
+                row["audio_url"] = file_links[target_name]
                 linked += 1
                 counts[program] += 1
     manifest["generated_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())

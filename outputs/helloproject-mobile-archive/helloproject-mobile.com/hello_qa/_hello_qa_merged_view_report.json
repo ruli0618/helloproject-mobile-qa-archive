@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T04:36:39.935Z",
-  "displayed_questions": 3999,
-  "displayed_answers": 25008,
-  "moved_og_answers": 6727,
-  "skipped_duplicate_og_answers": 241,
+  "generated_at": "2026-09-22T08:33:46.876Z",
+  "displayed_questions": 3559,
+  "displayed_answers": 25034,
+  "moved_og_answers": 6968,
+  "skipped_duplicate_og_answers": 0,
   "moved_og_question_count": 600,
   "remaining_og_questions": 0,
   "remaining_og_answers": 0,
@@ -53,37 +53,37 @@
     {
       "category_id": "2",
       "category_title": "モーニング娘。'26",
-      "questions": 604
+      "questions": 612
     },
     {
       "category_id": "3",
       "category_title": "アンジュルム",
-      "questions": 592
+      "questions": 599
     },
     {
       "category_id": "4",
       "category_title": "Juice=Juice",
-      "questions": 608
+      "questions": 615
     },
     {
       "category_id": "26",
       "category_title": "つばきファクトリー",
-      "questions": 575
+      "questions": 582
     },
     {
       "category_id": "94",
       "category_title": "BEYOOOOONDS",
-      "questions": 413
+      "questions": 420
     },
     {
       "category_id": "131",
       "category_title": "OCHA NORMA",
-      "questions": 242
+      "questions": 249
     },
     {
       "category_id": "174",
       "category_title": "ロージークロニクル",
-      "questions": 111
+      "questions": 118
     },
     {
       "category_id": "h_cute",
@@ -93,12 +93,12 @@
     {
       "category_id": "h_country",
       "category_title": "カントリー・ガールズ",
-      "questions": 257
+      "questions": 249
     },
     {
       "category_id": "h_kobushi",
       "category_title": "こぶしファクトリー",
-      "questions": 482
+      "questions": 0
     }
   ]
 }

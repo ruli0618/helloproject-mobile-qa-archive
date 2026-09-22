@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "comment_id": "42111",
+      "comment_title": "",
+      "comment_text": "自分に似てる人！",
+      "user_name": "西田汐里",
+      "user_icon": "0",
+      "artist_id": "104",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:14:47",
+      "updated_at": "2026-08-26 10:14:47"
+    },
+    {
+      "comment_id": "42196",
+      "comment_title": "",
+      "comment_text": "一緒にふざけてくれる人！\n遊んだ時やお話ししてる時に一緒にふざけて楽しんでくれる\nが相性がいいなと感じます！",
+      "user_name": "江口紗耶",
+      "user_icon": "0",
+      "artist_id": "105",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 15:31:12",
+      "updated_at": "2026-08-26 15:31:12"
+    },
+    {
+      "comment_id": "42113",
+      "comment_title": "",
+      "comment_text": "穏やかな人～～。\nビヨちゃんはみんな穏やかさんたちなので、居心地が良すぎますねえ。",
+      "user_name": "前田こころ",
+      "user_icon": "0",
+      "artist_id": "107",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:15:30",
+      "updated_at": "2026-08-26 10:15:30"
+    },
+    {
+      "comment_id": "42114",
+      "comment_title": "",
+      "comment_text": "ぼーっとする事を楽しめる人！",
+      "user_name": "岡村美波",
+      "user_icon": "0",
+      "artist_id": "109",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:15:41",
+      "updated_at": "2026-08-26 10:15:41"
+    },
+    {
+      "comment_id": "42115",
+      "comment_title": "",
+      "comment_text": "普通を押し付けてこない人と、人によって態度変えない人。",
+      "user_name": "清野桃々姫",
+      "user_icon": "0",
+      "artist_id": "110",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:16:02",
+      "updated_at": "2026-08-26 10:16:02"
+    },
+    {
+      "comment_id": "42116",
+      "comment_title": "",
+      "comment_text": "行動力がある人かな～。",
+      "user_name": "平井美葉",
+      "user_icon": "0",
+      "artist_id": "113",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:16:28",
+      "updated_at": "2026-08-26 10:16:28"
+    },
+    {
+      "comment_id": "42117",
+      "comment_title": "",
+      "comment_text": "共感性がありつつ、理論的に話してくれる人笑",
+      "user_name": "小林萌花",
+      "user_icon": "0",
+      "artist_id": "114",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:16:55",
+      "updated_at": "2026-08-26 10:16:55"
+    },
+    {
+      "comment_id": "42118",
+      "comment_title": "",
+      "comment_text": "たくさん喋ってくれるひと！\n決断力のあるひと！",
+      "user_name": "里吉うたの",
+      "user_icon": "0",
+      "artist_id": "115",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:17:18",
+      "updated_at": "2026-08-26 10:17:18"
+    },
+    {
+      "comment_id": "42119",
+      "comment_title": "",
+      "comment_text": "ありがとうとごめんねが言える人！",
+      "user_name": "小島はな",
+      "user_icon": "0",
+      "artist_id": "169",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:17:31",
+      "updated_at": "2026-08-26 10:17:31"
+    },
+    {
+      "comment_id": "42120",
+      "comment_title": "",
+      "comment_text": "めっちゃ褒めてくれる人\n褒めるとびよんと伸びるタイプだから。 \nもしくは、妹みたいな人\n教えたり、話すことが好きだから。",
+      "user_name": "大坪茉乃",
+      "user_icon": "0",
+      "artist_id": "170",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:17:51",
+      "updated_at": "2026-08-26 10:17:51"
+    },
+    {
+      "comment_id": "42121",
+      "comment_title": "",
+      "comment_text": "元気な人！\nパワフルな人！",
+      "user_name": "杉山結菜",
+      "user_icon": "0",
+      "artist_id": "171",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-26 10:18:27",
+      "updated_at": "2026-08-26 10:18:27"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content": {
+    "idx": 42,
+    "content_id": "23611",
+    "content_title": "スタート",
+    "content_sub_title": "野中美希",
+    "category_id": "182",
+    "release_date": "2025-01-08 18:30:00",
+    "created_at": "2025-01-08 18:34:23",
+    "updated_at": "2025-01-08 18:34:23",
+    "is_new": 0,
+    "content_text": "野中美希です！\r\n\r\nHello! Project 2025 Winter Fes.「各」「合」\r\nスタート致しました！品川8公演走り切りました。\r\n\r\n「各」「合」それぞれ違う楽しみ方がありますので、たっぷり堪能していただけたらうれしいです。楽しんでいただけるようにツアーを、パフォーマンスを磨いていきます！\r\n\r\nツアーについてのお話は「ハロモバ宣伝会議」にて今後させていただくと思うのでぜひチェックしてください！\r\n\r\n2025年もよろしくお願いします！\r\n\r\n0107_nonaka_01_s.jpg\r\n0107_nonaka_02_s.jpg\r\n\r\nそれでわん<img src=\"/emoji/emoji-images/4772.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "05fcce95a6ce4135edae7c1b176e657c",
+        "material_id": "19406",
+        "material_title": "0107_nonaka_01_s.jpg",
+        "material_file": "a89b3dd616f2c9114304d1d427701cb55953a0b67232f7f92264c14165e711e419406.jpeg"
+      },
+      {
+        "secretKey": "05fcce95a6ce4135edae7c1b176e657c",
+        "material_id": "19407",
+        "material_title": "0107_nonaka_02_s.jpg",
+        "material_file": "50afd79ebb419a491921c6ff6c3583ba7557517d07a813d35677dee515da9dc019407.jpeg"
+      }
+    ],
+    "previous_id": "23612",
+    "next_id": "23609"
+  },
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

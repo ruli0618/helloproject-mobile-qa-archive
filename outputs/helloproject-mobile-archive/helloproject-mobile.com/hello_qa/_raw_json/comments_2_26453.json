@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "comment_id": "41330",
+      "comment_title": "",
+      "comment_text": "できる限りの意思疎通をして、情報を聞きだしてみる。",
+      "user_name": "野中美希",
+      "user_icon": "0",
+      "artist_id": "16",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:35:15",
+      "updated_at": "2026-06-23 14:35:15"
+    },
+    {
+      "comment_id": "41331",
+      "comment_title": "",
+      "comment_text": "敵意が無いことを示す。",
+      "user_name": "小田さくら",
+      "user_icon": "0",
+      "artist_id": "14",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:35:25",
+      "updated_at": "2026-06-23 14:35:25"
+    },
+    {
+      "comment_id": "41332",
+      "comment_title": "",
+      "comment_text": "えー怖がらせないように自己紹介。",
+      "user_name": "岡村ほまれ",
+      "user_icon": "0",
+      "artist_id": "119",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:35:38",
+      "updated_at": "2026-06-23 14:35:38"
+    },
+    {
+      "comment_id": "41333",
+      "comment_title": "",
+      "comment_text": "害がありそうだったら見て見ぬ振りをする。仲良くなれそうだったら話しかけてみる。",
+      "user_name": "山﨑愛生",
+      "user_icon": "0",
+      "artist_id": "120",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:35:51",
+      "updated_at": "2026-06-23 14:35:51"
+    },
+    {
+      "comment_id": "41334",
+      "comment_title": "",
+      "comment_text": "他人に話した時に信じてもらえるように、とりあえず先に動画を回す。",
+      "user_name": "櫻井梨央",
+      "user_icon": "0",
+      "artist_id": "144",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:36:16",
+      "updated_at": "2026-06-23 14:36:16"
+    },
+    {
+      "comment_id": "41335",
+      "comment_title": "",
+      "comment_text": "逃げたいけど、固まって石像のふりをする。\n追いかけられなくないから。",
+      "user_name": "井上春華",
+      "user_icon": "0",
+      "artist_id": "147",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:36:28",
+      "updated_at": "2026-06-23 14:36:28"
+    },
+    {
+      "comment_id": "41336",
+      "comment_title": "",
+      "comment_text": " 「浪漫 ～MY DEAR BOY～」聴かせる。",
+      "user_name": "弓桁朱琴",
+      "user_icon": "0",
+      "artist_id": "148",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:36:37",
+      "updated_at": "2026-06-23 14:36:37"
+    },
+    {
+      "comment_id": "41337",
+      "comment_title": "",
+      "comment_text": "逃げる。",
+      "user_name": "杉原明紗",
+      "user_icon": "0",
+      "artist_id": "168",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-06-23 14:36:42",
+      "updated_at": "2026-06-23 14:36:42"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}

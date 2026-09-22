@@ -95,6 +95,42 @@
       "is_warning": "0",
       "created_at": "2026-06-23 16:14:50",
       "updated_at": "2026-06-23 16:14:50"
+    },
+    {
+      "comment_id": "41931",
+      "comment_title": "",
+      "comment_text": "赤飯！大好きです！",
+      "user_name": "小島はな",
+      "user_icon": "0",
+      "artist_id": "169",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:53:12",
+      "updated_at": "2026-08-21 09:53:12"
+    },
+    {
+      "comment_id": "41932",
+      "comment_title": "",
+      "comment_text": "パン！塩パンかメロンパンだとより最高！",
+      "user_name": "大坪茉乃",
+      "user_icon": "0",
+      "artist_id": "170",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:53:24",
+      "updated_at": "2026-08-21 09:53:24"
+    },
+    {
+      "comment_id": "41933",
+      "comment_title": "",
+      "comment_text": "小さいおにぎり",
+      "user_name": "杉山結菜",
+      "user_icon": "0",
+      "artist_id": "171",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:53:37",
+      "updated_at": "2026-08-21 09:53:37"
     }
   ],
   "hasNext": false,

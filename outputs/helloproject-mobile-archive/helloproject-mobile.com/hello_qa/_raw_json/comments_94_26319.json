@@ -95,6 +95,42 @@
       "is_warning": "0",
       "created_at": "2026-06-04 17:39:32",
       "updated_at": "2026-06-04 17:39:32"
+    },
+    {
+      "comment_id": "41913",
+      "comment_title": "",
+      "comment_text": "肉あんかけです！",
+      "user_name": "小島はな",
+      "user_icon": "0",
+      "artist_id": "169",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:47:57",
+      "updated_at": "2026-08-21 09:47:57"
+    },
+    {
+      "comment_id": "41914",
+      "comment_title": "",
+      "comment_text": "いくら",
+      "user_name": "大坪茉乃",
+      "user_icon": "0",
+      "artist_id": "170",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:48:11",
+      "updated_at": "2026-08-21 09:48:11"
+    },
+    {
+      "comment_id": "41915",
+      "comment_title": "",
+      "comment_text": "味のり",
+      "user_name": "杉山結菜",
+      "user_icon": "0",
+      "artist_id": "171",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:48:20",
+      "updated_at": "2026-08-21 09:48:20"
     }
   ],
   "hasNext": false,

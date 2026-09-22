@@ -95,6 +95,42 @@
       "is_warning": "0",
       "created_at": "2026-06-23 16:08:23",
       "updated_at": "2026-06-23 16:08:23"
+    },
+    {
+      "comment_id": "41925",
+      "comment_title": "",
+      "comment_text": "カフェラテです！\n毎日飲んでしまいます、、、夏に飲むカフェラテはたまらなく美味しいです！",
+      "user_name": "小島はな",
+      "user_icon": "0",
+      "artist_id": "169",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:51:41",
+      "updated_at": "2026-08-21 09:51:41"
+    },
+    {
+      "comment_id": "41926",
+      "comment_title": "",
+      "comment_text": "水、麦茶、オレンジジュース、りんごジュース",
+      "user_name": "大坪茉乃",
+      "user_icon": "0",
+      "artist_id": "170",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:51:55",
+      "updated_at": "2026-08-21 09:51:55"
+    },
+    {
+      "comment_id": "41927",
+      "comment_title": "",
+      "comment_text": "炭酸水",
+      "user_name": "杉山結菜",
+      "user_icon": "0",
+      "artist_id": "171",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:52:03",
+      "updated_at": "2026-08-21 09:52:03"
     }
   ],
   "hasNext": false,

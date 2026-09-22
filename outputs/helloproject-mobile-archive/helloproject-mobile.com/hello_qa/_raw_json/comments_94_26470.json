@@ -95,6 +95,42 @@
       "is_warning": "0",
       "created_at": "2026-06-23 16:02:56",
       "updated_at": "2026-06-23 16:02:56"
+    },
+    {
+      "comment_id": "41922",
+      "comment_title": "",
+      "comment_text": "アウトドア派！\nオフの日はすぐに予定を入れてしまいます！遊んだほうが疲れが取れます！",
+      "user_name": "小島はな",
+      "user_icon": "0",
+      "artist_id": "169",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:50:41",
+      "updated_at": "2026-08-21 09:50:41"
+    },
+    {
+      "comment_id": "41923",
+      "comment_title": "",
+      "comment_text": "どっちもだけど、、、強いて言うならインドア派",
+      "user_name": "大坪茉乃",
+      "user_icon": "0",
+      "artist_id": "170",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:50:59",
+      "updated_at": "2026-08-21 09:50:59"
+    },
+    {
+      "comment_id": "41924",
+      "comment_title": "",
+      "comment_text": "アウトドア",
+      "user_name": "杉山結菜",
+      "user_icon": "0",
+      "artist_id": "171",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-21 09:51:13",
+      "updated_at": "2026-08-21 09:51:13"
     }
   ],
   "hasNext": false,

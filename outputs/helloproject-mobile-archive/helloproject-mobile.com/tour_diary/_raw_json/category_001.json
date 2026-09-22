@@ -2,6 +2,42 @@
   "category": [
     {
       "idx": 1,
+      "category_id": "206",
+      "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 2,
+      "category_id": "207",
+      "category_title": "アンジュルム 2026秋 風林火山・弐",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 3,
+      "category_id": "209",
+      "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 4,
+      "category_id": "211",
+      "category_title": "ロージークロニクル ライブツアー2026 ～BOOKMARK～",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 5,
       "category_id": "205",
       "category_title": "ハロ！コン 2026",
       "category_content": "",
@@ -10,7 +46,7 @@
       "is_new": "0"
     },
     {
-      "idx": 2,
+      "idx": 6,
       "category_id": "197",
       "category_title": "モーニング娘。'26 コンサートツアー春 - Rays Of Light -",
       "category_content": "",
@@ -19,7 +55,7 @@
       "is_new": "0"
     },
     {
-      "idx": 3,
+      "idx": 7,
       "category_id": "198",
       "category_title": "ANGERME 2026 Spring Tour ～陰と陽～",
       "category_content": "",
@@ -28,7 +64,7 @@
       "is_new": "0"
     },
     {
-      "idx": 4,
+      "idx": 8,
       "category_id": "199",
       "category_title": "Juice=Juice LIVE TOUR 2026 UP TO 11",
       "category_content": "",
@@ -37,7 +73,7 @@
       "is_new": "0"
     },
     {
-      "idx": 5,
+      "idx": 9,
       "category_id": "200",
       "category_title": "つばきファクトリー LIVE TOUR 2026 SPRING ～HEAT IT UP～",
       "category_content": "",
@@ -46,7 +82,7 @@
       "is_new": "0"
     },
     {
-      "idx": 6,
+      "idx": 10,
       "category_id": "201",
       "category_title": "BEYOOOOONDS CONCERT TOUR 2026 SPRING [BEYOSCOOOOOPE]",
       "category_content": "",
@@ -55,7 +91,7 @@
       "is_new": "0"
     },
     {
-      "idx": 7,
+      "idx": 11,
       "category_id": "202",
       "category_title": "OCHA NORMA LIVE TOUR 2026 SPRING ～Overdrive CHAllenge～",
       "category_content": "",
@@ -64,7 +100,7 @@
       "is_new": "0"
     },
     {
-      "idx": 8,
+      "idx": 12,
       "category_id": "203",
       "category_title": "ロージークロニクル ライブツアー2026春 ～Turn the Leaf!～",
       "category_content": "",
@@ -73,7 +109,7 @@
       "is_new": "0"
     },
     {
-      "idx": 9,
+      "idx": 13,
       "category_id": "196",
       "category_title": "Hello! Project 2026 Winter -White Tales- -Silver Trails-",
       "category_content": "",
@@ -82,7 +118,7 @@
       "is_new": "0"
     },
     {
-      "idx": 10,
+      "idx": 14,
       "category_id": "192",
       "category_title": "モーニング娘。'25 コンサートツアー秋 ～Movin' Forward～",
       "category_content": "",
@@ -91,7 +127,7 @@
       "is_new": "0"
     },
     {
-      "idx": 11,
+      "idx": 15,
       "category_id": "193",
       "category_title": "アンジュルム ライブツアー 2025秋 ～Keep Your Smile！～",
       "category_content": "",
@@ -100,7 +136,7 @@
       "is_new": "0"
     },
     {
-      "idx": 12,
+      "idx": 16,
       "category_id": "191",
       "category_title": "Juice=Juice LIVE TOUR 2025 Queen of Hearts",
       "category_content": "",
@@ -109,7 +145,7 @@
       "is_new": "0"
     },
     {
-      "idx": 13,
+      "idx": 17,
       "category_id": "190",
       "category_title": "つばきファクトリー 10th Anniversary Concert Tour 2025 Autumn ～ON AND ON～",
       "category_content": "",
@@ -118,7 +154,7 @@
       "is_new": "0"
     },
     {
-      "idx": 14,
+      "idx": 18,
       "category_id": "194",
       "category_title": "BEYOOOOOPERETTA -ottobre- -novembre-",
       "category_content": "",
@@ -127,7 +163,7 @@
       "is_new": "0"
     },
     {
-      "idx": 15,
+      "idx": 19,
       "category_id": "195",
       "category_title": "ロージークロニクル ファーストライブツアー2025 ～First Page!～ ",
       "category_content": "",
@@ -136,45 +172,9 @@
       "is_new": "0"
     },
     {
-      "idx": 16,
+      "idx": 20,
       "category_id": "189",
       "category_title": "ハロ！コン 2025",
-      "category_content": "",
-      "category_color": "#FFFFFF",
-      "menu_id": "2",
-      "is_new": "0"
-    },
-    {
-      "idx": 17,
-      "category_id": "183",
-      "category_title": "モーニング娘。'25 コンサートツアー春 〜Mighty Magic〜",
-      "category_content": "",
-      "category_color": "#FFFFFF",
-      "menu_id": "2",
-      "is_new": "0"
-    },
-    {
-      "idx": 18,
-      "category_id": "184",
-      "category_title": "アンジュルム 10th Anniversary tour 2025春「桜梅桃李」",
-      "category_content": "",
-      "category_color": "#FFFFFF",
-      "menu_id": "2",
-      "is_new": "0"
-    },
-    {
-      "idx": 19,
-      "category_id": "185",
-      "category_title": "Juice=Juice Concert Tour 2025 Crimson≠Azure",
-      "category_content": "",
-      "category_color": "#FFFFFF",
-      "menu_id": "2",
-      "is_new": "0"
-    },
-    {
-      "idx": 20,
-      "category_id": "186",
-      "category_title": "つばきファクトリー 10th Anniversary Live Tour 2025 Spring 〜OUR DAYS GO ON〜",
       "category_content": "",
       "category_color": "#FFFFFF",
       "menu_id": "2",
