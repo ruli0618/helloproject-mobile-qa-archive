@@ -44,7 +44,8 @@ function parseFile(file) {
   const part = Number((title.match(/#(\d+)/) || [])[1] || 0);
   const date = (title.match(/【([^】]+)】/) || [])[1] || '';
   const host = (title.match(/ - ([^-[]+)\s*\[mid\d+\]$/i) || [])[1]?.trim() || '';
-  const guest = (title.match(/ゲスト[：:_]([^【]+)/) || [])[1]?.trim() || '';
+  const guestMatches = [...title.matchAll(/ゲスト[：:_]\s*([^【\-\[]+)/g)];
+  const guest = guestMatches.at(-1)?.[1]?.trim() || '';
   const mid = (title.match(/\[mid(\d+)\]/i) || [])[1] || '';
   const cleanTitle = title
     .replace(/^\d+\s*-\s*/, '')
