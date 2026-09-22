@@ -142,7 +142,7 @@ def upload_program(program):
                     if response.status_code in (200, 201):
                         row["archive_item"] = identifier
                         row["archive_name"] = target_name
-                        row["audio_url"] = response.url
+                        row["audio_url"] = f"https://archive.org/download/{identifier}/{quote(target_name)}"
                         MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
                 time.sleep(8)
                 break
