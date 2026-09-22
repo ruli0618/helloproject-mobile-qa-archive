@@ -43,7 +43,7 @@ function parseFile(file) {
   const episode = Number((title.match(/第(\d+)回/) || [])[1] || 0);
   const part = Number((title.match(/#(\d+)/) || [])[1] || 0);
   const date = (title.match(/【([^】]+)】/) || [])[1] || '';
-  const host = (title.match(/】 - ([^\[]+)/) || [])[1]?.trim() || '';
+  const host = (title.match(/ - ([^-[]+)\s*\[mid\d+\]$/i) || [])[1]?.trim() || '';
   const guest = (title.match(/ゲスト[：:_]([^【]+)/) || [])[1]?.trim() || '';
   const mid = (title.match(/\[mid(\d+)\]/i) || [])[1] || '';
   const cleanTitle = title
