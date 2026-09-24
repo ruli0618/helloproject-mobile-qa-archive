@@ -6,6 +6,7 @@ const WORKSPACE = 'C:/Users/misuz/Documents/Codex/2026-07-31/http-helloproject-m
 const SOURCE_DIR = process.argv[2] || 'C:/Users/misuz/Desktop/ハロモバメール';
 const OUT_JSON = path.join(WORKSPACE, 'work', 'hpm_gmail_messages.json');
 const ASSET_ROOT = path.join(WORKSPACE, 'outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'mail', 'assets');
+const MAIL_DATA = path.join(WORKSPACE, 'outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'mail', 'mail_data.js');
 
 function decodeBytes(buffer, charset = 'utf-8') {
   const label = String(charset || 'utf-8').toLowerCase().replace(/_/g, '-');
@@ -163,6 +164,23 @@ function replaceCidImages(html, parts, stem) {
   return html;
 }
 
+function readArchivedMessages() {
+  if (!fs.existsSync(MAIL_DATA)) return [];
+  const source = fs.readFileSync(MAIL_DATA, 'utf8').replace(/^window\.MAIL_MESSAGES\s*=\s*/, '').replace(/;\s*$/, '');
+  const messages = JSON.parse(source);
+  return messages.map((message, index) => ({
+    id: `archive-${message.date}-${message.subject}-${index}`,
+    subject: message.subject,
+    date: message.date,
+    html: message.html,
+  }));
+}
+
+function messageKey(message) {
+  const subject = String(message.subject || '').replace(/\s+/g, ' ').trim();
+  return `${message.date}|${subject}`;
+}
+
 function main() {
   const files = findFiles(SOURCE_DIR).sort((a, b) => a.localeCompare(b, 'ja'));
   if (!files.length) throw new Error(`${SOURCE_DIR} に .eml がありません。`);
@@ -181,8 +199,11 @@ function main() {
     html = replaceCidImages(html, parts, stem);
     messages.push({ id, subject, date, html, source_file: file });
   }
-  fs.writeFileSync(OUT_JSON, JSON.stringify(messages, null, 2), 'utf8');
-  console.log(`wrote ${messages.length} messages to ${OUT_JSON}`);
+  const merged = new Map(readArchivedMessages().map((message) => [messageKey(message), message]));
+  for (const message of messages) merged.set(messageKey(message), message);
+  const allMessages = [...merged.values()];
+  fs.writeFileSync(OUT_JSON, JSON.stringify(allMessages, null, 2), 'utf8');
+  console.log(`merged ${messages.length} EML messages into ${allMessages.length} total messages`);
   execFileSync(process.execPath, [path.join(WORKSPACE, 'work', 'build_hpm_mail_archive.js')], { stdio: 'inherit' });
 }
 
