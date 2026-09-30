@@ -93,9 +93,13 @@ async function downloadMaterial(material) {
 async function main() {
   mkdirp(RAW);
   mkdirp(ASSETS);
+  const previous = fs.existsSync(path.join(OUT, '_tour_diary_archive.json'))
+    ? JSON.parse(fs.readFileSync(path.join(OUT, '_tour_diary_archive.json'), 'utf8'))
+    : { categories: [], entries: [], errors: [] };
+  const knownCategoryIds = new Set((previous.categories || []).map((item) => String(item.category_id)));
   const categories = [];
-  const entries = [];
-  const errors = [];
+  const entries = [...(previous.entries || [])];
+  const errors = [...(previous.errors || [])];
 
   for (let page = 1; page < 100; page++) {
     const url = `http://helloproject-mobile.com/api/category?menu_id=${MENU_ID}&page=${page}`;
@@ -107,7 +111,7 @@ async function main() {
     if (!data.hasNext) break;
   }
 
-  for (const category of categories) {
+  for (const category of categories.filter((item) => !knownCategoryIds.has(String(item.category_id)))) {
     const listItems = [];
     for (let page = 1; page < 300; page++) {
       const url = `http://helloproject-mobile.com/api/contents?category_id=${encodeURIComponent(category.category_id)}&page=${page}`;

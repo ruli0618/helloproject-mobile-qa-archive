@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T08:31:27.896Z",
+  "generated_at": "2026-09-30T02:37:23.781Z",
   "source": "http://helloproject-mobile.com/dialy/tour?menu_id=2",
   "menu_id": "2",
-  "category_count": 33,
-  "entry_count": 516,
+  "category_count": 35,
+  "entry_count": 535,
   "error_count": 0,
   "categories": [
     {
@@ -26,6 +26,15 @@
     },
     {
       "idx": 3,
+      "category_id": "208",
+      "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 4,
       "category_id": "209",
       "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
       "category_content": "",
@@ -34,7 +43,16 @@
       "is_new": "0"
     },
     {
-      "idx": 4,
+      "idx": 5,
+      "category_id": "210",
+      "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "2",
+      "is_new": "0"
+    },
+    {
+      "idx": 6,
       "category_id": "211",
       "category_title": "ロージークロニクル ライブツアー2026 ～BOOKMARK～",
       "category_content": "",
@@ -43,7 +61,7 @@
       "is_new": "0"
     },
     {
-      "idx": 5,
+      "idx": 7,
       "category_id": "205",
       "category_title": "ハロ！コン 2026",
       "category_content": "",
@@ -52,7 +70,7 @@
       "is_new": "0"
     },
     {
-      "idx": 6,
+      "idx": 8,
       "category_id": "197",
       "category_title": "モーニング娘。'26 コンサートツアー春 - Rays Of Light -",
       "category_content": "",
@@ -61,7 +79,7 @@
       "is_new": "0"
     },
     {
-      "idx": 7,
+      "idx": 9,
       "category_id": "198",
       "category_title": "ANGERME 2026 Spring Tour ～陰と陽～",
       "category_content": "",
@@ -70,7 +88,7 @@
       "is_new": "0"
     },
     {
-      "idx": 8,
+      "idx": 10,
       "category_id": "199",
       "category_title": "Juice=Juice LIVE TOUR 2026 UP TO 11",
       "category_content": "",
@@ -79,7 +97,7 @@
       "is_new": "0"
     },
     {
-      "idx": 9,
+      "idx": 11,
       "category_id": "200",
       "category_title": "つばきファクトリー LIVE TOUR 2026 SPRING ～HEAT IT UP～",
       "category_content": "",
@@ -88,7 +106,7 @@
       "is_new": "0"
     },
     {
-      "idx": 10,
+      "idx": 12,
       "category_id": "201",
       "category_title": "BEYOOOOONDS CONCERT TOUR 2026 SPRING [BEYOSCOOOOOPE]",
       "category_content": "",
@@ -97,7 +115,7 @@
       "is_new": "0"
     },
     {
-      "idx": 11,
+      "idx": 13,
       "category_id": "202",
       "category_title": "OCHA NORMA LIVE TOUR 2026 SPRING ～Overdrive CHAllenge～",
       "category_content": "",
@@ -106,7 +124,7 @@
       "is_new": "0"
     },
     {
-      "idx": 12,
+      "idx": 14,
       "category_id": "203",
       "category_title": "ロージークロニクル ライブツアー2026春 ～Turn the Leaf!～",
       "category_content": "",
@@ -115,7 +133,7 @@
       "is_new": "0"
     },
     {
-      "idx": 13,
+      "idx": 15,
       "category_id": "196",
       "category_title": "Hello! Project 2026 Winter -White Tales- -Silver Trails-",
       "category_content": "",
@@ -124,7 +142,7 @@
       "is_new": "0"
     },
     {
-      "idx": 14,
+      "idx": 16,
       "category_id": "192",
       "category_title": "モーニング娘。'25 コンサートツアー秋 ～Movin' Forward～",
       "category_content": "",
@@ -133,7 +151,7 @@
       "is_new": "0"
     },
     {
-      "idx": 15,
+      "idx": 17,
       "category_id": "193",
       "category_title": "アンジュルム ライブツアー 2025秋 ～Keep Your Smile！～",
       "category_content": "",
@@ -142,7 +160,7 @@
       "is_new": "0"
     },
     {
-      "idx": 16,
+      "idx": 18,
       "category_id": "191",
       "category_title": "Juice=Juice LIVE TOUR 2025 Queen of Hearts",
       "category_content": "",
@@ -151,7 +169,7 @@
       "is_new": "0"
     },
     {
-      "idx": 17,
+      "idx": 19,
       "category_id": "190",
       "category_title": "つばきファクトリー 10th Anniversary Concert Tour 2025 Autumn ～ON AND ON～",
       "category_content": "",
@@ -160,7 +178,7 @@
       "is_new": "0"
     },
     {
-      "idx": 18,
+      "idx": 20,
       "category_id": "194",
       "category_title": "BEYOOOOOPERETTA -ottobre- -novembre-",
       "category_content": "",
@@ -169,7 +187,7 @@
       "is_new": "0"
     },
     {
-      "idx": 19,
+      "idx": 21,
       "category_id": "195",
       "category_title": "ロージークロニクル ファーストライブツアー2025 ～First Page!～ ",
       "category_content": "",
@@ -178,7 +196,7 @@
       "is_new": "0"
     },
     {
-      "idx": 20,
+      "idx": 22,
       "category_id": "189",
       "category_title": "ハロ！コン 2025",
       "category_content": "",
@@ -187,7 +205,7 @@
       "is_new": "0"
     },
     {
-      "idx": 21,
+      "idx": 23,
       "category_id": "183",
       "category_title": "モーニング娘。'25 コンサートツアー春 〜Mighty Magic〜",
       "category_content": "",
@@ -196,7 +214,7 @@
       "is_new": "0"
     },
     {
-      "idx": 22,
+      "idx": 24,
       "category_id": "184",
       "category_title": "アンジュルム 10th Anniversary tour 2025春「桜梅桃李」",
       "category_content": "",
@@ -205,7 +223,7 @@
       "is_new": "0"
     },
     {
-      "idx": 23,
+      "idx": 25,
       "category_id": "185",
       "category_title": "Juice=Juice Concert Tour 2025 Crimson≠Azure",
       "category_content": "",
@@ -214,7 +232,7 @@
       "is_new": "0"
     },
     {
-      "idx": 24,
+      "idx": 26,
       "category_id": "186",
       "category_title": "つばきファクトリー 10th Anniversary Live Tour 2025 Spring 〜OUR DAYS GO ON〜",
       "category_content": "",
@@ -223,7 +241,7 @@
       "is_new": "0"
     },
     {
-      "idx": 25,
+      "idx": 27,
       "category_id": "187",
       "category_title": "BEYOOOOONDS CONCERT TOUR 2025 SPRING 〜Take Me Out To The BALLROOOOOM！〜",
       "category_content": "",
@@ -232,7 +250,7 @@
       "is_new": "0"
     },
     {
-      "idx": 26,
+      "idx": 28,
       "category_id": "188",
       "category_title": "OCHA NORMA LIVE TOUR 2025 〜ウチらの地元は日本じゃん！〜",
       "category_content": "",
@@ -241,7 +259,7 @@
       "is_new": "0"
     },
     {
-      "idx": 27,
+      "idx": 29,
       "category_id": "182",
       "category_title": "Hello! Project 2025 Winter Fes.「各」「合」",
       "category_content": "",
@@ -250,7 +268,7 @@
       "is_new": "0"
     },
     {
-      "idx": 28,
+      "idx": 30,
       "category_id": "176",
       "category_title": "モーニング娘。'24 コンサートツアー秋 WE CAN DANCE !",
       "category_content": "",
@@ -259,7 +277,7 @@
       "is_new": "0"
     },
     {
-      "idx": 29,
+      "idx": 31,
       "category_id": "177",
       "category_title": "ANGERME 10th ANNIVERSARY TOUR 2024 AUTUMN「ROOTS」",
       "category_content": "",
@@ -268,7 +286,7 @@
       "is_new": "0"
     },
     {
-      "idx": 30,
+      "idx": 32,
       "category_id": "178",
       "category_title": "Juice=Juice Concert Tour 2024 TRIANGROOOVE2",
       "category_content": "",
@@ -277,7 +295,7 @@
       "is_new": "0"
     },
     {
-      "idx": 31,
+      "idx": 33,
       "category_id": "179",
       "category_title": "つばきファクトリー ライブツアー2024秋 -鼓動-",
       "category_content": "",
@@ -286,7 +304,7 @@
       "is_new": "0"
     },
     {
-      "idx": 32,
+      "idx": 34,
       "category_id": "180",
       "category_title": "BEYOOOOONDS CONCERT TOUR 2024 AUTUMN「DISCOOOOOTHEQUE」",
       "category_content": "",
@@ -295,7 +313,7 @@
       "is_new": "0"
     },
     {
-      "idx": 33,
+      "idx": 35,
       "category_id": "181",
       "category_title": "OCHA NORMA LIVE TOUR 2024 season2 〜ウチらの地元は日本じゃん！〜",
       "category_content": "",
@@ -31544,6 +31562,1144 @@
           }
         ],
         "previous_id": "23004",
+        "next_id": "-1"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "27035",
+        "content_title": "秋ツアー",
+        "content_sub_title": "江端妃咲",
+        "category_id": "208",
+        "release_date": "2026-09-29 00:00:00",
+        "created_at": "2026-09-29 18:39:20",
+        "updated_at": "2026-09-29 18:39:20",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22109",
+            "material_title": "S__566648948.jpg",
+            "material_file": "2f0cf1c0adae806982280168cdd8269f8233e0c59161b0f2fa22f5c77704719822109.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "27035",
+        "content_title": "秋ツアー",
+        "content_sub_title": "江端妃咲",
+        "category_id": "208",
+        "release_date": "2026-09-29 00:00:00",
+        "created_at": "2026-09-29 18:39:20",
+        "updated_at": "2026-09-29 18:39:20",
+        "is_new": 0,
+        "content_text": "えばです！\r\n\r\n秋ツアー、初日を迎えてからあっという間に色んな地方を巡ってきました！！\r\n\r\n今回は神奈川県で始まってから、さっそくメンバーの地元に行ったから、なんか始まって早々ツアー後半戦みたいな気持ちになった！笑\r\n\r\n今回のツアーは、5ROOMSということで、今までとは全然違う演出を取り入れてるんですよね>  <\r\n\r\n苦戦もありますが、楽しい気持ちでいっぱい！\r\n\r\nこの調子で千秋楽まで駆け抜けます♡♡\r\n\r\n\r\nハロモバを見てくださった皆さん、これまでありがとうございました！！！\r\n\r\nまたどこかでお会いしましょう✮*｡ﾟ\r\n\r\nS__566648948.jpg\r\n\r\nほなね〜\r\n江端妃咲",
+        "materials": [
+          {
+            "secretKey": "7c137bbedf569485253675a723fc75b8",
+            "material_id": "22109",
+            "material_title": "S__566648948.jpg",
+            "material_file": "35f726f89d26dd97fb33534f777960311a3bb1b1b99bb3e8454a2c22a9f68c3922109.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22109_7c137bbe.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=7c137bbedf569485253675a723fc75b8&material_file=35f726f89d26dd97fb33534f777960311a3bb1b1b99bb3e8454a2c22a9f68c3922109.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "27033"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "27033",
+        "content_title": "福岡2days",
+        "content_sub_title": "林仁愛",
+        "category_id": "208",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 18:35:58",
+        "updated_at": "2026-09-29 18:36:08",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22107",
+            "material_title": "S__566648946.jpg",
+            "material_file": "6e3101ba81a8222a11211d13746a3ad5ee073a8e36807ade53110969731618f622107.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27033",
+        "content_title": "福岡2days",
+        "content_sub_title": "林仁愛",
+        "category_id": "208",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 18:35:58",
+        "updated_at": "2026-09-29 18:36:08",
+        "is_new": 0,
+        "content_text": "福岡公演ありがとうございました〜！\r\n\r\nたくさん美味しいものも食べれたし、アチアチのライブもできて最高でした！！！！\r\n\r\nまた福岡公演できるように頑張ります！\r\n\r\nS__566648946.jpg",
+        "materials": [
+          {
+            "secretKey": "7c137bbedf569485253675a723fc75b8",
+            "material_id": "22107",
+            "material_title": "S__566648946.jpg",
+            "material_file": "bccce68ca79d4d11b344325e69eccdcb1fe5212f695586ae3a3b241ee75e5a6622107.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22107_7c137bbe.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=7c137bbedf569485253675a723fc75b8&material_file=bccce68ca79d4d11b344325e69eccdcb1fe5212f695586ae3a3b241ee75e5a6622107.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27035",
+        "next_id": "27031"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "27031",
+        "content_title": "ツインテール",
+        "content_sub_title": "工藤由愛",
+        "category_id": "208",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-29 18:19:03",
+        "updated_at": "2026-09-29 18:19:03",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22105",
+            "material_title": "S__566648940.jpg",
+            "material_file": "47bd61680edcb49582a75fb1766d62fd2f890df8815d183162d96d382aa682b722105.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27031",
+        "content_title": "ツインテール",
+        "content_sub_title": "工藤由愛",
+        "category_id": "208",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-29 18:19:03",
+        "updated_at": "2026-09-29 18:19:03",
+        "is_new": 0,
+        "content_text": "パッ！！(*´ω｀*)ﾉ))\r\nJuice=Juiceの工藤由愛です！！\r\n\r\n\r\n今日は福岡県にて！\r\n秋ツアー5ROOMSがありました〜！\r\n\r\n1公演目、2公演目にお越しいただいたみなさん、ありがとうございました♡\r\n\r\n雨の中、会いに来てくれて大感謝です！！！\r\n\r\nS__566648940.jpg\r\n\r\n今日はツインテールでしたよ〜！！\r\n\r\n幼い感じでお届けでした！\r\n\r\n\r\n秋ツアーの衣装はふわふわしていて躍動感めいっぱい！\r\n楽しいです(*´꒳`*)\r\n\r\n\r\nそうそう、\r\n\r\nファミリー席が前にある形だったのですが、\r\nみなさんにこやかで、あたたかくて嬉しかったです！\r\n\r\nそしてファミリー席をぐおん！と通る形でさらにまた熱が加わって、\r\n\r\nとても素敵な空間でした！\r\n\r\n\r\nまたお会いしたいな♪\r\n\r\n\r\n今日はゆっくり休んでくださいね！\r\n\r\n好いとーよ〜\r\n\r\n\r\n以上です！\r\n最後までありがとうございました(*^^*)\r\nそれでは〜\r\nシューン(´•ω•｀)♡",
+        "materials": [
+          {
+            "secretKey": "7c137bbedf569485253675a723fc75b8",
+            "material_id": "22105",
+            "material_title": "S__566648940.jpg",
+            "material_file": "7e663a8bcade35aae48a8734b4fb71a7703a201e4864d3e429fd6529bb53dde822105.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22105_7c137bbe.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=7c137bbedf569485253675a723fc75b8&material_file=7e663a8bcade35aae48a8734b4fb71a7703a201e4864d3e429fd6529bb53dde822105.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27033",
+        "next_id": "27032"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 4,
+        "content_id": "27032",
+        "content_title": "全力投球！",
+        "content_sub_title": "遠藤彩加里",
+        "category_id": "208",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-29 18:34:52",
+        "updated_at": "2026-09-29 18:34:52",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22106",
+            "material_title": "S__566648942.jpg",
+            "material_file": "69d894afe889d3b7f511a084cd3428a58054e1c2bc0b6db3241b6ace09ff1cfe22106.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27032",
+        "content_title": "全力投球！",
+        "content_sub_title": "遠藤彩加里",
+        "category_id": "208",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-29 18:34:52",
+        "updated_at": "2026-09-29 18:34:52",
+        "is_new": 0,
+        "content_text": "遠藤彩加里です♪\r\n今日は『Juice=Juice Room Tour 2026 「5ROOMS」』の福岡公演でした！！！\r\n\r\n全力投球のライブ最高に楽しかったです！\r\n\r\n福岡ということで明太子も食べられて幸せでした♡♡♡\r\n\r\n福岡公演1日目ありがとうございました！\r\n\r\nS__566648942.jpg",
+        "materials": [
+          {
+            "secretKey": "7c137bbedf569485253675a723fc75b8",
+            "material_id": "22106",
+            "material_title": "S__566648942.jpg",
+            "material_file": "133f523eca30161eb919af6cba72d2bcb825af2d96376f87c1163d45e62cfa5022106.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22106_7c137bbe.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=7c137bbedf569485253675a723fc75b8&material_file=133f523eca30161eb919af6cba72d2bcb825af2d96376f87c1163d45e62cfa5022106.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27031",
+        "next_id": "26940"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 5,
+        "content_id": "26940",
+        "content_title": "えばみふおかえりなさい〜〜",
+        "content_sub_title": "松永里愛",
+        "category_id": "208",
+        "release_date": "2026-09-25 00:00:00",
+        "created_at": "2026-09-28 13:01:03",
+        "updated_at": "2026-09-28 13:02:19",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22000",
+            "material_title": "S__566231094.jpg",
+            "material_file": "b50838fc47a58cbc886641f19b68ef05f0fa4b8a3ad1c4e1e36ae917463ca09722000.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26940",
+        "content_title": "えばみふおかえりなさい〜〜",
+        "content_sub_title": "松永里愛",
+        "category_id": "208",
+        "release_date": "2026-09-25 00:00:00",
+        "created_at": "2026-09-28 13:01:03",
+        "updated_at": "2026-09-28 13:02:19",
+        "is_new": 0,
+        "content_text": "京都公演！\r\nありがとうございました☆\r\nえばみふおかえりなさい〜〜\r\n\r\n本番前から2人がいつもよりテンションが高くて、本番始まっても歌声から伝わってくる2人の嬉しい声につられて嬉しくなりました！！\r\n\r\nライブ中に目が合ったえばがあまりにもにっこにこで嬉しかったな〜\r\nまた絶対に帰ってこようね\r\n毎ツアー帰ってきたいね！\r\n\r\nそんな2人のテンションにつられて私も何だか朝からわくわくしてて、メイクを全部変えてみた！！\r\n\r\nあーたんがすぐ気づいて上手！って褒めてくれてあーたんにメイクを褒めてもらえたら本物やわとうれぴーなっつでした\r\n\r\nS__566231094.jpg\r\n\r\n次は福岡！！\r\n美味しいご飯楽しみ♡",
+        "materials": [
+          {
+            "secretKey": "7c137bbedf569485253675a723fc75b8",
+            "material_id": "22000",
+            "material_title": "S__566231094.jpg",
+            "material_file": "f17b2ed793cb58fdad6323e2f29dca42117a57ecba9d3949534adcb3cdcc096822000.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22000_7c137bbe.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=7c137bbedf569485253675a723fc75b8&material_file=f17b2ed793cb58fdad6323e2f29dca42117a57ecba9d3949534adcb3cdcc096822000.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27032",
+        "next_id": "26941"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 6,
+        "content_id": "26941",
+        "content_title": "京都",
+        "content_sub_title": "有澤一華",
+        "category_id": "208",
+        "release_date": "2026-09-25 00:00:00",
+        "created_at": "2026-09-28 13:02:06",
+        "updated_at": "2026-09-28 13:02:06",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "22001",
+            "material_title": "S__566231096.jpg",
+            "material_file": "7fdc328439c91807599e980b9d95e578876f8c0eefebcf40246c48b2e16bd77822001.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26941",
+        "content_title": "京都",
+        "content_sub_title": "有澤一華",
+        "category_id": "208",
+        "release_date": "2026-09-25 00:00:00",
+        "created_at": "2026-09-28 13:02:06",
+        "updated_at": "2026-09-28 13:02:06",
+        "is_new": 0,
+        "content_text": "京都でライブ楽しかった〜\r\nえばみふにおかえりなさい言えて嬉しかったな！！\r\n\r\nえばからいただいたガトーショコラすごすぎた！\r\n\r\nS__566231096.jpg",
+        "materials": [
+          {
+            "secretKey": "78b36983f0fcfda46c56b68cbe3421b8",
+            "material_id": "22001",
+            "material_title": "S__566231096.jpg",
+            "material_file": "74950ab1a3b82a3058e796642d77ab50a129bd75376a1a2cded4bb12ffc6eec322001.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22001_78b36983.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=78b36983f0fcfda46c56b68cbe3421b8&material_file=74950ab1a3b82a3058e796642d77ab50a129bd75376a1a2cded4bb12ffc6eec322001.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26940",
+        "next_id": "26931"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 7,
+        "content_id": "26931",
+        "content_title": "段原さんの地元！",
+        "content_sub_title": "川嶋美楓",
+        "category_id": "208",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 14:45:26",
+        "updated_at": "2026-09-25 14:45:26",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "21990",
+            "material_title": "S__565985291.jpg",
+            "material_file": "3988e449b2ba2753f89464aa94cb1beabde6e9ab4781eb18a6cd051f150d437421990.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26931",
+        "content_title": "段原さんの地元！",
+        "content_sub_title": "川嶋美楓",
+        "category_id": "208",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 14:45:26",
+        "updated_at": "2026-09-25 14:45:26",
+        "is_new": 0,
+        "content_text": "こんにちは〜！\r\nみふです！\r\n今日はJuice=Juice Room Tour 2026 「5ROOMS」広島公演！<img src=\"/emoji/emoji-images/f9ec.gif\"/>\r\n\r\n段原さんの地元！ということでよりみんながイキイキしてたなと感じます☆\r\n\r\n改めて段原さんおかえりなさい！\r\n\r\n段原さんの広島でしか見られない表情や段原さんのファンの方の嬉し楽しそうな姿を見れてとってもライブのエネルギーになりました！！\r\nありがとうございましたーーー！！\r\nいやーー、、もう最っ高でした♡\r\n\r\nライブって最高；；☆\r\nに何度もなりました\r\nまた広島でライブがしたいなあ\r\nこのあたたかくて安心感のある場所が大好きです！\r\n\r\nS__565985291.jpg\r\n\r\nそれでは！\r\n川嶋美楓",
+        "materials": [
+          {
+            "secretKey": "78b36983f0fcfda46c56b68cbe3421b8",
+            "material_id": "21990",
+            "material_title": "S__565985291.jpg",
+            "material_file": "c6bba0e87bc912485aad734120a925002ce9f437bc4128ac770a41a5ca40342221990.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21990_78b36983.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=78b36983f0fcfda46c56b68cbe3421b8&material_file=c6bba0e87bc912485aad734120a925002ce9f437bc4128ac770a41a5ca40342221990.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26941",
+        "next_id": "26932"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 8,
+        "content_id": "26932",
+        "content_title": "5ROOMS広島！",
+        "content_sub_title": "段原瑠々",
+        "category_id": "208",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 14:49:40",
+        "updated_at": "2026-09-25 14:49:40",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "21991",
+            "material_title": "S__565985293.jpg",
+            "material_file": "0012ce610349827edb10837d4bc64bc67fe2c14aef54b1ac1523a004600ce76121991.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26932",
+        "content_title": "5ROOMS広島！",
+        "content_sub_title": "段原瑠々",
+        "category_id": "208",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 14:49:40",
+        "updated_at": "2026-09-25 14:49:40",
+        "is_new": 0,
+        "content_text": "こんばんは！\r\n\r\nJuice=Juiceの段原瑠々です<img src=\"/emoji/emoji-images/f378.gif\"/>\r\n\r\n\r\n\r\nJuice=Juice Room Tour 2026 「5ROOMS」\r\n\r\n広島公演、ありがとうございました！！\r\n\r\n\r\n幸せいっぱいです♡\r\n\r\n本当に楽しかった！！！\r\n\r\n\r\n\r\nJuice=Juice Familyのみなさんからのるるちゃんコールも\r\n一面オレンジにしてくれるペンライトも、\r\nあたたかくて優しくて大好きです☺\r\n\r\n\r\nメンバーからの愛もたくさんもらって！\r\n\r\n本当に楽しそうにライブをするみんなが今日もキラキラしていて可愛くて\r\n\r\nそれに応えてくれるFamilyの熱も嬉しくて<img src=\"/emoji/emoji-images/472d.gif\"/>\r\n\r\nライブ最高だなぁって今日も今日とて思っていました<img src=\"/emoji/emoji-images/f394.gif\"/>\r\n\r\n\r\n\r\n個人的にはハロプロ研修生に加入してから13周年の日で、\r\n\r\nそんな日にみんなといられて嬉しかった☺\r\n\r\n\r\n広島公演ありがとうございました！！\r\n\r\nS__565985293.jpg\r\n\r\nそれでは！\r\n\r\nほんじゃーねー\r\n\r\n\r\n\r\n段原瑠々",
+        "materials": [
+          {
+            "secretKey": "78b36983f0fcfda46c56b68cbe3421b8",
+            "material_id": "21991",
+            "material_title": "S__565985293.jpg",
+            "material_file": "58fa56d445a2ae3358a7a550a3849deb9d05baf87607ee4142e3c8fb6d9e356221991.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21991_78b36983.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=78b36983f0fcfda46c56b68cbe3421b8&material_file=58fa56d445a2ae3358a7a550a3849deb9d05baf87607ee4142e3c8fb6d9e356221991.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26931",
+        "next_id": "26929"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 9,
+        "content_id": "26929",
+        "content_title": "5ROOMSスタート",
+        "content_sub_title": "石山咲良",
+        "category_id": "208",
+        "release_date": "2026-09-19 00:00:00",
+        "created_at": "2026-09-24 19:30:42",
+        "updated_at": "2026-09-24 19:30:53",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "21988",
+            "material_title": "S__565641230.jpg",
+            "material_file": "e7085782ba214f61fd6a355e13cd07c193944f28f1e84a121064adbf9c2ebbcb21988.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26929",
+        "content_title": "5ROOMSスタート",
+        "content_sub_title": "石山咲良",
+        "category_id": "208",
+        "release_date": "2026-09-19 00:00:00",
+        "created_at": "2026-09-24 19:30:42",
+        "updated_at": "2026-09-24 19:30:53",
+        "is_new": 0,
+        "content_text": "こんにちは〜\r\n\r\n\r\n5ROOMSスタートしましたね！\r\n\r\n今回は5つの部屋がコンセプト\r\nいろんな部屋をJuiceと一緒に回ろうね〜\r\n\r\n\r\n今日は神奈川公演2日目でしたが\r\n来てくれたみんなありがとうヽ(・∀・)ノ\r\n\r\n\r\nおなかいっぱいになっていてくれたら\r\nとーーっても嬉しいです\r\n\r\n\r\nこのツアーがどんな千秋楽になるのか\r\nめちゃくちゃ楽しみなんだ〜\r\n\r\nS__565641230.jpg\r\n\r\n\r\n❁⃘今日の咲良のヒトリゴト❁⃘\r\n最後まで楽しもうね〜\r\n\r\n皆さんの幸せの花が良く咲きますように*.ﾟ",
+        "materials": [
+          {
+            "secretKey": "78b36983f0fcfda46c56b68cbe3421b8",
+            "material_id": "21988",
+            "material_title": "S__565641230.jpg",
+            "material_file": "501099bf22bd6715bffa1e7a88709723db5db0ca3884971c8a3f1610108257b521988.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21988_78b36983.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=78b36983f0fcfda46c56b68cbe3421b8&material_file=501099bf22bd6715bffa1e7a88709723db5db0ca3884971c8a3f1610108257b521988.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26932",
+        "next_id": "26930"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 10,
+        "content_id": "26930",
+        "content_title": "\"ルーム\"ツアー",
+        "content_sub_title": "入江里咲",
+        "category_id": "208",
+        "release_date": "2026-09-19 00:00:00",
+        "created_at": "2026-09-24 19:33:39",
+        "updated_at": "2026-09-24 19:33:39",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "21989",
+            "material_title": "S__565641233.jpg",
+            "material_file": "ea8bfe0e6dff1b90d0b9e618310c20d11747b89560612a538868454eb761081221989.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26930",
+        "content_title": "\"ルーム\"ツアー",
+        "content_sub_title": "入江里咲",
+        "category_id": "208",
+        "release_date": "2026-09-19 00:00:00",
+        "created_at": "2026-09-24 19:33:39",
+        "updated_at": "2026-09-24 19:33:39",
+        "is_new": 0,
+        "content_text": "入江里咲です！\r\n\r\n厚木2日目2公演ありがとうございました！\r\n\r\n今回の秋ツアーは\"ルーム\"ツアーということで、いっぱい頭を使って新しい挑戦をしています！！\r\n\r\nJuice=Juiceってこんなこともできちゃうんだ！って思ってもらえていたら嬉しいな♪\r\n\r\nこれから秋ツアーに来て下さる方も楽しみしててください♡\r\n\r\n\r\nぴあアリーナMMまで全力で駆け抜けていきますっ！\r\n\r\nS__565641233.jpg\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+        "materials": [
+          {
+            "secretKey": "78b36983f0fcfda46c56b68cbe3421b8",
+            "material_id": "21989",
+            "material_title": "S__565641233.jpg",
+            "material_file": "f93f6dc7f8ddce9e69fd0a70253bea07ff4937db47b8ad4bde7f9b6dbe83e9ea21989.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21989_78b36983.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=78b36983f0fcfda46c56b68cbe3421b8&material_file=f93f6dc7f8ddce9e69fd0a70253bea07ff4937db47b8ad4bde7f9b6dbe83e9ea21989.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26929",
+        "next_id": "26928"
+      }
+    },
+    {
+      "category": {
+        "idx": 3,
+        "category_id": "208",
+        "category_title": "Juice=Juice Room Tour 2026 「5ROOMS」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 11,
+        "content_id": "26928",
+        "content_title": "赤",
+        "content_sub_title": "井上玲音",
+        "category_id": "208",
+        "release_date": "2026-09-18 00:00:00",
+        "created_at": "2026-09-24 19:29:03",
+        "updated_at": "2026-09-24 19:29:03",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "42edf507b2b802cdbeda0509c696fdb1",
+            "material_id": "21987",
+            "material_title": "S__565633126.jpg",
+            "material_file": "b2770d90125a0a44c0e611bbfa2f0ba1bb87d2474d9a8fa00101346432f2314e21987.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26928",
+        "content_title": "赤",
+        "content_sub_title": "井上玲音",
+        "category_id": "208",
+        "release_date": "2026-09-18 00:00:00",
+        "created_at": "2026-09-24 19:29:03",
+        "updated_at": "2026-09-24 19:29:03",
+        "is_new": 0,
+        "content_text": "やっほ〜\r\nJuice=Juiceの井上玲音です！\r\n\r\n\r\nついに！待ちに待った秋ツアーが始まりました~\r\n\r\n\r\n今回はツアーはツアーでもルームツアーです\r\n\r\n\r\nこれから来られる方は\r\nどんな予想してるのかなー\r\n\r\n\r\nみんなの期待をいい意味で裏切る、超えていくツアーにできればと！！！\r\n\r\n\r\n新しい衣装がまた新たな赤。\r\n\r\nS__565633126.jpg\r\n\r\n赤は赤でもシルエットや生地、差し色で雰囲気変わるのおもしろいーー·͜· ❤\r\n\r\n\r\n楽しいツアーの幕開けになりましたっ\r\n\r\n\r\nそれでは以上！！\r\n井上玲音でした！\r\nsee you…",
+        "materials": [
+          {
+            "secretKey": "8b0bfb172f4b4432a54c814569690e8d",
+            "material_id": "21987",
+            "material_title": "S__565633126.jpg",
+            "material_file": "1a874db86b93ff81e68f9a34cfcb32e72308418be079a85cbf386b61f380f26121987.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21987_8b0bfb17.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=8b0bfb172f4b4432a54c814569690e8d&material_file=1a874db86b93ff81e68f9a34cfcb32e72308418be079a85cbf386b61f380f26121987.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26930",
+        "next_id": "-1"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "27026",
+        "content_title": "ニッショーホール！",
+        "content_sub_title": "中山夏月姫",
+        "category_id": "210",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 15:54:24",
+        "updated_at": "2026-09-29 15:57:42",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22099",
+            "material_title": "S__34988038_0.jpg",
+            "material_file": "0c42d588e6d55407ecb144b1b7bc21cc2b18d7312c104082e696c04e70cf875722099.jpeg"
+          },
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22100",
+            "material_title": "S__34988039_0.jpg",
+            "material_file": "ad39393d162073af6eefeff56656e200ccdbbf05787e7d7b389032b0602a032222100.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "27026",
+        "content_title": "ニッショーホール！",
+        "content_sub_title": "中山夏月姫",
+        "category_id": "210",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 15:54:24",
+        "updated_at": "2026-09-29 15:57:42",
+        "is_new": 0,
+        "content_text": "OCHA NORMAの中山夏月姫です♡\n\nS__34988038_0.jpg\n\nS__34988039_0.jpg\n\nOCHA NORMAの秋ツアー\nOCHA NORMA LIVE TOUR 2026AUTUMN\n（ニッショーホール）がありました！\n\n\n来てださった皆さん、\nありがとうございました<img src=\"/emoji/emoji-images/5031.gif\"/><img src=\"/emoji/emoji-images/5031.gif\"/><img src=\"/emoji/emoji-images/5031.gif\"/>\n\nめちゃくちゃ楽しかったです♡\nイヤモニを付けてても聞こえてくる、\n皆さんの声援が本当に嬉しくてすごかった！\n\n皆さんの声に負けないように\nパフォーマンスしようという☺<img src=\"/emoji/emoji-images/5035.gif\"/>\n良い意味での対抗心が出てすごく良いライブになったんじゃないかなと思います！\n\n\n\n今回の秋ツアーはすごく攻めたセットリストになっているので、\nこれから来てくださる方はもちろん！\nもう来てくれた方も楽しんでいただけたらなぁと思います<img src=\"/emoji/emoji-images/f653.gif\"/>\n\n\nそして東京ということで\n北原ももちゃんの地元ですね<img src=\"/emoji/emoji-images/f3fa.gif\"/>\nたくさんのももちゃんお帰りの声が多くて、\n私も自分のことのように嬉しくなりましたし、こうやってメンバーの地元で出来るのもすごくうれしいことだなぁと改めて実感しました！\n\n当たり前じゃないことだらけすぎて、\n常に感謝の気持ちを持ってパフォーマンスしないとですね！\n\n\n\nそして今日はポニーテールをしました<img src=\"/emoji/emoji-images/f7bc.gif\"/>\n普段は髪の毛を下ろしていることが多いのですが、気合を入れてポニーテールにしました！\n\n髪の毛をまとめるとすごく踊りやすくて\nパフォーマンスに集中できて\nすごくよかったです！\n\n\n今回のツアーを通して、\nもっともっと成長できるように頑張りたいと思いますし、私のキャラクターを出していきたいなと思います♡<img src=\"/emoji/emoji-images/f663.gif\"/>\n\n\n季節の変わり目で体調管理大変だと思いますが、皆さんも一緒に頑張りましょう！\n\n\nOCHA NORMAの中山夏月姫でした！",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22099",
+            "material_title": "S__34988038_0.jpg",
+            "material_file": "0c42d588e6d55407ecb144b1b7bc21cc2b18d7312c104082e696c04e70cf875722099.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22099_cf4b7ca8.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cf4b7ca8c9a527a5926c80adf6157c65&material_file=0c42d588e6d55407ecb144b1b7bc21cc2b18d7312c104082e696c04e70cf875722099.jpeg"
+            }
+          },
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22100",
+            "material_title": "S__34988039_0.jpg",
+            "material_file": "ad39393d162073af6eefeff56656e200ccdbbf05787e7d7b389032b0602a032222100.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22100_cf4b7ca8.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cf4b7ca8c9a527a5926c80adf6157c65&material_file=ad39393d162073af6eefeff56656e200ccdbbf05787e7d7b389032b0602a032222100.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "26970"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "26970",
+        "content_title": "アツアツ！",
+        "content_sub_title": "西﨑美空",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-28 15:44:39",
+        "updated_at": "2026-09-28 15:44:39",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22056",
+            "material_title": "S__305709175.jpg",
+            "material_file": "51a8082a5421203c454689281225a428dc15460cebef6c3b9146b6dc8da07f9622056.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26970",
+        "content_title": "アツアツ！",
+        "content_sub_title": "西﨑美空",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-28 15:44:39",
+        "updated_at": "2026-09-28 15:44:39",
+        "is_new": 0,
+        "content_text": "こんみっちゃーん！\r\n西﨑美空です！\r\n\r\n\r\nニッショーホール2日目ありがとうございました！！\r\n\r\n\r\n\r\nもう本当にアツアツなライブ！\r\nとっても楽しかったです！！！\r\n\r\n\r\n\r\nオチャならリクエストが今日私と広本瑠璃ちゃんだったんですけど、、\r\n\r\n\r\nまじで久々に少しだけ緊張した〜笑\r\n\r\n\r\n\r\nでも皆さんがたくさん盛り上げてくれたり、メンバーのみんながカッコ良すぎて、、、、\r\n\r\n\r\n\r\n\r\nもーーまじで大満足でした！\r\n\r\n\r\n\r\nまだ披露する予定ありますので是非最高のメンバー達を目に焼き付けてくれると嬉しいです！\r\n\r\n\r\n\r\n\r\nもうね今回のツアーはチャレンジたくさんで！！\r\n\r\n\r\n\r\n1公演1公演の達成感がすごいです！！笑\r\n\r\n\r\n\r\n\r\n千秋楽ではさらにパワーアップしたパフォーマンスを届けられれように頑張ります！！！\r\n\r\n\r\nS__305709175.jpg\r\n\r\nみんな最高のLIVEをありがとう〜！\r\n\r\n\r\n\r\n\r\nそれでは、ばいみくー！",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22056",
+            "material_title": "S__305709175.jpg",
+            "material_file": "51a8082a5421203c454689281225a428dc15460cebef6c3b9146b6dc8da07f9622056.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22056_cf4b7ca8.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cf4b7ca8c9a527a5926c80adf6157c65&material_file=51a8082a5421203c454689281225a428dc15460cebef6c3b9146b6dc8da07f9622056.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27026",
+        "next_id": "27025"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "27025",
+        "content_title": "ニッショーホール2日目",
+        "content_sub_title": "窪田七海",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 15:24:29",
+        "updated_at": "2026-09-29 15:24:36",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22098",
+            "material_title": "S__190857239.jpg",
+            "material_file": "738b8bf90f994e5ecebd9b1b35bdeb2a182b859e86f15f63e10de25db76d64f822098.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27025",
+        "content_title": "ニッショーホール2日目",
+        "content_sub_title": "窪田七海",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 15:24:29",
+        "updated_at": "2026-09-29 15:24:36",
+        "is_new": 0,
+        "content_text": "今日は！！\r\nOCHA NORMA LIVE TOUR 2026 AUTUMN〜Original CHAracter 〜\r\nニッショーホール2日目でしたぁーー！\r\n\r\n来てくださった皆さんありがとうございます<img src=\"/emoji/emoji-images/f9a9.gif\"/>\r\n\r\nすごく楽しかったです！！！！\r\n\r\nこのツアーのホールは東京からということで緊張するかなぁ？って思ってたのですが緊張はあまりなく落ち着いてただただ楽しくパフォーマンスできてすごく嬉しかったです!!\r\n\r\nホールだと大きくステージを使えて思う存分動くことが出来たり沢山の方と目が合ったり楽しいです♡\r\n\r\nステージから見える景色がめためた綺麗でその中にピンクのペンライトも沢山あって凄く嬉しいなと思いました<img src=\"/emoji/emoji-images/5031.gif\"/>\r\n\r\n今回のツアーは初めましての方が沢山いてOCHA NORMAが少しずつ色んな方に知って頂けて嬉しすぎるのでこのツアーでもっともっと好きになってもらいたいなと思います♡\r\n\r\nもちろん前から好きだよーって方にももっと好きになってもらいたいですし成長したところを見せれたらいいなと思います！！！！！\r\n\r\n頑張ります<img src=\"/emoji/emoji-images/f9a9.gif\"/>\r\n\r\nS__190857239.jpg\r\n\r\n姫良々カメラで撮ってもらったよォ♡\r\n\r\nではっ！\r\n窪田七海でしたぁー！！！",
+        "materials": [
+          {
+            "secretKey": "6926e2276c14ffdfd0c19ecf54062dd0",
+            "material_id": "22098",
+            "material_title": "S__190857239.jpg",
+            "material_file": "09d43c010aa0c8b693a5078969d963ae75f814ecb9bb203b712b36c60dd63aeb22098.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22098_6926e227.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=6926e2276c14ffdfd0c19ecf54062dd0&material_file=09d43c010aa0c8b693a5078969d963ae75f814ecb9bb203b712b36c60dd63aeb22098.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26970",
+        "next_id": "27027"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 4,
+        "content_id": "27027",
+        "content_title": "楽しかったー！！！",
+        "content_sub_title": "筒井澪心",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 15:56:47",
+        "updated_at": "2026-09-29 15:56:47",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22101",
+            "material_title": "S__43778054.jpg",
+            "material_file": "40d2313a97ccaeb83ff6c12420c3ed5a62a5019b2e7396d809fac1dcf850c54f22101.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27027",
+        "content_title": "楽しかったー！！！",
+        "content_sub_title": "筒井澪心",
+        "category_id": "210",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 15:56:47",
+        "updated_at": "2026-09-29 15:56:47",
+        "is_new": 0,
+        "content_text": "おっちゃのーま！筒井澪心(つついろこ)です！\r\n秋ツアーニッショーホール2日目無事に終了しました！\r\n楽しかったー！！！\r\n\r\nライブ前にみんなで頑張ろこだよとか\r\nかまそうぜ！って言い合っててめちゃ良い雰囲気だなと思いました!!\r\n\r\nあなたは良いこと悪いことどっちから聞きたい？と言う質問した事ありますか？\r\n急にね言いたくなってMCで言ってみたけど\r\n全く思いつきませんでした！笑\r\n\r\nS__43778054.jpg\r\n\r\n今回のツアーも誰一人かけずに走りきりたいです！\r\n\r\nそして、ハロモバがまもなく終了という事で\r\n本当にありがとうございました！\r\nみんなも読んでくれたり、いろいろチェックしてくれてありがとう！",
+        "materials": [
+          {
+            "secretKey": "6926e2276c14ffdfd0c19ecf54062dd0",
+            "material_id": "22101",
+            "material_title": "S__43778054.jpg",
+            "material_file": "a61071c5db74045c389ebfbba0fd277d2149b22e73b0d1f1d86f9a8ae127566322101.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22101_6926e227.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=6926e2276c14ffdfd0c19ecf54062dd0&material_file=a61071c5db74045c389ebfbba0fd277d2149b22e73b0d1f1d86f9a8ae127566322101.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27025",
+        "next_id": "26947"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 5,
+        "content_id": "26947",
+        "content_title": "ちゃお！秋ツアー東京1日目",
+        "content_sub_title": "北原もも",
+        "category_id": "210",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-28 15:15:09",
+        "updated_at": "2026-09-28 15:15:18",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22054",
+            "material_title": "S__202801162.jpg",
+            "material_file": "3472bfafa843835c49643b6855bd64a83fc624a6afca7eda7a7239c32a9f5b4122054.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26947",
+        "content_title": "ちゃお！秋ツアー東京1日目",
+        "content_sub_title": "北原もも",
+        "category_id": "210",
+        "release_date": "2026-09-26 00:00:00",
+        "created_at": "2026-09-28 15:15:09",
+        "updated_at": "2026-09-28 15:15:18",
+        "is_new": 0,
+        "content_text": "ちゃお！\r\n北原ももです<img src=\"/emoji/emoji-images/4f4b.gif\"/>\r\n\r\n9/26(土)は\r\n「OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～」\r\nニッショーホール (東京)\r\n秋ツアーの東京1日目でした！\r\n\r\nもももの地元・東京にキタハラしてくださったみなさん、ありがとうございました<img src=\"/emoji/emoji-images/f3aa.gif\"/><img src=\"/emoji/emoji-images/f3aa.gif\"/><img src=\"/emoji/emoji-images/4f4b.gif\"/><img src=\"/emoji/emoji-images/f37e.gif\"/>\r\n\r\n\r\n秋ツアーのホール初日はなんと！\r\n北原ももの「オチャならリクエスト」初日でもありました<img src=\"/emoji/emoji-images/5033.gif\"/><img src=\"/emoji/emoji-images/4f4b.gif\"/><img src=\"/emoji/emoji-images/4f4b.gif\"/>\r\n\r\nドドドドドドド緊張.......\r\n\r\nOCHA NORMAでやってみたかったあの曲をリクエストさせていただきました<img src=\"/emoji/emoji-images/513f.gif\"/><img src=\"/emoji/emoji-images/f653.gif\"/><img src=\"/emoji/emoji-images/f653.gif\"/><img src=\"/emoji/emoji-images/f653.gif\"/>\r\n\r\n歌割りも私なりに考えたんだけど、\r\nどうだったかな～～～～\r\n\r\n歌割り考えてる時間、至福すぎました。\r\n\r\n\r\n福岡、広島公演でもみられるので楽しみにしててください<img src=\"/emoji/emoji-images/f9a9.gif\"/><img src=\"/emoji/emoji-images/f9a9.gif\"/><img src=\"/emoji/emoji-images/f9a9.gif\"/>\r\n\r\n\r\n\r\nOCHA NORMAの秋ツアーは始まったばかり！\r\n11月の埼玉公演まで全力で駆け抜けます<img src=\"/emoji/emoji-images/4535.gif\"/>\r\n\r\nOCHA NORMAから目を離さないでください！\r\n\r\n\r\nストレートもももです♡\r\nS__202801162.jpg\r\n\r\nそれでは！\r\n\r\n北原ももでした<img src=\"/emoji/emoji-images/4f4b.gif\"/>",
+        "materials": [
+          {
+            "secretKey": "8eabf397e78021be4e7f8023f3d62eb1",
+            "material_id": "22054",
+            "material_title": "S__202801162.jpg",
+            "material_file": "45553d14cb9e99f79fd2dc5b00d7aee3f77585f502f53db603b3a8232786e75c22054.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22054_8eabf397.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=8eabf397e78021be4e7f8023f3d62eb1&material_file=45553d14cb9e99f79fd2dc5b00d7aee3f77585f502f53db603b3a8232786e75c22054.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27027",
+        "next_id": "27023"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 6,
+        "content_id": "27023",
+        "content_title": "仙台公演！！",
+        "content_sub_title": "広本瑠璃",
+        "category_id": "210",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-29 15:18:19",
+        "updated_at": "2026-09-29 15:18:19",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22095",
+            "material_title": "S__42541087.jpg",
+            "material_file": "dac5b41159bb50677bfa10a2fa74c126a76555bf83a0ad9efd3db65b8227f73b22095.jpeg"
+          },
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22096",
+            "material_title": "S__42541085.jpg",
+            "material_file": "ec9eecebd839ff7ebf14523fecc2f987a84cfa06891d51c8d2b4c537cf86a5de22096.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27023",
+        "content_title": "仙台公演！！",
+        "content_sub_title": "広本瑠璃",
+        "category_id": "210",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-29 15:18:19",
+        "updated_at": "2026-09-29 15:18:19",
+        "is_new": 0,
+        "content_text": "広本瑠璃です<img src=\"/emoji/emoji-images/4f4c.gif\"/>\r\n\r\n秋ツアー仙台公演！！\r\nありがとうございました<img src=\"/emoji/emoji-images/f650.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\nめちゃくちゃ楽しいライブだった〜！！\r\n怒涛のセトリになってるからよりっていうのもあると思うんですけど、！\r\nたくさん汗かいて会場の一体感がすごくて嬉しかったです！！\r\n後半からは、みんなの上にスモークなのか、全員の蒸気でできた雲なのかわかんないくらい白くモクモクしてて\r\nあー！47ツアーでも見た、ライブハウスで楽しめたからこそ見える景色だ！！\r\nと思ってすごく嬉しかったです<img src=\"/emoji/emoji-images/f9cf.gif\"/>❤\r\n\r\n今回のグッズの茶柱イトver2も一緒にフリフリできて最高でした☺<img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\nまだまだツアー続くし！地元、広島公演も待ってるので\r\nこのツアーでもっといろんな感情を歌とかダンスに乗せられるように頑張ります！！！！\r\n\r\nこれからのツアーぜひ待ってます<img src=\"/emoji/emoji-images/f3aa.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\nS__42541087.jpg\r\nS__42541085.jpg",
+        "materials": [
+          {
+            "secretKey": "8eabf397e78021be4e7f8023f3d62eb1",
+            "material_id": "22095",
+            "material_title": "S__42541087.jpg",
+            "material_file": "fbd624ce9bd6c90e67360bbf5ead27132b96bc28f33aa536bea9ce25d69e018222095.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22095_8eabf397.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=8eabf397e78021be4e7f8023f3d62eb1&material_file=fbd624ce9bd6c90e67360bbf5ead27132b96bc28f33aa536bea9ce25d69e018222095.jpeg"
+            }
+          },
+          {
+            "secretKey": "8eabf397e78021be4e7f8023f3d62eb1",
+            "material_id": "22096",
+            "material_title": "S__42541085.jpg",
+            "material_file": "f51cc4037a04f139eb9338480fa219e839c3ec4e78199120393b821dc131a22e22096.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22096_8eabf397.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=8eabf397e78021be4e7f8023f3d62eb1&material_file=f51cc4037a04f139eb9338480fa219e839c3ec4e78199120393b821dc131a22e22096.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26947",
+        "next_id": "27022"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 7,
+        "content_id": "27022",
+        "content_title": "魂の秋ツアー！",
+        "content_sub_title": "斉藤円香",
+        "category_id": "210",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-29 15:01:04",
+        "updated_at": "2026-09-29 15:01:04",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22094",
+            "material_title": "S__140419085.jpg",
+            "material_file": "291f70eb78aed97184675ccfff109d68a8bfb4c6fbeddbdcf0cdbe2d36bf411b22094.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27022",
+        "content_title": "魂の秋ツアー！",
+        "content_sub_title": "斉藤円香",
+        "category_id": "210",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-29 15:01:04",
+        "updated_at": "2026-09-29 15:01:04",
+        "is_new": 0,
+        "content_text": "斉藤円香です！\r\nついに先日から、秋ツアーが始まりました！\r\n\r\nうおおおおおおお！\r\n気合いたっぷりです！！！！！\r\n\r\n今回のタイトルが～Original CHAracter～ということで、それぞれの個性がたくさん見れるライブになっているかと思います！\r\n\r\nそして今回はホール公演とライブハウス公演が混ざっているので、、！\r\nかなり！頭がパンクしております！！！！！\r\n\r\nしかもオチャならリクエストや新曲含めて、10曲くらい覚えたので本当に頭いっぱい。笑\r\n\r\nだけど、メンバーみんなで乗り越えて凄くかっこよくて、本当に頼もしい仲間達だなと思ってます。\r\nみんな本当にありがとうーーー！！！\r\n\r\nそしてよく会場でアンケート取ってるんだけど、新しくファンになった皆さんもいらっしゃって！\r\nすごくすごく嬉しい限りです、、、！！！\r\n\r\n昔から応援してくださる皆さんも本当に大事！\r\nいつもたくさんありがとうね〜♡\r\n\r\nマジで今ツアー頑張ってるから、OCHA NORMAの凄さを見てほしい。\r\nネタバレしたくないからこれくらいにしとくね！笑\r\n\r\nS__140419085.jpg\r\n\r\n衣装かわいいでしょ〜〜\r\n\r\nハロ！モバが終わっちゃうの寂しいけど、またこのようなコンテンツが出来たらいいな！\r\n\r\nそれではまた！\r\n斉藤円香でした！！！",
+        "materials": [
+          {
+            "secretKey": "85140c932d7d352b05ec2743898967aa",
+            "material_id": "22094",
+            "material_title": "S__140419085.jpg",
+            "material_file": "5afb45f6b16523286e749ba579078f10e0857292c335c48081b2df4cc01417e722094.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22094_85140c93.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=85140c932d7d352b05ec2743898967aa&material_file=5afb45f6b16523286e749ba579078f10e0857292c335c48081b2df4cc01417e722094.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27023",
+        "next_id": "27024"
+      }
+    },
+    {
+      "category": {
+        "idx": 5,
+        "category_id": "210",
+        "category_title": "OCHA NORMA LIVE TOUR 2026 AUTUMN ～Original CHAracter～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 8,
+        "content_id": "27024",
+        "content_title": "北海道公演",
+        "content_sub_title": "米村姫良々",
+        "category_id": "210",
+        "release_date": "2026-09-20 00:00:00",
+        "created_at": "2026-09-29 15:21:14",
+        "updated_at": "2026-09-29 15:21:23",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cf4b7ca8c9a527a5926c80adf6157c65",
+            "material_id": "22097",
+            "material_title": "S__30302213.jpg",
+            "material_file": "fa43b7f7c9b0077dbcbb56d29f8a37737b0d4326dc79f104165ea7f539aca00f22097.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27024",
+        "content_title": "北海道公演",
+        "content_sub_title": "米村姫良々",
+        "category_id": "210",
+        "release_date": "2026-09-20 00:00:00",
+        "created_at": "2026-09-29 15:21:14",
+        "updated_at": "2026-09-29 15:21:23",
+        "is_new": 0,
+        "content_text": "ツアー北海道公演ありがとうございました！！\r\n\r\n\r\n\r\n初日ということで、\r\nほんっっとーに\r\nドキドキでした！！！\r\n\r\n\r\nみなさんの楽しんでいただけてるんだろうなっていうお顔とか声援で\r\n\r\n楽しすぎる時間になりました！！\r\n\r\n\r\n\r\n\r\nリハーサル頑張ってよかったよー！！！\r\n\r\nS__30302213.jpg\r\n\r\n衣装も可愛いでしょん\r\n\r\n\r\n\r\n\r\nまだまだツアー続くので頑張ります！\r\n\r\n\r\n北海道のアイス食べて帰るよ！！！！\r\n\r\n\r\n米村姫良々でした。",
+        "materials": [
+          {
+            "secretKey": "65757837178067ba729933c070227b33",
+            "material_id": "22097",
+            "material_title": "S__30302213.jpg",
+            "material_file": "2f8a3eb56b5c44bf6ebd802177d19199bd8411429d99d49df954f4ded2d8907c22097.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22097_65757837.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=65757837178067ba729933c070227b33&material_file=2f8a3eb56b5c44bf6ebd802177d19199bd8411429d99d49df954f4ded2d8907c22097.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27022",
         "next_id": "-1"
       }
     }

@@ -2,6 +2,23 @@
   "contents": [
     {
       "idx": 321,
+      "content_id": "14140",
+      "content_title": "チャレンジしてみたい楽器は何ですか？",
+      "content_sub_title": "",
+      "category_id": "2",
+      "release_date": "2020-08-11 10:00:00",
+      "created_at": "2020-07-20 12:16:35",
+      "updated_at": "2020-08-07 17:17:03",
+      "is_new": "0",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ]
+    },
+    {
+      "idx": 322,
       "content_id": "14131",
       "content_title": "今のグループの魅力を最も表現出来ると思う曲は？",
       "content_sub_title": "",
@@ -18,7 +35,7 @@
       ]
     },
     {
-      "idx": 322,
+      "idx": 323,
       "content_id": "14105",
       "content_title": "あなたのドジっ子エピソードを1つ教えて下さい。",
       "content_sub_title": "",
@@ -35,7 +52,7 @@
       ]
     },
     {
-      "idx": 323,
+      "idx": 324,
       "content_id": "14100",
       "content_title": "最近の発見を教えて下さい。 ",
       "content_sub_title": "",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "idx": 324,
+      "idx": 325,
       "content_id": "13862",
       "content_title": "好きな香りは何の香り？",
       "content_sub_title": "",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "idx": 325,
+      "idx": 326,
       "content_id": "13857",
       "content_title": "頑張った自分にご褒美をあげるとしたら？",
       "content_sub_title": "",
@@ -86,7 +103,7 @@
       ]
     },
     {
-      "idx": 326,
+      "idx": 327,
       "content_id": "13852",
       "content_title": "身の回りで見つけた｢小さな幸せ｣を教えて下さい。",
       "content_sub_title": "",
@@ -103,7 +120,7 @@
       ]
     },
     {
-      "idx": 327,
+      "idx": 328,
       "content_id": "13847",
       "content_title": "無人島サバイバル。最後まで生き残りそうなのは誰？",
       "content_sub_title": "",
@@ -120,7 +137,7 @@
       ]
     },
     {
-      "idx": 328,
+      "idx": 329,
       "content_id": "13842",
       "content_title": "自分のクセやこだわりで困っている事は？",
       "content_sub_title": "",
@@ -137,7 +154,7 @@
       ]
     },
     {
-      "idx": 329,
+      "idx": 330,
       "content_id": "13837",
       "content_title": "出演してみたい映画のジャンルは？",
       "content_sub_title": "",
@@ -154,7 +171,7 @@
       ]
     },
     {
-      "idx": 330,
+      "idx": 331,
       "content_id": "13832",
       "content_title": "「私、輝いている」と思うのはどんな時？",
       "content_sub_title": "",
@@ -171,7 +188,7 @@
       ]
     },
     {
-      "idx": 331,
+      "idx": 332,
       "content_id": "13786",
       "content_title": "リズム感が凄い！と思うメンバーは？",
       "content_sub_title": "",
@@ -188,7 +205,7 @@
       ]
     },
     {
-      "idx": 332,
+      "idx": 333,
       "content_id": "13767",
       "content_title": "今の自分に足りないと思うものは何ですか？",
       "content_sub_title": "",
@@ -199,15 +216,15 @@
       "is_new": "0",
       "materials": [
         {
-          "secretKey": "83aa658b1b5a49c768bd3eb917fc79c1",
+          "secretKey": "98f52074caee149c951f2e516c65897c",
           "material_id": "11511",
           "material_title": "0519_1910023075.jpg",
-          "material_file": "4e5cee870ac475843e2a6ed67ab6e1039932f7c375512239dea42ed7e59a053b11511.jpeg"
+          "material_file": "da234e60c5802bc4d7108555cf4dc66e1e142b3a85f65b2f34e9670f188064d511511.jpeg"
         }
       ]
     },
     {
-      "idx": 333,
+      "idx": 334,
       "content_id": "13755",
       "content_title": "最近のマイブームは何ですか？",
       "content_sub_title": "",
@@ -224,7 +241,7 @@
       ]
     },
     {
-      "idx": 334,
+      "idx": 335,
       "content_id": "13134",
       "content_title": "今までに貰ったプレゼントで嬉しかったものは？",
       "content_sub_title": "",
@@ -241,7 +258,7 @@
       ]
     },
     {
-      "idx": 335,
+      "idx": 336,
       "content_id": "13133",
       "content_title": "春といえば？",
       "content_sub_title": "",
@@ -258,7 +275,7 @@
       ]
     },
     {
-      "idx": 336,
+      "idx": 337,
       "content_id": "13132",
       "content_title": "あなたが頼りにしているメンバーは？",
       "content_sub_title": "",
@@ -275,7 +292,7 @@
       ]
     },
     {
-      "idx": 337,
+      "idx": 338,
       "content_id": "13131",
       "content_title": "たい焼きは頭から食べる派？しっぽから食べる派？",
       "content_sub_title": "",
@@ -292,7 +309,7 @@
       ]
     },
     {
-      "idx": 338,
+      "idx": 339,
       "content_id": "13130",
       "content_title": "最近頑張ってるなと思うメンバーは？",
       "content_sub_title": "",
@@ -309,7 +326,7 @@
       ]
     },
     {
-      "idx": 339,
+      "idx": 340,
       "content_id": "13104",
       "content_title": "メンバーと闇鍋をすることに。何の具材を持参する？",
       "content_sub_title": "",
@@ -317,23 +334,6 @@
       "release_date": "2020-03-31 10:00:00",
       "created_at": "2020-02-19 17:17:46",
       "updated_at": "2020-03-26 18:22:27",
-      "is_new": "0",
-      "materials": [
-        {
-          "material_id": "",
-          "material_file": ""
-        }
-      ]
-    },
-    {
-      "idx": 340,
-      "content_id": "13103",
-      "content_title": "小さい頃から変わってないなと思うところは？",
-      "content_sub_title": "",
-      "category_id": "2",
-      "release_date": "2020-03-24 10:00:00",
-      "created_at": "2020-02-19 17:12:32",
-      "updated_at": "2020-03-23 16:52:15",
       "is_new": "0",
       "materials": [
         {

@@ -150,6 +150,11 @@ async function main() {
   mkdirp(OUT);
   mkdirp(RAW);
   mkdirp(ASSETS);
+  const archivePath = path.join(OUT, '_hello_qa_archive.json');
+  const previous = fs.existsSync(archivePath)
+    ? JSON.parse(fs.readFileSync(archivePath, 'utf8'))
+    : { items: [], errors: [] };
+  const previousKeys = new Set((previous.items || []).map((item) => `${item.category_id}:${item.content_id}`));
 
   const categoryUrl = `http://helloproject-mobile.com/api/category?${enc({ menu_id: 6 })}`;
   const categoryData = await getJson(categoryUrl);
@@ -190,9 +195,9 @@ async function main() {
     const key = `${item.category_id}:${item.content_id}`;
     if (seen.has(key)) return false;
     seen.add(key);
-    return true;
+    return !previousKeys.has(key);
   });
-  console.log(`contents=${listItems.length}`);
+  console.log(`new contents=${listItems.length}`);
 
   const records = await mapLimit(listItems, 8, async (item, i) => {
     const detailUrl = `http://helloproject-mobile.com/api/contents/${item.content_id}?${enc({
@@ -247,8 +252,8 @@ async function main() {
     };
   });
 
-  const okRecords = records.filter((item) => item && !item.error);
-  const errors = records.filter((item) => item && item.error);
+  const okRecords = [...(previous.items || []), ...records.filter((item) => item && !item.error)];
+  const errors = [...(previous.errors || []), ...records.filter((item) => item && item.error)];
   okRecords.sort((a, b) => {
     const c = a.category_title.localeCompare(b.category_title, 'ja');
     if (c !== 0) return c;
@@ -265,7 +270,7 @@ async function main() {
     items: okRecords,
     errors,
   };
-  fs.writeFileSync(path.join(OUT, '_hello_qa_archive.json'), JSON.stringify(archive, null, 2), 'utf8');
+  fs.writeFileSync(archivePath, JSON.stringify(archive, null, 2), 'utf8');
 
   const byCategory = new Map();
   for (const item of okRecords) {

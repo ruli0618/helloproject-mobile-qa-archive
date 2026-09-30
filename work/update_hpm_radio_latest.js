@@ -27,6 +27,13 @@ const TARGETS = [
     minEpisode: 69,
     finalEpisode: 72,
   },
+  {
+    id: 'senden',
+    directory: 'オリジナル番組「宣伝会議」',
+    program: 'オリジナル番組「宣伝会議」',
+    host: 'ハロ！モバ宣伝部員',
+    minEpisode: 125,
+  },
 ];
 
 function stripHtml(value) {
@@ -139,7 +146,7 @@ async function main() {
   const saved = [];
   const skipped = [];
 
-  for (const target of TARGETS) {
+  for (const target of TARGETS.filter(({ id }) => id === 'senden')) {
     const group = radio.find((item) => String(item.title || '').includes(`id= ${target.id}`));
     if (!group) throw new Error(`group not found: ${target.id}`);
 
@@ -181,7 +188,7 @@ async function main() {
     saved,
     skipped,
   };
-  fs.writeFileSync(path.join(ROOT, '_latest_update_2026-08-15.json'), JSON.stringify(report, null, 2), 'utf8');
+  fs.writeFileSync(path.join(ROOT, '_latest_update_2026-09-30.json'), JSON.stringify(report, null, 2), 'utf8');
   console.log(`saved=${saved.length} skipped=${skipped.length}`);
 }
 

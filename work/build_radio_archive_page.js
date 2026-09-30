@@ -86,7 +86,14 @@ function compareItem(a, b) {
 }
 
 fs.mkdirSync(OUT, { recursive: true });
-const files = walk(RADIO_ROOT).filter((file) => /\.(mp4|m4a|mp3|aac)$/i.test(file));
+const files = walk(RADIO_ROOT).filter((file) => {
+  if (/\.part\.mp4$/i.test(file)) return false;
+  if (!/\.(mp4|m4a|mp3|aac)$/i.test(file)) return false;
+  const name = path.basename(file);
+  const isDuplicateRokoUpdate = path.basename(path.dirname(file)) === 'オリジナル番組「ろこの部屋」'
+    && /^07(?:1[0-9]|2[0-2]) - .*\[mid89\d+\]\.mp4$/i.test(name);
+  return !isDuplicateRokoUpdate;
+});
 const items = files.map(parseFile).sort(compareItem);
 const programs = [...new Set(items.map((item) => item.program))].sort((a, b) => a.localeCompare(b, 'ja'));
 const totalBytes = items.reduce((sum, item) => sum + item.size, 0);
@@ -113,7 +120,8 @@ const programOptions = programs.map((program) => `<option value="${esc(program)}
 
 const episodeMap = new Map();
 for (const item of items) {
-  const key = `${item.program}\u0000${item.episode || item.order}`;
+  const segment = item.title.match(/第\d+回(前編|後編)/)?.[1] || '';
+  const key = `${item.program}\u0000${item.episode || item.order}\u0000${segment}`;
   if (!episodeMap.has(key)) episodeMap.set(key, []);
   episodeMap.get(key).push(item);
 }
@@ -124,7 +132,8 @@ const playableTracks = items.filter((item) => item.audio_url).length;
 function compactTitle(tracks) {
   const first = tracks[0];
   const guest = first.guest ? ` ゲスト：${first.guest}` : '';
-  return `${first.program} - ${first.episode ? `第${first.episode}回` : first.title}${guest}`;
+  const segment = first.title.match(/第\d+回(前編|後編)/)?.[1] || '';
+  return `${first.program} - ${first.episode ? `第${first.episode}回${segment}` : first.title}${guest}`;
 }
 
 function trackButton(item, index) {

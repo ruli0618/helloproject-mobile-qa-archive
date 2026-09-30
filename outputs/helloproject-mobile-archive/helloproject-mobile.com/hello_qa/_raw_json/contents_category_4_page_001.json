@@ -2,6 +2,23 @@
   "contents": [
     {
       "idx": 1,
+      "content_id": "26779",
+      "content_title": "「このグループのメンバーで良かった」と思うのはどんな時？",
+      "content_sub_title": "",
+      "category_id": "4",
+      "release_date": "2026-09-28 10:00:00",
+      "created_at": "2026-08-25 16:41:28",
+      "updated_at": "2026-09-25 18:32:57",
+      "is_new": "0",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
       "content_id": "26778",
       "content_title": "自分のここが可愛い！と思うところを教えてください。",
       "content_sub_title": "",
@@ -18,7 +35,7 @@
       ]
     },
     {
-      "idx": 2,
+      "idx": 3,
       "content_id": "26777",
       "content_title": "自分と相性が良いと思う人はどんな人ですか？",
       "content_sub_title": "",
@@ -35,7 +52,7 @@
       ]
     },
     {
-      "idx": 3,
+      "idx": 4,
       "content_id": "26776",
       "content_title": "自分に外国風の名前を付けるとしたら？",
       "content_sub_title": "",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "idx": 4,
+      "idx": 5,
       "content_id": "26722",
       "content_title": "最近、距離が縮まったと思うメンバーは？",
       "content_sub_title": "",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "idx": 5,
+      "idx": 6,
       "content_id": "26721",
       "content_title": "最近嬉しかったことは？",
       "content_sub_title": "",
@@ -86,7 +103,7 @@
       ]
     },
     {
-      "idx": 6,
+      "idx": 7,
       "content_id": "26720",
       "content_title": "夏にやりたいことは？",
       "content_sub_title": "",
@@ -103,7 +120,7 @@
       ]
     },
     {
-      "idx": 7,
+      "idx": 8,
       "content_id": "26446",
       "content_title": "ライブで歌って楽しい曲、踊って楽しい曲は？",
       "content_sub_title": "",
@@ -120,7 +137,7 @@
       ]
     },
     {
-      "idx": 8,
+      "idx": 9,
       "content_id": "26445",
       "content_title": "宇宙人に会ったらどうする？",
       "content_sub_title": "",
@@ -137,7 +154,7 @@
       ]
     },
     {
-      "idx": 9,
+      "idx": 10,
       "content_id": "26444",
       "content_title": "あ～小腹空いたな～。何を食べる？",
       "content_sub_title": "",
@@ -154,7 +171,7 @@
       ]
     },
     {
-      "idx": 10,
+      "idx": 11,
       "content_id": "26443",
       "content_title": "歌声が好きなメンバーは？",
       "content_sub_title": "",
@@ -171,7 +188,7 @@
       ]
     },
     {
-      "idx": 11,
+      "idx": 12,
       "content_id": "26442",
       "content_title": "好きな飲み物は？",
       "content_sub_title": "",
@@ -188,7 +205,7 @@
       ]
     },
     {
-      "idx": 12,
+      "idx": 13,
       "content_id": "26441",
       "content_title": "インドア派？アウトドア派？",
       "content_sub_title": "",
@@ -205,7 +222,7 @@
       ]
     },
     {
-      "idx": 13,
+      "idx": 14,
       "content_id": "26440",
       "content_title": "冷蔵庫に常備しているものは？",
       "content_sub_title": "",
@@ -222,7 +239,7 @@
       ]
     },
     {
-      "idx": 14,
+      "idx": 15,
       "content_id": "26310",
       "content_title": "最近、楽しかったことは？",
       "content_sub_title": "",
@@ -239,7 +256,7 @@
       ]
     },
     {
-      "idx": 15,
+      "idx": 16,
       "content_id": "26301",
       "content_title": "ほっかほかの白米に乗せたいご飯のお供は？",
       "content_sub_title": "",
@@ -256,7 +273,7 @@
       ]
     },
     {
-      "idx": 16,
+      "idx": 17,
       "content_id": "26300",
       "content_title": "今、ファンの方に伝えたいことは？",
       "content_sub_title": "",
@@ -273,7 +290,7 @@
       ]
     },
     {
-      "idx": 17,
+      "idx": 18,
       "content_id": "26014",
       "content_title": "パフォーマンスで大切にしていることは？",
       "content_sub_title": "",
@@ -290,7 +307,7 @@
       ]
     },
     {
-      "idx": 18,
+      "idx": 19,
       "content_id": "26013",
       "content_title": "ファンの皆さんとやってみたいことは？",
       "content_sub_title": "",
@@ -307,7 +324,7 @@
       ]
     },
     {
-      "idx": 19,
+      "idx": 20,
       "content_id": "26012",
       "content_title": "コンビニに行ったらつい買ってしまうものは？",
       "content_sub_title": "",
@@ -315,23 +332,6 @@
       "release_date": "2026-05-18 10:00:00",
       "created_at": "2026-04-01 15:52:43",
       "updated_at": "2026-05-15 18:22:11",
-      "is_new": "0",
-      "materials": [
-        {
-          "material_id": "",
-          "material_file": ""
-        }
-      ]
-    },
-    {
-      "idx": 20,
-      "content_id": "26011",
-      "content_title": "メンバー全員で無人島生活をすることに！自分の担当は何係？",
-      "content_sub_title": "",
-      "category_id": "4",
-      "release_date": "2026-05-11 10:00:00",
-      "created_at": "2026-04-01 15:49:42",
-      "updated_at": "2026-05-08 18:22:41",
       "is_new": "0",
       "materials": [
         {

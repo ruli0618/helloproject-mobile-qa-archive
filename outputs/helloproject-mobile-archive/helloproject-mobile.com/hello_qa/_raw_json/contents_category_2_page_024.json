@@ -2,6 +2,23 @@
   "contents": [
     {
       "idx": 461,
+      "content_id": "7986",
+      "content_title": "これだけは捨てられないというものは？",
+      "content_sub_title": "",
+      "category_id": "2",
+      "release_date": "2017-12-26 10:00:00",
+      "created_at": "2017-11-24 13:51:01",
+      "updated_at": "2017-12-26 10:07:18",
+      "is_new": "0",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ]
+    },
+    {
+      "idx": 462,
       "content_id": "7985",
       "content_title": "今までに体験した不思議なことは？",
       "content_sub_title": "",
@@ -18,7 +35,7 @@
       ]
     },
     {
-      "idx": 462,
+      "idx": 463,
       "content_id": "7984",
       "content_title": "最近よく聴くハロプロの曲は？",
       "content_sub_title": "",
@@ -35,7 +52,7 @@
       ]
     },
     {
-      "idx": 463,
+      "idx": 464,
       "content_id": "7679",
       "content_title": "自分のチャームポイントを教えてください。",
       "content_sub_title": "",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "idx": 464,
+      "idx": 465,
       "content_id": "7678",
       "content_title": "もう二度とやりたくないと思う事はありますか？",
       "content_sub_title": "",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "idx": 465,
+      "idx": 466,
       "content_id": "7677",
       "content_title": "かっこいいと思う職業は何ですか？",
       "content_sub_title": "",
@@ -86,7 +103,7 @@
       ]
     },
     {
-      "idx": 466,
+      "idx": 467,
       "content_id": "7676",
       "content_title": "ホテルが同室で安心するメンバーは誰？",
       "content_sub_title": "",
@@ -103,7 +120,7 @@
       ]
     },
     {
-      "idx": 467,
+      "idx": 468,
       "content_id": "7675",
       "content_title": "1年前の自分に一言！",
       "content_sub_title": "",
@@ -120,7 +137,7 @@
       ]
     },
     {
-      "idx": 468,
+      "idx": 469,
       "content_id": "7674",
       "content_title": "自分が物語の主人公に！どんなお話？",
       "content_sub_title": "",
@@ -137,7 +154,7 @@
       ]
     },
     {
-      "idx": 469,
+      "idx": 470,
       "content_id": "7673",
       "content_title": "我が家の特別なルールを教えてください。",
       "content_sub_title": "",
@@ -154,7 +171,7 @@
       ]
     },
     {
-      "idx": 470,
+      "idx": 471,
       "content_id": "7672",
       "content_title": "歌っていて気持ち良い曲を教えてください。",
       "content_sub_title": "",
@@ -171,7 +188,7 @@
       ]
     },
     {
-      "idx": 471,
+      "idx": 472,
       "content_id": "7671",
       "content_title": "猫語で一言！",
       "content_sub_title": "",
@@ -188,7 +205,7 @@
       ]
     },
     {
-      "idx": 472,
+      "idx": 473,
       "content_id": "7670",
       "content_title": "最近一番焦った出来事は？",
       "content_sub_title": "",
@@ -205,7 +222,7 @@
       ]
     },
     {
-      "idx": 473,
+      "idx": 474,
       "content_id": "7365",
       "content_title": "一番好きなお菓子は？",
       "content_sub_title": "",
@@ -222,7 +239,7 @@
       ]
     },
     {
-      "idx": 474,
+      "idx": 475,
       "content_id": "7364",
       "content_title": "言われて嬉しい言葉は何ですか？",
       "content_sub_title": "",
@@ -239,7 +256,7 @@
       ]
     },
     {
-      "idx": 475,
+      "idx": 476,
       "content_id": "7363",
       "content_title": "今までで一番お気に入りの衣装を教えてください。",
       "content_sub_title": "",
@@ -256,7 +273,7 @@
       ]
     },
     {
-      "idx": 476,
+      "idx": 477,
       "content_id": "7362",
       "content_title": "家族や友達から普段なんて呼ばれていますか？",
       "content_sub_title": "",
@@ -273,7 +290,7 @@
       ]
     },
     {
-      "idx": 477,
+      "idx": 478,
       "content_id": "7170",
       "content_title": "海外旅行に行けるなら、何処へ行って何をしたいですか？",
       "content_sub_title": "",
@@ -290,7 +307,7 @@
       ]
     },
     {
-      "idx": 478,
+      "idx": 479,
       "content_id": "7169",
       "content_title": "1日だけ店長になれます！何のお店の店長になりますか？",
       "content_sub_title": "",
@@ -307,7 +324,7 @@
       ]
     },
     {
-      "idx": 479,
+      "idx": 480,
       "content_id": "7168",
       "content_title": "アイドルグループをプロデュース！グループのコンセプトは？",
       "content_sub_title": "",
@@ -315,23 +332,6 @@
       "release_date": "2017-08-15 10:00:00",
       "created_at": "2017-07-31 17:00:17",
       "updated_at": "2017-08-15 09:55:31",
-      "is_new": "0",
-      "materials": [
-        {
-          "material_id": "",
-          "material_file": ""
-        }
-      ]
-    },
-    {
-      "idx": 480,
-      "content_id": "7167",
-      "content_title": "メンバーの中で怒らせたら一番怖いと思う人は誰ですか？",
-      "content_sub_title": "",
-      "category_id": "2",
-      "release_date": "2017-08-08 10:00:00",
-      "created_at": "2017-07-31 16:50:08",
-      "updated_at": "2017-08-08 10:04:15",
       "is_new": "0",
       "materials": [
         {

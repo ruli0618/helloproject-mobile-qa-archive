@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "comment_id": "42100",
+      "comment_title": "",
+      "comment_text": "仕事でメンバーに会う時",
+      "user_name": "谷本安美",
+      "user_icon": "0",
+      "artist_id": "52",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:00:02",
+      "updated_at": "2026-08-25 18:00:02"
+    },
+    {
+      "comment_id": "42101",
+      "comment_title": "",
+      "comment_text": "みんなで笑い合っている時",
+      "user_name": "小野瑞歩",
+      "user_icon": "0",
+      "artist_id": "68",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:00:13",
+      "updated_at": "2026-08-25 18:00:13"
+    },
+    {
+      "comment_id": "42102",
+      "comment_title": "",
+      "comment_text": "パフォーマンスをしている時！\nつばきの楽曲が大好きです！",
+      "user_name": "小野田紗栞",
+      "user_icon": "0",
+      "artist_id": "69",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:00:32",
+      "updated_at": "2026-08-25 18:00:32"
+    },
+    {
+      "comment_id": "42103",
+      "comment_title": "",
+      "comment_text": "ふざけるのに100%",
+      "user_name": "秋山眞緒",
+      "user_icon": "0",
+      "artist_id": "70",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:00:48",
+      "updated_at": "2026-08-25 18:00:48"
+    },
+    {
+      "comment_id": "42104",
+      "comment_title": "",
+      "comment_text": "みんなで切磋琢磨しながら、こうしていこう！ああしていこう！って、高め合えるとき！愛をたくさん伝えてくれる時！",
+      "user_name": "河西結心",
+      "user_icon": "0",
+      "artist_id": "128",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:01:04",
+      "updated_at": "2026-08-26 15:32:29"
+    },
+    {
+      "comment_id": "42105",
+      "comment_title": "",
+      "comment_text": "つばきファクトリーにいると、いつも自然と笑顔になれるので、メンバーと話してる時、つばきのメンバーでよかったなと思います！",
+      "user_name": "福田真琳",
+      "user_icon": "0",
+      "artist_id": "130",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:01:20",
+      "updated_at": "2026-08-25 18:01:20"
+    },
+    {
+      "comment_id": "42106",
+      "comment_title": "",
+      "comment_text": "写真のカメラロールを見返している時。\nたっくさんの笑顔が写ってます。\nつばきファクトリーじゃなかったらこの笑顔たちとは出会えなかった。",
+      "user_name": "豫風瑠乃",
+      "user_icon": "0",
+      "artist_id": "131",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:01:46",
+      "updated_at": "2026-08-25 18:01:46"
+    },
+    {
+      "comment_id": "42107",
+      "comment_title": "",
+      "comment_text": "毎日常に思ってるんですが、特に～楽屋でふざけあってる時です！",
+      "user_name": "石井泉羽",
+      "user_icon": "0",
+      "artist_id": "152",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:02:00",
+      "updated_at": "2026-08-25 18:02:00"
+    },
+    {
+      "comment_id": "42108",
+      "comment_title": "",
+      "comment_text": "先輩との壁を一切感じることなく楽屋でおしゃべりしてる時！\nライブのときの、メンバーとファンの皆さんの団結力を感じた時！",
+      "user_name": "村田結生",
+      "user_icon": "0",
+      "artist_id": "153",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:02:13",
+      "updated_at": "2026-08-25 18:02:13"
+    },
+    {
+      "comment_id": "42109",
+      "comment_title": "",
+      "comment_text": "メンバーみんなで笑い合っている時です！\n素敵な笑顔と笑い声を聞いていると、すごく幸せな気持ちになるからです。",
+      "user_name": "土居楓奏",
+      "user_icon": "0",
+      "artist_id": "154",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:02:24",
+      "updated_at": "2026-08-25 18:02:24"
+    },
+    {
+      "comment_id": "42110",
+      "comment_title": "",
+      "comment_text": "寄り添ってくれる人がたくさんいると気づいた時",
+      "user_name": "西村乙輝",
+      "user_icon": "0",
+      "artist_id": "167",
+      "is_enabled": "0",
+      "is_warning": "0",
+      "created_at": "2026-08-25 18:02:32",
+      "updated_at": "2026-08-25 18:02:32"
+    }
+  ],
+  "hasNext": false,
+  "user_status": 1,
+  "is_login": false,
+  "error": {
+    "status": false
+  }
+}
