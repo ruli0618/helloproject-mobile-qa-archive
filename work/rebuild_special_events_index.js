@@ -121,6 +121,23 @@ function groupFromImageSrc(src) {
   return decoded.split('/').find(part => groupOrder.includes(part)) || '';
 }
 
+function countdownCaption(file) {
+  const relative = path.relative(path.join(OUT, 'assets', 'images', 'special', 'countdown2026'), file);
+  const parts = relative.split(path.sep);
+  if (parts.length !== 2) return '';
+  const member = path.basename(parts[1], path.extname(parts[1])).replace(/^\d+_/, '').replace(/\d+$/, '');
+  const page = path.join(OUT, 'pages', 'countdown2026', parts[0], `${member}.html`);
+  if (!fs.existsSync(page)) return '';
+  const html = fs.readFileSync(page, 'utf8');
+  const match = html.match(/<div\s+class=["']list_centertitle["'][^>]*>[\s\S]*?<span[^>]*>([\s\S]*?)<\/span>/i);
+  if (!match) return '';
+  return match[1].replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, '')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([\da-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&(?:nbsp|amp|lt|gt|quot|#39);/g, value => ({ '&nbsp;': ' ', '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'" })[value])
+    .replace(/[ \t]+/g, ' ').replace(/\n\s+/g, '\n').trim();
+}
+
 function renderGallery(images) {
   if (!images.length) return '<div class="empty">保存画像が見つかりませんでした。</div>';
   const buckets = new Map();
@@ -132,14 +149,14 @@ function renderGallery(images) {
   const orderedGroups = [...buckets.keys()].sort((a, b) => orderIndex(groupOrder, a) - orderIndex(groupOrder, b) || a.localeCompare(b, 'ja'));
   return orderedGroups.map((group) => `<section class="gallery-group">
     <h3>${esc(groupLabels[group] || 'その他')}</h3>
-    <div class="gallery">${buckets.get(group).map(image => `<a class="image-card" href="${esc(image.src)}" data-title="${esc(image.title)}"><img loading="lazy" src="${esc(image.src)}" alt="${esc(image.title)}"><span>${esc(image.title)}</span></a>`).join('')}</div>
+    <div class="gallery">${buckets.get(group).map(image => `<a class="image-card" href="${esc(image.src)}" data-title="${esc(image.title)}" data-caption="${esc(image.caption || '')}"><img loading="lazy" src="${esc(image.src)}" alt="${esc(image.title)}"><span>${esc(image.title)}</span>${image.caption ? `<p class="image-caption">${esc(image.caption)}</p>` : ''}</a>`).join('')}</div>
   </section>`).join('');
 }
 
 function eventImages(key) {
   return walkFiles(path.join(OUT, 'assets', 'images', 'special', key), file => /\.(png|jpe?g|gif|webp)$/i.test(file))
     .sort((a, b) => specialSortKey(a).localeCompare(specialSortKey(b), 'ja'))
-    .map(file => ({ src: relFromOut(file), title: imageTitle(file) }));
+    .map(file => ({ src: relFromOut(file), title: imageTitle(file), caption: key === 'countdown2026' ? countdownCaption(file) : '' }));
 }
 
 const curatedEvents = [
@@ -215,6 +232,7 @@ input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid v
 .summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:12px}.stat{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px}.stat strong{display:block;font-size:22px;line-height:1.15}.stat span{color:var(--sub);font-size:12px}
 .event-card{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin:0 0 18px;overflow:hidden}.event-card header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:#fbfcfe}.date{font-size:12px;color:var(--sub)}h2{font-size:20px;line-height:1.38;margin:1px 0 0}.path{margin:3px 0 0;color:var(--sub);font-size:13px;overflow-wrap:anywhere}.source{align-self:start;color:var(--accent);font-size:12px;text-decoration:none;white-space:nowrap}.gallery-group{padding:12px 12px 4px}.gallery-group h3{font-size:15px;line-height:1.35;margin:0 0 8px;padding:7px 9px;border-left:4px solid var(--accent);background:#f8fafc;border-radius:6px}.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}.image-card{display:block;border:1px solid #edf1f6;border-radius:8px;background:#fff;overflow:hidden;text-decoration:none;cursor:zoom-in}.image-card img{display:block;width:100%;height:210px;object-fit:contain;background:#f8fafc}.image-card span{display:block;padding:6px 8px;color:var(--sub);font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.lightbox{position:fixed;inset:0;z-index:100;background:rgba(11,18,32,.86);display:none;align-items:center;justify-content:center;padding:18px}.lightbox.open{display:flex}.lightbox-panel{width:min(96vw,1100px);max-height:96vh;display:grid;gap:8px}.lightbox-frame{display:flex;align-items:center;justify-content:center;width:min(96vw,1100px);height:86vh;overflow:visible}.lightbox img{display:block;max-width:100%;max-height:86vh;object-fit:contain;background:#fff;border-radius:8px;transition:transform .16s ease;transform-origin:center center}.lightbox-bar{display:flex;align-items:center;gap:8px;color:#fff}.lightbox-title{font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.lightbox-action,.lightbox-close{border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.14);color:#fff;border-radius:8px;padding:8px 11px;font-size:14px}.lightbox-close{margin-left:auto}.empty{padding:14px;color:var(--sub)}.hidden{display:none!important}
 @media(max-width:900px){body{background:#fff}.hero{position:static}.hero-inner{padding:12px}h1{font-size:21px}.meta{font-size:12px;gap:5px}main{display:block;padding:0;background:#fff}nav{position:static;max-height:none;margin:0;border-width:0 0 1px;border-radius:0;padding:10px 12px;background:#f8fafc}.controls{grid-template-columns:1fr auto}.summary{grid-template-columns:repeat(2,minmax(0,1fr));padding:12px 12px 0;margin:0}.event-card{border-left:0;border-right:0;border-radius:0;margin:0}.event-card header{grid-template-columns:1fr}.source{justify-self:start}.gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.image-card img{height:180px}.lightbox{padding:10px}.lightbox img{max-height:82vh}}
+.image-caption{margin:0;padding:0 8px 10px;font-size:12px;line-height:1.55;white-space:pre-line;overflow-wrap:anywhere}.lightbox-caption{color:#fff;max-height:12vh;overflow:auto;font-size:14px;white-space:pre-line}.lightbox-caption[hidden]{display:none}.lightbox:has(.lightbox-caption:not([hidden])) .lightbox-frame{height:72vh}.lightbox:has(.lightbox-caption:not([hidden])) img{max-height:72vh}
 </style>
 </head>
 <body>
@@ -231,7 +249,7 @@ input[type=search]{width:100%;font-size:15px;padding:9px 10px;border:1px solid v
 </main>
 <div class="lightbox" id="lightbox" aria-hidden="true">
   <div class="lightbox-panel">
-    <div class="lightbox-frame"><img id="lightboxImage" alt=""></div>
+    <div class="lightbox-frame"><img id="lightboxImage" alt=""></div><div class="lightbox-caption" id="lightboxCaption" hidden></div>
     <div class="lightbox-bar"><span class="lightbox-title" id="lightboxTitle"></span><button class="lightbox-action" id="rotateLeft" type="button">左回転</button><button class="lightbox-action" id="rotateRight" type="button">右回転</button><button class="lightbox-close" id="lightboxClose" type="button">閉じる</button></div>
   </div>
 </div>
@@ -240,10 +258,10 @@ const search=document.getElementById('search'), clear=document.getElementById('c
 function apply(){const q=search.value.trim().toLowerCase(); for(const card of cards) card.classList.toggle('hidden', Boolean(q) && !card.dataset.search.toLowerCase().includes(q));}
 buttons.forEach(button=>button.addEventListener('click',()=>{buttons.forEach(b=>b.classList.toggle('active',b===button)); document.getElementById(button.dataset.event)?.scrollIntoView({block:'start'});}));
 search.addEventListener('input',apply); clear.addEventListener('click',()=>{search.value=''; apply(); search.focus();});
-const lightbox=document.getElementById('lightbox'), lightboxImage=document.getElementById('lightboxImage'), lightboxTitle=document.getElementById('lightboxTitle'), lightboxClose=document.getElementById('lightboxClose'), rotateLeft=document.getElementById('rotateLeft'), rotateRight=document.getElementById('rotateRight'), lightboxFrame=document.querySelector('.lightbox-frame');
+const lightbox=document.getElementById('lightbox'), lightboxImage=document.getElementById('lightboxImage'), lightboxTitle=document.getElementById('lightboxTitle'), lightboxCaption=document.getElementById('lightboxCaption'), lightboxClose=document.getElementById('lightboxClose'), rotateLeft=document.getElementById('rotateLeft'), rotateRight=document.getElementById('rotateRight'), lightboxFrame=document.querySelector('.lightbox-frame');
 let lightboxRotation=0;
 function updateRotation(){const sideways=Math.abs(lightboxRotation % 180) === 90; const frame=lightboxFrame.getBoundingClientRect(); const rect=lightboxImage.getBoundingClientRect(); const visualWidth=sideways ? rect.height : rect.width; const visualHeight=sideways ? rect.width : rect.height; const scale=Math.min(1, frame.width / Math.max(1, visualWidth), frame.height / Math.max(1, visualHeight)); lightboxImage.style.transform='rotate('+lightboxRotation+'deg) scale('+scale+')';}
-function openLightbox(link){lightboxRotation=0; lightboxImage.src=link.href; lightboxImage.alt=link.dataset.title || ''; lightboxTitle.textContent=link.dataset.title || ''; lightbox.classList.add('open'); lightbox.setAttribute('aria-hidden','false'); requestAnimationFrame(updateRotation);}
+function openLightbox(link){lightboxRotation=0; lightboxImage.src=link.href; lightboxImage.alt=link.dataset.title || ''; lightboxTitle.textContent=link.dataset.title || ''; lightboxCaption.textContent=link.dataset.caption || ''; lightboxCaption.hidden=!link.dataset.caption; lightbox.classList.add('open'); lightbox.setAttribute('aria-hidden','false'); requestAnimationFrame(updateRotation);}
 function closeLightbox(){lightbox.classList.remove('open'); lightbox.setAttribute('aria-hidden','true'); lightboxImage.removeAttribute('src'); lightboxRotation=0; updateRotation();}
 document.addEventListener('click',event=>{const link=event.target.closest('.image-card'); if(link){event.preventDefault(); openLightbox(link); return;} if(event.target===lightbox || event.target===lightboxClose) closeLightbox();});
 rotateLeft.addEventListener('click',()=>{lightboxRotation-=90; updateRotation();});
