@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 341,
+    "content_id": "18636",
+    "content_title": "どアップ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-08-25 10:00:00",
+    "created_at": "2022-08-16 15:17:54",
+    "updated_at": "2022-08-16 15:17:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15527",
+        "material_title": "0825_uemura_s.jpg",
+        "material_file": "db6d7d09b2feff504c9f1bee3b366e2f6be94faf10c8c6ecbfbf93aed11523f915527.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18636",
+    "content_title": "どアップ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-08-25 10:00:00",
+    "created_at": "2022-08-16 15:17:54",
+    "updated_at": "2022-08-16 15:17:54",
+    "content_text": "0825_uemura_s.jpg\r\n植村あかりです！\r\n\r\nりさちの目どアップ！\r\nアイシャドウが緑色！\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15527",
+        "material_title": "0825_uemura_s.jpg",
+        "material_file": "9273f481ede718110e15eae895ec436751eee7145fcffaeae8893079967ab55f15527.jpeg"
+      }
+    ],
+    "previous_id": "18761",
+    "next_id": "18635",
+    "saved_materials": [
+      "assets/18636_15527_0825_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 352,
+    "content_id": "18505",
+    "content_title": "1周年",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-07-19 10:00:00",
+    "created_at": "2022-07-14 17:08:03",
+    "updated_at": "2022-07-14 17:08:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15405",
+        "material_title": "0719_ebata_s.jpg",
+        "material_file": "d811d634d3bade5837f2ce449697c7d26be082911d17b3eaceecefbaf02ef33915405.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18505",
+    "content_title": "1周年",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-07-19 10:00:00",
+    "created_at": "2022-07-14 17:08:03",
+    "updated_at": "2022-07-14 17:08:03",
+    "content_text": "やほえば！\r\n江端妃咲です～\r\n\r\n一華、里咲、妃咲（自分）\r\nJuice=Juiceに加入して1年がたちました！\r\n\r\n早いような長かったような、、\r\n\r\nとにかく濃い、濃すぎる1年でした！\r\n\r\n色んな経験をしました\r\nでもこれからもっと色んな経験をするだろうなー！\r\n\r\nこれからも応援してくれると嬉しいです(´>∀<｀)ゝ\r\n\r\nじゃあね～\r\n\r\n0719_ebata_s.jpg",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15405",
+        "material_title": "0719_ebata_s.jpg",
+        "material_file": "8044c0b32bb688050c3a5bfd745be572b093d68760cb7df148df34de38477cd315405.jpeg"
+      }
+    ],
+    "previous_id": "18506",
+    "next_id": "18425",
+    "saved_materials": [
+      "assets/18505_15405_0719_ebata_s.jpg"
+    ]
+  }
+}

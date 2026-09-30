@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "26773",
+    "content_title": "カフェオレ　",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "155",
+    "release_date": "2026-08-28 10:00:00",
+    "created_at": "2026-08-24 23:59:01",
+    "updated_at": "2026-08-24 23:59:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21863",
+        "material_title": "0828_ono_s.jpg",
+        "material_file": "fb01a9e63cadd2fc543d65f96ea3dd636d9d1c4c513a4b4dee2a2b5dfbb9da4921863.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26773",
+    "content_title": "カフェオレ　",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2026-08-28 10:00:00",
+    "created_at": "2026-08-24 23:59:01",
+    "updated_at": "2026-08-24 23:59:01",
+    "content_text": "0828_ono_s.jpg\r\nカフェオレだいすき！\r\nスキップしたくなっちゃうくらい！\r\nコンビニで買いがちなものNo.1です！\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21863",
+        "material_title": "0828_ono_s.jpg",
+        "material_file": "2d85bf4096623240e85ad06411b20fb7adb3df76b90cacd1262b28889351d20e21863.jpeg"
+      }
+    ],
+    "previous_id": "26774",
+    "next_id": "26704",
+    "saved_materials": [
+      "assets/26773_21863_0828_ono_s.jpg"
+    ]
+  }
+}

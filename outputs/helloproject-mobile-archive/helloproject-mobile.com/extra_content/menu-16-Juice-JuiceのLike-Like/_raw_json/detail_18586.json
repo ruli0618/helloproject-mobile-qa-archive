@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 348,
+    "content_id": "18586",
+    "content_title": "ヘアアレンジ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2022-08-02 10:00:00",
+    "created_at": "2022-07-26 14:49:21",
+    "updated_at": "2022-07-26 14:49:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15486",
+        "material_title": "0802_kudo_s.jpg",
+        "material_file": "f070984cd9f34de7b3f6e5d45b979106458d5706b947c9299df461eca4ada62815486.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18586",
+    "content_title": "ヘアアレンジ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2022-08-02 10:00:00",
+    "created_at": "2022-07-26 14:49:21",
+    "updated_at": "2022-07-26 14:49:21",
+    "content_text": "0802_kudo_s.jpg\r\n髪を切ってからのヘアアレンジ楽しみです♪",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15486",
+        "material_title": "0802_kudo_s.jpg",
+        "material_file": "2d38526dadb736e1eb9d4e63d8d49249271641a85d592ad554d71a207f47d5ed15486.jpeg"
+      }
+    ],
+    "previous_id": "18587",
+    "next_id": "18585",
+    "saved_materials": [
+      "assets/18586_15486_0802_kudo_s.jpg"
+    ]
+  }
+}

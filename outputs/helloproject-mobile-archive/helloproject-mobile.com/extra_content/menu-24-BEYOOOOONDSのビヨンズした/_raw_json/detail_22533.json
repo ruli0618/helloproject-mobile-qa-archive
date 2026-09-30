@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 175,
+    "content_id": "22533",
+    "content_title": "カラフル",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2024-07-10 10:00:00",
+    "created_at": "2024-07-08 21:44:01",
+    "updated_at": "2024-07-08 21:44:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18482",
+        "material_title": "0710_eguchi_s.jpg",
+        "material_file": "eeac01e0353734026112f0c8a24def43a8d34126d3881d742b92d66aac34b5a218482.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22533",
+    "content_title": "カラフル",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2024-07-10 10:00:00",
+    "created_at": "2024-07-08 21:44:01",
+    "updated_at": "2024-07-08 21:44:01",
+    "content_text": "0710_eguchi_s.jpg\r\nお花屋さんの雰囲気が大好きです！\r\n\r\n【35周目お題：植物】",
+    "materials": [
+      {
+        "secretKey": "2f531f5d86a8224ad1c65137d0cc4dd2",
+        "material_id": "18482",
+        "material_title": "0710_eguchi_s.jpg",
+        "material_file": "a7037d9e8ceb0b444573d65b574acfd2871fba8bc2db7c20e235c301228bf8a418482.jpeg"
+      }
+    ],
+    "previous_id": "22535",
+    "next_id": "22531",
+    "saved_materials": [
+      "assets/22533_18482_0710_eguchi_s.jpg"
+    ]
+  }
+}

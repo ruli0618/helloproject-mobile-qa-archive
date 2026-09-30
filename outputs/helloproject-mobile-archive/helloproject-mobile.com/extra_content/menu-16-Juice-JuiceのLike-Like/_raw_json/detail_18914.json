@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 327,
+    "content_id": "18914",
+    "content_title": "愛犬のクロエちゃん！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-10-13 10:00:00",
+    "created_at": "2022-10-04 20:19:30",
+    "updated_at": "2022-10-04 20:19:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15736",
+        "material_title": "1013_matsunaga_s.jpg",
+        "material_file": "03daecb73d2639599bd726dfa6dafcf71c55fddcdb07f88a8f4c87b39985baeb15736.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18914",
+    "content_title": "愛犬のクロエちゃん！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-10-13 10:00:00",
+    "created_at": "2022-10-04 20:19:30",
+    "updated_at": "2022-10-04 20:19:30",
+    "content_text": "1013_matsunaga_s.jpg\r\n写真を撮られるのが苦手で逃げられましたが癒された、、",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15736",
+        "material_title": "1013_matsunaga_s.jpg",
+        "material_file": "34fdf48a43836570f6320d3d4a58ace05a569dd6379268787e54e88bbb2818db15736.jpeg"
+      }
+    ],
+    "previous_id": "18974",
+    "next_id": "18913",
+    "saved_materials": [
+      "assets/18914_15736_1013_matsunaga_s.jpg"
+    ]
+  }
+}

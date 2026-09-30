@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 65,
+    "content_id": "17794",
+    "content_title": "お茶漬け！",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2022-03-15 10:00:00",
+    "created_at": "2022-03-14 22:53:46",
+    "updated_at": "2022-03-14 22:53:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14877",
+        "material_title": "0315_kasai_s.jpg",
+        "material_file": "5fa04e0d7ba462c9e585774035199250d0634629ad3cef9570f11a78a7cb0e4314877.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17794",
+    "content_title": "お茶漬け！",
+    "content_sub_title": "河西結心",
+    "release_date": "2022-03-15 10:00:00",
+    "created_at": "2022-03-14 22:53:46",
+    "updated_at": "2022-03-14 22:53:46",
+    "content_text": "0315_kasai_s.jpg\r\n最近お茶漬けをよく食べます！\r\n\r\nこの前はお茶漬け専門店に行ってきました<img src=\"/emoji/emoji-images/f7c3.gif\"/>\r\nうなぎのお茶漬け美味しかったです！",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14877",
+        "material_title": "0315_kasai_s.jpg",
+        "material_file": "f871f10e94dffb7fbe6c051bb2ed8cb056a359b42b21aa3d786c049e85da932714877.jpeg"
+      }
+    ],
+    "previous_id": "17827",
+    "next_id": "17764",
+    "saved_materials": [
+      "assets/17794_14877_0315_kasai_s.jpg"
+    ]
+  }
+}

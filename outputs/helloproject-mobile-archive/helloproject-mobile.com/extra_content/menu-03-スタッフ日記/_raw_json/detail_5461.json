@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 641,
+    "content_id": "5461",
+    "content_title": "トレイニー組",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-10-06 22:39:00",
+    "created_at": "2016-10-06 22:34:49",
+    "updated_at": "2016-10-06 22:40:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4925",
+        "material_title": "161006_s.jpg",
+        "material_file": "bc27620464126c47bf27ecab131f2f13f12e61f43d9f3bf412a901bebef6d2884925.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5461",
+    "content_title": "トレイニー組",
+    "content_sub_title": "",
+    "release_date": "2016-10-06 22:39:00",
+    "created_at": "2016-10-06 22:34:49",
+    "updated_at": "2016-10-06 22:40:01",
+    "content_text": "みなさん、こんにちは！\nハロ！モバスタッフ番号2番です！\n\n本日パシフィックヘブンにて開催された、e-LineUP! 広瀬彩海&井上玲音Blu-ray「Greeting～広瀬彩海・井上玲音～」購入者イベントをこっそり覗いてきました！\n\n161006_s.jpg\n（撮れたてほやほやの一枚です。）\n\n撮影裏話や、ジャスチャーゲーム対決、質問コーナー等、お見送りの握手会もゆったりとした雰囲気の中、繰り広げられました。\n付き合いの長い2人だからこそ、素に近い姿が見れたように思います。\n\n（個人的な）見所は、井上玲音の披露したウララ（和田桜子）のモノマネ！\n\n\n今回Blu-rayの購入を逃した…という方も、Youtubeチャンネルにダイジェスト映像がアップされていますのでこちらもぜひご覧ください！\n\n<span style=\"word-break: break-word\"><a href=\"https://youtu.be/mgBKiVABGNA\" target=\"_blank\"><font color=\"#0000ff\"><u>★ダイジェスト映像はこちら★</u></font></a></span>",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4925",
+        "material_title": "161006_s.jpg",
+        "material_file": "dca14326f749cc93d4f48687a15a816eaa89e6b27c9d80652bd22d540f039ef94925.jpeg"
+      }
+    ],
+    "previous_id": "5477",
+    "next_id": "5422",
+    "saved_materials": [
+      "assets/5461_4925_161006_s.jpg"
+    ]
+  }
+}

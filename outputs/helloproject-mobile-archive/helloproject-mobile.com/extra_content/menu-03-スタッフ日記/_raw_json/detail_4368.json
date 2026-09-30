@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 670,
+    "content_id": "4368",
+    "content_title": "工藤の家の天井裏#7　～ライバル？～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-04-01 20:13:00",
+    "created_at": "2016-04-01 20:14:12",
+    "updated_at": "2016-04-01 20:14:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3993",
+        "material_title": "160401_2_s.jpg",
+        "material_file": "e1241c2a73409ed7d90689b0b0d180cbec9ec5d6ca95827f4b8f8384e38a9d733993.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3994",
+        "material_title": "160401.jpg",
+        "material_file": "b2cd132049e70cee828bd0cc0b723e0a3d5f2f53f6afe3520a463503df32987d3994.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4368",
+    "content_title": "工藤の家の天井裏#7　～ライバル？～",
+    "content_sub_title": "",
+    "release_date": "2016-04-01 20:13:00",
+    "created_at": "2016-04-01 20:14:12",
+    "updated_at": "2016-04-01 20:14:55",
+    "content_text": "今回の配信は中止です。\r\n​もちろんウソです。\r\n\r\nゲストは・・・​\r\n\r\n自称ハロプロのシンボル嗣永桃子。\r\n詳しくは番組を聞いて下さい。\r\n\r\n​今回も2人に「まだまだポイント」があります。\r\nぜひ探してみてください。\r\n\r\n160401_2_s.jpg\r\n\r\n「犯人を追え！」コーナーの似顔絵はこちら。\r\n\r\n160401.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "3993",
+        "material_title": "160401_2_s.jpg",
+        "material_file": "00a59c9c1c4c2a0467143f07a2430d8f752e0fa88127a1ca607e28d7ae64c25c3993.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "3994",
+        "material_title": "160401.jpg",
+        "material_file": "182fba84000913d09717bf88144ff02d512651938b8ba3ba3179e907f36fe3013994.jpeg"
+      }
+    ],
+    "previous_id": "4392",
+    "next_id": "4272",
+    "saved_materials": [
+      "assets/4368_3993_160401_2_s.jpg",
+      "assets/4368_3994_160401.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 63,
+    "content_id": "24891",
+    "content_title": "はじめての！",
+    "content_sub_title": "林仁愛",
+    "category_id": "38",
+    "release_date": "2025-09-04 10:00:00",
+    "created_at": "2025-09-02 19:04:11",
+    "updated_at": "2025-09-02 19:04:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20337",
+        "material_title": "0904_hayashi_s.jpg",
+        "material_file": "8bddf97f9978034373a90a4b2baef52497e5e3ba3c09a33ab70653d26381de6f20337.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24891",
+    "content_title": "はじめての！",
+    "content_sub_title": "林仁愛",
+    "release_date": "2025-09-04 10:00:00",
+    "created_at": "2025-09-02 19:04:11",
+    "updated_at": "2025-09-02 19:04:11",
+    "content_text": "0904_hayashi_s.jpg\r\nはじめまして！林仁愛です！\r\n私は今回の「盛れ！ミ・アモーレ」ではじめて赤い衣装を着ました〜！\r\nとっても情熱的でヒラヒラしてて可愛くて大好きです！\r\nこれから沢山着れると嬉しいなっ",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20337",
+        "material_title": "0904_hayashi_s.jpg",
+        "material_file": "53b37ca83d7df5422fbd0b27c69ea4932cc1db46b6ab2239b6c2ad3ca2a5b64520337.jpeg"
+      }
+    ],
+    "previous_id": "24892",
+    "next_id": "24889",
+    "saved_materials": [
+      "assets/24891_20337_0904_hayashi_s.jpg"
+    ]
+  }
+}

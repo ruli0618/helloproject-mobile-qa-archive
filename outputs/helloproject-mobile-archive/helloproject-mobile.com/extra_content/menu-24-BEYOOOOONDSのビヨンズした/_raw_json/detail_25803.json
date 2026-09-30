@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 46,
+    "content_id": "25803",
+    "content_title": "これは一体",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2026-03-16 10:00:00",
+    "created_at": "2026-02-18 15:40:00",
+    "updated_at": "2026-02-18 15:40:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21097",
+        "material_title": "0316_satoyoshi_s.jpg",
+        "material_file": "fe87390b0f6e4d5dc5127060cdffd1e8025765cf249a7a64e1eca79b2da3391221097.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25803",
+    "content_title": "これは一体",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2026-03-16 10:00:00",
+    "created_at": "2026-02-18 15:40:00",
+    "updated_at": "2026-02-18 15:40:00",
+    "content_text": "0316_satoyoshi_s.jpg\r\nなんのポーズなのか帰国した今も分かりません<img src=\"/emoji/emoji-images/4731.gif\"/>(　˙-˙　)<img src=\"/emoji/emoji-images/4731.gif\"/>\r\n\r\n【50周目お題：ゆるポーズ】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21097",
+        "material_title": "0316_satoyoshi_s.jpg",
+        "material_file": "7f1881839200dec0ac27174cfecc17dbfbf2565acbeda845a5e55c9bb7f0041a21097.jpeg"
+      }
+    ],
+    "previous_id": "25900",
+    "next_id": "25802",
+    "saved_materials": [
+      "assets/25803_21097_0316_satoyoshi_s.jpg"
+    ]
+  }
+}

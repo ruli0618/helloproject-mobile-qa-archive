@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 17,
+    "content_id": "26662",
+    "content_title": "見上げショット（？）",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2026-08-12 10:00:00",
+    "created_at": "2026-07-23 15:30:27",
+    "updated_at": "2026-07-23 15:30:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21778",
+        "material_title": "0812_hirai_s.jpg",
+        "material_file": "21317cb942c4925f6eccfccc0e9d520849380a0250820aadfd0dfba24741d35a21778.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26662",
+    "content_title": "見上げショット（？）",
+    "content_sub_title": "平井美葉",
+    "release_date": "2026-08-12 10:00:00",
+    "created_at": "2026-07-23 15:30:27",
+    "updated_at": "2026-07-23 15:30:27",
+    "content_text": "0812_hirai_s.jpg\r\n全身写したかったけど自撮りではこれが限界だった。\r\n\r\n【54周目お題：上から or 下から】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21778",
+        "material_title": "0812_hirai_s.jpg",
+        "material_file": "837fb0ec3c119b71efca3b3c94d34e8e0ba5773da94e2a81fa5e8e8311d7ee8d21778.jpeg"
+      }
+    ],
+    "previous_id": "26663",
+    "next_id": "26661",
+    "saved_materials": [
+      "assets/26662_21778_0812_hirai_s.jpg"
+    ]
+  }
+}

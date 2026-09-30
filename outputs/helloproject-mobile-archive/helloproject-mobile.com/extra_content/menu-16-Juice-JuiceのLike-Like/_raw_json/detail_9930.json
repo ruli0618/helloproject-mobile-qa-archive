@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 684,
+    "content_id": "9930",
+    "content_title": "音霊＝夏の思い出",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2018-09-27 20:22:00",
+    "created_at": "2018-09-27 20:26:09",
+    "updated_at": "2018-09-27 20:26:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8651",
+        "material_title": "0927_inaba_s.jpg",
+        "material_file": "73d210f16fed894f2b9a35458ffef66af084ab1d462c9e4fe167e5cc6b7102a08651.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9930",
+    "content_title": "音霊＝夏の思い出",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2018-09-27 20:22:00",
+    "created_at": "2018-09-27 20:26:09",
+    "updated_at": "2018-09-27 20:26:09",
+    "content_text": "0927_inaba_s.jpg\r\n8月6日は「OTODAMA SEA STUDIO 2018 \r\n～J=J Summer Special～」でした。みなさんの熱さと音霊ならではの暑さと盛り上がりで、全力で楽しむことができました＼(^v^)／\r\nおめでとう、ようこそ、と沢山言っていただけて本当に嬉しくて思わずうるっとしてしまった忘れられない一日となりました！",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8651",
+        "material_title": "0927_inaba_s.jpg",
+        "material_file": "e0224a76860d11739c398bb63875ae5f2eb8e19366c578c27b053db5a743a6608651.jpeg"
+      }
+    ],
+    "previous_id": "9932",
+    "next_id": "9868",
+    "saved_materials": [
+      "assets/9930_8651_0927_inaba_s.jpg"
+    ]
+  }
+}

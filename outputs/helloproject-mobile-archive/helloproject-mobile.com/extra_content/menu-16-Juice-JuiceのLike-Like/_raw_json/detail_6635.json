@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 811,
+    "content_id": "6635",
+    "content_title": "食器／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-04-27 17:29:00",
+    "created_at": "2017-04-27 17:27:52",
+    "updated_at": "2017-04-27 17:28:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5840",
+        "material_title": "5968315209296_s.jpg",
+        "material_file": "fcd66b862dd7a916e2c748dc22cbc8db9604556e7c37032d3e9d0745b4f03e1d5840.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6635",
+    "content_title": "食器／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-04-27 17:29:00",
+    "created_at": "2017-04-27 17:27:52",
+    "updated_at": "2017-04-27 17:28:57",
+    "content_text": "5968315209296_s.jpg\r\nキャンペーンのときのお昼ご飯に入ったお店のご飯！美味しかったです！！食器も好きでした。",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5840",
+        "material_title": "5968315209296_s.jpg",
+        "material_file": "75ccdb236b3269d6c981a8f7ced10273f40cfb1a32ad7e64a781447e5333e0d35840.jpeg"
+      }
+    ],
+    "previous_id": "6649",
+    "next_id": "6522",
+    "saved_materials": [
+      "assets/6635_5840_5968315209296_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 5,
+    "content_id": "25559",
+    "content_title": "2026年",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2026-01-05 00:00:00",
+    "created_at": "2026-01-05 19:44:20",
+    "updated_at": "2026-06-19 11:13:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "20901",
+        "material_title": "nonaka260105.jpeg",
+        "material_file": "7ce37612e023e318ce2bbaa932efb6313103e7e46caed64016578da961fa73b820901.jpeg"
+      },
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "20902",
+        "material_title": "nonaka260105_1.jpeg",
+        "material_file": "c610ea5d7680d13d603c41ad9831bff75e2901bfe7042e089914685a525a017620902.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "25559",
+    "content_title": "2026年",
+    "content_sub_title": "",
+    "release_date": "2026-01-05 00:00:00",
+    "created_at": "2026-01-05 19:44:20",
+    "updated_at": "2026-06-19 11:13:58",
+    "content_text": "新年あけましておめでとうございます<img src=\"/emoji/emoji-images/5056.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\nnonaka260105.jpeg\r\nnonaka260105_1.jpeg\r\n\r\n今年の目標は有言実行と不言実行を使い分けることです！引き続き、裏日記では少し踏み込んでお話することがあると思います！\r\n\r\n今年も、よろしくお願いします！",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "20901",
+        "material_title": "nonaka260105.jpeg",
+        "material_file": "7ce37612e023e318ce2bbaa932efb6313103e7e46caed64016578da961fa73b820901.jpeg"
+      },
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "20902",
+        "material_title": "nonaka260105_1.jpeg",
+        "material_file": "c610ea5d7680d13d603c41ad9831bff75e2901bfe7042e089914685a525a017620902.jpeg"
+      }
+    ],
+    "previous_id": "26407",
+    "next_id": "24723",
+    "saved_materials": [
+      "assets/25559_20901_nonaka260105.jpeg",
+      "assets/25559_20902_nonaka260105_1.jpeg"
+    ]
+  }
+}

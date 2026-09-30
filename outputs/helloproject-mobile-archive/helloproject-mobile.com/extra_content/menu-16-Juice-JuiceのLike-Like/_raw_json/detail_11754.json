@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 609,
+    "content_id": "11754",
+    "content_title": "nana's green tea",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-07-19 19:11:00",
+    "created_at": "2019-07-19 19:14:23",
+    "updated_at": "2019-07-19 19:15:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10027",
+        "material_title": "0719_inaba_s.jpg",
+        "material_file": "d96ade300b8afaaecff29b85baf41bdb2c7f7efce31b10add5a5c9b94da4cc5a10027.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11754",
+    "content_title": "nana's green tea",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-07-19 19:11:00",
+    "created_at": "2019-07-19 19:14:23",
+    "updated_at": "2019-07-19 19:15:37",
+    "content_text": "0719_inaba_s.jpg\r\n6月19日に北海道でラジオ収録があった日に、お母さんと束の間の時間♪\r\n「天然鮪とアボカドのとろろどんぶり」これがお母さんも、まーも大好きで♡\r\n抹茶系の飲み物やデザートが豊富でオシャレなお店なんですけど、みなさんも好きですか？☆最近また抹茶が更に好きになってきた稲場愛香でした〜",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10027",
+        "material_title": "0719_inaba_s.jpg",
+        "material_file": "e01f38acc78611d0ccefe6ae57c35b86124303162520d294dc80e9120f7666cf10027.jpeg"
+      }
+    ],
+    "previous_id": "11755",
+    "next_id": "11735",
+    "saved_materials": [
+      "assets/11754_10027_0719_inaba_s.jpg"
+    ]
+  }
+}

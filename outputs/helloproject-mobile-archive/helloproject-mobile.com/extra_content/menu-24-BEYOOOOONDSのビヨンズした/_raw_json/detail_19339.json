@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 283,
+    "content_id": "19339",
+    "content_title": "お祭り",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2022-12-28 10:00:00",
+    "created_at": "2022-12-14 19:55:27",
+    "updated_at": "2022-12-14 19:57:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16050",
+        "material_title": "1228_eguchi_s.jpg",
+        "material_file": "57ede3da299a010715a466419d56e195c161536fd6aa4f5aeee21e4d210492ae16050.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19339",
+    "content_title": "お祭り",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2022-12-28 10:00:00",
+    "created_at": "2022-12-14 19:55:27",
+    "updated_at": "2022-12-14 19:57:02",
+    "content_text": "1228_eguchi_s.jpg\n毎年気になっていてずっと行きたかったお祭りにお姉ちゃんと一緒に初めて行けたのが思い出です。\n\n【23周目お題：思い出】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16050",
+        "material_title": "1228_eguchi_s.jpg",
+        "material_file": "a2177fc1e74da025dc21137ecf482fa4393bf1eece0c284648ab40e63a82a34f16050.jpeg"
+      }
+    ],
+    "previous_id": "19340",
+    "next_id": "19338",
+    "saved_materials": [
+      "assets/19339_16050_1228_eguchi_s.jpg"
+    ]
+  }
+}

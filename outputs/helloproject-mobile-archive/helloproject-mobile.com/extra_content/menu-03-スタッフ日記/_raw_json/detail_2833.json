@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 725,
+    "content_id": "2833",
+    "content_title": "佐々木莉佳子ファースト写真集「RIKAKO」発売記念握手会",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-07-31 18:00:00",
+    "created_at": "2015-07-31 18:35:07",
+    "updated_at": "2015-07-31 18:40:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2683",
+        "material_title": "IMG_0987.JPG",
+        "material_file": "803e8704ffa36c713f172e98d860fd776b3b1f4793835d90511587f52380c7662683.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2684",
+        "material_title": "IMG_0994.JPG",
+        "material_file": "6ce6e3df7ec5c5eea95126b1dc5036ad62fdcc9b9deed83b64ad37d6693959042684.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2833",
+    "content_title": "佐々木莉佳子ファースト写真集「RIKAKO」発売記念握手会",
+    "content_sub_title": "",
+    "release_date": "2015-07-31 18:00:00",
+    "created_at": "2015-07-31 18:35:07",
+    "updated_at": "2015-07-31 18:40:31",
+    "content_text": "先日、佐々木莉佳子ファースト写真集「RIKAKO」の\r\n\r\n発売記念握手会が新宿サブナードにて行われました！\r\n \r\n\r\n初めての1人で囲み取材。\r\n\r\nIMG_0987.JPG\r\n\r\n \r\n\r\nとても緊張していましたが、\r\n\r\nファンの皆さんとの握手会では、すっかり緊張が解けていました。\r\n\r\n\r\n\r\nそして全て終わった後に、写真集を持っての撮影。\r\n\r\n\r\n無事に終わって一安心・・・。\r\n\r\n無邪気な表情をいただきました！\r\n\r\nIMG_0994.JPG\r\n\r\n\r\n仙台凱旋握手会も決まりましたので、\r\n\r\n平日ではありますが、お待ちしております！\r\n\r\n\r\n本人曰く完成度が120％のファースト写真集「RIKAKO」\r\n\r\n佐々木莉佳子らしい表情が沢山詰まった1冊に仕上がっています。\r\n\r\nみなさん、是非ご覧ください！",
+    "materials": [
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2683",
+        "material_title": "IMG_0987.JPG",
+        "material_file": "caa2fd62508ad81bdebdc658d8abef94c6cea68fd14e96593025d630354befbc2683.jpeg"
+      },
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2684",
+        "material_title": "IMG_0994.JPG",
+        "material_file": "aea3dd58f93878a7fd8b066bf4febd7a26c75f5c472513de34c8c0213ddad0772684.jpeg"
+      }
+    ],
+    "previous_id": "2850",
+    "next_id": "2824",
+    "saved_materials": [
+      "assets/2833_2683_IMG_0987.JPG",
+      "assets/2833_2684_IMG_0994.JPG"
+    ]
+  }
+}

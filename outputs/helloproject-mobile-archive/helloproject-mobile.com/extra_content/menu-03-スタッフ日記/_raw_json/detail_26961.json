@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 26,
+    "content_id": "26961",
+    "content_title": "宣伝会議#118",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-01-29 00:00:00",
+    "created_at": "2026-09-28 15:37:02",
+    "updated_at": "2026-09-28 15:37:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22037",
+        "material_title": "118.jpg",
+        "material_file": "3cee8699733521b42487201e0ff2a19c6c84ff26308974af25062b98f7da82e522037.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22038",
+        "material_title": "118_01.jpg",
+        "material_file": "27b227ae7b625337c50c31b8af943647ddbe5cfc8d84cddb81cecd81cc517c3722038.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26961",
+    "content_title": "宣伝会議#118",
+    "content_sub_title": "",
+    "release_date": "2026-01-29 00:00:00",
+    "created_at": "2026-09-28 15:37:02",
+    "updated_at": "2026-09-28 15:37:02",
+    "content_text": "118_01.jpg\r\n\r\n宣伝会議第118回は、新年恒例！\r\n野中美希部長・前田こころ副部長・入江里咲書記・小野田華凜保健係の部員全員集合でお届け！\r\n\r\nX公式アカウント用の新年挨拶動画を撮影しました！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「きょうだいにするなら、男の子？(兄弟)女の子？(姉妹)」についてディベート！\r\n\r\n後編では、\r\n・今年ウマくなりたいこと\r\n・ソロフェスの意気込み\r\n・この冬デートしたいメンバー\r\n・ハロコン グループの見どころ\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「吉田姫杷」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n118.jpg",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22037",
+        "material_title": "118.jpg",
+        "material_file": "7fa38220d07adb16ad6ee712b3fa4ee621d61f51019791626d59e8d9b168c96d22037.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22038",
+        "material_title": "118_01.jpg",
+        "material_file": "2ccc087be0bf52f59e35b46fd74a7e40603ca375bd0cd81a087737b4a6afcb5922038.jpeg"
+      }
+    ],
+    "previous_id": "27005",
+    "next_id": "27004",
+    "saved_materials": [
+      "assets/26961_22037_118.jpg",
+      "assets/26961_22038_118_01.jpg"
+    ]
+  }
+}

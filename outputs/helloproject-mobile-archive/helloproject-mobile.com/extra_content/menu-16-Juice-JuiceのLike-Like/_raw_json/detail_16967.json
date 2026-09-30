@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 422,
+    "content_id": "16967",
+    "content_title": "今日のご飯",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2021-11-04 10:00:00",
+    "created_at": "2021-10-26 14:16:15",
+    "updated_at": "2021-10-26 14:16:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14169",
+        "material_title": "211104_ebata_s.jpg",
+        "material_file": "13fce926467e66c20ddd8cd7b7f5a837a4e7827578171c7dc2f892dfcb0f992e14169.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16967",
+    "content_title": "今日のご飯",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2021-11-04 10:00:00",
+    "created_at": "2021-10-26 14:16:15",
+    "updated_at": "2021-10-26 14:16:15",
+    "content_text": "211104_ebata_s.jpg\r\n\r\nやっほい！\r\n\r\n江端妃咲です！\r\n\r\n\r\n今日は美味しい物を沢山食べました( ˶ｰ̀֊ｰ́ )੭\"\r\n\r\nお昼にはお肉！\r\n\r\n夜にはラーメン！\r\n\r\nおやつは頂いたドーナツ！\r\n\r\n美味しかったあ ^^\r\n\r\n明日からはちょっとカロリー控えないと(´・ω・｀)\r\n\r\n\r\nじゃあね〜 ·͜·‪ .ᐟ‪.ᐟ",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14169",
+        "material_title": "211104_ebata_s.jpg",
+        "material_file": "91617fa884796376dc2dc4fbfa4fe6ccd3231e0bd93bf7a730fe0053c27b731514169.jpeg"
+      }
+    ],
+    "previous_id": "17039",
+    "next_id": "16966",
+    "saved_materials": [
+      "assets/16967_14169_211104_ebata_s.jpg"
+    ]
+  }
+}

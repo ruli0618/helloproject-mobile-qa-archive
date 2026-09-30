@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 485,
+    "content_id": "15482",
+    "content_title": "心休まる",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-02-23 10:00:00",
+    "created_at": "2021-02-16 19:30:30",
+    "updated_at": "2021-02-16 19:30:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12878",
+        "material_title": "0223_inoue_s.jpg",
+        "material_file": "09dcf53d2d974ef1294d4a24e99ec5c809f711a35ae380274df5c58fa0f3b45512878.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15482",
+    "content_title": "心休まる",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-02-23 10:00:00",
+    "created_at": "2021-02-16 19:30:30",
+    "updated_at": "2021-02-16 19:30:30",
+    "content_text": "0223_inoue_s.jpg\r\n最近寒かったり、暖かかったり温度差が激しい気がします。\r\n体調には気をつけてお過ごし下さい！\r\n心休まる小夏の寝顔をお届け",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "12878",
+        "material_title": "0223_inoue_s.jpg",
+        "material_file": "6e1f734472b16471ccfc53f2fe9dc48b65039b2a96359ccbe7fa78197765e43412878.jpeg"
+      }
+    ],
+    "previous_id": "15513",
+    "next_id": "15481",
+    "saved_materials": [
+      "assets/15482_12878_0223_inoue_s.jpg"
+    ]
+  }
+}

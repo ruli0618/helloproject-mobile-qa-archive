@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 360,
+    "content_id": "13077",
+    "content_title": "工藤の家の屋根裏部屋#67～浜浦彩乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-02-14 19:48:00",
+    "created_at": "2020-02-14 19:46:23",
+    "updated_at": "2020-02-14 19:48:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11116",
+        "material_title": "200214_03_s.jpg",
+        "material_file": "e314762f096456850a194cb9200f895c3b146f66115635063b648cd9e841176411116.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11117",
+        "material_title": "200214_02_s.jpg",
+        "material_file": "18c596b3c6a47fa0de695072a86f39962a71a925870b91f0cdb5fb7033e9f69411117.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11118",
+        "material_title": "200214_01_s.jpg",
+        "material_file": "f036cbadb63a6594f9af0d7bdfa1eb5c46fdc1cd43d7f74014ae1da27235e35c11118.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11119",
+        "material_title": "200214_04_s.jpg",
+        "material_file": "d82e5bfe5ed8052f4de52631a0b43fefb275e6437962b2a5d7394574f1e403a911119.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13077",
+    "content_title": "工藤の家の屋根裏部屋#67～浜浦彩乃～",
+    "content_sub_title": "",
+    "release_date": "2020-02-14 19:48:00",
+    "created_at": "2020-02-14 19:46:23",
+    "updated_at": "2020-02-14 19:48:38",
+    "content_text": "ふくむらの部屋 第67回配信中！\r\nスタッフ日記の更新が遅れ、申し訳ありません。\r\n\r\nゲストは、こぶしファクトリー浜浦彩乃さんが来てくれました！\r\n\r\n200214_01_s.jpg\r\n\r\nお二人のファンに対する想いや、\r\nブログでの定番挨拶、\r\n先輩から後輩へ受け継ぐこと等など、熱く語っていただきました！\r\n\r\n200214_02_s.jpg\r\n\r\n小田さくらさんに関しても、エピソードを交えてトーク！\r\n\r\nはまちゃん大佐や、Berryz工房について、\r\n気になるこぶしファクトリーメンバー間お泊り事情などなど！\r\n\r\n200214_03_s.jpg\r\n\r\nお悩み相談のコーナーも、沢山のお便りありがとうございました！\r\n\r\nコラボ企画では、こちら↓の質問に回答！\r\n\r\n200214_04_s.jpg\r\n\r\n次回は、BEYOOOOONDS小林萌花さんが初出演！\r\n2/18(火)17時頃の配信開始となります。\r\n\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11116",
+        "material_title": "200214_03_s.jpg",
+        "material_file": "45a68b2db019d4762f946a5a1143d8c4487e61d6a9d45da9cf4814d1432f30ec11116.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11117",
+        "material_title": "200214_02_s.jpg",
+        "material_file": "4b9827baea3414afbe16e4f41d8fe8699b232306ad4bcad35b8d147e9016be0711117.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11118",
+        "material_title": "200214_01_s.jpg",
+        "material_file": "3cc04e1409218c5a3210181b56c17b80533dbc121e512eac64240c529bdec96411118.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11119",
+        "material_title": "200214_04_s.jpg",
+        "material_file": "79736c836313798467c9e44686f6f3017e2251b5198b2c85ffa8295dea9a49a111119.jpeg"
+      }
+    ],
+    "previous_id": "13196",
+    "next_id": "13068",
+    "saved_materials": [
+      "assets/13077_11116_200214_03_s.jpg",
+      "assets/13077_11117_200214_02_s.jpg",
+      "assets/13077_11118_200214_01_s.jpg",
+      "assets/13077_11119_200214_04_s.jpg"
+    ]
+  }
+}

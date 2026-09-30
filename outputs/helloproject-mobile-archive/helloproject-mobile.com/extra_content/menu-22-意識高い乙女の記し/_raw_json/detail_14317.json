@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 167,
+    "content_id": "14317",
+    "content_title": "見つけた",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2020-08-11 13:05:00",
+    "created_at": "2020-08-11 13:05:51",
+    "updated_at": "2020-08-11 13:05:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11914",
+        "material_title": "0811_tanimoto_i_s.jpg",
+        "material_file": "d4d9b4b62dcc0bca9a4c43da9a6784e0b0625af55bf427d4cfd0debc6728a18111914.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14317",
+    "content_title": "見つけた",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-08-11 13:05:00",
+    "created_at": "2020-08-11 13:05:51",
+    "updated_at": "2020-08-11 13:05:51",
+    "content_text": "0811_tanimoto_i_s.jpg\r\n夏になりましたね〜\r\n楽しんでますか？？\r\nこの間、道を歩いていたら\r\nとっても可愛いお花を見つけたので\r\nまおぴんに撮ってもらっちゃいました！！\r\n外歩く時可愛いお花みつけてみてねっ\r\n♥ami♥",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11914",
+        "material_title": "0811_tanimoto_i_s.jpg",
+        "material_file": "792a1114c8228b4bd2c5327c41227a5ce8623cc5b50c2346b25fdabd6a73778311914.jpeg"
+      }
+    ],
+    "previous_id": "14391",
+    "next_id": "14251",
+    "saved_materials": [
+      "assets/14317_11914_0811_tanimoto_i_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 9,
+    "content_id": "26882",
+    "content_title": "ストレート",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2026-09-09 10:00:00",
+    "created_at": "2026-09-07 16:11:52",
+    "updated_at": "2026-09-07 16:11:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21942",
+        "material_title": "0909_maeda_s.jpg",
+        "material_file": "beecb3647b894b7061fa08c9e660f9b58a2c749ae17627f487c46177f471e3a521942.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26882",
+    "content_title": "ストレート",
+    "content_sub_title": "前田こころ",
+    "release_date": "2026-09-09 10:00:00",
+    "created_at": "2026-09-07 16:11:52",
+    "updated_at": "2026-09-07 16:11:52",
+    "content_text": "0909_maeda_s.jpg\r\nナチュラルストレートヘア！やっぱりおろし髪が好きやな〜\r\n\r\n【55周目お題：ナチュラル盛れ】",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "21942",
+        "material_title": "0909_maeda_s.jpg",
+        "material_file": "f686f0d99676e3e88c2fc355759d786a309de9858638391812194568cbedf37b21942.jpeg"
+      }
+    ],
+    "previous_id": "26883",
+    "next_id": "26881",
+    "saved_materials": [
+      "assets/26882_21942_0909_maeda_s.jpg"
+    ]
+  }
+}

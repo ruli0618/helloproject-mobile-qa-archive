@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 173,
+    "content_id": "21312",
+    "content_title": "みよちゃん家の縁側の猫#19 広本瑠璃",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-01-24 00:00:00",
+    "created_at": "2023-11-30 15:30:18",
+    "updated_at": "2023-11-30 15:30:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17520",
+        "material_title": "231130_01.jpg",
+        "material_file": "dad33efaef295351dc276c400d6d031784e2ff72e80f20f6f7375eab6636242717520.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17519",
+        "material_title": "231130_02.jpg",
+        "material_file": "355b5c0a0f9751a9a1e28681d5f15a3937bb70b80e9f10c81f9968ada32072bf17519.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21312",
+    "content_title": "みよちゃん家の縁側の猫#19 広本瑠璃",
+    "content_sub_title": "",
+    "release_date": "2023-01-24 00:00:00",
+    "created_at": "2023-11-30 15:30:18",
+    "updated_at": "2023-11-30 15:30:18",
+    "content_text": "「みよちゃん家の縁側」#19配信中です！\r\n\r\n少し遅くなりましたが、新年あけましておめでとうございます<img src=\"/emoji/emoji-images/f65a.gif\"/>\r\n今年も「みよちゃん家の縁側」たくさん聴いていただけると嬉しいです<img src=\"/emoji/emoji-images/f36e.gif\"/>\r\n\r\n第19回ゲストは、OCHA NORMAの広本瑠璃さん！\r\n\r\n231130_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①がんばるりるりー！\r\n②CHACHACHACHA～N\r\n③あけおめ！ことよろ！\r\n④バトントワリング\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「喋るビニール傘」、「元旦の初日の出を観に来た二人」の2本をお届けしました。\r\n\r\n\r\nハロプロダンス学園に新しく加入した広本さんとダンスの話はもちろん！\r\nリーダー・サブリーダーについて、理想の年末年始の過ごし方、2023年の目標などなどたくさんのお便りを紹介しています！\r\n\r\n231130_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、BEYOOOOONDS/SeasoningSの小林萌花さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17520",
+        "material_title": "231130_01.jpg",
+        "material_file": "603001c8025305b1083d6c4b5de4c9fb3ae05a98c9361d5de966b2fe416c641b17520.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17519",
+        "material_title": "231130_02.jpg",
+        "material_file": "64eefe013c02706e16ed75f125b3742b1189f7005a3fde6cc5e74b7bf5b8308017519.jpeg"
+      }
+    ],
+    "previous_id": "23366",
+    "next_id": "21232",
+    "saved_materials": [
+      "assets/21312_17520_231130_01.jpg",
+      "assets/21312_17519_231130_02.jpg"
+    ]
+  }
+}

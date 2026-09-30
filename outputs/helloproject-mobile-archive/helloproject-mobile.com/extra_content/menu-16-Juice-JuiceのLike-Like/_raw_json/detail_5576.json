@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 842,
+    "content_id": "5576",
+    "content_title": "10/10／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-10-24 22:29:00",
+    "created_at": "2016-10-24 22:29:43",
+    "updated_at": "2016-10-24 22:29:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5008",
+        "material_title": "5040722928918_s.jpg",
+        "material_file": "6a0fadea738b646074e5233e343c51173de54969fa5962a516322c03fdc791225008.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5576",
+    "content_title": "10/10／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2016-10-24 22:29:00",
+    "created_at": "2016-10-24 22:29:43",
+    "updated_at": "2016-10-24 22:29:43",
+    "content_text": "5040722928918_s.jpg\r\nJuice=Juice最高！",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "5008",
+        "material_title": "5040722928918_s.jpg",
+        "material_file": "090042fcde74b5e10fbadc639cc208a089efa00c1f20065279303ebf603744b75008.jpeg"
+      }
+    ],
+    "previous_id": "5580",
+    "next_id": "5555",
+    "saved_materials": [
+      "assets/5576_5008_5040722928918_s.jpg"
+    ]
+  }
+}

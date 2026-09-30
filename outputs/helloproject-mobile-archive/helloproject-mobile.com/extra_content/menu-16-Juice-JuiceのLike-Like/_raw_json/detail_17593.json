@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 397,
+    "content_id": "17593",
+    "content_title": "オーディション",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-02-08 10:00:00",
+    "created_at": "2022-01-31 15:53:51",
+    "updated_at": "2022-01-31 15:53:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14661",
+        "material_title": "0208_irie_s.jpg",
+        "material_file": "5ca35d8207a4c7d2c1c562fd2640b11ebf9c2450e88a9ffde8698cec8898b73614661.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17593",
+    "content_title": "オーディション",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-02-08 10:00:00",
+    "created_at": "2022-01-31 15:53:51",
+    "updated_at": "2022-01-31 15:53:51",
+    "content_text": "0208_irie_s.jpg\r\nハロー！プロジェクト「モーニング娘。'22」「Juice=Juice」合同新メンバーオーディション\r\n\r\n締め切り間もなくですね〜\r\n\r\nたくさんのチャレンジお待ちしてます<img src=\"/emoji/emoji-images/f7f4.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14661",
+        "material_title": "0208_irie_s.jpg",
+        "material_file": "47f6d6130d4b521bd53b1fb349aeaccd25bacf12eba19f9d7be912a85a54e3a214661.jpeg"
+      }
+    ],
+    "previous_id": "17656",
+    "next_id": "17592",
+    "saved_materials": [
+      "assets/17593_14661_0208_irie_s.jpg"
+    ]
+  }
+}

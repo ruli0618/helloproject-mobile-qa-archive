@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 663,
+    "content_id": "4524",
+    "content_title": "女子会の二次会#5",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-05-06 20:56:00",
+    "created_at": "2016-05-06 20:53:33",
+    "updated_at": "2016-05-06 20:57:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4145",
+        "material_title": "160506_1_s.jpg",
+        "material_file": "3a4d543dd64dbfd0d6121ebc1bbeee523fcf5f803cdc0ec181192c029521dbc44145.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4146",
+        "material_title": "160506_2_s.jpg",
+        "material_file": "72109652a4933d2f8189309bcbb9561fc367998d41c134aaac0e5697fcd9d4064146.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4524",
+    "content_title": "女子会の二次会#5",
+    "content_sub_title": "",
+    "release_date": "2016-05-06 20:56:00",
+    "created_at": "2016-05-06 20:53:33",
+    "updated_at": "2016-05-06 20:57:07",
+    "content_text": "5月5日まで3週にわたって『Girls Night Out』にてお届けした、モーニング娘。'16石田亜佑美と小田さくらの京都ロケシリーズ「ラブラブデート in 京都 ～さくらと一緒にサクラを見に行こう！～」はご覧いただけましたでしょうか？\n\n地主神社での見事なすれ違いから始まったものの、最後は2人揃って舞妓姿になり、仲良く終わることができました。\n\n・・・が、小田さくらいわく、その関係もあの時がピークだったそうです。。。\n“京都がそうさせた”・・と。\n\nあの2人、また京都に行く必要があるかもしれませんね(^^;)\n\nさて、このロケシリーズ“Girls Hang Out”はまだまだ続きますので、毎週お楽しみに！\n\n160506_1_s.jpg\n160506_2_s.jpg\n\n※画像は、2人がいただいたアルバムにも入っている、和室で撮影したものです。",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4145",
+        "material_title": "160506_1_s.jpg",
+        "material_file": "b2428c675cd19f5473a0964e53113b727dc4579e3a151589e36c889ee09877454145.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4146",
+        "material_title": "160506_2_s.jpg",
+        "material_file": "2048c1e767d60ab16a083043bfbd821af51862ae7632dc05aacd354100251c204146.jpeg"
+      }
+    ],
+    "previous_id": "4723",
+    "next_id": "4507",
+    "saved_materials": [
+      "assets/4524_4145_160506_1_s.jpg",
+      "assets/4524_4146_160506_2_s.jpg"
+    ]
+  }
+}

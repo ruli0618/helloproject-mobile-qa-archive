@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 68,
+    "content_id": "24784",
+    "content_title": "髪切った",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2025-08-15 20:19:00",
+    "created_at": "2025-08-15 20:19:55",
+    "updated_at": "2025-08-15 20:19:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20253",
+        "material_title": "0815_kasai_s.jpg",
+        "material_file": "9fbafc01776d63530442c049e96ecb2c2d9087e04fb384f71fa6a098bbeeb72c20253.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24784",
+    "content_title": "髪切った",
+    "content_sub_title": "河西結心",
+    "release_date": "2025-08-15 20:19:00",
+    "created_at": "2025-08-15 20:19:55",
+    "updated_at": "2025-08-15 20:19:55",
+    "content_text": "0815_kasai_s.jpg\r\n先日髪を切りました〜！\r\n髪の毛を切ると気分上がるよね＾＾\r\n\r\nその日は髪の毛もツヤツヤでるんるんだったよー！！！！\r\n\r\nずっと切りに行こうか悩んでたけど、夏だしちょっとだけ短めにしてみました！行ってよかったです！\r\n\r\nいろんな髪型にもチャレンジしてみたいな〜〜\r\nどんな髪型見てみたいですか？＾＾\r\n\r\nそれじゃまたね〜",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20253",
+        "material_title": "0815_kasai_s.jpg",
+        "material_file": "ceaaddb6297a9d638121b080dd0f1df367924b8e4f6866b333e620dc0eb8ac8920253.jpeg"
+      }
+    ],
+    "previous_id": "24843",
+    "next_id": "24558",
+    "saved_materials": [
+      "assets/24784_20253_0815_kasai_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 564,
+    "content_id": "13197",
+    "content_title": "カープ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-03-03 10:00:00",
+    "created_at": "2020-02-25 18:40:09",
+    "updated_at": "2020-02-25 18:40:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11182",
+        "material_title": "0303_dambara_s.jpg",
+        "material_file": "2d44a0d52abf309003cd2e02881be7394be8592cbeac760be1b658507e10a7ec11182.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13197",
+    "content_title": "カープ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-03-03 10:00:00",
+    "created_at": "2020-02-25 18:40:09",
+    "updated_at": "2020-02-25 18:40:09",
+    "content_text": "0303_dambara_s.jpg\r\nカープ女子<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n今シーズンも応援します！",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11182",
+        "material_title": "0303_dambara_s.jpg",
+        "material_file": "7f10fe50caf21e98ef75e2db6591bd4559a5c651976331cd75d0549cf5e38eca11182.jpeg"
+      }
+    ],
+    "previous_id": "13198",
+    "next_id": "13072",
+    "saved_materials": [
+      "assets/13197_11182_0303_dambara_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 617,
+    "content_id": "11601",
+    "content_title": "テレ金ちゃん！",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-06-13 18:35:00",
+    "created_at": "2019-06-13 18:39:01",
+    "updated_at": "2019-06-13 18:39:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9891",
+        "material_title": "0613_miyamoto_s.jpg",
+        "material_file": "ad56fdcea1d9cf93bc69de30662fc44b08a00ab5bd7af2156268ae7af57797d49891.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11601",
+    "content_title": "テレ金ちゃん！",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-06-13 18:35:00",
+    "created_at": "2019-06-13 18:39:01",
+    "updated_at": "2019-06-13 18:39:01",
+    "content_text": "0613_miyamoto_s.jpg\r\n私より前に出るテレ金ちゃんかわいい❤",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9891",
+        "material_title": "0613_miyamoto_s.jpg",
+        "material_file": "c24341fa05985f260ed96264b1b70f80aa1ec47c086e0d8c1c93301ce8966d019891.jpeg"
+      }
+    ],
+    "previous_id": "11602",
+    "next_id": "11507",
+    "saved_materials": [
+      "assets/11601_9891_0613_miyamoto_s.jpg"
+    ]
+  }
+}

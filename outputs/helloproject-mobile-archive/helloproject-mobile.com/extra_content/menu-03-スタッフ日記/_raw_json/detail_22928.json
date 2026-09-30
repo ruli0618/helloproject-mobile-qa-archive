@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "22928",
+    "content_title": "工藤の家の軒下#3～野中美希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-01-16 00:00:00",
+    "created_at": "2024-09-21 05:20:13",
+    "updated_at": "2024-09-21 06:40:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18776",
+        "material_title": "240116_s.jpg",
+        "material_file": "02e2eb41cc57e62d551b9d893925c51cec32b58ca82c2af11cbb343603d10a6618776.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22928",
+    "content_title": "工藤の家の軒下#3～野中美希～",
+    "content_sub_title": "",
+    "release_date": "2024-01-16 00:00:00",
+    "created_at": "2024-09-21 05:20:13",
+    "updated_at": "2024-09-21 06:40:54",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第3回は、ハロ！モバ宣伝部部長でもあるモーニング娘。'24野中美希さんがゲストに来てくれました！\r\n\r\n240116_s.jpg\r\n\r\nまずは、募集をしていた終わりの挨拶を決めました！\r\n今回から番組の最後も要チェックです！\r\n\r\n前半は、\r\n・一般加入で苦労した点\r\n・お正月らしいこと\r\n・トークのアドバイス\r\n・お互いの印象\r\nについてトーク！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・注目のハロプロ研修生\r\n・お年玉\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\n値落ちしないことや、運動の習慣を紹介しました！\r\n\r\n後半では、\r\n・オーディション\r\n・冬ハロコン当時の印象\r\n・西﨑美空とのお出かけ\r\n・抱負\r\n・モノマネ伝授\r\n・仲良くなりたいメンバー\r\nについてトーク！\r\n\r\n次回は、アンジュルム松本わかなさんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18776",
+        "material_title": "240116_s.jpg",
+        "material_file": "bda3cc663c67eee4a24f2d51c8336725943cad4689502c92c8239fe2a066009e18776.jpeg"
+      }
+    ],
+    "previous_id": "23378",
+    "next_id": "21505",
+    "saved_materials": [
+      "assets/22928_18776_240116_s.jpg"
+    ]
+  }
+}

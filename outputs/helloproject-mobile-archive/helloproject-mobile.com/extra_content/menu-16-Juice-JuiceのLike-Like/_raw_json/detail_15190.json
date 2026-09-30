@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 499,
+    "content_id": "15190",
+    "content_title": "昨日",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2020-12-11 12:13:00",
+    "created_at": "2020-12-11 12:15:24",
+    "updated_at": "2020-12-11 12:15:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12617",
+        "material_title": "1211_uemura_s.jpg",
+        "material_file": "1e24aba5acf9a949fec138a5532cf9a5613e99dc0d7c3ee341f678e551e0840612617.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15190",
+    "content_title": "昨日",
+    "content_sub_title": "植村あかり",
+    "release_date": "2020-12-11 12:13:00",
+    "created_at": "2020-12-11 12:15:24",
+    "updated_at": "2020-12-11 12:15:24",
+    "content_text": "1211_uemura_s.jpg\r\n\r\n植村あかりです！\r\n\r\n昨日は来てくださった皆さんと改めてかりんに感謝の気持ちを伝えられたいい日でした\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12617",
+        "material_title": "1211_uemura_s.jpg",
+        "material_file": "4a7a080ae757f2c1e74a87cbcdfff6f6660aac51556b3a4dc21e3a1870f2006112617.jpeg"
+      }
+    ],
+    "previous_id": "15240",
+    "next_id": "15102",
+    "saved_materials": [
+      "assets/15190_12617_1211_uemura_s.jpg"
+    ]
+  }
+}

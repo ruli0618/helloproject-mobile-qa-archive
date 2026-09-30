@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 768,
+    "content_id": "7860",
+    "content_title": "トマト／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-11-24 11:00:00",
+    "created_at": "2017-10-31 23:10:11",
+    "updated_at": "2017-10-31 23:10:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6918",
+        "material_title": "6838720633471_s.jpg",
+        "material_file": "43656463efd50092e14b3e462e51412629eed1e6f50ac5bdca54b3db37cb55dd6918.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7860",
+    "content_title": "トマト／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-11-24 11:00:00",
+    "created_at": "2017-10-31 23:10:11",
+    "updated_at": "2017-10-31 23:10:11",
+    "content_text": "6838720633471_s.jpg\r\nJuice=Juiceの日トマトの日でもあるらしく。\r\nトマトジュースで乾杯。",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6918",
+        "material_title": "6838720633471_s.jpg",
+        "material_file": "c46bcdeddbf32d4fb753a5c31994c934f79dd02ce1dbbd9f79296280afed17fd6918.jpeg"
+      }
+    ],
+    "previous_id": "7861",
+    "next_id": "7859",
+    "saved_materials": [
+      "assets/7860_6918_6838720633471_s.jpg"
+    ]
+  }
+}

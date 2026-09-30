@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 143,
+    "content_id": "24767",
+    "content_title": "みよちゃん家の縁側の猫#30 入江里咲",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-06-20 00:00:00",
+    "created_at": "2025-08-06 18:26:36",
+    "updated_at": "2025-08-06 18:30:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20240",
+        "material_title": "250806_03.jpg",
+        "material_file": "8035b78602b623dbc2c98335f20adc4dae07e6dec469f710ffc3853eb6be793c20240.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20239",
+        "material_title": "250806_04.jpg",
+        "material_file": "ed35ba853b969b31dd4a7ccb37d7f0c68695b967946d2f29190554963b0e5afc20239.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24767",
+    "content_title": "みよちゃん家の縁側の猫#30 入江里咲",
+    "content_sub_title": "",
+    "release_date": "2023-06-20 00:00:00",
+    "created_at": "2025-08-06 18:26:36",
+    "updated_at": "2025-08-06 18:30:06",
+    "content_text": "「みよちゃん家の縁側」#30配信中です！\n第30回ゲストは、Juice=Juice入江里咲さん！\n\n収録前に入江さんから平井さんにチョコミントドリンクの差し入れも…<img src=\"/emoji/emoji-images/f9eb.gif\"/>！\n2人の様子にほっこりしました♡\n\n250806_03.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①和太鼓\n②がんばりさ～\n③たいしたことないじゃん\n④ここだよりさち！\n\n\n「演技してみよ～！」のコーナーでは、\n「筋トレを励ます二人」、「待ち合わせ」の2本をお届けしました。\n\n二人がパーソナルトレーナー(？)になりきって、筋トレを応援しました♪\nこのコーナーでは新鮮な台本でしたね<img src=\"/emoji/emoji-images/f663.gif\"/>\nみなさんも一緒に楽しくトレーニングしてみてください<img src=\"/emoji/emoji-images/456c.gif\"/>！\n\n\n井上さんと2人で披露した「明日テンキになあれ」の裏話、楽曲の作詞作曲者について、ヘアアレンジや春ツアーの感想も！\n\nその他にもたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250806_04.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、アンジュルム橋迫鈴さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20240",
+        "material_title": "250806_03.jpg",
+        "material_file": "150f229cd16a1bf6362a0e860194bd80b5c2a78c07f8245b6fd25e4725750b5120240.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20239",
+        "material_title": "250806_04.jpg",
+        "material_file": "96c9f3d1b0635ec114883c85ed326820f2960a4b23bca83f3fe03272f803a07a20239.jpeg"
+      }
+    ],
+    "previous_id": "20393",
+    "next_id": "21243",
+    "saved_materials": [
+      "assets/24767_20240_250806_03.jpg",
+      "assets/24767_20239_250806_04.jpg"
+    ]
+  }
+}

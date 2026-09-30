@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 83,
+    "content_id": "10093",
+    "content_title": "綺麗に撮れたお花だよ",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-10-12 23:16:00",
+    "created_at": "2018-10-12 23:16:49",
+    "updated_at": "2018-10-12 23:16:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8813",
+        "material_title": "1012_yamagishi_s.jpg",
+        "material_file": "142da90e1e5eedb45b624833d3505b255d9c175a805b1f9c99907bf720d477968813.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10093",
+    "content_title": "綺麗に撮れたお花だよ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-10-12 23:16:00",
+    "created_at": "2018-10-12 23:16:49",
+    "updated_at": "2018-10-12 23:16:49",
+    "content_text": "こんにちはー！\r\n\r\n山岸理子です！\r\n\r\n最近、街が金木犀の香りがして\r\nウキウキモードです(⌒▽⌒)\r\n\r\nでも今日は金木犀ではありません！\r\n\r\n歩いていたら、見つけました♡\r\nピンクのお花！！！！\r\n\r\n1012_yamagishi_s.jpg\r\n\r\n初のポートレートで撮りました！！\r\n綺麗に撮れた(^_^)ノ\r\n\r\n写真撮る時、すごい大きいハチがいて\r\n叫びました笑\r\n\r\nそんなときに撮れた懇親の一枚。",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8813",
+        "material_title": "1012_yamagishi_s.jpg",
+        "material_file": "83aee91b78bfff8221f4d31bc44fd41340608c687221ab2b61ad9ec0944d91a38813.jpeg"
+      }
+    ],
+    "previous_id": "10110",
+    "next_id": "10036",
+    "saved_materials": [
+      "assets/10093_8813_1012_yamagishi_s.jpg"
+    ]
+  }
+}

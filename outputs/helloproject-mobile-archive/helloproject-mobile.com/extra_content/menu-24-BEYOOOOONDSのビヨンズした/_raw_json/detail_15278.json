@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 417,
+    "content_id": "15278",
+    "content_title": "あけおめいぬ！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-01-27 10:00:00",
+    "created_at": "2021-01-07 23:16:40",
+    "updated_at": "2022-01-17 14:47:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12711",
+        "material_title": "0127_satoyoshi_s.jpg",
+        "material_file": "c34c4a5a670c07e991beb2431170d4e3691e63339e7c51e841c76bb58bbdc5b712711.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15278",
+    "content_title": "あけおめいぬ！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-01-27 10:00:00",
+    "created_at": "2021-01-07 23:16:40",
+    "updated_at": "2022-01-17 14:47:12",
+    "content_text": "0127_satoyoshi_s.jpg\nお正月、おもちくんにおめでたい飾りを付けてもらってお写真を撮りました！\nにっこりカメラ目線ができてとってもえらい！\n\n【8周目お題：カメラ目線】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12711",
+        "material_title": "0127_satoyoshi_s.jpg",
+        "material_file": "994bf9260ebe22fad2edaeec218d3c7c1300bf74acfdee1a0e593a1c13aca63412711.jpeg"
+      }
+    ],
+    "previous_id": "15279",
+    "next_id": "15277",
+    "saved_materials": [
+      "assets/15278_12711_0127_satoyoshi_s.jpg"
+    ]
+  }
+}

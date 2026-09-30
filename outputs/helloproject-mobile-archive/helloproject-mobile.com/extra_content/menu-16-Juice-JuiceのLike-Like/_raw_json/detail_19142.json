@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 315,
+    "content_id": "19142",
+    "content_title": "ラメラメ！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-11-24 10:00:00",
+    "created_at": "2022-11-15 14:52:44",
+    "updated_at": "2022-11-15 14:52:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15897",
+        "material_title": "1124_irie_s.jpg",
+        "material_file": "178a441c8d85ae47a5bf602863ff7df68278b3be3353023ce2c08feb227875d215897.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19142",
+    "content_title": "ラメラメ！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-11-24 10:00:00",
+    "created_at": "2022-11-15 14:52:44",
+    "updated_at": "2022-11-15 14:52:44",
+    "content_text": "1124_irie_s.jpg\r\nこの日はえばリクエストで、アイシャドウの色は薄くしてラメをたくさん使ったメイクにしました！\r\n結構お気に入り(^^)v",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "15897",
+        "material_title": "1124_irie_s.jpg",
+        "material_file": "d241e3527d0d3e082686ce07219613619c592571c6ffdc3f85b50eb1f3aa2a9515897.jpeg"
+      }
+    ],
+    "previous_id": "19233",
+    "next_id": "19141",
+    "saved_materials": [
+      "assets/19142_15897_1124_irie_s.jpg"
+    ]
+  }
+}

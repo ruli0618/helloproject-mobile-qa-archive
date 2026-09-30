@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 475,
+    "content_id": "9937",
+    "content_title": "From☆ソーマ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-09-27 22:30:00",
+    "created_at": "2018-09-27 22:34:49",
+    "updated_at": "2018-09-27 22:36:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8658",
+        "material_title": "180927_02_02.jpg",
+        "material_file": "225c6ae6bbbe799634ca6484ba1d09ce4565b728c423244f04496300cdb38ba48658.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8659",
+        "material_title": "180927_02_03.jpg",
+        "material_file": "0abbb2dae16c71894c18ab394ca0d4f9a86fb58b7d2db9da4deeebb81e01d8828659.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8660",
+        "material_title": "180927_02_01.jpg",
+        "material_file": "e72327c3b7f4cfed1635177a53098c215b0a2c09ba38932f21ada21c3a94eebf8660.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9937",
+    "content_title": "From☆ソーマ",
+    "content_sub_title": "",
+    "release_date": "2018-09-27 22:30:00",
+    "created_at": "2018-09-27 22:34:49",
+    "updated_at": "2018-09-27 22:36:09",
+    "content_text": "こんばんは！スタッフ番号2番です。\r\n\r\n今日届いたハロ！モバメールはご覧になりましたか？\r\nまさか、宇宙歴3255年に生きる宇宙物理学者ソーマからメールが届くなんて…。\r\n\r\n180927_02_02.jpg\r\n\r\n何のことかって？\r\n\r\nそれは、明日9/28(金)から10/8(月･祝)までの間、\r\n全労済ホール / スペース・ゼロに向かえば分かります！\r\n\r\n180927_02_01.jpg\r\n\r\n<a href=\"http://gekijyo.com/\" target=\"_blank\">★詳しくはこちら★</a>\r\n\r\n\r\n医者のマドカにもご注目下さい♪\r\n\r\n180927_02_03.jpg",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8658",
+        "material_title": "180927_02_02.jpg",
+        "material_file": "89149b64bbcaca842edb05102e17d85631f6ec1516a6b457f1080179022a1b498658.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8659",
+        "material_title": "180927_02_03.jpg",
+        "material_file": "a204a6df1f1d8a3c792935519fbf9ca7f275be63f8550778f42aeafd1a7ef3ef8659.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8660",
+        "material_title": "180927_02_01.jpg",
+        "material_file": "4209f2b3f8fb0328b1e4739e4e274318b06eaabf91588d9e77342632b3144fe08660.jpeg"
+      }
+    ],
+    "previous_id": "10029",
+    "next_id": "9929",
+    "saved_materials": [
+      "assets/9937_8658_180927_02_02.jpg",
+      "assets/9937_8659_180927_02_03.jpg",
+      "assets/9937_8660_180927_02_01.jpg"
+    ]
+  }
+}

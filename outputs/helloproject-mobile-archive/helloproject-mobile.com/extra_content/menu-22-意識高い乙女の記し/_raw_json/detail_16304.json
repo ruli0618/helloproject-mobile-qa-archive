@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 111,
+    "content_id": "16304",
+    "content_title": "色",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2021-07-05 21:44:00",
+    "created_at": "2021-07-05 21:48:43",
+    "updated_at": "2021-07-05 21:48:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13633",
+        "material_title": "210705_onoda_s.jpg",
+        "material_file": "3ae9bf8ac9e10c29cdcab2aa737f2654b3a735972a32d26fc1f1f4159aba1be113633.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16304",
+    "content_title": "色",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2021-07-05 21:44:00",
+    "created_at": "2021-07-05 21:48:43",
+    "updated_at": "2021-07-05 21:48:43",
+    "content_text": "最近、蜘蛛が部屋にいるさおりです♪\r\n\r\n自分にあういろ、わかりますか！？\r\n\r\nさおりは自分にあう色がまだ見つかっていません、、、\r\n\r\nなに色が似合うんだろう！\r\n\r\nだからいろんな色のお洋服をきて、試しています！！\r\n\r\n似合う色がみつかるといいな！\r\n\r\nそうしたら、もっと自分をよく見せることができる気がする！\r\n\r\nそんなかんじですっ。\r\n\r\n今日も、さおりの写真です♪\r\n\r\n210705_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13633",
+        "material_title": "210705_onoda_s.jpg",
+        "material_file": "4db0e8160bd7f226188cf8dc0b18921734e7c9fdebc940309ef49ac822193e3713633.jpeg"
+      }
+    ],
+    "previous_id": "16325",
+    "next_id": "16303",
+    "saved_materials": [
+      "assets/16304_13633_210705_onoda_s.jpg"
+    ]
+  }
+}

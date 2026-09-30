@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 95,
+    "content_id": "24006",
+    "content_title": "タコみたいな",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-03-18 12:37:00",
+    "created_at": "2025-03-18 12:38:23",
+    "updated_at": "2025-03-18 12:38:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19682",
+        "material_title": "0318_kudo_s.jpg",
+        "material_file": "f2113551610d009bdbfd546b3248aa09ad113f9f0b89f72db1fed24f7f1652e619682.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24006",
+    "content_title": "タコみたいな",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-03-18 12:37:00",
+    "created_at": "2025-03-18 12:38:23",
+    "updated_at": "2025-03-18 12:38:23",
+    "content_text": "0318_kudo_s.jpg\r\nスイーツパラダイスさんにてJuice=Juiceコラボ中です！\r\nスイーツパラダイスさんでいただいた苺、いちかちゃんがタコみたい！っとプレゼントしてくれました♡",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19682",
+        "material_title": "0318_kudo_s.jpg",
+        "material_file": "1e69e1d69616d1b7dd14f8c03c28015e81b1417a7d2fa03be61871043f9eac6919682.jpeg"
+      }
+    ],
+    "previous_id": "24013",
+    "next_id": "23968",
+    "saved_materials": [
+      "assets/24006_19682_0318_kudo_s.jpg"
+    ]
+  }
+}

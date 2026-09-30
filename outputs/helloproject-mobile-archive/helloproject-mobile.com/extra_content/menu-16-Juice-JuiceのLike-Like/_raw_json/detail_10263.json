@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 661,
+    "content_id": "10263",
+    "content_title": "贅沢",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-12-12 11:00:00",
+    "created_at": "2018-11-08 20:05:51",
+    "updated_at": "2018-11-08 20:05:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8895",
+        "material_title": "1212_uemura_s.jpg",
+        "material_file": "cda12776597e63ad7bfdaf7c95426e2cf95b42882d262e6b1fd1a5900b3a3aae8895.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10263",
+    "content_title": "贅沢",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-12-12 11:00:00",
+    "created_at": "2018-11-08 20:05:51",
+    "updated_at": "2018-11-08 20:05:51",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\nるるるとリハーサル終わりにタピオカを飲みにいきました！\r\n\r\n1212_uemura_s.jpg\r\n\r\n久々の贅沢\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "8895",
+        "material_title": "1212_uemura_s.jpg",
+        "material_file": "fedf20dcdaa46dbd5b7385c10f4e9e77d5243cb6ca8905f7d3c0788b0fce87b58895.jpeg"
+      }
+    ],
+    "previous_id": "10484",
+    "next_id": "10261",
+    "saved_materials": [
+      "assets/10263_8895_1212_uemura_s.jpg"
+    ]
+  }
+}

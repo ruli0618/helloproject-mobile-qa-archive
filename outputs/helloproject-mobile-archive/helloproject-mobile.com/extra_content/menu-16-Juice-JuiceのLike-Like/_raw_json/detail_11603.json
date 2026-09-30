@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 615,
+    "content_id": "11603",
+    "content_title": "雨",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2019-06-19 10:00:00",
+    "created_at": "2019-06-13 18:39:41",
+    "updated_at": "2019-06-13 18:39:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9889",
+        "material_title": "0619_uemura_s.jpg",
+        "material_file": "63fc8fd4e51a6e1e0d0101006dea3ab8a807737b956e96c97a9dab3b81632c8b9889.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11603",
+    "content_title": "雨",
+    "content_sub_title": "植村あかり",
+    "release_date": "2019-06-19 10:00:00",
+    "created_at": "2019-06-13 18:39:41",
+    "updated_at": "2019-06-13 18:39:41",
+    "content_text": "植村あかりです！\r\n\r\n0619_uemura_s.jpg\r\n\r\n\r\n今日は雨でした\r\n\r\n\r\n傘をさしてもずぶ濡れになりましたがお買い物にも行けて嬉しい日でした！！\r\n\r\nでも時間が足りなかった。ぜーんぜん足りなかった。。\r\n\r\nそれと今日は生キャラメルを久々に食べて絶好調でした！\r\n\r\n\r\n花畑牧場<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\n\r\nやっぱおいしー\r\n\r\n\r\nそれでは、おやすみなさい\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9889",
+        "material_title": "0619_uemura_s.jpg",
+        "material_file": "8fa315be486373b2add134654aa7d5cde3e172adf338be7df03086dc8cbb109f9889.jpeg"
+      }
+    ],
+    "previous_id": "11618",
+    "next_id": "11602",
+    "saved_materials": [
+      "assets/11603_9889_0619_uemura_s.jpg"
+    ]
+  }
+}

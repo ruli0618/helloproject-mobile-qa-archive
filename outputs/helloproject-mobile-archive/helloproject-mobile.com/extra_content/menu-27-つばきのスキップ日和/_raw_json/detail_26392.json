@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 25,
+    "content_id": "26392",
+    "content_title": "サラダボウル",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2026-07-10 10:00:00",
+    "created_at": "2026-06-12 10:47:49",
+    "updated_at": "2026-06-12 10:47:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21564",
+        "material_title": "0710_murata_s.jpg",
+        "material_file": "689368bea8e22731b87c950555991259e1fc3ea7a7fbf8d9d7d4f09739789e8721564.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26392",
+    "content_title": "サラダボウル",
+    "content_sub_title": "村田結生",
+    "release_date": "2026-07-10 10:00:00",
+    "created_at": "2026-06-12 10:47:49",
+    "updated_at": "2026-06-12 10:47:49",
+    "content_text": "0710_murata_s.jpg\r\n\r\nやっほー！村田結生です！\r\n\r\nゆうの最近のマイブームはサラダボウル巡りなんだけど\r\nサラダボウル好きすぎて自分でつくって見たよっ\r\n\r\n自分の好きな野菜ずくし、そして好きなドレッシングをかけたので唯一無二のサラダボウルを生み出しました！\r\nとってもおいしかったです♩\r\n\r\nyouとyuuが料理上手くなれますように☆",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21564",
+        "material_title": "0710_murata_s.jpg",
+        "material_file": "793bed0563da0681c7a9866dd073ad5e46d68b83fe8fbe9a1296dad56b08ad5a21564.jpeg"
+      }
+    ],
+    "previous_id": "26393",
+    "next_id": "26391",
+    "saved_materials": [
+      "assets/26392_21564_0710_murata_s.jpg"
+    ]
+  }
+}

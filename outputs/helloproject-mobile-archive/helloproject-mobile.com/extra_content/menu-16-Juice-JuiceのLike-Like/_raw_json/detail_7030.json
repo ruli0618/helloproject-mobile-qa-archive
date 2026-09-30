@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 799,
+    "content_id": "7030",
+    "content_title": "ふわふわ／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-07-21 10:00:00",
+    "created_at": "2017-07-19 15:58:28",
+    "updated_at": "2017-07-19 15:58:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6183",
+        "material_title": "6312397012618_s.jpg",
+        "material_file": "67e9ea5e28bfd8b618fc89629fac29793243f45da2f2c43f03b370ff64edf8d56183.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7030",
+    "content_title": "ふわふわ／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-07-21 10:00:00",
+    "created_at": "2017-07-19 15:58:28",
+    "updated_at": "2017-07-19 15:58:28",
+    "content_text": "6312397012618_s.jpg\r\n大阪で食べたチーズケーキ。あったかくて中がフワトロで初めて出会った食感でした！！",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "6183",
+        "material_title": "6312397012618_s.jpg",
+        "material_file": "176adc7f6a339e3b59ce438656f17d4997f007074b623b7a31ea27cd0550ef2e6183.jpeg"
+      }
+    ],
+    "previous_id": "7032",
+    "next_id": "7005",
+    "saved_materials": [
+      "assets/7030_6183_6312397012618_s.jpg"
+    ]
+  }
+}

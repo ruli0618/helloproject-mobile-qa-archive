@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 357,
+    "content_id": "17029",
+    "content_title": "夏が少し恋しいなぁ",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2021-11-15 10:00:00",
+    "created_at": "2021-11-04 17:27:44",
+    "updated_at": "2022-01-17 14:43:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14225",
+        "material_title": "1115_maeda_s.jpg",
+        "material_file": "3a2961837cdc9b8c5c7d6d6d135ced134ad58be28352cc1b483ba09aa9bc515714225.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17029",
+    "content_title": "夏が少し恋しいなぁ",
+    "content_sub_title": "前田こころ",
+    "release_date": "2021-11-15 10:00:00",
+    "created_at": "2021-11-04 17:27:44",
+    "updated_at": "2022-01-17 14:43:26",
+    "content_text": "1115_maeda_s.jpg\nメンバーみんなで浴衣を着れて嬉しかったです！夏の思い出になりました！\n\n【15周目お題：メンバーカラー】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14225",
+        "material_title": "1115_maeda_s.jpg",
+        "material_file": "d6e04dd4586706f5e529ccd82ab3746857a2a9093699806b870bfc70ea50333414225.jpeg"
+      }
+    ],
+    "previous_id": "17030",
+    "next_id": "16811",
+    "saved_materials": [
+      "assets/17029_14225_1115_maeda_s.jpg"
+    ]
+  }
+}

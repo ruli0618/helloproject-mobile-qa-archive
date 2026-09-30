@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 137,
+    "content_id": "15417",
+    "content_title": "シーザー",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-02-03 18:29:00",
+    "created_at": "2021-02-03 18:29:51",
+    "updated_at": "2021-02-03 18:30:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12840",
+        "material_title": "210203_tanimoto_s.jpg",
+        "material_file": "a245ad648776619780e5cd6e7fd50d9cbf7e54df5aa7e78334d577c9b999e5e612840.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15417",
+    "content_title": "シーザー",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-02-03 18:29:00",
+    "created_at": "2021-02-03 18:29:51",
+    "updated_at": "2021-02-03 18:30:17",
+    "content_text": "210203_tanimoto_s.jpg\nいつもあまりサラダとか食べないけど、最近シーザーサラダハマっていてよく食べてます！\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "12840",
+        "material_title": "210203_tanimoto_s.jpg",
+        "material_file": "a335927639c40d0aed23cd117fe22e274e008a21a56c454f0077807f8487f3fe12840.jpeg"
+      }
+    ],
+    "previous_id": "15447",
+    "next_id": "15389",
+    "saved_materials": [
+      "assets/15417_12840_210203_tanimoto_s.jpg"
+    ]
+  }
+}

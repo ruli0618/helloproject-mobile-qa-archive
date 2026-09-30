@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 258,
+    "content_id": "17594",
+    "content_title": "隣のやじまん家の塀の裏#95 岸本ゆめの",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-28 00:00:00",
+    "created_at": "2022-01-31 16:03:11",
+    "updated_at": "2022-01-31 16:06:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14664",
+        "material_title": "220131_3.jpg",
+        "material_file": "d6393604e9278d10bb71d83dbd9564907ca5660899c62d72d077cb855199211914664.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14665",
+        "material_title": "220131_1.jpg",
+        "material_file": "4abfa223f77b4bc09a977b13014303f95021018eb04cf4e8208dea7d66a155dc14665.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17594",
+    "content_title": "隣のやじまん家の塀の裏#95 岸本ゆめの",
+    "content_sub_title": "",
+    "release_date": "2021-12-28 00:00:00",
+    "created_at": "2022-01-31 16:03:11",
+    "updated_at": "2022-01-31 16:06:36",
+    "content_text": "「隣のやじまん家」第95回配信中！\n\n2021年最後のゲストはつばきファクトリー岸本ゆめのさん！\n\n220131_3.jpg\n\n矢島とゲストの「その頃。と近頃。」コーナーでは、岸本さんがショートカットにしたその頃と近頃について！今の髪型もとってもお似合いですね♡\n写真集が出したい岸本さんがしていることとは？矢島さんから写真集撮影時のアドバイスも！\n\n矢島パイセンの○○チェックは\n岸本さんがつばきファクトリー公式Twitterで投稿している「プランクトーク」についてのタレコミ！\nこの動画を作ろうとしたきっかけなどお話しています♪\n矢島パイセンはアリ？それともナシ？！\nつばきファクトリー公式Twitterもぜひチェックしてみてください<img src=\"/emoji/emoji-images/456c.gif\"/>！\n\n\n今回の「VS矢島」はこちら！\n\nダジャレ対決！\n\n「動物・食べ物・場所」に関する3つのダジャレを早く言えた方が勝ち！という対決です。常にネタ帳を持ち歩いている岸本さん。一発ギャグも披露していただきましたよ！（笑）\n\n220131_1.jpg\n\n今回のハロー！ラジオ連動企画は、前回の「隣のやじまん家」から矢島さんと「宣伝会議」野中さんの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n矢島とゲストの「その頃。と近頃。」コーナー、「矢島パイセンの○○チェック」「今月のハッピーバースデー＆記念日♪」「楽曲リクエスト」「普通のお便り」も、メールお待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n今年も「隣のやじまん家」へのたくさんのお便りありがとうございました。\n2022年もみなさまからのメールお待ちしています<img src=\"/emoji/emoji-images/f6bd.gif\"/>\n\n2022年最初の配信はなんとハロプロOGの宮本佳林さん！\nよいお年をお過ごしください！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14664",
+        "material_title": "220131_3.jpg",
+        "material_file": "81ce5614d0bc2d73237e95313a41499d410caa37c938593acf1457e14d24169014664.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14665",
+        "material_title": "220131_1.jpg",
+        "material_file": "6bfb79e2899e788b277361cadf42b086f2563004200a43460e94659d49e37e5614665.jpeg"
+      }
+    ],
+    "previous_id": "17426",
+    "next_id": "17392",
+    "saved_materials": [
+      "assets/17594_14664_220131_3.jpg",
+      "assets/17594_14665_220131_1.jpg"
+    ]
+  }
+}

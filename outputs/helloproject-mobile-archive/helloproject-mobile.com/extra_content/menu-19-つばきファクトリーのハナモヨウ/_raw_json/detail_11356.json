@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 51,
+    "content_id": "11356",
+    "content_title": "大仏さま",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-05-14 11:51:00",
+    "created_at": "2019-05-14 11:52:03",
+    "updated_at": "2019-05-14 11:52:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9732",
+        "material_title": "0514_ono_s.jpg",
+        "material_file": "3597c1d08c1c0101031346246be2750251bcea9dd5dffdb70dab277b69b24aa39732.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11356",
+    "content_title": "大仏さま",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-05-14 11:51:00",
+    "created_at": "2019-05-14 11:52:03",
+    "updated_at": "2019-05-14 11:52:03",
+    "content_text": "0514_ono_s.jpg\r\nこの前、\r\n大仏さまに会いに行ったら\r\n綺麗なお花を見つけました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nピンクで可愛い〜\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9732",
+        "material_title": "0514_ono_s.jpg",
+        "material_file": "5e9633e6e9e048ffedb05ebcb109708ac803e74c66a2ab8e253661b1d0c560ee9732.jpeg"
+      }
+    ],
+    "previous_id": "11361",
+    "next_id": "11341",
+    "saved_materials": [
+      "assets/11356_9732_0514_ono_s.jpg"
+    ]
+  }
+}

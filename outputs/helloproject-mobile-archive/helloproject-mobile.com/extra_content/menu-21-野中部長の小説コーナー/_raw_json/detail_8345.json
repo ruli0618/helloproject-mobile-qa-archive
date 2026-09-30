@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "8345",
+    "content_title": "ぶたこ",
+    "content_sub_title": "",
+    "category_id": "80",
+    "release_date": "2018-01-10 18:22:00",
+    "created_at": "2018-01-10 18:23:03",
+    "updated_at": "2018-01-10 18:23:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": 0,
+    "content_id": "8345",
+    "content_title": "ぶたこ",
+    "content_sub_title": "",
+    "release_date": "2018-01-10 18:22:00",
+    "created_at": "2018-01-10 18:23:03",
+    "updated_at": "2018-01-10 18:23:55",
+    "content_text": "並ぶこと3時間…。\r\nまだまだこぶたの行列は続く…。\r\nそして行列に並んでいるうちに、\r\nこぶたの内の一人と友だちになった。\r\n彼女の名前はぶたこさん。\r\nなんと、ぶたこさんもハロモバに入っているという。\r\n一緒にハロー！プロジェクトの曲を口ずさんだり、ハロモバについてお話をしていたら、あっという間に時間が過ぎていった。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8366",
+    "next_id": "8269",
+    "saved_materials": []
+  }
+}

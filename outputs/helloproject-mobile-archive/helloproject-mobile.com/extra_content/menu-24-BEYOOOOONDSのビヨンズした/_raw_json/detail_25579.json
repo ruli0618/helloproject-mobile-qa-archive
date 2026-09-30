@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 58,
+    "content_id": "25579",
+    "content_title": "カラフル",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2026-01-19 10:00:00",
+    "created_at": "2026-01-13 21:30:00",
+    "updated_at": "2026-01-13 21:30:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20921",
+        "material_title": "0119_eguchi_s.jpg",
+        "material_file": "c27fd003a91c886f805e5b7c2b8d48153d9683062a81b2eb7c7e93a04c1ee2ea20921.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25579",
+    "content_title": "カラフル",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2026-01-19 10:00:00",
+    "created_at": "2026-01-13 21:30:00",
+    "updated_at": "2026-01-13 21:30:00",
+    "content_text": "0119_eguchi_s.jpg\r\n普段はなかなか着ない色の衣装！カラフルでとっても可愛い！\r\n\r\n【49周目お題：色】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "20921",
+        "material_title": "0119_eguchi_s.jpg",
+        "material_file": "6e002501fbb7549a1be88a0c1b5a3f7eb95f6f890637d4596a87e3437bcf021f20921.jpeg"
+      }
+    ],
+    "previous_id": "25581",
+    "next_id": "25578",
+    "saved_materials": [
+      "assets/25579_20921_0119_eguchi_s.jpg"
+    ]
+  }
+}

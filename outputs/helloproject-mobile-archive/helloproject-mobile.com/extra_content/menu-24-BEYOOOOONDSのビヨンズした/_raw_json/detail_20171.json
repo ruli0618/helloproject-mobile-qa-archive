@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 254,
+    "content_id": "20171",
+    "content_title": "やっぱり海が好きなんよ",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2023-06-12 10:00:00",
+    "created_at": "2023-05-10 21:27:50",
+    "updated_at": "2023-05-10 21:27:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16682",
+        "material_title": "0612_okamura_s.jpg",
+        "material_file": "455588f0c10b4129d9103c5a07cc77ef31c8ada2f01d989888c7cdc5ad46e11e16682.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20171",
+    "content_title": "やっぱり海が好きなんよ",
+    "content_sub_title": "岡村美波",
+    "release_date": "2023-06-12 10:00:00",
+    "created_at": "2023-05-10 21:27:50",
+    "updated_at": "2023-05-10 21:27:50",
+    "content_text": "0612_okamura_s.jpg\r\n撮影で行った沖縄の海と空が美しすぎました♡\r\n\r\n【26周目お題：美しい】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16682",
+        "material_title": "0612_okamura_s.jpg",
+        "material_file": "87ebefba97a4a4799a8593e40b1e3889997de77005742fa824833532e15870c116682.jpeg"
+      }
+    ],
+    "previous_id": "20172",
+    "next_id": "20169",
+    "saved_materials": [
+      "assets/20171_16682_0612_okamura_s.jpg"
+    ]
+  }
+}

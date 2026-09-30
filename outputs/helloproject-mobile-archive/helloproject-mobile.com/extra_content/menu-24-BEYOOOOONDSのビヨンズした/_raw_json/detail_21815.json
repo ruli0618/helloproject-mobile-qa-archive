@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 200,
+    "content_id": "21815",
+    "content_title": "みいここデート",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2024-03-20 10:00:00",
+    "created_at": "2024-02-28 12:08:42",
+    "updated_at": "2024-02-28 12:08:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17920",
+        "material_title": "0320_okamura_s.jpg",
+        "material_file": "2e483d010216ae02f4910f50ededbd7688e446dd72b015e90540ff79525e9f4617920.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21815",
+    "content_title": "みいここデート",
+    "content_sub_title": "岡村美波",
+    "release_date": "2024-03-20 10:00:00",
+    "created_at": "2024-02-28 12:08:42",
+    "updated_at": "2024-02-28 12:08:42",
+    "content_text": "0320_okamura_s.jpg\r\nメンバーと食べるご飯が1番美味しいね♡\r\n\r\n【32周目お題：食事】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17920",
+        "material_title": "0320_okamura_s.jpg",
+        "material_file": "f477bb4cc9ea3aa0bec1a390114fcde1baa87064f0bd020012f7f5055c05b35417920.jpeg"
+      }
+    ],
+    "previous_id": "21816",
+    "next_id": "21813",
+    "saved_materials": [
+      "assets/21815_17920_0320_okamura_s.jpg"
+    ]
+  }
+}

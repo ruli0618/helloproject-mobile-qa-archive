@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 93,
+    "content_id": "13790",
+    "content_title": "料理もできるようになる",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2020-05-18 18:05:00",
+    "created_at": "2020-05-18 18:08:49",
+    "updated_at": "2020-05-18 18:08:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "11522",
+        "material_title": "0518_nonaka_ura_s.jpg",
+        "material_file": "9a018638cdcd4437dd495f56eecd2812f6df0768f34c67b76ae0a8f6dd2bc92d11522.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "13790",
+    "content_title": "料理もできるようになる",
+    "content_sub_title": "",
+    "release_date": "2020-05-18 18:05:00",
+    "created_at": "2020-05-18 18:08:49",
+    "updated_at": "2020-05-18 18:08:49",
+    "content_text": "超プライベートなことばかり書いていますが、たのしんでいただけていますでしょうか？<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n最近は料理やらお菓子作りやらがんばっています<img src=\"/emoji/emoji-images/4f5e.gif\"/>ドーナツが作れるようになった報告をここでさせていただきます<img src=\"/emoji/emoji-images/f479.gif\"/>日々成長！笑\r\n\r\n0518_nonaka_ura_s.jpg\r\n時間ある分上手く使いたいよなあ！\r\n\r\n明日は初のリモート会議(ラジオ)です、何だか緊張しちゃうな<img src=\"/emoji/emoji-images/f39e.gif\"/>結構ドキドキしてるのが本音笑\r\n\r\nまたね<img src=\"/emoji/emoji-images/f7f2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "c0cbdb0d8a3182c862ddb34a2b3e4484",
+        "material_id": "11522",
+        "material_title": "0518_nonaka_ura_s.jpg",
+        "material_file": "1c7100a7c1d1d47a926ae7dc21c9402740fa9bf77f64ff1c97f600d0bfaf1c2a11522.jpeg"
+      }
+    ],
+    "previous_id": "14225",
+    "next_id": "13764",
+    "saved_materials": [
+      "assets/13790_11522_0518_nonaka_ura_s.jpg"
+    ]
+  }
+}

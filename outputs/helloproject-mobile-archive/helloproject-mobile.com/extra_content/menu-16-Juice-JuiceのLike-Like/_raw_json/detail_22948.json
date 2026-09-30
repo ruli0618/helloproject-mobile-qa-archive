@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 134,
+    "content_id": "22948",
+    "content_title": "逆光",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-09-24 13:50:00",
+    "created_at": "2024-09-24 13:56:07",
+    "updated_at": "2024-09-24 13:56:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18804",
+        "material_title": "0924_dambara_s.jpg",
+        "material_file": "dbe741cccf4fafacccc1dc2ca434396614fbe30c32f33e09f26231a1f57c957b18804.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22948",
+    "content_title": "逆光",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-09-24 13:50:00",
+    "created_at": "2024-09-24 13:56:07",
+    "updated_at": "2024-09-24 13:56:07",
+    "content_text": "0924_dambara_s.jpg\r\n晴れ女なのでお出かけする日は\r\nだいたい晴れます！逆光にもなります",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18804",
+        "material_title": "0924_dambara_s.jpg",
+        "material_file": "a7bdcee0549c203c8688af15af6f3213d8c66284dec72972bb7b3e58f4704c6c18804.jpeg"
+      }
+    ],
+    "previous_id": "22992",
+    "next_id": "22898",
+    "saved_materials": [
+      "assets/22948_18804_0924_dambara_s.jpg"
+    ]
+  }
+}

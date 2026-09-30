@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 615,
+    "content_id": "6227",
+    "content_title": "メジャーデビュー！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-02-21 22:08:00",
+    "created_at": "2017-02-21 22:07:00",
+    "updated_at": "2017-02-21 22:08:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6227",
+    "content_title": "メジャーデビュー！",
+    "content_sub_title": "",
+    "release_date": "2017-02-21 22:08:00",
+    "created_at": "2017-02-21 22:07:00",
+    "updated_at": "2017-02-21 22:08:26",
+    "content_text": "こんばんは。ハロ！モバスタッフ番号2番です。\r\nとうとう明日は、つばきファクトリーのメジャーデビュー日ですね！\r\n\r\n皆さんは、もうデビューシングルの3曲はチェックされましたか？\r\n\r\nちょっとまだ情報を追えていない…というあなたは、つばきファクトリーのシングル特設サイトがおすすめです！\r\n\r\nリリース情報からMV、イベント、メディア、コラボ、特典情報etc…\r\nつばきファクトリーの最新情報がチェック出来ちゃいます！\r\n\r\nインタビューページには、それぞれのアイドルを目指すきっかけや各メンバー紹介等、ここでしか知れない情報も盛り沢山！\r\n\r\nそして現在全国各地に、つばきファクトリーのポスターが掲出中！\r\nポスターマップページに各掲出場所がGoogleMAPで表示されていますので、ぜひ一度ご覧になって下さいね。\r\n\r\n<a href=\"http://r.helloproject.com/tsubakifactory/debut/\" target=\"_blank\">★特設サイトはこちら！</a>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "6231",
+    "next_id": "6206",
+    "saved_materials": []
+  }
+}

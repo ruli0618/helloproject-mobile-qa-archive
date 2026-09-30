@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 193,
+    "content_id": "22016",
+    "content_title": "行ってみたい！",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2024-04-22 10:00:00",
+    "created_at": "2024-04-08 18:06:03",
+    "updated_at": "2024-04-08 18:06:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18073",
+        "material_title": "0422_eguchi_s.jpg",
+        "material_file": "dcc75bb0893991bb06dc6e3b2340692fe9f0d7b5faa5f9213698b0d1122d3a0f18073.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22016",
+    "content_title": "行ってみたい！",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2024-04-22 10:00:00",
+    "created_at": "2024-04-08 18:06:03",
+    "updated_at": "2024-04-08 18:06:03",
+    "content_text": "0422_eguchi_s.jpg\r\nビヨフォニックをしてから、最近はオーケストラのコンサートが気になっています！！！\r\n\r\n【33周目お題：気になる】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18073",
+        "material_title": "0422_eguchi_s.jpg",
+        "material_file": "d7cea3a4ca14d30d48c96b4d9129a50f93f5aa5c19d07b0fac5e37f1ee2b097e18073.jpeg"
+      }
+    ],
+    "previous_id": "22017",
+    "next_id": "22015",
+    "saved_materials": [
+      "assets/22016_18073_0422_eguchi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 497,
+    "content_id": "9394",
+    "content_title": "工藤の家の屋根裏部屋#27～梁川奈々美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-07-04 20:03:00",
+    "created_at": "2018-07-04 19:58:17",
+    "updated_at": "2018-07-04 20:03:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8235",
+        "material_title": "180704_01_s.jpg",
+        "material_file": "5e34214bd6f5213bc76af0b1962d8a8ff65bb09eff83e69fee7e1fc8c767ec828235.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8236",
+        "material_title": "180704_02_s.jpg",
+        "material_file": "7501a865c6cc48ea9ca72ec32d9186ecae7ecd41acc3dc1d622913a3f89afc708236.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9394",
+    "content_title": "工藤の家の屋根裏部屋#27～梁川奈々美～",
+    "content_sub_title": "",
+    "release_date": "2018-07-04 20:03:00",
+    "created_at": "2018-07-04 19:58:17",
+    "updated_at": "2018-07-04 20:03:31",
+    "content_text": "「ふくむらの部屋」27回目の配信開始しました！\nチェックしていただけましたか？\n\n\n今回のゲストはハロ!モバ宣伝部秘書\nJuice=Juice / カントリー・ガールズの梁川奈々美さんが登場！\n\n180704_01_s.jpg\n\nJuice=Juice / カントリー・ガールズ兼任1年を迎えた梁川さん\nハロプロエッグ(研修生)加入から10年を迎えた譜久村さん\n\nそれぞれの心境も語っています！\n\nそして、<a href=\"https://www.elineupmall.com/c671/c181/c197/c201/juicejuiceyanaming/\" target=\"_blank\">梁川奈々美写真集「Yanaming」</a>鑑賞会！！\n\nさらに今回はJuice=Juice金澤朋子さんの\n<a href=\"https://www.elineupmall.com/c671/c181/c197/c201/juicejuicetomorrow/\" target=\"_blank\">ビジュアルフォトブック「tomorrow」</a>も鑑賞！！\n\nページをめくる度に大絶叫！！\n\n持っている方は是非一緒に見ながら聞いたください\n\n\nまだ持っていない方もきっと欲しくなるはず！\n\n\n180704_02_s.jpg\n\n新コーナー「みずきのメドレーセレクション」では\n「夏フェスで聴きたいメドレー」をテーマに\nふくむら賞とやながわ賞をそれぞれ選出！！\n\n次回のテーマは梁川さん提案の\n「落ち込んでいる時に聴きたいメドレー」がテーマです！\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！\n「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8235",
+        "material_title": "180704_01_s.jpg",
+        "material_file": "9e7c32eba1138c1552ed2e162929205ffe9d14ad5839f7bc4671477d5765d0528235.jpeg"
+      },
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8236",
+        "material_title": "180704_02_s.jpg",
+        "material_file": "a28a9c09fa44b64f4ca7579572e30ebe7159603014ff1ce52c6a0370141c50718236.jpeg"
+      }
+    ],
+    "previous_id": "9489",
+    "next_id": "9391",
+    "saved_materials": [
+      "assets/9394_8235_180704_01_s.jpg",
+      "assets/9394_8236_180704_02_s.jpg"
+    ]
+  }
+}

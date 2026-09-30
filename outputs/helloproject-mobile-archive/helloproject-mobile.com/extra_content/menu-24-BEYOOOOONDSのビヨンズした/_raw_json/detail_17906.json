@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 328,
+    "content_id": "17906",
+    "content_title": "アニマル",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2022-04-20 10:00:00",
+    "created_at": "2022-04-01 22:25:02",
+    "updated_at": "2022-04-01 22:25:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14983",
+        "material_title": "0420_maeda_s.jpg",
+        "material_file": "64a19297c7e71c711e13c5f7006d4661a1cdcebd50da6358190ee9461fd25cfd14983.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17906",
+    "content_title": "アニマル",
+    "content_sub_title": "前田こころ",
+    "release_date": "2022-04-20 10:00:00",
+    "created_at": "2022-04-01 22:25:02",
+    "updated_at": "2022-04-01 22:25:02",
+    "content_text": "0420_maeda_s.jpg\r\n春ツアーで着ている新衣装のれいなちゃん写真！みんな似合っててかっこいいんだ～！ˆ ˆ\r\n\r\n【18周目お題：かっこいい】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14983",
+        "material_title": "0420_maeda_s.jpg",
+        "material_file": "738a52db201b59ea04d9fad9c9cdc87b5331c1e675758b167bba25a9e1b1616814983.jpeg"
+      }
+    ],
+    "previous_id": "17907",
+    "next_id": "17905",
+    "saved_materials": [
+      "assets/17906_14983_0420_maeda_s.jpg"
+    ]
+  }
+}

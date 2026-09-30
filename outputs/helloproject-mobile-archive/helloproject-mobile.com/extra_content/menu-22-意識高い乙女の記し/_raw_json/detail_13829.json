@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 180,
+    "content_id": "13829",
+    "content_title": "ヘアピン",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2020-05-22 12:00:00",
+    "created_at": "2020-05-22 12:06:24",
+    "updated_at": "2020-05-22 12:06:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11561",
+        "material_title": "0522_onoda_s.jpg",
+        "material_file": "f0e6daf6a1d88f430e02b6394a14e3c5cb38adc0d4447074e4a566cd5e44963911561.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13829",
+    "content_title": "ヘアピン",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2020-05-22 12:00:00",
+    "created_at": "2020-05-22 12:06:24",
+    "updated_at": "2020-05-22 12:06:24",
+    "content_text": "空腹状態が好きな、さおりです♪\r\n\r\n最近、ヘアピンをつけるのにハマっています！！！！！！\r\n\r\n今まで、ヘアアレンジにあまり興味がなかったのですが、、、、\r\n　\r\nヘアピンでヘアアレンジするのが好きになりました！\r\n\r\n女子力アップの第一歩！\r\n\r\nがんばるぞいっ。\r\n\r\n0522_onoda_s.jpg\r\n今日も、さおりの自撮りです♪\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11561",
+        "material_title": "0522_onoda_s.jpg",
+        "material_file": "cfa2b83c66b1bec90d1d4bcf72245bcba2c4c6a9a1f3121255eb6082d21c9b2f11561.jpeg"
+      }
+    ],
+    "previous_id": "13866",
+    "next_id": "13792",
+    "saved_materials": [
+      "assets/13829_11561_0522_onoda_s.jpg"
+    ]
+  }
+}

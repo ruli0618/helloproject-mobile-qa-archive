@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 316,
+    "content_id": "19141",
+    "content_title": "料理",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-11-22 10:00:00",
+    "created_at": "2022-11-15 14:52:42",
+    "updated_at": "2022-11-15 14:52:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15896",
+        "material_title": "1122_arisawa_s.jpg",
+        "material_file": "a28fe5737043786187f1e68f5edea830ed0c7f0f3803080648401e897b2eaa1715896.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19141",
+    "content_title": "料理",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-11-22 10:00:00",
+    "created_at": "2022-11-15 14:52:42",
+    "updated_at": "2022-11-15 14:52:42",
+    "content_text": "今日は自分でご飯を作りました。\r\n\r\n爆発しない系でいこうと思って、豆腐に納豆とオクラと卵をぶっかけて食べてみました。\r\n\r\n簡単で美味しかったです。\r\n\r\nもしかしたら「私料理上手かも」と錯覚してしまうぐらい美味しかったですよ！笑\r\nインスタントの味噌汁も作れるのでその中に豆腐を入れてみたり、、\r\n\r\n最近頑張ってるのよ、うふ\r\n\r\nメンバーに食べてもらえるぐらい成長させたいですね！\r\n\r\n1122_arisawa_s.jpg",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "15896",
+        "material_title": "1122_arisawa_s.jpg",
+        "material_file": "aa9436a768841d13020c4cc94e96f9b4b2a2332e9767e7adc17bfc478df0f29715896.jpeg"
+      }
+    ],
+    "previous_id": "19142",
+    "next_id": "19140",
+    "saved_materials": [
+      "assets/19141_15896_1122_arisawa_s.jpg"
+    ]
+  }
+}

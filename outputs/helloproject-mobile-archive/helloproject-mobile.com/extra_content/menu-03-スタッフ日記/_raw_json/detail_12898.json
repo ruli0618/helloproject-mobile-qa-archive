@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 366,
+    "content_id": "12898",
+    "content_title": "年賀状お待たせしました！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-01-20 12:00:00",
+    "created_at": "2020-01-17 20:43:44",
+    "updated_at": "2020-01-17 20:43:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10908",
+        "material_title": "200120_s.jpg",
+        "material_file": "120fef6a9f855301690ae78e7e302fae6d790b2d974a16909800191df144260b10908.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12898",
+    "content_title": "年賀状お待たせしました！",
+    "content_sub_title": "",
+    "release_date": "2020-01-20 12:00:00",
+    "created_at": "2020-01-17 20:43:44",
+    "updated_at": "2020-01-17 20:43:44",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n年始特設ページでは、年賀状プレゼントに沢山のご応募ありがとうございました！\r\n\r\n大変お待たせしましたが、\r\n本日、当選者の皆さん宛にハガキを投函して参りました。\r\n\r\n早ければ明日にでも、皆さんの元へ届き始めるかと思います。\r\n\r\nぜひ、ご帰宅の際はポストを覗いてみてくださいね♪\r\n\r\n少し遅めの年賀状、お楽しみに！\r\n\r\n200120_s.jpg",
+    "materials": [
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "10908",
+        "material_title": "200120_s.jpg",
+        "material_file": "051615644425ac1158632e922030ca6d4a91ba58d56739a0c11a7b43aa4de84010908.jpeg"
+      }
+    ],
+    "previous_id": "12910",
+    "next_id": "12891",
+    "saved_materials": [
+      "assets/12898_10908_200120_s.jpg"
+    ]
+  }
+}

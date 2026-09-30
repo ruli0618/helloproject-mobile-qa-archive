@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 525,
+    "content_id": "14371",
+    "content_title": "ボール",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-08-27 10:00:00",
+    "created_at": "2020-08-20 23:15:17",
+    "updated_at": "2020-08-20 23:15:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11957",
+        "material_title": "0827_inoue_s.jpg",
+        "material_file": "77b8fc39b0330cc323add8ad271c7afe9d627901e36d98fac406eb89b304490311957.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14371",
+    "content_title": "ボール",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-08-27 10:00:00",
+    "created_at": "2020-08-20 23:15:17",
+    "updated_at": "2020-08-20 23:15:17",
+    "content_text": "0827_inoue_s.jpg\r\n最近の小夏のお気に入り遊び道具は、テニスボールです！\r\n繊維が鼻についてる〜",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "11957",
+        "material_title": "0827_inoue_s.jpg",
+        "material_file": "bd5c60d347ba14fb7ff214e2b868d90df33e6e6e56b64358372c8968d68133e911957.jpeg"
+      }
+    ],
+    "previous_id": "14372",
+    "next_id": "14370",
+    "saved_materials": [
+      "assets/14371_11957_0827_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 33,
+    "content_id": "18877",
+    "content_title": "夜",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-10-07 10:00:00",
+    "created_at": "2022-09-23 16:45:15",
+    "updated_at": "2022-09-23 16:45:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15700",
+        "material_title": "1007_yofu_s.jpg",
+        "material_file": "1254fdef81f16fa17fac8be641ebfa118fe7ab2ecb2fbaa36a2c884d6a30a52b15700.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18877",
+    "content_title": "夜",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-10-07 10:00:00",
+    "created_at": "2022-09-23 16:45:15",
+    "updated_at": "2022-09-23 16:45:15",
+    "content_text": "1007_yofu_s.jpg\r\nよっふぅー\r\n\r\n渋谷skyで撮れた写真*\\(^o^)/*\r\n\r\n\r\nめっちゃ広くとれて\r\nお気に入りのです(^-^)\r\n\r\n本物はもっと\r\nめちゃめちゃちょー綺麗‼️\r\nだから\r\n早くまた行きたい〜（≧∇≦）",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15700",
+        "material_title": "1007_yofu_s.jpg",
+        "material_file": "8d5c481461bddcab83f7d447d1dd24f71918a9440d08fc3b194bcf5100db3c9315700.jpeg"
+      }
+    ],
+    "previous_id": "18915",
+    "next_id": "18876",
+    "saved_materials": [
+      "assets/18877_15700_1007_yofu_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 509,
+    "content_id": "14847",
+    "content_title": "ウェーブ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-11-05 15:27:00",
+    "created_at": "2020-11-05 15:28:53",
+    "updated_at": "2020-11-05 15:28:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12366",
+        "material_title": "1105_kudo_s.jpg",
+        "material_file": "02fb7ab36b8f1d2c580f489b764a2421916d307601ae41afacee873b186c0a5912366.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14847",
+    "content_title": "ウェーブ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-11-05 15:27:00",
+    "created_at": "2020-11-05 15:28:53",
+    "updated_at": "2020-11-05 15:28:53",
+    "content_text": "1105_kudo_s.jpg\r\nアイロンでウェーブを作ろうと思っていたのに、全くできず断念しました、、、\r\nでも巻き髪の方は上手くいって良かったです♪",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12366",
+        "material_title": "1105_kudo_s.jpg",
+        "material_file": "5b58ec62b1023edc95256f51c944649bc5256a96de7df326537ece5cca1081ca12366.jpeg"
+      }
+    ],
+    "previous_id": "14848",
+    "next_id": "14846",
+    "saved_materials": [
+      "assets/14847_12366_1105_kudo_s.jpg"
+    ]
+  }
+}

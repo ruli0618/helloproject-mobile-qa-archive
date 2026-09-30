@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 18,
+    "content_id": "26661",
+    "content_title": "取られる側の気持ち考えたことある？！",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2026-08-10 10:00:00",
+    "created_at": "2026-07-23 15:30:26",
+    "updated_at": "2026-07-23 15:30:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21777",
+        "material_title": "0810_kiyono_s.jpg",
+        "material_file": "9fd1e403e9b90d34b49bbbf9e14c8e6b92b2d1e1075536c8c0eae917c5e9301521777.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26661",
+    "content_title": "取られる側の気持ち考えたことある？！",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2026-08-10 10:00:00",
+    "created_at": "2026-07-23 15:30:26",
+    "updated_at": "2026-07-23 15:30:26",
+    "content_text": "0810_kiyono_s.jpg\r\n四葉画角\r\n\r\n【54周目お題：上から or 下から】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21777",
+        "material_title": "0810_kiyono_s.jpg",
+        "material_file": "c89e42719e86c42ae4847be99370659fdb0fa0803a12b01e721481632bf3727721777.jpeg"
+      }
+    ],
+    "previous_id": "26662",
+    "next_id": "26660",
+    "saved_materials": [
+      "assets/26661_21777_0810_kiyono_s.jpg"
+    ]
+  }
+}

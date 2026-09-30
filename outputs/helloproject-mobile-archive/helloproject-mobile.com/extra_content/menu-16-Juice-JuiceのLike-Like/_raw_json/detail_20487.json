@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 249,
+    "content_id": "20487",
+    "content_title": "ケーキ",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-07-18 12:30:00",
+    "created_at": "2023-07-18 12:30:50",
+    "updated_at": "2023-07-18 12:30:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16897",
+        "material_title": "0718_matsunaga_s.jpg",
+        "material_file": "a3f2601d36c6362761ebea5257329a1e476fb73d4d9de004e936a240a72da90c16897.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20487",
+    "content_title": "ケーキ",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-07-18 12:30:00",
+    "created_at": "2023-07-18 12:30:50",
+    "updated_at": "2023-07-18 12:30:50",
+    "content_text": "0718_matsunaga_s.jpg\r\nこの前、誕生日を迎えてケーキを頂いたの〜〜\r\n超美味しくて！ケーキらぶ！！",
+    "materials": [
+      {
+        "secretKey": "9ed02a745e9125ff252fa13ebc2a45fe",
+        "material_id": "16897",
+        "material_title": "0718_matsunaga_s.jpg",
+        "material_file": "4f4f532e98ccfab24d07a38f31cd8445c62f2d300cc68ec11e22056edef0448116897.jpeg"
+      }
+    ],
+    "previous_id": "20546",
+    "next_id": "20473",
+    "saved_materials": [
+      "assets/20487_16897_0718_matsunaga_s.jpg"
+    ]
+  }
+}

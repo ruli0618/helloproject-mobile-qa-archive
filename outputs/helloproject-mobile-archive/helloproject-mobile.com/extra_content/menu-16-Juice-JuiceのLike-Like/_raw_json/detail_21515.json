@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 202,
+    "content_id": "21515",
+    "content_title": "衣装",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-01-16 10:00:00",
+    "created_at": "2024-01-09 19:41:33",
+    "updated_at": "2024-01-09 19:41:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17658",
+        "material_title": "0116_dambara_s.jpg",
+        "material_file": "573da4f93d3da37e0caaf5c5fecd978d89301cc77c4a5ba70de002bc92e0f5be17658.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21515",
+    "content_title": "衣装",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-01-16 10:00:00",
+    "created_at": "2024-01-09 19:41:33",
+    "updated_at": "2024-01-09 19:41:33",
+    "content_text": "0116_dambara_s.jpg\r\n大きなリボンとキラキラの装飾たち、全部お気に入りです<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17658",
+        "material_title": "0116_dambara_s.jpg",
+        "material_file": "4e16efc8063f14a2c17db1f2c98c0103886fdda52f6c18872c1a0563e142b54417658.jpeg"
+      }
+    ],
+    "previous_id": "21516",
+    "next_id": "21514",
+    "saved_materials": [
+      "assets/21515_17658_0116_dambara_s.jpg"
+    ]
+  }
+}

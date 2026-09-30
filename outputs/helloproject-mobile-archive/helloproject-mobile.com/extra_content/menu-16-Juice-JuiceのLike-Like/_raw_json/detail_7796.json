@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 778,
+    "content_id": "7796",
+    "content_title": "電話ボックス／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-10-21 11:00:00",
+    "created_at": "2017-10-18 18:19:40",
+    "updated_at": "2017-10-18 18:34:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6856",
+        "material_title": "6781416609812_s.jpg",
+        "material_file": "8bbd28e08424bc50d8f923a941d51b0dacbc7a14a74a71b8ff3f8f2bf151589d6856.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7796",
+    "content_title": "電話ボックス／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-10-21 11:00:00",
+    "created_at": "2017-10-18 18:19:40",
+    "updated_at": "2017-10-18 18:34:25",
+    "content_text": "6781416609812_s.jpg\r\nロンドンでの1枚<img src=\"/emoji/emoji-images/4728.gif\"/>\r\n赤い電話ボックスがいろんなところに置いてありました！",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6856",
+        "material_title": "6781416609812_s.jpg",
+        "material_file": "15c2d30343967d9054a58f31c8711409492d5681378ab2e95e7ae41fb335993f6856.jpeg"
+      }
+    ],
+    "previous_id": "7650",
+    "next_id": "7654",
+    "saved_materials": [
+      "assets/7796_6856_6781416609812_s.jpg"
+    ]
+  }
+}

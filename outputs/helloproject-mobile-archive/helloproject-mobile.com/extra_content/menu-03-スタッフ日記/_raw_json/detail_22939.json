@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 95,
+    "content_id": "22939",
+    "content_title": "工藤の家の軒下#15～岡村ほまれ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-07-02 00:00:00",
+    "created_at": "2024-09-21 06:10:49",
+    "updated_at": "2024-09-21 06:41:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18789",
+        "material_title": "240702_s.jpg",
+        "material_file": "51f37f17275d61937ef1e90bba9f5a19d3d1234cdb9043c6b23a44f497b0de0518789.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22939",
+    "content_title": "工藤の家の軒下#15～岡村ほまれ～",
+    "content_sub_title": "",
+    "release_date": "2024-07-02 00:00:00",
+    "created_at": "2024-09-21 06:10:49",
+    "updated_at": "2024-09-21 06:41:35",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第15回は、モーニング娘。'24岡村ほまれさんがゲストに来てくれました！\r\n\r\n240702_s.jpg\r\n\r\n・きつねダンス\r\n・MBTI\r\n・ツーマンライブ\r\n・夏ハロコン\r\n・疲労回復ルーティン\r\n・お互いのグループの好きな曲\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・勝手なイメージ\r\n・アイス\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\n整理整頓、寝落ちしないことについて紹介しました！\r\n\r\n後半では、\r\n・GOODM!X\r\n・推し\r\n・2人イベントのコンセプト\r\n・気になるハロプロ研修生\r\n・おすすめお肉料理\r\n・野外ステージの魅力\r\n・米村姫良々と仲良くなったきっかけ\r\n・野球場でのライブ\r\nについてトーク！\r\n\r\n次回は、アンジュルム為永幸音さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "18789",
+        "material_title": "240702_s.jpg",
+        "material_file": "7943ab365de48177c7261cfa87f17773788cddc016237a8c3335fd8c182123fe18789.jpeg"
+      }
+    ],
+    "previous_id": "22940",
+    "next_id": "23386",
+    "saved_materials": [
+      "assets/22939_18789_240702_s.jpg"
+    ]
+  }
+}

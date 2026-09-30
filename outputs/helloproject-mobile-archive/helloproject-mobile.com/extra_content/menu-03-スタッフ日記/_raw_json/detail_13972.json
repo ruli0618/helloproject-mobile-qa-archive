@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 338,
+    "content_id": "13972",
+    "content_title": "隣のやじまん家の塀の裏#72 野中美希",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-06-16 17:50:00",
+    "created_at": "2020-06-16 17:50:37",
+    "updated_at": "2020-07-20 17:08:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11651",
+        "material_title": "200616_1.jpg",
+        "material_file": "b3e68f09badcd01ad1c606c34450635de17f828a545e3e2ed8b87e4b1f293a6a11651.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11652",
+        "material_title": "200616_2.jpg",
+        "material_file": "d4a4243418688f671675be01c5863b0b9c86531e65459fd8c1460704b178c0c811652.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13972",
+    "content_title": "隣のやじまん家の塀の裏#72 野中美希",
+    "content_sub_title": "",
+    "release_date": "2020-06-16 17:50:00",
+    "created_at": "2020-06-16 17:50:37",
+    "updated_at": "2020-07-20 17:08:58",
+    "content_text": "「隣のやじまん家」第72回 前後編配信中です！\n\n\n今回のゲストはハロモバ宣伝部部長・モーニング娘。'20野中美希さん！！\n約1年ぶりの出演！お久しぶりでした♡\n\n意外な共通点の多いおふたりで\n塩と砂糖を間違えたり、宇宙の存在意義とは？という哲学的なお話まで！笑\n\n後輩に語り継がれる矢島さんの伝説とは？\n野中さんがおうち時間にしている筋トレについても！\nお聞き逃しなく！\n\n\n200616_2.jpg\n\n\n\n\n「矢島パイセンの○○チェック」では、\n野中さんの手料理についてのタレコミ！\n矢島パイセンの判断は、アリ？それともナシ？\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①マジカルバナナ<img src=\"/emoji/emoji-images/f9e9.gif\"/>\n\n久しぶりに王道なゲームに挑戦しました！\n矢島さんの独特な言葉選びにびっくりでした！笑\nどちらが勝利したのかはぜひ配信をチェックしてくださいね<img src=\"/emoji/emoji-images/f37e.gif\"/>\n\n\n\n\n\n今回のハロー！ラジオ連動企画は、宣伝会議から野中さん・前田さんからの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n200616_1.jpg\n\n次回のテーマトークのお題は\n「あなたが知っている豆知識」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはJuice=Juice金澤朋子さんが登場！\n6/23(火)～前編・7/7(火)～後編の配信スタート！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11651",
+        "material_title": "200616_1.jpg",
+        "material_file": "6344a9a7ce6414ce8242d044056ef27a5db9e7131dc10b16e669f062d033427511651.jpeg"
+      },
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11652",
+        "material_title": "200616_2.jpg",
+        "material_file": "b8ae7030f50dc2bc209052001cb1cdf353c7ef0ea529f3f8d079113b9c172d9a11652.jpeg"
+      }
+    ],
+    "previous_id": "13893",
+    "next_id": "13892",
+    "saved_materials": [
+      "assets/13972_11651_200616_1.jpg",
+      "assets/13972_11652_200616_2.jpg"
+    ]
+  }
+}

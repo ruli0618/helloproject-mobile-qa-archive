@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 247,
+    "content_id": "20482",
+    "content_title": "さやとゆは",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2023-07-17 10:00:00",
+    "created_at": "2023-07-13 13:32:55",
+    "updated_at": "2023-07-13 13:32:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16893",
+        "material_title": "0717_eguchi_s.jpg",
+        "material_file": "f01de6a4ed2a9d224321d0af19beac244454820ccf29fb26c176ce7474aedc7916893.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20482",
+    "content_title": "さやとゆは",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2023-07-17 10:00:00",
+    "created_at": "2023-07-13 13:32:55",
+    "updated_at": "2023-07-13 13:32:55",
+    "content_text": "0717_eguchi_s.jpg\r\n6年前、研修生の頃に撮ったゆはさや写真です！\r\n\r\n【27周目お題：私と○○】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16893",
+        "material_title": "0717_eguchi_s.jpg",
+        "material_file": "9d1c43ae87c4b1bb69901fb3d76a797a6413059d512283da2d6f02113639a2e516893.jpeg"
+      }
+    ],
+    "previous_id": "20549",
+    "next_id": "20481",
+    "saved_materials": [
+      "assets/20482_16893_0717_eguchi_s.jpg"
+    ]
+  }
+}

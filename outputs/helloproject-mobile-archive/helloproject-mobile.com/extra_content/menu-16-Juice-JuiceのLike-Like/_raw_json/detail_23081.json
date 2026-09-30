@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 127,
+    "content_id": "23081",
+    "content_title": "10♡",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2024-10-17 10:00:00",
+    "created_at": "2024-10-15 10:50:23",
+    "updated_at": "2024-10-15 10:50:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18901",
+        "material_title": "1017_endo_s.jpg",
+        "material_file": "b68378eb4c9aa7de1b6187971a7a89d25b67330238812ded2fad58db3cba4f2818901.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23081",
+    "content_title": "10♡",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2024-10-17 10:00:00",
+    "created_at": "2024-10-15 10:50:23",
+    "updated_at": "2024-10-15 10:50:23",
+    "content_text": "1017_endo_s.jpg\r\n遠藤彩加里です♪\r\n10月10日はJuice=Juiceの日でした〜！！！\r\nメンバーみんなで考えた企画やセットリストでとっても楽しくて、まさにJuice=Juiceの日って感じでした♡\r\n\r\nJuice=Juice family最高！",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "18901",
+        "material_title": "1017_endo_s.jpg",
+        "material_file": "76643955099076d64dc67a613fae4bd8376c9b5f7639f79b81c500bb2bd85cb618901.jpeg"
+      }
+    ],
+    "previous_id": "23082",
+    "next_id": "23080",
+    "saved_materials": [
+      "assets/23081_18901_1017_endo_s.jpg"
+    ]
+  }
+}

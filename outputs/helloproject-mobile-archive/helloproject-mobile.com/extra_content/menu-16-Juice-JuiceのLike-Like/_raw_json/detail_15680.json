@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 477,
+    "content_id": "15680",
+    "content_title": "ファッションヘアメイク",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-03-25 19:33:00",
+    "created_at": "2021-03-25 16:02:24",
+    "updated_at": "2021-03-25 19:34:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13047",
+        "material_title": "210325_kudo_s.jpg",
+        "material_file": "7fd59eb6f6360daff615d95df939bbbfa24303ce565b55798fcf5e62b9c0a7d813047.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15680",
+    "content_title": "ファッションヘアメイク",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-03-25 19:33:00",
+    "created_at": "2021-03-25 16:02:24",
+    "updated_at": "2021-03-25 19:34:35",
+    "content_text": "210325_kudo_s.jpg\n今日の写真はもう全部に注目して頂きたいのですが、全部はお話できないので、、、\nトップスに注目して頂きたいです！\nトップスは段原さんのお下がりなんです！\n今日段原さんに着ているところをお見せすることが出来て嬉しかったですヾ(●´∇｀●)ﾉ\nストレートヘアも段原さんを意識しましたが足元にも及びませんっ(笑)",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "13047",
+        "material_title": "210325_kudo_s.jpg",
+        "material_file": "130ec13f08350b2f9d871d525906fcd4ae3514617650f5880464f116f385442613047.jpeg"
+      }
+    ],
+    "previous_id": "15681",
+    "next_id": "15654",
+    "saved_materials": [
+      "assets/15680_13047_210325_kudo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 412,
+    "content_id": "17278",
+    "content_title": "フルーツだいすき！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-12-16 10:00:00",
+    "created_at": "2021-12-09 23:39:29",
+    "updated_at": "2021-12-09 23:39:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14362",
+        "material_title": "211216_inaba_s.jpg",
+        "material_file": "49defb6c63283e2744ad6aeab7bfce568d779b67386762d30af6bd73ddce130e14362.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17278",
+    "content_title": "フルーツだいすき！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-12-16 10:00:00",
+    "created_at": "2021-12-09 23:39:29",
+    "updated_at": "2021-12-09 23:39:29",
+    "content_text": "211216_inaba_s.jpg\r\nやっほー！いつも食べ物紹介をしているのですが最近全然自炊をしていなくて！(していてもお見せできるようなものじゃなさすぎて笑)\r\n何がいいかなぁって写真フォルダを見ていたらクリスマスイベントの時に頂いたフルーツゼリー？がでてきました♡フルーツとゼリーと下にはなんか甘いプリンみたいなのが入ってて！美味しかったです♪甘いものは必要ですよねっ☆*°",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14362",
+        "material_title": "211216_inaba_s.jpg",
+        "material_file": "d52cc15dad9315fc510fd3e6e3d26be0b95cca1443c4c08f97eeda4e5c6f45a414362.jpeg"
+      }
+    ],
+    "previous_id": "17342",
+    "next_id": "17277",
+    "saved_materials": [
+      "assets/17278_14362_211216_inaba_s.jpg"
+    ]
+  }
+}

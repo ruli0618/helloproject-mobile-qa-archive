@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 165,
+    "content_id": "23367",
+    "content_title": "宣伝会議#83",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-02-23 00:00:00",
+    "created_at": "2024-11-28 05:02:38",
+    "updated_at": "2024-11-28 05:02:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19164",
+        "material_title": "83.jpg",
+        "material_file": "e6e3b9af880970001f718c62b39a33ac590671f3d2edaaa76f1cebf90e5b96f219164.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19165",
+        "material_title": "83_01_s.jpg",
+        "material_file": "54cd5a1516158fd0dcea4dbfe2ed71efb843cf236c679fc50daccf04ff50ffb919165.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23367",
+    "content_title": "宣伝会議#83",
+    "content_sub_title": "",
+    "release_date": "2023-02-23 00:00:00",
+    "created_at": "2024-11-28 05:02:38",
+    "updated_at": "2024-11-28 05:02:38",
+    "content_text": "宣伝会議第83回は、川村文乃副部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n83_01_s.jpg\r\n\r\n前編では、\r\n・Instagramのアドバイス\r\n・冬乗り越えるためやっていること\r\n・妄想動画\r\n・楽屋の過ごし方\r\n・ヘアスタイル\r\n・お互いのグループでやってみたい曲\r\n・デジタルでの書き物\r\nについてトーク！\r\n\r\n後編では、\r\n・川村前田デート\r\n・部員でカフェ\r\n・印象的なQ＆A\r\n・自グループの布教動画\r\n・人の顔と名前を覚えるためすること\r\n・川村西田デート\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「山岸理子」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n83.jpg",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19164",
+        "material_title": "83.jpg",
+        "material_file": "72056aa8b257d6cb49048bd57ff13cdbdeed2b11cc7b4597baf086d6f75f82d119164.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19165",
+        "material_title": "83_01_s.jpg",
+        "material_file": "22338d6bee4e77d09bff0f5d771e1ee5afd0d50e07a87927b2980039c07f2e8419165.jpeg"
+      }
+    ],
+    "previous_id": "21235",
+    "next_id": "21330",
+    "saved_materials": [
+      "assets/23367_19164_83.jpg",
+      "assets/23367_19165_83_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 286,
+    "content_id": "19763",
+    "content_title": "チュロス",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2023-03-07 10:00:00",
+    "created_at": "2023-03-02 16:12:08",
+    "updated_at": "2023-03-02 16:12:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16395",
+        "material_title": "0307_arisawa_s.jpg",
+        "material_file": "0a4a3069bf060a47ad8f3e829bc4a55dea05f55aeb47114818c7edb47397b6c716395.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19763",
+    "content_title": "チュロス",
+    "content_sub_title": "有澤一華",
+    "release_date": "2023-03-07 10:00:00",
+    "created_at": "2023-03-02 16:12:08",
+    "updated_at": "2023-03-02 16:12:08",
+    "content_text": "この前夜中にチュロスが無性に食べたくなったんです。\r\n\r\n\r\nそん時ねーさん（松永里愛さん）と連絡とってて、\r\n\r\n\r\nチュロス作る材料揃ってるし作ろうかな！っていう相談したら、本気で止められちゃって\r\n\r\n\r\n私上手く作れる自信あったんですけど笑\r\n\r\nそこで\r\n\r\n私に作戦あって、内緒ですよ、\r\n\r\n\r\nこれお店のやつやでって言って、ねーさんに食べてもらって美味しいじゃん！ってなって実は私が作りました！ってしたい！\r\n\r\n\r\nひゃひゃひゃひゃ\r\n\r\n0307_arisawa_s.jpg",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16395",
+        "material_title": "0307_arisawa_s.jpg",
+        "material_file": "0e9e9f0b76fc25c742cf82427ef8ea88ff225e6d8ec076bd28d867c063a3c5a116395.jpeg"
+      }
+    ],
+    "previous_id": "19778",
+    "next_id": "19762",
+    "saved_materials": [
+      "assets/19763_16395_0307_arisawa_s.jpg"
+    ]
+  }
+}

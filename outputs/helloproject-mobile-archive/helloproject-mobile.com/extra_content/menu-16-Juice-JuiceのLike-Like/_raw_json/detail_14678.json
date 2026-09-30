@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 513,
+    "content_id": "14678",
+    "content_title": "アイス",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2020-10-22 10:00:00",
+    "created_at": "2020-10-14 21:53:49",
+    "updated_at": "2020-10-14 21:53:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12191",
+        "material_title": "1022_uemura_s.jpg",
+        "material_file": "5f271c6a9fc156749ac025cfbe26c08754f488211d3dd8bf9cd428e2735d2d0712191.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14678",
+    "content_title": "アイス",
+    "content_sub_title": "植村あかり",
+    "release_date": "2020-10-22 10:00:00",
+    "created_at": "2020-10-14 21:53:49",
+    "updated_at": "2020-10-14 21:53:49",
+    "content_text": "1022_uemura_s.jpg\r\n植村あかりです！\r\n\r\n友達と夏に食べたアイス<img src=\"/emoji/emoji-images/f3be.gif\"/>\r\n\r\nこの3秒後には手に垂れるくらい溶けるのが早くて\r\n\r\n必死にたべました<img src=\"/emoji/emoji-images/f468.gif\"/>\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12191",
+        "material_title": "1022_uemura_s.jpg",
+        "material_file": "6a5eedbe0323c106c667f48e15db4f7cdc066bdcce0b5be88e66a0a01884473112191.jpeg"
+      }
+    ],
+    "previous_id": "14679",
+    "next_id": "14677",
+    "saved_materials": [
+      "assets/14678_12191_1022_uemura_s.jpg"
+    ]
+  }
+}

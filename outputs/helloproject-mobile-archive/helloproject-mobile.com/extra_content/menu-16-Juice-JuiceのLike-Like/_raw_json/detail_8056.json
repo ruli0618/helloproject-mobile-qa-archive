@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 763,
+    "content_id": "8056",
+    "content_title": "ラーメン／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-11 11:00:00",
+    "created_at": "2017-12-04 17:17:32",
+    "updated_at": "2017-12-04 17:17:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7108",
+        "material_title": "S__26697807_s.jpg",
+        "material_file": "3a0440faf3fdc42915020948ac7e384fb25607b0506d6ffd33a1e9246fe2a7927108.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8056",
+    "content_title": "ラーメン／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-12-11 11:00:00",
+    "created_at": "2017-12-04 17:17:32",
+    "updated_at": "2017-12-04 17:17:32",
+    "content_text": "S__26697807_s.jpg\r\n宮崎由加さんの地元、石川県でいただいた「8番ラーメン」<img src=\"/emoji/emoji-images/4f60.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "7108",
+        "material_title": "S__26697807_s.jpg",
+        "material_file": "ae4ec72df31dcf515a74d84a9c127f4b87018bbd48ccced825abe8a05689c8d77108.jpeg"
+      }
+    ],
+    "previous_id": "8057",
+    "next_id": "8053",
+    "saved_materials": [
+      "assets/8056_7108_S__26697807_s.jpg"
+    ]
+  }
+}

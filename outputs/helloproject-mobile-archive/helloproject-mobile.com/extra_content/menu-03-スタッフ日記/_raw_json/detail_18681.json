@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 214,
+    "content_id": "18681",
+    "content_title": "みよちゃん家の縁側の猫#5 小野瑞歩",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-06-21 00:00:00",
+    "created_at": "2022-08-24 18:35:10",
+    "updated_at": "2022-08-24 18:35:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15561",
+        "material_title": "220824_02.jpg",
+        "material_file": "dc6ab8d0880f0623644204e29dc6c2d9a0ffb472728916c264d286b6d9c76e9b15561.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15562",
+        "material_title": "220824_01.jpg",
+        "material_file": "29c04dc9e6376bae3cb505749e6082bf7785dfe63112ea62255b79746b09df8215562.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18681",
+    "content_title": "みよちゃん家の縁側の猫#5 小野瑞歩",
+    "content_sub_title": "",
+    "release_date": "2022-06-21 00:00:00",
+    "created_at": "2022-08-24 18:35:10",
+    "updated_at": "2022-08-24 18:35:10",
+    "content_text": "「みよちゃん家の縁側」#5配信中です！\r\n\r\n第5回ゲストは、つばきファクトリー小野瑞歩さん！\r\n\r\n220824_01.jpg\r\n\r\n今回の逆再生チャレンジコーナーではこちらのお題に挑戦！\r\n\r\n①お互いのグループの好きな楽曲\r\n②コツコツ ぐんぐん ニッコニコ\r\n③駅まで送るよ/告白してもいいですか？\r\n\r\n大爆笑の逆再生チャレンジ！\r\n今回も楽しく収録が進みました<img src=\"/emoji/emoji-images/5047.gif\"/>\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「ハムカツのせい？」「忘れ物を取りに職場へ戻ると今日中にやらないといけない仕事が片付かず1人残って作業をしている同僚にエールと一緒に手伝いを申し出る一言」2本ともアドリブのある台本をお送りしましたよ<img src=\"/emoji/emoji-images/f99f.gif\"/>\r\n\r\n\r\n平井ん家の踊り場コーナーでは、お互いのグループでカバーしたい楽曲、つばきファクトリーの最新シングルから「アドレナリン・ダメ」、小野さんからBEYOOOOONDS日本武道館公演の感想もお話しています☆\r\nその他ふつうのお便りでも左利きあるあるやツアー中の楽屋エピソードなど、たくさんのメールを紹介しているので、是非お聴きくださいね。\r\n\r\n220824_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第6回ゲストはアンジュルム 川名凜さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15561",
+        "material_title": "220824_02.jpg",
+        "material_file": "3de2537d155e5fae2674bf03ab31f73e640dbb19e62790aec0292fe3d9f90f6e15561.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15562",
+        "material_title": "220824_01.jpg",
+        "material_file": "521018512bfa2806e1c21f60af24fbe86532f36b006df5570636e9de61a5323d15562.jpeg"
+      }
+    ],
+    "previous_id": "18357",
+    "next_id": "18355",
+    "saved_materials": [
+      "assets/18681_15561_220824_02.jpg",
+      "assets/18681_15562_220824_01.jpg"
+    ]
+  }
+}

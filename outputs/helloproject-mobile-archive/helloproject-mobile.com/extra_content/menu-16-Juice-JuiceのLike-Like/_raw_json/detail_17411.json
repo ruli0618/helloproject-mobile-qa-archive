@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 409,
+    "content_id": "17411",
+    "content_title": "おニュー",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-12-28 10:00:00",
+    "created_at": "2021-12-31 19:12:26",
+    "updated_at": "2021-12-31 19:12:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14526",
+        "material_title": "211228_kudo_s.jpg",
+        "material_file": "2a9e549e901f43c6a043d07ee48b6787f02fa04bf8f42d3aa3479ac5818c105014526.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17411",
+    "content_title": "おニュー",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-12-28 10:00:00",
+    "created_at": "2021-12-31 19:12:26",
+    "updated_at": "2021-12-31 19:12:26",
+    "content_text": "211228_kudo_s.jpg\r\n今日はおニューのイヤリングです～。\r\n雪の結晶がついていて可愛いです♪",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14526",
+        "material_title": "211228_kudo_s.jpg",
+        "material_file": "e6607f65fbc74af34f723abae5869e8537642e24d78a0fcb6983342033cc8ee314526.jpeg"
+      }
+    ],
+    "previous_id": "17412",
+    "next_id": "17343",
+    "saved_materials": [
+      "assets/17411_14526_211228_kudo_s.jpg"
+    ]
+  }
+}

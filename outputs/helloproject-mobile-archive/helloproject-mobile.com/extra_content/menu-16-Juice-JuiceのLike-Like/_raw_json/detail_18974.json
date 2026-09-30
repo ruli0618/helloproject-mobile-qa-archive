@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 326,
+    "content_id": "18974",
+    "content_title": "カレー",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-10-18 10:00:00",
+    "created_at": "2022-10-18 11:42:07",
+    "updated_at": "2022-10-18 11:42:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15793",
+        "material_title": "1018_arisawa_s.jpg",
+        "material_file": "681a9977564e22cb886a19199131dd886b75a6cab11eeca6889ff86cb6bb7fb915793.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18974",
+    "content_title": "カレー",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-10-18 10:00:00",
+    "created_at": "2022-10-18 11:42:07",
+    "updated_at": "2022-10-18 11:42:07",
+    "content_text": "1018_arisawa_s.jpg\r\nこの前、りさとえばとカレーを食べに行きました！\r\nチーズナンというのを初めて食べたのですが、めっちゃ美味しかったです！！\r\nまた食べに行きたいです～",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15793",
+        "material_title": "1018_arisawa_s.jpg",
+        "material_file": "085b6a6f2435c6a026284cb188deade0b75fb531c48c6e34cc879b19e375d97915793.jpeg"
+      }
+    ],
+    "previous_id": "18975",
+    "next_id": "18914",
+    "saved_materials": [
+      "assets/18974_15793_1018_arisawa_s.jpg"
+    ]
+  }
+}

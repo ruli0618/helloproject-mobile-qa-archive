@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 339,
+    "content_id": "17671",
+    "content_title": "空",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2022-02-23 10:00:00",
+    "created_at": "2022-02-17 22:15:00",
+    "updated_at": "2022-02-17 22:16:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14742",
+        "material_title": "02_eguchi_s.jpg",
+        "material_file": "b91310e1f6da4d0380f6a3d36010486ae49f34a6814a3d01f428116c4ae34b7a14742.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17671",
+    "content_title": "空",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2022-02-23 10:00:00",
+    "created_at": "2022-02-17 22:15:00",
+    "updated_at": "2022-02-17 22:16:42",
+    "content_text": "02_eguchi_s.jpg\n普段から空を見ると癒されるのですが、特に飛行機から見る雲と空はとても綺麗で大好きです！\n\n【17周目お題：癒やし】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14742",
+        "material_title": "02_eguchi_s.jpg",
+        "material_file": "4150e162cfcc3fd81e40b398099a7af0e3c15311b46d2f8220e85ed62ab1de6114742.jpeg"
+      }
+    ],
+    "previous_id": "17672",
+    "next_id": "17425",
+    "saved_materials": [
+      "assets/17671_14742_02_eguchi_s.jpg"
+    ]
+  }
+}

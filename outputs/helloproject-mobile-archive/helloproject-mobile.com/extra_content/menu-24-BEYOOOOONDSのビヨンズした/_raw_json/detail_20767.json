@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 237,
+    "content_id": "20767",
+    "content_title": "青空",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2023-09-06 10:00:00",
+    "created_at": "2023-08-29 18:23:52",
+    "updated_at": "2023-08-29 18:23:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17097",
+        "material_title": "0906_maeda_s.jpg",
+        "material_file": "2eb7470ef5291a4ccda5a078f69043645d4a002acdd282fbca26632bce162e3b17097.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20767",
+    "content_title": "青空",
+    "content_sub_title": "前田こころ",
+    "release_date": "2023-09-06 10:00:00",
+    "created_at": "2023-08-29 18:23:52",
+    "updated_at": "2023-08-29 18:23:52",
+    "content_text": "0906_maeda_s.jpg\r\n青空と私！夏だね〜〜！\r\n\r\n【28周目お題：映え 】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "17097",
+        "material_title": "0906_maeda_s.jpg",
+        "material_file": "7485b60ac3aef4b7e82c324869f5307c70b5f85ca09dd08b06f89394fc0fc5ca17097.jpeg"
+      }
+    ],
+    "previous_id": "20769",
+    "next_id": "20765",
+    "saved_materials": [
+      "assets/20767_17097_0906_maeda_s.jpg"
+    ]
+  }
+}

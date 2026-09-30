@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 347,
+    "content_id": "18587",
+    "content_title": "曲",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-08-04 10:00:00",
+    "created_at": "2022-07-26 14:49:22",
+    "updated_at": "2022-07-26 14:49:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15487",
+        "material_title": "0804_matsunaga_s.jpg",
+        "material_file": "4de36983fa4f94400aa690b01c182577ebc4c808b0a795a4db292bf3a9c8aeee15487.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18587",
+    "content_title": "曲",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-08-04 10:00:00",
+    "created_at": "2022-07-26 14:49:22",
+    "updated_at": "2022-07-26 14:49:22",
+    "content_text": "いちかと一緒に曲作りたい！\r\n夢の中では一緒にジャズっぽい曲作ってました〜\r\n実現させよう\r\n0804_matsunaga_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15487",
+        "material_title": "0804_matsunaga_s.jpg",
+        "material_file": "86e63c29e660dab3bf714422a7a10c88eeae5b959a9e88a85d40b2b738c3f4d715487.jpeg"
+      }
+    ],
+    "previous_id": "18601",
+    "next_id": "18586",
+    "saved_materials": [
+      "assets/18587_15487_0804_matsunaga_s.jpg"
+    ]
+  }
+}

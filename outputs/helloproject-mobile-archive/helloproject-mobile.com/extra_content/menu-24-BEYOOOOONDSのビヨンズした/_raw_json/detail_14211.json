@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 449,
+    "content_id": "14211",
+    "content_title": "円陣",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2020-08-26 10:00:00",
+    "created_at": "2020-07-22 19:26:25",
+    "updated_at": "2022-01-17 14:35:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11833",
+        "material_title": "0826_okamura.jpg",
+        "material_file": "0220b0a2538cc49fa5f388110ac78fddb4e30568f1870c818179358e834e671711833.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14211",
+    "content_title": "円陣",
+    "content_sub_title": "岡村美波",
+    "release_date": "2020-08-26 10:00:00",
+    "created_at": "2020-07-22 19:26:25",
+    "updated_at": "2022-01-17 14:35:49",
+    "content_text": "0826_okamura.jpg\nみんなで円になって掛け声をする瞬間は素敵だなぁと思います♡\n\n【4周目お題：素敵】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11833",
+        "material_title": "0826_okamura.jpg",
+        "material_file": "edf92f8e159cc8aff3a1ddaf8c8f6d2a9c08dfcd8752eaeb40a2ce3e2eced5da11833.jpeg"
+      }
+    ],
+    "previous_id": "14212",
+    "next_id": "14209",
+    "saved_materials": [
+      "assets/14211_11833_0826_okamura.jpg"
+    ]
+  }
+}

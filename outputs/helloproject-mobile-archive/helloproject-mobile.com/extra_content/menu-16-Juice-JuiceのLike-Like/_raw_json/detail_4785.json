@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 866,
+    "content_id": "4785",
+    "content_title": "かなかな／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-06-14 23:03:00",
+    "created_at": "2016-06-14 23:03:55",
+    "updated_at": "2016-06-14 23:03:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "4340",
+        "material_title": "198575_s.jpg",
+        "material_file": "f9d2cf6d4ab70a9cac6db76bce978e67090bfc5cddfea2520203f9240759bc904340.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 862,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "4785",
+    "content_title": "かなかな／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-06-14 23:03:00",
+    "created_at": "2016-06-14 23:03:55",
+    "updated_at": "2016-06-14 23:03:55",
+    "content_text": "198575_s.jpg\r\nDVDマガジンで念願の金沢ロケ！完成がたのしみ〜(*^^*)",
+    "materials": [
+      {
+        "secretKey": "be6a53c2901c686555241fa142fd29f9",
+        "material_id": "4340",
+        "material_title": "198575_s.jpg",
+        "material_file": "2304b392ff699a2c92619d1a7ef5657dbbab03fe6838a5bf1df224d123330ebf4340.jpeg"
+      }
+    ],
+    "previous_id": "4788",
+    "next_id": "4731",
+    "saved_materials": [
+      "assets/4785_4340_198575_s.jpg"
+    ]
+  }
+}

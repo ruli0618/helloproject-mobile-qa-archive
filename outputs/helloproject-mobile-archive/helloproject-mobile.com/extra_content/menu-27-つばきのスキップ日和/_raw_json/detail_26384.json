@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 33,
+    "content_id": "26384",
+    "content_title": "2ショット会",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2026-06-12 10:47:00",
+    "created_at": "2026-06-12 10:47:04",
+    "updated_at": "2026-06-12 10:47:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21556",
+        "material_title": "0612_tanimoto_s.jpg",
+        "material_file": "8f2913f613ac9de91482230b5b6fee49cd786e45ce932927e51595b5c81c466021556.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26384",
+    "content_title": "2ショット会",
+    "content_sub_title": "谷本安美",
+    "release_date": "2026-06-12 10:47:00",
+    "created_at": "2026-06-12 10:47:04",
+    "updated_at": "2026-06-12 10:47:04",
+    "content_text": "0612_tanimoto_s.jpg\r\n\r\n推しの井上玲音ちゃんと2ショット撮ることができてスキップするくらい幸せでした♥♥♥",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21556",
+        "material_title": "0612_tanimoto_s.jpg",
+        "material_file": "a77818f8e91efaacc825ae2cd7823280648777d23479e5ee9723786a6ecb0a2321556.jpeg"
+      }
+    ],
+    "previous_id": "26385",
+    "next_id": "26004",
+    "saved_materials": [
+      "assets/26384_21556_0612_tanimoto_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 7,
+    "content_id": "26879",
+    "content_title": "ちょこばなな",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2026-09-20 10:00:00",
+    "created_at": "2026-09-05 00:07:55",
+    "updated_at": "2026-09-05 00:07:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21940",
+        "material_title": "0920_yofu_s.jpg",
+        "material_file": "a6bceae5e72e66af7fb5e4bf3c5fb0e0c54a87aca5012f4201112ee3d59a35eb21940.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26879",
+    "content_title": "ちょこばなな",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2026-09-20 10:00:00",
+    "created_at": "2026-09-05 00:07:55",
+    "updated_at": "2026-09-05 00:07:55",
+    "content_text": "0920_yofu_s.jpg\r\nどいごとお仕事の間で\r\nチョコバナナたべた*\\(^o^)/*\r\nカラオケでね、歌の練習してたの。それが終わって歩いてたら、チョコバナナを発見！どいごと即食らいつきましたねー\r\n夏のチョコバナナはやっぱり\r\nおいぴー！\r\nお祭りでもまた食べられますよーに♡♡",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21940",
+        "material_title": "0920_yofu_s.jpg",
+        "material_file": "64d2e1acc9d56c8544f4151f4633cba5ae21d35f8660d7de34af303e104ac3dd21940.jpeg"
+      }
+    ],
+    "previous_id": "26919",
+    "next_id": "26878",
+    "saved_materials": [
+      "assets/26879_21940_0920_yofu_s.jpg"
+    ]
+  }
+}

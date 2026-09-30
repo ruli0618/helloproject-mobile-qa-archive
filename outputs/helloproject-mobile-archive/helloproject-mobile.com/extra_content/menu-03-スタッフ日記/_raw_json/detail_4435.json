@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 666,
+    "content_id": "4435",
+    "content_title": "女子会の二次会#4",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-04-21 22:08:00",
+    "created_at": "2016-04-21 22:05:36",
+    "updated_at": "2016-04-21 22:08:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4050",
+        "material_title": "160421_4_s.jpg",
+        "material_file": "ab993f03306c3a7e24ebe330766c14ff7c92a2506afa7b7293460a1885882fe84050.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4051",
+        "material_title": "160421_1_s.jpg",
+        "material_file": "aed03d72c3c486b56f6b4510c2bb7b11068e9d9fcade4c66dc5d9e3c9f5b8ac34051.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4052",
+        "material_title": "160421_2_s.jpg",
+        "material_file": "c170bfe8e232a971371fa5fe7bfa8ecea16deae8861fcb6c498a848bac1de41c4052.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4053",
+        "material_title": "160421_3_s.jpg",
+        "material_file": "42fbc18a6635101c39b0ea0bfe906ee88303be99add6da3f6346873b56f289814053.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4435",
+    "content_title": "女子会の二次会#4",
+    "content_sub_title": "",
+    "release_date": "2016-04-21 22:08:00",
+    "created_at": "2016-04-21 22:05:36",
+    "updated_at": "2016-04-21 22:08:15",
+    "content_text": "4月21日更新の女子会番組『Girls Night Out#13』では、不仲が噂される（？）モーニング娘。'16の石田亜佑美と小田さくらが京都を散策！\n縁結びの神がいるとされる、地主神社には“恋占いの石”という膝程度の高さの石が10メートルほどの離れた距離にあり、目をつぶって反対側の石までたどり着ければ恋愛が成就するというもの。\n\n160421_1_s.jpg\n160421_2_s.jpg\n\nなぜか今回はそれにプラスして、両サイドから2人が目をつぶって歩いてみました。\n（夏焼雅いわく、実はコレ、Berryz工房が以前試した遊びとのこと）\n\n160421_3_s.jpg\n\n2人がぶつかることが出来たのかは、番組をみてのお楽しみ！\n\n160421_4_s.jpg\n\nそして、料理教室では飯窪春菜と野中美希が難易度の高い、「出し巻き卵」に挑戦。\n大苦戦し、スタジオの譜久村、工藤も大爆笑してました。\nお見逃しなく！\n\n<u><a href=\"https://www.youtube.com/channel/UC6h6mpswy924vIBBeB0N3wQ\"><font color=\"#0000ff\">「Girls Night Out」はコチラ</font></a></u>",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4050",
+        "material_title": "160421_4_s.jpg",
+        "material_file": "339c3bd24b90bb2490292a06f2f49c6142679e2012c8a30c43d5e51671199c374050.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4051",
+        "material_title": "160421_1_s.jpg",
+        "material_file": "50c0c4b3abc22c8b6194f5aba559b3f3a299a5a0d0efc027611d38a599bacab34051.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4052",
+        "material_title": "160421_2_s.jpg",
+        "material_file": "ec89feae07ee0a9c4aed018e4644ea4dd4205ca89f34152b40ae9ae6ecb2dbc84052.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4053",
+        "material_title": "160421_3_s.jpg",
+        "material_file": "fdb50bbc9a1ae01b23ceea289c246275debd4e0030a2e6303d7f568ebbaca75a4053.jpeg"
+      }
+    ],
+    "previous_id": "4722",
+    "next_id": "4434",
+    "saved_materials": [
+      "assets/4435_4050_160421_4_s.jpg",
+      "assets/4435_4051_160421_1_s.jpg",
+      "assets/4435_4052_160421_2_s.jpg",
+      "assets/4435_4053_160421_3_s.jpg"
+    ]
+  }
+}

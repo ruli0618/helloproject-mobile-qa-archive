@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 90,
+    "content_id": "9789",
+    "content_title": "カラフル♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2018-09-03 11:00:00",
+    "created_at": "2018-08-31 21:08:41",
+    "updated_at": "2018-08-31 21:08:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8567",
+        "material_title": "0903_onoda_s.jpg",
+        "material_file": "dd1e4f8c7ab63fbfdefd22b071e2ec2237a14708bb6ec8427e94509f770a96ed8567.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9789",
+    "content_title": "カラフル♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2018-09-03 11:00:00",
+    "created_at": "2018-08-31 21:08:41",
+    "updated_at": "2018-08-31 21:08:41",
+    "content_text": "最近、お昼寝が大好きなさおりです♪\r\n\r\nんちゃ！\r\n\r\n0903_onoda_s.jpg\r\n\r\nこの間、カラフルなお花を見つけたので写真を撮ってみました♪\r\n\r\n色々な色のお花がたくさんあったので、見惚れてしまいましたっ！\r\n\r\nそれもね、他にもたーーーっくさんのお花があったので、\r\n\r\n\r\n夏って明るい色のお花があるから、たくさん写真を撮りたくなってしまいます笑\r\n\r\nぜひ、みつけたら写真を撮ってみてネ♪\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8567",
+        "material_title": "0903_onoda_s.jpg",
+        "material_file": "d71befabd5b2032f957e3cbd5fce4a2cef39a37ac08fcd072294131b9a8c4a448567.jpeg"
+      }
+    ],
+    "previous_id": "9798",
+    "next_id": "9783",
+    "saved_materials": [
+      "assets/9789_8567_0903_onoda_s.jpg"
+    ]
+  }
+}

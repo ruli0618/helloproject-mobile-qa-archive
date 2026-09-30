@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 68,
+    "content_id": "25200",
+    "content_title": "1番大好きな",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-11-19 10:00:00",
+    "created_at": "2025-10-28 23:06:50",
+    "updated_at": "2025-10-28 23:06:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20609",
+        "material_title": "251119_kobayashi_s.jpg",
+        "material_file": "25e675a73a8f3dd5b0e14ff922cebd6048369d1a54b34aa89418411c7ecf36f020609.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25200",
+    "content_title": "1番大好きな",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-11-19 10:00:00",
+    "created_at": "2025-10-28 23:06:50",
+    "updated_at": "2025-10-28 23:06:50",
+    "content_text": "251119_kobayashi_s.jpg\r\n私の1番大好きな集合写真！！♡\r\n\r\n【47周目お題：集合写真】",
+    "materials": [
+      {
+        "secretKey": "64f08a4ecbe46eeb75f6e68add04b33c",
+        "material_id": "20609",
+        "material_title": "251119_kobayashi_s.jpg",
+        "material_file": "d2dafcc932f8145b22b83912f644908cc7a47ffc6f6bb1d842ecbd36470196be20609.jpeg"
+      }
+    ],
+    "previous_id": "25201",
+    "next_id": "25199",
+    "saved_materials": [
+      "assets/25200_20609_251119_kobayashi_s.jpg"
+    ]
+  }
+}

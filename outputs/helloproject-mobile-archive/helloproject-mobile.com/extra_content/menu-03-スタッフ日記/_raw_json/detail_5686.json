@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 633,
+    "content_id": "5686",
+    "content_title": "開催！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-11-06 09:10:00",
+    "created_at": "2016-11-06 09:12:17",
+    "updated_at": "2016-11-06 09:12:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5091",
+        "material_title": "161106_03.jpg",
+        "material_file": "4e2a7da6a421a5e5948d055a55033f0a9b9cbdb1d005fbf8dae7bf06c1fb7ea35091.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5092",
+        "material_title": "161106_01.jpg",
+        "material_file": "57f8a062950767334df8982495e87d7cdfccfc637a4c53755c8f025db825a1c75092.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5093",
+        "material_title": "161106_02.jpg",
+        "material_file": "a6cbcf411b0abaf27b2c6cdfa8cdf54709ca19f1c18f45487f2b4934117ac9df5093.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5686",
+    "content_title": "開催！",
+    "content_sub_title": "",
+    "release_date": "2016-11-06 09:10:00",
+    "created_at": "2016-11-06 09:12:17",
+    "updated_at": "2016-11-06 09:12:17",
+    "content_text": "こんにちは。\r\nハロ！モバスタッフ２番です。\r\n\r\n今日は山野ホールにて、ハロ！モバ会員限定アコースティックライブ開催日ですね。\r\nとうとうこの日がやってきました！\r\n\r\nイベント成功祈願も兼ねて(？)、昨日、渋谷駅の田園都市線と東横線間の通路に掲示されている℃-uteの柱巻広告を見てきましたよ！\r\n\r\n161106_01.jpg\r\n\r\nやじ\r\n161106_02.jpg\r\n\r\nすず\r\n161106_03.jpg\r\n\r\nちょっとこの写真は撮影技術のため光の当たりが微妙ですので…実際に見に行く事をおすすめします。\r\n\r\nこの写真を撮影している最中、「写真撮って下さい」と若い女の子に声をかけられて、岡井さんとのツーショットを撮ってあげるという出来事がありました。\r\nさすが℃-ute、女性ファンが多いですね。\r\n\r\nそれでは、今日のライブをお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5091",
+        "material_title": "161106_03.jpg",
+        "material_file": "755eb71dddac450efdf32f5e0d997fc7222dcaf1cd76231ef6b540020ffc6ee35091.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5092",
+        "material_title": "161106_01.jpg",
+        "material_file": "dfcbe3d3b2af8af94ee4f33be9e790db2bd750761c2dc8ecc6c5a7aa9b5b09d95092.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5093",
+        "material_title": "161106_02.jpg",
+        "material_file": "706c5591fd4ff399aa95cc15f385a2900818c57802ed44037e6b232fe2d84e555093.jpeg"
+      }
+    ],
+    "previous_id": "5709",
+    "next_id": "5683",
+    "saved_materials": [
+      "assets/5686_5091_161106_03.jpg",
+      "assets/5686_5092_161106_01.jpg",
+      "assets/5686_5093_161106_02.jpg"
+    ]
+  }
+}

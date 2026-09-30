@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 683,
+    "content_id": "9932",
+    "content_title": "ハート",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-10-02 11:20:00",
+    "created_at": "2018-09-27 20:26:15",
+    "updated_at": "2018-10-02 11:20:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8653",
+        "material_title": "1001_dambara_s.jpg",
+        "material_file": "ecad07e0f9d4a1e32d114d3e33fdec7cae2aad0c4b43b164b4ec045c9695b92b8653.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9932",
+    "content_title": "ハート",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-10-02 11:20:00",
+    "created_at": "2018-09-27 20:26:15",
+    "updated_at": "2018-10-02 11:20:27",
+    "content_text": "1001_dambara_s.jpg\r\nカフェラテ！\r\nかわいくて、飲むのもったいない～",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8653",
+        "material_title": "1001_dambara_s.jpg",
+        "material_file": "053a0ad7a34fdf76de47df8bf6a89f87560c10f08accfcc4bd0cc0b02930b1aa8653.jpeg"
+      }
+    ],
+    "previous_id": "9935",
+    "next_id": "9930",
+    "saved_materials": [
+      "assets/9932_8653_1001_dambara_s.jpg"
+    ]
+  }
+}

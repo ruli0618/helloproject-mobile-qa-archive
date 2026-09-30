@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 116,
+    "content_id": "21476",
+    "content_title": "工藤の家の軒下#1～窪田七海～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-12-27 22:18:00",
+    "created_at": "2023-12-20 23:21:50",
+    "updated_at": "2023-12-27 22:18:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17649",
+        "material_title": "231227_s.jpg",
+        "material_file": "b28383896ebc04a573a736714597a0762d6b57929968a4b6c63ee13208f777f217649.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21476",
+    "content_title": "工藤の家の軒下#1～窪田七海～",
+    "content_sub_title": "",
+    "release_date": "2023-12-27 22:18:00",
+    "created_at": "2023-12-20 23:21:50",
+    "updated_at": "2023-12-27 22:18:38",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」！\nついにスタートしました！\n\n先日配信されました第一回は、もうお聴きになられましたか？\n\n工藤の家にまた新しいお部屋が出来たということで、「ろこの部屋」スタッフ日記は工藤の家の軒下からお送りします。\n\n第一回ゲストは、窪田七海さんが出演！\n\n231227_s.jpg\n\n・バスツアーの思い出\n・番組開始を知った時の気持ち\n・2人の第一印象\n・ラジオネームについて\nのお話からスタート！\n\n新コーナー募集にも沢山のお便りありがとうございました！\nまずは、こちらの2つのコーナーがスタート！\n\n「6個の部屋」\nMC筒井澪心とゲストに話してもらいたいトークテーマや質問を募集！\nその理由も記載してお送り下さい。\nサイコロを振って出たテーマで、2人がトークします！\n\n「ろこと一緒にがんばろこー！」\n自身も努力家で、頑張っている人を見るのも好きな筒井澪心。\n「頑張っている◯◯」「頑張りたい◯◯」についてメールを募集！\nMC筒井澪心とゲストが励まします！\n\n皆さん、ぜひたくさん送ってくださいね。\n\n後半では、\n・ヘアスタイル\n・2人の最近のエピソード\n・部屋のこだわりポイント\n・メイク、スキンケア\nについてトーク！\n\n「ろこの部屋」はじめての収録はいかがでしたか？\n\n収録の模様はYouTube「OMAKE CHANNEL」でもご覧いただけます！\nぜひこちらもお楽しみください♬\n\n【OMAKE CHANNEL】\n<a href=\"https://youtu.be/C9QEWf7Xr8Q\" target=\"_blank\">▶OCHA NORMA筒井澪心＆窪田七海 ハロー！ラジオ オリジナル番組「ろこの部屋」初回収録に潜入！</a>\n\n次回は、OCHA NORMAから斉藤円香さんがゲストに出演！\nぜひお聴き下さい♪",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17649",
+        "material_title": "231227_s.jpg",
+        "material_file": "e139200891e099aa80e02ed9817ca5cca06f437b1d44fb99114e8a4e94e81d1217649.jpeg"
+      }
+    ],
+    "previous_id": "21505",
+    "next_id": "21475",
+    "saved_materials": [
+      "assets/21476_17649_231227_s.jpg"
+    ]
+  }
+}

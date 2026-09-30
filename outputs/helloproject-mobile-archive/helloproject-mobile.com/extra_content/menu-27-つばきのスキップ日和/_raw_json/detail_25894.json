@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 38,
+    "content_id": "25894",
+    "content_title": "再会！",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2026-04-17 10:00:00",
+    "created_at": "2026-03-13 23:52:58",
+    "updated_at": "2026-03-13 23:52:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21217",
+        "material_title": "0417_murata_s.jpg",
+        "material_file": "043c0ad7f64ab3203723a571d865e82cd15fc20465c9ef4350d863a20f4d290621217.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25894",
+    "content_title": "再会！",
+    "content_sub_title": "村田結生",
+    "release_date": "2026-04-17 10:00:00",
+    "created_at": "2026-03-13 23:52:58",
+    "updated_at": "2026-03-13 23:52:58",
+    "content_text": "0417_murata_s.jpg\r\nやっほー！村田結生です！\r\nこの前、灼熱の時にかけたサングラスと感動の再会を果たしました<img src=\"/emoji/emoji-images/f468.gif\"/>\r\n一気に舞い上がりました！\r\n写真みると浮かれてますね〜\r\n\r\nサングラスだーいすき♥\r\n\r\nyouとyuuが毎日ルンルンで過ごせますように☆",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21217",
+        "material_title": "0417_murata_s.jpg",
+        "material_file": "0a221c6474aa69ccb165add0cdb4f46d38987c43296792e50821ea6e6a1c2b1021217.jpeg"
+      }
+    ],
+    "previous_id": "25895",
+    "next_id": "25893",
+    "saved_materials": [
+      "assets/25894_21217_0417_murata_s.jpg"
+    ]
+  }
+}

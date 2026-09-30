@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 499,
+    "content_id": "9344",
+    "content_title": "隣のやじまん家の塀の裏#25 新沼希空",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-06-27 15:00:00",
+    "created_at": "2018-06-26 20:29:08",
+    "updated_at": "2018-06-26 20:30:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8162",
+        "material_title": "180627_s.jpg",
+        "material_file": "fb5022c6457e4dc8f830e5f09a9e531cbddbfd56da74c53e40c3a1ce8c235e0a8162.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9344",
+    "content_title": "隣のやじまん家の塀の裏#25 新沼希空",
+    "content_sub_title": "",
+    "release_date": "2018-06-27 15:00:00",
+    "created_at": "2018-06-26 20:29:08",
+    "updated_at": "2018-06-26 20:30:08",
+    "content_text": "隣のやじまん家#25 配信中！\nゲストは、最多出演グループのつばきファクトリーから、新沼希空さんが登場！\n\nこれまでほとんど会話をした事がなかったというお二人ですが、番組が進むにつれ、共通点が沢山ある事を発見する矢島さん！\n\nやじまっちゃう事、最近はまっている事、自撮りをあまり撮らなかった事…\n\n詳しくは番組をチェック！\n\n矢島さんいわく癒やしボイスの新沼さんが好きなアイドルグループに、\nよく見る夢や、お互いの印象\n愛知県の最新おすすめスポットも聞けちゃいます♪\n\n180627_s.jpg\n\n「隣のやじまん家」は、皆さんからのメールが頼りです！\nぜひ、お気軽にお便りをお送り下さい！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、7月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案もお送り下さい。\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8162",
+        "material_title": "180627_s.jpg",
+        "material_file": "0df421ed1567741976e543958c6ea77d78678bdd1781f300dcf2ce75ef61f5468162.jpeg"
+      }
+    ],
+    "previous_id": "9391",
+    "next_id": "9333",
+    "saved_materials": [
+      "assets/9344_8162_180627_s.jpg"
+    ]
+  }
+}

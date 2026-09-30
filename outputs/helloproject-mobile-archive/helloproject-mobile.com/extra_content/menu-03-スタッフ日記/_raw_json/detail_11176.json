@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 424,
+    "content_id": "11176",
+    "content_title": "隣のやじまん家の塀の裏#44 山岸理子",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-04-01 20:15:00",
+    "created_at": "2019-04-01 20:15:53",
+    "updated_at": "2019-04-01 20:15:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9555",
+        "material_title": "190401_02_s.jpg",
+        "material_file": "a16e2f175989b86f6e74b636383abc96130efcaebfba07e72ce59ed3a579ba299555.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9556",
+        "material_title": "190401_01_s.jpg",
+        "material_file": "59e66e6f06350708c2e8461b06d0379f388e2ebf3d8267c33cf767f9c529b2da9556.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11176",
+    "content_title": "隣のやじまん家の塀の裏#44 山岸理子",
+    "content_sub_title": "",
+    "release_date": "2019-04-01 20:15:00",
+    "created_at": "2019-04-01 20:15:53",
+    "updated_at": "2019-04-01 20:15:53",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。 \r\n隣のやじまん家#44配信中です！ \r\n\r\n今回のゲストは、つばきファクトリー山岸理子さんが登場！ \r\n\r\nつばきカフェや舞台の話、\r\n山岸さんが20歳になってやってみたい事、\r\nバックダンサー中に人生最高に楽しい瞬間を迎えたとある曲とは？\r\n\r\n190401_01_s.jpg\r\n\r\n今週の一曲は、\r\n矢島さんがめっちゃいい曲と紹介した\r\nつばきファクトリーのアルバム曲！\r\n\r\n新コーナー「VS矢島」\r\n今回のお題は、早口言葉対決！\r\n\r\n190401_02_s.jpg\r\n\r\n募集した新コーナー案も実践しました！\r\n\r\n4月テーマトークのお題は「平成が終わるまでにしたい事」\r\n「VS矢島」対決するお題も募集！\r\n\r\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \r\n\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9555",
+        "material_title": "190401_02_s.jpg",
+        "material_file": "6772fdc25eb7461c6703247ecc25aff7503bc89933eca65c6673c60c0b706c489555.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9556",
+        "material_title": "190401_01_s.jpg",
+        "material_file": "3ab7bedb09d9a5a236652c475b1cc8838f27883a60e1c2a2183ade0af231bff69556.jpeg"
+      }
+    ],
+    "previous_id": "11241",
+    "next_id": "11173",
+    "saved_materials": [
+      "assets/11176_9555_190401_02_s.jpg",
+      "assets/11176_9556_190401_01_s.jpg"
+    ]
+  }
+}

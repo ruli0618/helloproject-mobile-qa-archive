@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 582,
+    "content_id": "7282",
+    "content_title": "工藤の家の屋根裏部屋#5 ～山木梨沙～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-08-16 20:26:00",
+    "created_at": "2017-08-16 20:26:54",
+    "updated_at": "2017-08-16 20:26:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6410",
+        "material_title": "1708161_s.jpg",
+        "material_file": "b9d4d336951af3dd7b1d255b89dd4870045bab69f086de3d7a4e7725f3dedcb86410.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6411",
+        "material_title": "1708162_s.jpg",
+        "material_file": "d4d4f600d3f107996e046785de2899c5c5e61764704d19d1e9dfbd6a0233d0b56411.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7282",
+    "content_title": "工藤の家の屋根裏部屋#5 ～山木梨沙～",
+    "content_sub_title": "",
+    "release_date": "2017-08-16 20:26:00",
+    "created_at": "2017-08-16 20:26:54",
+    "updated_at": "2017-08-16 20:26:54",
+    "content_text": "「ふくむらの部屋」5回目の配信が開始しました！\r\n\r\n\r\n今回はゲストにカントリー・ガールズ　山木梨沙さんが登場！\r\n\r\n\r\n\r\n1708161_s.jpg\r\n\r\n\r\nもちろん…このふたりが揃うと\r\n\r\n「嗣永さん」「道重さん」のお話で持ち切りでした！\r\n\r\nその他山木さんのハロー！プロジェクトとの出会いのエピソードなど聴きどころ満載！\r\n\r\n\r\n1708162_s.jpg\r\n\r\n\r\nみずきお嬢様のコーナーでは「あってる！」連発!?\r\n\r\n今回は梨沙お嬢様が参加して2人で判定しています！\r\n\r\n\r\n\r\nラジオ収録前にもランチをしてきたという二人\r\n\r\nまるで午後のティータイムのような優雅でリラックスした内容でお送りしています。。。\r\n\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきお嬢様の私生活」\r\nそれぞれのコーナー、普通のお便り\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6410",
+        "material_title": "1708161_s.jpg",
+        "material_file": "513fe13c1bd11c35300b29860d088842d87de33b3515662dc16f418bfe0bf4cb6410.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6411",
+        "material_title": "1708162_s.jpg",
+        "material_file": "6a77a07c8b157eaa9d5b34620d223e4327e3e50d9a1aa47c5969ce5dc359c4d56411.jpeg"
+      }
+    ],
+    "previous_id": "7300",
+    "next_id": "7249",
+    "saved_materials": [
+      "assets/7282_6410_1708161_s.jpg",
+      "assets/7282_6411_1708162_s.jpg"
+    ]
+  }
+}

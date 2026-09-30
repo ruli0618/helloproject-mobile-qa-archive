@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 427,
+    "content_id": "11142",
+    "content_title": "工藤の家の屋根裏部屋#45～野村みな美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-22 21:21:00",
+    "created_at": "2019-03-22 21:23:13",
+    "updated_at": "2019-03-22 21:23:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9516",
+        "material_title": "0322_B_02_s.jpg",
+        "material_file": "6b17dc85d113bd59b6cdba619a09eef3af313d96986c0d932c375b4a1580f3bf9516.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9517",
+        "material_title": "0322_B_01_s.jpg",
+        "material_file": "69a004ef97517ccdb732cb492eee08e78d748a349a19e998aba1f10c9a9f42d99517.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9518",
+        "material_title": "0322_B_03_s.jpg",
+        "material_file": "9b010af6c4a908edd3953b584908ce954cec398073d072dc2883f0dd6fb99a439518.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11142",
+    "content_title": "工藤の家の屋根裏部屋#45～野村みな美～",
+    "content_sub_title": "",
+    "release_date": "2019-03-22 21:21:00",
+    "created_at": "2019-03-22 21:23:13",
+    "updated_at": "2019-03-22 21:23:13",
+    "content_text": "「ふくむらの部屋」45回目配信中です！\r\nもうチェックしていただけましたか？\r\n\r\n今回のゲストはこぶしファクトリーから野村みな美さんが2回目の登場！\r\n\r\n0322_B_01_s.jpg\r\n\r\n譜久村さんのイメージでパンを作ってあげるなら！\r\n野村さんから出たのは…なんと実在しないパン!?\r\n\r\n出会いと別れの季節に聴きたいハロプロソングを2人が選曲！\r\n\r\nダンスの立ち位置を覚える方法にも個性がでる!?\r\n今回もふくむらの部屋ならではのマニアックなお話も聴けちゃいます！\r\n\r\n0322_B_02_s.jpg\r\n\r\n譜久村さん、野村さんそれぞれが抱く\r\nアンジュルム和田彩花さんへの思いを語る！\r\n\r\nそして最後に季節外れの譜久村さんが“見えてた”話。\r\nちょっぴりゾクッとしておしまいです！\r\n\r\n0322_B_03_s.jpg\r\n\r\n\r\n「みずき先生のハロプロ講座」「悩みをキラーンと解決」\r\n「普通のお便り」\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9516",
+        "material_title": "0322_B_02_s.jpg",
+        "material_file": "1482cce2df56df37a47de69cb66ceea3e2ceece228447ee39f109a028ffca4a79516.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9517",
+        "material_title": "0322_B_01_s.jpg",
+        "material_file": "718cbc058055a05f7fde9769e0a1dbc29c35a030f59c5bd703e14b376e15144f9517.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9518",
+        "material_title": "0322_B_03_s.jpg",
+        "material_file": "602edf432b078f4b3e4f15debf60a1ffe21e667e2ee34ad968b249be48b6e8699518.jpeg"
+      }
+    ],
+    "previous_id": "11146",
+    "next_id": "11141",
+    "saved_materials": [
+      "assets/11142_9516_0322_B_02_s.jpg",
+      "assets/11142_9517_0322_B_01_s.jpg",
+      "assets/11142_9518_0322_B_03_s.jpg"
+    ]
+  }
+}

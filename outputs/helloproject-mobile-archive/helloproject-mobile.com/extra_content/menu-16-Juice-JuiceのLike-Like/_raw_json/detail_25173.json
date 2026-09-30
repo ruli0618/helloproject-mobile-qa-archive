@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 51,
+    "content_id": "25173",
+    "content_title": "ソロ ",
+    "content_sub_title": "林仁愛",
+    "category_id": "38",
+    "release_date": "2025-10-21 10:00:00",
+    "created_at": "2025-10-27 20:16:16",
+    "updated_at": "2025-10-27 20:16:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20569",
+        "material_title": "1021_hayashi_s.jpg",
+        "material_file": "5c50367cea0f89ff3ed43ab91d737a41c14d758acf5958c8b231b199cabb02ca20569.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25173",
+    "content_title": "ソロ ",
+    "content_sub_title": "林仁愛",
+    "release_date": "2025-10-21 10:00:00",
+    "created_at": "2025-10-27 20:16:16",
+    "updated_at": "2025-10-27 20:16:16",
+    "content_text": "1021_hayashi_s.jpg\r\nこんにちは！林仁愛です！\r\n私はこの間秋ツアーの柏PALOOZA公演でソロをしました！\r\n\r\nドキドキしちゃったけど、たのしかった！！！！\r\n王冠なんか被っちゃったりしてっ",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20569",
+        "material_title": "1021_hayashi_s.jpg",
+        "material_file": "4a5c3728428753a7441274786d12c81ff71eaeeb13d8c0c030638b9a6e175fe820569.jpeg"
+      }
+    ],
+    "previous_id": "25174",
+    "next_id": "25130",
+    "saved_materials": [
+      "assets/25173_20569_1021_hayashi_s.jpg"
+    ]
+  }
+}

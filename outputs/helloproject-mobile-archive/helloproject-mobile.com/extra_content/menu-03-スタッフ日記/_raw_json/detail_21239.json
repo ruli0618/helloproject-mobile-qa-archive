@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 153,
+    "content_id": "21239",
+    "content_title": "工藤の家の屋根裏部屋#131～石田亜佑美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-05-02 00:00:00",
+    "created_at": "2023-11-14 16:30:25",
+    "updated_at": "2023-11-14 16:30:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17443",
+        "material_title": "230502_s.jpg",
+        "material_file": "97be75d163c07f57c386268198ff4b240fca7593b0afcb0773897d361d2ac78017443.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21239",
+    "content_title": "工藤の家の屋根裏部屋#131～石田亜佑美～",
+    "content_sub_title": "",
+    "release_date": "2023-05-02 00:00:00",
+    "created_at": "2023-11-14 16:30:25",
+    "updated_at": "2023-11-14 16:30:25",
+    "content_text": "ふくむらの部屋 第131回は、石田亜佑美さんが登場！\r\n\r\n・がおっきーと歌って踊るなら？\r\n・春ツアー衣装\r\nのお話からスタート！\r\n\r\n「ふくむらクロニクル」のコーナーでは、\r\n・2016秋〜MY VISION〜冒頭ダンスパフォーマンス\r\n・バスツアー\r\nの思い出を振り返りました！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・25周年\r\n・リリースイベント\r\nを語りました！\r\n\r\n後半では、\r\n・カフェをやるなら？\r\n・あらあらかしこ\r\n・5つの質問\r\n・DVDマガジン\r\nについてトーク！\r\n\r\n230502_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17443",
+        "material_title": "230502_s.jpg",
+        "material_file": "8b6b3df4e426dcf7f04d292651cda04a0fdfd2b886185a69ae3722ac520059ae17443.jpeg"
+      }
+    ],
+    "previous_id": "24594",
+    "next_id": "24491",
+    "saved_materials": [
+      "assets/21239_17443_230502_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 270,
+    "content_id": "20120",
+    "content_title": "りんごあめ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2023-05-04 10:00:00",
+    "created_at": "2023-05-02 11:34:27",
+    "updated_at": "2023-05-02 11:34:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16651",
+        "material_title": "0504_kudo_s.jpg",
+        "material_file": "088cdc6837fe687e33239ab30bfe106d5dcbc95951dd4b54506ef8c81919d52816651.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20120",
+    "content_title": "りんごあめ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2023-05-04 10:00:00",
+    "created_at": "2023-05-02 11:34:27",
+    "updated_at": "2023-05-02 11:34:27",
+    "content_text": "0504_kudo_s.jpg\r\nりんごあめ、めちゃんこ美味しくて！\r\nノーマルのも食べたけれど、シナモンがかなりかなり大好きでした！",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16651",
+        "material_title": "0504_kudo_s.jpg",
+        "material_file": "7ae6ba2b95367f27fa295cd0241d86a6fe17017d7a3a39c732d0ea06501c83e516651.jpeg"
+      }
+    ],
+    "previous_id": "20158",
+    "next_id": "20119",
+    "saved_materials": [
+      "assets/20120_16651_0504_kudo_s.jpg"
+    ]
+  }
+}

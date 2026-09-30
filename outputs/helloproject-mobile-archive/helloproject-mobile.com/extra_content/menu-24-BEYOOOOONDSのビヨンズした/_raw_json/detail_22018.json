@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 191,
+    "content_id": "22018",
+    "content_title": "再熱！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2024-04-29 10:00:00",
+    "created_at": "2024-04-08 18:06:06",
+    "updated_at": "2024-04-08 18:06:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18075",
+        "material_title": "0429_satoyoshi_s.jpg",
+        "material_file": "0405919e69d374f9cc32e1e7bfbf32bc2d3938220ca3aa8070ea86d259515b7518075.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22018",
+    "content_title": "再熱！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2024-04-29 10:00:00",
+    "created_at": "2024-04-08 18:06:06",
+    "updated_at": "2024-04-08 18:06:06",
+    "content_text": "0429_satoyoshi_s.jpg\r\n最近またヘアアクセサリーを集めるのにハマっています！\r\nリボンモチーフが気になる！\r\n\r\n【33周目お題：気になる】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18075",
+        "material_title": "0429_satoyoshi_s.jpg",
+        "material_file": "af6cc4874c6cf76db140f5c84406a36bfd5c7348bda703f8d055a37f2404072318075.jpeg"
+      }
+    ],
+    "previous_id": "22023",
+    "next_id": "22017",
+    "saved_materials": [
+      "assets/22018_18075_0429_satoyoshi_s.jpg"
+    ]
+  }
+}

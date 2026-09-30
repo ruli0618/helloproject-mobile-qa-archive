@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 501,
+    "content_id": "9287",
+    "content_title": "工藤の家の屋根裏部屋#26～尾形春水～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-06-19 17:25:00",
+    "created_at": "2018-06-19 17:25:30",
+    "updated_at": "2018-06-19 17:27:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8146",
+        "material_title": "fukumuraroom26_02_s.jpg",
+        "material_file": "6b334b4b25e6cef77a0eb957867311a7d84e2b770b013b8c3675cacc41dd61a58146.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8147",
+        "material_title": "fukumuraroom26_01_s.jpg",
+        "material_file": "0465453ece08e3a4e262bf137d0582e8277d45f13d211f1f175f85e4013a2af08147.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9287",
+    "content_title": "工藤の家の屋根裏部屋#26～尾形春水～",
+    "content_sub_title": "",
+    "release_date": "2018-06-19 17:25:00",
+    "created_at": "2018-06-19 17:25:30",
+    "updated_at": "2018-06-19 17:27:26",
+    "content_text": "「ふくむらの部屋」26回目の配信開始しました！\n\n今回のゲストは元ハロ!モバ宣伝部部長、そして卒業を間近に控えた\nモーニング娘。'18尾形春水さんが登場！！！\n\nfukumuraroom26_01_s.jpg\n\n全国握手会についてのエピソード\n舞台ファラオの墓について、やっぱり〇〇がお気に入り!?\n12期イベントについて\n二人が大好きな〇〇の話などなど、話題が盛りだくさんです！\n\n\n「みずきのハロプロ講座のコーナー」では\n元宣伝部部長の尾形さんとならではの話題「ハロ!モバラジオ」について語る！\n尾形さん最後のレコーディングでの失敗話とは!?\nレコーディングを撮影されている時にずっと気になっていた事とは!?\n\n尾形さんがデビュー前に見ていた9期の姿、自身のデビュー当時の話、\nそして譜久村さんがハロプロエッグ時代の大きな勘違い!?\n\n今回も他では聴けない（!?）エピソードが満載です！\n\n\nfukumuraroom26_02_s.jpg\n\n\n新コーナー「みずきのメドレーセレクション」では\nこのコーナーちょっと難しかったですかね…と収録前少し弱気だった譜久村さん。\nいざメールを読んでみると「みなさんいい趣味していらっしゃる！」と大絶賛。\n\nふくむら・おがた賞を決めましたのでチェックしてくださいね！\n\n\n次回は「夏フェスで聴きたいメドレー」がテーマです！\n\n\n\nハロ！モバ宣伝部、部長として活躍した尾形さん\n最後のハロ！モバラジオ出演。必聴です！！\n\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\n「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8146",
+        "material_title": "fukumuraroom26_02_s.jpg",
+        "material_file": "2136756c30495f036d9e2c93120c5d41b4d39b03e36e9c92d98b2e8effe74d868146.jpeg"
+      },
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8147",
+        "material_title": "fukumuraroom26_01_s.jpg",
+        "material_file": "b9e2a32e418658657c8c046731726c93e8e48f3bcf9fd6f12a9d5e5905ed09868147.jpeg"
+      }
+    ],
+    "previous_id": "9333",
+    "next_id": "9282",
+    "saved_materials": [
+      "assets/9287_8146_fukumuraroom26_02_s.jpg",
+      "assets/9287_8147_fukumuraroom26_01_s.jpg"
+    ]
+  }
+}

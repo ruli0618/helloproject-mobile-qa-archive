@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 592,
+    "content_id": "7026",
+    "content_title": "工藤の家の屋根裏部屋#3 ～羽賀朱音～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-07-18 22:52:00",
+    "created_at": "2017-07-18 22:55:29",
+    "updated_at": "2017-07-18 23:00:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6178",
+        "material_title": "170718_2_1_s.jpg",
+        "material_file": "4f83ac9e0234b902e16f29256fef5bb0187b35a1dc2951442843aeb1422493996178.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6179",
+        "material_title": "170718_2_2_s.jpg",
+        "material_file": "d370d66cd3bca45e270b9fe86472e0c597891a3bee00b4bd00014558d387ec296179.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7026",
+    "content_title": "工藤の家の屋根裏部屋#3 ～羽賀朱音～",
+    "content_sub_title": "",
+    "release_date": "2017-07-18 22:52:00",
+    "created_at": "2017-07-18 22:55:29",
+    "updated_at": "2017-07-18 23:00:12",
+    "content_text": "夏の屋根裏部屋は・・・とても暑いですね。\r\n「ふくむらの部屋」第3回目公開です！\r\n\r\n\r\n今回は「シークレットゲスト」として・・・\r\n\r\n\r\n\r\n\r\n170718_2_1_s.jpg\r\n\r\n\r\nモーニング娘。'17　羽賀朱音さんが登場！\r\n\r\n\r\n170718_2_2_s.jpg\r\n\r\n　\r\n今回も自然体でワイワイお送りしています\r\n\r\n\r\n「みずき先生のハロプロ講座」のコーナー\r\n嗣永桃子さんへの熱い想い、工藤遥さんへの熱い想い・・・\r\n名前にかけたオリジナルフレーズから目覚ましに設定している曲まで\r\n今回もコアな内容で展開しております！\r\n\r\n\r\n「みずきお嬢様の私生活」のコーナー\r\nリスナーから寄せられたメールに『全然ちがーう』と言いながらも垣間見えるお嬢様エピソードは必聴！\r\nお嬢様の理想はなかなかリッチです。。。\r\n\r\nそして、みずきお嬢様…もしかしてこのコーナーに飽きてきているような…!?\r\nみなさま、妄想を膨らましてメールお送りください！！\r\n\r\n\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6178",
+        "material_title": "170718_2_1_s.jpg",
+        "material_file": "37ef897de6c1b9df153063288e3922da64d7e338d10451b2fb754047a9b610b96178.jpeg"
+      },
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6179",
+        "material_title": "170718_2_2_s.jpg",
+        "material_file": "8596d83f767cbfe6726f191aaf71a40e9fb9af334733aca90a6da7a9e53a94226179.jpeg"
+      }
+    ],
+    "previous_id": "7025",
+    "next_id": "6960",
+    "saved_materials": [
+      "assets/7026_6178_170718_2_1_s.jpg",
+      "assets/7026_6179_170718_2_2_s.jpg"
+    ]
+  }
+}

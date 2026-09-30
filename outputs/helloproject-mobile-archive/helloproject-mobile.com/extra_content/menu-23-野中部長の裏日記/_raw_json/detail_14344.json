@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 91,
+    "content_id": "14344",
+    "content_title": "プライベートの方の日記",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2020-08-18 18:40:00",
+    "created_at": "2020-08-18 18:40:17",
+    "updated_at": "2020-08-18 18:40:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "11926",
+        "material_title": "0818_nonaka_ura_01_s.jpg",
+        "material_file": "fba3ecf447507293ac4dc5693ffae5d332286891d6f705a3c424c959cc639bed11926.jpeg"
+      },
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "11927",
+        "material_title": "0818_nonaka_ura_02_s.jpg",
+        "material_file": "7307d7e765b7d64bd9687ab7f8b8491d8e168c1fa97f1fe50d2a82e9929d3e7611927.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "14344",
+    "content_title": "プライベートの方の日記",
+    "content_sub_title": "",
+    "release_date": "2020-08-18 18:40:00",
+    "created_at": "2020-08-18 18:40:17",
+    "updated_at": "2020-08-18 18:40:17",
+    "content_text": "メールの方も書いたので。。\r\n今日は日記も書こう<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n\r\nブログやらインスタやらメールやら…。\r\nいろいろみるコンテンツ多い中\r\nみてくれてありがとうだよ<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nうれしい、、\r\n\r\nせっかくだからどこにも話してないことを。。\r\nと思うのだけど\r\nなんだろうか！！\r\n\r\nじゃあ自分の習慣とか趣味の話！にしよう<img src=\"/emoji/emoji-images/f399.gif\"/>\r\nこれ思いつくまでしばらくかかった！笑\r\n\r\nずっとやってる習慣は\r\n日記です。。\r\nこれも日記だけど…。\r\n\r\n普通にスマホに残してる\r\n自分しかみないやつ、、\r\n自分しかみないので\r\nどーでもいいこと書いてるのだ\r\n\r\n内容載せたことないので\r\n一部公開しますね<img src=\"/emoji/emoji-images/f468.gif\"/>\r\n\r\n\r\n大阪、めちゃセミ鳴いてる！\r\n\r\nって7/19に書いてる笑笑\r\n日記というか、、つぶやきかなあ？？\r\n\r\n\r\nちょっと歩いただけで汗かいてしまうー！\r\nあついあつい<img src=\"/emoji/emoji-images/f7f6.gif\"/>\r\n\r\nこれは8/15です<img src=\"/emoji/emoji-images/f468.gif\"/>\r\nだいぶ暑かったのでしょう。。\r\n\r\nこんなことをかいています、、\r\n中身少なくてごめんなさい。。笑笑\r\n\r\n\r\nみんなも日記かいてますか？！\r\n次回は趣味についてかくねん！\r\n\r\n最後に〜\r\nまだ載せてないアナザーショット的なやつー！\r\nそれではん！<img src=\"/emoji/emoji-images/4772.gif\"/>\r\n\r\n0818_nonaka_ura_01_s.jpg\r\n\r\n0818_nonaka_ura_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "675b02898768bb9fa4be1d9bba29e4ed",
+        "material_id": "11926",
+        "material_title": "0818_nonaka_ura_01_s.jpg",
+        "material_file": "f303c442d8b8dd769bd9216584f4fe03b890cfe11efc5a590302775bd954ed0f11926.jpeg"
+      },
+      {
+        "secretKey": "675b02898768bb9fa4be1d9bba29e4ed",
+        "material_id": "11927",
+        "material_title": "0818_nonaka_ura_02_s.jpg",
+        "material_file": "0c9f5cd574cea3764ef9076ed28de736d407a6ecbf911a6131b75b1bdde2cb6511927.jpeg"
+      }
+    ],
+    "previous_id": "14670",
+    "next_id": "14225",
+    "saved_materials": [
+      "assets/14344_11926_0818_nonaka_ura_01_s.jpg",
+      "assets/14344_11927_0818_nonaka_ura_02_s.jpg"
+    ]
+  }
+}

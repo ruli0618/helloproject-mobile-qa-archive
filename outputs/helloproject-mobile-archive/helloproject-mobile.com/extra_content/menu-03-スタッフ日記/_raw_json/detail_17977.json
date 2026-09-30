@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 228,
+    "content_id": "17977",
+    "content_title": "工藤の家の屋根裏部屋#104～横山玲奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-04-14 20:05:00",
+    "created_at": "2022-04-14 20:05:35",
+    "updated_at": "2022-04-14 20:06:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15003",
+        "material_title": "220412_01_s.jpg",
+        "material_file": "7327b2fd8934a0f309153e23424007009026dc4b8ceaf5c7d9f08496094e1e1b15003.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15004",
+        "material_title": "220412_02_s.jpg",
+        "material_file": "349cdeb4f339438ad9e292e3f4bdedba846d237582dd9844acece45fd71f556315004.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17977",
+    "content_title": "工藤の家の屋根裏部屋#104～横山玲奈～",
+    "content_sub_title": "",
+    "release_date": "2022-04-14 20:05:00",
+    "created_at": "2022-04-14 20:05:35",
+    "updated_at": "2022-04-14 20:06:27",
+    "content_text": "ふくむらの部屋 第104回のゲストは、同じグループのモーニング娘。'22から横山玲奈さんが登場！\r\n\r\n220412_01_s.jpg\r\n\r\nハロー！ラジオ連動の質問企画では、\r\n今年挑戦したいこと、\r\n学生の頃によく聴いた曲を教えてくれました。\r\n\r\n自分がハロー！プロジェクトのファンだったらどんな格好でライブに行くか、\r\nお気に入りの髪型・メイクについてトーク！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n兄ピ姉ピクイズで盛り上がりました。\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ラジオでの役割や意識していること\r\n・前髪のこだわり\r\nに関して、語って頂きました。\r\n\r\n同じチームでツアー中のエピソード、\r\n浦和レッズ、ウマ娘とコラボしたお仕事の裏側、\r\n15期に対する先輩としての横山さん、\r\nDVDマガジンについてもトーク！\r\n\r\n220412_02_s.jpg\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15003",
+        "material_title": "220412_01_s.jpg",
+        "material_file": "d4b220e779d7733e461b955b767fa0def2e8bbb18dc144b2c4ba5f4f245bc4ac15003.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15004",
+        "material_title": "220412_02_s.jpg",
+        "material_file": "fab8ff1e545a19cb063582a097d7e7d306601dcd60dadd0b14c1ad5594868eef15004.jpeg"
+      }
+    ],
+    "previous_id": "18030",
+    "next_id": "17976",
+    "saved_materials": [
+      "assets/17977_15003_220412_01_s.jpg",
+      "assets/17977_15004_220412_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 50,
+    "content_id": "26988",
+    "content_title": "工藤の家の軒下#39～小野田華凜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-06-10 00:00:00",
+    "created_at": "2026-09-28 22:59:27",
+    "updated_at": "2026-09-28 22:59:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22074",
+        "material_title": "250620_039.jpg",
+        "material_file": "c993c9989420be890c668867570f4dd65c1383f6d0ac08e20fe3c1ea1ff0f50d22074.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26988",
+    "content_title": "工藤の家の軒下#39～小野田華凜～",
+    "content_sub_title": "",
+    "release_date": "2025-06-10 00:00:00",
+    "created_at": "2026-09-28 22:59:27",
+    "updated_at": "2026-09-28 22:59:27",
+    "content_text": "250620_039.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第39回はゲストは、小野田華凜！\r\n\r\n・リリースイベント\r\n・お互いのグループで歌いたい曲\r\n・ハロコンでパフォーマンスしたい曲\r\n・個別イベント\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・メンバー愛\r\n・乗り換え検索\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・バースデーイベント\r\n・斉藤円香\r\n・Juice=Juice\r\n・LJK\r\n・サッカー観戦のルーティン\r\n・水泳部\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22074",
+        "material_title": "250620_039.jpg",
+        "material_file": "256ddbd7a450e9957ecc031b1b2946a47305d9941f41d02e641333d92f1663af22074.jpeg"
+      }
+    ],
+    "previous_id": "26989",
+    "next_id": "26987",
+    "saved_materials": [
+      "assets/26988_22074_250620_039.jpg"
+    ]
+  }
+}

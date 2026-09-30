@@ -1,0 +1,23 @@
+/*フッターボタン*/
+.btnleft_sp{
+    position:absolute;
+    bottom:15px;
+    left:10px;
+}
+
+.btnright_sp{
+    position:absolute;
+    bottom:15px;
+    right:10px;
+}
+
+.btnrightin_sp{
+    position:absolute;
+    top:50%;
+    right:5px;
+    margin-top:-9px;
+}
+.btn_spaceleft_sp{
+    margin-left: 5px;
+}
+

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 548,
+    "content_id": "8085",
+    "content_title": "隣のやじまん家の塀の裏#11",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-05 21:39:00",
+    "created_at": "2017-12-05 21:38:01",
+    "updated_at": "2017-12-05 21:39:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7137",
+        "material_title": "171205_1.JPG",
+        "material_file": "9d2ef424178c3969e659c6dddaebcd09b5df4bfe4d436c360858cec5a13ff6587137.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7138",
+        "material_title": "171205_2.JPG",
+        "material_file": "4162cb8c2205b82eda49fe33ec1136ecc0b5c3bb4ae026579b3cfbc9186479a07138.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8085",
+    "content_title": "隣のやじまん家の塀の裏#11",
+    "content_sub_title": "",
+    "release_date": "2017-12-05 21:39:00",
+    "created_at": "2017-12-05 21:38:01",
+    "updated_at": "2017-12-05 21:39:23",
+    "content_text": "「隣のやじまん家」第11回配信されました！\n\n今回はゲスト無し、矢島さんの一人喋りでお送りしています。\n\n前回お送りできなかった「くじ引きトーク」のメールを読んだり、\nゲストが居ない時のみ行われる「ルックバックのコーナー」では、℃-uteのスケジュール台帳を見ながらトークを繰り広げました。\n\n↓本日の矢島さんはこちら。\n\n171205_1.JPG\n\n171205_2.JPG\n\n番組内でも紹介されました矢島さんのリーダー本「キュート？本当は体育会系！矢島舞美のリーダー論『のんびり、さりげなく、ふんわりと。』」は、12月22日発売です！\n\n<a href=\"http://www.jp-r.co.jp/maimi_yajima/news/7851/\" target=\"_blank\">★リーダー本詳細はこちら！</a>\n<a href=\"http://www.jp-r.co.jp/maimi_yajima/event/detail/d83dcdeb5042d952371394135f62382e6d69a61b\" target=\"_blank\">★12月24日(日)開催お渡し会はこちら！</a>\n\n「今月のハッピーバースデー♪」は、引き続き12月お誕生日を迎える方からのお便りを大募集！\n「くじ引きトーク」・「普通のお便り」メールもお待ちしています。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\nこの番組は皆さんのメールが頼りです！\nぜひ、たくさんのお便りお待ちしています！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7137",
+        "material_title": "171205_1.JPG",
+        "material_file": "a60d4d875c12cefc6e0aa7645c862f81ada1ec9ac3deed32186d435bdda0c6aa7137.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7138",
+        "material_title": "171205_2.JPG",
+        "material_file": "60e0e41c1023d5f561e3b4784f9024d06738adc1a571f3f4ac32f70d20b736b17138.jpeg"
+      }
+    ],
+    "previous_id": "8183",
+    "next_id": "8042",
+    "saved_materials": [
+      "assets/8085_7137_171205_1.JPG",
+      "assets/8085_7138_171205_2.JPG"
+    ]
+  }
+}

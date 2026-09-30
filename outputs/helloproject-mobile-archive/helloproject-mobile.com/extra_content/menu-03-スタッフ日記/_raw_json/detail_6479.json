@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 603,
+    "content_id": "6479",
+    "content_title": "再生！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-04-05 19:30:00",
+    "created_at": "2017-04-05 19:30:03",
+    "updated_at": "2017-04-05 19:33:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5737",
+        "material_title": "170405_01.jpg",
+        "material_file": "f043a7e6e3f3f201c8ac2aa28ca6e922910db577a4bbb1c98ee131d6f0d3b9d65737.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5738",
+        "material_title": "170405_02.jpg",
+        "material_file": "e3acf205bc70b62497fba45d79100964efcf1189bd0385ac7e5922bb421f582f5738.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5739",
+        "material_title": "170405_03.jpg",
+        "material_file": "d21f08ff4ed513e8c4b011e1f477e2f0bc1e9663c07c61b988af17513494a8f45739.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6479",
+    "content_title": "再生！",
+    "content_sub_title": "",
+    "release_date": "2017-04-05 19:30:00",
+    "created_at": "2017-04-05 19:30:03",
+    "updated_at": "2017-04-05 19:33:19",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\n皆さん！\n今日4/5更新の<a href=\"http://ameblo.jp/sayumimichishige-blog/entry-12262786625.html\" target=\"_blank\">道重さゆみさんのブログ</a>は、もうご覧になりましたか？\n\nどこかで見た画像が掲載されてる！と思いませんでしたか？\n\nそうです！\n3/28更新の「どぅーでもいい写真館」と同じ、工藤さんとハグしている写真！\n\nいや、\n待って下さい…\n\n写真をよく見てみましょう！\n\n▼どぅーでもいい写真館\n170405_01.jpg\n\n▼道重さんブログ\n170405_02.jpg\n\n比較してみました。\n\n170405_03.jpg\nあ…！\n同じ時の写真だけど、若干構図と撮影の瞬間が違う！\n※輪のところを見ると分かりやすいかもしれません。\n\nというわけで、全くの同じ写真というわけではありませんでした！\n\n（どうでもいい話ですみません）",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5737",
+        "material_title": "170405_01.jpg",
+        "material_file": "5bcf32f13cb8e4fc996b6a9b03f469a9da6c154630cc53ef020efa700f9496f65737.jpeg"
+      },
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5738",
+        "material_title": "170405_02.jpg",
+        "material_file": "ac17abf811f9f9edfa28e47c52ab2bbb561c7e4b3310a3428d783a9ff712bb3a5738.jpeg"
+      },
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5739",
+        "material_title": "170405_03.jpg",
+        "material_file": "027cbabfd122e137a3b4343457faa69cad098fc52047974724ebc6c17cca88f85739.jpeg"
+      }
+    ],
+    "previous_id": "6633",
+    "next_id": "6478",
+    "saved_materials": [
+      "assets/6479_5737_170405_01.jpg",
+      "assets/6479_5738_170405_02.jpg",
+      "assets/6479_5739_170405_03.jpg"
+    ]
+  }
+}

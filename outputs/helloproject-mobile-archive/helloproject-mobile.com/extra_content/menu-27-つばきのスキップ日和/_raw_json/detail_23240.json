@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 84,
+    "content_id": "23240",
+    "content_title": "初バースデーイベント！",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2024-11-15 10:00:00",
+    "created_at": "2024-11-08 12:19:59",
+    "updated_at": "2024-11-08 12:19:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19037",
+        "material_title": "1115_ishii_s.jpg",
+        "material_file": "95c5516d587bed8377d2c7f3855d1e4e7bd47d97db46f2c0bea8364a57509d5219037.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23240",
+    "content_title": "初バースデーイベント！",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2024-11-15 10:00:00",
+    "created_at": "2024-11-08 12:19:59",
+    "updated_at": "2024-11-08 12:19:59",
+    "content_text": "みはみは〜！！\r\n\r\n\r\n石井 泉羽(いしい みはね)です！\r\n\r\n初めてのバースデーイベントのお祝いVTRでは、、\r\nなんと、、佐藤優樹さんがっっっ\r\nスクリーンに佐藤さんが下から登場してきた時はびっくりしすぎて手がすごく震えてました！\r\n\r\nずーっと歌ってみたかった楽曲や企画などが出来てすごく楽しかったですっ！\r\n\r\n1115_ishii_s.jpg\r\n\r\nブログのコメントや盛りだくさん会などで\r\n楽しかったよー、と言ってくださってすごく、嬉っさー嬉っさーでしたっっ！\r\n\r\n一生忘れないバースデーイベントになりました！\r\nありがとうございましたっっ！！！‎♡\r\n\r\nそれでは皆さん！今日も一日おつかレッサーレッサーでした！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19037",
+        "material_title": "1115_ishii_s.jpg",
+        "material_file": "bed3aa748069a8123efa149fef672badad50ffb323e5c7c05bfe99e5d7dbf31419037.jpeg"
+      }
+    ],
+    "previous_id": "23321",
+    "next_id": "23239",
+    "saved_materials": [
+      "assets/23240_19037_1115_ishii_s.jpg"
+    ]
+  }
+}

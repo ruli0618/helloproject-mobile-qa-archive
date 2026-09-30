@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 304,
+    "content_id": "18521",
+    "content_title": "シンプルだけと存在感のあるものが欲しくてゲットしたチューリップのピアス！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2022-08-24 10:00:00",
+    "created_at": "2022-07-14 17:27:53",
+    "updated_at": "2022-07-14 17:30:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15421",
+        "material_title": "0824_satoyoshi_s.jpg",
+        "material_file": "622234d49e2f7dd3aecce6440b65d3a273511c65dbe3694cd55770a70fbf0a9515421.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18521",
+    "content_title": "シンプルだけと存在感のあるものが欲しくてゲットしたチューリップのピアス！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2022-08-24 10:00:00",
+    "created_at": "2022-07-14 17:27:53",
+    "updated_at": "2022-07-14 17:30:49",
+    "content_text": "0824_satoyoshi_s.jpg\r\nオシャレに小物は必須です！\r\n\r\n【20周目お題：オシャレ】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15421",
+        "material_title": "0824_satoyoshi_s.jpg",
+        "material_file": "2692e954ddfbc6432c378d68c37b91682184018eccb4f23b238119c73e99640a15421.jpeg"
+      }
+    ],
+    "previous_id": "18776",
+    "next_id": "18520",
+    "saved_materials": [
+      "assets/18521_15421_0824_satoyoshi_s.jpg"
+    ]
+  }
+}

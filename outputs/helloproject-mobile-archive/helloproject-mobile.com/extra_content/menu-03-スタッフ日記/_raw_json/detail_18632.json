@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 204,
+    "content_id": "18632",
+    "content_title": "工藤の家の屋根裏部屋#110～中山夏月姫～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-15 19:35:00",
+    "created_at": "2022-08-15 19:35:43",
+    "updated_at": "2022-08-29 18:39:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15526",
+        "material_title": "220629_s.jpg",
+        "material_file": "a344dbcd6d85d79cc55c30a552e167ed31fa3994058e362c05c63b706c005e8215526.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15627",
+        "material_title": "220629_02_s.jpg",
+        "material_file": "87d818f352e97e7fe89c4aa60f13666f0364e2765f2466354aad48ba7938276215627.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15628",
+        "material_title": "220629_03_s.jpg",
+        "material_file": "d26929873641c5c9f08958907da66d093a83501148bf532dcb191768e0080bf215628.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18632",
+    "content_title": "工藤の家の屋根裏部屋#110～中山夏月姫～",
+    "content_sub_title": "",
+    "release_date": "2022-08-15 19:35:00",
+    "created_at": "2022-08-15 19:35:43",
+    "updated_at": "2022-08-29 18:39:32",
+    "content_text": "ふくむらの部屋 第110回は、\nOCHA NORMAからは二人目、中山夏月姫さんが来てくれました！\n\n220629_02_s.jpg\n\nハロー！ラジオ連動の質問企画では、\nライブでやってみたい髪型、\n最近の癖を教えてくれました！\n\nまずは、ふくたけイベントの裏側、\nお二人のペット事情についてトーク！\nカニラが何号まで居るのかという疑問についても…！\n\n「ハロプロクイズ王」のコーナーでは、\n歴代ハロー！プロジェクトメンバーのメンバーカラー変遷に関するクイズに挑戦！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・サインについて\n・「お嬢様」キャラ？\nに関して語りました！\n\n譜久村さんのお嬢様キャラが好きだという中山さんは、ぜひこの話題で話したかったそうです。\n\n後半では、プロレスの魅力を中山さんが熱く語り、好きになったきっかけも知れちゃいます。\nヘアケア事情も！\n\n220629_03_s.jpg\n※譜久村さんがつけてきたお茶色のマスクはこちら！\n\n220629_s.jpg\n\nぜひチェックよろしくお願いします！",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15526",
+        "material_title": "220629_s.jpg",
+        "material_file": "854749b0cc0583bc908fd31db12afeb40807d7ef22972b5aec6ab50655a61d2f15526.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15627",
+        "material_title": "220629_02_s.jpg",
+        "material_file": "c2a1050b0c786d3b5fff8559e0864c5b2f160e32684f492372972d7f4dbc70fc15627.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15628",
+        "material_title": "220629_03_s.jpg",
+        "material_file": "c83ca6cc7158b7b3cad18675ac83e726185db0a5cc682869fa67d60a337794fb15628.jpeg"
+      }
+    ],
+    "previous_id": "21221",
+    "next_id": "18631",
+    "saved_materials": [
+      "assets/18632_15526_220629_s.jpg",
+      "assets/18632_15627_220629_02_s.jpg",
+      "assets/18632_15628_220629_03_s.jpg"
+    ]
+  }
+}

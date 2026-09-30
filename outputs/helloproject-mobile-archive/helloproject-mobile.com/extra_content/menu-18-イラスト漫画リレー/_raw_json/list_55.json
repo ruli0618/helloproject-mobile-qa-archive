@@ -1,0 +1,363 @@
+[
+  {
+    "idx": 1,
+    "content_id": "12411",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "小片リサ",
+    "category_id": "55",
+    "release_date": "2019-11-14 13:00:00",
+    "created_at": "2019-10-24 13:54:52",
+    "updated_at": "2020-12-25 12:23:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10527",
+        "material_title": "31_ogata.jpg",
+        "material_file": "263b9ec0905a517e6e50a13aa948dbb37821dd06f4657e7fbfc27e090323cf6a10527.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 2,
+    "content_id": "12410",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "平井美葉",
+    "category_id": "55",
+    "release_date": "2019-10-24 17:00:00",
+    "created_at": "2019-10-24 13:49:25",
+    "updated_at": "2019-10-24 16:50:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10526",
+        "material_title": "30_hirai.jpg",
+        "material_file": "1ca4168ea7a6630b4eddcc3020bcff03f52df77973c7bad8ee7931aad56a932b10526.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 3,
+    "content_id": "12002",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "稲場愛香",
+    "category_id": "55",
+    "release_date": "2019-08-22 15:00:00",
+    "created_at": "2019-08-22 14:05:56",
+    "updated_at": "2019-08-22 14:43:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10206",
+        "material_title": "28_inaba.jpg",
+        "material_file": "bda3f489eca645f2c9f52995ce242e56fd6c2cd7ce113232dc59a921181eb75410206.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 4,
+    "content_id": "11747",
+    "content_title": "カントリー・ガールズ",
+    "content_sub_title": "山木梨沙",
+    "category_id": "55",
+    "release_date": "2019-07-16 18:00:00",
+    "created_at": "2019-07-16 17:36:33",
+    "updated_at": "2019-07-16 17:52:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10022",
+        "material_title": "27_yamaki.jpg",
+        "material_file": "d7b30b9527b1e03a90bad46f2de2ea1316693a7e9d829fc4e764d7ad1732f52d10022.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 5,
+    "content_id": "11504",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "category_id": "55",
+    "release_date": "2019-06-03 17:00:00",
+    "created_at": "2019-05-27 17:47:53",
+    "updated_at": "2019-06-03 16:46:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9816",
+        "material_title": "26_nonaka.jpg",
+        "material_file": "f3742ec77afe99422503718eccfdf732c66f847159c678b17bbe21111ff707769816.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 6,
+    "content_id": "11362",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "前田こころ",
+    "category_id": "55",
+    "release_date": "2019-05-20 13:20:00",
+    "created_at": "2019-05-20 12:14:45",
+    "updated_at": "2019-05-20 13:22:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9734",
+        "material_title": "24_maeda.jpg",
+        "material_file": "f7d966d22272320b954173557ae90d7c598c073508bf9a9fc013ba006b6eaad19734.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 7,
+    "content_id": "10975",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "小田さくら",
+    "category_id": "55",
+    "release_date": "2019-03-14 19:00:00",
+    "created_at": "2019-03-14 17:03:31",
+    "updated_at": "2019-03-14 19:17:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9417",
+        "material_title": "22_oda.jpg",
+        "material_file": "6c64ab161f2f5e4b18f960b55283c3a555696a6c38d5bc5f64ce7d057d93e22f9417.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 8,
+    "content_id": "10877",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "島倉りか",
+    "category_id": "55",
+    "release_date": "2019-02-20 18:00:00",
+    "created_at": "2019-02-20 16:53:08",
+    "updated_at": "2019-02-21 10:03:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9342",
+        "material_title": "21_shimakura.jpg",
+        "material_file": "0d3457354929414df40d8d72a7b5850310debe097346c4ae3fc72204a64233849342.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 9,
+    "content_id": "10717",
+    "content_title": "アンジュルム",
+    "content_sub_title": "佐々木莉佳子",
+    "category_id": "55",
+    "release_date": "2019-01-28 17:00:00",
+    "created_at": "2019-01-28 13:48:33",
+    "updated_at": "2019-01-28 17:03:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9249",
+        "material_title": "20_sasaki.jpg",
+        "material_file": "b63addfa742a747c4fea1f6200d4f9e95ea04e1c01ebd82679be8d9f2e87c4f09249.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 10,
+    "content_id": "9368",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "山岸理子",
+    "category_id": "55",
+    "release_date": "2018-06-28 18:00:00",
+    "created_at": "2018-06-28 16:50:18",
+    "updated_at": "2019-01-28 15:39:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "8209",
+        "material_title": "19_yamagishi.jpg",
+        "material_file": "8b1857158a8a8ecc1a3a1a2768d48af5b949a44179a81df8d267c942584eec628209.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 11,
+    "content_id": "8515",
+    "content_title": "モーニング娘。'18",
+    "content_sub_title": "石田亜佑美",
+    "category_id": "55",
+    "release_date": "2018-02-02 18:00:00",
+    "created_at": "2018-02-02 19:25:36",
+    "updated_at": "2018-05-31 17:45:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "7468",
+        "material_title": "15_ishida_02.jpg",
+        "material_file": "a4459c0e921d1394efee3cc7236d6f10ee0c318bc4921659220d5887e1e860347468.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 12,
+    "content_id": "6651",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "谷本安美",
+    "category_id": "55",
+    "release_date": "2017-12-18 16:00:00",
+    "created_at": "2017-05-02 14:18:17",
+    "updated_at": "2017-12-18 15:43:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "7255",
+        "material_title": "14_tanimoto.jpg",
+        "material_file": "303d1fc1ebfb53ca44589deeb9594186c5c4a1ff0832554f428218d25ea527ed7255.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 13,
+    "content_id": "8163",
+    "content_title": "カントリー・ガールズ",
+    "content_sub_title": "小関舞",
+    "category_id": "55",
+    "release_date": "2017-12-11 11:00:00",
+    "created_at": "2017-12-11 10:21:27",
+    "updated_at": "2017-12-11 10:42:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "7194",
+        "material_title": "13_ozeki.jpg",
+        "material_file": "f88721614bfd011c7c2409c605181bf9abcb05305fb677ca2aca1577f4453a317194.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 14,
+    "content_id": "7351",
+    "content_title": "アンジュルム",
+    "content_sub_title": "上國料萌衣",
+    "category_id": "55",
+    "release_date": "2017-08-28 17:20:00",
+    "created_at": "2017-08-28 16:08:29",
+    "updated_at": "2017-08-28 17:20:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "6489",
+        "material_title": "010_kamiko.jpg",
+        "material_file": "db53949d2b5206ead13aad36ebb8628058b302628efe8de269c1431d53a9d4e86489.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 15,
+    "content_id": "7268",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "高木紗友希",
+    "category_id": "55",
+    "release_date": "2017-08-15 14:40:00",
+    "created_at": "2017-08-15 13:07:53",
+    "updated_at": "2017-08-15 14:44:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "6395",
+        "material_title": "008_takagi.jpg",
+        "material_file": "959bb8d09ad06350bc1742b559f2499be4d94f3fecaccd79061a333488c013716395.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 16,
+    "content_id": "6751",
+    "content_title": "カントリー・ガールズ",
+    "content_sub_title": "船木結",
+    "category_id": "55",
+    "release_date": "2017-05-29 15:00:00",
+    "created_at": "2017-05-29 15:52:07",
+    "updated_at": "2017-05-29 18:16:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5948",
+        "material_title": "006_funaki.jpg",
+        "material_file": "a0d8ce8683161c03b6bf86deff84a456745ac1b9b53a2e21cc1ee25632ab4ece5948.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 17,
+    "content_id": "6521",
+    "content_title": "アンジュルム",
+    "content_sub_title": "中西香菜",
+    "category_id": "55",
+    "release_date": "2017-04-19 13:00:00",
+    "created_at": "2017-04-18 17:20:17",
+    "updated_at": "2017-04-19 12:23:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5776",
+        "material_title": "003_nakanishi.jpg",
+        "material_file": "6c79ba6cf408309a3259b131e3be4b261903115574357d5c07128c22ebca54995776.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 18,
+    "content_id": "5823",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "金澤朋子",
+    "category_id": "55",
+    "release_date": "2017-04-03 18:09:00",
+    "created_at": "2016-12-06 10:18:42",
+    "updated_at": "2017-04-03 18:09:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5215",
+        "material_title": "002_kanazawa.jpg",
+        "material_file": "bbf8482eaf65931a3b89d5a22e0eaa6ce5779dbedd7af96ba2c9f8c5907d73e35215.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 19,
+    "content_id": "5822",
+    "content_title": "モーニング娘。'17",
+    "content_sub_title": "野中美希",
+    "category_id": "55",
+    "release_date": "2017-04-03 18:00:00",
+    "created_at": "2016-12-06 10:09:28",
+    "updated_at": "2019-04-24 13:23:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5214",
+        "material_title": "001_nonaka.jpg",
+        "material_file": "878f6941036ee41461b046e0bdb030ef505d54d14c176e19f08443ea7f276be95214.jpeg"
+      }
+    ]
+  }
+]

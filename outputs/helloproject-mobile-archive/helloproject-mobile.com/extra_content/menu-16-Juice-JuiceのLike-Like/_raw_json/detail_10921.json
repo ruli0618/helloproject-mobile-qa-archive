@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 633,
+    "content_id": "10921",
+    "content_title": "植村あかりです！",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2019-03-15 10:00:00",
+    "created_at": "2019-02-28 15:47:46",
+    "updated_at": "2019-03-04 16:55:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9383",
+        "material_title": "0312_uemura_s.jpg",
+        "material_file": "5d167027a4fd26d14ccdcb789723fb73e6185d2892e09893c4eb02ac0170c0359383.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10921",
+    "content_title": "植村あかりです！",
+    "content_sub_title": "植村あかり",
+    "release_date": "2019-03-15 10:00:00",
+    "created_at": "2019-02-28 15:47:46",
+    "updated_at": "2019-03-04 16:55:50",
+    "content_text": "チョコレートのお店のマカロン！めちゃくちゃ美味しかった<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n\r\n0312_uemura_s.jpg\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9383",
+        "material_title": "0312_uemura_s.jpg",
+        "material_file": "3dbba5be74d07f0a680759fa34a31fe6ecd49240491cdbadd2bef38ea861d71d9383.jpeg"
+      }
+    ],
+    "previous_id": "11139",
+    "next_id": "10920",
+    "saved_materials": [
+      "assets/10921_9383_0312_uemura_s.jpg"
+    ]
+  }
+}

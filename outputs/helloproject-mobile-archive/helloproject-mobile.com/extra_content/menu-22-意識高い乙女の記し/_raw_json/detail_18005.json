@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 59,
+    "content_id": "18005",
+    "content_title": "髪",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2022-04-22 16:03:00",
+    "created_at": "2022-04-22 16:03:13",
+    "updated_at": "2022-04-22 16:03:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15026",
+        "material_title": "0422_akiyama_s.jpg",
+        "material_file": "bb26f347ea9b68a8ffb8a8b6667bb616938c3b040da4fca973e0da87aba6263c15026.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18005",
+    "content_title": "髪",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2022-04-22 16:03:00",
+    "created_at": "2022-04-22 16:03:13",
+    "updated_at": "2022-04-22 16:03:13",
+    "content_text": "0422_akiyama_s.jpg\r\n最近は髪の毛を伸ばしてみようかなとおもっております<img src=\"/emoji/emoji-images/f7c3.gif\"/>\r\n今でも結構長くなってきたけどもう少しね♡\r\n\r\n色々な髪型挑戦したい！！\r\nなんでも似合う女性になれるように頑張ります<img src=\"/emoji/emoji-images/453d.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "15026",
+        "material_title": "0422_akiyama_s.jpg",
+        "material_file": "2b489f553a5a58933cd4ec5b6cbddbff265e88e537925d3d3df85ddedaeba35715026.jpeg"
+      }
+    ],
+    "previous_id": "18050",
+    "next_id": "17978",
+    "saved_materials": [
+      "assets/18005_15026_0422_akiyama_s.jpg"
+    ]
+  }
+}

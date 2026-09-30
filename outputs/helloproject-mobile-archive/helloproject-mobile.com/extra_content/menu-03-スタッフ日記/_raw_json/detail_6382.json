@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 606,
+    "content_id": "6382",
+    "content_title": "2日目！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-26 07:46:00",
+    "created_at": "2017-03-26 07:51:58",
+    "updated_at": "2017-03-26 07:51:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5672",
+        "material_title": "DSC_1801.JPG",
+        "material_file": "c3f6aa50087256ebb7d747b4a3eece0e8769f68eb05453ade586d4e5c4f6af645672.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6382",
+    "content_title": "2日目！",
+    "content_sub_title": "",
+    "release_date": "2017-03-26 07:46:00",
+    "created_at": "2017-03-26 07:51:58",
+    "updated_at": "2017-03-26 07:51:58",
+    "content_text": "おはようございます！\r\nスタッフ番号2番です。\r\n\r\n本日も幕張メッセにてイベント2日目！\r\n宣伝部員達のPRステージは、\r\n10:00〜\r\n14:10〜\r\nの二回行われます！\r\n\r\nTシャツの販売は10:00以降行いますが、若干枚数の販売となりますのでご注意ください。\r\nハロ！モバステージはふわふわ地球とNEXT STAGEの間に位置しています。\r\nぜひお越し下さい♪\r\n\r\nDSC_1801.JPG",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5672",
+        "material_title": "DSC_1801.JPG",
+        "material_file": "32e228cf1034516b7af821e76d33de850c522c4effbc7150482605ee4c5eaa1d5672.jpeg"
+      }
+    ],
+    "previous_id": "6421",
+    "next_id": "6381",
+    "saved_materials": [
+      "assets/6382_5672_DSC_1801.JPG"
+    ]
+  }
+}

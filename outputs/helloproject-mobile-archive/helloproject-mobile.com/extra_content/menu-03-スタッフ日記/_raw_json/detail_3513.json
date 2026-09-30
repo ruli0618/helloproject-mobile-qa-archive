@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 695,
+    "content_id": "3513",
+    "content_title": "さやしの部屋の天井裏#4",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-12-01 17:40:00",
+    "created_at": "2015-12-01 17:38:22",
+    "updated_at": "2015-12-02 14:47:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3254",
+        "material_title": "sayashiroom5_1.jpg",
+        "material_file": "ddd91c8685096bbde76507f770adfccd991730a5197e99dde5d1f32fe2bf083d3254.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3255",
+        "material_title": "sayashiroom5_2.jpg",
+        "material_file": "fd780a6e00fcfa55c44c91446a35a9e9bfcf78157ac6b747961a873935a105483255.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3513",
+    "content_title": "さやしの部屋の天井裏#4",
+    "content_sub_title": "",
+    "release_date": "2015-12-01 17:40:00",
+    "created_at": "2015-12-01 17:38:22",
+    "updated_at": "2015-12-02 14:47:13",
+    "content_text": "こんにちは！\nまたまたハロモバスタッフ番号4番♂です。\n本日更新した、「さやしの部屋#5」聞いて頂けましたか？\n\n今回のゲストはモーニング娘。'15リーダー譜久村聖さま！\n前回とはうって変わって鞘師里保が甘えモードになってます。\n二人の記憶も定かではないのですが、二人でラジオに出るのは初めてだ！という噂もありました。\n\n\n今回の収録後の写真はこちら！\n\nsayashiroom5_1.jpg\n\n鞘師里保が少しよそよそしかったんで、\n「もっと寄ってもええんやで。」と心の中でつぶやいた瞬間\n\nsayashiroom5_2.jpg\n\nこうなりました。\n\n\n次回はいよいよ「さやしの部屋」最終回！\n鞘師里保や次回のゲスト宛のメールはこちらまで！\n→<u><a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\">halomoba@gmail.com</font></a></u>\n※締切：12/2(水)23:59まで！",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3254",
+        "material_title": "sayashiroom5_1.jpg",
+        "material_file": "2bbf80f8a2c6db2d353aa0efe0d6519c52a286e4d70d2fada9b2f846daf6be743254.jpeg"
+      },
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3255",
+        "material_title": "sayashiroom5_2.jpg",
+        "material_file": "8b89b99c0fce1249548e7b456a088c5b5a56a7cc1e4c751a71c2b79e9ee97f8c3255.jpeg"
+      }
+    ],
+    "previous_id": "3579",
+    "next_id": "3467",
+    "saved_materials": [
+      "assets/3513_3254_sayashiroom5_1.jpg",
+      "assets/3513_3255_sayashiroom5_2.jpg"
+    ]
+  }
+}

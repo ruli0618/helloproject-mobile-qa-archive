@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 230,
+    "content_id": "18174",
+    "content_title": "【最終回】隣のやじまん家の塀の裏#100 平井美葉",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-31 00:00:00",
+    "created_at": "2022-05-17 17:32:22",
+    "updated_at": "2022-05-17 17:34:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15181",
+        "material_title": "20220517_1.jpg",
+        "material_file": "17b0a5726d46891bdd34574da728a2f332c40995213bc9c97cf06a06a897670215181.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15182",
+        "material_title": "20220517_2.jpg",
+        "material_file": "4455e0d99867ff37cd51235b3d4c15aa067047cb28d3e2a50dfabb1d3b465cb915182.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18174",
+    "content_title": "【最終回】隣のやじまん家の塀の裏#100 平井美葉",
+    "content_sub_title": "",
+    "release_date": "2022-03-31 00:00:00",
+    "created_at": "2022-05-17 17:32:22",
+    "updated_at": "2022-05-17 17:34:28",
+    "content_text": "「隣のやじまん家」第100回、最終回が配信中です！\n\nゲストは、BEYOOOOONDS平井美葉さん！\nこれでBEYOOOOONDS全メンバーがゲスト出演してくれました！\n\n20220517_2.jpg\n\n矢島とゲストの「その頃。と近頃。」コーナーでは、劇団劇ハロと演劇女子部の違い・これからのハロコン・レコーディングで一番頑張ったパート・ファンクラブツアーの思い出やこれからやりたいことなどトークしました。\n\n\n矢島パイセンの○○チェックでは、平井さんの「人たらし」について！\n色んなメンバーからモテモテとのことですが、気になる平井さんの推しメンは？\nまた、今回最終回ということで矢島さんの最新天然エピソードのタレコミも頂きました！笑\nぜひお聴きください♪\n\n今回の「VS矢島」はこちら！\n\n①イケメンイケボ対決！\n男役を演じたことのあるお二人。\n3つのセリフを言って、リスナーのみなさんをよりメロメロにできるのはどっち？\n\n\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から譜久村さんと伊勢さんからの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n\n最終回特別企画「ありがとう！隣のやじまん家」にたくさんのお便りありがとうございました。\n配信の中で全部のメールは読めませんでしたが、\nお送りいただいた分、矢島さんにお渡しして読んでいただきましたよ♡\n\n\nそして最後にお知らせがありましたが「隣のやじまん家」後番組のMCを今回ゲストの平井さんに担当していただくことが決定しました！！\n初回配信は4/19(火)です！\n番組のタイトルやコーナーはリスナーのみなさんから募集して決めていきます。\n引き続き、ハロー！ラジオをよろしくお願いいたします！\n\n\n改めまして、前番組「やじまの部屋」からあわせて約6年ありがとうございました！\nハロー！ラジオはアーカイブが残っていますので、いつでもお聴きいただけます。\nたまに「隣のやじまん家」をまた聴きにきていただけたら嬉しいです。\n\nP.S 収録後はプチお菓子パーティーをしました♪\n\n20220517_1.jpg\n",
+    "materials": [
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15181",
+        "material_title": "20220517_1.jpg",
+        "material_file": "9eed0e5740e9ebab6cec87387335abba91efded1589dde39a9181c7887d86b0415181.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15182",
+        "material_title": "20220517_2.jpg",
+        "material_file": "5860287d624def4a33b4076e1cf6af11a9e98747b4bb5b6d76221b0ed50a388c15182.jpeg"
+      }
+    ],
+    "previous_id": "17976",
+    "next_id": "17832",
+    "saved_materials": [
+      "assets/18174_15181_20220517_1.jpg",
+      "assets/18174_15182_20220517_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 12,
+    "content_id": "21923",
+    "content_title": "活力と団結",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2024-03-18 16:41:00",
+    "created_at": "2024-03-18 16:41:32",
+    "updated_at": "2024-03-18 16:42:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "21923",
+    "content_title": "活力と団結",
+    "content_sub_title": "",
+    "release_date": "2024-03-18 16:41:00",
+    "created_at": "2024-03-18 16:41:32",
+    "updated_at": "2024-03-18 16:42:09",
+    "content_text": "春ツアーがはじまりました<img src=\"/emoji/emoji-images/f9ed.gif\"/>\n\n週末の八王子での4公演が終了！\nゲネプロをいれて5公演、さらにそれらに向けたリハーサルも直前に行っていたので6公演分位動いたね！とメンバーのみんなと話していました！\n\nメンバー同士で、この曲の○○ちゃん・○○さんの歌が好き！ダンスが好き！と言った感想を、お互いにふとした瞬間に伝え合うことが多いです。その言葉が個人の活力になって、グループとしても団結する力に繋がってくるんじゃないかなと、ふと思いました。その瞬間も含めて、とても幸せだと感じました！\n\nここからツアーはもちろん月末のひなフェスの準備もありますが、一つ一つ丁寧に向き合って楽しもうと思います！みなさんも身体に気をつけてお過ごしくださいね。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "22681",
+    "next_id": "21891",
+    "saved_materials": []
+  }
+}

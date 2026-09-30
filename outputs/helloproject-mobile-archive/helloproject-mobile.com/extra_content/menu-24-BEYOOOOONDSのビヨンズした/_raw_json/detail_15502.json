@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 410,
+    "content_id": "15502",
+    "content_title": "おもちくんグッズ！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-02-24 10:00:00",
+    "created_at": "2021-02-19 22:22:41",
+    "updated_at": "2022-01-17 14:47:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12897",
+        "material_title": "0224_satoyoshi_s.jpg",
+        "material_file": "25161d16d68bd00abadd6765da0b020f64606962ee3ce33f5187a729cbc8147012897.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15502",
+    "content_title": "おもちくんグッズ！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-02-24 10:00:00",
+    "created_at": "2021-02-19 22:22:41",
+    "updated_at": "2022-01-17 14:47:43",
+    "content_text": "0224_satoyoshi_s.jpg\n姉がおもちくんの写真でオリジナルがま口とトートバッグをオーダーしてくれました！！\n世界にこれだけの里吉おもちオリジナルグッズ！(笑)\nとっても可愛くて見ると元気になるお気に入りのものです！\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12897",
+        "material_title": "0224_satoyoshi_s.jpg",
+        "material_file": "9e41b25ccc130ebb513cd7633240beb1560d69bd8d1138b45f62ed2efaf8774512897.jpeg"
+      }
+    ],
+    "previous_id": "15503",
+    "next_id": "15501",
+    "saved_materials": [
+      "assets/15502_12897_0224_satoyoshi_s.jpg"
+    ]
+  }
+}

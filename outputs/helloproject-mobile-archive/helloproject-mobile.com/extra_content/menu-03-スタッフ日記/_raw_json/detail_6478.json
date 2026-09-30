@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 604,
+    "content_id": "6478",
+    "content_title": "工藤の家の天井裏#31　～シークレット～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-04-04 20:49:00",
+    "created_at": "2017-04-04 20:47:05",
+    "updated_at": "2017-04-04 20:49:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5736",
+        "material_title": "170404_s.jpg",
+        "material_file": "e307ec2b788f26987d76a94de4faeebb09fa4105b119b44e609764658484084a5736.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6478",
+    "content_title": "工藤の家の天井裏#31　～シークレット～",
+    "content_sub_title": "",
+    "release_date": "2017-04-04 20:49:00",
+    "created_at": "2017-04-04 20:47:05",
+    "updated_at": "2017-04-04 20:49:54",
+    "content_text": "やじまの部屋#31公開！\r\n今回は特別ゲストという事で、普段とフォーマットを変えての配信となります！\r\n\r\n皆さん、シークレットゲストの予想は当たりましたか？\r\n矢島さんも安心した今回のゲストはこの人！\r\n\r\n170404_s.jpg\r\n\r\nBerryz工房活動停止後初のラジオ出演となる、\r\n清水佐紀さんです！\r\n\r\n(※写真：話題にも上がった藤本美貴「ブギートレイン'03」の振り付けポーズでのツーショット。)\r\n\r\n清水さんから見た℃-ute、今のハロー！プロジェクトから、キッズ時代の話、日常の過ごし方まで、リスナーからの沢山の質問に答えてくれています！\r\n\r\n貴重なこの配信、ぜひお聴き下さい。\r\n\r\nこの出演を知らない清水さんファンのお友達にも、この配信の存在を教えてあげて下さいね！\r\n\r\n※お知らせ※\r\n次回配信予定でした4月2回目の配信をお休みにさせていただきます。\r\nいつも配信を心待ちにして下さっている皆さま、お待たせして申し訳ありません。\r\n\r\n次回は、5月初旬の配信となります。\r\nスペシャル感満載でお送りしますので、\r\nどうぞお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5736",
+        "material_title": "170404_s.jpg",
+        "material_file": "82442495dbacc02b5d1465853120cd69f58e38d5783e21018b7ea6a6f1b690455736.jpeg"
+      }
+    ],
+    "previous_id": "6479",
+    "next_id": "6421",
+    "saved_materials": [
+      "assets/6478_5736_170404_s.jpg"
+    ]
+  }
+}

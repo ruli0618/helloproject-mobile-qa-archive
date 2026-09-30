@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 221,
+    "content_id": "18526",
+    "content_title": "みよちゃん家の縁側の猫#3 稲場愛香",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-24 00:00:00",
+    "created_at": "2022-07-15 17:42:24",
+    "updated_at": "2022-07-15 17:42:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15425",
+        "material_title": "220715_2.jpg",
+        "material_file": "3d365c0c09bd67f7d5a5b096b5f75ac0c7b30d7c733bfc9f709fd42cc1dac78515425.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15426",
+        "material_title": "220715_1.jpg",
+        "material_file": "3f1544d77406ac5961647301a86bc853c3e3361dc04ee37d15cd4c1f61169df915426.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18526",
+    "content_title": "みよちゃん家の縁側の猫#3 稲場愛香",
+    "content_sub_title": "",
+    "release_date": "2022-05-24 00:00:00",
+    "created_at": "2022-07-15 17:42:24",
+    "updated_at": "2022-07-15 17:42:24",
+    "content_text": "「みよちゃん家の縁側」#3配信中です！\r\n\r\n第3回ゲストは、卒業間近のJuice=Juice稲場愛香さん！\r\nギリギリ卒業前に縁側に遊びに来てくれました<img src=\"/emoji/emoji-images/5047.gif\"/>\r\n\r\n220715_2.jpg\r\n\r\nハロプロダンス学園でも共演しているお2人！\r\n楽しい雰囲気で収録が進みましたよ♪\r\n\r\n逆再生チャレンジコーナーではこちらのお題に挑戦！\r\n\r\n①たこやき～\r\n②大好きだよ♡\r\n③がんばってみよー！/がんばりまなかん♡\r\n\r\n稲場さんは独特な動きをしながら全力でチャレンジしてくれました(笑)\r\n大盛り上がり大爆笑の逆再生チャレンジぜひお聴きください！\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「君の戦法」のセリフ部分をかわいく！「赤ずきんとオオカミ」の二本立てでお送りしました<img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\n\r\n平井ん家の踊り場コーナーでは、お2人といえば！の「ハロプロダンス学園」で大変だったこと、お互いのダンスで好きなところ、などなど予定していたお便りが読み切れないほど熱く語っています！\r\n\r\nその他ふつうのお便りでもたくさんのメールを紹介しているので、是非お聴きくださいね。\r\n\r\n220715_1.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第4回ゲストはモーニング娘。'22 羽賀朱音さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15425",
+        "material_title": "220715_2.jpg",
+        "material_file": "ba9598f2f302afaafb4120dedb57e818b19c30c98609d3c84bb4b96fac7d7e4c15425.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15426",
+        "material_title": "220715_1.jpg",
+        "material_file": "8afe7ccfe8613288d1698174f484192d8dc73edf84ea9f80b8073a6fe12aec2515426.jpeg"
+      }
+    ],
+    "previous_id": "18253",
+    "next_id": "18178",
+    "saved_materials": [
+      "assets/18526_15425_220715_2.jpg",
+      "assets/18526_15426_220715_1.jpg"
+    ]
+  }
+}

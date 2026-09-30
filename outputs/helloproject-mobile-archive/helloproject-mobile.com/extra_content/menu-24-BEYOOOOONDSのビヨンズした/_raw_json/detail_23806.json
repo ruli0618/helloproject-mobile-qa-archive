@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 125,
+    "content_id": "23806",
+    "content_title": "イケてる",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-02-24 11:00:00",
+    "created_at": "2025-02-17 13:03:52",
+    "updated_at": "2025-02-17 13:03:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19560",
+        "material_title": "0224_kobayashi_s.jpg",
+        "material_file": "e327108092befde42cdb48dab5c34121abb8d53d93ebe4256e71c993faef110d19560.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23806",
+    "content_title": "イケてる",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-02-24 11:00:00",
+    "created_at": "2025-02-17 13:03:52",
+    "updated_at": "2025-02-17 13:03:52",
+    "content_text": "0224_kobayashi_s.jpg\r\nかわいい衣装でもポーズがイケてればイケてる！！！\r\n\r\n【40周目お題：イケてる】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19560",
+        "material_title": "0224_kobayashi_s.jpg",
+        "material_file": "9eb9c1ac618f60f49e0f716541dc68e51d6373c35cae992998077c1bdf7adfc519560.jpeg"
+      }
+    ],
+    "previous_id": "23807",
+    "next_id": "23805",
+    "saved_materials": [
+      "assets/23806_19560_0224_kobayashi_s.jpg"
+    ]
+  }
+}

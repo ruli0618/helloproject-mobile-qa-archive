@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 659,
+    "content_id": "10485",
+    "content_title": "8人で夢の国",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2018-12-16 11:00:00",
+    "created_at": "2018-12-11 15:25:43",
+    "updated_at": "2018-12-11 15:25:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9060",
+        "material_title": "1216_inaba_s.jpg",
+        "material_file": "43b09af6bd0dbe51b71581d12b955a1763ec16022e3b992ebeaf55db32e409e29060.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10485",
+    "content_title": "8人で夢の国",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2018-12-16 11:00:00",
+    "created_at": "2018-12-11 15:25:43",
+    "updated_at": "2018-12-11 15:25:43",
+    "content_text": "1216_inaba_s.jpg\r\n11月12日に8人でディズニーランドに行ってきました！8人でお出かけするのは初めてで、しかもそれが夢の国だなんて…帰って来れなくなるんじゃないかと思う位楽しかったです♪まだまだ8人での思い出を増やしていきたいです。",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "9060",
+        "material_title": "1216_inaba_s.jpg",
+        "material_file": "fd4bf100c4609182c2fa57ca95eaad92ed0f9dd078f9ab1d94da1d10df9565529060.jpeg"
+      }
+    ],
+    "previous_id": "10487",
+    "next_id": "10484",
+    "saved_materials": [
+      "assets/10485_9060_1216_inaba_s.jpg"
+    ]
+  }
+}

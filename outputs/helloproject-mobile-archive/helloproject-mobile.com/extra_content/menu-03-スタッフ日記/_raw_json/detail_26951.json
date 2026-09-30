@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 58,
+    "content_id": "26951",
+    "content_title": "宣伝会議#108",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-03-24 00:00:00",
+    "created_at": "2026-09-28 15:36:55",
+    "updated_at": "2026-09-28 15:36:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22019",
+        "material_title": "108.jpg",
+        "material_file": "6f81eeb66ec07ea81f0f58c347017ab3a6f4d23e0a975e9240ae09f82a3eabb622019.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22020",
+        "material_title": "108_02.jpg",
+        "material_file": "0dbb60ed5198e01ce5d54060e2a5398700fdba5cd38ee1da733fd11fd99e3fa422020.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22021",
+        "material_title": "108_01.jpg",
+        "material_file": "c51797cbc52a5803beb699ac075f121a4a3060fdb1ca90ede6fa6d4fef70425422021.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26951",
+    "content_title": "宣伝会議#108",
+    "content_sub_title": "",
+    "release_date": "2025-03-24 00:00:00",
+    "created_at": "2026-09-28 15:36:55",
+    "updated_at": "2026-09-28 15:36:55",
+    "content_text": "108_01.jpg\r\n\r\n宣伝会議第108回は、前田こころ副部長・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・おすすめグルメ、お土産\r\n・ハロプロ研修生注目メンバー\r\n・個別イベントのアドバイス\r\n・バレンタイン\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「心が読める能力、未来が見える能力」についてディベート！\r\n\r\n後編では、\r\n・THE FIRST TAKE\r\n・リリースイベント\r\n・海外公演\r\n・TikTokドラマ\r\n・会場の違い\r\n・同い年メンバー\r\n・ファンは推しに似る？\r\n・人見知り\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「広本瑠璃」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n108.jpg\r\n\r\n108_02.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22019",
+        "material_title": "108.jpg",
+        "material_file": "53dea2c4dfe68cfe00386f32fedf0db5b8ffe069b7bad6fc22ec23643d26984422019.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22020",
+        "material_title": "108_02.jpg",
+        "material_file": "2f51b6a98855f686fc562be616f493e74ac4cad7f50b765998ef93c5b757973722020.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22021",
+        "material_title": "108_01.jpg",
+        "material_file": "87455573b123b7321643b206dc7e7e089a76844fa8c906d1f14061a9893108f822021.jpeg"
+      }
+    ],
+    "previous_id": "26983",
+    "next_id": "26982",
+    "saved_materials": [
+      "assets/26951_22019_108.jpg",
+      "assets/26951_22020_108_02.jpg",
+      "assets/26951_22021_108_01.jpg"
+    ]
+  }
+}

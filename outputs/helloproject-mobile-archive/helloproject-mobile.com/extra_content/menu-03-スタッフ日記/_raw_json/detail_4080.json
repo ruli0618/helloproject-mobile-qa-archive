@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 675,
+    "content_id": "4080",
+    "content_title": "こぶしファクトリー・クリエーター対談",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-02-19 16:00:00",
+    "created_at": "2016-02-19 16:43:30",
+    "updated_at": "2016-02-19 16:55:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3749",
+        "material_title": "0219kobushi.jpg",
+        "material_file": "d15cfaff1ad5cb5f28dd2672d666655456ffd730b5fcea62b6e5a02d1dd13fed3749.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4080",
+    "content_title": "こぶしファクトリー・クリエーター対談",
+    "content_sub_title": "",
+    "release_date": "2016-02-19 16:00:00",
+    "created_at": "2016-02-19 16:43:30",
+    "updated_at": "2016-02-19 16:55:05",
+    "content_text": "みなさん、こんにちは！「アプカミ」の制作担当スタッフです。\r\n\r\n「アプカミ」はいつもご覧頂いてますか？\r\n「アプカミ」は「MUSIC+」からリニューアルした、アーティストや制作現場にいろんな角度から“密着”、\r\n新たな魅力に“接近”して、お伝えしていく番組です。\r\n \r\n今週は、こぶしファクトリーのシングル発売週ですので…\r\n2/19配信「アプカミ #04」は、こぶしファクトリーSPと言っても過言ではない内容になっています!!\r\n\r\nアプカミ Talk Sessionと題して、今回のシングル「桜ナイトフィーバー」の編曲者：ダンス☆マンさんと、\r\n「チョット愚直に、猪突猛進」の作詞曲者：前山田健一（ヒャダイン）さんのクリエーター対談を２週に渡ってお届けします。\r\nこぶしファクトリー愛、ハロプロ愛に溢れる対談になっています。\r\n\r\n後は…「押忍！こぶし魂」のMV撮影の裏側、\r\n「チョット愚直に、猪突猛進」の河合代介氏によるオルガン・レコーディング風景（まさに神業!!）をお届けします。\r\n\r\nお楽しみに!!\r\n\r\n0219kobushi.jpg\r\n今後も、「アプカミ」を宜しくお願い致します。\r\n\r\n<u><a href=\"https://www.youtube.com/c/upcomi/\"><font color=\"#0000ff\">「アプカミ」はコチラ</font></a></u>\r\n「アプカミ」では、メッセージも受け付けております！\r\n<u><a href=\"http://www.up-front-works.jp/upcoming/\"><font color=\"#0000ff\">メッセージはコチラから</font></a></u>\r\n",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3749",
+        "material_title": "0219kobushi.jpg",
+        "material_file": "d7a73d8004e81a417edd2e6ebd39db572f7795f8b36e9825be0818ce490136983749.jpeg"
+      }
+    ],
+    "previous_id": "4122",
+    "next_id": "4049",
+    "saved_materials": [
+      "assets/4080_3749_0219kobushi.jpg"
+    ]
+  }
+}

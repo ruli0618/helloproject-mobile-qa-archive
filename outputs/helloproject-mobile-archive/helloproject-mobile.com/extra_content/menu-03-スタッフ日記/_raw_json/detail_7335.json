@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 580,
+    "content_id": "7335",
+    "content_title": "宣伝会議 議事録#17",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-08-25 19:20:00",
+    "created_at": "2017-08-25 19:21:04",
+    "updated_at": "2017-08-25 19:28:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6467",
+        "material_title": "1708252_s.jpg",
+        "material_file": "ff97d93294fdec4783491df34639c5167525aa66c6738b1ca68c2c704d22d4336467.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6468",
+        "material_title": "1708251_s.jpg",
+        "material_file": "4635ca34c8d777c7ec4c9d52fdd7034b46b316eef8993bf022bf186ad20b68276468.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6470",
+        "material_title": "1708253_s.jpg",
+        "material_file": "2d505e689d87b8e34825ba57b0a49b19ca9ab2301ff494534ecf161bd356d2826470.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7335",
+    "content_title": "宣伝会議 議事録#17",
+    "content_sub_title": "",
+    "release_date": "2017-08-25 19:20:00",
+    "created_at": "2017-08-25 19:21:04",
+    "updated_at": "2017-08-25 19:28:04",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希、顧問の工藤遥による17回目の宣伝会議が行われました！\r\n\r\n今回はスケジュールの都合で秘書の梁川奈々美がお休みになってしまい、3人での収録になりましたが、本人がいなくても梁川の話題で大盛り上がり！\r\nそして、やはり宣伝部には梁川が必要ということを再認識しました。\r\n\r\n\r\n1708251_s.jpg\r\n梁川が良くやるポーズだそうです。\r\n\r\n今回はハロ！モバ内のコンテンツでモーニング娘。'17春ツアーを振り返ってみました。\r\n\r\n別の角度でコンテンツを見るとまた新たな発見もあるかもしれませんね。\r\n\r\n\r\n野中書記が今回の議事録に本気のウサギを書いたそうですので、、、\r\n\r\n1708252_s.jpg\r\n感想のメールお待ちしてます！\r\n\r\n今回の書記のメモはこちら！\r\n\r\n1708253_s.jpg\r\n\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6467",
+        "material_title": "1708252_s.jpg",
+        "material_file": "770f0c4097d3eccdd0cb1b0ba37359de596c807a93d4934de31702a14822a7ed6467.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6468",
+        "material_title": "1708251_s.jpg",
+        "material_file": "56f50f3980a425e5baa9934da537e4e2a8e28071dfd17211fd8149e9426b9b4e6468.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6470",
+        "material_title": "1708253_s.jpg",
+        "material_file": "e749adf351c80120b7661ea2a5adc25412b4b3780b79e83bc30fa0179a5fb7526470.jpeg"
+      }
+    ],
+    "previous_id": "7385",
+    "next_id": "7300",
+    "saved_materials": [
+      "assets/7335_6467_1708252_s.jpg",
+      "assets/7335_6468_1708251_s.jpg",
+      "assets/7335_6470_1708253_s.jpg"
+    ]
+  }
+}

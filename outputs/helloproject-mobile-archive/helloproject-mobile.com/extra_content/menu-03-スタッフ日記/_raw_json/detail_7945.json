@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 557,
+    "content_id": "7945",
+    "content_title": "工藤の家の屋根裏部屋#11～竹内朱莉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-16 21:24:00",
+    "created_at": "2017-11-16 21:24:55",
+    "updated_at": "2017-11-16 21:25:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7011",
+        "material_title": "171116_2_1_s.jpg",
+        "material_file": "9df34a1f7cf1f8c9f9cacae0256c3998266fc4f094187a9c132231c7a626ce197011.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7012",
+        "material_title": "171116_2_2_s.jpg",
+        "material_file": "7cd7e6d047f203ffaa9117cdbe19a653b5d77c97fce585a1a9dca5b92eca030c7012.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7945",
+    "content_title": "工藤の家の屋根裏部屋#11～竹内朱莉～",
+    "content_sub_title": "",
+    "release_date": "2017-11-16 21:24:00",
+    "created_at": "2017-11-16 21:24:55",
+    "updated_at": "2017-11-16 21:25:49",
+    "content_text": "「ふくむらの部屋」11回目の配信が開始しました！\nお聴きいただけましたでしょうか？\n\nゲストはアンジュルムの竹内朱莉さんが登場。\n仲良しコンビの笑いの絶えない回になっています！\n\n\n171116_2_1_s.jpg\n\nまるでファミレスで話しているかのような！（褒め言葉です）\n二人の仲の良さが伝わってきます。。。\n\n「みずき先生のハロプロ講座」\nハロプロエッグの同期の二人ということもあって、オーディションやエッグ時代のエピソードなど！\n懐かしい話を中心にかなりマニアックな内容になっているかと思います！\n譜久村さんのバースデーイベントの裏話も満載です！\n\n171116_2_2_s.jpg\n\n\n「みずきのハロプロNo.1」\n新企画をお試しスタート！\nボーイッシュナンバーワンは!?\n手料理を食べてみたいメンバーワンは!?\n譜久村さんがあのメンバーからもらった〇〇は手作りだった!?\n面白エピソードの連続です！\n\nこちらのコーナー引き続きたくさんのお題をお待ちしております！\n\n\n次回のゲストはモーニング娘。’17から工藤遥さん、小田さくらさんの2名がゲストに登場\n初の3人でお送りするスペシャル会になります！\nお楽しみに！！\n\n\n\n「みずき先生のハロプロ講座」「みずきのハロプロNo.1」\n普通のお便りも募集中！\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7011",
+        "material_title": "171116_2_1_s.jpg",
+        "material_file": "2a6a67ddf0600c985d1e516de7d0f833b0c9c68b712c9336eb2fc5a82964be8a7011.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7012",
+        "material_title": "171116_2_2_s.jpg",
+        "material_file": "f79e1d223d773f6e24200761f269c8a6e8be33c635ce0ac846b489d3d4b449c17012.jpeg"
+      }
+    ],
+    "previous_id": "7957",
+    "next_id": "7944",
+    "saved_materials": [
+      "assets/7945_7011_171116_2_1_s.jpg",
+      "assets/7945_7012_171116_2_2_s.jpg"
+    ]
+  }
+}

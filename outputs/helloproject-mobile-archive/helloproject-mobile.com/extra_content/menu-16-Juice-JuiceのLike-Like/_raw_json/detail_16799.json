@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 431,
+    "content_id": "16799",
+    "content_title": "卵スープ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2021-10-05 10:00:00",
+    "created_at": "2021-09-21 20:33:29",
+    "updated_at": "2021-09-21 20:33:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14010",
+        "material_title": "211005_ebata_s.jpg",
+        "material_file": "1431678bb8b088a2c5169105f445629e0a78c91678bae546d8f3e30128e0dcc714010.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16799",
+    "content_title": "卵スープ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2021-10-05 10:00:00",
+    "created_at": "2021-09-21 20:33:29",
+    "updated_at": "2021-09-21 20:33:29",
+    "content_text": "211005_ebata_s.jpg\r\n最近、卵スープにすごくハマっています！\r\n前からハマっていたんですけど、最近もっと好きになって毎日のように飲んでいます笑笑",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "14010",
+        "material_title": "211005_ebata_s.jpg",
+        "material_file": "0ff29fc6dbdfa5d359bc6938d56d539c43c84efb48a6e04ea91ecbb54dde9f3914010.jpeg"
+      }
+    ],
+    "previous_id": "16869",
+    "next_id": "16798",
+    "saved_materials": [
+      "assets/16799_14010_211005_ebata_s.jpg"
+    ]
+  }
+}

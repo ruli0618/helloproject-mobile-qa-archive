@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 237,
+    "content_id": "20774",
+    "content_title": "料理！",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2023-08-31 10:00:00",
+    "created_at": "2023-08-29 18:29:27",
+    "updated_at": "2023-08-29 18:29:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17105",
+        "material_title": "0831_arisawa.jpg",
+        "material_file": "dc8910bb8bacd36916510e77fc6e917500cbe1528be5cb1e3797d756566c247617105.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20774",
+    "content_title": "料理！",
+    "content_sub_title": "有澤一華",
+    "release_date": "2023-08-31 10:00:00",
+    "created_at": "2023-08-29 18:29:27",
+    "updated_at": "2023-08-29 18:29:27",
+    "content_text": "やっほ\r\n\r\n私は最近料理にどハマり中です。\r\n\r\n私の作品是非見て欲しい。\r\n\r\n恥ずかしいけどお裾分けします\r\n\r\n0831_arisawa.jpg\r\n\r\nじゃーのー",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17105",
+        "material_title": "0831_arisawa.jpg",
+        "material_file": "7ff1cfb9f57196090b3c40ce1da28496ead9405cbcaeadf656896c72bbaee04617105.jpeg"
+      }
+    ],
+    "previous_id": "20775",
+    "next_id": "20750",
+    "saved_materials": [
+      "assets/20774_17105_0831_arisawa.jpg"
+    ]
+  }
+}

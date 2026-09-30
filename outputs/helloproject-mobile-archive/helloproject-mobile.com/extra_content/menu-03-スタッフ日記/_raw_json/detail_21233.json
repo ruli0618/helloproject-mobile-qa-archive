@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 170,
+    "content_id": "21233",
+    "content_title": "工藤の家の屋根裏部屋#125～川名凜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-02-07 00:00:00",
+    "created_at": "2023-11-14 15:39:06",
+    "updated_at": "2023-11-14 15:39:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17438",
+        "material_title": "230207_s.jpg",
+        "material_file": "5c5c22ba3ec8e0bae7ab554e396aca0b44bf142a0dfd9a3eaca62da1ad9c588a17438.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21233",
+    "content_title": "工藤の家の屋根裏部屋#125～川名凜～",
+    "content_sub_title": "",
+    "release_date": "2023-02-07 00:00:00",
+    "created_at": "2023-11-14 15:39:06",
+    "updated_at": "2023-11-14 15:39:06",
+    "content_text": "ふくむらの部屋 第125回は、アンジュルム川名凜さんが登場！\r\n\r\n・おすすめゲーム\r\n・仲良くなったメンバー\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n雨を歌うハロプロソングをひねり出せ！クイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・歴代推しメン\r\n・パンダさん対面\r\nを語りました！\r\n\r\n後半では、\r\n・楽屋の過ごし方\r\nについてトーク！\r\n\r\n230207_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17438",
+        "material_title": "230207_s.jpg",
+        "material_file": "05cf224bc62545db028ce812697c48d3e5af1c5158941587e333382b464d670117438.jpeg"
+      }
+    ],
+    "previous_id": "21313",
+    "next_id": "19570",
+    "saved_materials": [
+      "assets/21233_17438_230207_s.jpg"
+    ]
+  }
+}

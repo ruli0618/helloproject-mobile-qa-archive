@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 117,
+    "content_id": "16135",
+    "content_title": "ティータイム",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-05-25 16:53:00",
+    "created_at": "2021-05-25 16:55:24",
+    "updated_at": "2021-05-25 16:56:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13459",
+        "material_title": "210525_tanimoto_s.jpg",
+        "material_file": "3faa54a60ea3bded45415663b29dc632af8d4fc41efe20e64d656550d4e1ad8b13459.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16135",
+    "content_title": "ティータイム",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-05-25 16:53:00",
+    "created_at": "2021-05-25 16:55:24",
+    "updated_at": "2021-05-25 16:56:03",
+    "content_text": "210525_tanimoto_s.jpg\r\n最近時間ある時\r\nティータイムしてるよ\r\n前にゆめりんからもらった\r\nはちみつ紅茶美味しすぎた<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13459",
+        "material_title": "210525_tanimoto_s.jpg",
+        "material_file": "40c4c24ba8b93523af7da8181c2fc3a96997d1adf1ff349c3f945f0dd5a9ffd613459.jpeg"
+      }
+    ],
+    "previous_id": "16166",
+    "next_id": "16062",
+    "saved_materials": [
+      "assets/16135_13459_210525_tanimoto_s.jpg"
+    ]
+  }
+}

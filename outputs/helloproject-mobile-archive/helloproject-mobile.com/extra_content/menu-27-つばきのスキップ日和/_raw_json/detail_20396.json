@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 140,
+    "content_id": "20396",
+    "content_title": "新コーナー！",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "155",
+    "release_date": "2023-06-23 10:00:00",
+    "created_at": "2023-06-22 18:08:34",
+    "updated_at": "2023-06-22 18:08:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "16828",
+        "material_title": "0623_onoda_s.jpg",
+        "material_file": "0f6927d00504372e3376527554db698d0e1babaeac535d1b7407060e09d6af2d16828.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20396",
+    "content_title": "新コーナー！",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2023-06-23 10:00:00",
+    "created_at": "2023-06-22 18:08:34",
+    "updated_at": "2023-06-22 18:08:34",
+    "content_text": "0623_onoda_s.jpg\r\nなに書こうかなあーと写真を見返してたら、\r\nつばきみんなでバーベキューした時の写真が出てきたので共有しますね！！！\r\n夏を感じられて最高！\r\n\r\nまたバーベキューしたいなあー\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16828",
+        "material_title": "0623_onoda_s.jpg",
+        "material_file": "0bf22f6f1bd8eddc0c48953e6abafd5c2b34f20b77a2152ad05e95c876c183f816828.jpeg"
+      }
+    ],
+    "previous_id": "20422",
+    "next_id": "20390",
+    "saved_materials": [
+      "assets/20396_16828_0623_onoda_s.jpg"
+    ]
+  }
+}

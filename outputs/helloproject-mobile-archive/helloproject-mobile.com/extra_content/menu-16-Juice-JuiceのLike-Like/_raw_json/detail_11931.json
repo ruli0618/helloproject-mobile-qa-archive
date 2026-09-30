@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 602,
+    "content_id": "11931",
+    "content_title": "Sea！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2019-08-19 13:45:00",
+    "created_at": "2019-08-19 13:46:20",
+    "updated_at": "2019-08-19 13:46:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10190",
+        "material_title": "0819_matsunaga_s.jpg",
+        "material_file": "6a0ff560df0f91e7840ef4f29fa959535ba8f78c12dbfbba30a0efc387bd986710190.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11931",
+    "content_title": "Sea！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2019-08-19 13:45:00",
+    "created_at": "2019-08-19 13:46:20",
+    "updated_at": "2019-08-19 13:46:20",
+    "content_text": "私のLIKE＝LIKEは\r\n\r\n海でーす♪♪\r\n\r\n0819_matsunaga_s.jpg\r\n\r\nこの写真はOTODAMAの時の写真なんですけどすっごい楽しかったです〜！！",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10190",
+        "material_title": "0819_matsunaga_s.jpg",
+        "material_file": "b7ab4b4366415c1f6431f869c62b33f69df23b877f639716c6bc7ca9ae74141210190.jpeg"
+      }
+    ],
+    "previous_id": "12065",
+    "next_id": "11902",
+    "saved_materials": [
+      "assets/11931_10190_0819_matsunaga_s.jpg"
+    ]
+  }
+}

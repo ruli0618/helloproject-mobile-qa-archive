@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 412,
+    "content_id": "15283",
+    "content_title": "アラビア語のポーズ",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2021-02-15 10:00:00",
+    "created_at": "2021-01-07 23:16:48",
+    "updated_at": "2022-01-17 14:47:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12716",
+        "material_title": "0215_kiyono_s.jpg",
+        "material_file": "8d359d96b890f3e8dc5d19c17c6c97006d62213c410dd49a300c659cc0517a8712716.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15283",
+    "content_title": "アラビア語のポーズ",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2021-02-15 10:00:00",
+    "created_at": "2021-01-07 23:16:48",
+    "updated_at": "2022-01-17 14:47:28",
+    "content_text": "0215_kiyono_s.jpg\nりかちゃんどこ見てるの\n\n【8周目お題：カメラ目線】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12716",
+        "material_title": "0215_kiyono_s.jpg",
+        "material_file": "60d4e7237c99e53e2d07c7734f36bfc0098b0d16447a4ba7f7af6e41b8bd53fe12716.jpeg"
+      }
+    ],
+    "previous_id": "15501",
+    "next_id": "15282",
+    "saved_materials": [
+      "assets/15283_12716_0215_kiyono_s.jpg"
+    ]
+  }
+}

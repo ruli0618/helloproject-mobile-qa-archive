@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 433,
+    "content_id": "16797",
+    "content_title": "食欲の秋！！",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2021-09-28 10:00:00",
+    "created_at": "2021-09-21 20:33:28",
+    "updated_at": "2021-09-21 20:33:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14008",
+        "material_title": "210928_arisawa_s.jpg",
+        "material_file": "1df2b17cf6a039aa6c5e29e5f262940323dc974f3ebf15f9587f33d8cd8f7d8014008.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16797",
+    "content_title": "食欲の秋！！",
+    "content_sub_title": "有澤一華",
+    "release_date": "2021-09-28 10:00:00",
+    "created_at": "2021-09-21 20:33:28",
+    "updated_at": "2021-09-21 20:33:28",
+    "content_text": "210928_arisawa_s.jpg\r\nこんにちは！！\r\n有澤一華です\r\n\r\n\r\n私は、この秋！\r\nIミリの極細生搾りモンブランを食べてみたいと思います！！\r\n\r\n食欲の秋でしたー(笑)\r\n\r\n\r\nじゃあ、またね♫らぶ",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "14008",
+        "material_title": "210928_arisawa_s.jpg",
+        "material_file": "f94d9805cc4bec1b0f32f05e091e8da33534829100c9c28055db79ce3c9c398b14008.jpeg"
+      }
+    ],
+    "previous_id": "16798",
+    "next_id": "16796",
+    "saved_materials": [
+      "assets/16797_14008_210928_arisawa_s.jpg"
+    ]
+  }
+}

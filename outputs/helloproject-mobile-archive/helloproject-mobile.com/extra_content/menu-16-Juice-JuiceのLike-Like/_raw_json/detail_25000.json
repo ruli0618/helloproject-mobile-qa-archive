@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 55,
+    "content_id": "25000",
+    "content_title": "ライブ",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2025-10-07 10:00:00",
+    "created_at": "2025-09-24 14:10:50",
+    "updated_at": "2025-09-24 14:11:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20424",
+        "material_title": "1007_inoue_s.jpg",
+        "material_file": "ac2a849c9b3800f75d91b921ffc8b48cd8b0782dddad92c532a829f22123e21220424.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25000",
+    "content_title": "ライブ",
+    "content_sub_title": "有澤一華",
+    "release_date": "2025-10-07 10:00:00",
+    "created_at": "2025-09-24 14:10:50",
+    "updated_at": "2025-09-24 14:11:51",
+    "content_text": "1007_inoue_s.jpg\r\nライブについてちょっと違うアプローチをしてみようと考えてそれを実行してみてます！！\r\n\r\nゲームの世界にいる自分を俯瞰的にみて操ってる感覚？で今頑張ってます！まじで感覚の話なんだけど、、\r\n\r\n失敗もあるけどなんとか集中力を保てるように頑張ってます！\r\nこれからもがんばります",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20424",
+        "material_title": "1007_inoue_s.jpg",
+        "material_file": "79344fa4319f8d20ae68a518a602fd11636d0932aea66c2ff67d39056231955520424.jpeg"
+      }
+    ],
+    "previous_id": "25001",
+    "next_id": "24999",
+    "saved_materials": [
+      "assets/25000_20424_1007_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 623,
+    "content_id": "11338",
+    "content_title": "一夜限り",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2019-05-09 10:00:00",
+    "created_at": "2019-05-07 11:50:44",
+    "updated_at": "2019-05-07 11:50:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9705",
+        "material_title": "0509_miyazaki_s.jpg",
+        "material_file": "8f0a96b41e5bdc268646e49c38bb8f6a625a3fcea1e1e8c83a355f9d07831f109705.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11338",
+    "content_title": "一夜限り",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2019-05-09 10:00:00",
+    "created_at": "2019-05-07 11:50:44",
+    "updated_at": "2019-05-07 11:50:44",
+    "content_text": "0509_miyazaki_s.jpg\r\nNEXT YOU一夜限りの復活！",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9705",
+        "material_title": "0509_miyazaki_s.jpg",
+        "material_file": "999c11d680469f3b8c2727786b47517ee95fc063ef366961a01a2b5bd21c7e869705.jpeg"
+      }
+    ],
+    "previous_id": "11349",
+    "next_id": "11337",
+    "saved_materials": [
+      "assets/11338_9705_0509_miyazaki_s.jpg"
+    ]
+  }
+}

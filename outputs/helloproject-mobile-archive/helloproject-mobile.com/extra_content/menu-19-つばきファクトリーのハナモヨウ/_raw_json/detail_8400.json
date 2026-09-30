@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 123,
+    "content_id": "8400",
+    "content_title": "元気に咲いてます。",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-01-19 17:05:00",
+    "created_at": "2018-01-19 17:03:22",
+    "updated_at": "2018-01-19 17:12:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7381",
+        "material_title": "0119_yamagishi_s.jpg",
+        "material_file": "d04b0a0403e53b70cf6ac828d808e7f99a7e584d5e31b030e03c1fbd882a40827381.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8400",
+    "content_title": "元気に咲いてます。",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-01-19 17:05:00",
+    "created_at": "2018-01-19 17:03:22",
+    "updated_at": "2018-01-19 17:12:43",
+    "content_text": "こんにちはー！\r\n\r\nつばきファクトリーの山岸理子です！\r\n\r\n黄色い小さなお花です( ´ω` )\r\n\r\n0119_yamagishi_s.jpg\r\n\r\n雨降ったあとでも、\r\n元気に咲いてました♡\r\n可愛い…癒されました(´ー`＊)\r\n\r\n(∩´∀`∩)ﾊﾞｨﾊﾞｨ",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7381",
+        "material_title": "0119_yamagishi_s.jpg",
+        "material_file": "6b024e02b748551e4c37e6fd69bea9fad79eff76734c1c06be35d9e8713252c37381.jpeg"
+      }
+    ],
+    "previous_id": "8473",
+    "next_id": "8364",
+    "saved_materials": [
+      "assets/8400_7381_0119_yamagishi_s.jpg"
+    ]
+  }
+}

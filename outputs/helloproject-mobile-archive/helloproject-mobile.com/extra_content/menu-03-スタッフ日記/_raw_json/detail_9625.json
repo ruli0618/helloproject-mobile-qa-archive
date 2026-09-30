@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 488,
+    "content_id": "9625",
+    "content_title": "投函完了！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-03 23:18:00",
+    "created_at": "2018-08-03 23:18:29",
+    "updated_at": "2018-08-03 23:18:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9625",
+    "content_title": "投函完了！",
+    "content_sub_title": "",
+    "release_date": "2018-08-03 23:18:00",
+    "created_at": "2018-08-03 23:18:29",
+    "updated_at": "2018-08-03 23:18:29",
+    "content_text": "こんばんは！\r\nスタッフ番号2番です！\r\n\r\n今年も恒例の暑中見舞いハガキプレゼントに沢山のご応募ありがとうございました！\r\nそして本日、全てのハガキをポストに投函してまいりました！\r\n\r\n当選者の方のもとへは、週明け以降順次届くかと思います。\r\n\r\nぜひお家のポストの中を気にしてみてくださいね♪\r\n\r\n惜しくも外れてしまった方は、次回プレゼント企画を楽しみにお待ち下さい！\r\n\r\n\r\nP.S.毎度のお願いになりますが…\r\nもし当選された方は、ハッシュタグ「#ハロモバ」をつけてハガキの画像をアップして頂けると、とっても嬉しいです！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9637",
+    "next_id": "9619",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 3,
+    "content_id": "20259",
+    "content_title": "皿うどん！",
+    "content_sub_title": "福田真琳",
+    "category_id": "115",
+    "release_date": "2023-06-04 10:00:00",
+    "created_at": "2023-05-22 20:27:39",
+    "updated_at": "2023-05-22 20:27:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16731",
+        "material_title": "0604_fukuda_s.jpg",
+        "material_file": "390b4d5ae6067521a90cd8a02cbf63cc1dbb7b22d6fffa0fd5bc043fb92ea4cb16731.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20259",
+    "content_title": "皿うどん！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2023-06-04 10:00:00",
+    "created_at": "2023-05-22 20:27:39",
+    "updated_at": "2023-05-22 20:27:39",
+    "content_text": "先日母と一緒に\r\n長崎の名物\r\n皿うどんを作りました！\r\n\r\nお野菜がたっぷり入っていて\r\n美味しかったです！\r\n\r\n0604_fukuda_s.jpg\r\nポイントはコラーゲンたっぷりのキクラゲです！\r\n意識高いかもワラビー\r\n\r\n今度は1人で作れるように頑張りたいでーす！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16731",
+        "material_title": "0604_fukuda_s.jpg",
+        "material_file": "92acdd8a110097c0fa6fd98f5808dfbe9ab9baa87443331735de00bab8e2251516731.jpeg"
+      }
+    ],
+    "previous_id": "20260",
+    "next_id": "20213",
+    "saved_materials": [
+      "assets/20259_16731_0604_fukuda_s.jpg"
+    ]
+  }
+}

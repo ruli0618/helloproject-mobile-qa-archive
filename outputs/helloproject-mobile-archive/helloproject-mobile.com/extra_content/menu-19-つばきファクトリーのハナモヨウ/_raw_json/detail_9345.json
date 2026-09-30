@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 101,
+    "content_id": "9345",
+    "content_title": "梅雨！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-06-27 11:00:00",
+    "created_at": "2018-06-26 23:06:46",
+    "updated_at": "2018-06-26 23:06:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8163",
+        "material_title": "0626_ono_s.jpg",
+        "material_file": "9fc232d56f26c5186c6f8a5557d2da6a61275ea2b0aed5e2ae4e5757ab9683688163.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9345",
+    "content_title": "梅雨！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-06-27 11:00:00",
+    "created_at": "2018-06-26 23:06:46",
+    "updated_at": "2018-06-26 23:06:46",
+    "content_text": "梅雨といえば\r\n\r\nやっぱり紫陽花ですよね〜。\r\n\r\n0626_ono_s.jpg\r\n\r\n紫陽花は好きだけど雨は苦手なので、\r\n\r\nはやく本格的な夏が来て欲しい気持ちもあります<img src=\"/emoji/emoji-images/476a.gif\"/>\r\n\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8163",
+        "material_title": "0626_ono_s.jpg",
+        "material_file": "0f8ad3a885de1d869a54c25cdfc3e292cffa5d3b2fec8affb2092f194964c6c28163.jpeg"
+      }
+    ],
+    "previous_id": "9389",
+    "next_id": "9280",
+    "saved_materials": [
+      "assets/9345_8163_0626_ono_s.jpg"
+    ]
+  }
+}

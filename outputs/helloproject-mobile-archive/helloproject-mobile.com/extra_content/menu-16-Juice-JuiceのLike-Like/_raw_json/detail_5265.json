@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 855,
+    "content_id": "5265",
+    "content_title": "毎日でも／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-08-29 22:46:00",
+    "created_at": "2016-08-29 22:47:58",
+    "updated_at": "2016-08-29 22:48:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4751",
+        "material_title": "4791660126119_s.jpg",
+        "material_file": "05ad4ffb2571d813f3062aa73aec2180081166c21794daaac04339c78d959acd4751.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5265",
+    "content_title": "毎日でも／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-08-29 22:46:00",
+    "created_at": "2016-08-29 22:47:58",
+    "updated_at": "2016-08-29 22:48:53",
+    "content_text": "4791660126119_s.jpg\r\nカレーが本当に大好きです。毎日でも食べたい！！空き時間があるとついカレー屋さんに行きがち。",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4751",
+        "material_title": "4791660126119_s.jpg",
+        "material_file": "482266106b04bdd868c60510cd6d453dd232da46f1a4340d25ad9b59bef57c7e4751.jpeg"
+      }
+    ],
+    "previous_id": "5321",
+    "next_id": "5249",
+    "saved_materials": [
+      "assets/5265_4751_4791660126119_s.jpg"
+    ]
+  }
+}

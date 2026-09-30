@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 8,
+    "content_id": "26967",
+    "content_title": "宣伝会議#124",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-07-23 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22048",
+        "material_title": "124.jpg",
+        "material_file": "e3bb702c102742c1be865df48dfca4c555eebe03302db017b26c43b3a4fcbaed22048.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22049",
+        "material_title": "124_01.jpg",
+        "material_file": "49bee3812e45612cb5f8f24a90cfa97db7ddcd140dffa6381b5296b2b825127b22049.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26967",
+    "content_title": "宣伝会議#124",
+    "content_sub_title": "",
+    "release_date": "2026-07-23 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "content_text": "124_01.jpg\r\n\r\n宣伝会議第124回は、野中美希部長・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・シール帳\r\n・日本武道館公演エピソード\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「タケコプターとどこでもドア、どちらが欲しい？」についてディベート！\r\n\r\n後編では、\r\n・新メンバーとのジェネレーションギャップ\r\n・抽選会撮影時の服装\r\n・MV撮影時のエピソード\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「有澤一華」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n124.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22048",
+        "material_title": "124.jpg",
+        "material_file": "abba4aea0afb64451d38492795b938f52c5a83289771e47f7658b44513ed351522048.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22049",
+        "material_title": "124_01.jpg",
+        "material_file": "b068144fb14bce389dc9b10c7f396fe11afce9bba9bccd01495c3cba76171d6422049.jpeg"
+      }
+    ],
+    "previous_id": "27017",
+    "next_id": "27016",
+    "saved_materials": [
+      "assets/26967_22048_124.jpg",
+      "assets/26967_22049_124_01.jpg"
+    ]
+  }
+}

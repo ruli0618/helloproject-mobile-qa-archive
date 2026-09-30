@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 207,
+    "content_id": "18605",
+    "content_title": "8/9(火)「みよちゃん家の縁側」配信休止のお知らせ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-04 00:00:00",
+    "created_at": "2022-08-04 18:29:37",
+    "updated_at": "2022-08-09 17:28:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18605",
+    "content_title": "8/9(火)「みよちゃん家の縁側」配信休止のお知らせ",
+    "content_sub_title": "",
+    "release_date": "2022-08-04 00:00:00",
+    "created_at": "2022-08-04 18:29:37",
+    "updated_at": "2022-08-09 17:28:10",
+    "content_text": "<a href=\"http://www.helloproject.com/news/14903/\" target=\"_brank\">BEYOOOOONDS平井美葉が新型コロナウイルス感染</a>の為、8/9(火)配信予定「みよちゃん家の縁側」はお休みさせて頂くこととなりました。\r\n次回の配信日程は下記になります。\r\n\r\n＜次回配信＞\r\n8月23日(火)ハロー！ラジオ「みよちゃん家の縁側」第9回\r\nゲスト：OCHA NORMA 斉藤円香\r\n\r\n楽しみにされていた皆様には誠に申し訳ございません。\r\n何卒ご理解の程、よろしくお願い申し上げます。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18606",
+    "next_id": "21219",
+    "saved_materials": []
+  }
+}

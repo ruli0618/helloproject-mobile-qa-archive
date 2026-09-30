@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 769,
+    "content_id": "7859",
+    "content_title": "秋冬パスタ／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-11-22 11:00:00",
+    "created_at": "2017-10-31 23:09:22",
+    "updated_at": "2017-10-31 23:09:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6917",
+        "material_title": "6908170898033_s.jpg",
+        "material_file": "065e55665a107fb4893becdb86b26ce48eb692988c50c8060f3af0c2811852c36917.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7859",
+    "content_title": "秋冬パスタ／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-11-22 11:00:00",
+    "created_at": "2017-10-31 23:09:22",
+    "updated_at": "2017-10-31 23:09:22",
+    "content_text": "6908170898033_s.jpg\r\n旬のれんこん、おいしかった<img src=\"/emoji/emoji-images/f650.gif\"/>\r\nパスタ大好きです!!",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6917",
+        "material_title": "6908170898033_s.jpg",
+        "material_file": "9cd42746c836db0e5978b20017bc0baccbcc5aac3b607a43141bf18614c02f166917.jpeg"
+      }
+    ],
+    "previous_id": "7860",
+    "next_id": "7858",
+    "saved_materials": [
+      "assets/7859_6917_6908170898033_s.jpg"
+    ]
+  }
+}

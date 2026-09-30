@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 664,
+    "content_id": "4507",
+    "content_title": "宣伝会議　議事録#1",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-05-02 23:59:00",
+    "created_at": "2016-05-03 00:18:30",
+    "updated_at": "2016-05-30 21:02:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4126",
+        "material_title": "1605021.jpg",
+        "material_file": "6ba7dbc42cdb49fc6c44f0248958a0fc73f41f1726b96507d12403d12951afe04126.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4125",
+        "material_title": "1605022.jpg",
+        "material_file": "f557b2951d803363ca3c2ed5d36f9e1c6775ae9cb9c55379761c7ca1393f1b534125.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4507",
+    "content_title": "宣伝会議　議事録#1",
+    "content_sub_title": "",
+    "release_date": "2016-05-02 23:59:00",
+    "created_at": "2016-05-03 00:18:30",
+    "updated_at": "2016-05-30 21:02:05",
+    "content_text": "先日、ハロ！モバ宣伝部長の工藤遥と宣伝部員の尾形春水・梁川奈々美による宣伝会議が行われました！\n\nみんな一生懸命ハロ！モバを盛り上げる為の話し合いを行っていたので、会議の様子をハロー！ラジオで配信してしまいました！\nみなさん聴いていただけましたか？\n\nそこへ突然現れた野中美希さん、、、\nどうやら念願だったハロ！モバ宣伝部員に無事認めてもらう事ができたようです。\n\n野中さん加入の瞬間はこちら！\n1605021.jpg\n\n色々な企画が上がっていましたので、ハロ！モバスタッフで審議の上また次回の会議で報告していきたいと思います。\n\n1605022.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4126",
+        "material_title": "1605021.jpg",
+        "material_file": "61095774b6682ad635835631e4eb07355675459631a2421181e477beee02dc554126.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4125",
+        "material_title": "1605022.jpg",
+        "material_file": "5dfeba2aff04e94ceab84838562f0c84274a797e9c5f9c07bb0ceca5e89060d94125.jpeg"
+      }
+    ],
+    "previous_id": "4524",
+    "next_id": "4722",
+    "saved_materials": [
+      "assets/4507_4126_1605021.jpg",
+      "assets/4507_4125_1605022.jpg"
+    ]
+  }
+}

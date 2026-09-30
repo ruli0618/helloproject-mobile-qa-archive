@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 313,
+    "content_id": "19192",
+    "content_title": "うどん",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-12-01 10:00:00",
+    "created_at": "2022-11-17 21:50:46",
+    "updated_at": "2022-11-25 14:41:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15946",
+        "material_title": "1129_ebata_s.jpg",
+        "material_file": "72570ea837b5973fc3f6d2a605d308b60db3446143762297d7d7f2152f4470a415946.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19192",
+    "content_title": "うどん",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-12-01 10:00:00",
+    "created_at": "2022-11-17 21:50:46",
+    "updated_at": "2022-11-25 14:41:01",
+    "content_text": "やっほーえばー\r\n\r\n\r\n江端妃咲です！\r\n\r\n\r\n\r\n\r\n今日はつばきファクトリーの豫風瑠乃ちゃんと夜ご飯を食べてイルミネーションを見てきましたああ〜\r\n\r\n\r\n夜ご飯はうどんを食べたんですけどね\r\n\r\n\r\nもつの入ったうどんで\r\n\r\n\r\n濃厚でした( ᐢ ᵕ ᐢ )\r\n\r\n\r\n帰ってからはちょっと踊ったよ〜\r\n\r\n\r\n\r\n写真は全然関係ない写真です笑笑\r\n\r\n\r\n1129_ebata_s.jpg\r\n\r\n\r\nじゃあね〜",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "15946",
+        "material_title": "1129_ebata_s.jpg",
+        "material_file": "d79546daacbc4e1b5a92245f79c2e7cc35d351d24a8fbbc7865f7e30999864a215946.jpeg"
+      }
+    ],
+    "previous_id": "19234",
+    "next_id": "19233",
+    "saved_materials": [
+      "assets/19192_15946_1129_ebata_s.jpg"
+    ]
+  }
+}

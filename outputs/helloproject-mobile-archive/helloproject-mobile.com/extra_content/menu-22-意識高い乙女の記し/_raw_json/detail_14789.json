@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 154,
+    "content_id": "14789",
+    "content_title": "はだ",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2020-10-30 22:30:00",
+    "created_at": "2020-10-30 22:31:14",
+    "updated_at": "2020-10-30 22:31:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12299",
+        "material_title": "1030_akiyama_s.jpg",
+        "material_file": "50d9ff03f1244ab2215f9c540b397b9718185b2e202bde4067c3cfb432ff6c5d12299.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14789",
+    "content_title": "はだ",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2020-10-30 22:30:00",
+    "created_at": "2020-10-30 22:31:14",
+    "updated_at": "2020-10-30 22:31:14",
+    "content_text": "1030_akiyama_s.jpg\r\n最近はファンデーションを塗らないようにしております〜お肌の休憩も大事なのでね、今からお肌のことも考えて大人になりたいなぁ(^^)\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12299",
+        "material_title": "1030_akiyama_s.jpg",
+        "material_file": "1723b06dbb068e1ce0cebcf5dc73ea23925e75387387006f85dad8b96b21c88912299.jpeg"
+      }
+    ],
+    "previous_id": "14855",
+    "next_id": "14786",
+    "saved_materials": [
+      "assets/14789_12299_1030_akiyama_s.jpg"
+    ]
+  }
+}

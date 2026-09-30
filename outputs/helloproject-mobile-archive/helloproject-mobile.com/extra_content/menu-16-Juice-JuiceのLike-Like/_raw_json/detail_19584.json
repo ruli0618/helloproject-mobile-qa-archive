@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 297,
+    "content_id": "19584",
+    "content_title": "カラオケ",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2023-01-30 14:26:00",
+    "created_at": "2023-01-30 14:30:36",
+    "updated_at": "2023-01-30 14:30:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16242",
+        "material_title": "0130_arisawa_s.jpg",
+        "material_file": "5f6909664b8b06c7d4a5840659c478e732ee3560dca160f97d4e7af70d376aee16242.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19584",
+    "content_title": "カラオケ",
+    "content_sub_title": "有澤一華",
+    "release_date": "2023-01-30 14:26:00",
+    "created_at": "2023-01-30 14:30:36",
+    "updated_at": "2023-01-30 14:30:36",
+    "content_text": "0130_arisawa_s.jpg\r\n有澤一華です！\r\n\r\n里咲と、えばとカラオケに行きました！！\r\n\r\n練習して、その後好きなハロプロの曲を入れて「ハロカラ」しました！\r\nハロプロに入る前にカラオケに行ってなりきっていたことを思い出しました笑\r\n\r\n楽しかったです！",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16242",
+        "material_title": "0130_arisawa_s.jpg",
+        "material_file": "f81f66b1e3adf3795940be02d71a127b1656df6e30d3cdca4566b2a4d0c7e58016242.jpeg"
+      }
+    ],
+    "previous_id": "19527",
+    "next_id": "19526",
+    "saved_materials": [
+      "assets/19584_16242_0130_arisawa_s.jpg"
+    ]
+  }
+}

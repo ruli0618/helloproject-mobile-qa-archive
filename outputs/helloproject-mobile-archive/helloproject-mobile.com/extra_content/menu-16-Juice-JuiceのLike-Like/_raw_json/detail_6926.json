@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 803,
+    "content_id": "6926",
+    "content_title": "おちゃ／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-06-29 19:57:00",
+    "created_at": "2017-06-29 19:58:05",
+    "updated_at": "2017-06-29 19:58:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6104",
+        "material_title": "6142731599251_s.jpg",
+        "material_file": "46a3381363c3596a2172253e4a2e2b3134c81667ee1649b3578b5b2994ab15c56104.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6926",
+    "content_title": "おちゃ／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-06-29 19:57:00",
+    "created_at": "2017-06-29 19:58:05",
+    "updated_at": "2017-06-29 19:58:05",
+    "content_text": "6142731599251_s.jpg\r\nお茶は美味しい。和菓子もだいすき！いつかは自分でお茶を点ててみたいなぁ。",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "6104",
+        "material_title": "6142731599251_s.jpg",
+        "material_file": "26b46910389c9709802f2c950e6ca21a159844e8ec2cdccd52f6b1d96c95e9b46104.jpeg"
+      }
+    ],
+    "previous_id": "6975",
+    "next_id": "6858",
+    "saved_materials": [
+      "assets/6926_6104_6142731599251_s.jpg"
+    ]
+  }
+}

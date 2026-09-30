@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 170,
+    "content_id": "22202",
+    "content_title": "春！",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-05-14 10:00:00",
+    "created_at": "2024-05-13 22:53:03",
+    "updated_at": "2024-05-13 22:53:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18200",
+        "material_title": "0514_kudo_s.jpg",
+        "material_file": "2ea9b22a80e27de6f4b50e855950ddb36dc137cf49353707dc107c66b1b9d8e518200.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22202",
+    "content_title": "春！",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-05-14 10:00:00",
+    "created_at": "2024-05-13 22:53:03",
+    "updated_at": "2024-05-13 22:53:03",
+    "content_text": "0514_kudo_s.jpg\r\n毎年春に、このお花柄のショート丈のカーディガンを羽織るのが楽しみなのです♪",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18200",
+        "material_title": "0514_kudo_s.jpg",
+        "material_file": "93cdd19819e943ab01f5586b2ceb0a934da84e9f53f605e9eb9e43910f220fe818200.jpeg"
+      }
+    ],
+    "previous_id": "22242",
+    "next_id": "22161",
+    "saved_materials": [
+      "assets/22202_18200_0514_kudo_s.jpg"
+    ]
+  }
+}

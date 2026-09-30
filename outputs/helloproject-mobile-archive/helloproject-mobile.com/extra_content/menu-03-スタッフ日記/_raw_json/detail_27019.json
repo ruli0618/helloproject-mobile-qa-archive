@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 5,
+    "content_id": "27019",
+    "content_title": "工藤の家の軒下#70～長野桃羽～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-08-25 00:00:00",
+    "created_at": "2026-09-28 23:52:46",
+    "updated_at": "2026-09-28 23:54:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22093",
+        "material_title": "20260825_070.jpg",
+        "material_file": "10b70b6d373b76d3d0ce4914be2e194236b75c1ffeeb3836757a04fb5869b7e622093.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27019",
+    "content_title": "工藤の家の軒下#70～長野桃羽～",
+    "content_sub_title": "",
+    "release_date": "2026-08-25 00:00:00",
+    "created_at": "2026-09-28 23:52:46",
+    "updated_at": "2026-09-28 23:54:54",
+    "content_text": "20260825_070.jpg\n\nハロー！ラジオ新番組「ろこの部屋」\n第70回はゲストは、長野桃羽！\n\n・1年間思い出深いこと\n・ハロコン衣装\nのお話からスタート！\n\n「6個の部屋」のコーナーでは、\n・理想のアイドル像\n・ハロプロ楽曲\nについて語りました！\n\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\n\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\n\n後半では、\n・広本瑠璃\n・九州のおすすめ\n・出身地\n・ギャルろこ\n・ConChu! 4人の関係性\n・アイプリ\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22093",
+        "material_title": "20260825_070.jpg",
+        "material_file": "52eff9fbbf5cf7d3d065933bf794fa8e74c9764c47ecdcc099cd1f1a959d76cf22093.jpeg"
+      }
+    ],
+    "previous_id": "26968",
+    "next_id": "27018",
+    "saved_materials": [
+      "assets/27019_22093_20260825_070.jpg"
+    ]
+  }
+}

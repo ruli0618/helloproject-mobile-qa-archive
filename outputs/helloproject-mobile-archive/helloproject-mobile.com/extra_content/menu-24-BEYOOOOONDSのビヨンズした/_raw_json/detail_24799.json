@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 82,
+    "content_id": "24799",
+    "content_title": "大好きな果物",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-09-10 10:00:00",
+    "created_at": "2025-08-18 23:01:57",
+    "updated_at": "2025-08-18 23:01:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20269",
+        "material_title": "0910_kobayashi_s.jpg",
+        "material_file": "7fee314468d80101c01a6a22a42bd04dab443823740cfb90d59c68c6134e918520269.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24799",
+    "content_title": "大好きな果物",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-09-10 10:00:00",
+    "created_at": "2025-08-18 23:01:57",
+    "updated_at": "2025-08-18 23:01:57",
+    "content_text": "0910_kobayashi_s.jpg\r\n今年も大好きで大きなスイカが届きました！！大きすぎる〜！！\r\n\r\n【45周目お題：大好き】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20269",
+        "material_title": "0910_kobayashi_s.jpg",
+        "material_file": "7c13b8aa7039865b8fa8add983daf89ae9eca7ac8a5020a93728bb1b2b4e22ba20269.jpeg"
+      }
+    ],
+    "previous_id": "24800",
+    "next_id": "24798",
+    "saved_materials": [
+      "assets/24799_20269_0910_kobayashi_s.jpg"
+    ]
+  }
+}

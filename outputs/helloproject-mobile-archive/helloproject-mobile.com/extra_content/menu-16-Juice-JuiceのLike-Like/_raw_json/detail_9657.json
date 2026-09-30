@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 696,
+    "content_id": "9657",
+    "content_title": "8人",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-08-21 11:00:00",
+    "created_at": "2018-08-13 15:56:35",
+    "updated_at": "2018-08-13 15:56:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8449",
+        "material_title": "0821_miyazaki_s.jpg",
+        "material_file": "80fa328d70f0234af64f00b8ed1324fdc8b2e97d105f3ddde2218ea5750432228449.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9657",
+    "content_title": "8人",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-08-21 11:00:00",
+    "created_at": "2018-08-13 15:56:35",
+    "updated_at": "2018-08-13 15:56:35",
+    "content_text": "0821_miyazaki_s.jpg\r\n8人のJuice=Juiceです！よろしくおねがいします！！",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8449",
+        "material_title": "0821_miyazaki_s.jpg",
+        "material_file": "f040ea492935acf6f095425dd2ea0a0f16e3736b8db466dd14e5706d1d8c93198449.jpeg"
+      }
+    ],
+    "previous_id": "9659",
+    "next_id": "9656",
+    "saved_materials": [
+      "assets/9657_8449_0821_miyazaki_s.jpg"
+    ]
+  }
+}

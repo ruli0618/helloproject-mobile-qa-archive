@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 146,
+    "content_id": "22713",
+    "content_title": "ぎゃあああ",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-08-13 10:00:00",
+    "created_at": "2024-08-08 12:43:26",
+    "updated_at": "2024-08-08 12:43:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18591",
+        "material_title": "0813_ishiyama_s.jpg",
+        "material_file": "d2d7186f824ffc94ff388e67d9c1edaebc54d104cf763bc756a0540d702701d918591.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22713",
+    "content_title": "ぎゃあああ",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-08-13 10:00:00",
+    "created_at": "2024-08-08 12:43:26",
+    "updated_at": "2024-08-08 12:43:26",
+    "content_text": "0813_ishiyama_s.jpg\r\nこの前、たこえばさくりんごで富士急に行きました！\r\n初めて乗るアトラクションとかたくさんご飯も食べて1日あっという間でした！！",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18591",
+        "material_title": "0813_ishiyama_s.jpg",
+        "material_file": "a0a07217132abbf7af2f1f6809db2be572386abdaba31c2eaaac7b57d66faad318591.jpeg"
+      }
+    ],
+    "previous_id": "22738",
+    "next_id": "22712",
+    "saved_materials": [
+      "assets/22713_18591_0813_ishiyama_s.jpg"
+    ]
+  }
+}

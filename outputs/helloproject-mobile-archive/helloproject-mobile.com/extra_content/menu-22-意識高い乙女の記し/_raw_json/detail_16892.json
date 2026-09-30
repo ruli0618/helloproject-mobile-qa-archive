@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 92,
+    "content_id": "16892",
+    "content_title": "リハ！",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-10-11 22:21:00",
+    "created_at": "2021-10-11 22:21:34",
+    "updated_at": "2021-10-11 22:21:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14101",
+        "material_title": "211011_tanimoto_s.jpg",
+        "material_file": "4d14ade377ba40eadda672c85095b7e8e4e3982dd42d7820f2081977917ca88514101.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16892",
+    "content_title": "リハ！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-10-11 22:21:00",
+    "created_at": "2021-10-11 22:21:34",
+    "updated_at": "2021-10-11 22:21:34",
+    "content_text": "211011_tanimoto_s.jpg\r\n最近はリハーサルで汗かくので\r\nたくさんお水飲んでます！<img src=\"/emoji/emoji-images/f6bf.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14101",
+        "material_title": "211011_tanimoto_s.jpg",
+        "material_file": "2181158614e4ce8ac5fce55b96f5368eb0a02e33bfeecd347adac5465776b1b914101.jpeg"
+      }
+    ],
+    "previous_id": "16962",
+    "next_id": "16868",
+    "saved_materials": [
+      "assets/16892_14101_211011_tanimoto_s.jpg"
+    ]
+  }
+}

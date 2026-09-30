@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 6,
+    "content_id": "26919",
+    "content_title": "きしもと",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2026-09-25 10:00:00",
+    "created_at": "2026-09-24 17:51:09",
+    "updated_at": "2026-09-24 17:51:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21977",
+        "material_title": "0925_akiyama_s.jpg",
+        "material_file": "ca7d6f14b8eaa657395037726c22c601ad9260431576e76a7cf2a052089886b221977.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26919",
+    "content_title": "きしもと",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2026-09-25 10:00:00",
+    "created_at": "2026-09-24 17:51:09",
+    "updated_at": "2026-09-24 17:51:09",
+    "content_text": "写真集発売が決まったね☆\r\nあなたが喜んでくれていたら嬉しいなぁ\r\n\r\n秋山眞緒らしさが詰まった一冊。開いた時に私を思い出してね<img src=\"/emoji/emoji-images/4f24.gif\"/>\r\n\r\n0925_akiyama_s.jpg\r\n\r\n撮影の時、「きしもと食堂」に行ったのおお(^^)\r\n\r\nゆめ\r\n\r\nふふふ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nめっちゃゆめやんって笑っちゃった\r\n\r\n\r\n撮影とっっても楽しくてあっという間の沖縄だったなぁ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n素敵なお衣装に素敵な場所、わたしの宝物になりましたよ✳︎\r\n\r\nきしもと食堂の、沖縄めっちゃ美味しかったからあなたが沖縄に行く際は是非是非行ってみてねっ\r\n\r\nお汁が美味し過ぎたよ〜\r\n\r\n\r\n沖縄大好き♡\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21977",
+        "material_title": "0925_akiyama_s.jpg",
+        "material_file": "980bc102f295e0330d26af0ad214772389eeb92ccc7c46ab7da2bb05cf9a4aa921977.jpeg"
+      }
+    ],
+    "previous_id": "26920",
+    "next_id": "26879",
+    "saved_materials": [
+      "assets/26919_21977_0925_akiyama_s.jpg"
+    ]
+  }
+}

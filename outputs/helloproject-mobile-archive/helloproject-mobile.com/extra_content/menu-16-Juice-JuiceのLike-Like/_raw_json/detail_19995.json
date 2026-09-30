@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 276,
+    "content_id": "19995",
+    "content_title": "ひなフェス",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-04-11 11:33:00",
+    "created_at": "2023-04-11 11:33:46",
+    "updated_at": "2023-04-11 11:33:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16538",
+        "material_title": "0411_irie_s.jpg",
+        "material_file": "aad2b7c00d73b81b9c2fd7225e9ad42622df114351bb5fb49297de6245979ec516538.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19995",
+    "content_title": "ひなフェス",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-04-11 11:33:00",
+    "created_at": "2023-04-11 11:33:46",
+    "updated_at": "2023-04-11 11:33:46",
+    "content_text": "ひなフェスありがとうございました〜！！　\r\n\r\n今年は誰も欠けることなく、全員で参加できて嬉しかったです(^^)\r\n\r\n\r\nシャッフルユニットに当たったJuice=Juiceメンバーが沢山いて！\r\n\r\n私は井上さんとデュオをさせていただきましたが...\r\n\r\n本当に楽しくて、素敵な思い出になって嬉しいです♪\r\n\r\n\r\n0411_irie_s.jpg\r\n\r\n\r\n気合い入れた髪型にしました*＼(^o^)／*",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16538",
+        "material_title": "0411_irie_s.jpg",
+        "material_file": "35852b1469c6f07b7a0a63ee0f6349d62934b50e810085eadfe29f2b0c34718916538.jpeg"
+      }
+    ],
+    "previous_id": "19997",
+    "next_id": "19983",
+    "saved_materials": [
+      "assets/19995_16538_0411_irie_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 377,
+    "content_id": "17944",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-04-19 10:00:00",
+    "created_at": "2022-04-11 23:03:08",
+    "updated_at": "2022-04-11 23:03:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "14997",
+        "material_title": "0419_uemura_s.jpg",
+        "material_file": "c6a1b3f1d04fbcd4117e0db3b5ebee426b1f9b3de56d3878a5234558b236534214997.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17944",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-04-19 10:00:00",
+    "created_at": "2022-04-11 23:03:08",
+    "updated_at": "2022-04-11 23:03:08",
+    "content_text": "0419_uemura_s.jpg\r\n植村あかりです！\r\n\r\n\r\n緑の<img src=\"/emoji/emoji-images/452a.gif\"/>\r\n\r\nメンバーカラーで愛着湧きました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\n以上植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "160f33b18c635eb9fe5fb1a3c3752057",
+        "material_id": "14997",
+        "material_title": "0419_uemura_s.jpg",
+        "material_file": "a38e31fe837d6663faeb6fde28541112399f9e61761052b90aae799ba6e2d7c314997.jpeg"
+      }
+    ],
+    "previous_id": "17984",
+    "next_id": "17943",
+    "saved_materials": [
+      "assets/17944_14997_0419_uemura_s.jpg"
+    ]
+  }
+}

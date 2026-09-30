@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 453,
+    "content_id": "14205",
+    "content_title": "美味しすぎたきんぴらごぼう",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2020-08-05 10:00:00",
+    "created_at": "2020-07-22 19:26:04",
+    "updated_at": "2022-01-17 14:34:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11825",
+        "material_title": "0805_nishida_s.jpg",
+        "material_file": "bbfe4f6b12b94db0fe038bf4fe0d096c41aeaebc36eb9ebf0e8c44ca8281fd6f11825.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14205",
+    "content_title": "美味しすぎたきんぴらごぼう",
+    "content_sub_title": "西田汐里",
+    "release_date": "2020-08-05 10:00:00",
+    "created_at": "2020-07-22 19:26:04",
+    "updated_at": "2022-01-17 14:34:42",
+    "content_text": "0805_nishida_s.jpg\nごぼうを細く切るのが大変でした\n\n【4周目お題：素敵】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11825",
+        "material_title": "0805_nishida_s.jpg",
+        "material_file": "3e888f0f95fe89e74efd4e1b56936924a703bfa73ac09bf01c2c359f89aec29611825.jpeg"
+      }
+    ],
+    "previous_id": "14207",
+    "next_id": "14204",
+    "saved_materials": [
+      "assets/14205_11825_0805_nishida_s.jpg"
+    ]
+  }
+}

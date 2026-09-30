@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 676,
+    "content_id": "4049",
+    "content_title": "工藤の家の天井裏#4",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-02-16 23:00:00",
+    "created_at": "2016-02-16 23:01:22",
+    "updated_at": "2016-02-16 23:02:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3718",
+        "material_title": "160216_1_s.jpg",
+        "material_file": "ca91bf2205b53b8947e9b426c996c068a635e266f608aa24abf24c4085e145413718.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3719",
+        "material_title": "160216_2.jpg",
+        "material_file": "77dfcabdb35d11b2d873a731a6f139b2c6d3fcc9ecf04353839ccbce171a3ec63719.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4049",
+    "content_title": "工藤の家の天井裏#4",
+    "content_sub_title": "",
+    "release_date": "2016-02-16 23:00:00",
+    "created_at": "2016-02-16 23:01:22",
+    "updated_at": "2016-02-16 23:02:50",
+    "content_text": "インフルエンザに感染し、今回の収録を欠席した4♂です。\r\n今回は写真だけです。。。\r\n160216_1_s.jpg\r\n\r\n「犯人を追え！」のコーナーの似顔絵はこちら。\r\n160216_2.jpg",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3718",
+        "material_title": "160216_1_s.jpg",
+        "material_file": "3bb79bb9f470b4b6807305ae5098f2a3b305fbebc848a5f3cf02ec4200b4fafd3718.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3719",
+        "material_title": "160216_2.jpg",
+        "material_file": "e0b12477409348f9ba2f96ececf08d77a73f0dce501fa36fa32aa3af425e59f23719.jpeg"
+      }
+    ],
+    "previous_id": "4080",
+    "next_id": "3993",
+    "saved_materials": [
+      "assets/4049_3718_160216_1_s.jpg",
+      "assets/4049_3719_160216_2.jpg"
+    ]
+  }
+}

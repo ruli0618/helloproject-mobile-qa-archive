@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { isMissingImage } = require('./download_hpm_all_content');
 
 const ROOT = path.resolve(__dirname, '..');
 const OUT = path.join(ROOT, 'outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'tour_diary');
@@ -67,8 +68,13 @@ function main() {
       const detail = entry.detail || entry.list || {};
       const materials = detail.materials || [];
       const body = removeMaterialFileNames(detail.content_text || '', materials);
-      const images = materials
-        .filter((material) => material.saved?.local_path)
+      const validMaterials = materials.filter((material) => {
+        if (!material.saved?.local_path) return false;
+        const file = path.join(OUT, material.saved.local_path);
+        return fs.existsSync(file) && !isMissingImage(fs.readFileSync(file));
+      });
+      const missingCount = materials.filter((material) => material.material_id).length - validMaterials.length;
+      const images = validMaterials
         .map((material) => `<figure><img loading="lazy" src="${esc(material.saved.local_path)}" alt="${esc(material.material_title || detail.content_title || '')}"><figcaption>${esc(material.material_title || '')}</figcaption></figure>`)
         .join('');
       const search = [
@@ -89,6 +95,7 @@ function main() {
   </header>
   <div class="body">${textToHtml(body)}</div>
   ${images ? `<div class="images">${images}</div>` : ''}
+  ${missingCount ? `<p class="missing-media">画像${missingCount}枚は公式サイトから取得できませんでした</p>` : ''}
 </article>`;
     }).join('\n');
     return `<section class="tour-section" id="tour-${esc(category.category_id)}" data-category="${esc(category.category_id)}">

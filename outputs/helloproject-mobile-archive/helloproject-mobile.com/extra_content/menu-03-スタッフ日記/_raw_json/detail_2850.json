@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 724,
+    "content_id": "2850",
+    "content_title": "℃-ute Cutie LIVE 2015 summer ～我武者LIVE in 音霊～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-05 13:00:00",
+    "created_at": "2015-08-05 13:04:28",
+    "updated_at": "2015-08-05 13:05:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2706",
+        "material_title": "150805_1.jpg",
+        "material_file": "0a51859d0c0569551f1fcdb6c5c6f2cbfa69fcf8ddd620ea34ab1a4923092b182706.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2707",
+        "material_title": "150805_2.jpg",
+        "material_file": "a1c17ed8add3d974749fae2e5c5ed12bff50474ad6cebe4e0a562566a489e6812707.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2850",
+    "content_title": "℃-ute Cutie LIVE 2015 summer ～我武者LIVE in 音霊～",
+    "content_sub_title": "",
+    "release_date": "2015-08-05 13:00:00",
+    "created_at": "2015-08-05 13:04:28",
+    "updated_at": "2015-08-05 13:05:59",
+    "content_text": " \r\n8月4日に由比ヶ浜海岸『音霊OTODAMA SEA STUDIO』にて\r\n℃-ute Cutie LIVE 2015 summer ～我武者LIVE in 音霊～\r\nが行われました！\r\n \r\n℃-uteの音霊出演は、今回で4回目！！\r\n \r\nリハーサル前に1枚♪\r\n \r\n150805_1.jpg\r\n \r\n \r\nLIVE本番前には、ビーチクリーン活動、\r\nそして、SATOUMIトークショーも行いました。\r\n \r\n \r\n衣装は今回もメンバーセレクト！\r\n \r\n本番では音霊LIVEならではの夏曲をたくさん披露させていただきました♪\r\n \r\n \r\n終了後はメンバーみんな汗だくです。。。\r\n \r\n150805_2.jpg\r\n \r\n℃-ute音霊LIVEは、今回も、\r\n猛暑に負けない、暑い熱いLIVEになりました！",
+    "materials": [
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2706",
+        "material_title": "150805_1.jpg",
+        "material_file": "1cecc243ad005726d0142cd2bdc053e610f1cad1a396691a262b0abb335d061e2706.jpeg"
+      },
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2707",
+        "material_title": "150805_2.jpg",
+        "material_file": "ec17d828bcc35c3693fbe9a1da2c1b831a4413d56f5e1bf0dfef6609ad34adce2707.jpeg"
+      }
+    ],
+    "previous_id": "2884",
+    "next_id": "2833",
+    "saved_materials": [
+      "assets/2850_2706_150805_1.jpg",
+      "assets/2850_2707_150805_2.jpg"
+    ]
+  }
+}

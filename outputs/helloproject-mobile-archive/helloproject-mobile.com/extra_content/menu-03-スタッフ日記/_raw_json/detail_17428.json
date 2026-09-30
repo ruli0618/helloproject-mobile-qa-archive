@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 255,
+    "content_id": "17428",
+    "content_title": "工藤の家の屋根裏部屋#94～小野瑞歩～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 21:11:00",
+    "created_at": "2021-12-31 21:15:31",
+    "updated_at": "2021-12-31 22:41:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14546",
+        "material_title": "221231_f94_02_s.jpg",
+        "material_file": "4c23ec149121a0e85b31ea37d70002e38aeebbb577df71bca87515534d67789714546.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14547",
+        "material_title": "221231_f94_01_s.jpg",
+        "material_file": "0814c76e720e853e21a02829aa28fbff734c2a2fbbf8ee1314f3a01d97f30cd914547.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17428",
+    "content_title": "工藤の家の屋根裏部屋#94～小野瑞歩～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 21:11:00",
+    "created_at": "2021-12-31 21:15:31",
+    "updated_at": "2021-12-31 22:41:57",
+    "content_text": "ふくむらの部屋 第94回のゲストは、つばきファクトリー小野瑞歩さん！\n\n221231_f94_01_s.jpg\n\nまずは、武道館ライブ、緊張したときの願掛け、筋トレについてトーク！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・ヘアスタイル\n・佐藤優樹\n・歌い方\n・影響を受けたメンバー\nを語って頂きました。\n\n佐藤優樹さんの事を話す時、小野さんは表情がコロコロと変わっていました。\n\n221231_f94_02_s.jpg\n\n「ハロプロファン失敗談」のコーナーでは、\nサイリウムに関する失敗、きしめんを食べたら…を紹介！\n\n印象的なプレゼントと、バースデーについてもお話がありました！\n\nぜひ、お聴き下さい♬",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14546",
+        "material_title": "221231_f94_02_s.jpg",
+        "material_file": "95e7cd559c41f797a036e4b4faa6611498945c4c5d1caf0394f96f90d5361bef14546.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14547",
+        "material_title": "221231_f94_01_s.jpg",
+        "material_file": "87fe1a928da19d737a46356f5c46262ea13d72719222ac737afb889b1b81f7b614547.jpeg"
+      }
+    ],
+    "previous_id": "17429",
+    "next_id": "17427",
+    "saved_materials": [
+      "assets/17428_14546_221231_f94_02_s.jpg",
+      "assets/17428_14547_221231_f94_01_s.jpg"
+    ]
+  }
+}

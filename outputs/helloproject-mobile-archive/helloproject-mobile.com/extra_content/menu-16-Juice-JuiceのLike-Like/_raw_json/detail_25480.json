@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 43,
+    "content_id": "25480",
+    "content_title": "メンカラしゅしゅ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-12-16 10:00:00",
+    "created_at": "2025-12-12 18:13:29",
+    "updated_at": "2025-12-12 18:13:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20819",
+        "material_title": "1212kudo_s.jpg",
+        "material_file": "6ed533aed240ea31ac8c60c4bbf9b9c410b7ed9430eb87b31c9893f89bc6e90920819.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25480",
+    "content_title": "メンカラしゅしゅ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-12-16 10:00:00",
+    "created_at": "2025-12-12 18:13:29",
+    "updated_at": "2025-12-12 18:13:29",
+    "content_text": "1212kudo_s.jpg\r\n今年、このメンバーカラーのしゅしゅを沢山つけたなぁと、、！！\r\n来年も沢山つけたいな！！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20819",
+        "material_title": "1212kudo_s.jpg",
+        "material_file": "075455e72c5651b2ab3c3f96c1633d586141ef081a92c04b1c4041266505c6d020819.jpeg"
+      }
+    ],
+    "previous_id": "25505",
+    "next_id": "25306",
+    "saved_materials": [
+      "assets/25480_20819_1212kudo_s.jpg"
+    ]
+  }
+}

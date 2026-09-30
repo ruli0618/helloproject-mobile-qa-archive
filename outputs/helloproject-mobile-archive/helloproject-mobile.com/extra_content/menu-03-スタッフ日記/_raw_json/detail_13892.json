@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 339,
+    "content_id": "13892",
+    "content_title": "工藤の家の屋根裏部屋#74前編～工藤由愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-06-05 17:00:00",
+    "created_at": "2020-05-27 20:23:56",
+    "updated_at": "2020-06-05 18:49:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11588",
+        "material_title": "200527_01_s.jpg",
+        "material_file": "f6277ca225320e360d0e986c91b64343c72b5fecb7852107de3e968dbe4e50a711588.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11589",
+        "material_title": "200527_02_s.jpg",
+        "material_file": "51531d6969e47df83e0990ab867b141f8583f57b8f880157c46cbe157972dac711589.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13892",
+    "content_title": "工藤の家の屋根裏部屋#74前編～工藤由愛～",
+    "content_sub_title": "",
+    "release_date": "2020-06-05 17:00:00",
+    "created_at": "2020-05-27 20:23:56",
+    "updated_at": "2020-06-05 18:49:05",
+    "content_text": "ふくむらの部屋 第74回前編配信中！\n\nゲストは、ふくむらの部屋初登場。\nJuice=Juice工藤由愛さんが出演！\n\n200527_02_s.jpg\n\n今回は収録場所の関係上、斜めに座る形でマスクを着用したまま収録を行いました。\n\n工藤さんがタコを好きになるきっかけからカニタコ話、この期間始めた動画編集・お蔵入りになってしまった動画についてもお話してくれています。\n\n悩みをキラーンと解決のコーナーでは、夜更かしに関するお悩み、マスクに関するお悩みをキラーンと解決！\n\n200527_01_s.jpg\n\n次回は、6/16(火)の配信。\n引き続き工藤由愛さん出演の第74回後編は、お待ちかねの新コーナーもスタート！\n\nぜひ聴いてくださいね！！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11588",
+        "material_title": "200527_01_s.jpg",
+        "material_file": "f1fe567443b48f94acc041035f5f2a8b45c733463398a5a89e2a0c2c0640d6af11588.jpeg"
+      },
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11589",
+        "material_title": "200527_02_s.jpg",
+        "material_file": "5532d48b1c39eb5796bacd14766fef925b146d5bf8ac6491bd673cbb1add1b7811589.jpeg"
+      }
+    ],
+    "previous_id": "13972",
+    "next_id": "13951",
+    "saved_materials": [
+      "assets/13892_11588_200527_01_s.jpg",
+      "assets/13892_11589_200527_02_s.jpg"
+    ]
+  }
+}

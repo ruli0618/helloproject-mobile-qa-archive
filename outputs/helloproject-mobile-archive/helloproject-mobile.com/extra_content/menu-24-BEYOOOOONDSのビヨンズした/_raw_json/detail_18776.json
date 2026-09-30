@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 303,
+    "content_id": "18776",
+    "content_title": "チーム夏生まれ",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2022-09-07 10:00:00",
+    "created_at": "2022-09-05 13:53:45",
+    "updated_at": "2022-09-05 13:53:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15644",
+        "material_title": "0907_shimakura_s.jpg",
+        "material_file": "9d138a8365f30677be1ce02caf0b1c6847ced35bab86a40bf8197a6cddadb44415644.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18776",
+    "content_title": "チーム夏生まれ",
+    "content_sub_title": "島倉りか",
+    "release_date": "2022-09-07 10:00:00",
+    "created_at": "2022-09-05 13:53:45",
+    "updated_at": "2022-09-05 13:53:45",
+    "content_text": "0907_shimakura_s.jpg\r\n絶妙なポーズと絶妙な表情ですが楽しんでます！\r\n\r\n【21周目お題：楽しい】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15644",
+        "material_title": "0907_shimakura_s.jpg",
+        "material_file": "a94769db2b1be22fd1a35f52fc83deadf6f44c515dfe009e0964827961b8948115644.jpeg"
+      }
+    ],
+    "previous_id": "18777",
+    "next_id": "18521",
+    "saved_materials": [
+      "assets/18776_15644_0907_shimakura_s.jpg"
+    ]
+  }
+}

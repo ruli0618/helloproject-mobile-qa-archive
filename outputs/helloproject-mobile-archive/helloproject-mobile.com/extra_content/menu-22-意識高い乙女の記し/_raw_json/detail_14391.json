@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 166,
+    "content_id": "14391",
+    "content_title": "歯磨き",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-08-21 11:36:00",
+    "created_at": "2020-08-21 11:37:23",
+    "updated_at": "2020-08-21 11:37:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11977",
+        "material_title": "0821_ono_s.jpg",
+        "material_file": "6f279f69e83fe36540d4822cfdd718089d2575415ab3e418189526490c07bac511977.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14391",
+    "content_title": "歯磨き",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-08-21 11:36:00",
+    "created_at": "2020-08-21 11:37:23",
+    "updated_at": "2020-08-21 11:37:23",
+    "content_text": "0821_ono_s.jpg\r\n最近使っている歯磨き粉です<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n左側のものは、\r\nメイクさんに教えていただいて\r\n磨き上がりがツルツルになるのが\r\nお気に入り！\r\n\r\n美しい歯を目指します〜！<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\n綺麗な歯への意識が一つ上がった<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "11977",
+        "material_title": "0821_ono_s.jpg",
+        "material_file": "bc315646a75ef44cc72e298aba3da8ceb42e91f3a54d630316e113ca4cd37fce11977.jpeg"
+      }
+    ],
+    "previous_id": "14400",
+    "next_id": "14317",
+    "saved_materials": [
+      "assets/14391_11977_0821_ono_s.jpg"
+    ]
+  }
+}

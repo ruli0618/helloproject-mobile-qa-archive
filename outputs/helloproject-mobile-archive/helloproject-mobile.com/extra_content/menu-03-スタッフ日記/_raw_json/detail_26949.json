@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 64,
+    "content_id": "26949",
+    "content_title": "宣伝会議#106",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-01-23 00:00:00",
+    "created_at": "2026-09-28 15:36:53",
+    "updated_at": "2026-09-28 15:36:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22009",
+        "material_title": "106.jpg",
+        "material_file": "65bfd3beab982a990c31b037ff4b8967b66547c5577fe0649bfc42a7a5ed22e822009.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22010",
+        "material_title": "106_04.jpg",
+        "material_file": "2082986c02078282b76fe150a89ff79432af35e0deb992bb8cd0c3fad4455c5922010.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22011",
+        "material_title": "106_01.jpg",
+        "material_file": "5d41bcbf9e9c9d8ac57aa77d971339a42e5e0e4edb6eb3d71265f2be0777102b22011.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22012",
+        "material_title": "106_02.jpg",
+        "material_file": "fd01f9e3e796f5a62550f4debf501d25dc7501236d97fd6864dff532a2d9506e22012.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22013",
+        "material_title": "106_05.jpg",
+        "material_file": "59556a4d2b5462ec276021a889f4b9e4eaa62595922ec6aec5197dcf6a4ec4db22013.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26949",
+    "content_title": "宣伝会議#106",
+    "content_sub_title": "",
+    "release_date": "2025-01-23 00:00:00",
+    "created_at": "2026-09-28 15:36:53",
+    "updated_at": "2026-09-28 15:36:53",
+    "content_text": "106_05.jpg\r\n\r\n宣伝会議第106回は、新年初回！\r\n野中美希部長・前田こころ副部長・小野田華凜保健係でお届け！\r\n\r\n今回から新入部員である小野田華凜さんの役職が保健係に決定しました！\r\n\r\n書き初めを行いました。\r\nテーマは、「ハロ！モバを含めたハロー！プロジェクトの宣伝活動」に関してです。\r\n\r\n久しぶりに妄想動画も撮影しました。\r\n\r\n後編では、\r\n・コレクションミニ色紙\r\n・COUNTDOWN JAPAN\r\n・年が明けたと実感する時\r\n・円陣の掛け声\r\n・仲良くなりたいメンバー\r\n・タイプの女の子\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「牧野真莉愛」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n106.jpg\r\n\r\n106_01.jpg\r\n\r\n106_02.jpg\r\n\r\n106_04.jpg",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22009",
+        "material_title": "106.jpg",
+        "material_file": "dbd08f0a2033026b22358944334f294be0e8828b1cedda11bff317e4928e0aab22009.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22010",
+        "material_title": "106_04.jpg",
+        "material_file": "d388a1e1db5e641e6c31ce676a43588f144d8413339c7d4f33c484d259a9199522010.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22011",
+        "material_title": "106_01.jpg",
+        "material_file": "e89d662f0cfd790b80098e4bcfd237751ce2963770017781fe5aef5fa55b9b2d22011.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22012",
+        "material_title": "106_02.jpg",
+        "material_file": "40810d7fee6d65e8c3a613d64dc4d57e0c34363124e0942a197ae770a07773a722012.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22013",
+        "material_title": "106_05.jpg",
+        "material_file": "7c91803947e001c19805fa1e1720086160e38887a47a87469db4467cc9b4df7622013.jpeg"
+      }
+    ],
+    "previous_id": "26979",
+    "next_id": "26978",
+    "saved_materials": [
+      "assets/26949_22009_106.jpg",
+      "assets/26949_22010_106_04.jpg",
+      "assets/26949_22011_106_01.jpg",
+      "assets/26949_22012_106_02.jpg",
+      "assets/26949_22013_106_05.jpg"
+    ]
+  }
+}

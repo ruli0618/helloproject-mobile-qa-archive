@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 44,
+    "content_id": "11617",
+    "content_title": "お花たち",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-06-20 10:00:00",
+    "created_at": "2019-06-19 22:44:19",
+    "updated_at": "2019-06-19 22:44:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9903",
+        "material_title": "0620_akiyama_s.jpg",
+        "material_file": "a64a1b186beffd4ccfac593d551201b8e232c9df80b0968662a1fcf7bcd34b4a9903.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11617",
+    "content_title": "お花たち",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-06-20 10:00:00",
+    "created_at": "2019-06-19 22:44:19",
+    "updated_at": "2019-06-19 22:44:19",
+    "content_text": "こんにちわ☺\r\n秋山 眞緒です\r\n\r\n夏がやってきましたね〜\r\n暑い日が続きますが体調に気をつけて下さいね！\r\n\r\nそして\r\n紫陽花見つけましたよ<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n0620_akiyama_s.jpg\r\n\r\n紫陽花は、あ花がたくさん集まってる感じがあってかわいい。<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n今年の夏はたくさんのお花を見つけたいな<img src=\"/emoji/emoji-images/f6bc.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9903",
+        "material_title": "0620_akiyama_s.jpg",
+        "material_file": "78c4ff383e05b07716bebf7ae31912344bcc3800e4646e44f72ae180cbfdb61b9903.jpeg"
+      }
+    ],
+    "previous_id": "11669",
+    "next_id": "11612",
+    "saved_materials": [
+      "assets/11617_9903_0620_akiyama_s.jpg"
+    ]
+  }
+}

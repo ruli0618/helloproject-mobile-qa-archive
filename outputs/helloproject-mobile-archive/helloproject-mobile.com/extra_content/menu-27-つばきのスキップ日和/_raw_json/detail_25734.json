@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 47,
+    "content_id": "25734",
+    "content_title": "キープ！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2026-02-13 10:00:00",
+    "created_at": "2026-02-09 00:20:32",
+    "updated_at": "2026-02-09 00:20:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21060",
+        "material_title": "0213_fukuda_S.jpg",
+        "material_file": "ca2981db2b53b210806a74607ba2a303ac687aafb220d63d07056a0facd61b8221060.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25734",
+    "content_title": "キープ！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2026-02-13 10:00:00",
+    "created_at": "2026-02-09 00:20:32",
+    "updated_at": "2026-02-09 00:20:32",
+    "content_text": "0213_fukuda_S.jpg\r\n最近髪をロイヤルブルーに染めたんですけど、\r\n\r\n周りの人によく、ブルーすごく綺麗にキープできてるね〜と褒められて、\r\n\r\nスキップしたくなるくらいすごくルンルンな気持ちになってます！<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\nこれからもキープ頑張るぞい<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21060",
+        "material_title": "0213_fukuda_S.jpg",
+        "material_file": "b3cc7a883a84b1e9b7ff65a0806d22ae31bf34f6af1439c49af5a1354487fdda21060.jpeg"
+      }
+    ],
+    "previous_id": "25735",
+    "next_id": "25732",
+    "saved_materials": [
+      "assets/25734_21060_0213_fukuda_S.jpg"
+    ]
+  }
+}

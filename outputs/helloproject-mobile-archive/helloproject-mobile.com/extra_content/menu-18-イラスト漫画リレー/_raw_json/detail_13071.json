@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 1,
+    "content_id": "13071",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "工藤由愛",
+    "category_id": "111",
+    "release_date": "2020-02-13 16:00:00",
+    "created_at": "2020-02-13 16:47:25",
+    "updated_at": "2020-02-13 17:13:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "11111",
+        "material_title": "04_kudo.jpg",
+        "material_file": "1e2c50936495b6781f820e1c544716472a0d2b4b7f9798584a0730ca7d3d977211111.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 1,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "13071",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-02-13 16:00:00",
+    "created_at": "2020-02-13 16:47:25",
+    "updated_at": "2020-02-13 17:13:22",
+    "content_text": "04_kudo.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "11111",
+        "material_title": "04_kudo.jpg",
+        "material_file": "03cce8a2ba415fb5ccdbe023c3b458d1dd2535921d07dc45dae73cc3500df2bc11111.jpeg"
+      }
+    ],
+    "previous_id": "-1",
+    "next_id": "12911",
+    "saved_materials": [
+      "assets/13071_11111_04_kudo.jpg"
+    ]
+  }
+}

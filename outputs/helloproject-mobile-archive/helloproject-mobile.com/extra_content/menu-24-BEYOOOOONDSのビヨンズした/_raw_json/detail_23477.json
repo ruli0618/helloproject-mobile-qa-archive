@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 139,
+    "content_id": "23477",
+    "content_title": "成人式",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2024-12-23 10:00:00",
+    "created_at": "2024-12-16 15:31:29",
+    "updated_at": "2024-12-16 15:31:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19311",
+        "material_title": "1223_eguchi_s.jpg",
+        "material_file": "40320b0df46192328ec2fddb0c1187abf5ffa4f371beec12bf86bb7566e7e47419311.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23477",
+    "content_title": "成人式",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2024-12-23 10:00:00",
+    "created_at": "2024-12-16 15:31:29",
+    "updated_at": "2024-12-16 15:31:29",
+    "content_text": "1223_eguchi_s.jpg\r\n成人式当日の写真！前撮りは黒の振袖でしたが、当日は赤の振袖でした！\r\n\r\n【39周目お題：イベント】",
+    "materials": [
+      {
+        "secretKey": "eb591b537d7ab956e6f5de307aa7f773",
+        "material_id": "19311",
+        "material_title": "1223_eguchi_s.jpg",
+        "material_file": "5d82f9e797eaa150ae2a3d18b3e3686ae819611092343e04a5b0953ea5ce373519311.jpeg"
+      }
+    ],
+    "previous_id": "23479",
+    "next_id": "23476",
+    "saved_materials": [
+      "assets/23477_19311_1223_eguchi_s.jpg"
+    ]
+  }
+}

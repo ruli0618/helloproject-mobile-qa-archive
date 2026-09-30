@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 192,
+    "content_id": "13233",
+    "content_title": "毎日？！！",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2020-03-06 14:26:00",
+    "created_at": "2020-03-06 14:26:41",
+    "updated_at": "2020-03-06 14:27:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11237",
+        "material_title": "0306_tanimoto_s.jpg",
+        "material_file": "e21733068bffe56f3042f2a9843d983f802bba95ea3d804987b4c8ad4ea68d7411237.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13233",
+    "content_title": "毎日？！！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-03-06 14:26:00",
+    "created_at": "2020-03-06 14:26:41",
+    "updated_at": "2020-03-06 14:27:09",
+    "content_text": "0306_tanimoto_s.jpg\n私はほとんど毎日、おしゃれのためにピアスをつけています！！",
+    "materials": [
+      {
+        "secretKey": "1110e1605584fdbd99d19058cda436d2",
+        "material_id": "11237",
+        "material_title": "0306_tanimoto_s.jpg",
+        "material_file": "040cd95c008b400868de325de0646039c75cfccac9e122886f4838904f8519be11237.jpeg"
+      }
+    ],
+    "previous_id": "13266",
+    "next_id": "13214",
+    "saved_materials": [
+      "assets/13233_11237_0306_tanimoto_s.jpg"
+    ]
+  }
+}

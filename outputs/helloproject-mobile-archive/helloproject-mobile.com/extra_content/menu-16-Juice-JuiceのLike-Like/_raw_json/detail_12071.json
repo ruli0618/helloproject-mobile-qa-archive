@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 600,
+    "content_id": "12071",
+    "content_title": "愛媛のお味噌",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2019-09-03 10:00:00",
+    "created_at": "2019-09-02 13:39:32",
+    "updated_at": "2019-09-02 13:39:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10280",
+        "material_title": "0903_uemura_s.jpg",
+        "material_file": "183acb1a9523a5a2100e3654ed23bb94de5a3ed4d66c89a36742fe73e02a1a4c10280.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12071",
+    "content_title": "愛媛のお味噌",
+    "content_sub_title": "植村あかり",
+    "release_date": "2019-09-03 10:00:00",
+    "created_at": "2019-09-02 13:39:32",
+    "updated_at": "2019-09-02 13:39:32",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n愛媛のお味噌が大好きです\r\n\r\n0903_uemura_s.jpg\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10280",
+        "material_title": "0903_uemura_s.jpg",
+        "material_file": "2e3c72080f4b07c6912e217f6bfb7abba961272a0c07176adbeb1a3c9e26093810280.jpeg"
+      }
+    ],
+    "previous_id": "12081",
+    "next_id": "12065",
+    "saved_materials": [
+      "assets/12071_10280_0903_uemura_s.jpg"
+    ]
+  }
+}

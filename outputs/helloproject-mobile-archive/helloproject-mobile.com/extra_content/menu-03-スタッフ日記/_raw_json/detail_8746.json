@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 525,
+    "content_id": "8746",
+    "content_title": "隣のやじまん家の塀の裏#17 山木梨沙",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-07 22:43:00",
+    "created_at": "2018-03-07 22:43:57",
+    "updated_at": "2018-03-07 22:45:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7645",
+        "material_title": "180307_01_s.jpg",
+        "material_file": "938bc1064588e90624b98a3d9372c573ccd9cdd69ac1adb5cc0d10d6e38d685e7645.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7646",
+        "material_title": "180307_02_s.jpg",
+        "material_file": "46e9e2e5fb0b49db15b72337a30f60bb60d6fbb512643247bc3d9a22916c07cf7646.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8746",
+    "content_title": "隣のやじまん家の塀の裏#17 山木梨沙",
+    "content_sub_title": "",
+    "release_date": "2018-03-07 22:43:00",
+    "created_at": "2018-03-07 22:43:57",
+    "updated_at": "2018-03-07 22:45:41",
+    "content_text": "「隣のやじまん家」#17配信中！\r\n\r\n今回は「～部屋」シリーズから換算して2回目の出演、カントリー・ガールズ山木梨沙さんがゲストに来てくれました！\r\n\r\n絵を描くのが得意な山木さん。\r\n今回は特別に、番組収録中に矢島さんの似顔絵イラストを描いてくれました！\r\n\r\n180307_01_s.jpg\r\n\r\nイラストのアップはこちら！\r\n\r\n180307_02_s.jpg\r\n\r\n山木さんが今とてもはまっているリアル脱出ゲームや、道重さゆみさんを語る一幕も…！\r\n\r\n巷で話題の「雨乞いダンス」の映像を見た矢島さんの感想は…！？\r\n詳しくは、ラジオをお聴き下さい♪\r\n\r\n今回「今月のハッピーバースデー♪」宛のメールが1通のみでした…！\r\nまだまだ、3月に誕生日を迎える方からのお便り、募集中です！\r\n\r\nそして、次回ゲストは、Juice=Juiceから宮崎由加さんが出演！\r\n3/15(木)16時まで、メール受付中です！\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n次の配信は、3/20(火)を予定しています。\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7645",
+        "material_title": "180307_01_s.jpg",
+        "material_file": "eade4aca2135f227d1d37966c8ed21b345a51a0268db20756a49284342b47e297645.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7646",
+        "material_title": "180307_02_s.jpg",
+        "material_file": "a1a9e9bb7cb464fedd59d95ca03216238a41f9a1c6e61c1c7e002f85e9ea64257646.jpeg"
+      }
+    ],
+    "previous_id": "8760",
+    "next_id": "8681",
+    "saved_materials": [
+      "assets/8746_7645_180307_01_s.jpg",
+      "assets/8746_7646_180307_02_s.jpg"
+    ]
+  }
+}

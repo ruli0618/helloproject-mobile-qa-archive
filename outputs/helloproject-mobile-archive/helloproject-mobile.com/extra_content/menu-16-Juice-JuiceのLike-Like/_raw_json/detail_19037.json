@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 322,
+    "content_id": "19037",
+    "content_title": "？",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2022-11-01 10:00:00",
+    "created_at": "2022-10-27 17:13:20",
+    "updated_at": "2022-10-27 17:13:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15841",
+        "material_title": "1101_endo_s.jpg",
+        "material_file": "3cafdaf413de0e180a5b8c1ff27168e6c317f7b9d96c00249a8d4132933fa05515841.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19037",
+    "content_title": "？",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2022-11-01 10:00:00",
+    "created_at": "2022-10-27 17:13:20",
+    "updated_at": "2022-10-27 17:13:20",
+    "content_text": "1101_endo_s.jpg\r\n一緒に写真を撮っていたら突然謎のポーズをしはじめたので、『？』って顔してますꉂꉂ(ˊᗜˋ*)",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15841",
+        "material_title": "1101_endo_s.jpg",
+        "material_file": "ad9535ee3cd395c99def6ddcc35735b4e3897cabb40ff8e4bec8593ab738249815841.jpeg"
+      }
+    ],
+    "previous_id": "19038",
+    "next_id": "19036",
+    "saved_materials": [
+      "assets/19037_15841_1101_endo_s.jpg"
+    ]
+  }
+}

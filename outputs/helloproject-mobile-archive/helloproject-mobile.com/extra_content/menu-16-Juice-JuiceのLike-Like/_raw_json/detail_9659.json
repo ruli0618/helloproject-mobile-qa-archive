@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 695,
+    "content_id": "9659",
+    "content_title": "突っ伏し！",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2018-08-25 11:00:00",
+    "created_at": "2018-08-13 15:56:40",
+    "updated_at": "2018-08-13 15:56:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8451",
+        "material_title": "0825_miyamoto_s.jpg",
+        "material_file": "a8325f73d6ef9265c6a293af1586160ce2d4df656613ed79ee60dbedd0ebc9d88451.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9659",
+    "content_title": "突っ伏し！",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2018-08-25 11:00:00",
+    "created_at": "2018-08-13 15:56:40",
+    "updated_at": "2018-08-13 15:56:40",
+    "content_text": "0825_miyamoto_s.jpg\r\nジャスミン♡",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8451",
+        "material_title": "0825_miyamoto_s.jpg",
+        "material_file": "3dfde7e154580e0a07bf5dc008e5690651fcd3db8d16a86f314c4ef38d2907b98451.jpeg"
+      }
+    ],
+    "previous_id": "9660",
+    "next_id": "9657",
+    "saved_materials": [
+      "assets/9659_8451_0825_miyamoto_s.jpg"
+    ]
+  }
+}

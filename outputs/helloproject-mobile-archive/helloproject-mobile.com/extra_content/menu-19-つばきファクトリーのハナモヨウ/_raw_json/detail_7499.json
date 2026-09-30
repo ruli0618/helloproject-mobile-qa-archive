@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 144,
+    "content_id": "7499",
+    "content_title": "綺麗な写真は好きやー♡",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2017-09-14 11:00:00",
+    "created_at": "2017-09-11 15:17:30",
+    "updated_at": "2017-09-11 15:17:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6609",
+        "material_title": "170914_akiyama_s.jpg",
+        "material_file": "e1e9a1801d3e1b6e8141984cf76fc3ffb10cddd2668e0934eea053b22019274e6609.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7499",
+    "content_title": "綺麗な写真は好きやー♡",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2017-09-14 11:00:00",
+    "created_at": "2017-09-11 15:17:30",
+    "updated_at": "2017-09-11 15:17:30",
+    "content_text": "みなさーーん* ( *´ワ｀*)\r\nこんにちは♡\r\n\r\n秋山 眞緒です！！\r\n\r\n\r\n今日の花の写真はー！！！\r\n\r\nこちらでーーす！↓♡\r\n\r\n170914_akiyama_s.jpg\r\n\r\nこのお花きれいでしょーー！！\r\n\r\n\r\nついつい綺麗で撮っちゃったー*＼(^o^)／*\r\n\r\n最近は、綺麗なお花を見ると写真をとっちゃう！！\r\n\r\n写真のホルダーにお花の写真何枚あるんだろ!!\r\n\r\nお花大好きです！！^ ^\r\n\r\n\r\nあなたは、お花の写真を撮ったりしますか？？♡^ ^♡\r\n\r\n\r\n眞緒は、あまり撮ったことはなかったのですが\r\n最近は良く綺麗な写真を撮りたくなります！！\r\n\r\n\r\nみなさんも是非綺麗な写真を撮ってみて下さい！！",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "6609",
+        "material_title": "170914_akiyama_s.jpg",
+        "material_file": "a2af5970e0ddfba257196f83ba19172134535aac4e8dc8cb300542a83af82aa16609.jpeg"
+      }
+    ],
+    "previous_id": "7503",
+    "next_id": "7498",
+    "saved_materials": [
+      "assets/7499_6609_170914_akiyama_s.jpg"
+    ]
+  }
+}

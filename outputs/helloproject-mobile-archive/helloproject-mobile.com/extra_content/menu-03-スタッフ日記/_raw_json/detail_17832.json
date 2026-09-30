@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 231,
+    "content_id": "17832",
+    "content_title": "宣伝会議#72",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-26 10:00:00",
+    "created_at": "2022-03-25 23:36:53",
+    "updated_at": "2022-03-25 23:48:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14913",
+        "material_title": "220324_04_s.jpg",
+        "material_file": "8b649e1a3369cea47764fd756c132e221cb8a7c8769884106a1c94c6684337d514913.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14914",
+        "material_title": "220324_01_s.jpg",
+        "material_file": "845642ba42b1cc5c994c8399ef1f70e3290d3b5778140057e47923a46f63b32f14914.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14915",
+        "material_title": "220324_03_s.jpg",
+        "material_file": "9b482c296ad50f1329c4333e8b4f89fd6ad3f6406d056f3757ab7e81c337719614915.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14916",
+        "material_title": "220324_02_s.jpg",
+        "material_file": "82abdf86788b4a975a91a5ed6615ddd687571abe4aac72c7ba198451e1bb131414916.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17832",
+    "content_title": "宣伝会議#72",
+    "content_sub_title": "",
+    "release_date": "2022-03-26 10:00:00",
+    "created_at": "2022-03-25 23:36:53",
+    "updated_at": "2022-03-25 23:48:25",
+    "content_text": "宣伝会議第72回は、川村文乃副部長、前田こころ書記兼警備兼広報の二人でお届け！\r\n\r\n220324_01_s.jpg\r\n\r\n揚げ物にかけるもの、\r\n単独ツアーの意気込み、\r\nムカつく時の対処法、\r\nグループ内のブーム、\r\n占い診断で言われる事、\r\nひなフェス抽選会についてトーク！\r\n\r\n220324_02_s.jpg\r\n\r\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「岸本ゆめの」さんについて紹介！\r\n\r\nほかにも…\r\n真夜中にハロー！dTVオリジナルドラマ、\r\nMVの爆破シーン、\r\n研修生時代から成長したところ、\r\n猫カフェ、\r\nやってみたいライブ演出、\r\n卒業する気になるメンバー\r\nなどの話題で盛り上がりました！\r\n\r\n↓議事録はこちら！\r\n220324_04_s.jpg\r\n\r\n次回は、部員全員集合！\r\nお楽しみに！\r\n\r\n220324_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "14913",
+        "material_title": "220324_04_s.jpg",
+        "material_file": "34eace67cf370204db0f5737945e0fbcc08cb234c3e08acc353b5a6f8a5c683914913.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "14914",
+        "material_title": "220324_01_s.jpg",
+        "material_file": "5d8aa972b83c09e332191aa3ea2cf071cfd314dba27ed7355df65c5befa852a714914.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "14915",
+        "material_title": "220324_03_s.jpg",
+        "material_file": "eb72a52bb45addf4924b5ef88279e33f8e9c393385945a75beefa8645ea8dcfd14915.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "14916",
+        "material_title": "220324_02_s.jpg",
+        "material_file": "e607faf39ead1e01e7c81f16ece8acdedca01632d35c5a0b7dba9a2bc987c54b14916.jpeg"
+      }
+    ],
+    "previous_id": "18174",
+    "next_id": "17828",
+    "saved_materials": [
+      "assets/17832_14913_220324_04_s.jpg",
+      "assets/17832_14914_220324_01_s.jpg",
+      "assets/17832_14915_220324_03_s.jpg",
+      "assets/17832_14916_220324_02_s.jpg"
+    ]
+  }
+}

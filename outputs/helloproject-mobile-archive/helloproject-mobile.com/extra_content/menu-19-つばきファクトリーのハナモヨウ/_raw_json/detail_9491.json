@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 98,
+    "content_id": "9491",
+    "content_title": "元気に",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-07-09 15:52:00",
+    "created_at": "2018-07-09 15:53:22",
+    "updated_at": "2018-07-09 15:54:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8329",
+        "material_title": "0709_yamagishi_s.jpg",
+        "material_file": "c5a72f6d615f2a9e123715f0c8e16b20e66ec26e71e50bae8460eadd958ae5948329.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9491",
+    "content_title": "元気に",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-07-09 15:52:00",
+    "created_at": "2018-07-09 15:53:22",
+    "updated_at": "2018-07-09 15:54:38",
+    "content_text": "こんにちはー！\r\nつばきファクトリーの山岸理子です！\r\n暑くなってきましたね！\r\nそんな中、ピンクのお花は、元気に咲いてます！！\r\n暑さに負けず、頑張ろう！\r\n\r\n0709_yamagishi_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8329",
+        "material_title": "0709_yamagishi_s.jpg",
+        "material_file": "ac2c96e9d73cbdcf7ff14c9b3930ef5f60058cae2fb2b721ac3bf10b5152f9538329.jpeg"
+      }
+    ],
+    "previous_id": "9515",
+    "next_id": "9393",
+    "saved_materials": [
+      "assets/9491_8329_0709_yamagishi_s.jpg"
+    ]
+  }
+}

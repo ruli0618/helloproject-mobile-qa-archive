@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 90,
+    "content_id": "23398",
+    "content_title": "宣伝会議#101",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-08-22 00:00:00",
+    "created_at": "2024-11-28 18:57:21",
+    "updated_at": "2024-11-28 18:57:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19244",
+        "material_title": "101.jpg",
+        "material_file": "84e2b10b69eb1d8319cb047de5bf9f86d3db95fb3ef4651fb819dc708ff8611219244.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19245",
+        "material_title": "101_01_.jpg",
+        "material_file": "f0ec9bc0eb43f49cdcca782c0ca8bc248fef1d4a73958e357baa0eaccea011b119245.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19246",
+        "material_title": "101_02_s.jpg",
+        "material_file": "5a94e4bceb9d79a90684ee0c9c8f239e88bf44727f19866416c7832bb827b12e19246.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19247",
+        "material_title": "101_03_s.jpg",
+        "material_file": "e77a69b3ad469a33db3fd235c3fa8a4a3992e70f7cdf05e35ad285dcfeee53f919247.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23398",
+    "content_title": "宣伝会議#101",
+    "content_sub_title": "",
+    "release_date": "2024-08-22 00:00:00",
+    "created_at": "2024-11-28 18:57:21",
+    "updated_at": "2024-11-28 18:57:21",
+    "content_text": "宣伝会議第102回は、野中美希部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n101_01_.jpg\r\n\r\n前編では、\r\n・外部イベントで意識していること\r\n・野中前田ディナーから夜の海デート\r\n・イメチェンヘアスタイル\r\n・100の質問おまけ話\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「大人と子供、どっちが幸せ？」についてディベート！\r\n\r\n後編では、\r\n・プロフィール帳の答え方\r\n・ハロコンで注目の推しメンバー\r\n・個別イベント\r\n・秋ツアー意気込み\r\n・釣り\r\n・意外な共通点\r\n・女の子のタイプ\r\n・ゆはここ推しの櫻井梨央\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「筒井澪心」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n101.jpg\r\n\r\n101_02_s.jpg\r\n\r\n101_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19244",
+        "material_title": "101.jpg",
+        "material_file": "8d222ecb4d790ab2ae194b5f016e46c9476bacf9af5da05ca1f3a8345d3c40a219244.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19245",
+        "material_title": "101_01_.jpg",
+        "material_file": "0a624208aa26f412d453ebd65866850b829f8ae93e1650ec63f59ececf35160719245.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19246",
+        "material_title": "101_02_s.jpg",
+        "material_file": "320c266dd01b45de08408de19a2de1174c10e53509a436bae006487fb3fab58819246.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19247",
+        "material_title": "101_03_s.jpg",
+        "material_file": "6d128e73f7660d38dd396907708a9bc9a5c1972bdd0af4b12cc891166b2089d719247.jpeg"
+      }
+    ],
+    "previous_id": "22943",
+    "next_id": "22942",
+    "saved_materials": [
+      "assets/23398_19244_101.jpg",
+      "assets/23398_19245_101_01_.jpg",
+      "assets/23398_19246_101_02_s.jpg",
+      "assets/23398_19247_101_03_s.jpg"
+    ]
+  }
+}

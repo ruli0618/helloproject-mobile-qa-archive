@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 16,
+    "content_id": "6751",
+    "content_title": "カントリー・ガールズ",
+    "content_sub_title": "船木結",
+    "category_id": "55",
+    "release_date": "2017-05-29 15:00:00",
+    "created_at": "2017-05-29 15:52:07",
+    "updated_at": "2017-05-29 18:16:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5948",
+        "material_title": "006_funaki.jpg",
+        "material_file": "a0d8ce8683161c03b6bf86deff84a456745ac1b9b53a2e21cc1ee25632ab4ece5948.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "6751",
+    "content_title": "カントリー・ガールズ",
+    "content_sub_title": "船木結",
+    "release_date": "2017-05-29 15:00:00",
+    "created_at": "2017-05-29 15:52:07",
+    "updated_at": "2017-05-29 18:16:05",
+    "content_text": "006_funaki.jpg",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "5948",
+        "material_title": "006_funaki.jpg",
+        "material_file": "10dde55835a3487116a1aeaa432969cb04d3d7c8b1162d21d3ec269ae8fe34a65948.jpeg"
+      }
+    ],
+    "previous_id": "7268",
+    "next_id": "6521",
+    "saved_materials": [
+      "assets/6751_5948_006_funaki.jpg"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 470,
+    "content_id": "10105",
+    "content_title": "宣伝会議お便り",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-18 23:16:00",
+    "created_at": "2018-10-18 23:20:47",
+    "updated_at": "2018-10-18 23:21:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10105",
+    "content_title": "宣伝会議お便り",
+    "content_sub_title": "",
+    "release_date": "2018-10-18 23:16:00",
+    "created_at": "2018-10-18 23:20:47",
+    "updated_at": "2018-10-18 23:21:26",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n来る10/20(土)21(日)の里山イベントハロ！モバブースでは、ハロ！モバ目安箱を設置いたします。\n\nここで集まったご意見は、次の宣伝会議ラジオでご紹介！\n\nハロ！モバに関するご意見ご感想はもちろん、宣伝部員メンバーへ対するお便りでもOK！\n\nぜひぜひ、沢山のメッセージをお入れ下さいね♪\n\nハロ！モバ会員の皆さんのご来場、お待ちしています。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10111",
+    "next_id": "10102",
+    "saved_materials": []
+  }
+}

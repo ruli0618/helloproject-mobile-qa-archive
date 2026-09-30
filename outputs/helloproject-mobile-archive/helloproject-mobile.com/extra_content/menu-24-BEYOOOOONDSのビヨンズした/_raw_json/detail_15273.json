@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 420,
+    "content_id": "15273",
+    "content_title": "お願い♡♡♡",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2021-01-11 10:00:00",
+    "created_at": "2021-01-07 23:16:31",
+    "updated_at": "2022-01-17 14:38:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12706",
+        "material_title": "0111_shimakura_s.jpg",
+        "material_file": "96121e812602401c5046455c657df72e4e6dac041e7a0ff5b1478209fb84deeb12706.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15273",
+    "content_title": "お願い♡♡♡",
+    "content_sub_title": "島倉りか",
+    "release_date": "2021-01-11 10:00:00",
+    "created_at": "2021-01-07 23:16:31",
+    "updated_at": "2022-01-17 14:38:32",
+    "content_text": "0111_shimakura_s.jpg\nこんな顔でお願いされたら、なんでもお願い聞きたくなっちゃいますよね。\n\n【8周目お題：カメラ目線】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12706",
+        "material_title": "0111_shimakura_s.jpg",
+        "material_file": "25a78280bcab9aeaec5682f1338dcc9b3c657605c74a928a47b6592818cb81e012706.jpeg"
+      }
+    ],
+    "previous_id": "15276",
+    "next_id": "14991",
+    "saved_materials": [
+      "assets/15273_12706_0111_shimakura_s.jpg"
+    ]
+  }
+}

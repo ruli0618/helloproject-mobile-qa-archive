@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 482,
+    "content_id": "9782",
+    "content_title": "工藤の家の屋根裏部屋#31～山木梨沙～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-29 17:00:00",
+    "created_at": "2018-08-29 16:56:43",
+    "updated_at": "2018-08-29 16:56:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8556",
+        "material_title": "180829_01_s.jpg",
+        "material_file": "8f5c54060088f4ebd88dd445910e950f3cda026b11ed54c7727805fbff44e4508556.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8557",
+        "material_title": "180829_03_s.jpg",
+        "material_file": "7d39be091287b043f75f88aedc8711dd8a29a29bd901a24243c3f0b980cd2e418557.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8558",
+        "material_title": "180829_02_s.jpg",
+        "material_file": "e1e12e54f034a279c04a4872ac1eff5e84a70253ec7eee47665563dcdcaa76248558.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9782",
+    "content_title": "工藤の家の屋根裏部屋#31～山木梨沙～",
+    "content_sub_title": "",
+    "release_date": "2018-08-29 17:00:00",
+    "created_at": "2018-08-29 16:56:43",
+    "updated_at": "2018-08-29 16:56:43",
+    "content_text": "「ふくむらの部屋」31回目配信開始です！\r\n\r\nカントリー・ガールズ山木梨沙さんが登場！\r\n\r\n180829_01_s.jpg\r\n\r\nふくむらの部屋登場は2回目になります。\r\n\r\n\r\nということで、\r\n今回はあの大人気コーナー\r\n\r\n『みずきお嬢様の私生活のコーナー』が復活しました！\r\n\r\n久しぶりにやるコーナーということもあって\r\nたくさんのメールに譜久村さんも山木さんも驚いていました。\r\n\r\n180829_02_s.jpg\r\n\r\n\r\n梁川奈々美さんのことが“ももち先輩”に見えてしまうという譜久村さんが真相を激白！\r\n\r\nそして、、ももち先輩への愛が爆発！！\r\n\r\n\r\n二人がハロー！プロジェクトのファンだった時の応援スタイルの話や\r\n\r\n遠征するとしたら・・・の話では二人ともナチュラルにお嬢様発言なところも注目です。\r\n\r\n前回山木さんがゲストで来た回よりも何倍も濃～い内容になっています。\r\n\r\n\r\n180829_03_s.jpg\r\n\r\n\r\nメドレーセレクションのコーナー\r\n次回のテーマは「遅刻しそうな時、心を落ち着かせてくれるメドレー」です！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8556",
+        "material_title": "180829_01_s.jpg",
+        "material_file": "7e295ad80198ae359c09120881848732b9c5925bb04300baa0a01ec91a5537ef8556.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8557",
+        "material_title": "180829_03_s.jpg",
+        "material_file": "ab7ae7025bec6bfdd59cef907177f19c32d14b74641ce7a2fe6354caef9dcbcb8557.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8558",
+        "material_title": "180829_02_s.jpg",
+        "material_file": "2d13c6ab00b1fcf710b92188ad351c8ebd9820267283e89b1980bc3e61c04e0f8558.jpeg"
+      }
+    ],
+    "previous_id": "9785",
+    "next_id": "9773",
+    "saved_materials": [
+      "assets/9782_8556_180829_01_s.jpg",
+      "assets/9782_8557_180829_03_s.jpg",
+      "assets/9782_8558_180829_02_s.jpg"
+    ]
+  }
+}

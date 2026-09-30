@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 45,
+    "content_id": "18509",
+    "content_title": "花瓶",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2022-07-27 10:00:00",
+    "created_at": "2022-07-14 17:11:38",
+    "updated_at": "2022-07-14 17:11:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15409",
+        "material_title": "0727_ono_s.jpg",
+        "material_file": "a1858a6b7d97a806c6de48103c1b01172388d6149a06862597f2287e3ce8d49d15409.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18509",
+    "content_title": "花瓶",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2022-07-27 10:00:00",
+    "created_at": "2022-07-14 17:11:38",
+    "updated_at": "2022-07-14 17:11:38",
+    "content_text": "0727_ono_s.jpg\r\nオリコン週間シングルランキング\r\n1位のお祝いにいただいたお花です<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\nこのお花を生けるために\r\n新しい花瓶を買ったんだ〜！！！\r\n\r\n今度どこかに載せるかも！！！！\r\n(忘れてそうだけど)\r\n\r\n長く元気でいてくれますように♡\r\n\r\nまたねん( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15409",
+        "material_title": "0727_ono_s.jpg",
+        "material_file": "e2edd1e11f175c813d9a9eda688017f7c846ea20d2694a9c0cee6040446b14a415409.jpeg"
+      }
+    ],
+    "previous_id": "18523",
+    "next_id": "18468",
+    "saved_materials": [
+      "assets/18509_15409_0727_ono_s.jpg"
+    ]
+  }
+}

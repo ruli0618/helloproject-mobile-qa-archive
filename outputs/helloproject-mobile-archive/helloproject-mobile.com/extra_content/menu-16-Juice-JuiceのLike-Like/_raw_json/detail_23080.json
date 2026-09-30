@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 128,
+    "content_id": "23080",
+    "content_title": "今年も！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-10-15 10:50:00",
+    "created_at": "2024-10-15 10:50:13",
+    "updated_at": "2024-10-15 10:50:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18902",
+        "material_title": "1015_ishiyama_s.jpg",
+        "material_file": "5af8e76300e68cc871c4bf2878a574d885a9820a34afa5690140d636fd839e4118902.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23080",
+    "content_title": "今年も！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-10-15 10:50:00",
+    "created_at": "2024-10-15 10:50:13",
+    "updated_at": "2024-10-15 10:50:13",
+    "content_text": "1015_ishiyama_s.jpg\r\nLove from Orchestra 2024 AUTUMN SPECIALにお招き頂いて出演させていただきました！\r\nとっても豪華で心の動く1日でした〜",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "18902",
+        "material_title": "1015_ishiyama_s.jpg",
+        "material_file": "8d9686c001fc439f5c4c1220483f5ceee3ba159cb83635707c6845a31ff3d26a18902.jpeg"
+      }
+    ],
+    "previous_id": "23081",
+    "next_id": "23021",
+    "saved_materials": [
+      "assets/23080_18902_1015_ishiyama_s.jpg"
+    ]
+  }
+}

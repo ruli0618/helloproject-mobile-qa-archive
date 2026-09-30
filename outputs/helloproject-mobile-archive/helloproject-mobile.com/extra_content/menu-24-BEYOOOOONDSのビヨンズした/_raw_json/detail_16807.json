@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 362,
+    "content_id": "16807",
+    "content_title": "こばーすでー",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2021-10-18 10:00:00",
+    "created_at": "2021-09-21 20:54:13",
+    "updated_at": "2022-01-17 14:41:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14018",
+        "material_title": "1013_hirai_s.jpg",
+        "material_file": "358dcb57829dbf245e366342738825b4f4f3ae13123c4ef495fa1115f5887ebb14018.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16807",
+    "content_title": "こばーすでー",
+    "content_sub_title": "平井美葉",
+    "release_date": "2021-10-18 10:00:00",
+    "created_at": "2021-09-21 20:54:13",
+    "updated_at": "2022-01-17 14:41:10",
+    "content_text": "1013_hirai_s.jpg\n小林萌花ちゃんのパンツスタイルめっちゃいい！\n\n【14周目お題：全身】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14018",
+        "material_title": "1013_hirai_s.jpg",
+        "material_file": "48dd3442a50ae6795c1bcbb142a73042974be980b0e80372a489d7ba1d605aeb14018.jpeg"
+      }
+    ],
+    "previous_id": "16808",
+    "next_id": "16806",
+    "saved_materials": [
+      "assets/16807_14018_1013_hirai_s.jpg"
+    ]
+  }
+}

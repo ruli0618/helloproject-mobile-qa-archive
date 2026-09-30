@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 102,
+    "content_id": "22299",
+    "content_title": "衣装！！",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2024-05-24 10:00:00",
+    "created_at": "2024-05-23 19:49:13",
+    "updated_at": "2024-05-23 19:49:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18254",
+        "material_title": "0524_doi_s.jpg",
+        "material_file": "8439b050b16c46ef1bad425aa18982a709c74570f5df4400daa4d1cb6e25100618254.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22299",
+    "content_title": "衣装！！",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2024-05-24 10:00:00",
+    "created_at": "2024-05-23 19:49:13",
+    "updated_at": "2024-05-23 19:49:13",
+    "content_text": "0524_doi_s.jpg\r\n最近嬉しかったことは、メンバーカラーのブライトグリーンが入っていている衣装を着れたことです！！\r\n\r\nすごくふわふわしていてすっごく可愛いです！♡\r\n\r\nそして初めてのツアーでステージに立ってみなさんとお会いすることができてすーーーごく嬉しかっです！\r\n\r\nペンライトも沢山みえました！\r\n\r\nありがとうございます！\r\n\r\nこれからも頑張ります！\r\n\r\n土居楓奏",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18254",
+        "material_title": "0524_doi_s.jpg",
+        "material_file": "6a185afb531bc166aa27062d7579eda0e69d8e74fc7350b72741344196a495a418254.jpeg"
+      }
+    ],
+    "previous_id": "22367",
+    "next_id": "22238",
+    "saved_materials": [
+      "assets/22299_18254_0524_doi_s.jpg"
+    ]
+  }
+}

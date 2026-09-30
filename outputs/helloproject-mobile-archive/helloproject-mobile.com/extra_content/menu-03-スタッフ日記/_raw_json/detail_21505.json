@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 115,
+    "content_id": "21505",
+    "content_title": "工藤の家の軒下#2～斉藤円香～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-12-28 10:00:00",
+    "created_at": "2023-12-26 19:12:35",
+    "updated_at": "2023-12-27 22:19:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17650",
+        "material_title": "231228_s.jpg",
+        "material_file": "bca2a253775c3a05baf718c0535fbd062f220f0f9b49cb0c49638efb77bbf52717650.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21505",
+    "content_title": "工藤の家の軒下#2～斉藤円香～",
+    "content_sub_title": "",
+    "release_date": "2023-12-28 10:00:00",
+    "created_at": "2023-12-26 19:12:35",
+    "updated_at": "2023-12-27 22:19:38",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\n第2回は、OCHA NORMAリーダー斉藤円香さんがゲストに来てくれました！\n\n231228_s.jpg\n\n番組内でお便りで使われるラジオネームは「つっつんネーム」に決定！\n今後メールをお送り頂く際は、つっつんネームとして送ってみてくださいね。\n\n・好きなウインタースポーツ\n・最近のまどろこエピソード\n・好きなおでんの具\n・死ぬまでに見たほうがいいアニメ6選\nのお話からスタート！\n\n「6個の部屋」のコーナーでは、\n・最近のまどハラ\n・兄弟姉妹\nについて語りました！\n\n「ろこと一緒にがんばろこー！」のコーナーでは、\n自炊、子育て、ランニング、プール通いを頑張るみなさんを紹介しました！\n\n後半では、\n・OCHA NORMAメンバーを家族にするなら？\n・アルバムの聴きどころ\nについてトーク！\n\nここで、皆さんにお願いがあります！\n\nふくむらの部屋の「ばいぽ～ん」のように、\n「ばいば～い」に代わる終わりの挨拶を募集します！\nみなさん、ろこの部屋オリジナルの締めの挨拶を思いつきましたら、ぜひお送り下さいね。\n\n次回は、モーニング娘。'23野中美希さんがゲストに出演！\nぜひお聴き下さい♪",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "17650",
+        "material_title": "231228_s.jpg",
+        "material_file": "74ecea3df04dc5a68d10ebf0f171247ad3480f7f559e867d6e467b73e714897517650.jpeg"
+      }
+    ],
+    "previous_id": "22928",
+    "next_id": "21476",
+    "saved_materials": [
+      "assets/21505_17650_231228_s.jpg"
+    ]
+  }
+}

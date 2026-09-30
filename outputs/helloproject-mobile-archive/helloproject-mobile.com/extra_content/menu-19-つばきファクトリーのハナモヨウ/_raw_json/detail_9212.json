@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 106,
+    "content_id": "9212",
+    "content_title": "きらきら！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-05-29 11:00:00",
+    "created_at": "2018-05-24 16:27:16",
+    "updated_at": "2018-05-24 16:27:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8071",
+        "material_title": "0529_ono_s.jpg",
+        "material_file": "45f78800ab63ec5ec1b450a22e91039b8aa66fcdb5d8cbc10c37b5fce904883a8071.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9212",
+    "content_title": "きらきら！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-05-29 11:00:00",
+    "created_at": "2018-05-24 16:27:16",
+    "updated_at": "2018-05-24 16:27:16",
+    "content_text": "川沿いを歩きました！\r\n\r\n途中雨も降ってきたけど、\r\n\r\nその雨もやんで\r\n\r\nお花に付いてるしずくが\r\n\r\nきらきら光って綺麗だった〜(´˘｀*)\r\n\r\n0529_ono_s.jpg\r\n\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8071",
+        "material_title": "0529_ono_s.jpg",
+        "material_file": "a414cf1618811dde425ee9ac391fc7105b85bc574f854ce5a226e06a4233ed558071.jpeg"
+      }
+    ],
+    "previous_id": "9245",
+    "next_id": "9182",
+    "saved_materials": [
+      "assets/9212_8071_0529_ono_s.jpg"
+    ]
+  }
+}

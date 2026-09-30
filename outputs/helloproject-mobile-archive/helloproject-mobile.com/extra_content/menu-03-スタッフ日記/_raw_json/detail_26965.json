@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "26965",
+    "content_title": "宣伝会議#122",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-05-28 00:00:00",
+    "created_at": "2026-09-28 15:37:07",
+    "updated_at": "2026-09-28 15:37:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22045",
+        "material_title": "122.jpg",
+        "material_file": "2831500611e7ed64335a697b58a1f0ae618777f33d935bbd7f83cc97f9a78a6222045.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22046",
+        "material_title": "122_01.jpg",
+        "material_file": "a0c8424529deb4b989d0a5ec6aade2dd7a67e0a7845a397afbe2b1214d1bfab222046.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26965",
+    "content_title": "宣伝会議#122",
+    "content_sub_title": "",
+    "release_date": "2026-05-28 00:00:00",
+    "created_at": "2026-09-28 15:37:07",
+    "updated_at": "2026-09-28 15:37:07",
+    "content_text": "122_01.jpg\r\n\r\n宣伝会議第122回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・マクドナルドCM\r\n・似ているメンバー\r\n・テレビ番組の収録\r\n・スポーツ\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「田舎と都会、どちらに住みたい？」についてディベート！\r\n\r\n後編では、\r\n・人の名前と顔を覚えるには\r\n・個別イベント\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「弓桁朱琴」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n122.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22045",
+        "material_title": "122.jpg",
+        "material_file": "6eea0664b261bed26f4fd27f466c17e2efdf5dfbbd6c02b82c395b7362f1b4d722045.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22046",
+        "material_title": "122_01.jpg",
+        "material_file": "576d3f54a5616961f959a9a166a289b05b68b5b6d57c64d59c42c9d4870a3ba322046.jpeg"
+      }
+    ],
+    "previous_id": "27013",
+    "next_id": "27012",
+    "saved_materials": [
+      "assets/26965_22045_122.jpg",
+      "assets/26965_22046_122_01.jpg"
+    ]
+  }
+}

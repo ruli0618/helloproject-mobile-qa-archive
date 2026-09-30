@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 816,
+    "content_id": "6385",
+    "content_title": "お寿司／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-03-27 18:12:00",
+    "created_at": "2017-03-27 18:13:39",
+    "updated_at": "2017-03-27 18:14:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5675",
+        "material_title": "5775291970966_s.jpg",
+        "material_file": "2e17a8a7d67bae98d862cbfa0cf60702b345c58abc3d835adff37a884ae481525675.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6385",
+    "content_title": "お寿司／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-03-27 18:12:00",
+    "created_at": "2017-03-27 18:13:39",
+    "updated_at": "2017-03-27 18:14:55",
+    "content_text": "5775291970966_s.jpg\r\nこのお肉乗ってるお寿司とても美味しすぎた<img src=\"/emoji/emoji-images/f39e.gif\"/>\r\nまたいつか食べれるといいなあ。。",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5675",
+        "material_title": "5775291970966_s.jpg",
+        "material_file": "163dcaa92ce1bdd3b902f8ec08fdc3128e3ad1469c4e708d44f8c2fa19ef07885675.jpeg"
+      }
+    ],
+    "previous_id": "6444",
+    "next_id": "6375",
+    "saved_materials": [
+      "assets/6385_5675_5775291970966_s.jpg"
+    ]
+  }
+}

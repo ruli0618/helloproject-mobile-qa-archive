@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 123,
+    "content_id": "23955",
+    "content_title": "同期♪",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2025-03-10 10:00:00",
+    "created_at": "2025-03-07 07:55:47",
+    "updated_at": "2025-03-07 07:55:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19656",
+        "material_title": "0310_shimakra_s.jpg",
+        "material_file": "5ee63bb23090fe208e7e10835bf07b5f30017e46f3236b70bcb9dc6c9503dd1319656.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23955",
+    "content_title": "同期♪",
+    "content_sub_title": "島倉りか",
+    "release_date": "2025-03-10 10:00:00",
+    "created_at": "2025-03-07 07:55:47",
+    "updated_at": "2025-03-07 07:55:47",
+    "content_text": "0310_shimakra_s.jpg\r\nOCHA NORMAの中山夏月姫ちゃんが紗耶と私のヘアセットをしてくれました！仲良し☆\r\n\r\n【41周目お題：仲良しショット】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19656",
+        "material_title": "0310_shimakra_s.jpg",
+        "material_file": "073205cce2830782c5bf535d9e2badeba06f12ea2fe4a1960277c953ece4ec6819656.jpeg"
+      }
+    ],
+    "previous_id": "23956",
+    "next_id": "23807",
+    "saved_materials": [
+      "assets/23955_19656_0310_shimakra_s.jpg"
+    ]
+  }
+}

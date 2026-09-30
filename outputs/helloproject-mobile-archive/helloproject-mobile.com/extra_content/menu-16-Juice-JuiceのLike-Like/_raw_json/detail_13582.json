@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 556,
+    "content_id": "13582",
+    "content_title": "折り紙のイスと机",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-04-02 10:00:00",
+    "created_at": "2020-03-31 17:25:32",
+    "updated_at": "2020-03-31 17:25:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11364",
+        "material_title": "0402_kudo_s.jpg",
+        "material_file": "44b8bfceecb94b89592917c28472b9e869b339904ea43402671b37c46b02e13411364.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13582",
+    "content_title": "折り紙のイスと机",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-04-02 10:00:00",
+    "created_at": "2020-03-31 17:25:32",
+    "updated_at": "2020-03-31 17:25:32",
+    "content_text": "0402_kudo_s.jpg\r\nYouTubeの動画を見て作りました！\r\n並べてみると可愛くて、、、\r\n今度は違う色で折ってみたいなと思います！",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11364",
+        "material_title": "0402_kudo_s.jpg",
+        "material_file": "8b83471e171b7dd5e2047298ddf28401f16e007a07433057e14419f2901decbb11364.jpeg"
+      }
+    ],
+    "previous_id": "13583",
+    "next_id": "13325",
+    "saved_materials": [
+      "assets/13582_11364_0402_kudo_s.jpg"
+    ]
+  }
+}

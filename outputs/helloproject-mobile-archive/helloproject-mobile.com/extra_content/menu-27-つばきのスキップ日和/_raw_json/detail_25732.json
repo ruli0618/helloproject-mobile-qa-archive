@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 48,
+    "content_id": "25732",
+    "content_title": "日常",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2026-02-06 10:00:00",
+    "created_at": "2026-02-05 20:20:24",
+    "updated_at": "2026-02-06 10:40:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21056",
+        "material_title": "0206_akiyama_s.jpg",
+        "material_file": "89c41e4fa9321697b11e2107cac0fb7696ae60b4f7543adcdef5a91d0809f3b521056.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25732",
+    "content_title": "日常",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2026-02-06 10:00:00",
+    "created_at": "2026-02-05 20:20:24",
+    "updated_at": "2026-02-06 10:40:54",
+    "content_text": "0206_akiyama_s.jpg\nやっほーまおです⭐︎\nあなたは今何してたかなあ？\n\n毎日色んな日々を過ごし気づいたら夜になってて１日早いなぁ〜なんて良く言いますが\n\n最近の楽しかった事といえば、、わたしはパズルをしました\n2025年の冬前くらいからパズルしたいなぁ〜ってずっと思ってたんですけど、タイミングが無くてね<img src=\"/emoji/emoji-images/f39f.gif\"/>\nでもやっと出来ました♡\n\nいやあ、ハマっちゃいそう〜\n\n300ピースすぐ完成しちゃったからまた飾りたいと思う絵があったらゲットしてやりたい！！\n\nお仕事の合間でプライベートの楽しい事いっぱい探したいと思います♡\n\nあなたも日常で楽しい事探して普段の疲れを癒してね(^^)\n\n毎日お疲れ様です<img src=\"/emoji/emoji-images/4f24.gif\"/>\n\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21056",
+        "material_title": "0206_akiyama_s.jpg",
+        "material_file": "d4095c54ed1a05c6a5d96905eac5d24380ddaf566b62b65b3c9daa60d6e4710a21056.jpeg"
+      }
+    ],
+    "previous_id": "25734",
+    "next_id": "25687",
+    "saved_materials": [
+      "assets/25732_21056_0206_akiyama_s.jpg"
+    ]
+  }
+}

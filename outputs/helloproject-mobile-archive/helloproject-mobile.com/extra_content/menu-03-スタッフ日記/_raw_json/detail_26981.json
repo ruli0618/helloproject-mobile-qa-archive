@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 60,
+    "content_id": "26981",
+    "content_title": "工藤の家の軒下#32～有澤一華～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-03-04 00:00:00",
+    "created_at": "2026-09-28 22:59:19",
+    "updated_at": "2026-09-28 22:59:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22067",
+        "material_title": "250306_032.jpg",
+        "material_file": "72cfc8fade5e088cc060b8181a0edd90c8bfd32809ca4160944c2304dda6b93522067.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26981",
+    "content_title": "工藤の家の軒下#32～有澤一華～",
+    "content_sub_title": "",
+    "release_date": "2025-03-04 00:00:00",
+    "created_at": "2026-09-28 22:59:19",
+    "updated_at": "2026-09-28 22:59:19",
+    "content_text": "250306_032.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第32回はゲストは、有澤一華！\r\n\r\n・シャッフルユニット\r\n・雪国\r\n・筒井澪心を紹介\r\n・もう一人の自分\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・ハロコンで仲良くなったメンバー\r\n・ハマっていること\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・ターニングポイント\r\n・ウィキペディア\r\n・楽器REC\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22067",
+        "material_title": "250306_032.jpg",
+        "material_file": "fefb180a41c925a35ef59105dcc353fa8d362e924501e7678abcb0c480c0b4b622067.jpeg"
+      }
+    ],
+    "previous_id": "26982",
+    "next_id": "26950",
+    "saved_materials": [
+      "assets/26981_22067_250306_032.jpg"
+    ]
+  }
+}

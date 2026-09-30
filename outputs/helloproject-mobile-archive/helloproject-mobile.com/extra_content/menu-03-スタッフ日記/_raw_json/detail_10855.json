@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 438,
+    "content_id": "10855",
+    "content_title": "イベントに参加される方へ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-14 13:13:00",
+    "created_at": "2019-02-14 13:13:58",
+    "updated_at": "2019-02-20 11:18:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10855",
+    "content_title": "イベントに参加される方へ",
+    "content_sub_title": "",
+    "release_date": "2019-02-14 13:13:00",
+    "created_at": "2019-02-14 13:13:58",
+    "updated_at": "2019-02-20 11:18:45",
+    "content_text": "こんにちは！\nスタッフ番号2番です！\n\nハロ！モバ宣伝部イベント当選者の方を対象に、入金確認が取れた全てのユーザー様へのパスチケットページ反映が随時完了しております。 \n\n該当の方は、宣伝部イベントページにアクセスいただき、パスチケットページに切り替わっている事の確認をお願いいたします。 \n\n当日はこのページが入場チケット・ご本人確認の代わりとなります。 \nご本人様が入場出来なくなる原因にもなりますので、ページ画像の転載や転送等の無いようお願いいたします。 \n\nイベントページの注意事項も、よく読んでおいて頂けると助かります。\n\nまた、イベントに参加されます方は、当日開演前にイベントで使用するアンケートをお配りします。\nぜひ「妄想動画」で撮ってもらいたいシチュエーションやセリフを考えてきて下さい♪\n\n※本イベントの当日券の販売はございません。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10862",
+    "next_id": "10853",
+    "saved_materials": []
+  }
+}

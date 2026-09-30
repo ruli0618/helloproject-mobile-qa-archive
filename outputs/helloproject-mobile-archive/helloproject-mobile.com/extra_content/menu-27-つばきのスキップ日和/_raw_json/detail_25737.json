@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 44,
+    "content_id": "25737",
+    "content_title": "#ゆうcanダンス",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2026-03-06 10:00:00",
+    "created_at": "2026-02-09 00:20:40",
+    "updated_at": "2026-02-09 00:20:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21057",
+        "material_title": "0306_murata_S.jpg",
+        "material_file": "fa58a32886e27ca6f9ce73b3b853f6f500fc0f81f6b1325a49c73d6f0804d0e421057.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25737",
+    "content_title": "#ゆうcanダンス",
+    "content_sub_title": "村田結生",
+    "release_date": "2026-03-06 10:00:00",
+    "created_at": "2026-02-09 00:20:40",
+    "updated_at": "2026-02-09 00:20:40",
+    "content_text": "0306_murata_S.jpg\r\nやっほー！村田結生です！\r\n\r\nTikTokにアップした#ゆうcanダンス\r\nいいねやコメントありがとうございます！\r\n\r\nズートピアのやつ、谷本さんリクエストです♡\r\nアップした次の日はハロコンがあって、\r\nハロメンの方にも「ダンス見たよー」\r\nって言っていただけてめちゃ嬉しかったです☆\r\n\r\nこれからもダンシング楽しむぞ♪\r\n\r\nyouとyuuが毎日ルンルンで過ごせますように",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21057",
+        "material_title": "0306_murata_S.jpg",
+        "material_file": "ee8473a6981c98d4574ae86750f3c5bd201af995a1ebe234bb08ab97c9032a1021057.jpeg"
+      }
+    ],
+    "previous_id": "25889",
+    "next_id": "25736",
+    "saved_materials": [
+      "assets/25737_21057_0306_murata_S.jpg"
+    ]
+  }
+}

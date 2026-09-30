@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 308,
+    "content_id": "15192",
+    "content_title": "宣伝会議#57",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-01-05 14:20:00",
+    "created_at": "2020-12-11 16:15:20",
+    "updated_at": "2021-01-05 14:26:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12618",
+        "material_title": "20201211_s.jpg",
+        "material_file": "9e8217ba056c07545873f6fed7cf1b68227a57fd54a51b43f0a43ba046e3588f12618.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12688",
+        "material_title": "210105_01_s.jpg",
+        "material_file": "b1b41d78852d94a8e0881ac4dc4688d20d7932242cbff2b894951834c532896c12688.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12689",
+        "material_title": "210105_02_s.jpg",
+        "material_file": "aeb446e44d07d8c8640cbefa2685d0e0a4d0fb912ee94ca2599c171a656c380512689.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12690",
+        "material_title": "210105_04_s.jpg",
+        "material_file": "c05e23d8b98abbd62be525c0e5c4d9d50c51e6d849dc64a7dbc57c71b14649f612690.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12691",
+        "material_title": "210105_03_s.jpg",
+        "material_file": "dffa0cdc67f1995113d8ba21d6ab7f2f65138813ee4568102afecb5ff2d9caf512691.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15192",
+    "content_title": "宣伝会議#57",
+    "content_sub_title": "",
+    "release_date": "2021-01-05 14:20:00",
+    "created_at": "2020-12-11 16:15:20",
+    "updated_at": "2021-01-05 14:26:45",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。\n\n宣伝会議ラジオ第57回は、野中美希部長、前田こころ書記兼警備の2人でお届け！\n\n210105_01_s.jpg\n\n二人が言ってしまう方言について、BEYOOOOONDSがIPPONグランプリに出演した際の裏話、LJK(ラスト女子高生)の前田さんが女子高生のうちにやっておきたい事は？\n\nこの1年頑張ったことや新年の抱負も発表！\n\n210105_02_s.jpg\n\n今回久しぶりに妄想動画を撮影！\n自撮りで「テレビ電話」風に、年末年始の挨拶を撮りました♪\n\n「<a href=\"http://helloproject-mobile.com/info/movie/list?menu_id=17&category_id=46&category_title=妄想動画&category_color=ff0000\" >ハロー！ムービー</a>」にアップされていますので、ぜひご覧くださいね。\n\n210105_03_s.jpg\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、\n「2020年のモーニング娘。'20」\n\n2020年に起こった出来事をまとめて頂きました。\n\n↓議事録はこちら！\n\n20201211_s.jpg\n\n※換気のため窓を開けて収録しているので、外で車が走る音等の環境音が聞こえる事があります。ご了承ください。\n\n「励ましのメール」「ハロー！ペディア」メールを大募集！\n次回「ハロー！ペディア」のお題は、\n「<b>2020年のアンジュルム・BEYOOOOONDS</b>」です！\n\nメール宛先はこちら。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\n210105_04_s.jpg\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12618",
+        "material_title": "20201211_s.jpg",
+        "material_file": "e9b18a59b16885a84599a8af3202b8f0cefc9f685c721b5a1f08c666d629f1ca12618.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12688",
+        "material_title": "210105_01_s.jpg",
+        "material_file": "265dcc9745a23a779141b22d586e4a12045bfd89482a2ba1fee1decbe858a78512688.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12689",
+        "material_title": "210105_02_s.jpg",
+        "material_file": "8862127677a12d4dcd72731fcb4af7c01d51a5e72f7eecf7dcc1a290dd58d8ca12689.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12690",
+        "material_title": "210105_04_s.jpg",
+        "material_file": "5128073f1817cf13c403b10dd2533ea1bb711de610eb29eb362184616ae188ee12690.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12691",
+        "material_title": "210105_03_s.jpg",
+        "material_file": "30dc32ba31bcd824a7ed2cf2ba4819785bc845dfacd02b690d7df711f21d466312691.jpeg"
+      }
+    ],
+    "previous_id": "15260",
+    "next_id": "15311",
+    "saved_materials": [
+      "assets/15192_12618_20201211_s.jpg",
+      "assets/15192_12688_210105_01_s.jpg",
+      "assets/15192_12689_210105_02_s.jpg",
+      "assets/15192_12690_210105_04_s.jpg",
+      "assets/15192_12691_210105_03_s.jpg"
+    ]
+  }
+}

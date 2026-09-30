@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 700,
+    "content_id": "3450",
+    "content_title": "福田花音 卒業記念特設公開中！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-17 21:00:00",
+    "created_at": "2015-11-17 20:53:10",
+    "updated_at": "2015-11-18 18:54:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3450",
+    "content_title": "福田花音 卒業記念特設公開中！",
+    "content_sub_title": "",
+    "release_date": "2015-11-17 21:00:00",
+    "created_at": "2015-11-17 20:53:10",
+    "updated_at": "2015-11-18 18:54:39",
+    "content_text": "こんにちは！\nハロモバスタッフ番号2番です。\n\n先日より公開中のアンジュルム福田花音卒業記念特設ページは、もうご覧になりましたか？\n\nページ公開当初は「coming soon」だったコンテンツも続々更新されています！\n「福田花音からファンの皆様へ」「福田花音からメンバーへ」直筆メッセージに続いて、ラストアルバムのポスターフォトも本日公開されました！\n\nそして「日替わりフォト」コンテンツでは、ハロー！プロジェクト加入からこれまでの福田花音ソロ画像を毎日更新中！\n画像を見て成長を感じるもよし！懐かしい思い出に浸るもよし！ぜひご覧ください！\n\n※「日替わりフォト」は毎日午前10時に画像が切り替わるので要注意です！\n\n福田花音の卒業まで残りあとわずか…\nお見逃しなく！\n\n\n<u><a href=\"https://helloproject-mobile.com//info/special/content?page=151129fukuda_anniv/index\"><font color=\"#0000ff\">&#62;&#62;アンジュルム福田花音 卒業記念特設ページはこちら！</font></a></u>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3456",
+    "next_id": "3445",
+    "saved_materials": []
+  }
+}

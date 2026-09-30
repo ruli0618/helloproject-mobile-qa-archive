@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 718,
+    "content_id": "9096",
+    "content_title": "カフェ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-05-22 11:00:00",
+    "created_at": "2018-05-02 21:24:25",
+    "updated_at": "2018-05-02 21:31:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8004",
+        "material_title": "0522_uemura_s.jpg",
+        "material_file": "dda68cc4c41b803b55c8c7854ef30e3c3f37f49bc71a7b858ea1bd323415f8a78004.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9096",
+    "content_title": "カフェ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-05-22 11:00:00",
+    "created_at": "2018-05-02 21:24:25",
+    "updated_at": "2018-05-02 21:31:27",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\nりんかとカフェへ行ったら\r\n店員さんが書いてくれました<img src=\"/emoji/emoji-images/4f67.gif\"/>\r\n\r\n0522_uemura_s.jpg\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "8004",
+        "material_title": "0522_uemura_s.jpg",
+        "material_file": "3b040e341058913801a389039204271e3f4ee0be7045bc3ea98ea1b45c249d378004.jpeg"
+      }
+    ],
+    "previous_id": "9099",
+    "next_id": "9095",
+    "saved_materials": [
+      "assets/9096_8004_0522_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 53,
+    "content_id": "11278",
+    "content_title": "チューリップ",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2019-04-23 13:05:00",
+    "created_at": "2019-04-23 13:06:11",
+    "updated_at": "2019-04-23 13:06:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9648",
+        "material_title": "0423_yamagishi_s.jpg",
+        "material_file": "7ae6a1fcca96035f5be17bea6a269f7ba783798b7df12bda4eba4757e07044b39648.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11278",
+    "content_title": "チューリップ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2019-04-23 13:05:00",
+    "created_at": "2019-04-23 13:06:11",
+    "updated_at": "2019-04-23 13:06:11",
+    "content_text": "こんにちはー！\r\nつばきファクトリーの山岸理子です！\r\n\r\n0423_yamagishi_s.jpg\r\n\r\nみてみてー\r\nチューリップの花が！\r\nなーらんだー♪なーらんだ♪\r\n赤でも青でも黄色でもなく、「白」\r\nだけどね！！笑\r\n可愛いね♡",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9648",
+        "material_title": "0423_yamagishi_s.jpg",
+        "material_file": "f6c8bbc010c116626dac834b7bb5558d61cbd929282d10a6f39ac87e4b7876089648.jpeg"
+      }
+    ],
+    "previous_id": "11341",
+    "next_id": "11240",
+    "saved_materials": [
+      "assets/11278_9648_0423_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 11,
+    "content_id": "26966",
+    "content_title": "宣伝会議#123",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-06-25 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22047",
+        "material_title": "123.jpg",
+        "material_file": "029e843ad7f72475cde09726b4e0471086855c5d0c64168bfac563b3ce7a6ab322047.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26966",
+    "content_title": "宣伝会議#123",
+    "content_sub_title": "",
+    "release_date": "2026-06-25 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "content_text": "宣伝会議第123回は、前田こころ副部長と、ピンチヒッターとして出演してくれたOCHA NORMA斉藤円香仮入部員の二人でお届け！\r\n\r\n※出演予定でした野中美希部長は休演させていただきました。\r\n\r\n前編では、\r\n・ツアー衣装\r\n・バースデーイベント\r\n・新メンバー発表\r\n・限定品\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「友達は、多い方がいい？少ない方がいい？」についてディベート！\r\n\r\n後編では、\r\n・推しきっかけのライブ参戦\r\n・早口言葉\r\n・メンバー間の貸し借り事情\r\n・フィルムカメラ\r\n・高瀬くるみ\r\n・夏にやりたいこと\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「櫻井梨央」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n123.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22047",
+        "material_title": "123.jpg",
+        "material_file": "fa80aab5dd88884a95e96c240d384a097d918c10cb9636b88dd1772ebccf0ed222047.jpeg"
+      }
+    ],
+    "previous_id": "27015",
+    "next_id": "27014",
+    "saved_materials": [
+      "assets/26966_22047_123.jpg"
+    ]
+  }
+}

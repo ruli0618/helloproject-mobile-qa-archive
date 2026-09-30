@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 390,
+    "content_id": "12222",
+    "content_title": "工藤の家の屋根裏部屋#58～西田汐里～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-09-30 17:38:00",
+    "created_at": "2019-09-30 17:39:00",
+    "updated_at": "2019-09-30 17:40:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10412",
+        "material_title": "190930_01_s.jpg",
+        "material_file": "7cfa83f8cb79abbd4a051a2865cfcdd8dccccdb0254ea74064393731fa59bcd110412.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10413",
+        "material_title": "190930_02_s.jpg",
+        "material_file": "3a1ef0748ca8671bc97a325c60e3adda303631ed3a1fc1bb76cd76a83debc42710413.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10414",
+        "material_title": "190930_04.jpeg",
+        "material_file": "93438bc38c9125c6bf324e7fbc1394fd78b6076acb7ef2bc5c5a218862408d5b10414.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12222",
+    "content_title": "工藤の家の屋根裏部屋#58～西田汐里～",
+    "content_sub_title": "",
+    "release_date": "2019-09-30 17:38:00",
+    "created_at": "2019-09-30 17:39:00",
+    "updated_at": "2019-09-30 17:40:59",
+    "content_text": "ふくむらの部屋 第58回やっと来てくれました！\nゲストは、譜久村さんを憧れの先輩と公言しているこの方！\n\n190930_01_s.jpg\n\nBEYOOOOONDS CHICA#TETSU の西田汐里さんです！\n\nコーヒーが苦手な西田さんに、苦手克服のためまずはコーヒー味の飴から勧める譜久村さん。\n\n舞台の役に入り込むタイミング、\nライブのオケ楽曲や、優しいハロー！プロジェクト楽曲についても話されました！\n\n190930_02_s.jpg\n\nお互いがしてほしい髪型、\n西田さんが譜久村さんに歌ってほしい曲は番組をチェック！\n\n西田さんが譜久村さんの事を好きになったきっかけ、好きなところも教えてくれました♪\n\n190930_04.jpeg\n\n次回は、ハロ！モバ宣伝部広報でもありアンジュルムサブリーダーの川村文乃さんが、ふくむらの部屋初出演！\n回替りコーナーは、「悩みをキラーンと解決」\n「みずき先生のハロプロ講座」のコーナー、普通のお便りもどしどしお送り下さい！\n沢山のお便りお待ちしています♪\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n10/3(木)17:00まで受付！\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10412",
+        "material_title": "190930_01_s.jpg",
+        "material_file": "5e9abe20945dc748f7ebde3f2ff659b959f3b106434b466b7f1c31b0a286278a10412.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10413",
+        "material_title": "190930_02_s.jpg",
+        "material_file": "00cadb9a87e1d6e6e3eea506b6e0d83e200895ab636c3b6aef80cbd3ced5501b10413.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10414",
+        "material_title": "190930_04.jpeg",
+        "material_file": "1e6d1c7bcf8f26da56950213bd0bd43defd2f87a8d6aa3bea6b351dddc1e5a4410414.jpeg"
+      }
+    ],
+    "previous_id": "12230",
+    "next_id": "12131",
+    "saved_materials": [
+      "assets/12222_10412_190930_01_s.jpg",
+      "assets/12222_10413_190930_02_s.jpg",
+      "assets/12222_10414_190930_04.jpeg"
+    ]
+  }
+}

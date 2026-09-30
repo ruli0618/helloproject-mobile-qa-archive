@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 44,
+    "content_id": "25306",
+    "content_title": "めがね",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2025-12-02 10:00:00",
+    "created_at": "2025-11-17 23:00:26",
+    "updated_at": "2025-11-17 23:00:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20692",
+        "material_title": "1202_dambara_s.jpg",
+        "material_file": "8d337f4519d27f0e4f6d6c7cb4cd2e319e59afe1a924444a1d658876c68b5f0c20692.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25306",
+    "content_title": "めがね",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2025-12-02 10:00:00",
+    "created_at": "2025-11-17 23:00:26",
+    "updated_at": "2025-11-17 23:00:26",
+    "content_text": "1202_dambara_s.jpg\r\nりさちに誕生日プレゼントでもらっためがね！\r\n赤ニット×めがねもかわいいね☺️",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20692",
+        "material_title": "1202_dambara_s.jpg",
+        "material_file": "86b4a15546061f7ffd949a1a90ecad2d89f06e13abf773ee5ed0f0a105d6dbc720692.jpeg"
+      }
+    ],
+    "previous_id": "25480",
+    "next_id": "25305",
+    "saved_materials": [
+      "assets/25306_20692_1202_dambara_s.jpg"
+    ]
+  }
+}

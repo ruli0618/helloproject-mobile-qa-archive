@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 8,
+    "content_id": "26891",
+    "content_title": "飴ちゃん",
+    "content_sub_title": "林仁愛",
+    "category_id": "38",
+    "release_date": "2026-09-08 10:00:00",
+    "created_at": "2026-09-07 16:14:09",
+    "updated_at": "2026-09-07 16:14:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21951",
+        "material_title": "0908_hayashi_s.jpg",
+        "material_file": "de2c39f2926792cc57f6655f96d461780140cbd404ff70ee099068a6f52057ea21951.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26891",
+    "content_title": "飴ちゃん",
+    "content_sub_title": "林仁愛",
+    "release_date": "2026-09-08 10:00:00",
+    "created_at": "2026-09-07 16:14:09",
+    "updated_at": "2026-09-07 16:14:09",
+    "content_text": "0908_hayashi_s.jpg\r\nハロ！コン2026の時に、山﨑さんにパンダさんグッズをお渡ししたらお返しに飴ちゃん頂きました！\r\n\r\nこのパンダさんグッズは去年渡す予定だったんだけど、勇気が出なくて早1年。\r\nやっとお渡しすることができました！\r\n\r\n私が「去年渡します！と言っていたあの事なんですけど」と話を切り出したら『あれね！ずっと気になってたんだよね』と仰ってたので1年越しのプレゼントというお話でした。",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21951",
+        "material_title": "0908_hayashi_s.jpg",
+        "material_file": "9070c37be1ec47d3227dcd51b13ddbf59986f677b62b0f6197e171869b5303cc21951.jpeg"
+      }
+    ],
+    "previous_id": "26903",
+    "next_id": "26747",
+    "saved_materials": [
+      "assets/26891_21951_0908_hayashi_s.jpg"
+    ]
+  }
+}

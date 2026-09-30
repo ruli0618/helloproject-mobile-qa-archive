@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 697,
+    "content_id": "3465",
+    "content_title": "譜久村聖・鞘師里保へのメール募集！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-25 20:40:00",
+    "created_at": "2015-11-25 20:33:21",
+    "updated_at": "2015-11-25 20:41:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3221",
+        "material_title": "fukumura.jpg",
+        "material_file": "111283160451597d1e2e4cb3f699537cad43c331413f683f1dd7a6218accb2053221.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3465",
+    "content_title": "譜久村聖・鞘師里保へのメール募集！",
+    "content_sub_title": "",
+    "release_date": "2015-11-25 20:40:00",
+    "created_at": "2015-11-25 20:33:21",
+    "updated_at": "2015-11-25 20:41:42",
+    "content_text": "こんにちは！\nハロモバスタッフ番号2番です。\n\n大好評！ハロー！ラジオ「さやしの部屋」\n第4回はモーニング娘。'15生田・鈴木の2人をゲストに招いてお送りしましたが、次回のゲストは残る9期メンバー譜久村聖！\n\nfukumura.jpg\n\n番組では、会員のみなさんからのメールを大募集中！2人へのメッセージや、質問、ツアーの感想等など、なんでも送ってください！\n\n「さやしの部屋」も残り2回、\nあなたのメールが鞘師里保に読み上げられるチャンスです！\n\nメールの締切は、<font color=\"red\"><b>11/26(木)23:59</b></font>まで！\nたくさんのメールお待ちしております！\n\nメールはラジオネームを明記の上、下記宛先までお送り下さい。\n宛先：<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n締切：11/26(木)23:59\n\n【注意事項】（※必ずお読みください。）\n※募集は、700円会員に登録している方が対象となります。\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\n\n\n<a href=\"https://helloproject-mobile.com/mypage/manage\"><font color=\"#0000ff\"><u>マイページはこちら</u></font></a>\n\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><font color=\"#0000ff\"><u>ハローラジオはこちら</u></font></a>",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3221",
+        "material_title": "fukumura.jpg",
+        "material_file": "35e5f58acb12fdd06ba6abe90e16a7233755d3bf537f3bae23c8987d22f713df3221.jpeg"
+      }
+    ],
+    "previous_id": "3467",
+    "next_id": "3457",
+    "saved_materials": [
+      "assets/3465_3221_fukumura.jpg"
+    ]
+  }
+}

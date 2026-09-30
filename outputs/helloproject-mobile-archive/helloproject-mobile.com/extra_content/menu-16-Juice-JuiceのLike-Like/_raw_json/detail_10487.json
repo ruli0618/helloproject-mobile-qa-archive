@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 658,
+    "content_id": "10487",
+    "content_title": "ダルメシアン",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-12-20 11:00:00",
+    "created_at": "2018-12-11 15:25:47",
+    "updated_at": "2018-12-11 15:25:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9062",
+        "material_title": "1220_dambara_s.jpg",
+        "material_file": "b8356ac4b4e88512b5f3dd22c2222d2a5653cd10f76eea62f96f463abf1023729062.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10487",
+    "content_title": "ダルメシアン",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-12-20 11:00:00",
+    "created_at": "2018-12-11 15:25:47",
+    "updated_at": "2018-12-11 15:25:47",
+    "content_text": "1220_dambara_s.jpg\r\nJuice=Juice8人でディズニーランドに行って、101匹わんちゃんの帽子のヘアバンドつけたよ(≧∇≦)",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "9062",
+        "material_title": "1220_dambara_s.jpg",
+        "material_file": "9c67e73ea574919627ff063c0be1c04f9238a7ed0cbb9c91ee15178aa3c8e71b9062.jpeg"
+      }
+    ],
+    "previous_id": "10489",
+    "next_id": "10485",
+    "saved_materials": [
+      "assets/10487_9062_1220_dambara_s.jpg"
+    ]
+  }
+}

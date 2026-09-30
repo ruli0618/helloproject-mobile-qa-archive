@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 413,
+    "content_id": "11606",
+    "content_title": "工藤の家の屋根裏部屋#50～和田彩花～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-06-17 14:00:00",
+    "created_at": "2019-06-17 14:17:14",
+    "updated_at": "2019-06-17 14:22:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9892",
+        "material_title": "190617_01_s.jpg",
+        "material_file": "20f3713d6b0ba70ec9bc75fd71c07d873b3da62c646f68f515d7ba8c499031af9892.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9893",
+        "material_title": "190617_03_s.jpg",
+        "material_file": "678e17ad218a2867922d2d2cbc448d273fa29d6b2e249e9513e510cdcde390ab9893.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9894",
+        "material_title": "190617_02_s.jpg",
+        "material_file": "e143cadb52c97d015ca1dc299557cf8fa08b7ea0217608c8ea0e2d97e19a86f49894.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11606",
+    "content_title": "工藤の家の屋根裏部屋#50～和田彩花～",
+    "content_sub_title": "",
+    "release_date": "2019-06-17 14:00:00",
+    "created_at": "2019-06-17 14:17:14",
+    "updated_at": "2019-06-17 14:22:59",
+    "content_text": "ふくむらの部屋記念すべき50回目！\nゲストはアンジュルム和田彩花さん！！\n\n190617_01_s.jpg\n\nハロー！プロジェクト及びアンジュルム卒業を\n直前に控えた和田さんを迎え\n濃い内容のトークを繰り広げています！\n\nエッグ（研修生）時代子どもながらに和田さんが感じていた事、\nグループの今、\n卒業やリーダについて、\nそして未来。\n\n今回も譜久村さんと和田さんの間柄ならではの\n個性あふれる深～いお話が聴けます！\n\n190617_02_s.jpg\n\nもちろん、楽しい美術入門話やタピオカスイーツ話も！\n\n190617_03_s.jpg\n\n\n次回のゲストは\nBEYOOOOONDS／雨ノ森 川海の清野桃々姫さんが登場。\nお楽しみに！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9892",
+        "material_title": "190617_01_s.jpg",
+        "material_file": "225e97c619d06ca0f4894d31d872e9882c7efc5ae77f56bd979c757f2efc90cf9892.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9893",
+        "material_title": "190617_03_s.jpg",
+        "material_file": "2d951d981d4e32a17540528463bcfff954d626e2aa418555200efdf4059a03459893.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9894",
+        "material_title": "190617_02_s.jpg",
+        "material_file": "aa440dcb9204f1dc092433b853bf0f6a94c3c53888c3f336c7a5eadff5bfd0ef9894.jpeg"
+      }
+    ],
+    "previous_id": "11615",
+    "next_id": "11566",
+    "saved_materials": [
+      "assets/11606_9892_190617_01_s.jpg",
+      "assets/11606_9893_190617_03_s.jpg",
+      "assets/11606_9894_190617_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 393,
+    "content_id": "16049",
+    "content_title": "ファースト写真集の思い出",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2021-05-17 12:51:00",
+    "created_at": "2021-05-17 12:51:57",
+    "updated_at": "2022-01-17 14:39:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13372",
+        "material_title": "0517_nishida_s.jpg",
+        "material_file": "0fdf58d781308aa8be064f828dedd34e65735ccb6cea2a99bf682f4b7242982a13372.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16049",
+    "content_title": "ファースト写真集の思い出",
+    "content_sub_title": "西田汐里",
+    "release_date": "2021-05-17 12:51:00",
+    "created_at": "2021-05-17 12:51:57",
+    "updated_at": "2022-01-17 14:39:37",
+    "content_text": "0517_nishida_s.jpg\nすごくいい天気だったので綺麗な夕焼けと撮れました！\n\n【11周目お題：きれいな風景】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13372",
+        "material_title": "0517_nishida_s.jpg",
+        "material_file": "ea8b99f220529972b08e609b7c245f8448e033ded1d3a4ecfba6f56ff50a218113372.jpeg"
+      }
+    ],
+    "previous_id": "16050",
+    "next_id": "15795",
+    "saved_materials": [
+      "assets/16049_13372_0517_nishida_s.jpg"
+    ]
+  }
+}

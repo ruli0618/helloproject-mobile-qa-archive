@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 93,
+    "content_id": "9636",
+    "content_title": "上を向いたら。",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-08-07 18:50:00",
+    "created_at": "2018-08-07 18:51:23",
+    "updated_at": "2018-08-07 18:51:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8430",
+        "material_title": "0807_yamagishi_s.jpg",
+        "material_file": "5e2546198ec10d620aafd57e1416964fe20154f19034e0d04b35501ee321acfd8430.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9636",
+    "content_title": "上を向いたら。",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-08-07 18:50:00",
+    "created_at": "2018-08-07 18:51:23",
+    "updated_at": "2018-08-07 18:51:23",
+    "content_text": "0807_yamagishi_s.jpg\r\n歩いていて、ふと上を向くと\r\n小さいピンク色のお花が咲いてました♡\r\nお天気は曇りでしたが、\r\n心は晴れました！",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8430",
+        "material_title": "0807_yamagishi_s.jpg",
+        "material_file": "83e8cd32a23a6ba48fb3df0e83a160e6a9de8c1999fd2d53a494d609489c80478430.jpeg"
+      }
+    ],
+    "previous_id": "9728",
+    "next_id": "9623",
+    "saved_materials": [
+      "assets/9636_8430_0807_yamagishi_s.jpg"
+    ]
+  }
+}

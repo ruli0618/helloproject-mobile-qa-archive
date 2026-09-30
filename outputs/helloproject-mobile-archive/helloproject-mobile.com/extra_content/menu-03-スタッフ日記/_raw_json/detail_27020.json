@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 3,
+    "content_id": "27020",
+    "content_title": "工藤の家の軒下#71～小島はな～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-09-08 00:00:00",
+    "created_at": "2026-09-28 23:52:47",
+    "updated_at": "2026-09-28 23:54:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22090",
+        "material_title": "260909_071.jpg",
+        "material_file": "94952f3fdeccb320e5f0006c2c9e5a436f9ef819b4001fe73c7c9bbe81ad1ad822090.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27020",
+    "content_title": "工藤の家の軒下#71～小島はな～",
+    "content_sub_title": "",
+    "release_date": "2026-09-08 00:00:00",
+    "created_at": "2026-09-28 23:52:47",
+    "updated_at": "2026-09-28 23:54:41",
+    "content_text": "260909_071.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第71回はゲストは、小島はな！\r\n\r\n・夏の思い出、やり残したこと\r\n・バースデーイベント\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・最近ドはまりしたこと\r\n・◯◯の秋\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・まのゆな\r\n・初の舞台\r\n・いつかお仕事としてやってみたい好きなこと\r\n・初のハロコン\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22090",
+        "material_title": "260909_071.jpg",
+        "material_file": "487d52626390be4d5a7b35d7148c143c37344f71d2e9f47c4a3ef90a42ecbdf422090.jpeg"
+      }
+    ],
+    "previous_id": "26969",
+    "next_id": "26968",
+    "saved_materials": [
+      "assets/27020_22090_260909_071.jpg"
+    ]
+  }
+}

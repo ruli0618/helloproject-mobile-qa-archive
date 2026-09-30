@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 34,
+    "content_id": "25616",
+    "content_title": "やばい！！！",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2026-01-29 10:00:00",
+    "created_at": "2026-01-20 16:45:45",
+    "updated_at": "2026-01-20 16:45:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20940",
+        "material_title": "0129_arisawa_s.jpg",
+        "material_file": "e2e445f61e55724c137ab5de224890b0381b0750f4a50ac8dc63065c73bba76520940.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25616",
+    "content_title": "やばい！！！",
+    "content_sub_title": "有澤一華",
+    "release_date": "2026-01-29 10:00:00",
+    "created_at": "2026-01-20 16:45:45",
+    "updated_at": "2026-01-20 16:45:45",
+    "content_text": "0129_arisawa_s.jpg\r\n最近辛いものにハマってて、、\r\n\r\n何を食べても辛くない！一味かけようかな？ってなってしまいます。。。\r\n\r\n\r\nそんなことある！？",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20940",
+        "material_title": "0129_arisawa_s.jpg",
+        "material_file": "6c1f652579d98373246470456d1196749569fe95b6bce32ad24c26cfb13c0cc920940.jpeg"
+      }
+    ],
+    "previous_id": "25617",
+    "next_id": "25615",
+    "saved_materials": [
+      "assets/25616_20940_0129_arisawa_s.jpg"
+    ]
+  }
+}

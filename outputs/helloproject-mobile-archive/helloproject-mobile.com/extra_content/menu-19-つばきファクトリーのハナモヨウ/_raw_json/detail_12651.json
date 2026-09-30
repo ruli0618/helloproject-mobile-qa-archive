@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 15,
+    "content_id": "12651",
+    "content_title": "red",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-12-06 20:22:00",
+    "created_at": "2019-12-06 20:22:35",
+    "updated_at": "2019-12-06 20:22:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10736",
+        "material_title": "1206_akiyama_s.jpg",
+        "material_file": "269edf7dc7733bd26bab752dcb5ad0dbd42e916284559a71b633ba26312d1b2910736.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12651",
+    "content_title": "red",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-12-06 20:22:00",
+    "created_at": "2019-12-06 20:22:35",
+    "updated_at": "2019-12-06 20:22:35",
+    "content_text": "1206_akiyama_s.jpg\r\nクリスマスの時期になると赤いお花をよく見かけます、、♥\r\n綺麗で見惚れる！\r\n\r\n最近はお花をたくさん見つけるので嬉しいなぁ\r\nまだまだたくさん写真あるので楽しみにしていて下さい(^^)",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10736",
+        "material_title": "1206_akiyama_s.jpg",
+        "material_file": "1e109a801ea2d9ed89165dd19904b37b8901294537bed1176aa5e346f310a36310736.jpeg"
+      }
+    ],
+    "previous_id": "12707",
+    "next_id": "12629",
+    "saved_materials": [
+      "assets/12651_10736_1206_akiyama_s.jpg"
+    ]
+  }
+}

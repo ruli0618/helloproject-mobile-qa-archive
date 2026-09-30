@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 79,
+    "content_id": "26972",
+    "content_title": "工藤の家の軒下#23～清野桃々姫～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-10-22 00:00:00",
+    "created_at": "2026-09-28 22:52:56",
+    "updated_at": "2026-09-28 22:52:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22060",
+        "material_title": "241022_023.jpg",
+        "material_file": "9d0b1c2d4b853b5bb38499d3c48823881d61e2f75d7eed6a3ca7ee5ed800ae1822060.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26972",
+    "content_title": "工藤の家の軒下#23～清野桃々姫～",
+    "content_sub_title": "",
+    "release_date": "2024-10-22 00:00:00",
+    "created_at": "2026-09-28 22:52:56",
+    "updated_at": "2026-09-28 22:52:56",
+    "content_text": "241022_023.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第23回はゲストは、清野桃々姫！\r\n\r\n・良いなと思うメンバーのパート\r\n・バースデーイベントのこだわり\r\n・ツアー九州公演の感想\r\n・新たなヘアスタイル\r\n・同期エピソード\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・変身\r\n・ももひめ元帥\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・USJ\r\n・メンタルの保ち方\r\n・天才的なところ\r\n・舞台のアドバイス\r\n・ビヨドヨゲスト、パーソナリティの場合\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "3f1b76525e9f404bb60abe428fc8e54a",
+        "material_id": "22060",
+        "material_title": "241022_023.jpg",
+        "material_file": "8596ff97f85dc1c214d9340ca1f3ad20db9094d072047899b8bffb2d75a14b0522060.jpeg"
+      }
+    ],
+    "previous_id": "23396",
+    "next_id": "23123",
+    "saved_materials": [
+      "assets/26972_22060_241022_023.jpg"
+    ]
+  }
+}

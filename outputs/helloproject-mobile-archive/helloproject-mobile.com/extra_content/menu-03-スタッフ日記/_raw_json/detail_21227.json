@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 184,
+    "content_id": "21227",
+    "content_title": "工藤の家の屋根裏部屋#120～加賀楓～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-11-22 00:00:00",
+    "created_at": "2023-11-14 14:37:57",
+    "updated_at": "2023-11-14 21:24:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17463",
+        "material_title": "221122_s.jpg",
+        "material_file": "06c9709b06dfa06eac612b2acbe5e02fe882241c612591f19deddb13ff07d96e17463.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21227",
+    "content_title": "工藤の家の屋根裏部屋#120～加賀楓～",
+    "content_sub_title": "",
+    "release_date": "2022-11-22 00:00:00",
+    "created_at": "2023-11-14 14:37:57",
+    "updated_at": "2023-11-14 21:24:48",
+    "content_text": "ふくむらの部屋 第120回は、加賀楓さんが登場！\n\n・譜久村聖から見た加賀楓\n・お絵描きセンス\nのお話からスタート！\n\n「ハロプロクイズ王」のコーナーでは、\n同じ文字が２文字並んでいるメンバーの名前書き出しクイズに挑戦！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・新曲の聴きどころ\n・ハロー！プロジェクトの激しい曲\nを語りました！\n\n後半では、\n・青春のバイブルアニメ\nについてトーク！\n\n221122_s.jpg\n\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17463",
+        "material_title": "221122_s.jpg",
+        "material_file": "e47b339a099d106430a330ff9bd27261808cdf42d1774a3b32555e6a3d89a78417463.jpeg"
+      }
+    ],
+    "previous_id": "20270",
+    "next_id": "23364",
+    "saved_materials": [
+      "assets/21227_17463_221122_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 197,
+    "content_id": "19524",
+    "content_title": "みよちゃん家の縁側の猫#10 段原瑠々",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-09-13 00:00:00",
+    "created_at": "2023-01-20 18:30:07",
+    "updated_at": "2023-01-20 18:30:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16177",
+        "material_title": "230120_02.jpg",
+        "material_file": "35e4011a71d0440e42d9edc59882e54a76b01cf243562b5cd91051496d340b4316177.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16178",
+        "material_title": "230120_01.jpg",
+        "material_file": "e3f48e3f119ea2159ac2bf574d6b3a61ee7e9ca1eb2b55cd02f6f9f6adb5871a16178.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19524",
+    "content_title": "みよちゃん家の縁側の猫#10 段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2022-09-13 00:00:00",
+    "created_at": "2023-01-20 18:30:07",
+    "updated_at": "2023-01-20 18:30:07",
+    "content_text": "「みよちゃん家の縁側」#10配信中です！\r\n\r\n第10回ゲストは、Juice=Juice段原瑠々さん！\r\n\r\n230120_02.jpg\r\n\r\n逆再生チャレンジコーナーのお題はこちら！\r\n\r\n①ひっつきもっつき\r\n②もみじまんじゅう\r\n③好きなパンの種類\r\n④情熱を解き放とう\r\n\r\n今回は少し長めのお題に挑戦してみました<img src=\"/emoji/emoji-images/5047.gif\"/>\r\n\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「ハロプロランドのジュースの館」、「段原瑠々ハロプロダンス学園加入のきっかけ」の2本をお送りしました。\r\n「ハロプロランドのジュースの館」では台本の中にJuice=Juiceメンバーに関わるワードがたくさん入っているので是非内容チェックしてみてくださいね<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\n\r\nその他ハロプロダンス学園のトークはもちろん、花鳥風月ツアー・段原美容室・お互いを家族に例えると？などたくさんのお便りを紹介しています！！\r\n\r\n230120_01.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第11回ゲストはアンジュルム 上國料萌衣さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16177",
+        "material_title": "230120_02.jpg",
+        "material_file": "f01bee7225cbcc5f794b754c8e6300d92047524bd10497980c1e89a689fc560c16177.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16178",
+        "material_title": "230120_01.jpg",
+        "material_file": "30c734668fbf325a5c32c90a02b590fb14539fd01be0a84e738c2545799df13216178.jpeg"
+      }
+    ],
+    "previous_id": "23362",
+    "next_id": "21222",
+    "saved_materials": [
+      "assets/19524_16177_230120_02.jpg",
+      "assets/19524_16178_230120_01.jpg"
+    ]
+  }
+}

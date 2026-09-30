@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 53,
+    "content_id": "25585",
+    "content_title": "きいろだいすき！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2026-02-09 10:00:00",
+    "created_at": "2026-01-13 21:30:08",
+    "updated_at": "2026-01-13 21:30:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20927",
+        "material_title": "0209_satoyoshi_s.jpg",
+        "material_file": "f01b9cdd3c4bd9d56497f9e7f8100357849dbd59b35f43e4e8e7e1e1695d721c20927.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25585",
+    "content_title": "きいろだいすき！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2026-02-09 10:00:00",
+    "created_at": "2026-01-13 21:30:08",
+    "updated_at": "2026-01-13 21:30:08",
+    "content_text": "0209_satoyoshi_s.jpg\r\nわんこに好きな色という概念があるなんて、おもちくんと暮らすまで知りませんでした…。\r\n\r\n【49周目お題：色】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "20927",
+        "material_title": "0209_satoyoshi_s.jpg",
+        "material_file": "39e4de896c92a377502fc07ed1fb44137c127ce67b6a98a5bcec2ac9c97b45db20927.jpeg"
+      }
+    ],
+    "previous_id": "25796",
+    "next_id": "25584",
+    "saved_materials": [
+      "assets/25585_20927_0209_satoyoshi_s.jpg"
+    ]
+  }
+}

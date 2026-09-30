@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 404,
+    "content_id": "17457",
+    "content_title": "イカ焼き",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-01-13 10:00:00",
+    "created_at": "2022-01-12 21:01:21",
+    "updated_at": "2022-01-12 21:01:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14592",
+        "material_title": "0113_uemura_s.jpg",
+        "material_file": "96cbba489d7d90471461a0a982519c580149b9855653a19be03696ababe057ce14592.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17457",
+    "content_title": "イカ焼き",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-01-13 10:00:00",
+    "created_at": "2022-01-12 21:01:21",
+    "updated_at": "2022-01-12 21:01:21",
+    "content_text": "0113_uemura_s.jpg\r\n植村あかりです\r\n\r\nイカ焼きをたべたよ\r\n甘くて柔らかかったあ\r\n（たこには内緒）\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14592",
+        "material_title": "0113_uemura_s.jpg",
+        "material_file": "f0be65bab3eb74b8c6631d25e7e2810cecaecdccbf55cd726cbed7e4e24d43a214592.jpeg"
+      }
+    ],
+    "previous_id": "17458",
+    "next_id": "17438",
+    "saved_materials": [
+      "assets/17457_14592_0113_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 472,
+    "content_id": "13706",
+    "content_title": "手作り",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2020-05-06 10:00:00",
+    "created_at": "2020-04-27 17:42:16",
+    "updated_at": "2020-06-08 19:49:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11461",
+        "material_title": "0506_eguchi_s.jpg",
+        "material_file": "85464a6bc04f1b7aaa49391e59e32b1779b76e14c881407264b1b92b43a865c511461.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13706",
+    "content_title": "手作り",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2020-05-06 10:00:00",
+    "created_at": "2020-04-27 17:42:16",
+    "updated_at": "2020-06-08 19:49:57",
+    "content_text": "最近の美味しかったものは、、、\n\n0506_eguchi_s.jpg\n\n手作りのスコーンと今流行りのダルゴナコーヒー！\n映えたし綺麗に作れたし、すごく美味しかった〜♡\n\n【2周目お題：最近の美味しかったもの】",
+    "materials": [
+      {
+        "secretKey": "f2592cebaad5f780695cc19702f35053",
+        "material_id": "11461",
+        "material_title": "0506_eguchi_s.jpg",
+        "material_file": "562eccb17b0fee5562d41102ecaef1ecb4e142a718d5352348ecacd067cb897b11461.jpeg"
+      }
+    ],
+    "previous_id": "13708",
+    "next_id": "13705",
+    "saved_materials": [
+      "assets/13706_11461_0506_eguchi_s.jpg"
+    ]
+  }
+}

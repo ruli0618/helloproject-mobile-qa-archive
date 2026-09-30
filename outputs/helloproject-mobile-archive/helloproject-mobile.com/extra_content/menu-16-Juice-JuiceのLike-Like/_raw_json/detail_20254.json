@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 265,
+    "content_id": "20254",
+    "content_title": "本番前",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2023-05-23 10:00:00",
+    "created_at": "2023-05-22 20:14:05",
+    "updated_at": "2023-05-22 20:14:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16726",
+        "material_title": "0523_ishiyama_s.jpg",
+        "material_file": "3f1d39d6c6b344a5756dedbc4eaece976eb1c05df97ef829d932174d8fb1d12416726.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20254",
+    "content_title": "本番前",
+    "content_sub_title": "石山咲良",
+    "release_date": "2023-05-23 10:00:00",
+    "created_at": "2023-05-22 20:14:05",
+    "updated_at": "2023-05-22 20:14:05",
+    "content_text": "0523_ishiyama_s.jpg\r\n本番前のギリギリに撮ってみて見返したらめっちゃ笑ってた<img src=\"/emoji/emoji-images/f468.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16726",
+        "material_title": "0523_ishiyama_s.jpg",
+        "material_file": "c0086b810bb6433afbca03f83de5abb23231ac4a71da7adc69c9c1ff7b3b414816726.jpeg"
+      }
+    ],
+    "previous_id": "20268",
+    "next_id": "20212",
+    "saved_materials": [
+      "assets/20254_16726_0523_ishiyama_s.jpg"
+    ]
+  }
+}

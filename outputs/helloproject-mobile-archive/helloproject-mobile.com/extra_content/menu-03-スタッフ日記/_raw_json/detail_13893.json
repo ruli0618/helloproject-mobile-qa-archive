@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 337,
+    "content_id": "13893",
+    "content_title": "工藤の家の屋根裏部屋#74後編～工藤由愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-06-22 19:37:00",
+    "created_at": "2020-05-27 20:23:58",
+    "updated_at": "2020-06-22 19:39:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11590",
+        "material_title": "200527_03_s.jpg",
+        "material_file": "f1d31508f4e8ed4316e693f6b50c910d25ba70bf26229f9b7e8a03319de3a67511590.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11591",
+        "material_title": "200527_04_s.jpg",
+        "material_file": "5500ee55664c4f0b6816f7fbfd42f6b7141bcc015b10345aa0b95c6a444d60f111591.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13893",
+    "content_title": "工藤の家の屋根裏部屋#74後編～工藤由愛～",
+    "content_sub_title": "",
+    "release_date": "2020-06-22 19:37:00",
+    "created_at": "2020-05-27 20:23:58",
+    "updated_at": "2020-06-22 19:39:44",
+    "content_text": "ふくむらの部屋 第74回後編配信開始！\n\n第74回後編のゲストは、前回に引き続きJuice=Juice工藤由愛さんが出演！\n\n200527_04_s.jpg\n\nハロプロ講座のコーナーでは、\nテレワーク動画撮影の裏話、\nハロプロ研修生の時に教わるマナー、\nグループの一員だと実感した曲に関して語ってくれています。\n\n新コーナー「推しメンを語ろう！！」もスタート！\n工藤さんの推しメンは、モーニング娘。'20小田さくらさん！\nエピソードや好きなところなどなど、楽しくトークを繰り広げました。\n\n200527_03_s.jpg\n収録終わりには二人で折り紙を折っていました。\n\n次回ふくむらの部屋のゲストは、BEYOOOOONDS CHICA#TETSU 江口紗耶さんが初出演！！\n只今、6/23(火)PM19:00までメールを募集しております。\n\n回替りコーナーは「皆に伝えたいハロプロ名場面」\n皆さんの考える名シーンを五・七・五で送ってくださいね！\n\n宛先はこちら↓まで。\n<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11590",
+        "material_title": "200527_03_s.jpg",
+        "material_file": "91fd0b0ac2968da2794ea42477770ff55148844f99c118dd4402efd9044e15f611590.jpeg"
+      },
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11591",
+        "material_title": "200527_04_s.jpg",
+        "material_file": "74533bad01f7698f484006084de807e9637c6d9714fa703f53a08638608fca9411591.jpeg"
+      }
+    ],
+    "previous_id": "14074",
+    "next_id": "13972",
+    "saved_materials": [
+      "assets/13893_11590_200527_03_s.jpg",
+      "assets/13893_11591_200527_04_s.jpg"
+    ]
+  }
+}

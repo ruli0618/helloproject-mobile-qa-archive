@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 685,
+    "content_id": "9868",
+    "content_title": "チョコバナナ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-09-26 11:00:00",
+    "created_at": "2018-09-14 23:33:46",
+    "updated_at": "2018-09-14 23:33:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8584",
+        "material_title": "0926_uemura_s.jpg",
+        "material_file": "d7ec0b8ce624f0a439c126e28a67ca80e3dd2372c1a0f351ea20bf09ca7273af8584.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9868",
+    "content_title": "チョコバナナ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-09-26 11:00:00",
+    "created_at": "2018-09-14 23:33:46",
+    "updated_at": "2018-09-14 23:33:46",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\nチョコバナナのかき氷を\r\n食べに行きました～\r\n\r\n0926_uemura_s.jpg\r\n\r\n全然頭痛くならなかった\r\nこのかき氷！！\r\n\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8584",
+        "material_title": "0926_uemura_s.jpg",
+        "material_file": "df028ece09ad3827342d528c451092821ecaa2ac9c7d8c8a13d19ecb66307f8c8584.jpeg"
+      }
+    ],
+    "previous_id": "9930",
+    "next_id": "9866",
+    "saved_materials": [
+      "assets/9868_8584_0926_uemura_s.jpg"
+    ]
+  }
+}

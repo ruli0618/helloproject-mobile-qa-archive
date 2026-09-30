@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 208,
+    "content_id": "21219",
+    "content_title": "工藤の家の屋根裏部屋#112～平井美葉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-02 00:00:00",
+    "created_at": "2023-11-14 13:38:47",
+    "updated_at": "2023-11-14 13:38:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17424",
+        "material_title": "220802_s.jpg",
+        "material_file": "a95bf09e82285fabd4b23d191d2eb6623533a82c0c933edc8434450eebc1fddf17424.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21219",
+    "content_title": "工藤の家の屋根裏部屋#112～平井美葉～",
+    "content_sub_title": "",
+    "release_date": "2022-08-02 00:00:00",
+    "created_at": "2023-11-14 13:38:47",
+    "updated_at": "2023-11-14 13:38:47",
+    "content_text": "ふくむらの部屋 第112回は、BEYOOOOONDS平井美葉さんが登場！\r\n\r\n・ゲーム実況\r\n・昔と今の印象\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nバラバラにして入れ換えたメンバーの名前が隠れた文章から、メンバーを当てるクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ハロー！プロジェクトのダンスパフォーマンス\r\n・オーディション\r\nを語りました！\r\n\r\n後半では、\r\n・やってみたい役柄\r\n・チャレンジしたいこと\r\n・石田さんソロダンスの振り付け\r\n・スキンケア\r\nについてトーク！\r\n\r\n220802_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "17424",
+        "material_title": "220802_s.jpg",
+        "material_file": "e3011604d3a0f8c8863190a61bc458d97a071e2dbf76037241279b04e1abbbed17424.jpeg"
+      }
+    ],
+    "previous_id": "18605",
+    "next_id": "19455",
+    "saved_materials": [
+      "assets/21219_17424_220802_s.jpg"
+    ]
+  }
+}

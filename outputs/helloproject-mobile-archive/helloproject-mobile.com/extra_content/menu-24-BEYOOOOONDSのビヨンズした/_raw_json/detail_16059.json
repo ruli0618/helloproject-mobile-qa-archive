@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 386,
+    "content_id": "16059",
+    "content_title": "青と白と緑",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2021-06-21 10:00:00",
+    "created_at": "2021-05-17 17:50:11",
+    "updated_at": "2022-01-17 14:44:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13382",
+        "material_title": "0621_eguchi_s.jpg",
+        "material_file": "d7b45dfda41dd608e39ba250d4a6d8c85703bae68e3f3fd6354d55e3c209806513382.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16059",
+    "content_title": "青と白と緑",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2021-06-21 10:00:00",
+    "created_at": "2021-05-17 17:50:11",
+    "updated_at": "2022-01-17 14:44:47",
+    "content_text": "0621_eguchi_s.jpg\n青色の空、白色の建物、緑色の芝生が凄く綺麗に写っていてお気に入りです！\n\n【11周目お題：きれいな風景】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13382",
+        "material_title": "0621_eguchi_s.jpg",
+        "material_file": "b15d1b1df32a986542f0aa33a93fdc825300c9228eaf6ff445dedba1bf91ff3013382.jpeg"
+      }
+    ],
+    "previous_id": "16060",
+    "next_id": "16057",
+    "saved_materials": [
+      "assets/16059_13382_0621_eguchi_s.jpg"
+    ]
+  }
+}

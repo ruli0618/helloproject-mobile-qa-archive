@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 702,
+    "content_id": "3403",
+    "content_title": "こぶしファクトリー ライブツアー2015 ～The First Ring！～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-12 18:00:00",
+    "created_at": "2015-11-12 19:53:01",
+    "updated_at": "2015-11-12 19:56:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3162",
+        "material_title": "S__15990786.jpg",
+        "material_file": "203ee224df5ae1b29e82fa785a61012a4f15f3536bac1a9c5f4b9fa5230d0cf13162.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3163",
+        "material_title": "S__15990788.jpg",
+        "material_file": "d2027780cdf1fb44c20852374f75546591e15a639489795cf09bc01976c80d813163.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3164",
+        "material_title": "S__15990796.jpg",
+        "material_file": "1d0f2f9bec25b90a2ba4ae7e6ae62db2dc6f44afc2abea45dcfbfacdd31d13ab3164.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3403",
+    "content_title": "こぶしファクトリー ライブツアー2015 ～The First Ring！～",
+    "content_sub_title": "",
+    "release_date": "2015-11-12 18:00:00",
+    "created_at": "2015-11-12 19:53:01",
+    "updated_at": "2015-11-12 19:56:01",
+    "content_text": "みなさん、こんにちは！\n\n「こぶしファクトリー ライブツアー2015 ～The First Ring！～」が、\n11月6日に大阪・ UMEDA CLUB QUATTROより始まりました！\n\nこちらは、こぶしファクトリーにとって初のツアーです！\n\n\n本番前の握手会で緊張のあまりおかしなテンションになるリーダーと、\nいつもテンションの高いサブリーダー。\n\nS__15990786.jpg\n\nS__15990788.jpg\nあまりのテンションの高さに、写真もブレました・・・。\n\n\n本番はもちろん大盛り上がり！\n\n\n本番を無事終えて、記念撮影！\n初めてのファーストツアー完全燃焼です！\n\nS__15990796.jpg\n\nツアーは12月まで続きます。\nこぶしファクトリーの初土俵！\n是非ご来場ください！！\n",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3162",
+        "material_title": "S__15990786.jpg",
+        "material_file": "cead593ae30d897961efdc71d7808e17620961aa976cec36bcc7622f8172a13c3162.jpeg"
+      },
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3163",
+        "material_title": "S__15990788.jpg",
+        "material_file": "b0338c2bcb174b1674e83f41edcac8e7a44311a9ccdd708ad8ad417d3bd51e403163.jpeg"
+      },
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3164",
+        "material_title": "S__15990796.jpg",
+        "material_file": "a6b321cb9b70cf5b2d9f627282f825755248c28f73f87c1cea084f99852c941b3164.jpeg"
+      }
+    ],
+    "previous_id": "3445",
+    "next_id": "3401",
+    "saved_materials": [
+      "assets/3403_3162_S__15990786.jpg",
+      "assets/3403_3163_S__15990788.jpg",
+      "assets/3403_3164_S__15990796.jpg"
+    ]
+  }
+}

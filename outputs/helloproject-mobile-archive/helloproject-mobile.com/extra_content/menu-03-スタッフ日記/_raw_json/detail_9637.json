@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 487,
+    "content_id": "9637",
+    "content_title": "隣のやじまん家の塀の裏#28 中島早貴",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-07 19:00:00",
+    "created_at": "2018-08-07 18:59:23",
+    "updated_at": "2018-08-07 19:00:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8431",
+        "material_title": "180807_s.jpg",
+        "material_file": "ffbac94acafb248af9ec60f877bd40ef2bec9623fd36594c416e265b0cf085fd8431.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9637",
+    "content_title": "隣のやじまん家の塀の裏#28 中島早貴",
+    "content_sub_title": "",
+    "release_date": "2018-08-07 19:00:00",
+    "created_at": "2018-08-07 18:59:23",
+    "updated_at": "2018-08-07 19:00:35",
+    "content_text": "隣のやじまん家#28\n配信開始しました～！\n\n今回のゲストは、二人だといつまでも喋り続けられちゃうというこの方！\nそして矢島さんのInstagramの師匠！\n中島早貴さん！\n\n180807_s.jpg\n\n(矢島さんが、中島さんに似てると言っていたお魚の画像検索はしましたか？)\n\nハロコンゲスト出演に関する話から、矢島さんのInstagram操作実験、2人がおすすめする映画、今回限りの中禅寺ナキ子！？や「なかじまん家(け)」まで、要注目な内容になっています。\n\nこのラジオを聞いた方は、「矢島舞美のI My Meまいみ～」もチェックしないといけませんね！\n\n「隣のやじまん家」では、メールを募集しています。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、9月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8431",
+        "material_title": "180807_s.jpg",
+        "material_file": "efeda0cf3879bfa1b8682f0581c77f208dfa8c4e65f28a422be3417dbe27a3ec8431.jpeg"
+      }
+    ],
+    "previous_id": "9644",
+    "next_id": "9625",
+    "saved_materials": [
+      "assets/9637_8431_180807_s.jpg"
+    ]
+  }
+}

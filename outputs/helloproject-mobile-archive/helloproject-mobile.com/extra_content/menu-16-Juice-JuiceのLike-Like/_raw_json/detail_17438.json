@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 405,
+    "content_id": "17438",
+    "content_title": "メイク",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-01-11 10:00:00",
+    "created_at": "2022-01-03 22:38:32",
+    "updated_at": "2022-01-03 22:39:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14574",
+        "material_title": "220111_ebata_s.jpg",
+        "material_file": "5cce0d05d5c8f36e2b969d915cb2e634bbbe88b260eff952269e08da26dcf7bc14574.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17438",
+    "content_title": "メイク",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-01-11 10:00:00",
+    "created_at": "2022-01-03 22:38:32",
+    "updated_at": "2022-01-03 22:39:34",
+    "content_text": "やっほい！\n\n\n今日は、ブラウンメイクをしました！\n\n\nって言いたいところなんだけど、、\n\n\n色々塗り重ねていったら、最終的に紫っぽい色になったので\n\n\n紫メイクに変更しました笑笑\n\n\nラメはちょっと控えめ！\n\nでも、リップは赤紫にしていつもよりも濃いめに塗った(^^)\n\n\n写真が、、無いんです（泣）\n\n自撮りしておけば良かったーーー、、ぴえん\n\n\nごめんなさい(´･-･`)\n\n\nメイク前の写真ならありますのでそちらを、、、\n\n\n220111_ebata_s.jpg\n\n\n次は絶対撮る！\n\n\n約束！！！笑\n\n\nじゃあね〜",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14574",
+        "material_title": "220111_ebata_s.jpg",
+        "material_file": "b5af27166cbb49d5416ea2ce68b261c25424f4ed17751a582dcb2c710efedf4314574.jpeg"
+      }
+    ],
+    "previous_id": "17457",
+    "next_id": "17414",
+    "saved_materials": [
+      "assets/17438_14574_220111_ebata_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 449,
+    "content_id": "10635",
+    "content_title": "隣のやじまん家の塀の裏#39 和田彩花",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-16 16:42:00",
+    "created_at": "2019-01-16 16:42:45",
+    "updated_at": "2019-01-16 16:44:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9170",
+        "material_title": "0116_s.jpg",
+        "material_file": "938f50a0df9f1d3d895f74534f79fcfa449f1cea1134ab4ad9e3edf68586ea9c9170.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10635",
+    "content_title": "隣のやじまん家の塀の裏#39 和田彩花",
+    "content_sub_title": "",
+    "release_date": "2019-01-16 16:42:00",
+    "created_at": "2019-01-16 16:42:45",
+    "updated_at": "2019-01-16 16:44:22",
+    "content_text": "隣のやじまん家#39公開中！\r\n\r\n今回のゲストは、\r\nハロー！プロジェクトリーダー\r\nアンジュルムの和田彩花さん！\r\n\r\n今春に卒業が決まっている和田さん、卒業後の生活から\r\n対談したい相手、リーダー論、演技の面白さ、\r\nお雑煮談義も行いました！\r\n\r\n0116_s.jpg\r\n\r\n海外公演でのエピソードや、おなじみ美術トークも♪\r\n\r\nアクトレス矢島では、リアルな(?)アタックNo.1の世界をお届け！\r\n妄想スピーチは圧倒的…？\r\n\r\n次回1/29配信回ゲストは、モーニング娘。'19 羽賀朱音さんが登場です！\r\n\r\nそして現在こぶしファクトリー浜浦彩乃さん出演2/12配信回メールを、1/17(木)AM10時まで大募集中！\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n「今月のハッピーバースデー♪」は、2月に誕生日を迎える方からのお便りを募集！\r\n\r\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\r\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。",
+    "materials": [
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9170",
+        "material_title": "0116_s.jpg",
+        "material_file": "c009661b2e7cc11c83889242fbd897a007d8516afc923c1e598ba21e9ce14ec99170.jpeg"
+      }
+    ],
+    "previous_id": "10636",
+    "next_id": "10614",
+    "saved_materials": [
+      "assets/10635_9170_0116_s.jpg"
+    ]
+  }
+}

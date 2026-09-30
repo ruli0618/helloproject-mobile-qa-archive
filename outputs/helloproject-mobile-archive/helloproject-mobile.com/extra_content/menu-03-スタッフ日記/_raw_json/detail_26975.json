@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 69,
+    "content_id": "26975",
+    "content_title": "工藤の家の軒下#26～石山咲良～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-12-03 00:00:00",
+    "created_at": "2026-09-28 22:53:00",
+    "updated_at": "2026-09-28 22:53:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26975",
+    "content_title": "工藤の家の軒下#26～石山咲良～",
+    "content_sub_title": "",
+    "release_date": "2024-12-03 00:00:00",
+    "created_at": "2026-09-28 22:53:00",
+    "updated_at": "2026-09-28 22:53:00",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第26回はゲストは、石山咲良！\r\n\r\n・武道館公演の感想\r\n・一番思い出に残っている出来事\r\n・セリフ\r\n・ショート願望\r\n・デュエット曲\r\n・失敗エピソード\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・シャチのショー\r\n・2人はどっち派？\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・あおり\r\n・最近の幸せ\r\n・お披露目の思い出\r\n・まなるる\r\n・新成人エピソード\r\n・ヒョウモントカゲモドキを飼うきっかけ\r\nについてトーク！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26976",
+    "next_id": "23401",
+    "saved_materials": []
+  }
+}

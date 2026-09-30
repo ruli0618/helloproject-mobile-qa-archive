@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 592,
+    "content_id": "12237",
+    "content_title": "佐々木莉佳子ちゃんと♡",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-10-10 10:00:00",
+    "created_at": "2019-10-07 12:34:35",
+    "updated_at": "2019-10-07 12:34:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10429",
+        "material_title": "1010_inaba_s.jpg",
+        "material_file": "262f32dc851debe89b364c5b2d8f7532b0a7ddf63dbe9af69eb58fd47525972210429.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12237",
+    "content_title": "佐々木莉佳子ちゃんと♡",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-10-10 10:00:00",
+    "created_at": "2019-10-07 12:34:35",
+    "updated_at": "2019-10-07 12:34:35",
+    "content_text": "10月3日、佐々木莉佳子ちゃんとごはんを食べに行きました！★\r\n\r\n1010_inaba_s.jpg\r\n\r\nケランチムとチーズチムタクを…！どちらも初めて食べたのですが、とっても美味しかったぁ♪\r\nチーズはやっぱり最強ですね！♡\r\nふたりとも口に入れる度に、おいしいおいしいって言いながら食べました〜(*^^*)",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10429",
+        "material_title": "1010_inaba_s.jpg",
+        "material_file": "bdfbde928be3a490440f995a646ddd14373659e62c54ceff5eb10e68e00ecd2810429.jpeg"
+      }
+    ],
+    "previous_id": "12250",
+    "next_id": "12226",
+    "saved_materials": [
+      "assets/12237_10429_1010_inaba_s.jpg"
+    ]
+  }
+}

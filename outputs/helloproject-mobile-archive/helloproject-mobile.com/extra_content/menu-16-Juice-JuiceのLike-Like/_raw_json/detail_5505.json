@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 844,
+    "content_id": "5505",
+    "content_title": "おべんとう！／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-10-14 21:23:00",
+    "created_at": "2016-10-14 21:23:08",
+    "updated_at": "2016-10-14 21:23:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4960",
+        "material_title": "5031862915875_s.jpg",
+        "material_file": "bca3135951df875ee4b6b46a5e6133825700d3296ade8b5a7f86e0dfcf916a3c4960.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5505",
+    "content_title": "おべんとう！／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2016-10-14 21:23:00",
+    "created_at": "2016-10-14 21:23:08",
+    "updated_at": "2016-10-14 21:23:08",
+    "content_text": "5031862915875_s.jpg\r\nピーマン昆布絶品ー！",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4960",
+        "material_title": "5031862915875_s.jpg",
+        "material_file": "4b3f8b9b2efcd34d4b345deb3da54dfb54ac0a73cba950ab3e1567d94fba98eb4960.jpeg"
+      }
+    ],
+    "previous_id": "5555",
+    "next_id": "5500",
+    "saved_materials": [
+      "assets/5505_4960_5031862915875_s.jpg"
+    ]
+  }
+}

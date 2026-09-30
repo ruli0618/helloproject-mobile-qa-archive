@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 715,
+    "content_id": "3119",
+    "content_title": "「Greeting～室田瑞希～」購入者イベント",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-09 19:30:00",
+    "created_at": "2015-09-09 19:33:41",
+    "updated_at": "2015-11-19 11:03:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2938",
+        "material_title": "S__16801830.jpg",
+        "material_file": "4e4571c46e386772775346e871a139246fbd61217d140837aaa673b02337c2e12938.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2939",
+        "material_title": "S__16801827.jpg",
+        "material_file": "8348943c2c24530e57dc7d3444b39db5c447dfb7355700f514ce0b96e634ab162939.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3119",
+    "content_title": "「Greeting～室田瑞希～」購入者イベント",
+    "content_sub_title": "",
+    "release_date": "2015-09-09 19:30:00",
+    "created_at": "2015-09-09 19:33:41",
+    "updated_at": "2015-11-19 11:03:39",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n\n9月8日、アンジュルム室田瑞希のソロイベントが行われました！\n\nこちらのイベントは、\n室田瑞希1st Blu-ray Disc「Greeting～室田瑞希～」をご購入いただいた方を対象としたイベントでした。\n\n\nイベントでは、\nみなさんからの質問にお答えしたり、\n\nS__16801830.jpg\n\n\n残念ながらパッケージには使用されなかった写真や\n撮影時のオフショットを見ながら、撮影秘話をお話ししたり・・・\n\nS__16801827.jpg\n\n楽しそうにおしゃべりしてますね。\n途中、うまく言葉が出てこなくてパニックになりながらも、一生懸命思い出話をしてくれました！\n\n\n\nイベントで撮影秘話が聞けた方は、またBlu-rayを見るのがより一層楽しくなってしまいますね（^^）\n\n\n室田瑞希1st Blu-ray Disc「Greeting～室田瑞希～」は受注生産の為、もうご購入いただくことは出来ませんが、\n万が一、買いそびれてしまった！！なんて方は、\nダイジェスト映像が公開されているので、コチラをたくさんご覧ください！\n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/watch?v=awqZWsmxGXk\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/watch?v=awqZWsmxGXk</u></font></a>\n</span>\n\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2938",
+        "material_title": "S__16801830.jpg",
+        "material_file": "1db8c996da8cb60c36a8356112d66f369384a9b20295961e7281f5a055b920d52938.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2939",
+        "material_title": "S__16801827.jpg",
+        "material_file": "6790fab54b5592526ceff305c16e787125d482309e0516ffeecb3b0bfb435ca02939.jpeg"
+      }
+    ],
+    "previous_id": "3124",
+    "next_id": "3118",
+    "saved_materials": [
+      "assets/3119_2938_S__16801830.jpg",
+      "assets/3119_2939_S__16801827.jpg"
+    ]
+  }
+}

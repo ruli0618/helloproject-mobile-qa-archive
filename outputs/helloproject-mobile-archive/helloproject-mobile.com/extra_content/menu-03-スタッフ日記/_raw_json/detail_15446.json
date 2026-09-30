@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 301,
+    "content_id": "15446",
+    "content_title": "工藤の家の屋根裏部屋#82後編～植村あかり～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-02-10 16:09:00",
+    "created_at": "2021-02-10 16:08:53",
+    "updated_at": "2021-02-10 16:09:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12866",
+        "material_title": "20210209_s.jpg",
+        "material_file": "2fca9e18c44a657da820e59d3740f6817ab183c5c953bb6b6882b013ed493cf412866.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15446",
+    "content_title": "工藤の家の屋根裏部屋#82後編～植村あかり～",
+    "content_sub_title": "",
+    "release_date": "2021-02-10 16:09:00",
+    "created_at": "2021-02-10 16:08:53",
+    "updated_at": "2021-02-10 16:09:51",
+    "content_text": "ふくむらの部屋 第82回後編の配信が開始されました！\nゲストは前回に引き続き、Juice=Juice植村あかりさん。\n\n楽曲の歌い出しパートの重要性に気づいた植村さん。\n歌割りの変化についても、譜久村さんとトーク。\n\n買いだめしているものの話題では、譜久村さんの美肌の秘訣が判明…！？\n植村さんが悔しく感じたThe Balladコンサートでの出来事等など…\n今回も「ふくむらの部屋」ならではのお話を沢山して頂きました。\n\n20210209_s.jpg\n\n次回は、アンジュルム川村文乃さんが出演決定！\nメールを、2/15(月)13:00まで募集中！\n\n件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>宛まで。\n\nぜひお気軽に一通お送りください♬\n\nコーナー：\n①「みずき先生のハロプロ講座」\nハロー！プロジェクトのこんなところを語ってほしい！\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\n皆さまからお寄せいただいたテーマで譜久村とゲストが熱く語り合います。\n\n②「ハロプロファン失敗談」\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\nハロプロファンなら共感出来る\"あるある話\"や、\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\nMC譜久村聖とゲストが慰めます！",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12866",
+        "material_title": "20210209_s.jpg",
+        "material_file": "a102970df10f74dd2ea4622b280cc5448fae7f9d6e364a7dfcd187c6a8dc7b5312866.jpeg"
+      }
+    ],
+    "previous_id": "15546",
+    "next_id": "15423",
+    "saved_materials": [
+      "assets/15446_12866_20210209_s.jpg"
+    ]
+  }
+}

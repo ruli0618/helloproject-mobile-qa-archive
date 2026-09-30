@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "12227",
+    "content_title": "特別な気持ち",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-10-01 18:46:00",
+    "created_at": "2019-10-01 18:48:39",
+    "updated_at": "2019-10-01 18:48:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10418",
+        "material_title": "1001_ono_s.jpg",
+        "material_file": "ab2ce57497ebd20ccb693cad3ae81a6a01415a2372d13d3d7c86276b836586a710418.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12227",
+    "content_title": "特別な気持ち",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-10-01 18:46:00",
+    "created_at": "2019-10-01 18:48:39",
+    "updated_at": "2019-10-01 18:48:39",
+    "content_text": "お誕生日のお祝いに、\r\n秋山眞緒ちゃんが\r\n一輪のお花を\r\nプレゼントしてくれました<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\n1001_ono_s.jpg\r\n\r\nまおぴんね、\r\nずーっと可愛い可愛いって\r\nお花の写真撮ってて可愛かった<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\nお花をプレゼントしてもらうと\r\nとっても嬉しくなるよね<img src=\"/emoji/emoji-images/f36e.gif\"/><img src=\"/emoji/emoji-images/f36e.gif\"/>\r\n\r\nまおぴんありがとう<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10418",
+        "material_title": "1001_ono_s.jpg",
+        "material_file": "bec51586967c0dbcf31c910fd82631bf0c7ee1b99daf930150d0f4f8fd66f56b10418.jpeg"
+      }
+    ],
+    "previous_id": "12239",
+    "next_id": "12186",
+    "saved_materials": [
+      "assets/12227_10418_1001_ono_s.jpg"
+    ]
+  }
+}

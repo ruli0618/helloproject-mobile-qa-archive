@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 564,
+    "content_id": "7827",
+    "content_title": "イベント参加者の皆さんへ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-10-31 14:22:00",
+    "created_at": "2017-10-31 14:34:42",
+    "updated_at": "2017-10-31 14:35:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7827",
+    "content_title": "イベント参加者の皆さんへ",
+    "content_sub_title": "",
+    "release_date": "2017-10-31 14:22:00",
+    "created_at": "2017-10-31 14:34:42",
+    "updated_at": "2017-10-31 14:35:41",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\nハロ！モバ宣伝部イベント当選者の方を対象に、入金確認が取れた全てのユーザー様へのパスチケットページ反映を、本日完了いたしました。\r\n反映が遅くなり申し訳ございません。\r\n\r\n該当の方は、<a href=\"http://helloproject-mobile.com/info/special/content?page=171110_sendenbu_membersevent/index\">宣伝部イベントページ</a>にアクセスいただき、パスチケットページに切り替わっている事の確認をお願いいたします。\r\n\r\n当日はこのページが入場チケット・ご本人確認の代わりとなります。\r\nご本人様が入場出来なくなる原因にもなりますので、ページ画像の転載や転送等の無いようお願いいたします。\r\n\r\n※本イベントの当日券の販売はございません。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7870",
+    "next_id": "7826",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 146,
+    "content_id": "15231",
+    "content_title": "カフェ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-12-18 14:27:00",
+    "created_at": "2020-12-18 14:28:19",
+    "updated_at": "2020-12-18 14:28:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12659",
+        "material_title": "1218_ono_s.jpg",
+        "material_file": "58acbc93211659b4ed3fd8da1255c55482513c8f8ae54c3fca331959d5af4e6f12659.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15231",
+    "content_title": "カフェ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-12-18 14:27:00",
+    "created_at": "2020-12-18 14:28:19",
+    "updated_at": "2020-12-18 14:28:19",
+    "content_text": "1218_ono_s.jpg\r\n休日にカフェに行くのにハマってます☆\r\n\r\nチャプチェは好きなおかずランキング10位以内に入るくらい好き♡\r\n\r\nご飯が玄米なのが意識ちょっと高い？笑",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12659",
+        "material_title": "1218_ono_s.jpg",
+        "material_file": "dfa4261e1a3fd4c7bfba39a63eb4384b985b9d14017ba0d0d40883d3be1871b812659.jpeg"
+      }
+    ],
+    "previous_id": "15247",
+    "next_id": "15099",
+    "saved_materials": [
+      "assets/15231_12659_1218_ono_s.jpg"
+    ]
+  }
+}

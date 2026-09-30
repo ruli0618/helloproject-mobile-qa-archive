@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 267,
+    "content_id": "16852",
+    "content_title": "宣伝会議#66",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-29 18:00:00",
+    "created_at": "2021-09-29 16:06:05",
+    "updated_at": "2021-09-29 16:06:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14061",
+        "material_title": "210927_02_s.jpg",
+        "material_file": "1cf9b977991314454bdb841fa6210148b76b65cba76765fe67108810bb6403f114061.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14062",
+        "material_title": "210927_01_s.jpg",
+        "material_file": "ff93257dccf7fd7c7ebee8be7facdffd58a518f38bbf78de5d788f5430fe0cf114062.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14063",
+        "material_title": "210925_s.jpg",
+        "material_file": "e0894409c7d8136b8540d5c55c7a59fd1bd6d59905f9e37349e294c90e706fb014063.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16852",
+    "content_title": "宣伝会議#66",
+    "content_sub_title": "",
+    "release_date": "2021-09-29 18:00:00",
+    "created_at": "2021-09-29 16:06:05",
+    "updated_at": "2021-09-29 16:06:05",
+    "content_text": "宣伝会議第66回は、川村文乃副部長、前田こころ書記兼警備兼広報の二人でお届け！\r\n\r\n210927_01_s.jpg\r\n\r\nラジオ連動の質問企画では、\r\n・メンバーカラーが変わるとしたら？\r\n・この秋食べたいものは？\r\nという質問に回答！\r\n\r\n他のグループメンバー誰とトークしたいか、\r\n「ソロフェス！2」前田さんの裏話、\r\n○○の秋にやりたいこと、\r\nハロー！プロジェクトを好きになったきっかけについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「好きな歌割り」について紹介！\r\n次のお題は「江口紗耶」に決まりました。\r\n\r\nその他、\r\n場位置をどう覚えているか、\r\n「ソロフェス！2」気になったメンバー等についても話しています。\r\n\r\n210927_02_s.jpg\r\n\r\n↓議事録はこちら！\r\n210925_s.jpg\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "14061",
+        "material_title": "210927_02_s.jpg",
+        "material_file": "9e21440ca099848aed90707143f03bffe89339463ff174854d6f38ccc13a886314061.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "14062",
+        "material_title": "210927_01_s.jpg",
+        "material_file": "4248df1fcd656065c945024f89feb4c69d083601a992d9fbe0930dea1b3b9eab14062.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "14063",
+        "material_title": "210925_s.jpg",
+        "material_file": "c961ca42052be43099e0f1a371517b0cd2ce8ad529906e60f0bb74e4bf5a26e814063.jpeg"
+      }
+    ],
+    "previous_id": "17043",
+    "next_id": "16766",
+    "saved_materials": [
+      "assets/16852_14061_210927_02_s.jpg",
+      "assets/16852_14062_210927_01_s.jpg",
+      "assets/16852_14063_210925_s.jpg"
+    ]
+  }
+}

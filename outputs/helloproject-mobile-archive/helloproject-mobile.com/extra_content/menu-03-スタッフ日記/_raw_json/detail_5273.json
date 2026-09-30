@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 648,
+    "content_id": "5273",
+    "content_title": "モーニング娘。'16 スタッフ日記",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-01 21:30:00",
+    "created_at": "2016-09-01 21:12:02",
+    "updated_at": "2016-09-01 21:35:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4756",
+        "material_title": "160901_A_1_s.jpg",
+        "material_file": "efdda930f8c2446cff2d4d8aa1f55901960a7204a0ec25775b929707419b1f774756.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4757",
+        "material_title": "160901_A_2_s.jpg",
+        "material_file": "180e3dc81408cdedaf925ebbd2676de35ecc8409d457fdaa9a9903f3fbb82ce44757.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4758",
+        "material_title": "160901_A_3_s.jpg",
+        "material_file": "631ab91e036d2e17f97453ab9b4309a1edae47515fe05d3291da8eb93c712c4c4758.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5273",
+    "content_title": "モーニング娘。'16 スタッフ日記",
+    "content_sub_title": "",
+    "release_date": "2016-09-01 21:30:00",
+    "created_at": "2016-09-01 21:12:02",
+    "updated_at": "2016-09-01 21:35:28",
+    "content_text": "いつもモーニング娘。'16を応援いただきありがとうございます。\n\nモーニング娘。'16の8月は、ハロー！プロジェクトのコンサートや、\n約2年振りとなる「ナルチカ」のライブがあり\nとても充実していました。\n\n特にナルチカのライブはお客様が「目の前」にいらっしゃる空間。\nメンバー全員、改めて気持ちを引き締めてリハーサルに取り組んでいました。\n\n緊張の中迎えたライブですが「イントロから上がる歓声」「笑顔の握手会」に\n歌にのせた11人の気持ちがきっと届けられたことと思います。\n\nハロー！プロジェクトのコンサートも残すところあと1公演。\n最高の夏の想い出を作りましょう！\n\n160901_A_1_s.jpg\n\n160901_A_2_s.jpg\n\nそしていよいよ9月に突入！モーニング娘。'16秋ツアーが始まります。\n\n「モーニング娘。'16コンサートツアー秋～MY VISION～」\n11人体制になって初のコンサートツアーです。\n\nツアータイトル「MY VISION」に込められた想いをコンサートで受け止めていただければと思います。\n\n160901_A_3_s.jpg\n\n力を合わせ、想いを込めて",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4756",
+        "material_title": "160901_A_1_s.jpg",
+        "material_file": "494355474b10b56dc5e10c8b36b86b21f141be1336d5d352d5cb1e6cb0acf46b4756.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4757",
+        "material_title": "160901_A_2_s.jpg",
+        "material_file": "21c1d74a82efb5b9dcef8348198e7a7113c990618fe2dacf72119452ffd584574757.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4758",
+        "material_title": "160901_A_3_s.jpg",
+        "material_file": "645bd182da56bdbf80372a44a5bc58f255d01fa255680546941b93dabce95e664758.jpeg"
+      }
+    ],
+    "previous_id": "5274",
+    "next_id": "5267",
+    "saved_materials": [
+      "assets/5273_4756_160901_A_1_s.jpg",
+      "assets/5273_4757_160901_A_2_s.jpg",
+      "assets/5273_4758_160901_A_3_s.jpg"
+    ]
+  }
+}

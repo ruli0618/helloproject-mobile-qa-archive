@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 456,
+    "content_id": "16226",
+    "content_title": "ジャーマンポテト！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-06-29 10:00:00",
+    "created_at": "2021-06-21 17:04:34",
+    "updated_at": "2021-06-21 17:04:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13556",
+        "material_title": "210629_inaba_s.jpg",
+        "material_file": "0b23b21f01149ab1f5534c6345f34e1137974faf7add132297138eb5f9ed8d6c13556.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16226",
+    "content_title": "ジャーマンポテト！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-06-29 10:00:00",
+    "created_at": "2021-06-21 17:04:34",
+    "updated_at": "2021-06-21 17:04:34",
+    "content_text": "210629_inaba_s.jpg\r\n冷蔵庫の余り物を消化できるジャーマンポテト！中学生くらいの頃の得意料理だったな〜笑。久しぶりに作ったけど美味しいしジャガイモがお腹にたまっていいね♪みんなは普段、料理とかするかな〜？？☆",
+    "materials": [
+      {
+        "secretKey": "ef280e548a1849486df7990d214b1ec1",
+        "material_id": "13556",
+        "material_title": "210629_inaba_s.jpg",
+        "material_file": "3850ab8c27f1aa00b9e41046392781c139ef25ac1b5b783edffcb715d504ee0613556.jpeg"
+      }
+    ],
+    "previous_id": "16227",
+    "next_id": "16225",
+    "saved_materials": [
+      "assets/16226_13556_210629_inaba_s.jpg"
+    ]
+  }
+}

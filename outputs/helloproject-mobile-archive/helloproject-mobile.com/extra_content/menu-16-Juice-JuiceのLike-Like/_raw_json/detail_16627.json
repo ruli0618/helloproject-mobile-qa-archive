@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 436,
+    "content_id": "16627",
+    "content_title": "浴衣",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2021-09-16 10:00:00",
+    "created_at": "2021-09-06 00:24:53",
+    "updated_at": "2021-09-06 00:24:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13888",
+        "material_title": "210916_dambara_s.jpg",
+        "material_file": "128d01b5e118eba6156cdcf69f18656bd745673db3c6c1181d3758bb877f73ab13888.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16627",
+    "content_title": "浴衣",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2021-09-16 10:00:00",
+    "created_at": "2021-09-06 00:24:53",
+    "updated_at": "2021-09-06 00:24:53",
+    "content_text": "210916_dambara_s.jpg\r\n浴衣着てうれしくなって、写真撮りすぎた〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>笑",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "13888",
+        "material_title": "210916_dambara_s.jpg",
+        "material_file": "16f4bbaedf7634ff4fb86acda33ace3cb8fd8861d125a3828c0e107984c8ea0613888.jpeg"
+      }
+    ],
+    "previous_id": "16795",
+    "next_id": "16620",
+    "saved_materials": [
+      "assets/16627_13888_210916_dambara_s.jpg"
+    ]
+  }
+}

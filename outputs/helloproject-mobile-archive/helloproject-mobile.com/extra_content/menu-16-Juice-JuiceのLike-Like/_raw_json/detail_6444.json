@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 815,
+    "content_id": "6444",
+    "content_title": "ひな壇／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-03-30 17:26:00",
+    "created_at": "2017-03-30 17:29:46",
+    "updated_at": "2017-03-30 17:29:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5700",
+        "material_title": "5792073687957_s.jpg",
+        "material_file": "8c3b9ffdd550d7f512e6dbd1415ccabb56da397fd256b9ab17710ac75417cceb5700.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6444",
+    "content_title": "ひな壇／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-03-30 17:26:00",
+    "created_at": "2017-03-30 17:29:46",
+    "updated_at": "2017-03-30 17:29:46",
+    "content_text": "5792073687957_s.jpg\r\nバスツアーの時のひな壇<img src=\"/emoji/emoji-images/f465.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5700",
+        "material_title": "5792073687957_s.jpg",
+        "material_file": "0dcd161679c2d5d8211daf9a52f8a902e9a5919417681414aad82b3b745a7cb65700.jpeg"
+      }
+    ],
+    "previous_id": "6480",
+    "next_id": "6385",
+    "saved_materials": [
+      "assets/6444_5700_5792073687957_s.jpg"
+    ]
+  }
+}

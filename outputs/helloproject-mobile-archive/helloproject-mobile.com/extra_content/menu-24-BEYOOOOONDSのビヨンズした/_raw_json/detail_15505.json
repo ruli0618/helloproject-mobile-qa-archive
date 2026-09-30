@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 407,
+    "content_id": "15505",
+    "content_title": "いい天気だな",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2021-03-08 10:00:00",
+    "created_at": "2021-02-19 22:22:46",
+    "updated_at": "2022-01-17 14:47:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12900",
+        "material_title": "0308_nishida_s.jpg",
+        "material_file": "741cae70f6df1a0df4f287240f5d55c8a3c72d25ef618a67242c3e43b75a2b0a12900.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15505",
+    "content_title": "いい天気だな",
+    "content_sub_title": "西田汐里",
+    "release_date": "2021-03-08 10:00:00",
+    "created_at": "2021-02-19 22:22:46",
+    "updated_at": "2022-01-17 14:47:55",
+    "content_text": "0308_nishida_s.jpg\n平井美葉ちゃんが素敵に撮ってくれました\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12900",
+        "material_title": "0308_nishida_s.jpg",
+        "material_file": "41004521585e29e15593bb0651fb347efd304aa6a015ed12d88652ceb70a793012900.jpeg"
+      }
+    ],
+    "previous_id": "15506",
+    "next_id": "15504",
+    "saved_materials": [
+      "assets/15505_12900_0308_nishida_s.jpg"
+    ]
+  }
+}

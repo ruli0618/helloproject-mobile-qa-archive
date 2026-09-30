@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 181,
+    "content_id": "13792",
+    "content_title": "お昼ご飯",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-05-19 17:00:00",
+    "created_at": "2020-05-19 17:05:05",
+    "updated_at": "2020-05-19 17:05:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11523",
+        "material_title": "0519_ono_ishiki_s.jpg",
+        "material_file": "af3790ab80e48c27745f170fff4ad3a3e09e066def969a46907bcc461cf91cbb11523.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13792",
+    "content_title": "お昼ご飯",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-05-19 17:00:00",
+    "created_at": "2020-05-19 17:05:05",
+    "updated_at": "2020-05-19 17:05:05",
+    "content_text": "たまにしかしなかった料理を\r\nほぼ毎日するようになりました<img src=\"/emoji/emoji-images/4f5e.gif\"/>\r\n\r\n0519_ono_ishiki_s.jpg\r\n写真はいつかのお昼ご飯！\r\n\r\n料理初心者だけど\r\nもっとバランス良く美味しく\r\n上手に作れるように頑張る<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\nお昼ご飯への\r\n意識が一つ上がった<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11523",
+        "material_title": "0519_ono_ishiki_s.jpg",
+        "material_file": "b649ad00917587800dd9dc35d526643444f41e774a9cad735157da71a00b37a311523.jpeg"
+      }
+    ],
+    "previous_id": "13829",
+    "next_id": "13759",
+    "saved_materials": [
+      "assets/13792_11523_0519_ono_ishiki_s.jpg"
+    ]
+  }
+}

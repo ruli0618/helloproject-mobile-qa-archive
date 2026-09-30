@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 56,
+    "content_id": "26984",
+    "content_title": "工藤の家の軒下#35～村田結生～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-04-15 00:00:00",
+    "created_at": "2026-09-28 22:59:22",
+    "updated_at": "2026-09-28 22:59:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22071",
+        "material_title": "250415_035_02.jpg",
+        "material_file": "37a8a6a6b5367deb785c98657893ba4b13d3487e6ffe81e774bfc28e0ad97a9022071.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22070",
+        "material_title": "250415_035.jpg",
+        "material_file": "f51b01696b7768ae9c373633c4decdcb37d791e246128b473f24b190ca351df322070.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26984",
+    "content_title": "工藤の家の軒下#35～村田結生～",
+    "content_sub_title": "",
+    "release_date": "2025-04-15 00:00:00",
+    "created_at": "2026-09-28 22:59:22",
+    "updated_at": "2026-09-28 22:59:22",
+    "content_text": "250415_035.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第35回はゲストは、村田結生！\r\n\r\n・放課後\r\n・ダンス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・最近ハマっている飲み物\r\n・ハロプロ研修生\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・ひなフェス\r\n・ひなフェスシャッフル\r\n・ひなフェスカバー\r\n・積極性\r\n・ダンス\r\n・中学校の思い出\r\nについてトーク！\r\n\r\n250415_035_02.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22071",
+        "material_title": "250415_035_02.jpg",
+        "material_file": "0a71bc4ff791e0a1581b4c9b79158446b84b31f4240d59751b5488c0c6e9fced22071.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22070",
+        "material_title": "250415_035.jpg",
+        "material_file": "65ca7d18d3169e12dada32aa70052fdfcfdb76e556e61dac571fd038cf29e0a722070.jpeg"
+      }
+    ],
+    "previous_id": "26952",
+    "next_id": "26983",
+    "saved_materials": [
+      "assets/26984_22071_250415_035_02.jpg",
+      "assets/26984_22070_250415_035.jpg"
+    ]
+  }
+}

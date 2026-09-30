@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 134,
+    "content_id": "7940",
+    "content_title": "みーつけた♡♡♡♡",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2017-11-15 16:36:00",
+    "created_at": "2017-11-15 16:38:51",
+    "updated_at": "2017-11-15 16:40:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6998",
+        "material_title": "171115_akiyama_s.jpg",
+        "material_file": "5e38c49ef4b6a7de5253ca70bd996272de77a219c8f5d14fc78c9b48a4cabe786998.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7940",
+    "content_title": "みーつけた♡♡♡♡",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2017-11-15 16:36:00",
+    "created_at": "2017-11-15 16:38:51",
+    "updated_at": "2017-11-15 16:40:30",
+    "content_text": "この間、りこちゃんと遊んだ時に綺麗なお花が咲いてたので写真を撮りました！！\r\n\r\n171115_akiyama_s.jpg\r\n\r\n紫色のお花ってあまり見た事がなかったので見つけた時嬉しかったです*(*^-ﾟ)-♡\r\n\r\n色々な色のお花を見つけたいなーー☆",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "6998",
+        "material_title": "171115_akiyama_s.jpg",
+        "material_file": "73a168c252ec03477f5eb94cbf07b8e1c2a1f786435a18606b21e8c2e9f6e8896998.jpeg"
+      }
+    ],
+    "previous_id": "7956",
+    "next_id": "7920",
+    "saved_materials": [
+      "assets/7940_6998_171115_akiyama_s.jpg"
+    ]
+  }
+}

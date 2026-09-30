@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 100,
+    "content_id": "9389",
+    "content_title": "かっこよさ♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2018-06-29 16:51:00",
+    "created_at": "2018-06-29 16:52:07",
+    "updated_at": "2018-06-29 16:52:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8232",
+        "material_title": "0629_onoda_s.jpg",
+        "material_file": "36eaa548b7ae46f56733406abfdadb5224895c8e60b5aadfee3de94932b339e78232.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9389",
+    "content_title": "かっこよさ♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2018-06-29 16:51:00",
+    "created_at": "2018-06-29 16:52:07",
+    "updated_at": "2018-06-29 16:52:07",
+    "content_text": "暑いので、冷房をつけるようになったさおりです♪\r\n\r\nんちゃ！\r\n\r\n\r\n0629_onoda_s.jpg\r\n\r\n\r\n今回は、赤いお花を撮ってみました！！\r\n\r\n\r\n赤いお花以外にも、たくさんのお花が咲いていたのですが、\r\n\r\n\r\n赤いお花だから、すぐ目にとまりましたっ♪\r\n\r\n\r\nピンク色のお花がかわいいなー！って思うけれど、赤色のお花はかっこよくて、素敵だなーって思います！！\r\n\r\n\r\nみつけたら、写真を撮ってみてねっ♪\r\n\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8232",
+        "material_title": "0629_onoda_s.jpg",
+        "material_file": "e6ec56ad4e28b55d298f61e90a671d22840ed10aadd4d44f9a9bc42cdaffa52f8232.jpeg"
+      }
+    ],
+    "previous_id": "9393",
+    "next_id": "9345",
+    "saved_materials": [
+      "assets/9389_8232_0629_onoda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 519,
+    "content_id": "8805",
+    "content_title": "かるた商品化！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-29 22:55:00",
+    "created_at": "2018-03-29 22:53:42",
+    "updated_at": "2018-03-29 23:13:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7723",
+        "material_title": "180329_01_s.jpg",
+        "material_file": "ad6a91db02e39e7de31d2827d211709d77dd7e1ec4fdc2ca3cd08a01f253db207723.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7724",
+        "material_title": "180329_02_s.jpg",
+        "material_file": "9e7e03777d47fcb94b3ae3334608e87b5748f2ad31e64aefab7dbdadc9160fe87724.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8805",
+    "content_title": "かるた商品化！",
+    "content_sub_title": "",
+    "release_date": "2018-03-29 22:55:00",
+    "created_at": "2018-03-29 22:53:42",
+    "updated_at": "2018-03-29 23:13:44",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\n突然ですが…\nハロー！プロジェクトモバイルオリジナルかるた2018が昨年に続き商品化決定！\n\n「<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう 2018</a>」会場ハロ！モバブースにて販売いたします！\n\nそして、通販サイト「<a href=\"https://www.elineupmall.com/ufgoodsland\" target=\"_blank\">e-LineUP!Mall『UF Goods Land』</a>」でも受注販売いたします！\n\n180329_01_s.jpg\n\nそしてそしてなんと今回は、ハロ！モバサイト内で公開していた当時は掲載していなかったメンバーのオリジナルかるたも追加封入！\n\n180329_02_s.jpg\n\nハロ！モバブースには見本品も置く予定ですので、ぜひ皆さん遊びにきてくださいね♪\n\nハロー！プロジェクトモバイルオリジナルかるた2018\n全52種(絵札52枚＋読み札52枚：合計104枚)\nカードサイズ：約60mm×80mm\nケースサイズ：約123mm×82mm×30mm\n価格：2,000円(税込)\n\n【通販サイトは期間限定受注】\n2018年3月31日(土)11:00～2018年4月15日(日)23:59\n商品発送予定日：2018年5月下旬～予定",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7723",
+        "material_title": "180329_01_s.jpg",
+        "material_file": "da6dfe4fb9990d8a6fb7a1c266273ba488e1aca9b324246fcaf08183a36aaeac7723.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7724",
+        "material_title": "180329_02_s.jpg",
+        "material_file": "975324c350caf3ffd410a66092f068177da2d465654373e953bb9d864d87ef957724.jpeg"
+      }
+    ],
+    "previous_id": "8810",
+    "next_id": "8804",
+    "saved_materials": [
+      "assets/8805_7723_180329_01_s.jpg",
+      "assets/8805_7724_180329_02_s.jpg"
+    ]
+  }
+}

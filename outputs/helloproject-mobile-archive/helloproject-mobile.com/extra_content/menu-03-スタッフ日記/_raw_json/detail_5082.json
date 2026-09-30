@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 652,
+    "content_id": "5082",
+    "content_title": "投函完了！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-04 23:56:00",
+    "created_at": "2016-08-04 23:49:34",
+    "updated_at": "2016-08-04 23:56:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4601",
+        "material_title": "160804.jpg",
+        "material_file": "e4648ffce34e53d88cc00fde5b2f4cc4536c241985e1a3a0cd4b1ac2187f096d4601.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5082",
+    "content_title": "投函完了！",
+    "content_sub_title": "",
+    "release_date": "2016-08-04 23:56:00",
+    "created_at": "2016-08-04 23:49:34",
+    "updated_at": "2016-08-04 23:56:51",
+    "content_text": "こんばんは。\nハロ！モバスタッフ番号2番です。\n\n暑中お見舞い特集ページで募集していましたプレゼント応募は、昨日締め切らせていただきました。沢山のご応募、ありがとうございます。\n\nそして本日、暑中お見舞い葉書きをポストに投函しました！\n\nこれから全国各地、当選者さまの元へ届けられますので、ご応募された方は楽しみにしていてくださいね。\n\n160804.jpg\n皆さまに喜んでいただけるよう願って…\n\n今後も、季節ごと定期的に皆さまへのプレゼント特集を企画しますので、その時はぜひご参加ください！\n\n\nもし葉書きが届いたら、「#ハロモバ」で写真をSNSに上げていただけると…\n私が喜びます。",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4601",
+        "material_title": "160804.jpg",
+        "material_file": "b6d35a431aa470d5781d8c34d8f5158a9a490e838e2ae37632e7f3d9f96c877c4601.jpeg"
+      }
+    ],
+    "previous_id": "5213",
+    "next_id": "5073",
+    "saved_materials": [
+      "assets/5082_4601_160804.jpg"
+    ]
+  }
+}

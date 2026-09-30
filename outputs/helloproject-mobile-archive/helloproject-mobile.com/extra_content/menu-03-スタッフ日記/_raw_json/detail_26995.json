@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 40,
+    "content_id": "26995",
+    "content_title": "工藤の家の軒下#46～河西結心～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-09-16 00:00:00",
+    "created_at": "2026-09-28 23:11:05",
+    "updated_at": "2026-09-28 23:11:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22080",
+        "material_title": "250916_046.jpg",
+        "material_file": "c475332c34b299244a2c78db5095ea39f8c8496a2d75104061f498c8a2045c4322080.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26995",
+    "content_title": "工藤の家の軒下#46～河西結心～",
+    "content_sub_title": "",
+    "release_date": "2025-09-16 00:00:00",
+    "created_at": "2026-09-28 23:11:05",
+    "updated_at": "2026-09-28 23:11:05",
+    "content_text": "250916_046.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第46回はゲストは、河西結心！\r\n\r\n・歌に対する向き合い方\r\n・地元をエスコート\r\n・初対面の印象\r\n・印象に残っている地元仕事\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・武道館\r\n・究極の選択\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・バンドスタイル\r\n・筋肉\r\n・同い年メンバー\r\n・オタ活\r\n・わがままリクエストやるなら？\r\n・加入から現在まで心に残っている思い出\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22080",
+        "material_title": "250916_046.jpg",
+        "material_file": "4763b149da89f74f0d1d74a3b1386fca3cd70ab972036a074ca00fe512f466a522080.jpeg"
+      }
+    ],
+    "previous_id": "26957",
+    "next_id": "26994",
+    "saved_materials": [
+      "assets/26995_22080_250916_046.jpg"
+    ]
+  }
+}

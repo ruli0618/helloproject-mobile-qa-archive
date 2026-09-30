@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 443,
+    "content_id": "16538",
+    "content_title": "にこにこるるちゃん",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-08-19 10:00:00",
+    "created_at": "2021-08-10 21:37:09",
+    "updated_at": "2021-08-10 21:37:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13804",
+        "material_title": "210819_inoue_s.jpg",
+        "material_file": "4f65d13f6f68403d3795e2f6f0c7ae727a7463850e989e68a91a4f8fdc88d80d13804.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16538",
+    "content_title": "にこにこるるちゃん",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-08-19 10:00:00",
+    "created_at": "2021-08-10 21:37:09",
+    "updated_at": "2021-08-10 21:37:09",
+    "content_text": "210819_inoue_s.jpg\r\n大阪限定のjuiceもって、にこにこのるるちゃん",
+    "materials": [
+      {
+        "secretKey": "ef280e548a1849486df7990d214b1ec1",
+        "material_id": "13804",
+        "material_title": "210819_inoue_s.jpg",
+        "material_file": "b6c316eef67abb63b5620fa5a89921c71c6abafb1407ea72ccfcf64845da1f6913804.jpeg"
+      }
+    ],
+    "previous_id": "16539",
+    "next_id": "16537",
+    "saved_materials": [
+      "assets/16538_13804_210819_inoue_s.jpg"
+    ]
+  }
+}

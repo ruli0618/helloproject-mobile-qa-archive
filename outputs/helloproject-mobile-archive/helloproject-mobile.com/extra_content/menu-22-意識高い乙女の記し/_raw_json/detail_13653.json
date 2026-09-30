@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 186,
+    "content_id": "13653",
+    "content_title": "ご褒美",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-04-17 11:56:00",
+    "created_at": "2020-04-17 11:56:30",
+    "updated_at": "2020-04-17 11:56:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11407",
+        "material_title": "0417_ono_s.jpg",
+        "material_file": "fbc58ecedaf3f460614517bb328dc9fe9760e69052ab1b2262c51dc635016cd311407.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13653",
+    "content_title": "ご褒美",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-04-17 11:56:00",
+    "created_at": "2020-04-17 11:56:30",
+    "updated_at": "2020-04-17 11:56:30",
+    "content_text": "大好きなチーズケーキ\r\n作りました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n0417_ono_s.jpg\r\nご褒美だから！\r\nと言って食べ過ぎないように\r\n気をつけなきゃね〜\r\n\r\nお菓子作りへの\r\n意識が一つ上がった<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11407",
+        "material_title": "0417_ono_s.jpg",
+        "material_file": "8782207cd9fed4990b9fc4c2c6b78b5301402e236f2518c837c7caf9a9f9d8ba11407.jpeg"
+      }
+    ],
+    "previous_id": "13667",
+    "next_id": "13628",
+    "saved_materials": [
+      "assets/13653_11407_0417_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 193,
+    "content_id": "19529",
+    "content_title": "みよちゃん家の縁側の猫#11 上國料萌衣",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-09-27 00:00:00",
+    "created_at": "2023-01-20 19:19:22",
+    "updated_at": "2023-01-20 19:21:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16184",
+        "material_title": "230120_04.jpg",
+        "material_file": "9feba6327e8524f0720a069419b3fac96f9703ebea2cec04ba13194c75e3a96416184.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16185",
+        "material_title": "230120_03.jpg",
+        "material_file": "7b9790fd313eecffb061550acf7df37c7dd146afd157b5896014bb4020e080d016185.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19529",
+    "content_title": "みよちゃん家の縁側の猫#11 上國料萌衣",
+    "content_sub_title": "",
+    "release_date": "2022-09-27 00:00:00",
+    "created_at": "2023-01-20 19:19:22",
+    "updated_at": "2023-01-20 19:21:27",
+    "content_text": "「みよちゃん家の縁側」#11配信中です！\n\n第11回ゲストは、アンジュルム上國料萌衣さん！\n\n230120_03.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①チートデイに食べたいもの\n②○○の秋\n③クリスタルボイス\n④お先はまっキラ\n\n\n\n「演技してみよ～！」のコーナーでは、\n「こころくんの告白」、「上國料さんからご飯のお誘い」の2本をお送りしました。\n上國料さんの有名なすっぴん姿(？)についてもお話していただきました！笑\n\n\n今回はお互いに褒め合う2人のトークにほっこりします<img src=\"/emoji/emoji-images/f9eb.gif\"/>\nつばきファクトリー浅倉さん・小野田さんとのオーディション合宿のエピソードも！\n\n230120_04.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第12回ゲストは、BEYOOOOONDS山﨑夢羽さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16184",
+        "material_title": "230120_04.jpg",
+        "material_file": "b165e0e7eb29eec91fe4d22c842820a8ee0bc7cc2bef64a49d023708e43c070216184.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16185",
+        "material_title": "230120_03.jpg",
+        "material_file": "94e63b26fa3a80c7ad22bed52ca6a0e0f29da19503779270458acf3f51863e8a16185.jpeg"
+      }
+    ],
+    "previous_id": "21224",
+    "next_id": "21223",
+    "saved_materials": [
+      "assets/19529_16184_230120_04.jpg",
+      "assets/19529_16185_230120_03.jpg"
+    ]
+  }
+}

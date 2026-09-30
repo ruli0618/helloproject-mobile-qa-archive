@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 182,
+    "content_id": "21229",
+    "content_title": "工藤の家の屋根裏部屋#121～岡村ほまれ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-06 00:00:00",
+    "created_at": "2023-11-14 15:12:42",
+    "updated_at": "2023-11-14 15:12:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17435",
+        "material_title": "221206_s.jpg",
+        "material_file": "0038895f4d17fca2f02aeef3bf1b089eb82da8f5d2375513b2ec68f29340a1d117435.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21229",
+    "content_title": "工藤の家の屋根裏部屋#121～岡村ほまれ～",
+    "content_sub_title": "",
+    "release_date": "2022-12-06 00:00:00",
+    "created_at": "2023-11-14 15:12:42",
+    "updated_at": "2023-11-14 15:12:42",
+    "content_text": "ふくむらの部屋 第121回は、岡村ほまれさんが登場！\r\n\r\n・秋ツアー\r\n・オタ活事情\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n同姓同名を揃えるクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・Happy birthday to Me!のダンス\r\n・美容と健康\r\nを語りました！\r\n\r\n後半では、\r\n・ZDA\r\nについてトーク！\r\n\r\n221206_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17435",
+        "material_title": "221206_s.jpg",
+        "material_file": "0bd47fb947d094c11e92345ad79335cfb4f51ed99e185f5f8a760518f169a24017435.jpeg"
+      }
+    ],
+    "previous_id": "20676",
+    "next_id": "20270",
+    "saved_materials": [
+      "assets/21229_17435_221206_s.jpg"
+    ]
+  }
+}

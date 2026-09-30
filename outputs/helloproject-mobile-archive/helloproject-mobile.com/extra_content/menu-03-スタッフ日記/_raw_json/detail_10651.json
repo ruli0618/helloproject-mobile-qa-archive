@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 446,
+    "content_id": "10651",
+    "content_title": "工藤の家の屋根裏部屋#41～高瀬くるみ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-23 12:05:00",
+    "created_at": "2019-01-23 12:05:40",
+    "updated_at": "2019-01-24 20:36:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9183",
+        "material_title": "0123_01_s.jpg",
+        "material_file": "0311bf95ebd12a0f9828d9c4934078d89fb328c4df5cb7de0a19af305f4ea7aa9183.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9184",
+        "material_title": "0123_02_s.jpg",
+        "material_file": "5115f5905ff76be47be0e4b18983f8c6908f96733a930c2d1ebc283fbe24d7e99184.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10651",
+    "content_title": "工藤の家の屋根裏部屋#41～高瀬くるみ～",
+    "content_sub_title": "",
+    "release_date": "2019-01-23 12:05:00",
+    "created_at": "2019-01-23 12:05:40",
+    "updated_at": "2019-01-24 20:36:14",
+    "content_text": "「ふくむらの部屋」41回目の配信開始です！\n今回のゲストはBEYOOOOONDS高瀬くるみさんが登場！\n\n0123_01_s.jpg\n\nふくむらの部屋にBEYOOOOONDSメンバー初登場です！！\n\n\n緊張気味ながらもハキハキ元気トークの高瀬さん！\n譜久村さんからのお話を、熱心にメモを取りながら収録していました。\n\n譜久村さんが生田さんと行ったイチゴ狩りの話をたっぷりと！\n栃木県出身の高瀬さんともイチゴトーク！\n\nメンバーを家族に例えると…？\nまだまだ謎に包まれているBEYOOOOONDSメンバーの素顔を語る！\n\n数々の舞台で共演している2人、\n舞台での思い出もたくさん話しました！！\n\n0123_02_s.jpg\n\nたくさんの新コーナー案ありがとうございました。\n\n頂いた案を元に次回はこちらのコーナーをお試し！！\n\n「悩みをキラーンと解決」のコーナー！\nあなたのお悩みをキラーンと解決!?\n軽～いお悩みから真面目なお悩みまでどしどしお送りください！\n\n\n\n「みずき先生のハロプロ講座」「悩みをキラーンと解決」\n「普通のお便り」\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9183",
+        "material_title": "0123_01_s.jpg",
+        "material_file": "1c24693acbe1112b98b86fa631bcdf8235263637dcec6e94023c9b8a112b27b89183.jpeg"
+      },
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9184",
+        "material_title": "0123_02_s.jpg",
+        "material_file": "8754df2518e0eafc3c0a57b8d7c91e2de90f48873e786c48c2f240f04d41eee19184.jpeg"
+      }
+    ],
+    "previous_id": "10688",
+    "next_id": "10639",
+    "saved_materials": [
+      "assets/10651_9183_0123_01_s.jpg",
+      "assets/10651_9184_0123_02_s.jpg"
+    ]
+  }
+}

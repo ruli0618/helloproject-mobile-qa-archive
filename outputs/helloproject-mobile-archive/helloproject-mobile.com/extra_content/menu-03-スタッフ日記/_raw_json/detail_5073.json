@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 653,
+    "content_id": "5073",
+    "content_title": "工藤の家の天井裏#15　～似ている2人？～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-01 20:30:00",
+    "created_at": "2016-08-01 20:29:51",
+    "updated_at": "2016-08-01 20:31:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4594",
+        "material_title": "160801_2_1_s.jpg",
+        "material_file": "e44de074465523fa7dc0798efeabd2c8846cc0e91c154bc598d2d84bc4e468374594.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4595",
+        "material_title": "160801_2_2.jpg",
+        "material_file": "c3cd199e4ca79003790eae35e96d7e6b91737045720ba72dd7e944bf6cf1b6f94595.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5073",
+    "content_title": "工藤の家の天井裏#15　～似ている2人？～",
+    "content_sub_title": "",
+    "release_date": "2016-08-01 20:30:00",
+    "created_at": "2016-08-01 20:29:51",
+    "updated_at": "2016-08-01 20:31:54",
+    "content_text": "やじまの森やな#15公開中！ \r\nゲストは、人見知りローズクォーツ金澤朋子さんです。\r\n\r\n収録中に多くの共通点が見つかった2人。\r\n名前の由来や好きな色、家族について等など、プチ情報も満載です。\r\n\r\nそして握手会に関するメールが多かった今回、\r\n握手会の時に言われて嬉しかった言葉や、\r\n自分のカラーじゃないTシャツの人が握手に来た時の印象も語ってくれています。\r\n\r\n顔のイメージだけでお互いを名付けてみた時の名前はこちら。\r\n\r\n160801_2_1_s.jpg\r\n\r\n「犯人を追え！」コーナーの似顔絵はこちら。 \r\n\r\n160801_2_2.jpg\r\n\r\n思い切っての投稿ありがとうございます！\r\n\r\n次回あのイベントの続報も聞けるかも？\r\n次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4594",
+        "material_title": "160801_2_1_s.jpg",
+        "material_file": "9382966a82338eaa8c184dae83586dded678e5e9dd323d1f29a4dee95d4d5d624594.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4595",
+        "material_title": "160801_2_2.jpg",
+        "material_file": "d6bd07b8f3891b77f0cac48d8e1661dbd22bd933336d2f5de01c495267cd00644595.jpeg"
+      }
+    ],
+    "previous_id": "5082",
+    "next_id": "5072",
+    "saved_materials": [
+      "assets/5073_4594_160801_2_1_s.jpg",
+      "assets/5073_4595_160801_2_2.jpg"
+    ]
+  }
+}

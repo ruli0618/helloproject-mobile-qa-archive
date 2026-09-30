@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 472,
+    "content_id": "15801",
+    "content_title": "ふわふわ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2021-04-15 10:00:00",
+    "created_at": "2021-04-09 18:53:55",
+    "updated_at": "2021-04-09 18:53:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13171",
+        "material_title": "210415_dambara_s.jpg",
+        "material_file": "7aa1260e97230a67306ef99f6d1a10dc2dc360fddee4748bde3441e9bdde859613171.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15801",
+    "content_title": "ふわふわ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2021-04-15 10:00:00",
+    "created_at": "2021-04-09 18:53:55",
+    "updated_at": "2021-04-09 18:53:55",
+    "content_text": "210415_dambara_s.jpg\r\nふわふわ巻き髪！\r\nロングだといろんな巻き方できて楽しいです☺",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13171",
+        "material_title": "210415_dambara_s.jpg",
+        "material_file": "00724f5326fd0c1291cbad306242d39c1139e0c3ccfb3d66bc9ff0c6e74acea813171.jpeg"
+      }
+    ],
+    "previous_id": "15820",
+    "next_id": "15800",
+    "saved_materials": [
+      "assets/15801_13171_210415_dambara_s.jpg"
+    ]
+  }
+}

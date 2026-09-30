@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 306,
+    "content_id": "19456",
+    "content_title": "19歳",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-12-27 10:00:00",
+    "created_at": "2022-12-23 23:56:31",
+    "updated_at": "2022-12-23 23:56:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16136",
+        "material_title": "1229_arisawa_s.jpg",
+        "material_file": "22f6fb942042ba99e6835301163b75d7dae43e85451e7e8e3aafeadfe1d7e48716136.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19456",
+    "content_title": "19歳",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-12-27 10:00:00",
+    "created_at": "2022-12-23 23:56:31",
+    "updated_at": "2022-12-23 23:56:31",
+    "content_text": "有澤一華です。\r\n\r\n19歳になりました！！\r\n\r\n18歳と19歳って一歳しか変わらないのに、なんだかすごく大人になった気分になります。\r\n\r\n年相応になれるように？笑\r\n頑張ります！！\r\n\r\nこれからもよろしくお願いいたします。\r\n\r\n1229_arisawa_s.jpg",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16136",
+        "material_title": "1229_arisawa_s.jpg",
+        "material_file": "321880ca0ed574d3e8a34554ab6e2b66ff17736874e34d3fbba55351e0e3a03916136.jpeg"
+      }
+    ],
+    "previous_id": "19417",
+    "next_id": "19416",
+    "saved_materials": [
+      "assets/19456_16136_1229_arisawa_s.jpg"
+    ]
+  }
+}

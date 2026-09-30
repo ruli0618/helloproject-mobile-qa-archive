@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 536,
+    "content_id": "8365",
+    "content_title": "ポストをチェック！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-17 11:00:00",
+    "created_at": "2018-01-16 20:25:00",
+    "updated_at": "2018-01-16 20:29:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7348",
+        "material_title": "0117_s.jpg",
+        "material_file": "67395bd42d98c95b23e9345920405c197cdabeb060c50a003ec82abca83587207348.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8365",
+    "content_title": "ポストをチェック！",
+    "content_sub_title": "",
+    "release_date": "2018-01-17 11:00:00",
+    "created_at": "2018-01-16 20:25:00",
+    "updated_at": "2018-01-16 20:29:04",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n昨日、年始特集プレゼントの年賀状をポストに投函してきましたよ！\n\n0117_s.jpg\n早いところで今日からお手元に届くかと思います。\n当選された方は、ぜひ「#ハロモバ」のハッシュタグをつけて、SNSに画像をアップしてみてください！\n\n今回惜しくも外れてしまった方も、ぜひぜひ「#ハロモバ」ハッシュタグを検索して、当選した気分を味わったり…当選された方をお祝いしてくださいね！\n\nP.S.お年玉付年賀はがきの当選番号も発表されましたね。\n年賀状が届いたら、<a href=\"https://yu-bin.jp/letters/otoshidama/numbers.html\" target=\"_blank\">当選番号</a>もチェック♪",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7348",
+        "material_title": "0117_s.jpg",
+        "material_file": "7331491aa48805f259fc3482798d59321c6a9bcf025f38070cfc710a19a58b757348.jpeg"
+      }
+    ],
+    "previous_id": "8418",
+    "next_id": "8363",
+    "saved_materials": [
+      "assets/8365_7348_0117_s.jpg"
+    ]
+  }
+}

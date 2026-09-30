@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 423,
+    "content_id": "16966",
+    "content_title": "秋どこ〜",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2021-11-02 10:00:00",
+    "created_at": "2021-10-26 14:16:13",
+    "updated_at": "2021-10-26 14:16:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14168",
+        "material_title": "211102_irie_s.jpg",
+        "material_file": "1ffce97214b91dde26bca784c17eb121efddaee8216cf349afbfeba3ef8bae0714168.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16966",
+    "content_title": "秋どこ〜",
+    "content_sub_title": "入江里咲",
+    "release_date": "2021-11-02 10:00:00",
+    "created_at": "2021-10-26 14:16:13",
+    "updated_at": "2021-10-26 14:16:13",
+    "content_text": "211102_irie_s.jpg\r\n最近もう冬なんじゃないかと思うくらいとっても寒いですね、、\r\n\r\n体調管理に気をつけて、毎日頑張りましょう〜",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14168",
+        "material_title": "211102_irie_s.jpg",
+        "material_file": "306eabcaf243eec52db7a35a31087788ec9b71ccefc897f7feb4bb8da2402a2f14168.jpeg"
+      }
+    ],
+    "previous_id": "16967",
+    "next_id": "16965",
+    "saved_materials": [
+      "assets/16966_14168_211102_irie_s.jpg"
+    ]
+  }
+}

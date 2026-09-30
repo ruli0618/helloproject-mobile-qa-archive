@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 88,
+    "content_id": "24792",
+    "content_title": "ひつまぶし",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2025-08-18 23:00:00",
+    "created_at": "2025-08-18 23:01:46",
+    "updated_at": "2025-08-18 23:01:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20262",
+        "material_title": "0818_nishida_s.jpg",
+        "material_file": "cab1ac33968582815f4f00dee257033ae033a3ccd4eaaf41b8f50228eb57f5ab20262.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24792",
+    "content_title": "ひつまぶし",
+    "content_sub_title": "西田汐里",
+    "release_date": "2025-08-18 23:00:00",
+    "created_at": "2025-08-18 23:01:46",
+    "updated_at": "2025-08-18 23:01:46",
+    "content_text": "0818_nishida_s.jpg\r\n名古屋で食べたひつまぶし美味しくて大好きになった！！\r\n\r\n【45周目お題：大好き】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20262",
+        "material_title": "0818_nishida_s.jpg",
+        "material_file": "60b3f27fe33688726f02ef68789777a90ce16faf7a85e11b7b3112744ad4767720262.jpeg"
+      }
+    ],
+    "previous_id": "24793",
+    "next_id": "24665",
+    "saved_materials": [
+      "assets/24792_20262_0818_nishida_s.jpg"
+    ]
+  }
+}

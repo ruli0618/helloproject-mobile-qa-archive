@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 563,
+    "content_id": "13198",
+    "content_title": "コットンクラブ♡",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-03-05 10:00:00",
+    "created_at": "2020-02-25 18:40:11",
+    "updated_at": "2020-02-25 18:40:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11183",
+        "material_title": "0305_inaba_s.jpg",
+        "material_file": "3e0320b5b87b46fc7243efcdd67a42542aa1ebdaea3619c68eae57a5d098da4211183.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13198",
+    "content_title": "コットンクラブ♡",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-03-05 10:00:00",
+    "created_at": "2020-02-25 18:40:11",
+    "updated_at": "2020-02-25 18:40:11",
+    "content_text": "0305_inaba_s.jpg\r\n金澤朋子 LIVE 2020 ～Rose Quartz〜にバックダンサーとして出演させて頂いた時に頂いた素敵なごはんたち＼('ー')／2月編です！\r\nどれもとっても美味しくて幸せでした〜♡\r\n美味しいご飯パワーでパフォーマンスも更に頑張れました！来てくださった皆さんありがとうございました^._.^",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11183",
+        "material_title": "0305_inaba_s.jpg",
+        "material_file": "ff5f1940bb8ce48990e7eb0ed04bf4f4856a3c45c0ad121e8ac9d30a9785ddc811183.jpeg"
+      }
+    ],
+    "previous_id": "13236",
+    "next_id": "13197",
+    "saved_materials": [
+      "assets/13198_11183_0305_inaba_s.jpg"
+    ]
+  }
+}

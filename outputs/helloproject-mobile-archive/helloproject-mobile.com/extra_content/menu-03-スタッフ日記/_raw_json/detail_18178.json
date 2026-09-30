@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 222,
+    "content_id": "18178",
+    "content_title": "ふくむらの部屋配信延期に関して",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-20 20:38:00",
+    "created_at": "2022-05-20 20:39:19",
+    "updated_at": "2022-05-20 21:28:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18178",
+    "content_title": "ふくむらの部屋配信延期に関して",
+    "content_sub_title": "",
+    "release_date": "2022-05-20 20:38:00",
+    "created_at": "2022-05-20 20:39:19",
+    "updated_at": "2022-05-20 21:28:47",
+    "content_text": "本日<a href=\"http://www.helloproject.com/news/14577/\" target=\"_brank\">譜久村聖が新型コロナウイルス濃厚接触者として判断されました</a>ことを受けまして、以下ハロー！ラジオ番組を配信延期させて頂くこととなりました。\n\n＜配信延期＞\n5月24日(火)ハロー！ラジオ「ふくむらの部屋」第107回\nゲスト：アンジュルム 松本わかな\n\n新しい配信日程・出演者が決まり次第、改めてご案内いたします。\n\n楽しみにされていた皆様には誠に申し訳ございません。\n何卒ご理解の程、よろしくお願い申し上げます。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18526",
+    "next_id": "18117",
+    "saved_materials": []
+  }
+}

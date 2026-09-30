@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 420,
+    "content_id": "11280",
+    "content_title": "隣のやじまん家の塀の裏#46 室田瑞希",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-04-26 22:20:00",
+    "created_at": "2019-04-23 23:13:21",
+    "updated_at": "2019-04-26 22:20:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9678",
+        "material_title": "190426A_01_s.jpg",
+        "material_file": "655f70ae9ebc54a76ebff26c441cc314fa6cc87bb1b4908ee795dbe963afed7e9678.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9679",
+        "material_title": "190426A_02_s.jpg",
+        "material_file": "7b04c44fb3cd488832650aec87fd4f18db5a627a7bbdd1a3439f19dedba2a7bb9679.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11280",
+    "content_title": "隣のやじまん家の塀の裏#46 室田瑞希",
+    "content_sub_title": "",
+    "release_date": "2019-04-26 22:20:00",
+    "created_at": "2019-04-23 23:13:21",
+    "updated_at": "2019-04-26 22:20:16",
+    "content_text": "隣のやじまん家#46配信中！ \n\n今回のゲストは、第一声の挨拶で元気な声を出してくれた\nアンジュルム室田瑞希さんです！\n\n190426A_01_s.jpg\n \n矢島さんにとって、室田さんの新たな一面が多く知れた回だったのではないでしょうか。\n\n和田彩花さん・川村文乃さんのものまねは、\nぜひ表情も含めて見てもらいたいですね。\nいつかのイベントに期待です！\n\n話題に上がった「恋する！さかなヘン／矢島舞美、中島早貴、高木紗友希(Juice=Juice)、岡田万里奈(LoVendoЯ)、岸本ゆめの(つばきファクトリー)」は<a href=\"https://youtu.be/g82OHDgiOvM\" target=\"_blank\">こちら</a>をチェック！\n\n仲の良い植村さんは、100点満点だと言う室田さん。\n人として素晴らしいと思うところを挙げてくれました。\n\nそして大乱闘スマッシュブラザーズを○○のゲームだと思った矢島さん…\n詳しくは番組をチェック！\n\n「VS矢島」コーナーでは2戦行いました！\n戦隊モノ風な自己紹介\n個性的な演技で対決！\nどちらも必聴です。\n\n190426A_02_s.jpg\n\n次回は、5/14配信！\nBEYOOOOONDS山﨑夢羽さんがゲストでお送りします。\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\nテーマトークのお題は\n「どうしてもやる気が出ない事」\n\n「VS矢島」対決するお題も募集！\n\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9678",
+        "material_title": "190426A_01_s.jpg",
+        "material_file": "ac5b6741a05f4a6ca82d0785120a977084f66cdbfe185fe7c3a61e9ff6f76ddc9678.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9679",
+        "material_title": "190426A_02_s.jpg",
+        "material_file": "ff6c7cdeaa1adf18389180fefb69c83e777e7edcca1dd3120a3214d587c2e8d69679.jpeg"
+      }
+    ],
+    "previous_id": "11315",
+    "next_id": "11252",
+    "saved_materials": [
+      "assets/11280_9678_190426A_01_s.jpg",
+      "assets/11280_9679_190426A_02_s.jpg"
+    ]
+  }
+}

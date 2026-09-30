@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 598,
+    "content_id": "12082",
+    "content_title": "宮崎由加さん♡",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-09-10 10:00:00",
+    "created_at": "2019-09-05 22:16:16",
+    "updated_at": "2019-09-05 22:16:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10291",
+        "material_title": "0910_inaba_s.jpg",
+        "material_file": "c3a9657fda71c2157b210ae166f3366e1387bed05142d8b1d3b257a9726f4f0610291.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12082",
+    "content_title": "宮崎由加さん♡",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-09-10 10:00:00",
+    "created_at": "2019-09-05 22:16:16",
+    "updated_at": "2019-09-05 22:16:16",
+    "content_text": "0910_inaba_s.jpg\r\n宮崎由加さんとモツ鍋を食べに行きました♡宮崎さんがJuice=Juiceをご卒業されてから初めて会えて…(T＿T)美味しいモツ鍋を囲んでもしかしたら今までで1番？！沢山お話できたのも本当に嬉しかったです♪これから秋や冬になってくるとモツ鍋も、もっと人気になっちゃいますね★今度はメンバーみんなでも食べたいなぁ＼(*´○｀*)／",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10291",
+        "material_title": "0910_inaba_s.jpg",
+        "material_file": "13981bdd0ecd4a23387c1ce13b9cf28b573aaf5a2fe408e8e3285efe4439470210291.jpeg"
+      }
+    ],
+    "previous_id": "12093",
+    "next_id": "12081",
+    "saved_materials": [
+      "assets/12082_10291_0910_inaba_s.jpg"
+    ]
+  }
+}

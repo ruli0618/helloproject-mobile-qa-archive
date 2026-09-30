@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 323,
+    "content_id": "14407",
+    "content_title": "工藤の家の屋根裏部屋#77後編～松永里愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-09-11 11:00:00",
+    "created_at": "2020-08-27 22:38:48",
+    "updated_at": "2020-09-11 19:37:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11989",
+        "material_title": "0827_fukumura_03_s.jpg",
+        "material_file": "095c52a37e12346e96568a653c7fc120c00066b42b86463c7686e20ec4b730bf11989.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14407",
+    "content_title": "工藤の家の屋根裏部屋#77後編～松永里愛～",
+    "content_sub_title": "",
+    "release_date": "2020-09-11 11:00:00",
+    "created_at": "2020-08-27 22:38:48",
+    "updated_at": "2020-09-11 19:37:23",
+    "content_text": "ふくむらの部屋 第77回後編配信中！\n\nゲストは前回に引き続き、Juice=Juice松永里愛さん！\n\nハロプロ講座のコーナーでは、\n影響を受けた楽曲、声質について語っていただきました！\n\n推しメンを語ろう！のコーナーでは、\n松永さんにBEYOOOOONDS小林萌花さんの好きなところを教えていただきました。\n\nその他にも9期エピソード、\n自分がソロライブを開催するなら…というテーマでトーク！\n\nぜひお聴きください♪\n\n0827_fukumura_03_s.jpg\n\n推しメンを語ろう！のコーナーは、今回で一旦終了し、次回は以前募集しました新コーナー案から新しいコーナーを検討します。\n\n良い案がありましたら、ぜひメールでもお送りください♬\n\n次回のゲストは、アンジュルム佐々木莉佳子さんに決定！\n\n回替りコーナーは「悩みをキラーンと解決」\n受付は、9/23(水)AM10:00までです。\n\n<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n※9月22日(火)のハロ！モバラジオ配信はお休みとなります。\n\n次の配信をお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11989",
+        "material_title": "0827_fukumura_03_s.jpg",
+        "material_file": "4b41f56353c38065001703338a5d0b0a228bde04e7fc60069295805e4cc1a63e11989.jpeg"
+      }
+    ],
+    "previous_id": "14460",
+    "next_id": "14445",
+    "saved_materials": [
+      "assets/14407_11989_0827_fukumura_03_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 150,
+    "content_id": "22649",
+    "content_title": "りぼんとわたし",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-07-25 19:47:00",
+    "created_at": "2024-07-25 19:49:04",
+    "updated_at": "2024-07-25 19:49:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18538",
+        "material_title": "0725_kudo_s.jpg",
+        "material_file": "17cf57ec45930a81937588532928f68da46df642984dc9726ec08575063c63bb18538.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22649",
+    "content_title": "りぼんとわたし",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-07-25 19:47:00",
+    "created_at": "2024-07-25 19:49:04",
+    "updated_at": "2024-07-25 19:49:04",
+    "content_text": "0725_kudo_s.jpg\r\nりぼんむすびにて、「りぼんもわたし」インタビュー前編が公開されました！！\r\n大好きな少女漫画のお仕事！\r\nりぼんの作品のお話が出来て嬉しかったです！",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18538",
+        "material_title": "0725_kudo_s.jpg",
+        "material_file": "b2741b9d3057ccc26ae36cbbd607c702a7d6890e411fe2e1a1f1bfff70ff8a0618538.jpeg"
+      }
+    ],
+    "previous_id": "22679",
+    "next_id": "22617",
+    "saved_materials": [
+      "assets/22649_18538_0725_kudo_s.jpg"
+    ]
+  }
+}

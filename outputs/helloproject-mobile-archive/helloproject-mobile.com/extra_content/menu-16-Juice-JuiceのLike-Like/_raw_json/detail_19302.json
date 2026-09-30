@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 311,
+    "content_id": "19302",
+    "content_title": "ヘアピン",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2022-12-08 10:00:00",
+    "created_at": "2022-12-06 18:56:44",
+    "updated_at": "2022-12-06 18:56:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16020",
+        "material_title": "1208_inoue_s.jpg",
+        "material_file": "a35350255e82fd4eb326390b8dec313fadc69d712d81c6cc9760813e72245b8b16020.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19302",
+    "content_title": "ヘアピン",
+    "content_sub_title": "井上玲音",
+    "release_date": "2022-12-08 10:00:00",
+    "created_at": "2022-12-06 18:56:44",
+    "updated_at": "2022-12-06 18:56:44",
+    "content_text": "1208_inoue_s.jpg\r\nこのヘアピン、実はたこが貸してくれたんだよ〜\r\n蜂がついてるの可愛いよね\r\nなんでいっつも微妙にブレちゃうんだろう",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16020",
+        "material_title": "1208_inoue_s.jpg",
+        "material_file": "f53c4799cf5f6e891209e44a1a2a9f9c61a29b885ce34a31895839bb587d5e2216020.jpeg"
+      }
+    ],
+    "previous_id": "19308",
+    "next_id": "19234",
+    "saved_materials": [
+      "assets/19302_16020_1208_inoue_s.jpg"
+    ]
+  }
+}

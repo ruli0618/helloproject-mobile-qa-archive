@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 503,
+    "content_id": "14993",
+    "content_title": "髪型",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-12-03 10:00:00",
+    "created_at": "2020-11-27 21:43:56",
+    "updated_at": "2020-11-27 21:43:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12494",
+        "material_title": "1203_dambara_s.jpg",
+        "material_file": "04fbffa608ddaf8bd21ef505562524f2b5cd8d2ba21a5c16c1bbe4bb2ba203e812494.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14993",
+    "content_title": "髪型",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-12-03 10:00:00",
+    "created_at": "2020-11-27 21:43:56",
+    "updated_at": "2020-11-27 21:43:56",
+    "content_text": "1203_dambara_s.jpg\r\n髪の毛が伸びて、ヘアアレンジが楽しいです",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12494",
+        "material_title": "1203_dambara_s.jpg",
+        "material_file": "a53ca6190c933a472182784d5a4a7030c3b6e838440c46b800cd87e2bce3914412494.jpeg"
+      }
+    ],
+    "previous_id": "14994",
+    "next_id": "14992",
+    "saved_materials": [
+      "assets/14993_12494_1203_dambara_s.jpg"
+    ]
+  }
+}

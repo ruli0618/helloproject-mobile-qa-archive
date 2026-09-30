@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 303,
+    "content_id": "19494",
+    "content_title": "メガネ",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2023-01-10 10:00:00",
+    "created_at": "2023-01-10 16:15:30",
+    "updated_at": "2023-01-10 16:15:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16152",
+        "material_title": "0105_ishiyama_s.jpg",
+        "material_file": "2fd9c50d8d787634e183bb608379f16f890882feb13cd74595e29ea696af8bde16152.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19494",
+    "content_title": "メガネ",
+    "content_sub_title": "石山咲良",
+    "release_date": "2023-01-10 10:00:00",
+    "created_at": "2023-01-10 16:15:30",
+    "updated_at": "2023-01-10 16:15:30",
+    "content_text": "0105_ishiyama_s.jpg\r\nアクセサリーでメガネ出来た",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16152",
+        "material_title": "0105_ishiyama_s.jpg",
+        "material_file": "d3e8bd549e713b56a8fa6a8af7da82f86f3f620fa604b67533ae822af92e960c16152.jpeg"
+      }
+    ],
+    "previous_id": "19495",
+    "next_id": "19459",
+    "saved_materials": [
+      "assets/19494_16152_0105_ishiyama_s.jpg"
+    ]
+  }
+}

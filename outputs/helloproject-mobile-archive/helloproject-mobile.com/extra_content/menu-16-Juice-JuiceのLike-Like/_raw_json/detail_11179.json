@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 630,
+    "content_id": "11179",
+    "content_title": "楽しかった〜！",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-04-04 10:00:00",
+    "created_at": "2019-04-02 13:45:23",
+    "updated_at": "2019-04-02 13:45:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9558",
+        "material_title": "0404_dambara_s.jpg",
+        "material_file": "36d53e85c2e85c8ddcf96b08a1117948439c55d9721151c2abc716cf453fa1579558.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11179",
+    "content_title": "楽しかった〜！",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-04-04 10:00:00",
+    "created_at": "2019-04-02 13:45:23",
+    "updated_at": "2019-04-02 13:45:23",
+    "content_text": "0404_dambara_s.jpg\r\n先日Juice=Juiceは香港に行きました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nROCK ON JAPANに出演させていただいて、なんと香港ディズニーランドにも行けて、思い出いっぱいです(^^)",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9558",
+        "material_title": "0404_dambara_s.jpg",
+        "material_file": "1767925763e453dff1ac46cd239095067942192dda82c6683a986cd109d6cd209558.jpeg"
+      }
+    ],
+    "previous_id": "11180",
+    "next_id": "11144",
+    "saved_materials": [
+      "assets/11179_9558_0404_dambara_s.jpg"
+    ]
+  }
+}

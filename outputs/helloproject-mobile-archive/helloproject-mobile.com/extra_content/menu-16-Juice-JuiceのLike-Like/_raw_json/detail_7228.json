@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 790,
+    "content_id": "7228",
+    "content_title": "ねこちゃん／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-09-01 11:00:00",
+    "created_at": "2017-08-04 12:18:51",
+    "updated_at": "2017-08-04 12:56:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6358",
+        "material_title": "6462086989052_s.jpg",
+        "material_file": "cf7e2fa684fa8647692289bae4da661d802623562137e5fa3907ae6c822588c26358.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7228",
+    "content_title": "ねこちゃん／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-09-01 11:00:00",
+    "created_at": "2017-08-04 12:18:51",
+    "updated_at": "2017-08-04 12:56:13",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\n\r\n幼馴染が飼ってるねこちゃん\r\n\r\nこの間初めて会えました<img src=\"/emoji/emoji-images/f650.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\r\n\r\n6462086989052_s.jpg\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6358",
+        "material_title": "6462086989052_s.jpg",
+        "material_file": "bfcd7d0ead5f306d1065ccfe35491bb16670098c32b70266c3fc70c747286f326358.jpeg"
+      }
+    ],
+    "previous_id": "7230",
+    "next_id": "7226",
+    "saved_materials": [
+      "assets/7228_6358_6462086989052_s.jpg"
+    ]
+  }
+}

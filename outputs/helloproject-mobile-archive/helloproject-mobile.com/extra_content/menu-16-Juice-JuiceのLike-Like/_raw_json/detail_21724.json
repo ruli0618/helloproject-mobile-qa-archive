@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 194,
+    "content_id": "21724",
+    "content_title": "11周年！",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2024-02-13 10:00:00",
+    "created_at": "2024-02-13 12:30:03",
+    "updated_at": "2024-02-13 12:30:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17836",
+        "material_title": "0213_endo_s.jpg",
+        "material_file": "1926bb5b4c2cb2d82540188e79986345ab152afd80042c18c381d466036ce79d17836.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21724",
+    "content_title": "11周年！",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2024-02-13 10:00:00",
+    "created_at": "2024-02-13 12:30:03",
+    "updated_at": "2024-02-13 12:30:03",
+    "content_text": "0213_endo_s.jpg\r\n遠藤彩加里です♪\r\nJuice=Juice結成11周年！\r\n大変なことも沢山あるだろうけど、どんな時も上を向いて笑顔を忘れずに楽しみまくりたいです!!!!!!!!!!",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17836",
+        "material_title": "0213_endo_s.jpg",
+        "material_file": "f0360033f203fb2f405367a1c6ba39f4114c76bcb61ff0a6486726617fbab67017836.jpeg"
+      }
+    ],
+    "previous_id": "21725",
+    "next_id": "21720",
+    "saved_materials": [
+      "assets/21724_17836_0213_endo_s.jpg"
+    ]
+  }
+}

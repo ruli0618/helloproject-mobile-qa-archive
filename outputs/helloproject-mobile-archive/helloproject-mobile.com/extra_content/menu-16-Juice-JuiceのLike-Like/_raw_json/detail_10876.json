@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 638,
+    "content_id": "10876",
+    "content_title": "いつもとは違う髪型♪",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-02-28 10:00:00",
+    "created_at": "2019-02-20 13:31:28",
+    "updated_at": "2019-02-20 13:31:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9340",
+        "material_title": "0228_inaba_s.jpg",
+        "material_file": "83683222e9468b2a9ea36d34ddc7f1245068bf44e438e8474834afbeb06edae29340.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10876",
+    "content_title": "いつもとは違う髪型♪",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-02-28 10:00:00",
+    "created_at": "2019-02-20 13:31:28",
+    "updated_at": "2019-02-20 13:31:28",
+    "content_text": "0228_inaba_s.jpg\r\n1月24日に神奈川県のCLUB CITTA’でミニライブ&握手会がありました。この日はみんなで、いつもと違う髪型をしよう！ってなって♪\r\nまだ写真があったのでみなさんにお裾分けです。またみんなでこういう新鮮なことをしていきたいなっ<img src=\"/emoji/emoji-images/f7b2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9340",
+        "material_title": "0228_inaba_s.jpg",
+        "material_file": "13cb132211a6bf8f8f2bae230c38985adba2cbdd0a3c9835231f38be80c5234d9340.jpeg"
+      }
+    ],
+    "previous_id": "10934",
+    "next_id": "10874",
+    "saved_materials": [
+      "assets/10876_9340_0228_inaba_s.jpg"
+    ]
+  }
+}

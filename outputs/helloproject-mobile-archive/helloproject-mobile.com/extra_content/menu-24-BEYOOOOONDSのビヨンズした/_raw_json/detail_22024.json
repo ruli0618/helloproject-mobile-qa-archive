@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 189,
+    "content_id": "22024",
+    "content_title": "やっぱり音楽！",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2024-05-06 10:00:00",
+    "created_at": "2024-04-08 20:26:07",
+    "updated_at": "2024-04-08 20:26:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18081",
+        "material_title": "0506_okamura_s.jpg",
+        "material_file": "7c403637d172dc4d7cab8ae83709fab3bf033c964b82c6b41b7d673b1e0637c218081.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22024",
+    "content_title": "やっぱり音楽！",
+    "content_sub_title": "岡村美波",
+    "release_date": "2024-05-06 10:00:00",
+    "created_at": "2024-04-08 20:26:07",
+    "updated_at": "2024-04-08 20:26:07",
+    "content_text": "0506_okamura_s.jpg\r\n00sサウンドが気になる今日この頃…♡\r\n\r\n【33周目お題：気になる】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18081",
+        "material_title": "0506_okamura_s.jpg",
+        "material_file": "24b967e10b35d0fe6b66c8b0c736e6c9bf9e36a980212314b70080e18ed1a5b618081.jpeg"
+      }
+    ],
+    "previous_id": "22026",
+    "next_id": "22023",
+    "saved_materials": [
+      "assets/22024_18081_0506_okamura_s.jpg"
+    ]
+  }
+}

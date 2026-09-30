@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 177,
+    "content_id": "19418",
+    "content_title": "クリスマスカード発送！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-22 10:00:00",
+    "created_at": "2022-12-22 05:51:32",
+    "updated_at": "2022-12-22 05:51:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16102",
+        "material_title": "221222_s.jpg",
+        "material_file": "5657d2427054349fd0d20ff935fa60e113c3d15dfb35cbb9d7d3136bf5472cdf16102.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19418",
+    "content_title": "クリスマスカード発送！",
+    "content_sub_title": "",
+    "release_date": "2022-12-22 10:00:00",
+    "created_at": "2022-12-22 05:51:32",
+    "updated_at": "2022-12-22 05:51:32",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\nクリスマスプレゼント企画に沢山のご応募ありがとうございます！\r\n\r\n当選分のクリスマスカードをポストに投函してきました。\r\n\r\nもしクリスマスカードがお家に届いた方は、ぜひハガキの写真を撮って、ハッシュタグ「<a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a>」をつけて、SNSに画像をアップしてくださいね♪\r\n\r\n<a href=\"http://helloproject-mobile.com/info/special/content?page=xmas_2022/index\" target=\"_blank\">クリスマス特集ページ</a>の公開は、12/26(月)朝までです。\r\n\r\n221222_s.jpg\r\n\r\n12/26(月)からは年末特集、1月1日(日)からは年始特集ページの公開も始まります！\r\n\r\n特に年末特集ページは6日間のみの公開と、期間が短いのでお見逃しなく！\r\n\r\n年始特集ページでは年賀状プレゼント応募もスタートしますので、今回クリスマスカードのプレゼント応募を逃してしまった方もぜひチャレンジしてみてくださいね。\r\n\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16102",
+        "material_title": "221222_s.jpg",
+        "material_file": "bdff70b0e008ec85d17fe179eb8531f1ba11b0f24609b0efd9ce653ff24f616516102.jpeg"
+      }
+    ],
+    "previous_id": "21212",
+    "next_id": "20933",
+    "saved_materials": [
+      "assets/19418_16102_221222_s.jpg"
+    ]
+  }
+}

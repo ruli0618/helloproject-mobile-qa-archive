@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 198,
+    "content_id": "21222",
+    "content_title": "工藤の家の屋根裏部屋#115～広本瑠璃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-09-13 00:00:00",
+    "created_at": "2023-11-14 14:04:48",
+    "updated_at": "2023-11-14 14:04:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17428",
+        "material_title": "220913_01_S.jpg",
+        "material_file": "19fb42360d5498e226e7614526ec92f73f2fc72feca4f65c0ebb8e36ff9cfffa17428.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17429",
+        "material_title": "220913_02_s.jpg",
+        "material_file": "93d6cda5c59e3462d5427dc2ccf0898cbe326d36374bc17bcc9d34a48eb1a2c617429.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21222",
+    "content_title": "工藤の家の屋根裏部屋#115～広本瑠璃～",
+    "content_sub_title": "",
+    "release_date": "2022-09-13 00:00:00",
+    "created_at": "2023-11-14 14:04:48",
+    "updated_at": "2023-11-14 14:04:48",
+    "content_text": "ふくむらの部屋 第115回は、OCHA NORMA広本瑠璃さんが登場！\r\n\r\n220913_01_S.jpg\r\n\r\n・一問一答\r\n・レコーディング映像\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n珍しい苗字ランキングのクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・広島\r\n・夏フェス\r\nを語りました！\r\n\r\n後半では、\r\n・パフォーマンス中の髪さばき\r\n・ハロプロ感\r\nについてトーク！\r\n\r\n220913_02_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "17428",
+        "material_title": "220913_01_S.jpg",
+        "material_file": "87b55b4daab029315860bd5417ace913a8624ee0c8892663baf479a3cf22aedc17428.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "17429",
+        "material_title": "220913_02_s.jpg",
+        "material_file": "5e988763c9b8d00b1859f89406777b4aa33f83c4649adbe407cfd7c1ad24e65b17429.jpeg"
+      }
+    ],
+    "previous_id": "19524",
+    "next_id": "19467",
+    "saved_materials": [
+      "assets/21222_17428_220913_01_S.jpg",
+      "assets/21222_17429_220913_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 485,
+    "content_id": "9729",
+    "content_title": "工藤の家の屋根裏部屋#30～野中美希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-17 22:44:00",
+    "created_at": "2018-08-17 22:44:46",
+    "updated_at": "2018-08-17 22:44:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8509",
+        "material_title": "fukumuraroom30_01_s.jpg",
+        "material_file": "00abf94ed571cb2739d578010658ef97820dee684391be0af7e5ef1224cc1a9f8509.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8510",
+        "material_title": "fukumuraroom30_2_s.jpg",
+        "material_file": "9604cbef71eb56503e09320d11155dae132fa55af54845d3067a8b21c1faa3618510.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9729",
+    "content_title": "工藤の家の屋根裏部屋#30～野中美希～",
+    "content_sub_title": "",
+    "release_date": "2018-08-17 22:44:00",
+    "created_at": "2018-08-17 22:44:46",
+    "updated_at": "2018-08-17 22:44:46",
+    "content_text": "「ふくむらの部屋」30回目配信お聴きいただけましたでしょうか！\r\n\r\n\r\n記念すべき30回目のゲストは\r\nハロモバ宣伝部 部長、モーニング娘。'18 野中美希さんが登場\r\n\r\nfukumuraroom30_01_s.jpg\r\n\r\n序盤からのなえもんが登場します！\r\n\r\n譜久村さん、野中さんの手料理について！\r\n〇〇な料理とのメールに野中さん「ちょっと待ってください！」\r\n\r\nハロー！プロジェクトのコンサート裏での\r\n譜久村さんが寂しく（?）感じる最近の西田汐里さんの〇〇とは！?\r\n\r\n舞台中の話などなど盛りだくさんです！\r\n\r\nハロプロ講座のコーナーでは\r\n「インスト」「英語詞」など、野中さんだからこそという話も！\r\n\r\nまさかの本人を目の前に「野中」について語るテーマも！！\r\n\r\n\r\nfukumuraroom30_2_s.jpg\r\n\r\nメドレーセレクションのコーナーでは\r\nアンジュルム室田さん提案の\r\n「即興しやすい曲メドレー」…野中さんへの即興ソングは!?\r\n\r\n次回のテーマは「秋」です。お楽しみに！\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8509",
+        "material_title": "fukumuraroom30_01_s.jpg",
+        "material_file": "1b6a4d37b9867bed5d4997a8343f5c2a43f4b1922702f00294ab7c2fe4a96bf98509.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8510",
+        "material_title": "fukumuraroom30_2_s.jpg",
+        "material_file": "5a370ba880306ec4d36dcab80f4e7b5611af8a1eeead03985c77a30614d34f338510.jpeg"
+      }
+    ],
+    "previous_id": "9747",
+    "next_id": "9644",
+    "saved_materials": [
+      "assets/9729_8509_fukumuraroom30_01_s.jpg",
+      "assets/9729_8510_fukumuraroom30_2_s.jpg"
+    ]
+  }
+}

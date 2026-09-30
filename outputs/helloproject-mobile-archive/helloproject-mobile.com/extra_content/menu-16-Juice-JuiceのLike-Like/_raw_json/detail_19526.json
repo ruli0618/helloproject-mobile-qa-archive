@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 298,
+    "content_id": "19526",
+    "content_title": "うさぎどし",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2023-01-26 10:00:00",
+    "created_at": "2023-01-20 19:14:33",
+    "updated_at": "2023-01-20 19:14:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16182",
+        "material_title": "0126_kudo_s.jpg",
+        "material_file": "1d07cc2ebbdecff04547e312236ed3b266c316dc7da3b43baa4acc71c3121cf916182.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19526",
+    "content_title": "うさぎどし",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2023-01-26 10:00:00",
+    "created_at": "2023-01-20 19:14:33",
+    "updated_at": "2023-01-20 19:14:33",
+    "content_text": "0126_kudo_s.jpg\r\nブログに載せたのはメガネありですが、メガネなしも撮ってました〜！",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16182",
+        "material_title": "0126_kudo_s.jpg",
+        "material_file": "701eac7865f481e49f4801baa636510c17bf26cb1b0e9fa8e1858ceafa10578216182.jpeg"
+      }
+    ],
+    "previous_id": "19584",
+    "next_id": "19525",
+    "saved_materials": [
+      "assets/19526_16182_0126_kudo_s.jpg"
+    ]
+  }
+}

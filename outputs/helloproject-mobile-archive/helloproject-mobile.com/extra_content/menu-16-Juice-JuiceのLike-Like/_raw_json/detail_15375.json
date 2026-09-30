@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 492,
+    "content_id": "15375",
+    "content_title": "天津飯",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-01-21 19:53:00",
+    "created_at": "2021-01-21 19:54:00",
+    "updated_at": "2021-01-21 19:54:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12806",
+        "material_title": "210121_inaba_s.jpg",
+        "material_file": "1a6f6959f5a2f254da63ceb3e2c22850b9dc9cfe113832c08c194f82cb216a0312806.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15375",
+    "content_title": "天津飯",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-01-21 19:53:00",
+    "created_at": "2021-01-21 19:54:00",
+    "updated_at": "2021-01-21 19:54:00",
+    "content_text": "210121_inaba_s.jpg\r\n先日、初めて作った天津飯！\r\n餃子を作った時に中華にしたいなぁと思って、スープと天津飯にしました！甘酢が難しくて、最初に作ったアンが美味しくなくて。笑\r\nそれを使って調味料を足して、最終的には美味しくできて一安心！しいたけがいい味をだしていました〜。今度は1度で上手く作りたいな！",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12806",
+        "material_title": "210121_inaba_s.jpg",
+        "material_file": "1549618aa421a163439e087ca8773b02b8464900f1e5aa5c75681093722b3dec12806.jpeg"
+      }
+    ],
+    "previous_id": "15376",
+    "next_id": "15299",
+    "saved_materials": [
+      "assets/15375_12806_210121_inaba_s.jpg"
+    ]
+  }
+}

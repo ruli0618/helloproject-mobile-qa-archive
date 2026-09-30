@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 248,
+    "content_id": "17435",
+    "content_title": "宣伝会議#69",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 23:20:00",
+    "created_at": "2021-12-31 23:27:05",
+    "updated_at": "2021-12-31 23:31:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14567",
+        "material_title": "221231_s69_02_s.jpg",
+        "material_file": "d6dfc574a55ebb0dce31b5e61b58d87afa4dbc2f894da2a6554111b30a615e2d14567.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14568",
+        "material_title": "221231_s69_04_s.jpg",
+        "material_file": "92b27aa99d298d8df05e0762a11c0c94f40cfa1235869001fa3e927167c9357e14568.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14569",
+        "material_title": "221231_s69_01_s.jpg",
+        "material_file": "040de7624cc9cc9ca6c21f1524321c44dff2738899e7d8c3f876905a3ee2602614569.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14570",
+        "material_title": "221231_s69_05_s.jpg",
+        "material_file": "1997012360f9913e00ec31cda1cf3430c387ff13dd4dbcc111a412ab03fa954f14570.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14571",
+        "material_title": "221231_s69_03_s.jpg",
+        "material_file": "cce23da486f2bf0889af235d145ebe61a013de33c919667df723c2ebf7d702ec14571.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17435",
+    "content_title": "宣伝会議#69",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 23:20:00",
+    "created_at": "2021-12-31 23:27:05",
+    "updated_at": "2021-12-31 23:31:38",
+    "content_text": "宣伝会議第69回は、野中美希部長、前田こころ書記兼警備兼広報の二人でお届け！\n前回に引き続き、川村副部長はお休みです。\n\n221231_s69_02_s.jpg\n\nラジオ連動の質問企画では、\n・スターバックスの好きなメニュー\n・学生時代に戻ってやってみたい部活は？\nという質問に回答！\n\n続・花鳥風月で驚いた話、\n今年印象に残った出来事、\nTikTokの投稿、\nハロプロ研修生の舞台、\n出雲大社に行ったお話、\n性格診断の結果についてトーク！\n\n221231_s69_01_s.jpg\n\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「島倉りか」さんについて紹介！\nちょっと驚いてしまうような面白エピソードが続出！\n次回のお題は「秋山眞緒」さんです。\n\nほかにも、今年の印象的なお仕事、\n今年の抱負を振り返って、\nクリスマスカードや年賀状の書き物、\n忙しさを乗り越えるリフレッシュ方法、\n漫画・アニメの好きになるキャラの傾向を教えていただきました！\n\n221231_s69_03_s.jpg\n\n↓議事録はこちら！\n221231_s69_05_s.jpg\n\n次回は新春スペシャルとして、譜久村聖さんが出演します！\nお楽しみに！\n\n221231_s69_04_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14567",
+        "material_title": "221231_s69_02_s.jpg",
+        "material_file": "5680161b3310e784b55c92177b14161debda069de1b8f680a86557f718605c2014567.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14568",
+        "material_title": "221231_s69_04_s.jpg",
+        "material_file": "b023eb5b5ecda3e055d00cf7896fd1214ddc7a5072247257818dd82c04321a9414568.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14569",
+        "material_title": "221231_s69_01_s.jpg",
+        "material_file": "508b604f672ff06f9fb65c7feb04d29c84748eb81c722abea8dafb64e530ff4b14569.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14570",
+        "material_title": "221231_s69_05_s.jpg",
+        "material_file": "d625166a2e7fe3aafc532ee305103e97f45fc8f17a8497f9f5ce3a831dfa66d214570.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14571",
+        "material_title": "221231_s69_03_s.jpg",
+        "material_file": "b7ff1264f37e61ded4c71ef9cb888af6c1911b69cd058809d7af4a8bf4ff41de14571.jpeg"
+      }
+    ],
+    "previous_id": "17471",
+    "next_id": "17434",
+    "saved_materials": [
+      "assets/17435_14567_221231_s69_02_s.jpg",
+      "assets/17435_14568_221231_s69_04_s.jpg",
+      "assets/17435_14569_221231_s69_01_s.jpg",
+      "assets/17435_14570_221231_s69_05_s.jpg",
+      "assets/17435_14571_221231_s69_03_s.jpg"
+    ]
+  }
+}

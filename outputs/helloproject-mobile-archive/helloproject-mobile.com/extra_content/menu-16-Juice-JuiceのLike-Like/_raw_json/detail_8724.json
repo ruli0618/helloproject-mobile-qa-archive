@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 740,
+    "content_id": "8724",
+    "content_title": "ゆき！！",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-03-05 11:00:00",
+    "created_at": "2018-03-02 23:33:53",
+    "updated_at": "2018-03-02 23:33:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7624",
+        "material_title": "0305_miyazaki_s.jpg",
+        "material_file": "9a07db6fe49a9cb46ac073f3a3d2c2256f075e77c82a908dac68f0520502653a7624.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8724",
+    "content_title": "ゆき！！",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-03-05 11:00:00",
+    "created_at": "2018-03-02 23:33:53",
+    "updated_at": "2018-03-02 23:33:53",
+    "content_text": "0305_miyazaki_s.jpg\r\n単独ライブ北海道公演のとき段原瑠々ちゃんと雪の上に寝ました♩良い冷たさでした！雪大好き！",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7624",
+        "material_title": "0305_miyazaki_s.jpg",
+        "material_file": "5e10cc4055bce68c6343370b85cda15d93c7cfab49586f988b38dddd1cdff2907624.jpeg"
+      }
+    ],
+    "previous_id": "8726",
+    "next_id": "8455",
+    "saved_materials": [
+      "assets/8724_7624_0305_miyazaki_s.jpg"
+    ]
+  }
+}

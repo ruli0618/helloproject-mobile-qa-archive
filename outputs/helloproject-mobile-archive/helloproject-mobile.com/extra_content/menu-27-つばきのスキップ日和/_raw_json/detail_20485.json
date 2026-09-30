@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 136,
+    "content_id": "20485",
+    "content_title": "HAPPY♡",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2023-07-17 10:00:00",
+    "created_at": "2023-07-14 10:49:56",
+    "updated_at": "2023-07-14 10:49:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "16895",
+        "material_title": "0717_yofu_s.jpg",
+        "material_file": "b3c5f27c6a286cb3bac90887e42e45298f055da2611cfc05ca5d25b2bf6cd52f16895.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20485",
+    "content_title": "HAPPY♡",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2023-07-17 10:00:00",
+    "created_at": "2023-07-14 10:49:56",
+    "updated_at": "2023-07-14 10:49:56",
+    "content_text": "0717_yofu_s.jpg\r\nクッキーandクリームのチーズケーキ作りましたーん！ᐠ( ᐢᐤᐢ )ᐟ\r\n\r\nおもったより上手くいってうれしかったです！\r\nクリームチーズがめっちゃ美味しい。\r\n\r\n豫風瑠乃",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16895",
+        "material_title": "0717_yofu_s.jpg",
+        "material_file": "d7b2f6e7096a8688aa1a8e838513bfbc53454ee235b49b2e47616ff850f440e916895.jpeg"
+      }
+    ],
+    "previous_id": "20486",
+    "next_id": "20484",
+    "saved_materials": [
+      "assets/20485_16895_0717_yofu_s.jpg"
+    ]
+  }
+}

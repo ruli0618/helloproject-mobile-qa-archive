@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 624,
+    "content_id": "6064",
+    "content_title": "工藤の家の天井裏#25　～美人～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-01-12 23:30:00",
+    "created_at": "2017-01-12 23:30:31",
+    "updated_at": "2017-01-12 23:31:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5359",
+        "material_title": "170112_1_s.jpg",
+        "material_file": "6ce3970b0c439850b20a91b02970e0a0883d1f0f275f376f73d77fb51dc8d3ec5359.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5360",
+        "material_title": "170112_2_s.jpg",
+        "material_file": "421f53848a616bf98668d8271b80c258774c4c6b7191acf941858f042f117f275360.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6064",
+    "content_title": "工藤の家の天井裏#25　～美人～",
+    "content_sub_title": "",
+    "release_date": "2017-01-12 23:30:00",
+    "created_at": "2017-01-12 23:30:31",
+    "updated_at": "2017-01-12 23:31:40",
+    "content_text": "やじまの部屋#25公開中！\nスタッフ日記の更新が遅くなりすみません…。\nゲストはJuice=Juiceから4人目の登場！\n植村あかり！\n\nお互いの印象・初対面時の会話から始まり、\n可愛い方言・お正月の過ごし方・天然話・植村の号泣エピソード等など…\nふたりごとでは武道館について語っています。\n\n普段あまり会話をしたことが無いと話していた2人ですが、この密着度。\n\n170112_1_s.jpg\n\n170112_2_s.jpg\n\nそして今回からスタートしたハロプロ大喜利！\n「こんなコンサートは嫌だ」\n答えは放送をお聴き下さい！\n\n次回お題は\n「やじまの部屋の家賃はお金じゃない。では何？」\n\nお題も随時募集中！！\nどしどしお送り下さい！！\n\n\n次回ゲストは、モーニング娘。'17からサブリーダーの生田衣梨奈さん！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5359",
+        "material_title": "170112_1_s.jpg",
+        "material_file": "3eb69eef35e4a518018dc28fd87e518c2927cf0d9db14a1fe182141e83004f4f5359.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5360",
+        "material_title": "170112_2_s.jpg",
+        "material_file": "f9d7c9cff667b9d965e518606bee294639c3a95e701b47866acc563eb3da3d315360.jpeg"
+      }
+    ],
+    "previous_id": "6092",
+    "next_id": "5912",
+    "saved_materials": [
+      "assets/6064_5359_170112_1_s.jpg",
+      "assets/6064_5360_170112_2_s.jpg"
+    ]
+  }
+}

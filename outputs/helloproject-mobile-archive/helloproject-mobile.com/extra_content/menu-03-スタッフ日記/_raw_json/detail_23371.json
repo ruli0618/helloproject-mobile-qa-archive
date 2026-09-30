@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 141,
+    "content_id": "23371",
+    "content_title": "宣伝会議#87",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-06-22 00:00:00",
+    "created_at": "2024-11-28 05:17:48",
+    "updated_at": "2024-11-28 05:17:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19176",
+        "material_title": "87_01_s.jpg",
+        "material_file": "f39e82ed4105af99984363f28430bb42f4e948c3b37c0fa1bdf2fad0683f495619176.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19177",
+        "material_title": "87_02_s.jpg",
+        "material_file": "3be211c17072a9c92f127dd15137ddd20f1e0b36679d9682230cedcaeaaa882b19177.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19178",
+        "material_title": "87.jpg",
+        "material_file": "3d9b2c5f147b62fa54349b2efa5f606ce67df1fad511215f47b047ef39a043c019178.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23371",
+    "content_title": "宣伝会議#87",
+    "content_sub_title": "",
+    "release_date": "2023-06-22 00:00:00",
+    "created_at": "2024-11-28 05:17:48",
+    "updated_at": "2024-11-28 05:17:48",
+    "content_text": "宣伝会議第87回は、川村文乃副部長・入江里咲書記の二人でお届け！\r\n\r\n87_01_s.jpg\r\n\r\n前編では、\r\n・教育係\r\n・川嶋美楓お披露目\r\n・声出し解禁\r\n・武道館生中継\r\n・コール&レスポンス\r\n・ライブに最適な靴下\r\n・新曲初披露\r\n・新メンバー加入発表\r\nについてトーク！\r\n\r\n後編では、\r\n・旅でどんな話をしたか\r\n・新曲の魅力\r\n・生まれ変わったらなりたい動物\r\n・フェス楽しみにしていること\r\n・ロッキンのアドバイス\r\n・どのコールをしたい？\r\n・私立恵比寿中学\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「小野田紗栞」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n87.jpg\r\n\r\n87_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "19176",
+        "material_title": "87_01_s.jpg",
+        "material_file": "af13017d0ff39cae8a500adf08fc05ee2bb77153506322c372deef2cbcc5f28119176.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "19177",
+        "material_title": "87_02_s.jpg",
+        "material_file": "3d02506f5b65de6953189ca5446ef44e47249851517f7aab6030745c2edafede19177.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "19178",
+        "material_title": "87.jpg",
+        "material_file": "8be5515599db34e0ae3567f673e064494a8a465d72336cfc107e1bf26a23413d19178.jpeg"
+      }
+    ],
+    "previous_id": "20421",
+    "next_id": "20393",
+    "saved_materials": [
+      "assets/23371_19176_87_01_s.jpg",
+      "assets/23371_19177_87_02_s.jpg",
+      "assets/23371_19178_87.jpg"
+    ]
+  }
+}

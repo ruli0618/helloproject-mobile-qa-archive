@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 108,
+    "content_id": "21928",
+    "content_title": "写真",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2024-03-29 10:00:00",
+    "created_at": "2024-03-18 19:25:19",
+    "updated_at": "2024-03-18 19:25:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17992",
+        "material_title": "0329_akiyama_s.jpg",
+        "material_file": "1cfbb194f6fd905814c9d9f0a363024843691a8e75e772b5efb155ae40e321b017992.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21928",
+    "content_title": "写真",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2024-03-29 10:00:00",
+    "created_at": "2024-03-18 19:25:19",
+    "updated_at": "2024-03-18 19:25:19",
+    "content_text": "0329_akiyama_s.jpg\r\nこんにちは、秋山眞緒です<img src=\"/emoji/emoji-images/f6bc.gif\"/>\r\nわたし写真撮るのが好きでよく色々な場面を撮るんですけどフォルダーの量がどんどん増えちゃってて大変<img src=\"/emoji/emoji-images/f3a1.gif\"/>見返すのも好きだからあまり消さないのだけど共有したいのもいっぱいあるから出来るだけ更新するね♡\r\n\r\nあなたはお気に入りの写真とかあるかな？\r\n\r\nこれからも大切な瞬間をたくさん収めたい<img src=\"/emoji/emoji-images/f399.gif\"/>思い出が形に残るの嬉しいんだあ♡",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17992",
+        "material_title": "0329_akiyama_s.jpg",
+        "material_file": "de445fb69ae810449db69b8bd2bf56e058f92edcbf40de2a5265c63007425c3f17992.jpeg"
+      }
+    ],
+    "previous_id": "22010",
+    "next_id": "21927",
+    "saved_materials": [
+      "assets/21928_17992_0329_akiyama_s.jpg"
+    ]
+  }
+}

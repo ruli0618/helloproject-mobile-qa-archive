@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 526,
+    "content_id": "8681",
+    "content_title": "工藤の家の屋根裏部屋#18～和田桜子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-02-27 23:08:00",
+    "created_at": "2018-02-27 23:09:04",
+    "updated_at": "2018-02-27 23:09:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7600",
+        "material_title": "180227_02_02_s.jpg",
+        "material_file": "5840550af3268de0c7c74d2a840a18ba5a285fa327dfbb2fd9b489cb8735d8717600.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7601",
+        "material_title": "180227_02_01_s.jpg",
+        "material_file": "78e3378b357dc505f897c106ad2cb52fb9f35e6ec37f03ef0f9308e90b3b40eb7601.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8681",
+    "content_title": "工藤の家の屋根裏部屋#18～和田桜子～",
+    "content_sub_title": "",
+    "release_date": "2018-02-27 23:08:00",
+    "created_at": "2018-02-27 23:09:04",
+    "updated_at": "2018-02-27 23:09:04",
+    "content_text": "「ふくむらの部屋」18回目の配信開始しました。\r\n今回のゲストはこぶしファクトリーの和田桜子さん！！\r\n\r\n\r\n180227_02_01_s.jpg\r\n\r\n\r\n現在準備中の春ツアートークからスタートです！\r\n\r\n最近愛猫のプラムちゃんに浮気気味（?）な譜久村さんですが\r\nお互い犬を飼っているということで愛犬トークでも盛り上がっていますよ！\r\n\r\n\r\nみずき先生のハロプロ講座では　\r\nこぶしファクトリーをはじめ、ハロー！プロジェクトの数々の楽曲を作って頂いている\r\n星部ショウさんについてもお話ししています！\r\n\r\n\r\n180227_02_02_s.jpg\r\n\r\n\r\nみずきの究極セレクションでは\r\n二人ともやっぱり〇〇からの誘いには断れない!?\r\n意外にも（!?）アクティブな和田さんが選んだぶっつけ本番で挑戦する冬季オリンピック競技とは？\r\n\r\n今回はハロー！プロジェクト以外でお互いが普段よく聴くアーティストさんの話題でもトーク。\r\n他のアーティストさんから勉強していることとは？\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\r\n普通のお便りや新コーナー案も引き続き募集中です！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7600",
+        "material_title": "180227_02_02_s.jpg",
+        "material_file": "d0eff8e791cfdc437ae7858243666c2fc6e954f9147fabe398b311a2a2b9f8d57600.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7601",
+        "material_title": "180227_02_01_s.jpg",
+        "material_file": "4ba61c6aa5a705af176e1e1ff1769f3a61bac8640b1a5b894875a4d29f74e8717601.jpeg"
+      }
+    ],
+    "previous_id": "8746",
+    "next_id": "8679",
+    "saved_materials": [
+      "assets/8681_7600_180227_02_02_s.jpg",
+      "assets/8681_7601_180227_02_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 167,
+    "content_id": "22729",
+    "content_title": "元気が出る写真",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2024-08-19 10:00:00",
+    "created_at": "2024-08-14 18:01:40",
+    "updated_at": "2024-08-14 18:01:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18604",
+        "material_title": "0819_nishida_s.jpg",
+        "material_file": "e248286fe62cd00929ba363c6ced779366c8bf72524530ac746b14677379839318604.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22729",
+    "content_title": "元気が出る写真",
+    "content_sub_title": "西田汐里",
+    "release_date": "2024-08-19 10:00:00",
+    "created_at": "2024-08-14 18:01:40",
+    "updated_at": "2024-08-14 18:01:40",
+    "content_text": "0819_nishida_s.jpg\r\n小林萌花ちゃんと食べた串カツ！ふとした瞬間に見ると美味しかったの思い出す！\r\n\r\n【36周目お題：ふとした瞬間】",
+    "materials": [
+      {
+        "secretKey": "2f531f5d86a8224ad1c65137d0cc4dd2",
+        "material_id": "18604",
+        "material_title": "0819_nishida_s.jpg",
+        "material_file": "2ebc8f0e0e490903d4d7c0e6f8fd498eb2b1b64687aca329123b15faf364a3d718604.jpeg"
+      }
+    ],
+    "previous_id": "22730",
+    "next_id": "22728",
+    "saved_materials": [
+      "assets/22729_18604_0819_nishida_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 141,
+    "content_id": "22791",
+    "content_title": "なじむ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-08-29 10:00:00",
+    "created_at": "2024-08-27 14:09:31",
+    "updated_at": "2024-08-27 14:09:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18661",
+        "material_title": "0829_kudo_s.jpg",
+        "material_file": "50b1d7c3e5350a24cb51129bd6da1357f49d102678c93f227fbd595983703a6618661.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22791",
+    "content_title": "なじむ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-08-29 10:00:00",
+    "created_at": "2024-08-27 14:09:31",
+    "updated_at": "2024-08-27 14:09:31",
+    "content_text": "0829_kudo_s.jpg\r\nこのタコTは、私服として着てもよく馴染むのですよ♡",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18661",
+        "material_title": "0829_kudo_s.jpg",
+        "material_file": "ed8c4f9e3f901061e101e97675e521a11a00327c32cae036bacb7ffe32a84b0b18661.jpeg"
+      }
+    ],
+    "previous_id": "22843",
+    "next_id": "22790",
+    "saved_materials": [
+      "assets/22791_18661_0829_kudo_s.jpg"
+    ]
+  }
+}

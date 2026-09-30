@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 20,
+    "content_id": "19451",
+    "content_title": "メイク",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2023-01-06 10:00:00",
+    "created_at": "2022-12-23 14:14:39",
+    "updated_at": "2022-12-23 14:14:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16132",
+        "material_title": "0106_akiyama_s.jpg",
+        "material_file": "30f9794f59d28579d94ccff6dac1261be7b972fbabf768d98a7b4528b04c6cb216132.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19451",
+    "content_title": "メイク",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2023-01-06 10:00:00",
+    "created_at": "2022-12-23 14:14:39",
+    "updated_at": "2022-12-23 14:14:39",
+    "content_text": "0106_akiyama_s.jpg\r\n最近は今までしてこなかったようなメイクをしてみたり使ってなかったリップ塗ってみたり色々挑戦してみてます(^^)\r\n\r\nたのしい〜\r\n\r\n自分にどんなメイクが似合うのかこれからも研究していきたいなあ\r\n\r\nメイクもっと上手になりたいい\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16132",
+        "material_title": "0106_akiyama_s.jpg",
+        "material_file": "ad55c844cd9bbbc365874133bd586ed842db785c2a53958a8158a056bbd912f116132.jpeg"
+      }
+    ],
+    "previous_id": "19504",
+    "next_id": "19452",
+    "saved_materials": [
+      "assets/19451_16132_0106_akiyama_s.jpg"
+    ]
+  }
+}

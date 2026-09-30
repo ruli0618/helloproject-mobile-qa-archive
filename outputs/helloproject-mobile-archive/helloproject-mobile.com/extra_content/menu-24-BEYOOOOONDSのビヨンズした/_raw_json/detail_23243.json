@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 148,
+    "content_id": "23243",
+    "content_title": "ピース",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2024-11-13 10:00:00",
+    "created_at": "2024-11-11 11:30:22",
+    "updated_at": "2024-11-11 11:30:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19039",
+        "material_title": "1113_eguchi_s.jpg",
+        "material_file": "fb96ea8f02198e3af10e67453d8e14065e4ac82e592d2846ea6408e440019f1519039.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23243",
+    "content_title": "ピース",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2024-11-13 10:00:00",
+    "created_at": "2024-11-11 11:30:22",
+    "updated_at": "2024-11-11 11:30:22",
+    "content_text": "1113_eguchi_s.jpg\r\nポーズは大体ピースになっちゃいます！\r\n\r\n【38周目お題：はいチーズ！】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "19039",
+        "material_title": "1113_eguchi_s.jpg",
+        "material_file": "193a1f1bb8c8d6c43aa218ec8c253e8ec9bdd94b8742ea2375e1d6cf1e2211b719039.jpeg"
+      }
+    ],
+    "previous_id": "23245",
+    "next_id": "23242",
+    "saved_materials": [
+      "assets/23243_19039_1113_eguchi_s.jpg"
+    ]
+  }
+}

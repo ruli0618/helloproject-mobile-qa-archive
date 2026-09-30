@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 320,
+    "content_id": "19078",
+    "content_title": "赤",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2022-11-08 10:00:00",
+    "created_at": "2022-11-02 20:53:26",
+    "updated_at": "2022-11-02 20:53:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15861",
+        "material_title": "1108_dambara_s.jpg",
+        "material_file": "4047db746bc54dbdf0836e7cd6743b11f6bce2480d70715341f984f596cc6cc915861.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19078",
+    "content_title": "赤",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2022-11-08 10:00:00",
+    "created_at": "2022-11-02 20:53:26",
+    "updated_at": "2022-11-02 20:53:26",
+    "content_text": "1108_dambara_s.jpg\r\n秋冬に着る赤色が好きです<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15861",
+        "material_title": "1108_dambara_s.jpg",
+        "material_file": "4734c452bb2d5581890a051f53d582517d13ad9798032a69df2fd3082a3e1b0f15861.jpeg"
+      }
+    ],
+    "previous_id": "19079",
+    "next_id": "19038",
+    "saved_materials": [
+      "assets/19078_15861_1108_dambara_s.jpg"
+    ]
+  }
+}

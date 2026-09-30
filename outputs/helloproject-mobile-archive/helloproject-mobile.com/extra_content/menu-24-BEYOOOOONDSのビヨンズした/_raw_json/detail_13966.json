@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 458,
+    "content_id": "13966",
+    "content_title": "仲良し最年少コンビ！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2020-07-13 10:00:00",
+    "created_at": "2020-06-11 18:21:16",
+    "updated_at": "2020-06-11 18:21:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11647",
+        "material_title": "0713_satoyoshi_s.jpg",
+        "material_file": "3c27105f121825c635cb6f7b6b9ada2c37b514c5434bcec62e89368689a3aa4f11647.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13966",
+    "content_title": "仲良し最年少コンビ！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2020-07-13 10:00:00",
+    "created_at": "2020-06-11 18:21:16",
+    "updated_at": "2020-06-11 18:21:16",
+    "content_text": "0713_satoyoshi_s.jpg\r\nDVD MAGAZINE Vol.2の撮影の休憩中に撮った1枚！\r\nお隣同士でずーっと仲良く遊んでいて癒されました♡\r\n\r\n【3周目お題：メンバーのベストショット】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11647",
+        "material_title": "0713_satoyoshi_s.jpg",
+        "material_file": "0c45ff1b1a70136ba450aba7a51931d4c79e519fca1a8cf6b24f749cc4cb4adb11647.jpeg"
+      }
+    ],
+    "previous_id": "13967",
+    "next_id": "13964",
+    "saved_materials": [
+      "assets/13966_11647_0713_satoyoshi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 81,
+    "content_id": "10228",
+    "content_title": "不思議！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-11-05 12:48:00",
+    "created_at": "2018-11-05 12:48:48",
+    "updated_at": "2018-11-05 12:48:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8874",
+        "material_title": "1105_ono_s.jpg",
+        "material_file": "1ab70fac2c4dce19239a5d58484111cd59aaaf7c6fb59f41346fc223a30106928874.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10228",
+    "content_title": "不思議！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-11-05 12:48:00",
+    "created_at": "2018-11-05 12:48:48",
+    "updated_at": "2018-11-05 12:48:48",
+    "content_text": "1105_ono_s.jpg\r\n\r\nこの前道を歩いてたら、\r\n不思議なお花を見つけました。\r\n\r\n1つのお花なのに色が2色なんです〜！\r\nびっくりじゃない？？\r\n\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8874",
+        "material_title": "1105_ono_s.jpg",
+        "material_file": "7318a212c0b1169c82400bd9cfd72f8a2adb43b163739ea0c13e09391465df348874.jpeg"
+      }
+    ],
+    "previous_id": "10247",
+    "next_id": "10110",
+    "saved_materials": [
+      "assets/10228_8874_1105_ono_s.jpg"
+    ]
+  }
+}

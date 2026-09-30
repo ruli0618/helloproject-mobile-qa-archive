@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 463,
+    "content_id": "10284",
+    "content_title": "隣のやじまん家の塀の裏#35 牧野真莉愛",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-19 17:00:00",
+    "created_at": "2018-11-19 16:55:11",
+    "updated_at": "2018-11-19 16:59:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8911",
+        "material_title": "181114_01.jpg",
+        "material_file": "4f8870840ac00bab695865f057478be3ed686830cc2932bdb43dd145c3ff60d28911.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8912",
+        "material_title": "181114_02.jpg",
+        "material_file": "79238faf346338ae8f0c3f3bb635e8589b181748cc298c6f1f8bf38cdfad0c998912.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8913",
+        "material_title": "181114_03_s.jpg",
+        "material_file": "1fd9b256d324286f0a5b7572b2f008264e7a85b184a4f67c99afbd37a9252af68913.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10284",
+    "content_title": "隣のやじまん家の塀の裏#35 牧野真莉愛",
+    "content_sub_title": "",
+    "release_date": "2018-11-19 17:00:00",
+    "created_at": "2018-11-19 16:55:11",
+    "updated_at": "2018-11-19 16:59:34",
+    "content_text": "隣のやじまん家#35公開中！\nスタッフ日記の更新が遅くなり、申し訳ありません<img src=\"/emoji/emoji-images/f7ce.gif\"/>\n\n今回は、モーニング娘。'18から海外に行く前の牧野真莉愛さんがゲスト出演！\n\n二人は意外と共通点が多いようで…、\nハロプロ研修生時代の℃-uteライブ帯同エピソードや、\nバースデーイベントで歌った℃-ute曲についてもお話されています。\n\n181114_03_s.jpg\n\n二人であるキャラのお絵かきも行いました！\n何のキャラクターか分かりますか？\n\n\n181114_02.jpg\n<a href=\"https://www.fighters.co.jp/entertainment/mascot/\" target=\"_blank\">★正解はこちら(リンク先上から3番目)</a>\n\n\n181114_01.jpg\n<a href=\"https://www.facebook.com/giabbit\" target=\"_blank\">★正解はこちら</a>\n\n\n「目指せアクトレス矢島」では、\n矢島さんのレアな○○○○姿がお聴き頂けます♪\n\n皆さんのお便りで成り立っている「隣のやじまん家」。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、11月に誕生日を迎える方からのお便りを募集！\n11月お誕生日の方は、ここがラストです！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n次回はJuice=Juice、宮本佳林さんが出演！\n11/20(火)午前11:00まで、メール受付中♪\n\n沢山のお便りお待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8911",
+        "material_title": "181114_01.jpg",
+        "material_file": "91163c91bb59b57b28b406e796e323661d1049be2e9f92db1d2fc054bba1e89e8911.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8912",
+        "material_title": "181114_02.jpg",
+        "material_file": "f1e32e80480d0d230aec770a8897a10db25c3bbe1674a86247ebfa4ee5ef70b98912.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8913",
+        "material_title": "181114_03_s.jpg",
+        "material_file": "18931b5904f9964247dcc6c0d00ae5be671a3ab11e513bec7e3a28a64bb190df8913.jpeg"
+      }
+    ],
+    "previous_id": "10288",
+    "next_id": "10246",
+    "saved_materials": [
+      "assets/10284_8911_181114_01.jpg",
+      "assets/10284_8912_181114_02.jpg",
+      "assets/10284_8913_181114_03_s.jpg"
+    ]
+  }
+}

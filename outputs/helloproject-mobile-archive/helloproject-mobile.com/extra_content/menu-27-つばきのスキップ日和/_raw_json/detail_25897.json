@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 35,
+    "content_id": "25897",
+    "content_title": "いちご",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2026-05-08 10:00:00",
+    "created_at": "2026-03-13 23:53:09",
+    "updated_at": "2026-03-13 23:53:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21220",
+        "material_title": "0508_kasai_s.jpg",
+        "material_file": "ee450659c85a6039a06e55d5a0e32de22291b4c466e0ebd476ec28c26ce7f46421220.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25897",
+    "content_title": "いちご",
+    "content_sub_title": "河西結心",
+    "release_date": "2026-05-08 10:00:00",
+    "created_at": "2026-03-13 23:53:09",
+    "updated_at": "2026-03-13 23:53:09",
+    "content_text": "0508_kasai_s.jpg\r\nやっほー！<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n結心です！！\r\n\r\n先日父親といちご狩りしてきたよ！！いろんな種類をたーくさん食べれて幸せだったな〜〜\r\n\r\n今年の春、夏は桃狩りも\r\nぶどう狩りもやりたい！\r\n\r\n季節ごとに果物を楽しめるの最高！！あなたは何狩りしたい？\r\n\r\nそれじゃまたね！！",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21220",
+        "material_title": "0508_kasai_s.jpg",
+        "material_file": "8864770cca3ae4bbc99a927864e9a86a37fa04490cbe420f809bfdf3630b6f7321220.jpeg"
+      }
+    ],
+    "previous_id": "26004",
+    "next_id": "25896",
+    "saved_materials": [
+      "assets/25897_21220_0508_kasai_s.jpg"
+    ]
+  }
+}

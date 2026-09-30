@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 631,
+    "content_id": "5765",
+    "content_title": "工藤の家の天井裏#22　～おてんば～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-11-18 21:16:00",
+    "created_at": "2016-11-18 21:14:31",
+    "updated_at": "2016-11-18 21:17:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5154",
+        "material_title": "161118_1_s.jpg",
+        "material_file": "6770adb8cfcb9ad65284c2da75fa4b6fc00f758f0c9577d75813e8aed7ef2d755154.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5155",
+        "material_title": "161118_2.jpg",
+        "material_file": "5702d029d879d7eb07a8c90a9eaa6f32dd498727cacd50ffb1dafefbaa525e785155.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5765",
+    "content_title": "工藤の家の天井裏#22　～おてんば～",
+    "content_sub_title": "",
+    "release_date": "2016-11-18 21:16:00",
+    "created_at": "2016-11-18 21:14:31",
+    "updated_at": "2016-11-18 21:17:07",
+    "content_text": "大事件です！\n「やじまの森やな」の番組名がまたまた変更となりました。\n\n喜ぶ矢島さんと、落ち込む山木さん。\n\n161118_1_s.jpg\n\n事の顛末を知りたい方は、公開中の#22をお聞き下さい。\n\n山木さん大好きカエル話から2人の幼少時代、\nグラビア撮影の裏話に、お鍋談義や怒った時のエピソード、\n6月に卒業を控えるももち先輩に関するお話もたっぷりお届け！\n\n「犯人を追え」コーナーで、2人(ほとんど山木さん)が描いた似顔絵はこちら。 \n\n161118_2.jpg\n\nそれでは、次回ゲストもご期待下さい！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5154",
+        "material_title": "161118_1_s.jpg",
+        "material_file": "65fe358b3f2ade742effe7f359a4bfd6aa2fc6af2b6821a1c8fa65114504d4695154.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5155",
+        "material_title": "161118_2.jpg",
+        "material_file": "63e58bada433de4e4d5a75f2adf97df12bd9cd2a949812318b09bfcbd535d7f45155.jpeg"
+      }
+    ],
+    "previous_id": "5777",
+    "next_id": "5709",
+    "saved_materials": [
+      "assets/5765_5154_161118_1_s.jpg",
+      "assets/5765_5155_161118_2.jpg"
+    ]
+  }
+}

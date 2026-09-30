@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 516,
+    "content_id": "8846",
+    "content_title": "尾形部長のブログ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-04-09 21:08:00",
+    "created_at": "2018-04-09 21:03:53",
+    "updated_at": "2018-04-09 21:09:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8846",
+    "content_title": "尾形部長のブログ",
+    "content_sub_title": "",
+    "release_date": "2018-04-09 21:08:00",
+    "created_at": "2018-04-09 21:03:53",
+    "updated_at": "2018-04-09 21:09:06",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\n4/6(金)に更新された尾形部長のブログは読みましたか？\n\n1枚目の写真、モーニング娘。'18 12期の4人が遊んでいるものは…？\n\n<a href=\"https://ameblo.jp/mm-12ki/entry-12366347747.html\" target=\"_blank\">★ブログはこちらから★</a>\n\n\nハロ！モバかるた2018のお申込み受付は、\n<b>4月15日(日)23:59</b>までです！\n\nSATOYAMA＆SATOUMIイベントで買い逃してしまったそこのあなた！\n\nこの機会を逃すともう手に入らない商品ですので、ぜひご検討下さい♪\n\n<a href=\"https://www.elineupmall.com/c182/c1074/hello-project-2018-2018-ja/\" target=\"_blank\">★商品のお申込みはこちらから★</a>\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8850",
+    "next_id": "8820",
+    "saved_materials": []
+  }
+}

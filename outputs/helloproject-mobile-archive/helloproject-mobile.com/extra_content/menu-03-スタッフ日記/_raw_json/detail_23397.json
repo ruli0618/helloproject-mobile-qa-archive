@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 72,
+    "content_id": "23397",
+    "content_title": "宣伝会議#104",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-11-21 00:00:00",
+    "created_at": "2024-11-28 18:32:01",
+    "updated_at": "2024-11-28 18:32:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19240",
+        "material_title": "104_02_s.jpg",
+        "material_file": "19ddedb8c4d8ba23c46899fa9c80724c3498dc46488a5803a0a3ccf84ea16d2c19240.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19241",
+        "material_title": "104.jpg",
+        "material_file": "b6339319fb1d0de791099a2ee294cb1256a606762790970db1b623187af584b619241.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19242",
+        "material_title": "104_03_s.jpg",
+        "material_file": "18dbe226f9b522b7cdc8baaf5e39e52d4cf5347a9cf052bf313306783ad2dbbc19242.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19243",
+        "material_title": "104_01_s.jpg",
+        "material_file": "8023a450d1169e088d49e268406ccd32439b593e02eafbf1110e33fafb17d2cf19243.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23397",
+    "content_title": "宣伝会議#104",
+    "content_sub_title": "",
+    "release_date": "2024-11-21 00:00:00",
+    "created_at": "2024-11-28 18:32:01",
+    "updated_at": "2024-11-28 18:32:01",
+    "content_text": "宣伝会議第104回は、野中美希部長・川村文乃副部長・前田こころ警備兼広報の三人でお届け！\r\n\r\n104_01_s.jpg\r\n\r\n前編ではまず「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナー。\r\n「岡村ほまれ」さんについて紹介！\r\n\r\n次の議題にうつる際に、サプライズでケーキをプレゼント！\r\n\r\n104_03_s.jpg\r\n\r\nケーキを持ちながら妄想動画も撮影しましたので、<a href=\"http://helloproject-mobile.com/info/movie?menu_id=17\" >ハロー！ムービー</a>ぜひチェックお願いします！\r\n\r\n川村文乃副部長ラスト出演ということで、お便りを読みながらこれまでの思い出話をたくさんしました！\r\n第一印象から現在の印象の違いを話したり、感謝状の贈呈も行われました。\r\n\r\n後編では、部員が加入するというお知らせが！\r\n新入部員は、ロージークロニクルから来てくれることに決まりました。\r\n\r\n今回は宣伝部員で話し合って、新入部員の候補を3人まで決めました。\r\n新入部員は次回の宣伝会議から出演しますので、誰が登場するのか楽しみにしていてくださいね♬\r\n\r\n励ましのメールでは、\r\n・小田さくらと観戦したバスケの試合\r\n・三島のマンホール\r\n・月刊わんこにとうふ出演\r\n・オンオフの切り替え\r\n・FSKのポーズ\r\nについてトーク！\r\n\r\n↓議事録はこちら！\r\n104.jpg\r\n\r\n104_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19240",
+        "material_title": "104_02_s.jpg",
+        "material_file": "8abb16c9fcede25a3015f7ddf5f1343d9c62cd36f56c56f5a63a4244f28666ae19240.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19241",
+        "material_title": "104.jpg",
+        "material_file": "8f5ff49c1541a2cd4fe2f1d76a02aeb9bdd9c32c747013c34b8e765750027a4f19241.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19242",
+        "material_title": "104_03_s.jpg",
+        "material_file": "ecc494b34be804dccd339a48f50679d304771b7e73aa3e9da5df59e063e0171919242.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19243",
+        "material_title": "104_01_s.jpg",
+        "material_file": "d394a14295a574dbf3db20293c18a2a508e3744c37ce3c525eae09bbd6335ad919243.jpeg"
+      }
+    ],
+    "previous_id": "23352",
+    "next_id": "26974",
+    "saved_materials": [
+      "assets/23397_19240_104_02_s.jpg",
+      "assets/23397_19241_104.jpg",
+      "assets/23397_19242_104_03_s.jpg",
+      "assets/23397_19243_104_01_s.jpg"
+    ]
+  }
+}

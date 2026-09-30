@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 365,
+    "content_id": "12910",
+    "content_title": "工藤の家の屋根裏部屋#66～山﨑愛生～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-01-22 20:52:00",
+    "created_at": "2020-01-22 20:38:07",
+    "updated_at": "2020-01-22 20:53:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10922",
+        "material_title": "200122_04_s.jpg",
+        "material_file": "8c0fcc0a8ca23befe37775f2eeaabd9ec085c6da9e04322dad850808d145731510922.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10923",
+        "material_title": "200122_03_s.jpg",
+        "material_file": "62dcd8460af98617ed7d9023782fbf4feaba42ba56cf1b7c32633c6ed7e5ea7410923.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10924",
+        "material_title": "200122_02_s.jpg",
+        "material_file": "3310a5bb31c18d7fbbb3bb6d5ec61335c4f47081021f2822cb5cd798603156a110924.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10925",
+        "material_title": "200122_01_s.jpg",
+        "material_file": "bd13b75bccf57bca84e9f5fb34c040ab088bc61d83c78c8a0574264126d0a86a10925.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12910",
+    "content_title": "工藤の家の屋根裏部屋#66～山﨑愛生～",
+    "content_sub_title": "",
+    "release_date": "2020-01-22 20:52:00",
+    "created_at": "2020-01-22 20:38:07",
+    "updated_at": "2020-01-22 20:53:30",
+    "content_text": "ふくむらの部屋 第66回配信中！\n\nゲストは、モーニング娘。'20の15期メンバーから二人目、山﨑愛生さんが来てくれました！\n\n200122_03_s.jpg\n(このパンダさんの髪留めはおニューだそうです)\n\n山﨑さんが大好きなパンダさんのお話はもちろん、\nパンダさんに限らず山﨑さんのパーソナルな部分についても、沢山お話してくれました♪\n\n200122_02_s.jpg\n\n北海道と東京の違う点、\n成人式の晴れ着や、ツアーで成長したこと、\nプッチベストの選曲、教育係の13期メンバーに関しても！\n\n200122_01_s.jpg\n\nハロプロ名場面のコーナーでは、岡村ほまれさんの○○に関する川柳が多数届きました！\n\nコラボ企画では、こちら↓の質問に回答！\n\n200122_04_s.jpg\n\n次回は、こぶしファクトリー浜浦彩乃さんが登場！\n現在メールを募集しており、1/24(金)16:00まで受付中！\n\n回替りコーナーは「悩みをキラーンと解決」です。\n\n<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n沢山のお便りお待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "10922",
+        "material_title": "200122_04_s.jpg",
+        "material_file": "2374f0b5958971c85dbb368e381beccd78e66e18aae3ffc94a921e472de3941010922.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "10923",
+        "material_title": "200122_03_s.jpg",
+        "material_file": "e33563e2767311263445a8572cf732872acd321a117f582fc665d823f067096510923.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "10924",
+        "material_title": "200122_02_s.jpg",
+        "material_file": "0923c5bc02944642c24627515f1ebf9d68e551f70330ba6555c25ddf1704fa3910924.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "10925",
+        "material_title": "200122_01_s.jpg",
+        "material_file": "0b9ad961c15ff56e249b7aebb197d1c37558dc658a7b43e8ca650eb3317e27f910925.jpeg"
+      }
+    ],
+    "previous_id": "12997",
+    "next_id": "12898",
+    "saved_materials": [
+      "assets/12910_10922_200122_04_s.jpg",
+      "assets/12910_10923_200122_03_s.jpg",
+      "assets/12910_10924_200122_02_s.jpg",
+      "assets/12910_10925_200122_01_s.jpg"
+    ]
+  }
+}

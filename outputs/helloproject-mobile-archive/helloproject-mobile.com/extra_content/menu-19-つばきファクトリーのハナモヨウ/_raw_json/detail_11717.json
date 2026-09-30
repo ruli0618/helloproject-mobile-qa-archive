@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 42,
+    "content_id": "11717",
+    "content_title": "いろいろ",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2019-07-05 14:55:00",
+    "created_at": "2019-07-05 14:55:43",
+    "updated_at": "2019-07-05 14:55:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9998",
+        "material_title": "0705_tanimoto_s.jpg",
+        "material_file": "53ffb50269d68fe2ce4cafaa57490ffe125c6b4a1c8b92e8b23cc91ee1f203409998.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11717",
+    "content_title": "いろいろ",
+    "content_sub_title": "谷本安美",
+    "release_date": "2019-07-05 14:55:00",
+    "created_at": "2019-07-05 14:55:43",
+    "updated_at": "2019-07-05 14:55:43",
+    "content_text": "0705_tanimoto_s.jpg\r\n花壇には、色々な色の\r\nお花がたくさん咲いていて\r\nとっても可愛いです！！\r\nみなさんも花壇のお花見てみてくださーい",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9998",
+        "material_title": "0705_tanimoto_s.jpg",
+        "material_file": "dddac3992866f14308cd3dc47ad7e1988873d17d2be814390add5f7fe6a1d4ff9998.jpeg"
+      }
+    ],
+    "previous_id": "11749",
+    "next_id": "11669",
+    "saved_materials": [
+      "assets/11717_9998_0705_tanimoto_s.jpg"
+    ]
+  }
+}

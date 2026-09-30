@@ -1,0 +1,124 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 251,
+    "content_id": "17432",
+    "content_title": "工藤の家の屋根裏部屋#98～川名凜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 21:47:00",
+    "created_at": "2021-12-31 22:24:53",
+    "updated_at": "2021-12-31 22:36:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14554",
+        "material_title": "221231_f98_03_s.jpg",
+        "material_file": "297f798cac807c2715f1de40068551ad54cb0b88a7d4093e421bc74a38bd611614554.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14555",
+        "material_title": "221231_f98_01_s.jpg",
+        "material_file": "8990ad97d43261608dd9acaaf018937120403cb3b6abaad3d8f96831b4ade18d14555.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14556",
+        "material_title": "221231_f98_05_s.jpg",
+        "material_file": "0a524ed03bbbdaa46d08ccb3eec23f4bebbae4cf201393f1002396c98ed973cd14556.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14557",
+        "material_title": "221231_f98_04_s.jpg",
+        "material_file": "ee394594f4445e3ca45d3d6a7743cc4b102c2bc2372a8b7540cb90c2964b6fe714557.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14558",
+        "material_title": "221231_f98_06_s.jpg",
+        "material_file": "4200240a47406da12ccc53ea61c1fe8e626dbf2ccedc39d0a30806f7cac964cd14558.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14559",
+        "material_title": "221231_f98_02_s.jpg",
+        "material_file": "8796b9be59b1587a0ea179686b0ba7513fd94ac545793cd4993f05fd3bed765a14559.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17432",
+    "content_title": "工藤の家の屋根裏部屋#98～川名凜～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 21:47:00",
+    "created_at": "2021-12-31 22:24:53",
+    "updated_at": "2021-12-31 22:36:37",
+    "content_text": "ふくむらの部屋 第98回のゲストは、アンジュルム川名凜さん！\n\n221231_f98_03_s.jpg\n\nバースデーイベントでカエルまんじゅうがプレゼントされた青柳総本家さんのお話からスタート！\n思い出に残っている公演、ゲテモノ料理を食べにいった時のお話、佐藤優樹さん卒業ライブの裏側についてもトーク！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・リハーサル\n・武道館\n・佐藤優樹\n・振り付けが付いてからイメージが変わった曲\nを語って頂きました。\n\n221231_f98_01_s.jpg\n\n「ハロプロファン失敗談」のコーナーでは、\nシフト制のお仕事でライブのためお休みをとったと思ったら…\nライブ会場で思わずメガネを…と、同じ方からの失敗エピソードを紹介！\n\nぜひ、お聴き下さい♬\n\n多めに撮っていた写真もどうぞ↓\n\n221231_f98_05_s.jpg\n\n221231_f98_04_s.jpg\n\n221231_f98_06_s.jpg\n\n221231_f98_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14554",
+        "material_title": "221231_f98_03_s.jpg",
+        "material_file": "fe0e23e45a49dab29653a1b8707735f1e6bcb1a0fe9cbbb762e310e3a54e149a14554.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14555",
+        "material_title": "221231_f98_01_s.jpg",
+        "material_file": "33632ebc33f18f5d3ff64edd14232291b5a74c81bbbe2bcf4ce0747762b4b91714555.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14556",
+        "material_title": "221231_f98_05_s.jpg",
+        "material_file": "089538c16177d9eed3ea6114bfb9f24141ba9dd4ba8527bdadd1c43a19a63cfa14556.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14557",
+        "material_title": "221231_f98_04_s.jpg",
+        "material_file": "1151af9c2ea76f3580fb6073ccd49e4e4d45f23b880eba2bf156bf4fd9ce9c6214557.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14558",
+        "material_title": "221231_f98_06_s.jpg",
+        "material_file": "fd1fb8b6197fa9bcb1aede407edb770176eb722bc224da5d163ada9abdeac10a14558.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14559",
+        "material_title": "221231_f98_02_s.jpg",
+        "material_file": "0474307e922e7323644c6532fd94337fc11b021fcb73db4886930dcc82cd171214559.jpeg"
+      }
+    ],
+    "previous_id": "17433",
+    "next_id": "17431",
+    "saved_materials": [
+      "assets/17432_14554_221231_f98_03_s.jpg",
+      "assets/17432_14555_221231_f98_01_s.jpg",
+      "assets/17432_14556_221231_f98_05_s.jpg",
+      "assets/17432_14557_221231_f98_04_s.jpg",
+      "assets/17432_14558_221231_f98_06_s.jpg",
+      "assets/17432_14559_221231_f98_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 150,
+    "content_id": "21240",
+    "content_title": "工藤の家の屋根裏部屋#132～豫風瑠乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-05-16 00:00:00",
+    "created_at": "2023-11-14 17:36:05",
+    "updated_at": "2023-11-14 17:36:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17444",
+        "material_title": "230516_04_s.jpg",
+        "material_file": "5ff64af5c36f9b04d762b0707681a3d7327b3e685c62c8c9f5268adcdeb6623117444.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17445",
+        "material_title": "230516_05_s.jpg",
+        "material_file": "db6712bf963adaecb44cb8492b1712340a8b9880872e2cf20c8cdf9ed37ac75517445.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17446",
+        "material_title": "230516_01_s.jpg",
+        "material_file": "300c5877e4a2798ca316026b8f0a8f4ab5a7719c37102dd66a9733d8f34a880b17446.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17447",
+        "material_title": "230516_02_s.jpg",
+        "material_file": "308789f564012e917e5a7e30ee2eb3026066fc29af51854ae83b4d338552ede117447.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17448",
+        "material_title": "230516_03_s.jpg",
+        "material_file": "1706cda874006ed11959fdb5a51a715aeb025883153c5a9f35ca72848051f20e17448.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21240",
+    "content_title": "工藤の家の屋根裏部屋#132～豫風瑠乃～",
+    "content_sub_title": "",
+    "release_date": "2023-05-16 00:00:00",
+    "created_at": "2023-11-14 17:36:05",
+    "updated_at": "2023-11-14 17:36:05",
+    "content_text": "ふくむらの部屋 第132回は、つばきファクトリー豫風瑠乃さんが登場！\r\n\r\n230516_01_s.jpg\r\n\r\n・4人同期\r\nのお話からスタート！\r\n\r\n230516_02_s.jpg\r\n\r\n「ふくむらクロニクル」のコーナーでは、\r\n・2017年個別イベント\r\n・2020年公開実力診断テスト\r\nの思い出を振り返りました！\r\n\r\n230516_03_s.jpg\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・公開実力診断テスト\r\n・珍しい名字\r\nを語りました！\r\n\r\n230516_04_s.jpg\r\n\r\n後半では、\r\n・私服の好み\r\n・特徴的なメンバーの呼び方\r\n・久しぶりの歓声ありライブ\r\nについてトーク！\r\n\r\n230516_05_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17444",
+        "material_title": "230516_04_s.jpg",
+        "material_file": "3cc0a0798c5d5c713a36e9ad01abec021d36b455e5a4da1959482f3f054f8c1b17444.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17445",
+        "material_title": "230516_05_s.jpg",
+        "material_file": "5995e5f7755fa91279c73cd65b25d2d4e5f9a7d0e4ba8da0c9255b1d76bedf2217445.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17446",
+        "material_title": "230516_01_s.jpg",
+        "material_file": "6e632355618c2c92bde8e06c17834839403bf28151c5837c49d28b1deb4bddfa17446.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17447",
+        "material_title": "230516_02_s.jpg",
+        "material_file": "ed1c059f5cc351f7ca49e56b1dc93455c752f2775320c8f471949d94d2f89b6417447.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17448",
+        "material_title": "230516_03_s.jpg",
+        "material_file": "13329d097308dff2763561aa6ed3b1ad2a0ce98976a26edde4869dea728bbea117448.jpeg"
+      }
+    ],
+    "previous_id": "24708",
+    "next_id": "20208",
+    "saved_materials": [
+      "assets/21240_17444_230516_04_s.jpg",
+      "assets/21240_17445_230516_05_s.jpg",
+      "assets/21240_17446_230516_01_s.jpg",
+      "assets/21240_17447_230516_02_s.jpg",
+      "assets/21240_17448_230516_03_s.jpg"
+    ]
+  }
+}

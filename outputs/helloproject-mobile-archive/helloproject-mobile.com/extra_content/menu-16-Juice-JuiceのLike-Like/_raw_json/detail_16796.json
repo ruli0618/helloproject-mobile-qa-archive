@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 434,
+    "content_id": "16796",
+    "content_title": "朝活",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-09-23 10:00:00",
+    "created_at": "2021-09-21 20:33:27",
+    "updated_at": "2021-09-21 20:33:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14007",
+        "material_title": "210923_matsunaga_s.jpg",
+        "material_file": "b5a2c98fa650d6b9eb5a1580882c693f6a08b6ba20a9b2845ebd376281cda48e14007.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16796",
+    "content_title": "朝活",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-09-23 10:00:00",
+    "created_at": "2021-09-21 20:33:27",
+    "updated_at": "2021-09-21 20:33:56",
+    "content_text": "210923_matsunaga_s.jpg\r\n私は通常運転では朝が苦手なのですが、最近早朝に外に出た時になんだ朝も良いではないか〜！と思いました！\r\n朝活健康健康！",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "14007",
+        "material_title": "210923_matsunaga_s.jpg",
+        "material_file": "b5d9748a22ab958b33ed97db65d0ff59b0a74692c7c2472b14dcf65a18df260814007.jpeg"
+      }
+    ],
+    "previous_id": "16797",
+    "next_id": "16795",
+    "saved_materials": [
+      "assets/16796_14007_210923_matsunaga_s.jpg"
+    ]
+  }
+}

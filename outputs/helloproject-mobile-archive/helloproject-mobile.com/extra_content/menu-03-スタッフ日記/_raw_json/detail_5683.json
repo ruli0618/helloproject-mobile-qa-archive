@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 634,
+    "content_id": "5683",
+    "content_title": "工藤の家の天井裏#21　～お姉ちゃんと妹(殿堂入り)～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-11-05 20:00:00",
+    "created_at": "2016-11-05 20:12:05",
+    "updated_at": "2016-11-05 20:19:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5086",
+        "material_title": "161103_s.jpg",
+        "material_file": "ec6036a12a42a2bcd00241101331cc1388c057bd1b0db088c23ee505d5ee8a165086.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5683",
+    "content_title": "工藤の家の天井裏#21　～お姉ちゃんと妹(殿堂入り)～",
+    "content_sub_title": "",
+    "release_date": "2016-11-05 20:00:00",
+    "created_at": "2016-11-05 20:12:05",
+    "updated_at": "2016-11-05 20:19:17",
+    "content_text": "やじまの森やな#21公開中！\n℃-uteから萩原舞さんが登場！\n\n今回の「ふたりごと」コーナーのトークテーマは、\n「℃-uteリーダー矢島舞美について」！\n本人を目の前に萩原舞が語ってくれます。\n\n161103_s.jpg\n\nそして「緊急企画！℃-uteコンサートツアー2016秋 ～℃OMPASS～\nどうした、矢島舞美のコーナー！」\n\n矢島舞美の数々のやらかしてしまった事柄に対して、萩原舞がファンの皆さまの代わりに、その真相を明らかにします。\n\n※このコーナーは秋ツアーのネタバレが含まれます。新鮮な気持ちでツアーに参加したい方は、#6～#7の4:40頃まで音声をジャンプしてお聴き下さい。\n\n前回目標として矢島さんが掲げた、5年後に「Kiss Me 愛してる」の再生回数を超した時の約束もしてくれました。\n5年後が楽しみですね。\n\n▼「夢幻クライマックス」MVはこちら！\n<a href=\"https://youtu.be/UBmBGKjFuRQ\"><font color=\"#0000ff\"><u>https://youtu.be/UBmBGKjFuRQ</u></font></a>\n\nエンディングの、チキンを頬張りながらのトークまで、ぜひお楽しみください。\n\nそれでは、\n次の配信もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5086",
+        "material_title": "161103_s.jpg",
+        "material_file": "9fa2045e2f518f106c7851d56c5dc931423591f5f1ae4999ca20f12c962584835086.jpeg"
+      }
+    ],
+    "previous_id": "5686",
+    "next_id": "5633",
+    "saved_materials": [
+      "assets/5683_5086_161103_s.jpg"
+    ]
+  }
+}

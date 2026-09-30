@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 625,
+    "content_id": "5912",
+    "content_title": "宣伝会議 議事録#9",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-12-26 20:00:00",
+    "created_at": "2016-12-26 19:58:02",
+    "updated_at": "2016-12-26 19:59:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5279",
+        "material_title": "161226_2.jpg",
+        "material_file": "c92674a00eef24ef3a020f7d90cbd625979f545f6d0e0330ec2fb5f35271afc85279.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5281",
+        "material_title": "161226_1.jpg",
+        "material_file": "74e3ec4305c9ff1748977ff9829d88576827e2ec923028ab163319d153d0c1ed5281.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5280",
+        "material_title": "161226_3.jpg",
+        "material_file": "b32aaa65140c448c41dbc0ab7017ecedafe9c4463d4f85d1539d6baf352e33c05280.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5912",
+    "content_title": "宣伝会議 議事録#9",
+    "content_sub_title": "",
+    "release_date": "2016-12-26 20:00:00",
+    "created_at": "2016-12-26 19:58:02",
+    "updated_at": "2016-12-26 19:59:25",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と、副部長の尾形春水・書記の野中美希・秘書の梁川奈々美による9回目の宣伝会議が行われました！\n\n2016年最後の更新となりました。みなさん聞いて頂けましたか？\n宣伝部イベント開催希望メールを送っていただいたみなさん、ありがとうございました！\n\n果たしてイベント開催できるのか！？ \n\n161226_1.jpg\n\n尾形副部長の新コーナーも決まりました。ハードルは少しあがりましたが、頑張ってやってくれるでしょう！！\n\n161226_2.jpg\n\n宣伝部員それぞれの2016年のビッグニュースの発表もありました。\nハロ！モバの年末年始コーナーも充実していますのでそちらもお楽しみに！\n\n今回の書記のメモはこちら！\n\n161226_3.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！\n",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5279",
+        "material_title": "161226_2.jpg",
+        "material_file": "e94916425b4ff68e18ab26adebd1513322091c565f512fce9737afe5cb3f64b05279.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5281",
+        "material_title": "161226_1.jpg",
+        "material_file": "9df9345df4ab1a2583ee6cf21716de256c575cad56cea50540360658ab2f158d5281.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5280",
+        "material_title": "161226_3.jpg",
+        "material_file": "694a4075e9a1d85f0a552df1d523996b99021b0acecc1ecd56314b48bdb5922f5280.jpeg"
+      }
+    ],
+    "previous_id": "6064",
+    "next_id": "5908",
+    "saved_materials": [
+      "assets/5912_5279_161226_2.jpg",
+      "assets/5912_5281_161226_1.jpg",
+      "assets/5912_5280_161226_3.jpg"
+    ]
+  }
+}

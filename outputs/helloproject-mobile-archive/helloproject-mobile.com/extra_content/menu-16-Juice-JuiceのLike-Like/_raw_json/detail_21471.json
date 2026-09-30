@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 207,
+    "content_id": "21471",
+    "content_title": "冬！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-12-21 10:00:00",
+    "created_at": "2023-12-19 13:21:54",
+    "updated_at": "2023-12-19 13:21:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17621",
+        "material_title": "1221_irie_s.jpg",
+        "material_file": "a1668b8f13d825fabfdbd1212e526fcb3f8a869e8d53b0ab9dfdf5985edf72e617621.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21471",
+    "content_title": "冬！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-12-21 10:00:00",
+    "created_at": "2023-12-19 13:21:54",
+    "updated_at": "2023-12-19 13:21:54",
+    "content_text": "1221_irie_s.jpg\r\n年末年始のコンサートに向けてリハーサルを頑張っています！\r\n\r\n寒暖差がすごいけど、お互い体調に気をつけてがんばりさしましょうね(^^)♡",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17621",
+        "material_title": "1221_irie_s.jpg",
+        "material_file": "bc772751a2562c022dbaa97bbd2489bf659294e9a7a8f60f578e9331e0d1698c17621.jpeg"
+      }
+    ],
+    "previous_id": "21481",
+    "next_id": "21470",
+    "saved_materials": [
+      "assets/21471_17621_1221_irie_s.jpg"
+    ]
+  }
+}

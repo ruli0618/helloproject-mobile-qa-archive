@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 125,
+    "content_id": "23375",
+    "content_title": "宣伝会議#91",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-10-19 00:00:00",
+    "created_at": "2024-11-28 05:39:23",
+    "updated_at": "2024-11-28 05:39:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19185",
+        "material_title": "91_03_s.jpg",
+        "material_file": "2804299e9aa701ad582a7f1e116bd0253c7138e999e891e904db204dee1ddacc19185.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19186",
+        "material_title": "91.jpg",
+        "material_file": "c022f0e4acdd8863ff104b6d43b27f0402243b02c825f2ddd120737801308b8919186.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19187",
+        "material_title": "91_01_s.jpg",
+        "material_file": "7fbe6023a1b7eb9b4fd941c660be444f6ea9fb62562e640b451a0941997d33ed19187.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19188",
+        "material_title": "91_02_s.jpg",
+        "material_file": "6c7bf69f64673abd153fac5e4dbc9eb04d86edb10864d1c3823616478d323f4f19188.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23375",
+    "content_title": "宣伝会議#91",
+    "content_sub_title": "",
+    "release_date": "2023-10-19 00:00:00",
+    "created_at": "2024-11-28 05:39:23",
+    "updated_at": "2024-11-28 05:39:23",
+    "content_text": "宣伝会議第91回は、野中美希部長・川村文乃副部長の二人でお届け！\r\n\r\n91_01_s.jpg\r\n\r\n前編では、\r\n・25周年ライブの舞台裏\r\n・お気に入りコール\r\n・アンケートで心がけていること\r\n・写真集のチェックポイント\r\n・新メンバーが頑張る様子\r\n・客として見たいライブ\r\n・利き手\r\n・悩み相談のご報告\r\nについてトーク！\r\n\r\n後編では、\r\n・運動会でやりたい競技\r\n・1日2公演で変わったこと\r\n・読む本のジャンル\r\n・イチオシのモスバーガー商品\r\n・お泊りエピソード\r\n・マユリカのうなげろりん！！ゲスト出演\r\n・オンオフの切り替え\r\n・松永里愛\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「福田真琳」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n91.jpg\r\n\r\n91_02_s.jpg\r\n\r\n91_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19185",
+        "material_title": "91_03_s.jpg",
+        "material_file": "e2b7cdbca2fbce0d61610eb6ffbaee3ee09d5764091b0cb57ea352d9cd82f61119185.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19186",
+        "material_title": "91.jpg",
+        "material_file": "44e81df163277fdd85fd4daaa2e1d01c15f46f0a115ca3fe01a237cef183ec9e19186.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19187",
+        "material_title": "91_01_s.jpg",
+        "material_file": "853ccdd21da2d9ba64b7ecc101033daed53ebdfffe1490b309af6ea7a023365519187.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19188",
+        "material_title": "91_02_s.jpg",
+        "material_file": "c79fcce1f21e1eb98796b32d386fd559fc940edc09073e14554d42a71cfcd58d19188.jpeg"
+      }
+    ],
+    "previous_id": "21253",
+    "next_id": "21252",
+    "saved_materials": [
+      "assets/23375_19185_91_03_s.jpg",
+      "assets/23375_19186_91.jpg",
+      "assets/23375_19187_91_01_s.jpg",
+      "assets/23375_19188_91_02_s.jpg"
+    ]
+  }
+}

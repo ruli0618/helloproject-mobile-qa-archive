@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 693,
+    "content_id": "9663",
+    "content_title": "半分こ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-09-02 11:00:00",
+    "created_at": "2018-08-13 16:01:44",
+    "updated_at": "2018-08-13 16:01:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8455",
+        "material_title": "0902_uemura_s.jpg",
+        "material_file": "d626983aa58d735bed1f5ddbd6cfa4af12908477e981a87fdab36bbd2415641d8455.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9663",
+    "content_title": "半分こ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-09-02 11:00:00",
+    "created_at": "2018-08-13 16:01:44",
+    "updated_at": "2018-08-13 16:01:44",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\nまなかちゃんと韓国料理屋さんで半分こして食べた\r\n\r\n石焼チーズビビンバ\r\n\r\n0902_uemura_s.jpg\r\n美味しかったです！\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8455",
+        "material_title": "0902_uemura_s.jpg",
+        "material_file": "d20564560928654a8225e7858cb36c3116615889b0d2d4a97a6ab442f55d6c138455.jpeg"
+      }
+    ],
+    "previous_id": "9664",
+    "next_id": "9660",
+    "saved_materials": [
+      "assets/9663_8455_0902_uemura_s.jpg"
+    ]
+  }
+}

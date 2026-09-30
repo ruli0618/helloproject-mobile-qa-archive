@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 176,
+    "content_id": "21212",
+    "content_title": "みよちゃん家の縁側の猫#18 工藤由愛",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-28 00:00:00",
+    "created_at": "2023-11-10 17:31:24",
+    "updated_at": "2023-11-10 17:31:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17420",
+        "material_title": "231110_02.jpg",
+        "material_file": "318b2b58871b32404dab1a312aee5d0910ee076e1ea3b8ede7559452540549df17420.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17421",
+        "material_title": "231110_01.jpg",
+        "material_file": "4775273cfc1480c8d234f76eacf8bbb68cefb9eb1a7f8cfaded34ffafae665fd17421.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21212",
+    "content_title": "みよちゃん家の縁側の猫#18 工藤由愛",
+    "content_sub_title": "",
+    "release_date": "2022-12-28 00:00:00",
+    "created_at": "2023-11-10 17:31:24",
+    "updated_at": "2023-11-10 17:31:24",
+    "content_text": "「みよちゃん家の縁側」#18配信中です！\r\n\r\n2022年最後の配信！第18回ゲストは、Juice=Juiceの工藤由愛さん！\r\n\r\n231110_02.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①タコカン\r\n②たこ焼き好き！\r\n③めざせタコンプ！\r\n④ヒョウモンダコ\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「タコの男の子」、「お寿司屋さんにて…」の2本をお届けしました。\r\n\r\n「逆再生チャレンジ」「演技してみよ～！」どちらも\r\n工藤さんが大好きなタコにちなんだ内容でした<img src=\"/emoji/emoji-images/452a.gif\"/>\r\n\r\n\r\nその他、お互いのダンスの印象、「悲しきヘブン」のバックダンサー、後輩とのエピソードや同期の存在についてなどなどたくさんのお便りを紹介しています！\r\n\r\n231110_01.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n今年もたくさんのお便りありがとうございました<img src=\"/emoji/emoji-images/4530.gif\"/>\r\n2023年も引き続き「みよちゃん家の縁側」をよろしくお願いいたします！！\r\n\r\n2023年最初のゲストは、OCHA NORMA広本瑠璃さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17420",
+        "material_title": "231110_02.jpg",
+        "material_file": "d31be97c268048f84fcbf5f9a621d3423f41f1f90a9a81782efd3bdb242efe3c17420.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17421",
+        "material_title": "231110_01.jpg",
+        "material_file": "25c9d28dcbea144af3431b2ec3892bed56298646800a61d707a4d7dfaa8f5f9817421.jpeg"
+      }
+    ],
+    "previous_id": "21231",
+    "next_id": "19418",
+    "saved_materials": [
+      "assets/21212_17420_231110_02.jpg",
+      "assets/21212_17421_231110_01.jpg"
+    ]
+  }
+}

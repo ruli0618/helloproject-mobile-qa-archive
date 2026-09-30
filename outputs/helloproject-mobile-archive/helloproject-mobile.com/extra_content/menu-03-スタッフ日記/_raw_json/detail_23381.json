@@ -1,0 +1,124 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 103,
+    "content_id": "23381",
+    "content_title": "宣伝会議#97",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-04-18 00:00:00",
+    "created_at": "2024-11-28 14:52:04",
+    "updated_at": "2024-11-28 14:52:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19205",
+        "material_title": "97.jpg",
+        "material_file": "19e43fafbfbdf55ccc2e2f768ca3bf658a7f88890f73350edf00d97726a00c9a19205.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19206",
+        "material_title": "97_01_s.jpg",
+        "material_file": "948453b7508adde992b76b354c8781a657ef4dc73f15b32bdee062967b74426219206.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19208",
+        "material_title": "97_05_s.jpg",
+        "material_file": "ac0cdff48bab1da56538460a88f9bff9fd389633e5c5f9217d96b5a99df0add219208.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19207",
+        "material_title": "97_02_s.jpg",
+        "material_file": "b4b9429eafba7598e6cf4197ffb5a96f0cd2946bf7e128a5a8c18e3aee2b4e2a19207.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19209",
+        "material_title": "97_04_s.jpg",
+        "material_file": "17b1ea7319d4aa3b3665a5266356124f6417d13c2567693330076d980ddc87db19209.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19210",
+        "material_title": "97_03_s.jpg",
+        "material_file": "63b2354b5204c4cc4c3a323905d166e12509cd4e817213a96985cd5f0b0acbdf19210.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23381",
+    "content_title": "宣伝会議#97",
+    "content_sub_title": "",
+    "release_date": "2024-04-18 00:00:00",
+    "created_at": "2024-11-28 14:52:04",
+    "updated_at": "2024-11-28 14:52:04",
+    "content_text": "宣伝会議第97回は、前田こころ警備兼広報・入江里咲書記の二人でお届け！\r\n\r\n97_01_s.jpg\r\n\r\n97_03_s.jpg\r\n\r\n前編では、\r\n・バスツアー\r\n・ひなフェス\r\n・RISA OGATA CONCERT「éclatant」\r\n・Hello! Project 研修生発表会 2024 3月「ミモザ」\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「テレビ中継派？ライブビューイング派？」についてディベート！\r\n\r\n97_05_s.jpg\r\n\r\n後編では、\r\n・Juice=Juice新曲\r\n・BEYOOOOONDS新曲\r\n・趣味の刺繍\r\n・BEYOOOOONDS SONIC\r\n・春ツアー見どころ\r\n・緊張ほぐす方法\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「工藤由愛」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n97.jpg\r\n\r\n97_02_s.jpg\r\n\r\n97_04_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19205",
+        "material_title": "97.jpg",
+        "material_file": "cf7b8809e497bfdc84c2c9ae7eb9c2d90b7dcfb0a6e6e5fcf0911e8733a3531819205.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19206",
+        "material_title": "97_01_s.jpg",
+        "material_file": "a836d6bb7e5501aadcd5fd6e6846065513a18a30ad385544838d959fdd8909cc19206.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19208",
+        "material_title": "97_05_s.jpg",
+        "material_file": "092970d7ed0903077f41afc01db9679effb66ca129cedcf6ea362c61425a7b6719208.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19207",
+        "material_title": "97_02_s.jpg",
+        "material_file": "fb3360842ced3e20d5c09e3b0ea33fefab23d7f590fcadcc62f4fc99c170d4d619207.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19209",
+        "material_title": "97_04_s.jpg",
+        "material_file": "6afedf79d7fe956ad56ebdb74cc646b1f04fe5c4d4565a0db998a2c9869c0dfe19209.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19210",
+        "material_title": "97_03_s.jpg",
+        "material_file": "6f973465180e91d4005004e5a9bfc954a652a7b09a2714f03ec3bb53e527941819210.jpeg"
+      }
+    ],
+    "previous_id": "22935",
+    "next_id": "22934",
+    "saved_materials": [
+      "assets/23381_19205_97.jpg",
+      "assets/23381_19206_97_01_s.jpg",
+      "assets/23381_19208_97_05_s.jpg",
+      "assets/23381_19207_97_02_s.jpg",
+      "assets/23381_19209_97_04_s.jpg",
+      "assets/23381_19210_97_03_s.jpg"
+    ]
+  }
+}

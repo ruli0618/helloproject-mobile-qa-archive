@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 254,
+    "content_id": "20427",
+    "content_title": "ツアー",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2023-06-29 10:00:00",
+    "created_at": "2023-06-27 20:55:51",
+    "updated_at": "2023-06-27 20:55:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16854",
+        "material_title": "0629_endo_s.jpg",
+        "material_file": "e2d23a57450188c5957872d0f78449b88c77bdbfa2ed84333040a0ac5ebe56d816854.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20427",
+    "content_title": "ツアー",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2023-06-29 10:00:00",
+    "created_at": "2023-06-27 20:55:51",
+    "updated_at": "2023-06-27 20:55:51",
+    "content_text": "0629_endo_s.jpg\r\n遠藤彩加里です♪\r\n\r\n春ツアーが終わって、夏ツアーはアンコール公演！\r\nさらにパワーアップした私たちに会いにきてください！\r\n\r\n暑い暑い夏ですが！皆で楽しんじゃいましょう♪",
+    "materials": [
+      {
+        "secretKey": "9ed02a745e9125ff252fa13ebc2a45fe",
+        "material_id": "16854",
+        "material_title": "0629_endo_s.jpg",
+        "material_file": "cd64aabd69ec038c1e4c5406f11e16c8bbe6311c5607983884f6dae78177660416854.jpeg"
+      }
+    ],
+    "previous_id": "20443",
+    "next_id": "20426",
+    "saved_materials": [
+      "assets/20427_16854_0629_endo_s.jpg"
+    ]
+  }
+}

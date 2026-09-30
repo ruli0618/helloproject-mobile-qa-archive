@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 542,
+    "content_id": "8270",
+    "content_title": "恒例の",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-22 19:40:00",
+    "created_at": "2017-12-22 19:38:49",
+    "updated_at": "2017-12-22 19:40:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7258",
+        "material_title": "171222.JPG",
+        "material_file": "d721c3baaea73203fa0b35f2fd0bdf535835659d0b5416d845baf51832f737e87258.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8270",
+    "content_title": "恒例の",
+    "content_sub_title": "",
+    "release_date": "2017-12-22 19:40:00",
+    "created_at": "2017-12-22 19:38:49",
+    "updated_at": "2017-12-22 19:40:06",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n本日、クリスマスカードのハガキを投函してまいりました！\n\n171222.JPG\n\n今回も沢山のご応募、ありがとうございます！\n応募された方は、来週ポストの中身をチェックしてみてくださいね♪\n\nそして恒例となりましたが、ハガキが当選された方はぜひ「#ハロモバ」のハッシュタグをつけて、SNSに画像をアップして頂けると嬉しいです！\n\n来週には年末特集ページが、新年は1月1日から年始特集ページが公開予定です！\n\n年賀状プレゼントコーナーもありますので、クリスマスカードが外れてしまった方はこちらをチャレンジしてみてくださいね！\n\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7258",
+        "material_title": "171222.JPG",
+        "material_file": "d8148cfba664018a77ac473656c31a34829efc00670363aa8939a995c9e267867258.jpeg"
+      }
+    ],
+    "previous_id": "8273",
+    "next_id": "8268",
+    "saved_materials": [
+      "assets/8270_7258_171222.JPG"
+    ]
+  }
+}

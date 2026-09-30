@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 486,
+    "content_id": "9644",
+    "content_title": "YouTubeライフ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-09 20:47:00",
+    "created_at": "2018-08-09 20:48:18",
+    "updated_at": "2018-08-09 20:52:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8438",
+        "material_title": "180809.jpg",
+        "material_file": "44a74ceecf845ac90485ebe951bc46c65f99525e722cdff4185129fe5aec83778438.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9644",
+    "content_title": "YouTubeライフ",
+    "content_sub_title": "",
+    "release_date": "2018-08-09 20:47:00",
+    "created_at": "2018-08-09 20:48:18",
+    "updated_at": "2018-08-09 20:52:34",
+    "content_text": "こんばんは！\nスタッフ番号2番です♪\n\n8月に入ってから、アップフロントのYouTube番組がリニューアルしましたね！\nハロ！モバ会員の方はもうご存知かと思いますが、新チャンネル「<a href=\"https://www.youtube.com/c/omake\" target=\"_blank\">OMAKE CHANNEL</a>」もスタートしました！\n\n本日アップされた動画はもうご覧になりましたか？\n我らが宣伝部員から2人出演していますので、ぜひチェックお願いします！\n\n<a href=\"https://youtu.be/TCdo41VV_0E\" target=\"_blank\">▶【つばき小片・カントリー梁川《特技コラボ》けん玉「もしかめ」】\n180809.jpg</a>\n\n動画が日々更新されるようになって、チェックが追いつかない<img src=\"/emoji/emoji-images/f7ce.gif\"/>\nという方は、↓こちらのSNSをフォローしておくと、動画が公開する度に通知されるので便利ですよ♪\n\n<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">▶DC FACTORY Twitter (@dcfactory_inc)</a>\n\n<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">▶DC FACTORY Inc. Facebookページ (@dcfactory)</a>\n\n<a href=\"https://line.me/R/ti/p/%40hello_project\" target=\"_blank\">▶ハロー！プロジェクト公式LINEアカウント</a>\n\n\nためていた動画をまとめて見たい<img src=\"/emoji/emoji-images/f65a.gif\"/>という方は、各チャンネルに再生リストがまとめられているので、こちらもぜひ有効活用してください<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\n<a href=\"https://www.youtube.com/user/helloprojectstation/playlists\" target=\"_blank\">▶ハロ！ステ 再生リスト一覧</a>\n\n<a href=\"https://www.youtube.com/playlist?list=PL1U0DlJ2bZPSZdsb-9WYDP3bH1jB8H8-M\" target=\"_blank\">▶ハロ！ステ 動画一覧</a>\n\n<a href=\"https://www.youtube.com/user/theuflicks/playlists\" target=\"_blank\">▶アプカミ 再生リスト一覧</a>\n\n<a href=\"https://www.youtube.com/playlist?list=PL-frmI8VVDGjpWykQHR8D4p8RKavak7t0\" target=\"_blank\">▶アプカミ 動画一覧</a>\n\n<a href=\"https://www.youtube.com/channel/UCFBY6EJFIwCQCl-DiYYNKlg/playlists\" target=\"_blank\">▶OMAKE CHANNEL 再生リスト一覧</a>\n\n<a href=\"https://www.youtube.com/playlist?list=PLoo3YWtDrNKPq6Zj9n0w13a5S9kWJES_g\" target=\"_blank\">▶OMAKE CHANNEL 動画一覧</a>\n\n<a href=\"https://www.youtube.com/playlist?list=PLaogqlhuP89BooquMF5gJBg6mz5Wp43su\" target=\"_blank\">▶tiny tiny 動画一覧</a>\n\nそれでは、よいYouTubeライフを♪",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8438",
+        "material_title": "180809.jpg",
+        "material_file": "8f5dd91e168a65a80ba73cbe0a95b441b0408ba7466b21aa2bfca02600ab50d98438.jpeg"
+      }
+    ],
+    "previous_id": "9729",
+    "next_id": "9637",
+    "saved_materials": [
+      "assets/9644_8438_180809.jpg"
+    ]
+  }
+}

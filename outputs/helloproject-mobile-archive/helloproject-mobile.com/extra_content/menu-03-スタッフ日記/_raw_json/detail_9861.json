@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 479,
+    "content_id": "9861",
+    "content_title": "工藤の家の屋根裏部屋#32～横山玲奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-09-14 23:11:00",
+    "created_at": "2018-09-14 23:11:28",
+    "updated_at": "2018-09-14 23:11:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8582",
+        "material_title": "180914_02_s.jpg",
+        "material_file": "9542d6824b758c5affb73d5fd5e7abe7ca898ea9299168328b18c85a517f51868582.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8583",
+        "material_title": "180914_01_s.jpg",
+        "material_file": "b64e663322e770640987856f42c68eb1b873455752ae9632aca113743bcaa5fe8583.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9861",
+    "content_title": "工藤の家の屋根裏部屋#32～横山玲奈～",
+    "content_sub_title": "",
+    "release_date": "2018-09-14 23:11:00",
+    "created_at": "2018-09-14 23:11:28",
+    "updated_at": "2018-09-14 23:11:28",
+    "content_text": "「ふくむらの部屋」32回目お聴きいただけましたか？\r\n\r\n今回はモーニング娘。'18から横山玲奈さんが登場！\r\n\r\n180914_01_s.jpg\r\n\r\nゲスト出演をずっと待ってたという横山さん。\r\n満を持して登場です！！\r\n\r\n今回は常にハイテンション！\r\n聴いているときっと元気になれますよ！\r\n\r\nペンライトの物理的な光ではない輝き、、\r\nライブでの衣装早着替え話、、\r\n二人の兄弟事情。\r\n\r\n「こんばんぽん」「こんにちこんばんやまやま～」\r\n“オリジナルの挨拶”へ悩みに共感…！？\r\n\r\n\r\n横山さんの新たな一面もきっと発見できる回になっています！\r\n\r\n\r\n180914_02_s.jpg\r\n\r\nモーニング娘。のメンバーを犬っぽいか猫っぽいかタイプ分けでは\r\n\r\nあのメンバーはまさかの犬でも猫でもない〇〇タイプに！？\r\n\r\n\r\nメドレーセレクションのコーナー\r\n今回は「遅刻しそうな時、心を落ち着かせてくれるメドレー」\r\n\r\nストーリー仕立てになっていたり、いろいろな視点での選曲に二人とも爆笑！\r\n\r\n次回のテーマは「ハロプロを知らない人にオススメドレー」です！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8582",
+        "material_title": "180914_02_s.jpg",
+        "material_file": "2b8736cebba39b11b6468cd9ecb623429703f24ddcfb65b8c93d940ffdeb56048582.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8583",
+        "material_title": "180914_01_s.jpg",
+        "material_file": "d9cf382cc3b727f91a6b64d21b22475d34db78a7ee41377d0e601b0ca37cbd0b8583.jpeg"
+      }
+    ],
+    "previous_id": "9883",
+    "next_id": "9799",
+    "saved_materials": [
+      "assets/9861_8582_180914_02_s.jpg",
+      "assets/9861_8583_180914_01_s.jpg"
+    ]
+  }
+}

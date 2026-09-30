@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 710,
+    "content_id": "3222",
+    "content_title": "オリジナルラジオ番組、ついにスタート！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-01 18:00:00",
+    "created_at": "2015-10-01 17:58:45",
+    "updated_at": "2015-11-19 10:43:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3222",
+    "content_title": "オリジナルラジオ番組、ついにスタート！",
+    "content_sub_title": "",
+    "release_date": "2015-10-01 18:00:00",
+    "created_at": "2015-10-01 17:58:45",
+    "updated_at": "2015-11-19 10:43:50",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです！\n\n\n本日より、ハローラジオオリジナル番組がスタートしました！\n\nパーソナリティーは、モーニング娘。'15の鞘師里保！\nゲストは、ハロ！プロモバイル宣伝担当、工藤遥！\n\n\nこの番組のコンセプトは「会員の皆さんと作っていく番組」です。\n皆さんからのたくさんのメールありがとうございました！\n\nはたして、番組名は決まったのか？\nコーナーは出来たのでしょうか？\n\n結果はアナタの耳でお確かめください！\n\n\n\n次回の配信予定は、10月中旬！\n\n今後も出演者への質問、番組へのご意見ご要望等…\n随時受け付けておりますので、どしどしお送りください！！\n\nたくさんのメール、お待ちしております！\n宛先：<u><a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\">halomoba@gmail.com</font></a></u>\n\n【注意事項】（※必ずお読みください。）\n※募集は、700円会員に登録している方が対象となります。\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\n\n\n<a href=\"https://helloproject-mobile.com/mypage/manage\"><u><font color=\"#0000ff\">マイページはこちら</font></u></a>\n\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><u><font color=\"#0000ff\">ハローラジオはこちら</font></u></a>\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3224",
+    "next_id": "3205",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 59,
+    "content_id": "26982",
+    "content_title": "工藤の家の軒下#33～西田汐里～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-03-18 00:00:00",
+    "created_at": "2026-09-28 22:59:20",
+    "updated_at": "2026-09-28 22:59:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22068",
+        "material_title": "250319_033.jpg",
+        "material_file": "11075540245623b5ac0ddae44735ac3128d784aa5dbcd2f5a225dc6df63dad3622068.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26982",
+    "content_title": "工藤の家の軒下#33～西田汐里～",
+    "content_sub_title": "",
+    "release_date": "2025-03-18 00:00:00",
+    "created_at": "2026-09-28 22:59:20",
+    "updated_at": "2026-09-28 22:59:20",
+    "content_text": "250319_033.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第33回はゲストは、西田汐里！\r\n\r\n・パフォーマンス\r\n・バラエティ番組の収録\r\n・シャッフル曲\r\n・お芝居\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・2人はどっち派？\r\n・移動中の過ごし方\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・卒業にまつわるエピソード\r\n・共通点\r\n・お互いの歌\r\n・ラジオDJ\r\n・譜久村聖\r\n・お互いのグループの好きな曲\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22068",
+        "material_title": "250319_033.jpg",
+        "material_file": "ffbb147214f73ad31f28597aa68ea20a9809dbe1e06a59c680205617598c15f622068.jpeg"
+      }
+    ],
+    "previous_id": "26951",
+    "next_id": "26981",
+    "saved_materials": [
+      "assets/26982_22068_250319_033.jpg"
+    ]
+  }
+}

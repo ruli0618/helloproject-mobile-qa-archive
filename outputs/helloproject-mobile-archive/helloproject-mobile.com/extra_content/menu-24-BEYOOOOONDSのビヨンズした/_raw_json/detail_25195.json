@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 72,
+    "content_id": "25195",
+    "content_title": "大集合",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2025-11-03 10:00:00",
+    "created_at": "2025-10-28 23:06:37",
+    "updated_at": "2025-10-28 23:06:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20604",
+        "material_title": "251103_eguchi_s.jpg",
+        "material_file": "88ff96b914e42e335fd3118434cc10b097fe382cd24a13d8cfe04a161ef4cdbc20604.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25195",
+    "content_title": "大集合",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2025-11-03 10:00:00",
+    "created_at": "2025-10-28 23:06:37",
+    "updated_at": "2025-10-28 23:06:37",
+    "content_text": "251103_eguchi_s.jpg\r\n自撮りしてたらみんな入ってきてくれた！\r\n\r\n【47周目お題：集合写真】",
+    "materials": [
+      {
+        "secretKey": "64f08a4ecbe46eeb75f6e68add04b33c",
+        "material_id": "20604",
+        "material_title": "251103_eguchi_s.jpg",
+        "material_file": "3362384cec041890429f5806f375845c93476d0474ebc9d6c1560644a890ffe020604.jpeg"
+      }
+    ],
+    "previous_id": "25197",
+    "next_id": "25194",
+    "saved_materials": [
+      "assets/25195_20604_251103_eguchi_s.jpg"
+    ]
+  }
+}

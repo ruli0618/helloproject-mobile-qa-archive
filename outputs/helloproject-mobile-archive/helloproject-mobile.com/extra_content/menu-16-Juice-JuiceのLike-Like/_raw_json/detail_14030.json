@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 537,
+    "content_id": "14030",
+    "content_title": "ポップミュージック",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-07-02 10:00:00",
+    "created_at": "2020-06-18 18:32:35",
+    "updated_at": "2020-06-18 18:32:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11706",
+        "material_title": "0702_kudo_s.jpg",
+        "material_file": "c2548acfab077a860f75b131561044ac8072b71637ad393512677e4fb5f0eb3611706.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14030",
+    "content_title": "ポップミュージック",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-07-02 10:00:00",
+    "created_at": "2020-06-18 18:32:35",
+    "updated_at": "2020-06-18 18:32:35",
+    "content_text": "地道に作り始めたポップミュージックのメンバーの衣装！\r\n遂に舞台セットも完成しました〜！！！！\r\n\r\n手作りポップミュージックと、鳩顔の私の写真です(笑)\r\n\r\n0702_kudo_s.jpg\r\n\r\n暑い季節になりました、、\r\n皆さん体調、いっしょにきをつけましょうね！！",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11706",
+        "material_title": "0702_kudo_s.jpg",
+        "material_file": "bed6a66a71be208a7132c73ce23c2cd62564ddb4ac1bb74aca454c22d1bbd73511706.jpeg"
+      }
+    ],
+    "previous_id": "14069",
+    "next_id": "14029",
+    "saved_materials": [
+      "assets/14030_11706_0702_kudo_s.jpg"
+    ]
+  }
+}

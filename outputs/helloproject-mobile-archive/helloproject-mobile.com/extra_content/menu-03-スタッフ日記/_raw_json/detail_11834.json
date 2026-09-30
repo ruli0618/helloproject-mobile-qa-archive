@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 403,
+    "content_id": "11834",
+    "content_title": "隣のやじまん家の塀の裏#52 勝田里奈",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-05 15:08:00",
+    "created_at": "2019-08-05 14:59:42",
+    "updated_at": "2019-08-05 15:09:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10095",
+        "material_title": "190805_03_s.jpg",
+        "material_file": "9240258108303f001d7c3056ea18ac7e135bb62325995b91d2bfef12fcb507ef10095.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10096",
+        "material_title": "190805_02_s.jpg",
+        "material_file": "aa6a6d5ffab30cbe7e9e8613143492e2a013175e6dd103c698bc01c2ee13259110096.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10097",
+        "material_title": "190805_01_s.jpg",
+        "material_file": "cfae349fe13f23f4c3285adb32cd788708fc03814167c3879a6ea7b8f296f6ac10097.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11834",
+    "content_title": "隣のやじまん家の塀の裏#52 勝田里奈",
+    "content_sub_title": "",
+    "release_date": "2019-08-05 15:08:00",
+    "created_at": "2019-08-05 14:59:42",
+    "updated_at": "2019-08-05 15:09:55",
+    "content_text": "「隣のやじまん家」#52配信中！\r\n\r\n今回は、アンジュルム勝田里奈さんがゲスト出演！\r\n\r\n190805_01_s.jpg\r\n\r\n負けず嫌いな子供時代、\r\n辛かった時期の楽しい思い出、\r\n勝田さんが絶叫マシンを克服した方法とは…？\r\n\r\nそして、突然の乱入者\r\n竹内朱莉さんが登場！\r\n\r\n190805_03_s.jpg\r\n\r\n「VS矢島」のコーナーに参戦してくれました♪\r\n\r\n・ヘラクレイトス対決！\r\n\r\n・オシャレな振る舞い対決\r\n①男友達からの告白に対して素敵な断り方\r\n②気になる人に対して映画の誘い方\r\n\r\n矢島さんと竹内さんとの関係性についても…！？\r\n休みの日にメンバーと遊びに行った時の話も詳しくお話してくれています！\r\n\r\n190805_02_s.jpg\r\n二人でお洒落ポーズ？\r\n\r\n現在、8月20日(火)配信回のメールを募集中！\r\n8月5日(月)20:00まで受付しています。\r\nゲストは、Juice=Juiceから稲場愛香さんが登場！\r\n\r\n8月テーマトークのお題は\r\n「今年の夏にやりたいこと」\r\n「VS矢島」で対決するお題も募集！\r\n\r\n新コーナー「矢島パイセンの○○チェック」、\r\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回配信は8月6日(火)、ゲストはBEYOOOOONDSの前田こころさんが登場！\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "10095",
+        "material_title": "190805_03_s.jpg",
+        "material_file": "770a1d9a15b4efc60b554edfd41d909ce20597c8a0f669d162f41e1892f473ed10095.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "10096",
+        "material_title": "190805_02_s.jpg",
+        "material_file": "d89f45188e5fee5aa9bb5bbd204a62331ecd2cf32a5b59654529f916a20af3e510096.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "10097",
+        "material_title": "190805_01_s.jpg",
+        "material_file": "b922baccfe9934ec5048400f493798fc8bbe82de8eadbb62eccbcb805ecfda8410097.jpeg"
+      }
+    ],
+    "previous_id": "11836",
+    "next_id": "11835",
+    "saved_materials": [
+      "assets/11834_10095_190805_03_s.jpg",
+      "assets/11834_10096_190805_02_s.jpg",
+      "assets/11834_10097_190805_01_s.jpg"
+    ]
+  }
+}

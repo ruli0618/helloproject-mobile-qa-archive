@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 22,
+    "content_id": "12458",
+    "content_title": "秋のさくら",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-11-01 15:14:00",
+    "created_at": "2019-11-01 15:14:20",
+    "updated_at": "2019-11-01 15:14:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10567",
+        "material_title": "1101_ono_s.jpg",
+        "material_file": "82ad065019e549d22bf5efbf9f16411316acf0a9fb281bf7bafc35e3488609ec10567.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12458",
+    "content_title": "秋のさくら",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-11-01 15:14:00",
+    "created_at": "2019-11-01 15:14:20",
+    "updated_at": "2019-11-01 15:14:20",
+    "content_text": "1101_ono_s.jpg\r\nコスモスを見つけました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n満開のコスモス畑に行ってみたい！\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10567",
+        "material_title": "1101_ono_s.jpg",
+        "material_file": "a9c40d29b2fcd5850a78836aafa117f9757cad8171657a56a6a93f1816c462e610567.jpeg"
+      }
+    ],
+    "previous_id": "12460",
+    "next_id": "12413",
+    "saved_materials": [
+      "assets/12458_10567_1101_ono_s.jpg"
+    ]
+  }
+}

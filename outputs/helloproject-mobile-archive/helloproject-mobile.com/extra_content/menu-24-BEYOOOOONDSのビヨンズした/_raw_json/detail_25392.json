@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 63,
+    "content_id": "25392",
+    "content_title": "ヘッドホン",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-12-15 10:00:00",
+    "created_at": "2025-12-01 10:20:39",
+    "updated_at": "2025-12-01 10:20:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20741",
+        "material_title": "1215_okamura_s.jpg",
+        "material_file": "8524e40143e6026269cb7547863457ef7c21bdbe0a03162e58d8678d56f8561b20741.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25392",
+    "content_title": "ヘッドホン",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-12-15 10:00:00",
+    "created_at": "2025-12-01 10:20:39",
+    "updated_at": "2025-12-01 10:20:39",
+    "content_text": "1215_okamura_s.jpg\r\nNEWヘッドホンの可愛いフォルムを見せたくて撮った一枚です♡\r\n\r\n【48周目お題：目線外し】",
+    "materials": [
+      {
+        "secretKey": "64f08a4ecbe46eeb75f6e68add04b33c",
+        "material_id": "20741",
+        "material_title": "1215_okamura_s.jpg",
+        "material_file": "ea1a0b57613d4597f9ca97b44b995a9922c62f93b3abb52fd30eb1f1483d925820741.jpeg"
+      }
+    ],
+    "previous_id": "25393",
+    "next_id": "25391",
+    "saved_materials": [
+      "assets/25392_20741_1215_okamura_s.jpg"
+    ]
+  }
+}

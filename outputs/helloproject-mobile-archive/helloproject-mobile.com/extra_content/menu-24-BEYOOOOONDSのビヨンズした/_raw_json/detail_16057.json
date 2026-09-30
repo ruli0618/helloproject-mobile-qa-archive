@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 387,
+    "content_id": "16057",
+    "content_title": "東京の街と私",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2021-06-14 10:00:00",
+    "created_at": "2021-05-17 17:50:06",
+    "updated_at": "2022-01-17 14:40:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13380",
+        "material_title": "0614_kiyono_s.jpg",
+        "material_file": "1d41fe6a653a8339460b0bde3f0d03edaec84d164c4c0eac7a57001724bd85bc13380.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16057",
+    "content_title": "東京の街と私",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2021-06-14 10:00:00",
+    "created_at": "2021-05-17 17:50:06",
+    "updated_at": "2022-01-17 14:40:04",
+    "content_text": "0614_kiyono_s.jpg\n「渋谷スカイ」というところで撮りました。高所恐怖症なのでこのとき実際はこんなににこやかになれるような感じではありませんでした。\n\n【11周目お題：きれいな風景】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13380",
+        "material_title": "0614_kiyono_s.jpg",
+        "material_file": "bda4588b20c711218f6d854b39973d4601e3e131eab4d700a5e0f15d5213b35e13380.jpeg"
+      }
+    ],
+    "previous_id": "16059",
+    "next_id": "16056",
+    "saved_materials": [
+      "assets/16057_13380_0614_kiyono_s.jpg"
+    ]
+  }
+}

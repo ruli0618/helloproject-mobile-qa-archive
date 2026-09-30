@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 334,
+    "content_id": "17677",
+    "content_title": "毛布のお裾分け",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2022-03-16 10:00:00",
+    "created_at": "2022-02-17 22:15:04",
+    "updated_at": "2022-02-17 22:17:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14748",
+        "material_title": "08_kobayashi_s.jpg",
+        "material_file": "df808fb9b0e90a63f4cd26a1cd757cff6a7b13a2d16134a391b3470e312cece914748.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17677",
+    "content_title": "毛布のお裾分け",
+    "content_sub_title": "小林萌花",
+    "release_date": "2022-03-16 10:00:00",
+    "created_at": "2022-02-17 22:15:04",
+    "updated_at": "2022-02-17 22:17:34",
+    "content_text": "08_kobayashi_s.jpg\n「英雄〜笑って！ショパン先輩〜」のMV撮影で前田こころちゃんが撮ってくれた写真！岡村美波ちゃんが寒がっていた私に毛布を貸してくれました〜！癒し！！\n\n【17周目お題：癒やし】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14748",
+        "material_title": "08_kobayashi_s.jpg",
+        "material_file": "af8bb19c05def023f7d6f054d2a67162d1f78884ab73cc32ef79f048c44dc24214748.jpeg"
+      }
+    ],
+    "previous_id": "17678",
+    "next_id": "17675",
+    "saved_materials": [
+      "assets/17677_14748_08_kobayashi_s.jpg"
+    ]
+  }
+}

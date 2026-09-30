@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 385,
+    "content_id": "12407",
+    "content_title": "隣のやじまん家の塀の裏#58 小田さくら",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-10-23 20:00:00",
+    "created_at": "2019-10-23 20:33:46",
+    "updated_at": "2019-10-23 20:54:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10523",
+        "material_title": "191023_1.jpg",
+        "material_file": "fb16b1f4039fa3cfec76acda47a655675cb9e04090452d7b7356371a6271369710523.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10524",
+        "material_title": "191023_2.jpg",
+        "material_file": "a6508d22dedc37f90e57933e1c05565bd53c94ad72581e8f504a3e5ce573642110524.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12407",
+    "content_title": "隣のやじまん家の塀の裏#58 小田さくら",
+    "content_sub_title": "",
+    "release_date": "2019-10-23 20:00:00",
+    "created_at": "2019-10-23 20:33:46",
+    "updated_at": "2019-10-23 20:54:15",
+    "content_text": "更新が遅れまして、申し訳ございません。\n「隣のやじまん家」#58配信中！\n\n今回のゲストはモーニング娘。'19 小田さくらさんです！\n\n\nお2人の学校行事の思い出、自分の子どもだな～と思う所、\nお互い汗っかきとの事で、汗にまつわるエピソードなどなどお話していただきました！\n\n191023_1.jpg\n\n「矢島パイセンの○○チェック」では、\n小田さんがケンタッキー・フライドチキンへの愛をたっぷり語っています<img src=\"/emoji/emoji-images/f3e4.gif\"/><img src=\"/emoji/emoji-images/f3e4.gif\"/>\n好きな部位や復活したあのメニューについてなど、小田さんのアツいトークを是非お聴きください！\nそして、小田さんが以前待ちうけ画面にしていたというある画像についてのタレコミも…！？\n矢島パイセンの評価は、アリ…？それともナシ…？\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①パンダさんゲーム<img src=\"/emoji/emoji-images/f44a.gif\"/>\n②ヒロインっぽい台詞対決！\n\nモーニング娘。'19で流行っている？！という15期メンバー山﨑愛生さん考案の\n「パンダさんゲーム」がついに隣のやじまん家にて対決<img src=\"/emoji/emoji-images/f44a.gif\"/><img src=\"/emoji/emoji-images/f3a7.gif\"/>！\nとても盛り上がりました！(笑)\nルールはとても簡単なので、みなさんも是非やってみてくださいね♪\n\nパンダさんポーズしていただきました<img src=\"/emoji/emoji-images/f44a.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\n\n191023_2.jpg\n\n11月テーマトークのお題は\n「過去にやってしまった失敗談」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は10月29日(火)、ゲストはアンジュルム、そしてハロモバ宣伝部の川村文乃さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10523",
+        "material_title": "191023_1.jpg",
+        "material_file": "f026136715068060b9a4e5f88d7cba0936bb2050f6988def58b6da61abf0c6fb10523.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10524",
+        "material_title": "191023_2.jpg",
+        "material_file": "55b5b770ddb6c30b94c9b79fe24a78cb854c47ccbbdae88d789cae1fc06e321d10524.jpeg"
+      }
+    ],
+    "previous_id": "12472",
+    "next_id": "12405",
+    "saved_materials": [
+      "assets/12407_10523_191023_1.jpg",
+      "assets/12407_10524_191023_2.jpg"
+    ]
+  }
+}

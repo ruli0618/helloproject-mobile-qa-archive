@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 69,
+    "content_id": "17684",
+    "content_title": "知育菓子",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2022-02-18 20:58:00",
+    "created_at": "2022-02-18 20:58:24",
+    "updated_at": "2022-02-18 20:58:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14754",
+        "material_title": "0218_tanimoto_s.jpg",
+        "material_file": "2176cd2a5f623bcfbc85ad23df3792373ed518f8f982651fc7546e497d9d9c5514754.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17684",
+    "content_title": "知育菓子",
+    "content_sub_title": "谷本安美",
+    "release_date": "2022-02-18 20:58:00",
+    "created_at": "2022-02-18 20:58:24",
+    "updated_at": "2022-02-18 20:58:24",
+    "content_text": "0218_tanimoto_s.jpg\r\n最近色んな知育菓子作るの好きなんだ〜<img src=\"/emoji/emoji-images/f649.gif\"/><img src=\"/emoji/emoji-images/f649.gif\"/>\r\nこのやつ結構難しかった！",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14754",
+        "material_title": "0218_tanimoto_s.jpg",
+        "material_file": "79b506cb3eb110869526ecf374a663e2be45da8d2fe4f640104a43a9599ef2d014754.jpeg"
+      }
+    ],
+    "previous_id": "17751",
+    "next_id": "17662",
+    "saved_materials": [
+      "assets/17684_14754_0218_tanimoto_s.jpg"
+    ]
+  }
+}

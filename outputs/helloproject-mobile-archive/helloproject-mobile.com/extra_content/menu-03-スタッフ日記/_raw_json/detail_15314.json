@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 306,
+    "content_id": "15314",
+    "content_title": "年賀状届きましたか？",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-01-20 16:21:00",
+    "created_at": "2021-01-20 16:21:47",
+    "updated_at": "2021-01-20 16:21:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12744",
+        "material_title": "210120.jpg",
+        "material_file": "6cecf152bc34cfa67ac56edaa5b1ec8af05d88cb9f47b842bce41fc196e8e53512744.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15314",
+    "content_title": "年賀状届きましたか？",
+    "content_sub_title": "",
+    "release_date": "2021-01-20 16:21:00",
+    "created_at": "2021-01-20 16:21:47",
+    "updated_at": "2021-01-20 16:21:47",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n先日、年賀状プレゼント企画の当選者様のもとへ年賀状を発送いたしました！\r\n\r\nそろそろ届いているお宅もあるかと思います。\r\nお家のポストを覗いてみてくださいね。\r\n\r\n当選されました方は、\r\nぜひハッシュタグ <a href=\"https://twitter.com/search?q=%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a> をつけて、SNSに写真をアップしてください！\r\n\r\n210120.jpg\r\n\r\n少し遅いメンバーからの年賀状をお楽しみに♪",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12744",
+        "material_title": "210120.jpg",
+        "material_file": "240ab4483d2f513c2f00529763ab78fb9bcf1c8df25fffaebb917b9b3af6ab9e12744.jpeg"
+      }
+    ],
+    "previous_id": "15414",
+    "next_id": "15260",
+    "saved_materials": [
+      "assets/15314_12744_210120.jpg"
+    ]
+  }
+}

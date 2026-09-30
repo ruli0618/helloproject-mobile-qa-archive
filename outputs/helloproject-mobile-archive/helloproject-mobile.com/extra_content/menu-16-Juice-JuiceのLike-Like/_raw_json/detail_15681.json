@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 476,
+    "content_id": "15681",
+    "content_title": "学校",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-03-30 11:25:00",
+    "created_at": "2021-03-25 16:02:27",
+    "updated_at": "2021-03-30 11:25:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13094",
+        "material_title": "210330_matsunaga_s.jpg",
+        "material_file": "1be7d9dad824d864101d79e3da14f463909ba40da903c3b8cdf85c66e69c3df613094.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15681",
+    "content_title": "学校",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-03-30 11:25:00",
+    "created_at": "2021-03-25 16:02:27",
+    "updated_at": "2021-03-30 11:25:20",
+    "content_text": "大好きな中学校を卒業しました！\n210330_matsunaga_s.jpg\n高校生活も全力でenjoyします〜！",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13094",
+        "material_title": "210330_matsunaga_s.jpg",
+        "material_file": "e2b15f1ca3a419909d5cd106271a39ac9840cd48c0a3b9781c841a7398fb3f8e13094.jpeg"
+      }
+    ],
+    "previous_id": "15731",
+    "next_id": "15680",
+    "saved_materials": [
+      "assets/15681_13094_210330_matsunaga_s.jpg"
+    ]
+  }
+}

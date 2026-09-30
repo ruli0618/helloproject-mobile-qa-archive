@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 54,
+    "content_id": "11240",
+    "content_title": "見つけた",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-04-20 10:00:00",
+    "created_at": "2019-04-19 12:05:29",
+    "updated_at": "2019-04-19 12:05:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9614",
+        "material_title": "0420_akiyama_s.jpg",
+        "material_file": "131ac5ee163f6d4aa8a1c992379509f8db1f333d14835882f9dbbfd61b21429b9614.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11240",
+    "content_title": "見つけた",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-04-20 10:00:00",
+    "created_at": "2019-04-19 12:05:29",
+    "updated_at": "2019-04-19 12:05:29",
+    "content_text": "0420_akiyama_s.jpg\r\n\r\nこの間、1人でランニングしてたら可愛いお花を見つけました！\r\nでも途中で止まりたくなかったので足踏みしながら写真撮りました！！笑\r\n色が綺麗でついつい撮りたくなったんです♡\r\n\r\n今年は、たくさんお花を見つけたいな〜\r\n\r\n秋山 眞緒",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9614",
+        "material_title": "0420_akiyama_s.jpg",
+        "material_file": "dcadaf31b9aab4772d1bb2315bacb68f00cd6a819102b70f88722e360c0367af9614.jpeg"
+      }
+    ],
+    "previous_id": "11278",
+    "next_id": "11229",
+    "saved_materials": [
+      "assets/11240_9614_0420_akiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 72,
+    "content_id": "10583",
+    "content_title": "夢の国で",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2018-12-27 13:40:00",
+    "created_at": "2018-12-27 13:41:24",
+    "updated_at": "2018-12-27 13:41:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9126",
+        "material_title": "1227_tanimoto_s.jpg",
+        "material_file": "c10858369ae0b15641b09d9c7f9897751d4bf48bb649cb258c78d3701992407c9126.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10583",
+    "content_title": "夢の国で",
+    "content_sub_title": "谷本安美",
+    "release_date": "2018-12-27 13:40:00",
+    "created_at": "2018-12-27 13:41:24",
+    "updated_at": "2018-12-27 13:41:24",
+    "content_text": "この間、ディズニーランドに行った時\r\nたくさんお花咲いてたんです<img src=\"/emoji/emoji-images/f9a9.gif\"/>\r\nその中の可愛いぴんくのお花と一緒に\r\nぱしゃりしました〜<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\n1227_tanimoto_s.jpg",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9126",
+        "material_title": "1227_tanimoto_s.jpg",
+        "material_file": "48beae84d03ab48315a34a308e62cd1bbae25c95f6807f1214a09fab0ef300c99126.jpeg"
+      }
+    ],
+    "previous_id": "10596",
+    "next_id": "10537",
+    "saved_materials": [
+      "assets/10583_9126_1227_tanimoto_s.jpg"
+    ]
+  }
+}

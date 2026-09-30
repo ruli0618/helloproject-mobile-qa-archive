@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 396,
+    "content_id": "15793",
+    "content_title": "色違い〜！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-05-05 10:00:00",
+    "created_at": "2021-04-07 19:22:37",
+    "updated_at": "2022-01-17 14:39:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13164",
+        "material_title": "0505_satoyoshi_s.jpg",
+        "material_file": "ef0e2632bf7e4575ceb2517b6ed289e93e31be185964dcea64150cf95bea6c0313164.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15793",
+    "content_title": "色違い〜！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-05-05 10:00:00",
+    "created_at": "2021-04-07 19:22:37",
+    "updated_at": "2022-01-17 14:39:19",
+    "content_text": "0505_satoyoshi_s.jpg\n『演劇女子部｢眠れる森のビヨ｣』ビジュアル撮影のオフショット！！\nこの3人は衣装が色違いなんですよ〜！\nそれぞれどんな役なのか…お楽しみに♥\n\n【10周目お題：グループショット(複数人)】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13164",
+        "material_title": "0505_satoyoshi_s.jpg",
+        "material_file": "07d8d1b9ceae459123c7e104bfe59fe3c5fb9b8b2a4ea032a5592751121c1c2a13164.jpeg"
+      }
+    ],
+    "previous_id": "15794",
+    "next_id": "15792",
+    "saved_materials": [
+      "assets/15793_13164_0505_satoyoshi_s.jpg"
+    ]
+  }
+}

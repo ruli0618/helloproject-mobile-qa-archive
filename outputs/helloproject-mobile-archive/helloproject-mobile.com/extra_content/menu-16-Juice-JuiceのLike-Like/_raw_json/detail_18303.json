@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 362,
+    "content_id": "18303",
+    "content_title": "肩",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-06-09 10:00:00",
+    "created_at": "2022-06-06 21:32:25",
+    "updated_at": "2022-06-06 21:32:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15267",
+        "material_title": "0607_matsunaga_s.jpg",
+        "material_file": "30e29233e8232ba1f9ad0480eda693aa986446a7265f153afb6e4383911b2cf015267.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18303",
+    "content_title": "肩",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-06-09 10:00:00",
+    "created_at": "2022-06-06 21:32:25",
+    "updated_at": "2022-06-06 21:32:25",
+    "content_text": "私は、人の肩にもたれて寝るのが好きなのですが最近はりさにもたれられる側になったよ\r\n0607_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15267",
+        "material_title": "0607_matsunaga_s.jpg",
+        "material_file": "ead999f576c0bdacd9cd971617a1904e7ee21d881bc0686640e5e5227002412a15267.jpeg"
+      }
+    ],
+    "previous_id": "18304",
+    "next_id": "18302",
+    "saved_materials": [
+      "assets/18303_15267_0607_matsunaga_s.jpg"
+    ]
+  }
+}

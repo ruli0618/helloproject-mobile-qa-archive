@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 220,
+    "content_id": "18253",
+    "content_title": "ふくむらの部屋配信日決定！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-26 23:00:00",
+    "created_at": "2022-05-27 23:02:10",
+    "updated_at": "2022-05-27 23:02:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18253",
+    "content_title": "ふくむらの部屋配信日決定！",
+    "content_sub_title": "",
+    "release_date": "2022-05-26 23:00:00",
+    "created_at": "2022-05-27 23:02:10",
+    "updated_at": "2022-05-27 23:02:10",
+    "content_text": "先日配信を延期させて頂きましたハロー！ラジオ「ふくむらの部屋」ですが、6月1日(水)に配信する事が決定しました。\r\n\r\nハロー！ラジオ「ふくむらの部屋」第107回\r\nゲスト：アンジュルム 松本わかな\r\n配信日：6月1日(水)17時頃\r\n\r\nいつもと配信曜日が違いますので、ご注意ください。\r\nお楽しみに！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18345",
+    "next_id": "18526",
+    "saved_materials": []
+  }
+}

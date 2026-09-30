@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 425,
+    "content_id": "11173",
+    "content_title": "SATOYAMAイベント",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-29 15:47:00",
+    "created_at": "2019-03-29 15:46:02",
+    "updated_at": "2019-03-29 15:47:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9550",
+        "material_title": "0322_01.jpg",
+        "material_file": "81ca2d7d98f5d90229cc4a1d1f1df7eea74c265d5bf6a8256db93d2cf9bb51099550.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9552",
+        "material_title": "01.jpg",
+        "material_file": "8bdd2e67ff98527d3b9e143833aa25fccedf0d833891e5288000a4ddf6c0a6ad9552.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9553",
+        "material_title": "02.jpg",
+        "material_file": "90c26e09ab22ad0a9a426b609d3d6f08920bde9a50af58774c4990719c6f23089553.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11173",
+    "content_title": "SATOYAMAイベント",
+    "content_sub_title": "",
+    "release_date": "2019-03-29 15:47:00",
+    "created_at": "2019-03-29 15:46:02",
+    "updated_at": "2019-03-29 15:47:49",
+    "content_text": "こんにちは。\nスタッフ番号2番です。\n\n3/30(土)31(日)幕張メッセにて開催する「<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">遊ぶ。暮らす。育てる。SATOYAMA & SATOUMI へ行こう2019</a>」に、ハロ！モバブースが出展します！！\n\nブースの詳細は\n\n01.jpg\n<b>★ハロ！モバ宣伝部Tシャツ再販！</b>\n\n02.jpg\n<b>★ハロ！モバ会員証・チラシ配布！</b>\n\n<b>★宣伝部員と写真が撮れる！？PHOTO SPOT設置！</b>\n\nという豪華な内容になっています！\n\nサブステージでのハロ！モバイベントもあります！\n宣伝部員メンバー(野中美希・小片リサ・川村文乃・前田こころ)のファンの方は特に、ぜひぜひお越し下さいね♪\n\n▼サブステージイベント開始時間\n3/30(土)15:30～\n3/31(日)14:00～\n\nブースの場所はココです。\n\n0322_01.jpg\n\n皆さまのご来場、お待ちしております♪\n",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9550",
+        "material_title": "0322_01.jpg",
+        "material_file": "538683b4bb820306ddec315641fe7764b6c01f55c998d97338f72f30d69156e59550.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9552",
+        "material_title": "01.jpg",
+        "material_file": "3240e8d772a6f8a8e132590bffa6fccc1b9912d5fee0b78c5f39f486414280569552.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9553",
+        "material_title": "02.jpg",
+        "material_file": "3a04f564f372f7d5923f52becaf623b9d56da384ecb89ae51c241b8ced31196f9553.jpeg"
+      }
+    ],
+    "previous_id": "11176",
+    "next_id": "11146",
+    "saved_materials": [
+      "assets/11173_9550_0322_01.jpg",
+      "assets/11173_9552_01.jpg",
+      "assets/11173_9553_02.jpg"
+    ]
+  }
+}

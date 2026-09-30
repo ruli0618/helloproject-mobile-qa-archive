@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 136,
+    "content_id": "21246",
+    "content_title": "工藤の家の屋根裏部屋#137～谷本安美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-07-25 00:00:00",
+    "created_at": "2023-11-14 20:15:47",
+    "updated_at": "2023-11-14 20:32:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17457",
+        "material_title": "230725_s.jpg",
+        "material_file": "b7092106c328c25eeb552d470acc1450cf6c2b162fbdc3aab984142a715e039917457.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21246",
+    "content_title": "工藤の家の屋根裏部屋#137～谷本安美～",
+    "content_sub_title": "",
+    "release_date": "2023-07-25 00:00:00",
+    "created_at": "2023-11-14 20:15:47",
+    "updated_at": "2023-11-14 20:32:24",
+    "content_text": "ふくむらの部屋 第137回は、つばきファクトリー谷本安美さんが登場！\n\n・Instagram撮影ポイント\n・ハロー！プロジェクトの推しメン\nのお話からスタート！\n\n「ふくむらの部屋100の質問」のコーナーでは、\n5問ずつ10問の質問に答えました！\n30問達成！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・中野サンプラザ\n・サブリーダー\nを語りました！\n\n後半では、\n・現場のはしご\n・メンバーの印象的な家族\nについてトーク！\n\n230725_s.jpg\n\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "17457",
+        "material_title": "230725_s.jpg",
+        "material_file": "864104eac056750d77e7867dcf6e8d1114d1365eeb90a5b17be245a1d421b36a17457.jpeg"
+      }
+    ],
+    "previous_id": "20653",
+    "next_id": "23372",
+    "saved_materials": [
+      "assets/21246_17457_230725_s.jpg"
+    ]
+  }
+}

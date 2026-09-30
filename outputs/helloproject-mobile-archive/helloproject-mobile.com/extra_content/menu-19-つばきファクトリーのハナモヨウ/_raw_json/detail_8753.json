@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 117,
+    "content_id": "8753",
+    "content_title": "さくら",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2018-03-16 11:00:00",
+    "created_at": "2018-03-15 16:38:09",
+    "updated_at": "2018-03-15 16:38:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7671",
+        "material_title": "0316_tanimoto_s.jpg",
+        "material_file": "6f754696e4777aacd4366b31cd516f39c77ba5f30d1094858d1fa578a1bb86e17671.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8753",
+    "content_title": "さくら",
+    "content_sub_title": "谷本安美",
+    "release_date": "2018-03-16 11:00:00",
+    "created_at": "2018-03-15 16:38:09",
+    "updated_at": "2018-03-15 16:38:09",
+    "content_text": "0316_tanimoto_s.jpg\r\n2月の後半に撮った河津桜です！\r\nまだ春じゃなかったから咲きかけの桜！！\r\n桜を見ると春を感じるね\r\n",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7671",
+        "material_title": "0316_tanimoto_s.jpg",
+        "material_file": "f8c6da1c6efaa02e1f7bfe81c0b7924473780deb5dd0e8219f22ab4a518816527671.jpeg"
+      }
+    ],
+    "previous_id": "8801",
+    "next_id": "8742",
+    "saved_materials": [
+      "assets/8753_7671_0316_tanimoto_s.jpg"
+    ]
+  }
+}

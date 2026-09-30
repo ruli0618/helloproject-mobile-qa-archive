@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 223,
+    "content_id": "20998",
+    "content_title": "多すぎ！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2023-11-20 10:00:00",
+    "created_at": "2023-10-10 23:30:15",
+    "updated_at": "2023-10-10 23:30:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17284",
+        "material_title": "1120_satoyoshi_s.jpg",
+        "material_file": "e2da3e91e5c00293fedd5e5f6c6d76960259a793cb22ff9771d006ebd936ae9217284.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20998",
+    "content_title": "多すぎ！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2023-11-20 10:00:00",
+    "created_at": "2023-10-10 23:30:15",
+    "updated_at": "2023-10-10 23:30:15",
+    "content_text": "1120_satoyoshi_s.jpg\r\n夏に現れたサングラスお姉さんたちです。\r\nビヨは夏のサングラス率高い！\r\n\r\n【29周目お題：面白い 】",
+    "materials": [
+      {
+        "secretKey": "4f33116813b24bdb1df518f3397096cf",
+        "material_id": "17284",
+        "material_title": "1120_satoyoshi_s.jpg",
+        "material_file": "51b67a5ec3675615a9c72c7287719dad02d42a6dd929e8719bc60493e590425b17284.jpeg"
+      }
+    ],
+    "previous_id": "21316",
+    "next_id": "20997",
+    "saved_materials": [
+      "assets/20998_17284_1120_satoyoshi_s.jpg"
+    ]
+  }
+}

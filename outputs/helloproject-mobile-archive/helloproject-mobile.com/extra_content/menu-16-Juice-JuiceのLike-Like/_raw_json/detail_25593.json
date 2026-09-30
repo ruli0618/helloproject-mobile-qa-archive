@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 38,
+    "content_id": "25593",
+    "content_title": "寒さ対策",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2026-01-01 10:00:00",
+    "created_at": "2026-01-14 17:29:43",
+    "updated_at": "2026-01-14 17:29:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20930",
+        "material_title": "0101_kawashima_s.jpg",
+        "material_file": "c7036f632935b233e1914ed396335ce1421c5f0cf83b69ede803997bf5105d0820930.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25593",
+    "content_title": "寒さ対策",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2026-01-01 10:00:00",
+    "created_at": "2026-01-14 17:29:43",
+    "updated_at": "2026-01-14 17:29:43",
+    "content_text": "0101_kawashima_s.jpg\r\nこんにちは！\r\n本格的に寒い日が続きますね<img src=\"/emoji/emoji-images/f46d.gif\"/>\r\n今年は徹底的に寒さ対策をしてます！笑\r\n\r\n寒さ対策グッズ見つけたら手に取っちゃいます！\r\nあなたもあたたかくして\r\n楽しい冬をお過ごしください！！\r\nそれでは！\r\n川嶋美楓",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20930",
+        "material_title": "0101_kawashima_s.jpg",
+        "material_file": "c93f36cb3217b978478337d8f92e6545b5601fc7386a43a47a8c8cde5537a38e20930.jpeg"
+      }
+    ],
+    "previous_id": "25612",
+    "next_id": "25592",
+    "saved_materials": [
+      "assets/25593_20930_0101_kawashima_s.jpg"
+    ]
+  }
+}

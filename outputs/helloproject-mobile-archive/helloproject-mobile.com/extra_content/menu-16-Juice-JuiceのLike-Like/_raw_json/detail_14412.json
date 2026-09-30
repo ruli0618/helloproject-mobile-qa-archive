@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 522,
+    "content_id": "14412",
+    "content_title": "愛猫",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2020-09-08 10:00:00",
+    "created_at": "2020-08-30 18:21:03",
+    "updated_at": "2020-08-30 18:21:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11995",
+        "material_title": "0908_matsunaga_s.jpg",
+        "material_file": "002739549a12acfba1a698614f7c3512c004094ef66a67a1250be90109c422c711995.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14412",
+    "content_title": "愛猫",
+    "content_sub_title": "松永里愛",
+    "release_date": "2020-09-08 10:00:00",
+    "created_at": "2020-08-30 18:21:03",
+    "updated_at": "2020-08-30 18:21:03",
+    "content_text": "0908_matsunaga_s.jpg\r\n愛猫のビビちゃんの写真が送られてきました！\r\nクロエちゃんはお写真が苦手なので撮らせてくれないみたいですが。。\r\n可愛すぎる〜〜〜。。",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "11995",
+        "material_title": "0908_matsunaga_s.jpg",
+        "material_file": "c86ea7c77af0f188f8f583e5fba4c8baccd47fce3407470b9fb509d178db20dd11995.jpeg"
+      }
+    ],
+    "previous_id": "14449",
+    "next_id": "14373",
+    "saved_materials": [
+      "assets/14412_11995_0908_matsunaga_s.jpg"
+    ]
+  }
+}

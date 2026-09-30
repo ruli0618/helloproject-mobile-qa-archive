@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 596,
+    "content_id": "12096",
+    "content_title": "空。。",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2019-09-17 10:00:00",
+    "created_at": "2019-09-13 14:47:00",
+    "updated_at": "2019-09-13 14:47:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10301",
+        "material_title": "0917_matsunaga_s.jpg",
+        "material_file": "cfca8515e0d45f8602311e0d9abc98a9a0f1de3e15be16193ff0a4e2bcfc283e10301.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12096",
+    "content_title": "空。。",
+    "content_sub_title": "松永里愛",
+    "release_date": "2019-09-17 10:00:00",
+    "created_at": "2019-09-13 14:47:00",
+    "updated_at": "2019-09-13 14:47:00",
+    "content_text": "最近、空を見るのが好きです。\r\n雲の形っていっぱいあって不思議。。\r\n\r\n0917_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10301",
+        "material_title": "0917_matsunaga_s.jpg",
+        "material_file": "e6979e2efed5d054f7990df24845ce17ce8f9229ab699ac8b6f214f516af7c4e10301.jpeg"
+      }
+    ],
+    "previous_id": "12214",
+    "next_id": "12093",
+    "saved_materials": [
+      "assets/12096_10301_0917_matsunaga_s.jpg"
+    ]
+  }
+}

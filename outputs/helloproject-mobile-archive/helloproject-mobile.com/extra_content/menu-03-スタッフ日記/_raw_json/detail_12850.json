@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 368,
+    "content_id": "12850",
+    "content_title": "工藤の家の屋根裏部屋#65～和田桜子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-01-07 20:37:00",
+    "created_at": "2020-01-07 20:33:34",
+    "updated_at": "2020-01-07 20:37:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10866",
+        "material_title": "200107_01_s.jpg",
+        "material_file": "fe27df02b30c31723c7be7599fd1bc9b4d16ad1a4742644a48a28c4661aa058b10866.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10867",
+        "material_title": "200107_02_s.jpg",
+        "material_file": "6442062a8668d21829502b3b27e1e2c4d984b46bc0c1163c327e0615fc74b1e710867.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12850",
+    "content_title": "工藤の家の屋根裏部屋#65～和田桜子～",
+    "content_sub_title": "",
+    "release_date": "2020-01-07 20:37:00",
+    "created_at": "2020-01-07 20:33:34",
+    "updated_at": "2020-01-07 20:37:13",
+    "content_text": "新年明けましておめでとうございます！\r\n本年もハロ！モバをよろしくお願いいたします。\r\n\r\n本日より、2020年1回目！\r\nふくむらの部屋 第65回の配信を開始しました！\r\n\r\nゲストはこの方、\r\nこぶしファクトリー和田桜子さん！\r\n\r\n200107_01_s.jpg\r\n\r\nリボーンの舞台では、クレオパトラ役同士のお二人。\r\n\r\nお互いのキュンとする瞬間\r\nメンバーを愛しいと思う瞬間\r\n2019年お気に入り曲\r\n2020年やりたい事などなど、\r\nまったりしながらトークして頂きました♪\r\n\r\nお悩み相談にも、お2人なりの答えでサクサク解決！\r\n\r\nコラボ企画では、こちら↓の質問にお答えしました。\r\n\r\n200107_02_s.jpg\r\n\r\n次回ゲストは、モーニング娘。'20 15期メンバーから2人目、山﨑愛生さんが初登場！\r\n1/14(火)AM10:00まで、メール募集中！\r\n回替りコーナーは、皆に伝えたいハロプロ名場面です。\r\n\r\n<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n沢山のメールお待ちしています！\r\n\r\nそれでは、お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10866",
+        "material_title": "200107_01_s.jpg",
+        "material_file": "5d6412620d508e05a04bcf23a08d679e649b7cd8701d7b2de390291bc055b85d10866.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10867",
+        "material_title": "200107_02_s.jpg",
+        "material_file": "16bc32341671cb01e4140cd99df230c60208544e8a03adbabf068e5945665ee210867.jpeg"
+      }
+    ],
+    "previous_id": "12891",
+    "next_id": "12839",
+    "saved_materials": [
+      "assets/12850_10866_200107_01_s.jpg",
+      "assets/12850_10867_200107_02_s.jpg"
+    ]
+  }
+}

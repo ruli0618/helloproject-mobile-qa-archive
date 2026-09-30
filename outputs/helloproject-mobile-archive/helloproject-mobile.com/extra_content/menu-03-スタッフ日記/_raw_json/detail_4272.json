@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 671,
+    "content_id": "4272",
+    "content_title": "工藤の家の天井裏#6 ～コロンの娘。～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-03-16 18:09:00",
+    "created_at": "2016-03-16 17:58:25",
+    "updated_at": "2016-03-16 18:33:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3922",
+        "material_title": "160316_s_2.jpg",
+        "material_file": "1230305e2b259ed4235d86e1e06ced71e98ac3537541057152bdc7735bdcaed73922.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3923",
+        "material_title": "160316_s.jpg",
+        "material_file": "e0fafa1671c0cd3d1115bebf7a3bd92c3839b511ab27ed670ee3f0d60998f32f3923.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4272",
+    "content_title": "工藤の家の天井裏#6 ～コロンの娘。～",
+    "content_sub_title": "",
+    "release_date": "2016-03-16 18:09:00",
+    "created_at": "2016-03-16 17:58:25",
+    "updated_at": "2016-03-16 18:33:21",
+    "content_text": "今回の番組編集後は魂が抜けたように疲れてしまった、\nハロ！モバスタッフ番号4番♂です。\n\n常に品の良い番組を目指している『やじまの部屋やな』ですが、\n今回はあのあのあのゲストのおかげでとても騒がしい番組になってしまいました。\nオープニングのゲスト呼び込みからよくわからないハイテンション。\n滑舌が悪く、よく聞き取れない数々のつまらないダジャレ。\n他にもここじゃ書けないことがたくさんたくさん。\n矢島さんもすっかり感化されておかしなテンションに・・・\n恐るべき鈴木愛理さん。\n\nでも、\nリスナーのことを「視聴者」と言ったり←鈴木愛理\n左右均等を「左右平均」と言ったり←矢島舞美\nまだまだです。\n\n\n番組内の突然の展開でハロ！モバイベントを開催する可能性が出てきました。\nハロ！モバ会員（400円・700円両方）で開催を希望される方は、\n<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\nまでメールを送って下さい。\n件名には「やじすずアコースティックライブ開催希望」と記入してください。\n必ずハロ！モバに登録しているメールアドレスからお願いします。\n\n4月12日までに500通集まったらハロ！モバ会員限定イベント「コロンの娘。アコースティックライブ(仮)」を開催します。会場探しから始めなければならないので、多分開催は夏かそれ以降になると思います。\n\n\n今回の写真はこちら！\n\n\n160316_s.jpg\n\n\nもう気分はアコースティックライブみたいです…\n\n\n「犯人を追え！」コーナーの似顔絵はこちら。\n\n160316_s_2.jpg",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3922",
+        "material_title": "160316_s_2.jpg",
+        "material_file": "51dc035737f9ed9103798c3d1a1d58a79c9fb3ffc1399ff053bde4d7f05e20503922.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3923",
+        "material_title": "160316_s.jpg",
+        "material_file": "71dbab43344f41c8d7d10b93c1e0bb17d49abab31c1e48ba34c95bf1a577bd713923.jpeg"
+      }
+    ],
+    "previous_id": "4368",
+    "next_id": "4247",
+    "saved_materials": [
+      "assets/4272_3922_160316_s_2.jpg",
+      "assets/4272_3923_160316_s.jpg"
+    ]
+  }
+}

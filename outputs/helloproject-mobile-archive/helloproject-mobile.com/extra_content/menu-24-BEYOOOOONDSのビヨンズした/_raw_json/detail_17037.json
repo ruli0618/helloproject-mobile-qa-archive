@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 350,
+    "content_id": "17037",
+    "content_title": "メンバーカラー衣装",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2021-12-13 10:00:00",
+    "created_at": "2021-11-04 17:28:04",
+    "updated_at": "2022-01-17 14:43:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14233",
+        "material_title": "1213_kobayashi_s.jpg",
+        "material_file": "0f6434f2f6f7f05a7d52555797fb8ff5a0892b723d1407985119d069d9d210e314233.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17037",
+    "content_title": "メンバーカラー衣装",
+    "content_sub_title": "小林萌花",
+    "release_date": "2021-12-13 10:00:00",
+    "created_at": "2021-11-04 17:28:04",
+    "updated_at": "2022-01-17 14:43:55",
+    "content_text": "1213_kobayashi_s.jpg\nなんだかんだメンバーカラーがしっくりくる！21歳のバースデーイベントは緑の衣装でした！\n\n【15周目お題：メンバーカラー】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14233",
+        "material_title": "1213_kobayashi_s.jpg",
+        "material_file": "e56b1de6d6dd1a4f9d353aa048871ceec098987773a97d983ac590689e2a342d14233.jpeg"
+      }
+    ],
+    "previous_id": "17038",
+    "next_id": "17036",
+    "saved_materials": [
+      "assets/17037_14233_1213_kobayashi_s.jpg"
+    ]
+  }
+}

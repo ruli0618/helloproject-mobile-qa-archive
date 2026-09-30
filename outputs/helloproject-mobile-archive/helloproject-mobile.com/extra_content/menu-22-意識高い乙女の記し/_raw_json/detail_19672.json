@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "19672",
+    "content_title": "ミュージックビデオ",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2023-02-24 10:00:00",
+    "created_at": "2023-02-09 17:05:52",
+    "updated_at": "2023-02-09 17:05:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16321",
+        "material_title": "0224_onoda_s.jpg",
+        "material_file": "33e44b4c0a5314fab30dd9434bb40cbb96d920ff0355b8834c15169b82818ceb16321.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19672",
+    "content_title": "ミュージックビデオ",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2023-02-24 10:00:00",
+    "created_at": "2023-02-09 17:05:52",
+    "updated_at": "2023-02-09 17:05:52",
+    "content_text": "少しずつ外があたたかくなってきたなあーと感じている、さおりです♪\r\n\r\n新曲3曲のミュージックビデオみてくれましたかー？？\r\n\r\n寒い中の撮影だったので、\r\n寒さ対策たくさんしていました！\r\n\r\nカイロは最高！！！！笑\r\n\r\nぜひミュージックビデオみてくださいね！\r\n\r\n\r\n今日も、さおりの写真です♪\r\n\r\n0224_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16321",
+        "material_title": "0224_onoda_s.jpg",
+        "material_file": "66411556a469b6015d4fdfce1836e78e3590f8cf5dac4742a7fc792d8fb8a92116321.jpeg"
+      }
+    ],
+    "previous_id": "19766",
+    "next_id": "19648",
+    "saved_materials": [
+      "assets/19672_16321_0224_onoda_s.jpg"
+    ]
+  }
+}

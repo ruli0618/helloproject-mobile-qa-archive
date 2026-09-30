@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 155,
+    "content_id": "22956",
+    "content_title": "眩しい〜！",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2024-10-14 10:00:00",
+    "created_at": "2024-09-25 12:07:07",
+    "updated_at": "2024-09-25 12:07:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18813",
+        "material_title": "1014_okamura_s.jpg",
+        "material_file": "4b23eadc670769103d6aa839ce57465be7716cf6cdd60c33e3460d2d3736028118813.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22956",
+    "content_title": "眩しい〜！",
+    "content_sub_title": "岡村美波",
+    "release_date": "2024-10-14 10:00:00",
+    "created_at": "2024-09-25 12:07:07",
+    "updated_at": "2024-09-25 12:07:07",
+    "content_text": "1014_okamura_s.jpg\r\n夏の晴れた空が大好きです♡\r\n\r\n【37周目お題：季節を感じる】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "18813",
+        "material_title": "1014_okamura_s.jpg",
+        "material_file": "97f4a29f1ad7e999e6d03a18d6a2470e1627b11866a4220279b1889840d350ef18813.jpeg"
+      }
+    ],
+    "previous_id": "22957",
+    "next_id": "22955",
+    "saved_materials": [
+      "assets/22956_18813_1014_okamura_s.jpg"
+    ]
+  }
+}

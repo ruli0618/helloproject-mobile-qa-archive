@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 416,
+    "content_id": "11514",
+    "content_title": "工藤の家の屋根裏部屋#49～一岡伶奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-05-30 16:06:00",
+    "created_at": "2019-05-30 16:07:53",
+    "updated_at": "2019-05-30 16:17:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9827",
+        "material_title": "0530_02_s.jpg",
+        "material_file": "62fe77a4f2556db8f6383cc840e73d407de5051997e4f8dd2a79047513878edd9827.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9828",
+        "material_title": "0530_01_s.jpg",
+        "material_file": "98cabc0303a3afa87b91ad9cb9c4b23bc7e6452c1bf445ece6247c97d0f48c749828.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9829",
+        "material_title": "0530_03_s.jpg",
+        "material_file": "6e5f600caca494c61394659f7a9bb27589730dd4b57bffa92fe1ea6baf3e39e49829.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11514",
+    "content_title": "工藤の家の屋根裏部屋#49～一岡伶奈～",
+    "content_sub_title": "",
+    "release_date": "2019-05-30 16:06:00",
+    "created_at": "2019-05-30 16:07:53",
+    "updated_at": "2019-05-30 16:17:44",
+    "content_text": "ふくむらの部屋48回目！もうチェックしていただけましたか？\n\n今回のゲストは\nBEYOOOOONDS/CHICA#TETSUから\n一岡伶奈さんが登場！！\n\n0530_01_s.jpg\n\n電車好きの一岡さん。\n\n電車の乗り換えが苦手な譜久村さん。\n\n乗り換えのコツから、好きな車両、電車の豆知識まで\n今回は電車特集でお送りしています。\n\n0530_02_s.jpg\n\nBEYOOOOONDSメジャーデビュー発表前夜の珍事件!?\n\n研修生の同期がデビューした時の心境。\n\n西田汐里の「譜久村さん大好きエピソード」を告白!?\n\n今回もふくむらの部屋ならではトークが盛りだくさんです！\n\n0530_03_s.jpg\n\n次回のゲストはハロー！プロジェクト、アンジュルムの卒業を控えた和田彩花さんが登場！\nどんなお話が聞けるでしょうか！！お楽しみに！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9827",
+        "material_title": "0530_02_s.jpg",
+        "material_file": "e38fa527b9917d7bc1a7ba8b1d095882d8d8e1ece86c816537cc5cb8042d0b259827.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9828",
+        "material_title": "0530_01_s.jpg",
+        "material_file": "4e800826ed9bb4137fc77e32db8548861672b64986419f4c914dda30e836c7199828.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9829",
+        "material_title": "0530_03_s.jpg",
+        "material_file": "16dfde5e718df23d571697a8196a20d9a5fcafa5a3637dac60a1298fae028cd69829.jpeg"
+      }
+    ],
+    "previous_id": "11515",
+    "next_id": "11413",
+    "saved_materials": [
+      "assets/11514_9827_0530_02_s.jpg",
+      "assets/11514_9828_0530_01_s.jpg",
+      "assets/11514_9829_0530_03_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 149,
+    "content_id": "22679",
+    "content_title": "牛乳！！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-08-01 10:00:00",
+    "created_at": "2024-07-31 23:20:59",
+    "updated_at": "2024-07-31 23:20:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18561",
+        "material_title": "0801_matsunaga_s.jpg",
+        "material_file": "ed4bc751131c37f2e5d65c09e7f10b2b9543bd36ad72b179b167f835ec071f8318561.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22679",
+    "content_title": "牛乳！！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-08-01 10:00:00",
+    "created_at": "2024-07-31 23:20:59",
+    "updated_at": "2024-07-31 23:20:59",
+    "content_text": "北海道の牛乳！！\r\nめちゃ美味しかったデス♡\r\n0801_matsunaga_s.jpg\r\nWithいちかたん\r\n北海道だーいすき！！！",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18561",
+        "material_title": "0801_matsunaga_s.jpg",
+        "material_file": "ad514da5575e40cf3db5387d15b356909a44c1f54629c10e742e64311a27174918561.jpeg"
+      }
+    ],
+    "previous_id": "22680",
+    "next_id": "22649",
+    "saved_materials": [
+      "assets/22679_18561_0801_matsunaga_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 39,
+    "content_id": "25592",
+    "content_title": "クリスマスマーケット",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2025-12-30 10:00:00",
+    "created_at": "2026-01-14 17:29:42",
+    "updated_at": "2026-01-14 17:29:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20931",
+        "material_title": "1230_endo_s.jpg",
+        "material_file": "31351b3687dbfb46d5898a5fb131bf21986c1e49742e69fd2b6c679b60c39dcb20931.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25592",
+    "content_title": "クリスマスマーケット",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2025-12-30 10:00:00",
+    "created_at": "2026-01-14 17:29:42",
+    "updated_at": "2026-01-14 17:29:42",
+    "content_text": "1230_endo_s.jpg\r\n遠藤彩加里です♪\r\nこの前、江端さんとクリスマスマーケットに行ったんです！\r\n江端さんがクリスマスマーケット初めてだったみたいで、ワクワクしていて可愛かったです♡\r\nクリスマス大好き！！！\r\n江端さんと一緒に行けて嬉しかったです♪",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20931",
+        "material_title": "1230_endo_s.jpg",
+        "material_file": "23fffa97447b429050cc0a5e998f9dd651d5297fe268f9d5245d54798d40e24620931.jpeg"
+      }
+    ],
+    "previous_id": "25593",
+    "next_id": "25506",
+    "saved_materials": [
+      "assets/25592_20931_1230_endo_s.jpg"
+    ]
+  }
+}

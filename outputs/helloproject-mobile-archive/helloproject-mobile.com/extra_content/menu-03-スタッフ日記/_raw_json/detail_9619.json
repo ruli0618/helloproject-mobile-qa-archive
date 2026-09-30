@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 489,
+    "content_id": "9619",
+    "content_title": "工藤の家の屋根裏部屋#29～室田瑞希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-01 11:00:00",
+    "created_at": "2018-07-31 18:14:27",
+    "updated_at": "2018-07-31 18:16:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8413",
+        "material_title": "180801_03_s.jpg",
+        "material_file": "575e13c493e367b519f99da218fe1500311fa7de7b6e0c14aa5cad1b09f687a98413.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8414",
+        "material_title": "180801_02_s.jpg",
+        "material_file": "3f444739fe646fbf6c013dd1416c7e3e14ca07ef859ebd6d9554a0eba5a11a0e8414.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8415",
+        "material_title": "180801_01_s.jpg",
+        "material_file": "1d1e58ddeeeb2a05be2a4b0326941cfc8aa1942ff0b68a338be938693829fccc8415.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9619",
+    "content_title": "工藤の家の屋根裏部屋#29～室田瑞希～",
+    "content_sub_title": "",
+    "release_date": "2018-08-01 11:00:00",
+    "created_at": "2018-07-31 18:14:27",
+    "updated_at": "2018-07-31 18:16:58",
+    "content_text": "「ふくむらの部屋」29(ふく)の回配信が開始しました！\n\n\n今回のゲストはアンジュルム室田瑞希さんが登場！！\n\n180801_01_s.jpg\n\nWみずきでお送りしています！\n\n部屋に入ってくるところから皆様にお届けしたかったくらいのハイテンション！\n\n\n室田さんは普通のお便りをこのように折ってくじ引き形式で選んでいました。\n\n180801_02_s.jpg\n\n室田さんワールド全開です。\n\n\n「U.S.A.」スペシャルコラボの裏話！\n\n夏フェスに向けてのアドバイス！\n\n室田さんから見る譜久村さんは〇〇が踊っている!?\n\n譜久村さんが黒木先生に作って欲しいものとは!?\n\n暑さも吹き飛ぶ爆笑エピソードが満載です！\n\n\n180801_03_s.jpg\n\n\nメドレーセレクションのコーナーでは\n「蚊に刺された時“かゆさ”を吹き飛ばしてくれるメドレー」\nいろんな観点から選曲していただいて譜久村さんもすごい！と感心していました\n\n次回のテーマは室田さん提案の\n「即興しやすい曲メドレー」…？\n室田さん自らお手本をやってくれたのですが…？\n\n…替え歌したくなる曲！ということだそうですね。\n\nということで「（即興で）替え歌したくなる曲」を募集します！\n\n\n前回に増して難解なテーマですが斬新なメールをお待ちしています！\n\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\n「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8413",
+        "material_title": "180801_03_s.jpg",
+        "material_file": "784f6c90aef7197580c63c06b45ef2071145f48196ba30645b3e351f223910458413.jpeg"
+      },
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8414",
+        "material_title": "180801_02_s.jpg",
+        "material_file": "b8654af0bfe0abb52f55b1f06f4b25a07bafd82ae664672e3acc08c77c66526f8414.jpeg"
+      },
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8415",
+        "material_title": "180801_01_s.jpg",
+        "material_file": "2ba15d4ffccdf03b436754ab71618a5056877c79a801ae147dd70fd2999b712c8415.jpeg"
+      }
+    ],
+    "previous_id": "9625",
+    "next_id": "9615",
+    "saved_materials": [
+      "assets/9619_8413_180801_03_s.jpg",
+      "assets/9619_8414_180801_02_s.jpg",
+      "assets/9619_8415_180801_01_s.jpg"
+    ]
+  }
+}

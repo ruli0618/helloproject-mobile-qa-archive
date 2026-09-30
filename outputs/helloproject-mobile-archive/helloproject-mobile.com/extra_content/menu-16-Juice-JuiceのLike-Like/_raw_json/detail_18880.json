@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 330,
+    "content_id": "18880",
+    "content_title": "れいるる",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2022-10-04 10:00:00",
+    "created_at": "2022-09-23 16:55:04",
+    "updated_at": "2022-09-23 16:55:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15701",
+        "material_title": "1004_dambara_s.jpg",
+        "material_file": "220834197077b8a33253d6c9bc2d00b47f5f819c9e5e8c488358fb618fa6c67615701.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18880",
+    "content_title": "れいるる",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2022-10-04 10:00:00",
+    "created_at": "2022-09-23 16:55:04",
+    "updated_at": "2022-09-23 16:55:04",
+    "content_text": "1004_dambara_s.jpg\r\nれいちゃんとのイベント楽しかったです！\r\n最近お団子ヘアにハマってる～",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15701",
+        "material_title": "1004_dambara_s.jpg",
+        "material_file": "9ca5cd44aa1c47e4d4dac0be91254b3303cff9632903eeb38356640718afe41815701.jpeg"
+      }
+    ],
+    "previous_id": "18912",
+    "next_id": "18879",
+    "saved_materials": [
+      "assets/18880_15701_1004_dambara_s.jpg"
+    ]
+  }
+}

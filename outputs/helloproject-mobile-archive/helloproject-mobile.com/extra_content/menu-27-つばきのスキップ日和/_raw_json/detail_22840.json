@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 90,
+    "content_id": "22840",
+    "content_title": "ラーメン",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "155",
+    "release_date": "2024-09-06 10:00:00",
+    "created_at": "2024-08-29 16:30:37",
+    "updated_at": "2024-08-29 16:30:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18707",
+        "material_title": "0906_ono_s.jpg",
+        "material_file": "890e0caf8c63e69f8ec6772254398fdab2469755dcadfcdc1fbdb834755df72518707.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22840",
+    "content_title": "ラーメン",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2024-09-06 10:00:00",
+    "created_at": "2024-08-29 16:30:37",
+    "updated_at": "2024-08-29 16:30:37",
+    "content_text": "0906_ono_s.jpg\r\n福岡でラーメン食べましたっ\r\nねぎ増しバリカタにしたよ\r\nおいしすぎた〜！\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18707",
+        "material_title": "0906_ono_s.jpg",
+        "material_file": "dd7868af4339823123afe3cb48427c2c810802b14a665ce3dd300521ac54954f18707.jpeg"
+      }
+    ],
+    "previous_id": "22864",
+    "next_id": "22839",
+    "saved_materials": [
+      "assets/22840_18707_0906_ono_s.jpg"
+    ]
+  }
+}

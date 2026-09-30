@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 63,
+    "content_id": "25044",
+    "content_title": "旅行",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2025-10-17 10:00:00",
+    "created_at": "2025-09-30 23:36:16",
+    "updated_at": "2025-09-30 23:36:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20467",
+        "material_title": "1017_akiyama_s.jpg",
+        "material_file": "c7225cda4e812dcaea2d5e901a5067fa4c421e8da25b2e70f22d59b72d1038d820467.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25044",
+    "content_title": "旅行",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2025-10-17 10:00:00",
+    "created_at": "2025-09-30 23:36:16",
+    "updated_at": "2025-09-30 23:36:16",
+    "content_text": "20歳を超えてからたくさん旅行に行くようになったよ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nお休みを見つけて色々な所にいったなぁ\r\n\r\nお仕事でもたくさん楽しめてるけどプライベートも充実してる(^^)\r\n\r\n自分で楽しいをたくさん探しに行くのが私は好きなんだっ\r\n\r\n人生たくさん笑ってるかは自分次第だよ\r\n\r\nあなたも笑顔でいますよーにっ\r\n\r\n私の幸せお裾分けです<img src=\"/emoji/emoji-images/4f67.gif\"/>\r\n\r\n1017_akiyama_s.jpg\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20467",
+        "material_title": "1017_akiyama_s.jpg",
+        "material_file": "98287ae50eb372ea7a4c92ac173c5cc473b4b327e375069b1a0e49db8e75d03520467.jpeg"
+      }
+    ],
+    "previous_id": "25045",
+    "next_id": "25042",
+    "saved_materials": [
+      "assets/25044_20467_1017_akiyama_s.jpg"
+    ]
+  }
+}

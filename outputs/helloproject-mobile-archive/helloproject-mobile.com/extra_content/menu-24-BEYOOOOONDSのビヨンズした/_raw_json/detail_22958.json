@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 153,
+    "content_id": "22958",
+    "content_title": "夏",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2024-10-21 10:00:00",
+    "created_at": "2024-09-25 12:07:11",
+    "updated_at": "2024-09-25 12:07:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18815",
+        "material_title": "1021_hirai_s.jpg",
+        "material_file": "a4d3a3aa2479053249ef6bdf1574545de966069ad5f489198ede2bf124b24a2e18815.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22958",
+    "content_title": "夏",
+    "content_sub_title": "平井美葉",
+    "release_date": "2024-10-21 10:00:00",
+    "created_at": "2024-09-25 12:07:11",
+    "updated_at": "2024-09-25 12:07:11",
+    "content_text": "1021_hirai_s.jpg\r\nI LOVE NIIGATAのTシャツを着て静岡に来る女。それが島倉。\r\n\r\n【37周目お題：季節を感じる】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "18815",
+        "material_title": "1021_hirai_s.jpg",
+        "material_file": "98b1c2bbc24dfa919b4de58e15d9eb5aee150a9b7f2b5b889e0786577034919b18815.jpeg"
+      }
+    ],
+    "previous_id": "22959",
+    "next_id": "22957",
+    "saved_materials": [
+      "assets/22958_18815_1021_hirai_s.jpg"
+    ]
+  }
+}

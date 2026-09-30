@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 429,
+    "content_id": "11055",
+    "content_title": "隣のやじまん家の塀の裏#43 佐々木莉佳子",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-15 22:50:00",
+    "created_at": "2019-03-15 22:50:36",
+    "updated_at": "2019-03-15 22:52:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9452",
+        "material_title": "0315_s.jpg",
+        "material_file": "101ce2b6ad0053d3ad2458ee7695c57e0b4cef60c74b854c4ad7ff37d34563d49452.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11055",
+    "content_title": "隣のやじまん家の塀の裏#43 佐々木莉佳子",
+    "content_sub_title": "",
+    "release_date": "2019-03-15 22:50:00",
+    "created_at": "2019-03-15 22:50:36",
+    "updated_at": "2019-03-15 22:52:02",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。\r\n隣のやじまん家#43配信中です！\r\n\r\n今回のゲストは、アンジュルムから佐々木莉佳子さんが登場！\r\n\r\nアンジュルム新メンバーを矢島さんへ紹介！\r\n佐々木さんから話されるモーニング娘。'19加賀楓さんのエピソード、\r\n佐々木さんが喧嘩になったら怖い相手、\r\n矢島さんが見る佐々木さんのダンス評等など！\r\n\r\nファッションチェックのお便りが来ましたので、全身ショットを公開！\r\n2人のコーディネートはいかがですか？\r\n\r\n0315_s.jpg\r\n\r\n「妄想スピーチ」のコーナーでは圧勝？\r\n「目指せ！アクトレス矢島」のコーナーでは、アンジュルム新メンバーに！？\r\n役を逆転して2回お届け！\r\n\r\n次回は、つばきファクトリーの山岸理子さんが出演決定！\r\n3/18(月)午前11:00まで、お便り募集中です！\r\n締切までわずかですが、どしどしお送り下さい。\r\n\r\nそして次回からコーナーリニューアル♪\r\n皆さんから新コーナー案を大募集します！\r\n\r\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9452",
+        "material_title": "0315_s.jpg",
+        "material_file": "bfe35e753324be42ae4d96410228db1e302d4945d41d5a9d11ea9dd00990a0329452.jpeg"
+      }
+    ],
+    "previous_id": "11141",
+    "next_id": "10948",
+    "saved_materials": [
+      "assets/11055_9452_0315_s.jpg"
+    ]
+  }
+}

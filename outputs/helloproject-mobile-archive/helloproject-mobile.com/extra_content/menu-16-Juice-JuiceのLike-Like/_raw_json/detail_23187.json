@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 123,
+    "content_id": "23187",
+    "content_title": "相変わらず",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-10-31 10:00:00",
+    "created_at": "2024-10-29 00:33:36",
+    "updated_at": "2024-10-29 00:33:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18966",
+        "material_title": "1031_kudo_s.jpg",
+        "material_file": "e3fde09eb1e07ba06c4b0578767046101d7ebc6474a2f27d403050bc4c6f084a18966.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23187",
+    "content_title": "相変わらず",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-10-31 10:00:00",
+    "created_at": "2024-10-29 00:33:36",
+    "updated_at": "2024-10-29 00:33:36",
+    "content_text": "1031_kudo_s.jpg\r\n踊ったあとのアホ毛は、本領発揮といわんばかりのはっちゃけ具合、そしてやりたい放題でございます\r\n20歳になっても相変わらずのアホ毛です笑",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "18966",
+        "material_title": "1031_kudo_s.jpg",
+        "material_file": "3a6fa921e0ca0fb0dd5372a63e14173752e8b797695b9fd19f8aa023f028fe4218966.jpeg"
+      }
+    ],
+    "previous_id": "23223",
+    "next_id": "23177",
+    "saved_materials": [
+      "assets/23187_18966_1031_kudo_s.jpg"
+    ]
+  }
+}

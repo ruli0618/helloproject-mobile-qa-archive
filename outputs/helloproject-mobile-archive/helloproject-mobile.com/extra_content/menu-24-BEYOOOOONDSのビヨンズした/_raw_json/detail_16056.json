@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 388,
+    "content_id": "16056",
+    "content_title": "コンサートの帰り道",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2021-06-09 10:00:00",
+    "created_at": "2021-05-17 17:50:01",
+    "updated_at": "2022-01-17 14:40:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13379",
+        "material_title": "0609_kobayashi_s.jpg",
+        "material_file": "2138abd38a65093219bc2ce2e80038d2c8ad819117df050374de6939b1aef41513379.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16056",
+    "content_title": "コンサートの帰り道",
+    "content_sub_title": "小林萌花",
+    "release_date": "2021-06-09 10:00:00",
+    "created_at": "2021-05-17 17:50:01",
+    "updated_at": "2022-01-17 14:40:01",
+    "content_text": "0609_kobayashi_s.jpg\n先日のハロー！プロジェクトコンサートの帰りに撮った風景！日本海と夕焼けがとっても綺麗でした。\n\n【11周目お題：きれいな風景】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13379",
+        "material_title": "0609_kobayashi_s.jpg",
+        "material_file": "9ff1bc7d2effd9d4d06fc11a22c11d1a7c698f33861b3c01348d265f6a62108b13379.jpeg"
+      }
+    ],
+    "previous_id": "16057",
+    "next_id": "16054",
+    "saved_materials": [
+      "assets/16056_13379_0609_kobayashi_s.jpg"
+    ]
+  }
+}

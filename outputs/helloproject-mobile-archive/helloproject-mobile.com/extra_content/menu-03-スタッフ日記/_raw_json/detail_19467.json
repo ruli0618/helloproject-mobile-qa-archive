@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 199,
+    "content_id": "19467",
+    "content_title": "みよちゃん家の縁側の猫#9 斉藤円香",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-30 00:00:00",
+    "created_at": "2023-01-06 19:11:08",
+    "updated_at": "2023-01-06 19:11:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16150",
+        "material_title": "230106_2.jpg",
+        "material_file": "2d994a5be1f8be9f2fdf309d54750bb33666d980ca3b9ffb93979364ad4bdfad16150.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16151",
+        "material_title": "230106_1.jpg",
+        "material_file": "be542248998f7cc3e012b52cf9fdc4b93047c081bee247347a351896546d073f16151.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19467",
+    "content_title": "みよちゃん家の縁側の猫#9 斉藤円香",
+    "content_sub_title": "",
+    "release_date": "2022-08-30 00:00:00",
+    "created_at": "2023-01-06 19:11:08",
+    "updated_at": "2023-01-06 19:11:24",
+    "content_text": "「みよちゃん家の縁側」#9配信中です！\r\n\r\n第9回ゲストは、OCHA NORMA斉藤円香さん！\r\n\r\n230106_2.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①真夏の縁側で食べたい物、または飲みたい物\r\n②おちゃのーまどぴ！\r\n③リーダー参上！\r\n\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「まどPのアイドルプロデュース」、「まどぴと3人の兄」の2本をお送りしました。\r\n平井さんはどちらも男性役で、特に斉藤家のお兄さん達の演技を頑張っていました<img src=\"/emoji/emoji-images/472e.gif\"/>\r\n\r\n\r\nその他“ONLY YOU”オーディションの裏話やこれからグループで叶えたい夢も<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\n230106_1.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第10回ゲストはJuice=Juice 段原瑠々さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16150",
+        "material_title": "230106_2.jpg",
+        "material_file": "8382f2b68c73be246a6800bc1c0c67cda3e551f60db6d5425a1abd2cdecfc96716150.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16151",
+        "material_title": "230106_1.jpg",
+        "material_file": "32e223d74ece3448a7174e22389da099fed9bc9bef9567d99182252bdba524f916151.jpeg"
+      }
+    ],
+    "previous_id": "21222",
+    "next_id": "18677",
+    "saved_materials": [
+      "assets/19467_16150_230106_2.jpg",
+      "assets/19467_16151_230106_1.jpg"
+    ]
+  }
+}

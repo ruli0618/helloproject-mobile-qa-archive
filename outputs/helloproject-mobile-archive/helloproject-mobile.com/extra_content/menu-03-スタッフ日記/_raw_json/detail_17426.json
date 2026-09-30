@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 257,
+    "content_id": "17426",
+    "content_title": "工藤の家の屋根裏部屋#92前後編～新沼希空～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 20:31:00",
+    "created_at": "2021-12-31 20:55:16",
+    "updated_at": "2021-12-31 22:36:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14538",
+        "material_title": "221231_f92_04_s.jpg",
+        "material_file": "44ec64765304ba07c5553ecdd852a89cc4d45e7c63433ceb76748388a933e7d114538.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14539",
+        "material_title": "221231_f92_01_s.jpg",
+        "material_file": "5e1ee6ca695f6b8cd7fc09d0693554c6bb921aaad282b72814c3b58afb66a44514539.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14540",
+        "material_title": "221231_f92_02_s.jpg",
+        "material_file": "5d86a8b698553146c60baef23a27cd3598678f672fb0a4e44e0cf7875bc76e6314540.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14541",
+        "material_title": "221231_f92_03_s.jpg",
+        "material_file": "de7bdee8e70a6668876a15567293c5ad48047ee128c5ab7e3f79d6ea83f6ebbe14541.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17426",
+    "content_title": "工藤の家の屋根裏部屋#92前後編～新沼希空～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 20:31:00",
+    "created_at": "2021-12-31 20:55:16",
+    "updated_at": "2021-12-31 22:36:12",
+    "content_text": "ふくむらの部屋 第92回のゲストは、つばきファクトリー新沼希空さん！\r\n\r\n221231_f92_04_s.jpg\r\n\r\n質問きんちゃくでは、早口言葉に挑戦！\r\n旅行に行くならどこに行くかも教えてくれました。\r\n\r\nまずは、ソロフェス！2の裏話、つばきファクトリーの冠番組「行くぜ！つばきファクトリー」に関してトーク！\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\nグッズの扇子に起きた悲しい出来事と、モバイルバッテリーの充電切れに関する失敗を紹介。\r\n\r\n221231_f92_01_s.jpg\r\n\r\n後編の「みずき先生のハロプロ講座」のコーナーでは、\r\n過去の動画に関して、「デートの日は二度くらいシャワーして出かけたい」の世界観、主にコンビニの後の髪の匂いについて語って頂きました。\r\n\r\n全員で楽しみたい秋、おうち時間のアクセサリ作り・布マスク作り、新メンバーについてもトーク！\r\n\r\n221231_f92_02_s.jpg\r\n\r\nぜひ、お聴き下さい♬\r\n\r\n221231_f92_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14538",
+        "material_title": "221231_f92_04_s.jpg",
+        "material_file": "6b4ca75e6c16051943187d4e8c5a5bcdc3bdc19dc8064861d4d1a9170c2e6da214538.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14539",
+        "material_title": "221231_f92_01_s.jpg",
+        "material_file": "243303ca60e406381a93a4a5242c6b89be3f82563acc074c6a6bb9a64452924d14539.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14540",
+        "material_title": "221231_f92_02_s.jpg",
+        "material_file": "9723bce6b9ec4bcee933aae86cb35e955ad3573e0a346c19e6e6bbf7bb7c640a14540.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14541",
+        "material_title": "221231_f92_03_s.jpg",
+        "material_file": "016ec33c12e7d4e2ca89383d51b2856c5092b1ccbd67becb8807836ff34ef6d714541.jpeg"
+      }
+    ],
+    "previous_id": "17427",
+    "next_id": "17594",
+    "saved_materials": [
+      "assets/17426_14538_221231_f92_04_s.jpg",
+      "assets/17426_14539_221231_f92_01_s.jpg",
+      "assets/17426_14540_221231_f92_02_s.jpg",
+      "assets/17426_14541_221231_f92_03_s.jpg"
+    ]
+  }
+}

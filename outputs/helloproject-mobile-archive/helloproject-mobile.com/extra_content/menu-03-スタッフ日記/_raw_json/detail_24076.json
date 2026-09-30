@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 162,
+    "content_id": "24076",
+    "content_title": "みよちゃん家の縁側の猫#23 江口紗耶",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-14 00:00:00",
+    "created_at": "2025-03-31 16:53:29",
+    "updated_at": "2025-03-31 16:53:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19743",
+        "material_title": "250331_02.jpg",
+        "material_file": "798a9ff4d9f6fe08c1f8aa0f6693edc5ceeb535f896eaaae6ae18b5627e1af9919743.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19744",
+        "material_title": "250331_01.jpg",
+        "material_file": "9487ea14c8793b05481e178bbe70702ddafdc6d835917af08453f6b045c2107c19744.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24076",
+    "content_title": "みよちゃん家の縁側の猫#23 江口紗耶",
+    "content_sub_title": "",
+    "release_date": "2023-03-14 00:00:00",
+    "created_at": "2025-03-31 16:53:29",
+    "updated_at": "2025-03-31 16:53:29",
+    "content_text": "「みよちゃん家の縁側」#23配信中です！\r\n\r\n第23回ゲストは、BEYOOOOONDSの江口紗耶さん！\r\n\r\n250331_02.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①NEOBEYO\r\n②また遊ぼうね\r\n③呼んだよね\r\n④ジバコイル\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「大臣と秘書」、「魔法少女さやりん」の2本をお届けしました。\r\n\r\n\r\nその他、舞台の男役について、BEYOOOOONDSの身長差どうやって揃えてる？理想のヘアスタイルや初対面の印象～二人の関係性の変化などなどたくさんのお便りを紹介しています！\r\n\r\n250331_01.jpg\r\n\r\nヘアカラー染めたてで収録にきてくれた江口さん<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n平井さんが髪色を絶賛している姿にほっこりしました♡\r\nとってもお似合いですね<img src=\"/emoji/emoji-images/5047.gif\"/>\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、Juice=Juice 有澤一華さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19743",
+        "material_title": "250331_02.jpg",
+        "material_file": "090a929d9416798e0f3b9b15d0d107feb20219b17128905388356dcdb0589e1719743.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19744",
+        "material_title": "250331_01.jpg",
+        "material_file": "608db782bd08a35b42ccfdd5faa1c0d4c4502f9d818718f0c0da45d9def1080019744.jpeg"
+      }
+    ],
+    "previous_id": "21236",
+    "next_id": "24074",
+    "saved_materials": [
+      "assets/24076_19743_250331_02.jpg",
+      "assets/24076_19744_250331_01.jpg"
+    ]
+  }
+}

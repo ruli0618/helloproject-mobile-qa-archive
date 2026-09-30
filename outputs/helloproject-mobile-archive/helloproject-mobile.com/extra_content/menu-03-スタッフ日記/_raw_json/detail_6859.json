@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 596,
+    "content_id": "6859",
+    "content_title": "工藤の家の屋根裏部屋#1",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-06-16 18:00:00",
+    "created_at": "2017-06-16 17:39:26",
+    "updated_at": "2017-06-16 17:43:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6043",
+        "material_title": "170616_1_s.jpg",
+        "material_file": "8f1c80a39b6f08ef138ae6ee06361712c191981582a95dde58e670e5fd80bee26043.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6044",
+        "material_title": "170616_2_s.jpg",
+        "material_file": "41cf7776d6a1e02db6ffcfca0d5ffb4d0e54feb2331debdba14793118060c00d6044.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6859",
+    "content_title": "工藤の家の屋根裏部屋#1",
+    "content_sub_title": "",
+    "release_date": "2017-06-16 18:00:00",
+    "created_at": "2017-06-16 17:39:26",
+    "updated_at": "2017-06-16 17:43:46",
+    "content_text": "お待たせしました！\r\n「ふくむらの部屋」記念すべき第1回目公開中です！\r\n\r\n\r\n今回は譜久村一人でお送りしています。\r\n170616_1_s.jpg\r\n\r\n\r\n「さやしの部屋」から始まり「やじまの部屋」へと変わり、\r\n引き継がれた「ふくむらの部屋」。\r\n\r\nというわけで、今回から「工藤の家の屋根裏部屋」よりお送り致します。\r\n\r\n\r\nさて、譜久村は一人でラジオをやることに最初は少し緊張した様子でしたが\r\nメンバーのこと、ツアーや舞台、リスナーからの質問や悩み相談まで!?\r\nいろいろなことについて楽しく喋っています。\r\n\r\n\r\n170616_2_s.jpg\r\n\r\n\r\nそして、今回はリスナーから募集した新コーナー案から\r\n2つのコーナーが決定いたしました！\r\n\r\n\r\nまず１つ目…\r\n『みずきお嬢様の私生活』\r\nあなたが思う、譜久村聖の私生活の勝手なイメージをお送りください。\r\n譜久村が「あっている」「おしい」「全然違う」の三段階で判定します！\r\n\r\n\r\nそして2つ目…\r\n『みずき先生のハロプロ講座』\r\nハロー！プロジェクトのこんなところを語ってほしい！\r\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\r\n皆さまからお寄せいただいたテーマで譜久村とゲストが熱く語り合います。\r\n\r\n\r\nもちろん普通のお便りや質問なども受け付けております！\r\n\r\n\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\">halomoba@gmail.com</a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6043",
+        "material_title": "170616_1_s.jpg",
+        "material_file": "2cdb3550fd50c822a1ee5e32b3efe27be64477a91b98c904754182354d665f5f6043.jpeg"
+      },
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6044",
+        "material_title": "170616_2_s.jpg",
+        "material_file": "5d8d0b7bcfebaf2c0e4cb068372d19cdf065557f22b0475f9149b068897bb7936044.jpeg"
+      }
+    ],
+    "previous_id": "6900",
+    "next_id": "6806",
+    "saved_materials": [
+      "assets/6859_6043_170616_1_s.jpg",
+      "assets/6859_6044_170616_2_s.jpg"
+    ]
+  }
+}

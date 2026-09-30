@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 430,
+    "content_id": "14766",
+    "content_title": "一岡伶奈ちゃん",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2020-11-25 10:00:00",
+    "created_at": "2020-10-21 17:57:18",
+    "updated_at": "2022-01-17 14:37:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "12277",
+        "material_title": "1125_eguchi_s.jpg",
+        "material_file": "e885fcb39238afa19437fba3544e995c5f403d7d9293575223b53c0dec27e14512277.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14766",
+    "content_title": "一岡伶奈ちゃん",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2020-11-25 10:00:00",
+    "created_at": "2020-10-21 17:57:18",
+    "updated_at": "2022-01-17 14:37:31",
+    "content_text": "1125_eguchi_s.jpg\nちょっと楽屋の席を外した時、一岡伶奈ちゃんがさやの携帯で自撮りを残していってました〜！笑\n\n【6周目お題：日常のワンシーン】",
+    "materials": [
+      {
+        "secretKey": "648bb2ed2a46b27e91baa7c83e2e8ff3",
+        "material_id": "12277",
+        "material_title": "1125_eguchi_s.jpg",
+        "material_file": "db80520a35adf38200742121d2ac93fefd2956a4800911e4652b2ac981b8530f12277.jpeg"
+      }
+    ],
+    "previous_id": "14980",
+    "next_id": "14765",
+    "saved_materials": [
+      "assets/14766_12277_1125_eguchi_s.jpg"
+    ]
+  }
+}

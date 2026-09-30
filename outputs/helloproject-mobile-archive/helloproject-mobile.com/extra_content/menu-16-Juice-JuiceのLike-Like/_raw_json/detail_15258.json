@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 494,
+    "content_id": "15258",
+    "content_title": "クリスマス",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-01-05 10:00:00",
+    "created_at": "2021-01-02 03:42:22",
+    "updated_at": "2021-01-02 03:42:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12686",
+        "material_title": "210105_matsunaga_s.jpg",
+        "material_file": "be0d764dc18ac87a6539216fd5d005dcf2a79ce527be52fa948c2d4351d12a3812686.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15258",
+    "content_title": "クリスマス",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-01-05 10:00:00",
+    "created_at": "2021-01-02 03:42:22",
+    "updated_at": "2021-01-02 03:42:22",
+    "content_text": "210105_matsunaga_s.jpg\r\n先日、Juice=Juiceで行われたクリスマスイベント！\r\n今年のクリスマスはすごくクリスマスっぽくて楽しかったなあ\r\n来年も出来ますように〜",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12686",
+        "material_title": "210105_matsunaga_s.jpg",
+        "material_file": "4a9b535badb3a51f1bf0e3abda4c8b158f44d4952e524c7ee527403a9127f4ba12686.jpeg"
+      }
+    ],
+    "previous_id": "15299",
+    "next_id": "15257",
+    "saved_materials": [
+      "assets/15258_12686_210105_matsunaga_s.jpg"
+    ]
+  }
+}

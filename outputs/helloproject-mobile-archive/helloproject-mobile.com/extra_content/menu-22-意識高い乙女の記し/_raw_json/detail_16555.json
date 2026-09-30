@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 103,
+    "content_id": "16555",
+    "content_title": "バレエ",
+    "content_sub_title": "福田真琳",
+    "category_id": "115",
+    "release_date": "2021-08-20 10:00:00",
+    "created_at": "2021-08-19 14:02:28",
+    "updated_at": "2021-08-19 14:02:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13821",
+        "material_title": "210819_fukuda_s.jpg",
+        "material_file": "d5847f3b0ece0ac0c9d7f2ab8ffc4cdffb0fc4da79cb06fed5d6f269ef33e8d613821.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16555",
+    "content_title": "バレエ",
+    "content_sub_title": "福田真琳",
+    "release_date": "2021-08-20 10:00:00",
+    "created_at": "2021-08-19 14:02:28",
+    "updated_at": "2021-08-19 14:02:28",
+    "content_text": "210819_fukuda_s.jpg\r\nこの前久しぶりに\r\n家のミニバレエスタジオで\r\nバレエを踊りました( ͝° ͜ʖ͡°)ᕤ\r\n冷たい水よりも\r\n常温の水のほうが\r\nむくみが取れやすいと\r\n聞いたので\r\n運動したあとは\r\n常温の水を飲みました୧| ͡ᵔ ﹏ ͡ᵔ |୨",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13821",
+        "material_title": "210819_fukuda_s.jpg",
+        "material_file": "21b8b126788afb05bdc20e3c4000a42a8ca229a5eff865fa6ed5acaebc4e9b7a13821.jpeg"
+      }
+    ],
+    "previous_id": "16586",
+    "next_id": "16534",
+    "saved_materials": [
+      "assets/16555_13821_210819_fukuda_s.jpg"
+    ]
+  }
+}

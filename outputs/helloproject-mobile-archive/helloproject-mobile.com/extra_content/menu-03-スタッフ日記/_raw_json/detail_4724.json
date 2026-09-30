@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 661,
+    "content_id": "4724",
+    "content_title": "宣伝会議　議事録#2",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-05-31 14:00:00",
+    "created_at": "2016-05-30 20:58:11",
+    "updated_at": "2016-05-30 21:02:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4288",
+        "material_title": "160531_2.jpg",
+        "material_file": "98bf1dcd1f42a7ee1041936afc8bc218a97396655524b12194656a7587d2b1bc4288.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4289",
+        "material_title": "160531_1.jpg",
+        "material_file": "1598ae8419f638427c905ea1283b9952e2693bceef11ad05b771e8efc46af8164289.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4724",
+    "content_title": "宣伝会議　議事録#2",
+    "content_sub_title": "",
+    "release_date": "2016-05-31 14:00:00",
+    "created_at": "2016-05-30 20:58:11",
+    "updated_at": "2016-05-30 21:02:30",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と宣伝部員の尾形春水・野中美希・梁川奈々美による2回目の宣伝会議が行われました！\n\nみなさん聴いていただけましたか？\n\n1回目の宣伝会議でみんなが話し合った動画コンテンツがこの度採用され、6月1日から「ハロー！ムービー」として新しいコンテンツがスタートする事になりました！！\n\n今回はまたその動画コンテンツの打ち合わせを会議で行い、なんとその場で自分たちのアイディアを撮影しちゃいました！\n\nぜひこの宣伝会議の模様をお聴きになられた後に動画もお楽しみ下さい！\n\n160531_1.jpg\n\nこの会議内では尾形春水が書記を務めているのですが、直筆メモをせっかくなので公開します！\n\n160531_2.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4288",
+        "material_title": "160531_2.jpg",
+        "material_file": "97a23bd8bf0b5edd6b4280e4b16f67484553fd546aae7a3a8cc4df96123cc4a44288.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4289",
+        "material_title": "160531_1.jpg",
+        "material_file": "d4a089ed866814aad0d36113a09f3b8aa1b11eee7a30f30db1ab504ca0f3d6a44289.jpeg"
+      }
+    ],
+    "previous_id": "4732",
+    "next_id": "4723",
+    "saved_materials": [
+      "assets/4724_4288_160531_2.jpg",
+      "assets/4724_4289_160531_1.jpg"
+    ]
+  }
+}

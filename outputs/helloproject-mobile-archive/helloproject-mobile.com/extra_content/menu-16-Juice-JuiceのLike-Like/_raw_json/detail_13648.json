@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 553,
+    "content_id": "13648",
+    "content_title": "サイダーに",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2020-04-21 10:00:00",
+    "created_at": "2020-04-14 20:33:21",
+    "updated_at": "2020-04-14 20:33:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11401",
+        "material_title": "0421_uemura_s.jpg",
+        "material_file": "c10ff51142a1e7010b848d20df81a539deed4e9e67e95b48c72c76a792de34ad11401.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13648",
+    "content_title": "サイダーに",
+    "content_sub_title": "植村あかり",
+    "release_date": "2020-04-21 10:00:00",
+    "created_at": "2020-04-14 20:33:21",
+    "updated_at": "2020-04-14 20:33:21",
+    "content_text": "0421_uemura_s.jpg\r\n\r\n植村あかりです！\r\nサイダーにアイスを入れてみた！！！\r\nこれって美味しいんだね♥\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "b197310330babf83d23ee4313b563295",
+        "material_id": "11401",
+        "material_title": "0421_uemura_s.jpg",
+        "material_file": "671e99e07562097b1b26d39227a4e68d4171b0126b80c532fda8a1ffed24cb0f11401.jpeg"
+      }
+    ],
+    "previous_id": "13649",
+    "next_id": "13627",
+    "saved_materials": [
+      "assets/13648_11401_0421_uemura_s.jpg"
+    ]
+  }
+}

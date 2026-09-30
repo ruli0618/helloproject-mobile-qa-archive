@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "26493",
+    "content_title": "アサイーボウル",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2026-07-08 10:00:00",
+    "created_at": "2026-06-26 00:41:55",
+    "updated_at": "2026-06-26 00:41:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21612",
+        "material_title": "0708_okamura_s.jpg",
+        "material_file": "df7e797111ba99fc1c8948889c5f3837b3325b806c86e373ad4fe467052bca8d21612.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26493",
+    "content_title": "アサイーボウル",
+    "content_sub_title": "岡村美波",
+    "release_date": "2026-07-08 10:00:00",
+    "created_at": "2026-06-26 00:41:55",
+    "updated_at": "2026-06-26 00:41:55",
+    "content_text": "0708_okamura_s.jpg\r\nピーナッツバターたっぷりのアサイーが美味しすぎました♡\r\n\r\n【53周目お題：スイーツ】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21612",
+        "material_title": "0708_okamura_s.jpg",
+        "material_file": "5dcaf32ce4c00a75e08fb40713128fe8baf6fce38dc2c7e2dd70ff51cac0b70521612.jpeg"
+      }
+    ],
+    "previous_id": "26494",
+    "next_id": "26492",
+    "saved_materials": [
+      "assets/26493_21612_0708_okamura_s.jpg"
+    ]
+  }
+}

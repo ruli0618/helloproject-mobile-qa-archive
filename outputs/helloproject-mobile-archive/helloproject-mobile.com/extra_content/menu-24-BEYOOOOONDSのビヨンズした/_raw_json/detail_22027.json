@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 187,
+    "content_id": "22027",
+    "content_title": "写真集",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2024-05-13 10:00:00",
+    "created_at": "2024-04-08 22:21:26",
+    "updated_at": "2024-04-08 22:21:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18084",
+        "material_title": "0513_hirai_s.jpg",
+        "material_file": "988fca4687b1650e06df62dacd44250409df5e9f629366737e551cf4d918a67218084.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22027",
+    "content_title": "写真集",
+    "content_sub_title": "平井美葉",
+    "release_date": "2024-05-13 10:00:00",
+    "created_at": "2024-04-08 22:21:26",
+    "updated_at": "2024-04-08 22:21:26",
+    "content_text": "0513_hirai_s.jpg\r\nみんなの感想！\r\n気になる！\r\n\r\n【33周目お題：気になる】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18084",
+        "material_title": "0513_hirai_s.jpg",
+        "material_file": "b1bc39998a13f880f74a1ae8b4e7391b1b322edc073246797f81a88aacb23a0918084.jpeg"
+      }
+    ],
+    "previous_id": "22205",
+    "next_id": "22026",
+    "saved_materials": [
+      "assets/22027_18084_0513_hirai_s.jpg"
+    ]
+  }
+}

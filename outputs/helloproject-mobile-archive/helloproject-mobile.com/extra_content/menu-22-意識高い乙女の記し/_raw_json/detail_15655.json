@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 129,
+    "content_id": "15655",
+    "content_title": "ネイル",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-03-19 11:43:00",
+    "created_at": "2021-03-19 11:43:35",
+    "updated_at": "2021-03-19 11:43:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13036",
+        "material_title": "210319_akiyama_s.jpg",
+        "material_file": "793e2b9e2d1ac9dff1da00fb9a8c5308e66aef1367412c27db0bdcc33cb6e0a613036.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15655",
+    "content_title": "ネイル",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-03-19 11:43:00",
+    "created_at": "2021-03-19 11:43:35",
+    "updated_at": "2021-03-19 11:43:35",
+    "content_text": "最近のわたしの楽しみ。\r\nネイルを塗る前に何を塗ろう？と考える時間(^^)\r\n色々試して、、衣装に合うのはこれかなぁとかちがうなぁと一生独り言を話しながら選んでます！笑\r\n\r\n次塗る色は何色にしよう♡\r\n\r\n210319_akiyama_s.jpg\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13036",
+        "material_title": "210319_akiyama_s.jpg",
+        "material_file": "250e694993b7d67b3795aef8ca194e58bd8aa5d3b1f76811688627b228b6d3d213036.jpeg"
+      }
+    ],
+    "previous_id": "15679",
+    "next_id": "15643",
+    "saved_materials": [
+      "assets/15655_13036_210319_akiyama_s.jpg"
+    ]
+  }
+}

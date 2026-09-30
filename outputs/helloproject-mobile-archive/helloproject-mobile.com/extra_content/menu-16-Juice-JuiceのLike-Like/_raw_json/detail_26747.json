@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 9,
+    "content_id": "26747",
+    "content_title": "映画",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2026-09-01 10:00:00",
+    "created_at": "2026-08-19 19:52:33",
+    "updated_at": "2026-08-19 19:52:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21837",
+        "material_title": "0901_kawashima_s.jpg",
+        "material_file": "7523bbede421882fc6604fa63782b119a7837d1c53dcd980ad8c9fb4dda1486f21837.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26747",
+    "content_title": "映画",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2026-09-01 10:00:00",
+    "created_at": "2026-08-19 19:52:33",
+    "updated_at": "2026-08-19 19:52:33",
+    "content_text": "0901_kawashima_s.jpg\r\nこんにちは！\r\nみふです！\r\n最近、映画にすごくハマっていて！\r\nよく映画館に行きます。\r\n最近1人映画デビューしたよ♩\r\n1人",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21837",
+        "material_title": "0901_kawashima_s.jpg",
+        "material_file": "ed3d5b91c7fe60ca1e139e77790d91ca0e70d32ec109743a0933cd8db4f2351821837.jpeg"
+      }
+    ],
+    "previous_id": "26891",
+    "next_id": "26746",
+    "saved_materials": [
+      "assets/26747_21837_0901_kawashima_s.jpg"
+    ]
+  }
+}

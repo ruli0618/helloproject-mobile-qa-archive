@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 109,
+    "content_id": "23379",
+    "content_title": "宣伝会議#95",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-02-22 00:00:00",
+    "created_at": "2024-11-28 14:40:31",
+    "updated_at": "2025-01-06 11:58:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19200",
+        "material_title": "95.jpg",
+        "material_file": "53b647c26d254851903d46482833713ed531997cf1e4605601e9dacfd0a22f4219200.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19201",
+        "material_title": "95_03_s.jpg",
+        "material_file": "51655849c73bfb4cb149793baf120bbaff01a44dc95453cca129b7cf45a984d219201.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19202",
+        "material_title": "95_01_s.jpg",
+        "material_file": "8c42b4c1d0ef468ad1ca66f2e49c6fe3256a740cc055050ee78145854769e35b19202.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19396",
+        "material_title": "maeda.jpg",
+        "material_file": "aa0118027c02f1cb628feab6a4e849b99d3e540851a5ebe6fd2b3b2805e6751b19396.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23379",
+    "content_title": "宣伝会議#95",
+    "content_sub_title": "",
+    "release_date": "2024-02-22 00:00:00",
+    "created_at": "2024-11-28 14:40:31",
+    "updated_at": "2025-01-06 11:58:25",
+    "content_text": "宣伝会議第95回は、野中美希部長・前田こころ警備兼広報の二人でお届け！\n\n95_01_s.jpg\n\nまずは前回お休みだった前田こころ警備兼広報が、書き初め＆妄想動画の撮影を行いました！\n\nそして皆さんから募集したアイディアから、新コーナーを決定！\nその名も「きのこたけのこ大討論」\n\n決められた2つのお題に対してどちらが良いか、自分が推す方の肯定理由を皆さんから募集します。\n集まった意見をもとに、宣伝部員が二手に分かれてディベートをするというコーナーです。\n\n皆さんからのお便り、お待ちしています！\n\nそして前編では、\n・バレンタインの思い出\n・今年こそはと思っていること\nについてトーク！\n\n後編では、\n・推し不在の誕生日会\n・櫻井梨央\n・野中前田カフェデート\n・ツアー衣装\n・地声が好きなメンバー\n・洋服コーデ\n・好きなお土産\n・冬ハローで仲良くなったメンバー\nについてトーク！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\n「高瀬くるみ」さんについて紹介！\n\n↓議事録はこちら！\n95.jpg\n\nmaeda.jpg\n\n95_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19200",
+        "material_title": "95.jpg",
+        "material_file": "20fdae4881b0decd144e91f26ebec5451c714555ec9bbe74a219e33648b58a2119200.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19201",
+        "material_title": "95_03_s.jpg",
+        "material_file": "7039afaf80d9e3466d8d24f40147a8218201729ccd81fe05badfcfd228bfd27019201.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19202",
+        "material_title": "95_01_s.jpg",
+        "material_file": "9b45566f3b2ac0e5589bc3ff72e774167031c54ff1eecbfd21936594bb22d81419202.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19396",
+        "material_title": "maeda.jpg",
+        "material_file": "9e436985b58346aa6d7de39b3fcd538b7e3f02e4c2aa1c2b14104616f2fb949e19396.jpeg"
+      }
+    ],
+    "previous_id": "22931",
+    "next_id": "22930",
+    "saved_materials": [
+      "assets/23379_19200_95.jpg",
+      "assets/23379_19201_95_03_s.jpg",
+      "assets/23379_19202_95_01_s.jpg",
+      "assets/23379_19396_maeda.jpg"
+    ]
+  }
+}

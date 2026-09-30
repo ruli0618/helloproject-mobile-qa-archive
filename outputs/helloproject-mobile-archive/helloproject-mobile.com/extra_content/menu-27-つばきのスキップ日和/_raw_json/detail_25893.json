@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 39,
+    "content_id": "25893",
+    "content_title": "楽しみいっぱいな石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2026-04-10 10:00:00",
+    "created_at": "2026-03-13 23:52:55",
+    "updated_at": "2026-03-13 23:52:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21216",
+        "material_title": "0410_ishii_s.jpg",
+        "material_file": "a20df9e0bd7b969ea8ec35827a76c1a93829453258d98e3df8e713d28266e37721216.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25893",
+    "content_title": "楽しみいっぱいな石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2026-04-10 10:00:00",
+    "created_at": "2026-03-13 23:52:55",
+    "updated_at": "2026-03-13 23:52:55",
+    "content_text": "0410_ishii_s.jpg\r\nみはみは〜！\r\n石井 泉羽(いしい みはね)です！\r\n\r\nみなさん花粉症大丈夫ですかー？\r\n\r\n石井はバンドライブが終わってしまいまして、寂しいなあーと思いつつ、、、\r\n\r\nひなフェスのリハも始まり、よしっ頑張らなきゃっひなフェス楽しみーっとなっているところです<img src=\"/emoji/emoji-images/472e.gif\"/>\r\n\r\nこれからバスツアーや春ツアーも始まるのでみなさんとたくさん会えるかな？会えたら嬉しいな<img src=\"/emoji/emoji-images/f399.gif\"/>\r\n\r\n今日はゆでたまごの皮が上手にむけずに悲しかった石井でした、しっかり冷めてからじゃないとダメです<img src=\"/emoji/emoji-images/f3a1.gif\"/>ちょっと急いでしまいました、\r\n\r\n次回のスキップ日和ではリベンジのゆでたまご、ちゃんと冷やせたかどうか？書けたらいいなと思います<img src=\"/emoji/emoji-images/f399.gif\"/>覚えてるかなあ？？<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\n今日も一日おつかレッサーレッサーです！",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21216",
+        "material_title": "0410_ishii_s.jpg",
+        "material_file": "e57b4f1bc28e1188079a630bea2fe5a6d832476cd72e6ead6903e3034e98cf9e21216.jpeg"
+      }
+    ],
+    "previous_id": "25894",
+    "next_id": "25892",
+    "saved_materials": [
+      "assets/25893_21216_0410_ishii_s.jpg"
+    ]
+  }
+}

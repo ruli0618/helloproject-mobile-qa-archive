@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 138,
+    "content_id": "15389",
+    "content_title": "髪ケア",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-01-26 11:40:00",
+    "created_at": "2021-01-26 11:42:07",
+    "updated_at": "2021-01-26 11:42:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12823",
+        "material_title": "210126_yamagishi_s.jpg",
+        "material_file": "412873c9dc866831483cbe53f78b5860a76eb4362674a6edb76f648c1941379912823.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15389",
+    "content_title": "髪ケア",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-01-26 11:40:00",
+    "created_at": "2021-01-26 11:42:07",
+    "updated_at": "2021-01-26 11:42:07",
+    "content_text": "つばきファクトリーの山岸理子です！\r\n\r\n最近は、シャンプーしたあとに\r\nヘアパックしてます♪\r\n\r\nそのあと、お風呂から上がったら\r\nヘアオイルをつけてから寝ます。\r\n\r\n髪の毛は女の命と聞くので\r\n髪のケアはしっかりしてます！\r\n\r\n210126_yamagishi_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "12823",
+        "material_title": "210126_yamagishi_s.jpg",
+        "material_file": "18cd5171df45d80e7c25fa89c6a92b9b89f00feffb406ecda2a156c831ac49a712823.jpeg"
+      }
+    ],
+    "previous_id": "15417",
+    "next_id": "15374",
+    "saved_materials": [
+      "assets/15389_12823_210126_yamagishi_s.jpg"
+    ]
+  }
+}

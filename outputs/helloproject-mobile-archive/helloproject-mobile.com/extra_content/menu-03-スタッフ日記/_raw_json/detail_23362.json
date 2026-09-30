@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 196,
+    "content_id": "23362",
+    "content_title": "宣伝会議#78",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-09-22 00:00:00",
+    "created_at": "2024-11-28 04:38:28",
+    "updated_at": "2024-11-28 04:38:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19153",
+        "material_title": "78.jpg",
+        "material_file": "9a6614e94f302b26e14556003feb77195d83f38e4a96e3330bc807ecfb68cd3719153.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19154",
+        "material_title": "78_01_s.jpg",
+        "material_file": "8e5b85de48af23d1691b34a3394f53e6bf5bf93a206d7a7de1ee10ff9d67129819154.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19155",
+        "material_title": "78_02_s.jpg",
+        "material_file": "f27d8cf6fc57c66a41f86eb534b0ab2872c1360348b0564ccfc14164e1ced14319155.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23362",
+    "content_title": "宣伝会議#78",
+    "content_sub_title": "",
+    "release_date": "2022-09-22 00:00:00",
+    "created_at": "2024-11-28 04:38:28",
+    "updated_at": "2024-11-28 04:38:28",
+    "content_text": "宣伝会議第78回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n78_01_s.jpg\r\n\r\n前編では、\r\n・ライブ感想\r\n・舞台\r\n・フェス\r\n・ワンちゃんっぽいメンバー\r\n・インスト\r\n・血液型\r\nについてトーク！\r\n\r\n後編では、\r\n・山崎あおい\r\n・ハプニングの対処\r\n・REC意識していること\r\n・メンバーの好きなパーツ\r\n・まわりに理解されないけど好きなもの\r\n・ツアーの裏話\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「一岡伶奈」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n78.jpg\r\n\r\n78_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19153",
+        "material_title": "78.jpg",
+        "material_file": "32f74ae4439114108ac7b26d03af1946f52b409737295612c4d9b43f0673cb2819153.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19154",
+        "material_title": "78_01_s.jpg",
+        "material_file": "58f8877b4f5d25f506ec26545315a4896759c8e0c6c9a84d3a128be6d04e623419154.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19155",
+        "material_title": "78_02_s.jpg",
+        "material_file": "22751fdc424776078c181ae22285d41b01deeb9f87492ff1c558578ed58d834119155.jpeg"
+      }
+    ],
+    "previous_id": "18871",
+    "next_id": "19524",
+    "saved_materials": [
+      "assets/23362_19153_78.jpg",
+      "assets/23362_19154_78_01_s.jpg",
+      "assets/23362_19155_78_02_s.jpg"
+    ]
+  }
+}

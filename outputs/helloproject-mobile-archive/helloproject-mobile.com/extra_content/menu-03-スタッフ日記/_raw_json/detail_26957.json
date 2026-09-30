@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 39,
+    "content_id": "26957",
+    "content_title": "宣伝会議#114",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-09-25 00:00:00",
+    "created_at": "2026-09-28 15:36:59",
+    "updated_at": "2026-09-28 15:36:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22031",
+        "material_title": "114.jpg",
+        "material_file": "c586a985ae123e713689102c4ab4efc54d8dff6f1586bf56aedb8c1adeb40e2522031.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22032",
+        "material_title": "114_01.jpg",
+        "material_file": "d5d0aa65c99ebcbd23d508692cbdd1a2031e7a57c5592a99f14ebe3eeb66cdb522032.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26957",
+    "content_title": "宣伝会議#114",
+    "content_sub_title": "",
+    "release_date": "2025-09-25 00:00:00",
+    "created_at": "2026-09-28 15:36:59",
+    "updated_at": "2026-09-28 15:36:59",
+    "content_text": "114_01.jpg\r\n\r\n宣伝会議第114回は、入江里咲書記・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・ハロコン裏話\r\n・ハロコン\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「ペットを飼うなら犬派？猫派？」についてディベート！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「松原ユリヤ」さんについて紹介！\r\n\r\n後編では、\r\n・先輩の素敵な一面\r\n・TIF感想\r\nについてトーク！\r\n\r\n↓議事録はこちら！\r\n\r\n114.jpg",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22031",
+        "material_title": "114.jpg",
+        "material_file": "588603b95b40dd3a9fcc80b461447e4d64446ad457d323e5f9f6baa3ec30292122031.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22032",
+        "material_title": "114_01.jpg",
+        "material_file": "a60ed861d0527a1e93259e32c9d7f9dc754dbd70aec616d5b139781b62d416d822032.jpeg"
+      }
+    ],
+    "previous_id": "26996",
+    "next_id": "26995",
+    "saved_materials": [
+      "assets/26957_22031_114.jpg",
+      "assets/26957_22032_114_01.jpg"
+    ]
+  }
+}

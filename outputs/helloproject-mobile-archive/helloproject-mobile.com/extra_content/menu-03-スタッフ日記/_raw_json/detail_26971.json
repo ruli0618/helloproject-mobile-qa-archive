@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 81,
+    "content_id": "26971",
+    "content_title": "工藤の家の軒下#22～山﨑愛生～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-10-08 00:00:00",
+    "created_at": "2026-09-28 22:52:55",
+    "updated_at": "2026-09-28 22:52:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22057",
+        "material_title": "241008_022.jpg",
+        "material_file": "8dacdc9427786a13a898fa3a477feb5c52b5a18caea55b37350747a561946b9622057.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22059",
+        "material_title": "241008_022_03.jpg",
+        "material_file": "e7836bfb17dd71128094760154232e3f17cc41a4459a6ce37fa1e4509d278d8d22059.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22058",
+        "material_title": "241008_022_02.jpg",
+        "material_file": "b3ef712e3bfb0d2a82dcce4200e0e6456a49185415ce2bbf5db19f6f5b89018522058.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26971",
+    "content_title": "工藤の家の軒下#22～山﨑愛生～",
+    "content_sub_title": "",
+    "release_date": "2024-10-08 00:00:00",
+    "created_at": "2026-09-28 22:52:55",
+    "updated_at": "2026-09-28 22:52:55",
+    "content_text": "241008_022.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第22回はゲストは、山﨑愛生！\r\n\r\n・特別な日\r\n・プリパラ\r\n・米村姫良々二の腕事件\r\n・写真集\r\n・ハロー！プロジェクト好きのお母さん\r\n・めいのおやつ\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・歌割りの引き継ぎ\r\n・意外な交友関係\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・出身地別の特徴\r\n・迷うメニューの決め方\r\n・日帰り里山旅の思い出\r\n・ステージと普段の切り替え\r\n・ハロプロ研修生北海道時代\r\n・冠ラジオ番組\r\nについてトーク！\r\n\r\n241008_022_03.jpg\r\n\r\n241008_022_02.jpg",
+    "materials": [
+      {
+        "secretKey": "3f1b76525e9f404bb60abe428fc8e54a",
+        "material_id": "22057",
+        "material_title": "241008_022.jpg",
+        "material_file": "ac42c1f104a77a4c49435729448c7f5e40878bf11225d175990a972694a27ab822057.jpeg"
+      },
+      {
+        "secretKey": "3f1b76525e9f404bb60abe428fc8e54a",
+        "material_id": "22059",
+        "material_title": "241008_022_03.jpg",
+        "material_file": "b507a9c1d8f7c6fd333812a26ff05329c35472028f50a06d0561d549f7df8c9f22059.jpeg"
+      },
+      {
+        "secretKey": "3f1b76525e9f404bb60abe428fc8e54a",
+        "material_id": "22058",
+        "material_title": "241008_022_02.jpg",
+        "material_file": "f952ad04aab6d2c9dcefb0bc41f813e41f5bfed0c8ecbca6db79a7169143d2ae22058.jpeg"
+      }
+    ],
+    "previous_id": "23123",
+    "next_id": "23020",
+    "saved_materials": [
+      "assets/26971_22057_241008_022.jpg",
+      "assets/26971_22059_241008_022_03.jpg",
+      "assets/26971_22058_241008_022_02.jpg"
+    ]
+  }
+}

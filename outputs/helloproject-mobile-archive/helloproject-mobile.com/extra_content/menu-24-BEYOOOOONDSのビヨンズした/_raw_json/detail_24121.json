@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 108,
+    "content_id": "24121",
+    "content_title": "たまには",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2025-05-07 10:00:00",
+    "created_at": "2025-04-09 21:56:17",
+    "updated_at": "2025-04-09 21:58:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19762",
+        "material_title": "0507_hirai_s.jpg",
+        "material_file": "e55ac42c6a0e5d98469451e5034416f94e4021f129fb9614325cd55de10efa3a19762.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24121",
+    "content_title": "たまには",
+    "content_sub_title": "平井美葉",
+    "release_date": "2025-05-07 10:00:00",
+    "created_at": "2025-04-09 21:56:17",
+    "updated_at": "2025-04-09 21:58:59",
+    "content_text": "0507_hirai_s.jpg\n童心に帰るのも良いものだよ♫\n\n【42周目お題：オススメ！】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19762",
+        "material_title": "0507_hirai_s.jpg",
+        "material_file": "7168832105a8f694b2f57716a60f362cd19c6f166e856404ed652dfee27cc7fc19762.jpeg"
+      }
+    ],
+    "previous_id": "24122",
+    "next_id": "24120",
+    "saved_materials": [
+      "assets/24121_19762_0507_hirai_s.jpg"
+    ]
+  }
+}

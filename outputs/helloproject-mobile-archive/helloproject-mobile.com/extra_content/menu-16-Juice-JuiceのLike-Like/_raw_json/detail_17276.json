@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 414,
+    "content_id": "17276",
+    "content_title": "マフラー",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2021-12-09 23:39:00",
+    "created_at": "2021-12-09 23:39:17",
+    "updated_at": "2021-12-09 23:39:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14364",
+        "material_title": "211209_ebata_s.jpg",
+        "material_file": "171ff384bf88e85f7d692fb12499324f31a825e9188183c60a5421daed15652c14364.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17276",
+    "content_title": "マフラー",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2021-12-09 23:39:00",
+    "created_at": "2021-12-09 23:39:17",
+    "updated_at": "2021-12-09 23:39:17",
+    "content_text": "211209_ebata_s.jpg\r\n\r\nこんちゃ！\r\n\r\n江端妃咲です‘٩꒰｡•◡•｡꒱۶’\r\n\r\nちょっと前にお母さんから、京都に置いておいた私のマフラーが2個届きました！\r\n\r\nなので、今私はマフラーを4個使い回しています<img src=\"/emoji/emoji-images/f468.gif\"/>\r\n\r\n緑と白と赤と黒のマフラーがあるんですけど、緑のマフラーは裏返すと灰色のマフラーにもなるんです！！！！\r\n\r\n冬、楽しみます！\r\n\r\nばいばいっ！",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14364",
+        "material_title": "211209_ebata_s.jpg",
+        "material_file": "fc3f965b99ac606e88b8391ccbe511b1a457f473cb956a71a04474ffd004274814364.jpeg"
+      }
+    ],
+    "previous_id": "17277",
+    "next_id": "17264",
+    "saved_materials": [
+      "assets/17276_14364_211209_ebata_s.jpg"
+    ]
+  }
+}

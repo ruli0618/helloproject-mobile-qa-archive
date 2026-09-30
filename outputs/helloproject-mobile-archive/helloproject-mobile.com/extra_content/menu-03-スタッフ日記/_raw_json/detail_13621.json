@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 350,
+    "content_id": "13621",
+    "content_title": "隣のやじまん家の塀の裏#69 広瀬彩海",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-04-01 00:00:00",
+    "created_at": "2020-04-01 17:42:23",
+    "updated_at": "2020-04-01 17:50:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11376",
+        "material_title": "20200401_1.jpg",
+        "material_file": "d967891aa54c09f542b6b1a22c43d196b147c133c126fa324155ddb70af1e40511376.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11377",
+        "material_title": "20200401_2.jpg",
+        "material_file": "d819524c9ec43ac1603185097ac1daccf0de86cb92054fcdbf6807af3df3aaf411377.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13621",
+    "content_title": "隣のやじまん家の塀の裏#69 広瀬彩海",
+    "content_sub_title": "",
+    "release_date": "2020-04-01 00:00:00",
+    "created_at": "2020-04-01 17:42:23",
+    "updated_at": "2020-04-01 17:50:53",
+    "content_text": "「隣のやじまん家」#69 配信中です！\n\n\n今回のゲストはこぶしファクトリー広瀬彩海さん！\nこぶしファクトリー解散前、ギリギリに隣のやじまん家に遊びにきてくれました<img src=\"/emoji/emoji-images/f37e.gif\"/><img src=\"/emoji/emoji-images/f37e.gif\"/>\nありがとうございます<img src=\"/emoji/emoji-images/f379.gif\"/>\n\n20200401_1.jpg\n\nおふたりとも5人グループのリーダーをしていたという共通点からリーダーをしていて嬉しかったことや大変だったこと。\n広瀬さんのナイスガールトレイニー時代のお話や、ハロプロを好きになったきっかけなど、いつもより少し長い15ファイルでお届けしています！\n\n\n\n\n「矢島パイセンの○○チェック」では、なんとまたまたあの話題…！\n広瀬さんが大好きな加賀楓さんについてのタレコミ！\nモーニング娘。'20の北川さんはライバル？嫉妬する？！など加賀さんに対しての熱い想いをたっぷりお話しています♡\n\n矢島パイセンの判断は、アリ？それともナシ？\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①ぐっすり30秒睡眠対決<img src=\"/emoji/emoji-images/f65e.gif\"/>！\n\n30秒体内時計で測り、どちらがより近いかで対決しました！\n好記録を出したのは一体どっち？！\nぜひ配信でチェックしてみてくださいね。\n\n今回のハロー！ラジオ連動企画は、\n「ふくむらの部屋」から譜久村さん、北川さんの質問に答えました！！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n20200401_2.jpg\n\n4月テーマトークのお題は\n「毎日のルーティーン」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはつばきファクトリーの小片リサさんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11376",
+        "material_title": "20200401_1.jpg",
+        "material_file": "cb14e695e063a0e8e48f479acda0e08373d2799fdf63f700e2899d8e5443f82f11376.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11377",
+        "material_title": "20200401_2.jpg",
+        "material_file": "07fd65ac4a7f3c2eeada7c5e11b3bb6fb24729d7d25be68e719d5234bf72ccf211377.jpeg"
+      }
+    ],
+    "previous_id": "13625",
+    "next_id": "13287",
+    "saved_materials": [
+      "assets/13621_11376_20200401_1.jpg",
+      "assets/13621_11377_20200401_2.jpg"
+    ]
+  }
+}

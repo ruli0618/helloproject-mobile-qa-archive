@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 104,
+    "content_id": "16534",
+    "content_title": "サラダを食べました！",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2021-08-10 21:25:00",
+    "created_at": "2021-08-10 21:26:02",
+    "updated_at": "2021-08-10 21:26:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13800",
+        "material_title": "210810_kasai_s.jpg",
+        "material_file": "887a892603fd8b2af0554e5eb2a8b861c62b757822cb3e03fe02921cdf9fc8ed13800.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16534",
+    "content_title": "サラダを食べました！",
+    "content_sub_title": "河西結心",
+    "release_date": "2021-08-10 21:25:00",
+    "created_at": "2021-08-10 21:26:02",
+    "updated_at": "2021-08-10 21:26:02",
+    "content_text": "210810_kasai_s.jpg\r\n美意識を高めるために\r\nこれから沢山食べます♪\r\n\r\nとっても美味しかったです！！",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13800",
+        "material_title": "210810_kasai_s.jpg",
+        "material_file": "776c6cd4d3fe0d970fb974ec2467b9bfaac65b34b1799a781d89a2b8162d44fb13800.jpeg"
+      }
+    ],
+    "previous_id": "16555",
+    "next_id": "16525",
+    "saved_materials": [
+      "assets/16534_13800_210810_kasai_s.jpg"
+    ]
+  }
+}

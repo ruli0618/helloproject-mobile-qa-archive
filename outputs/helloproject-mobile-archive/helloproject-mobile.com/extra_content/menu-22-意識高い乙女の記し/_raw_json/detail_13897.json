@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 178,
+    "content_id": "13897",
+    "content_title": "カフェ巡り",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-05-29 12:00:00",
+    "created_at": "2020-05-29 12:05:15",
+    "updated_at": "2020-05-29 12:05:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11592",
+        "material_title": "0529_yamagishi_s.jpg",
+        "material_file": "293542212b9a4250959ed48b06feeab70d53f1624e794cf42b05cbbd9e4662a711592.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13897",
+    "content_title": "カフェ巡り",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-05-29 12:00:00",
+    "created_at": "2020-05-29 12:05:15",
+    "updated_at": "2020-05-29 12:05:15",
+    "content_text": "つばきファクトリーの山岸理子です！\r\n\r\n私はお休みの日にカフェ巡りをすることが\r\n好きです！\r\n\r\n0529_yamagishi_s.jpg\r\n\r\nこの写真は今年の一月頃、\r\n今世間で流行ってる食べ物を探してた時に、\r\n見つけたケーキを食べに行きました♡\r\n\r\nまるいショートケーキが、\r\n食べられて幸せでした(^ ^)\r\n\r\nまた普通にお出かけ出来るようになったらカフェ巡りしたいなぁ！",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11592",
+        "material_title": "0529_yamagishi_s.jpg",
+        "material_file": "bf65a52f95fd3513267b52aa8dcac5b45452a161cf3e697e2ef8ccf1959798bb11592.jpeg"
+      }
+    ],
+    "previous_id": "13956",
+    "next_id": "13866",
+    "saved_materials": [
+      "assets/13897_11592_0529_yamagishi_s.jpg"
+    ]
+  }
+}

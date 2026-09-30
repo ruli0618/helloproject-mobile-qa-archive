@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 262,
+    "content_id": "17267",
+    "content_title": "隣のやじまん家の塀の裏#92 山﨑愛生",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-11-16 00:00:00",
+    "created_at": "2021-12-07 18:38:29",
+    "updated_at": "2021-12-07 18:38:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14351",
+        "material_title": "211207_2.jpg",
+        "material_file": "f4a0c2ac6bf3cfb61b98bc9636cd8fe399d6867b386d60d03d591be698473f4714351.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14352",
+        "material_title": "211207_1.jpg",
+        "material_file": "3329a373ee450d744bfcf9a01028b1af0b12ce4d59ae97bd599dd53d69a3d2e214352.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17267",
+    "content_title": "隣のやじまん家の塀の裏#92 山﨑愛生",
+    "content_sub_title": "",
+    "release_date": "2021-11-16 00:00:00",
+    "created_at": "2021-12-07 18:38:29",
+    "updated_at": "2021-12-07 18:38:29",
+    "content_text": "「隣のやじまん家」第92回配信中！\r\nお久しぶりに通常配信でのお届けです。\r\n\r\n今回のゲストも初登場のモーニング娘。'21山﨑愛生さん<img src=\"/emoji/emoji-images/f44a.gif\"/>！\r\n\r\n211207_1.jpg\r\n\r\n矢島とゲストの「その頃。と近頃。」コーナーでは、2005年の5.6月についてや2016年からの山﨑さんの成長、ハロプロ研修生北海道とハロプロキッズについてなどそのほかもたっぷりお話しました。\r\n\r\n矢島パイセンの○○チェックでのタレコミは\r\n山﨑さんの前髪のこだわりと食わず嫌いについてのタレコミ！\r\n駄菓子が大好きで偏食な山﨑さんですが、矢島パイセンはアリ？それともナシ？！\r\n\r\n\r\n今回の「VS矢島」はこちら！\r\n\r\n<img src=\"/emoji/emoji-images/f44a.gif\"/>パンダさんゲーム<img src=\"/emoji/emoji-images/f44a.gif\"/>\r\n\r\n山﨑さんといえば、やっぱりパンダさん！！\r\n実は「VS矢島」では2回目のパンダさんゲームです♪\r\nどちらが勝利したのか是非本編をお聴きください。\r\n\r\n211207_2.jpg\r\n\r\nその他モーニング娘。15期トークもお話しているのでお聴き逃しなく！\r\n\r\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から譜久村さんと小野さんの質問に答えました！\r\nおふたりの質問はどの番組で読まれるのか、\r\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\r\n\r\n矢島とゲストの「その頃。と近頃。」コーナー、「矢島パイセンの○○チェック」「今月のハッピーバースデー＆記念日♪」「楽曲リクエスト」「普通のお便り」も、メールお待ちしています！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回ゲストはモーニング娘。'21生田衣梨奈さんです！\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "14351",
+        "material_title": "211207_2.jpg",
+        "material_file": "6ab5b8b12071b6890b9764e2693424fcfd4b13d036d87e31e17a0af4362cc7fe14351.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "14352",
+        "material_title": "211207_1.jpg",
+        "material_file": "63c32ee0ba0afa6f0e3e685977d5c58f04906738f6bc86c921401b93a247046314352.jpeg"
+      }
+    ],
+    "previous_id": "17272",
+    "next_id": "17107",
+    "saved_materials": [
+      "assets/17267_14351_211207_2.jpg",
+      "assets/17267_14352_211207_1.jpg"
+    ]
+  }
+}

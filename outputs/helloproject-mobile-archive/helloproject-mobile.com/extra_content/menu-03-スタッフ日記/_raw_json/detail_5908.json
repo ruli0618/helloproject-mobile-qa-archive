@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 626,
+    "content_id": "5908",
+    "content_title": "クリスマスカード",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-12-22 22:15:00",
+    "created_at": "2016-12-22 22:09:45",
+    "updated_at": "2016-12-22 22:15:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5277",
+        "material_title": "161222_s.jpg",
+        "material_file": "d8e13798a5cc7074b10437cb6ee78dc4e947266711c8c291f8f5239dc0c0a0415277.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5908",
+    "content_title": "クリスマスカード",
+    "content_sub_title": "",
+    "release_date": "2016-12-22 22:15:00",
+    "created_at": "2016-12-22 22:09:45",
+    "updated_at": "2016-12-22 22:15:56",
+    "content_text": "こんばんは。\nハロ！モバスタッフ番号2番です。\n\nクリスマス特集ページに公開中のメンバー直筆クリスマスカードはご覧になりましたか？\n\nカードのプレゼント受付は本日締め切らせて頂きましたが、カード画像は週明け月曜までは公開しております！\n公開終了となる前にぜひご覧ください！\n\nそして、受付期間が短かったにも関わらず沢山のご応募を頂き、本当にありがとうございました。\n\n161222_s.jpg\n\n葉書きは本日郵便局にて差し出しましたので、ご応募された方はポストに届く事を楽しみにしていて下さい。\n\n度々のお願いですが、、\n葉書きが届いたら「#ハロモバ」で写真をSNSにUPして頂けると、スタッフ番号2番、とってもとっても嬉しいです！\n\n今後は、年末特集・年始特集ページも公開予定です。\n年始特集では年賀状プレゼント応募もありますので、今回抽選に漏れてしまった方はぜひもう一度チャレンジしてみてください！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5277",
+        "material_title": "161222_s.jpg",
+        "material_file": "2bfc8b99df18b0be9aa3a6a97cf042562aa6bd3c7a696cfda0ae12641b8958c95277.jpeg"
+      }
+    ],
+    "previous_id": "5912",
+    "next_id": "5882",
+    "saved_materials": [
+      "assets/5908_5277_161222_s.jpg"
+    ]
+  }
+}

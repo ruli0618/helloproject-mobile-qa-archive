@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "24665",
+    "content_title": "黒髪！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2025-08-04 10:00:00",
+    "created_at": "2025-07-14 21:44:32",
+    "updated_at": "2025-07-14 21:44:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20144",
+        "material_title": "0804_satoyoshi_s.jpg",
+        "material_file": "b9558b1c3f91f82b08eb0e3977cd78374f939e425a4ef904998e33205e876e6120144.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24665",
+    "content_title": "黒髪！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2025-08-04 10:00:00",
+    "created_at": "2025-07-14 21:44:32",
+    "updated_at": "2025-07-14 21:44:32",
+    "content_text": "0804_satoyoshi_s.jpg\r\n写真集で着た浴衣！自分で選べて嬉しかった～！\r\nもしかして黒髪の方が大人っぽい…？\r\n\r\n【44周目お題：懐かしい】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20144",
+        "material_title": "0804_satoyoshi_s.jpg",
+        "material_file": "29291576a747ef3f05cf5fb1b5e327558dd80598f4b76432a5e7704210736cd520144.jpeg"
+      }
+    ],
+    "previous_id": "24792",
+    "next_id": "24664",
+    "saved_materials": [
+      "assets/24665_20144_0804_satoyoshi_s.jpg"
+    ]
+  }
+}

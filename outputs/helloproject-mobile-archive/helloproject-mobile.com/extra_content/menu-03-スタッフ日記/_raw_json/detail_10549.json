@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 451,
+    "content_id": "10549",
+    "content_title": "宣伝会議 議事録#33",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-12-26 17:00:00",
+    "created_at": "2018-12-25 22:19:03",
+    "updated_at": "2018-12-26 19:50:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9118",
+        "material_title": "181226_02_s.jpg",
+        "material_file": "96f9afccec3e061f7f2660df3879bb3625dd9ef36f86a83be517f10168d2c4d59118.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9119",
+        "material_title": "181226_03_s.jpg",
+        "material_file": "85f5ac4e5b02d5090ccd902a836ad3317edbd737d8950c5433f4b3c672a2835a9119.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9120",
+        "material_title": "181226_01_s.jpg",
+        "material_file": "f57d16586308c4c76bd6f0d4f42a175d7fbb191433970ef110bbe475e0b8b4d29120.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10549",
+    "content_title": "宣伝会議 議事録#33",
+    "content_sub_title": "",
+    "release_date": "2018-12-26 17:00:00",
+    "created_at": "2018-12-25 22:19:03",
+    "updated_at": "2018-12-26 19:50:27",
+    "content_text": "ハロ！モバ宣伝会議\n33回目の配信開始しました！\n\n181226_01_s.jpg\n\n久しぶりに3人揃った宣伝会議！\nもう過ぎてしまいましたがクリスマススペシャルでお送りします！\n\n遂に念願のハロモバ宣伝部イベント開催！？\n開催希望の方は件名に「イベント開催希望」と記入してお送りください。\n2019年1月20日23時まで！\n873通集まればイベント開催決定！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=イベント開催希望\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n※ハロ！モバのマイページに登録しているアドレスからの受付になります。\n※お一人の方が複数通メールを送って頂いても、カウントは1となります。\n\n181226_02_s.jpg\n\nクリスマスと言ったらケーキ！\nケーキを使った特別な妄想動画を撮影しました！\n\nもうチェックしていただけましたか？\n\n撮影中のNGバージョンも特別に公開しましたので\n合わせてチェックしてくださいね！\n\n\n年内最後の宣伝部ラジオ！\n今年も一年たくさんの励ましのメールありがとうございました！\n\nみなさん良いお年を！\n\n\n181226_03_s.jpg\n\n\n引き続き「励ましのメール」もお待ちしています！\n\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。",
+    "materials": [
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9118",
+        "material_title": "181226_02_s.jpg",
+        "material_file": "5c7f9e813d285f3d51ecf35a201009b52339af42fe288bf9505a6291f3d10f679118.jpeg"
+      },
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9119",
+        "material_title": "181226_03_s.jpg",
+        "material_file": "10e03fc486bfb9fa7d00f615378d4c429e8c1aaa87a99b1c3c275b7fcef91c3f9119.jpeg"
+      },
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9120",
+        "material_title": "181226_01_s.jpg",
+        "material_file": "d1c6a41cc552241c1c323b066cfd182bff0188409131b9074a9c7c3e37ad628f9120.jpeg"
+      }
+    ],
+    "previous_id": "10614",
+    "next_id": "10548",
+    "saved_materials": [
+      "assets/10549_9118_181226_02_s.jpg",
+      "assets/10549_9119_181226_03_s.jpg",
+      "assets/10549_9120_181226_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 21,
+    "content_id": "19452",
+    "content_title": "ハーフアップ",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2022-12-30 10:00:00",
+    "created_at": "2022-12-23 14:21:40",
+    "updated_at": "2022-12-23 14:21:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16133",
+        "material_title": "1230_onoda_s.jpg",
+        "material_file": "e0da67e55d055d321cebe07b240500db0c2dd114406e46e291f8981e6af7865916133.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19452",
+    "content_title": "ハーフアップ",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2022-12-30 10:00:00",
+    "created_at": "2022-12-23 14:21:40",
+    "updated_at": "2022-12-23 14:21:40",
+    "content_text": "最近すごく寒くてびっくりしている、さおりです♪\r\n\r\nこの間のライブで、久しぶりにハーフアップをしてみました！\r\n\r\nこれからもいろんな姿を見せていきたいなあ。\r\n\r\nメイクも研究していきたいと思っている今この頃です！！\r\n\r\n自分磨き、がんばるぞおー！\r\n\r\n見た目だけじゃなくて内面もね！\r\n\r\n\r\n\r\n今日は、さおりの自撮りです♪\r\n1230_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16133",
+        "material_title": "1230_onoda_s.jpg",
+        "material_file": "bbc5266ae61c16b35144b17f9af4076203e23762762c81ad7cd363154939ba5816133.jpeg"
+      }
+    ],
+    "previous_id": "19451",
+    "next_id": "19450",
+    "saved_materials": [
+      "assets/19452_16133_1230_onoda_s.jpg"
+    ]
+  }
+}

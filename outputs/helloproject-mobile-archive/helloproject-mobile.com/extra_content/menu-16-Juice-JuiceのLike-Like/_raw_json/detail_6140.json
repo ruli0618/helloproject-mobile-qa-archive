@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 824,
+    "content_id": "6140",
+    "content_title": "お好み焼き／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-01-27 22:38:00",
+    "created_at": "2017-01-27 22:35:15",
+    "updated_at": "2017-01-27 22:39:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5459",
+        "material_title": "5532031354790_s.jpg",
+        "material_file": "15be129a933fd36db27d96feed460f3c0389db83f9c1dd1539155a43b24c14285459.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 822,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6140",
+    "content_title": "お好み焼き／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-01-27 22:38:00",
+    "created_at": "2017-01-27 22:35:15",
+    "updated_at": "2017-01-27 22:39:07",
+    "content_text": "5532031354790_s.jpg\r\nもんじゃとお好み焼きに\r\nはまってしまった。。",
+    "materials": [
+      {
+        "secretKey": "64a2006aa24ad0a56239eb29cde82457",
+        "material_id": "5459",
+        "material_title": "5532031354790_s.jpg",
+        "material_file": "9fa1bb1be5f40503a91a3b46e2c0dca3497df92ca549823146fd35b9aac1b6d65459.jpeg"
+      }
+    ],
+    "previous_id": "6193",
+    "next_id": "6132",
+    "saved_materials": [
+      "assets/6140_5459_5532031354790_s.jpg"
+    ]
+  }
+}

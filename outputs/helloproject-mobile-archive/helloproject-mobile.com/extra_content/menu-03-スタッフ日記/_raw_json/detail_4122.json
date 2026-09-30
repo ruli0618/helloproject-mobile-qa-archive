@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 674,
+    "content_id": "4122",
+    "content_title": "いろいろお知らせ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-02-26 22:55:00",
+    "created_at": "2016-02-26 22:26:59",
+    "updated_at": "2016-02-26 22:56:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4122",
+    "content_title": "いろいろお知らせ",
+    "content_sub_title": "",
+    "release_date": "2016-02-26 22:55:00",
+    "created_at": "2016-02-26 22:26:59",
+    "updated_at": "2016-02-26 22:56:08",
+    "content_text": "こんにちは！\nハロモバスタッフ番号2番からお知らせです。\n\n<b>★Juice=Juiceの新コーナーが誕生！</b>\n「どぅーでもいい写真館」「やなふなのシクヨロセンパイ！」に続き、Juice=Juiceのハロ！プロモバイル新コーナーが3月からスタートします。その名も「Juice=JuiceのLike=Like」！\n公開は3月初旬を予定しておりますので、皆さまお楽しみに！\n\n<b>★ひなフェスソングプレイリストを公開！</b>\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><u>ハロー！ラジオ</u></a>にて、プレイリスト「ハロ！モバセレクション ひなフェスユニット編」を配信開始しました！過去3年にわたって開催されたひなフェスのセットリストから、ソロ＆シャッフルユニットとして披露された楽曲をセレクト！ひなフェス2016に行く前に、過去の楽曲をおさらいしてみてはいかがでしょう？\n\n<b>★「やじまの部屋やな」メール受付中！</b>\n次回第5回の「やじまの部屋やな」は3/3(木)配信！ゲストは、今勢いのあるこぶしファクトリーから、読書家のリーダー広瀬彩海と、みんなのみなみな野村みな美の2人が出演します！只今メールを募集中ですので、3人へのメッセージやコーナーメール、質問、ライブの感想等など、愛のあるメッセージをお待ちしております。\n\n締切：2/29(月)23:59\n宛先：<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n対象：700円会員<a href=\"https://helloproject-mobile.com/mypage/manage\"><u>マイページ</u></a>登録アドレス\n\nラジオ番組の再生画面には、インジケータバーが表示されるようになりました。タップ操作により、任意の位置から再生を開始できますため、これまでのように回線が途切れてしまった時に、また番組を一から聴き直さなければならない…という事態からは解消されるはずです。\n※Android端末は巻き戻し操作が行えません。\n\n今後ともより充実した、使いやすいサイトを目指して少しずつ改善していきます！サイトをご利用になるうえで何か気になる事がありましたら、ぜひハロ！モバ<a href=\"http://helloproject-mobile.com/info/faq/form\"><u>お問い合わせフォーム</u></a>からお問い合わせ下さい。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "4216",
+    "next_id": "4080",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 106,
+    "content_id": "22044",
+    "content_title": "くまちゃん！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2024-04-19 11:37:00",
+    "created_at": "2024-04-19 11:38:15",
+    "updated_at": "2024-04-19 11:38:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18092",
+        "material_title": "0419_fukuda_s.jpg",
+        "material_file": "af50925fa76f8f56dac0305a86124bcfe0373c66964f2a416b5086b258f1b76818092.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22044",
+    "content_title": "くまちゃん！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2024-04-19 11:37:00",
+    "created_at": "2024-04-19 11:38:15",
+    "updated_at": "2024-04-19 11:38:15",
+    "content_text": "0419_fukuda_s.jpg\r\n最近くまちゃんのケーキを食べました〜！可愛くて食べるの少し悲しかったですが、美味しくいただきました！\r\nチョコレート味のとっても美味しいケーキでした！！\r\nまた食べたいな〜！",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "18092",
+        "material_title": "0419_fukuda_s.jpg",
+        "material_file": "7e9255d42be431da8c1162a2706c0f61bd3a5bcc6e1e619ad6ec98925036d9c018092.jpeg"
+      }
+    ],
+    "previous_id": "22096",
+    "next_id": "22010",
+    "saved_materials": [
+      "assets/22044_18092_0419_fukuda_s.jpg"
+    ]
+  }
+}

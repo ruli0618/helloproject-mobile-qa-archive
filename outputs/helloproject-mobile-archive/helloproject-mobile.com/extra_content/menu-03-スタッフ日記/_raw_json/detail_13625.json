@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 349,
+    "content_id": "13625",
+    "content_title": "工藤の家の屋根裏部屋#71～山岸理子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-04-06 21:00:00",
+    "created_at": "2020-04-06 21:04:04",
+    "updated_at": "2020-04-06 21:05:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11380",
+        "material_title": "20200331_02_s.jpg",
+        "material_file": "c95f5fcf6c3e722c73e8177863b0d30740ef0d25eee39141c0bcae2b8363ca5511380.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11381",
+        "material_title": "20200331_04_s.jpg",
+        "material_file": "b73aa18229902b1ddd187022cf2ecc840653a943c7a552db9c1fa3d8b81eeb7d11381.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11382",
+        "material_title": "20200331_03_s.jpg",
+        "material_file": "4ba2781d032a9042b0a227af8c90a108afca5a970ddc8874a87681ee4b99e1e311382.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11383",
+        "material_title": "20200331_05.jpg",
+        "material_file": "052d6993aaef185409030306550b749cf3f1ed27350b29a2e17203b61d6f4a6a11383.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11384",
+        "material_title": "20200331_01_s.jpg",
+        "material_file": "cbcaf1dc929e13272831d606f3ed5f9892fbc2721e6c985252a7bc3c7edcc50211384.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13625",
+    "content_title": "工藤の家の屋根裏部屋#71～山岸理子～",
+    "content_sub_title": "",
+    "release_date": "2020-04-06 21:00:00",
+    "created_at": "2020-04-06 21:04:04",
+    "updated_at": "2020-04-06 21:05:23",
+    "content_text": "ふくむらの部屋 第71回配信中♪\n\nつばきファクトリー山岸理子さんが出演！\n\n20200331_01_s.jpg\n\n春メイク春ファッション、\nひなフェスで披露したカバー曲、\nDVDマガジンでの罰ゲーム等など…\n\n嬉しい事・癒やされる事、ホワイトデーのお話もして頂きました！\n\n20200331_02_s.jpg\n\nハロプロ講座では、\nハロプロ研修生のお話から始まり\nリーダーについてやこぶしファクトリー、\n「抱きしめられてみたい」の歌詞についてじっくりトーク！\n\n20200331_03_s.jpg\n\n「悩みをキラーンと解決」のコーナーでは、この時期ならではのお悩みに沢山答えました！\n\n20200331_04_s.jpg\n\nコラボ企画では、こちら↓の質問に回答！\n\n20200331_05.jpg\n\n次回は、4/14(火)の配信♪\nゲストはつばきファクトリーの小野田紗栞さんです！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11380",
+        "material_title": "20200331_02_s.jpg",
+        "material_file": "63e2f29c0e5b2ded4d48ff8de3bcecd2106c31fac20dc2906f05b392ba0a55a211380.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11381",
+        "material_title": "20200331_04_s.jpg",
+        "material_file": "4e1e1b468b9d4038182e8a2bb6d4651e3b26e924ed95c7416712d4e99d50546211381.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11382",
+        "material_title": "20200331_03_s.jpg",
+        "material_file": "35f109472476830c7d0847b6eaa21a621430d5938e6478936d95da29949be9f011382.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11383",
+        "material_title": "20200331_05.jpg",
+        "material_file": "be2ba51c1489793774da7c9887967f00982a694821116ca8aeaf4cf4145d4dda11383.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11384",
+        "material_title": "20200331_01_s.jpg",
+        "material_file": "a2cfdc55ed93f3470bf25cefe66301272e348beff869186f2e6b5821f565ec7b11384.jpeg"
+      }
+    ],
+    "previous_id": "13635",
+    "next_id": "13621",
+    "saved_materials": [
+      "assets/13625_11380_20200331_02_s.jpg",
+      "assets/13625_11381_20200331_04_s.jpg",
+      "assets/13625_11382_20200331_03_s.jpg",
+      "assets/13625_11383_20200331_05.jpg",
+      "assets/13625_11384_20200331_01_s.jpg"
+    ]
+  }
+}

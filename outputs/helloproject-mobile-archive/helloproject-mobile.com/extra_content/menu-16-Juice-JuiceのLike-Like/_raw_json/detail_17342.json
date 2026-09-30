@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 411,
+    "content_id": "17342",
+    "content_title": "クリスマス",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-12-21 10:00:00",
+    "created_at": "2021-12-16 23:33:06",
+    "updated_at": "2021-12-16 23:33:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14473",
+        "material_title": "211221_inoue_s.jpg",
+        "material_file": "0d3f384889a60e9a561c86ba1b7f3ab76509d5984982364bbfcc58d2fec7f95e14473.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17342",
+    "content_title": "クリスマス",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-12-21 10:00:00",
+    "created_at": "2021-12-16 23:33:06",
+    "updated_at": "2021-12-16 23:33:06",
+    "content_text": "211221_inoue_s.jpg\r\n12月は街がカラフルになって、ワクワクするよね！年越しの準備もそうだけど、クリスマス！イルミネーション！！\r\n\r\nワクワクが詰まってる。",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14473",
+        "material_title": "211221_inoue_s.jpg",
+        "material_file": "269b19d61667fa0c15fb5f3f586218e0e571ec566308c610c85de3b0df3e0ec314473.jpeg"
+      }
+    ],
+    "previous_id": "17343",
+    "next_id": "17278",
+    "saved_materials": [
+      "assets/17342_14473_211221_inoue_s.jpg"
+    ]
+  }
+}

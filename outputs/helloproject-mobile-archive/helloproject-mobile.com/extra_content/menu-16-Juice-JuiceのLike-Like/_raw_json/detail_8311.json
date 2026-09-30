@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 755,
+    "content_id": "8311",
+    "content_title": "青い海／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-01-08 11:00:00",
+    "created_at": "2018-01-01 06:32:47",
+    "updated_at": "2018-01-01 06:43:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7298",
+        "material_title": "0108_danbara_s.jpg",
+        "material_file": "d59f84869dbaaedb1266cb5efadb05e63371b78d65e3e0a25dc9aaee5842727e7298.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8311",
+    "content_title": "青い海／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2018-01-08 11:00:00",
+    "created_at": "2018-01-01 06:32:47",
+    "updated_at": "2018-01-01 06:43:37",
+    "content_text": "0108_danbara_s.jpg\r\nブラジルで、大西洋に入ってきました(≧∇≦)\r\nすごいきれいで気持ちよかったよ♪♪",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7298",
+        "material_title": "0108_danbara_s.jpg",
+        "material_file": "8b64d81b130431058e6070e36ac6269905a12377777af454822775f4bda1a32a7298.jpeg"
+      }
+    ],
+    "previous_id": "8312",
+    "next_id": "8310",
+    "saved_materials": [
+      "assets/8311_7298_0108_danbara_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 379,
+    "content_id": "17942",
+    "content_title": "ひなフェス！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-04-12 10:00:00",
+    "created_at": "2022-04-11 23:03:02",
+    "updated_at": "2022-04-11 23:03:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "14995",
+        "material_title": "0412_irie_S.jpg",
+        "material_file": "1029fd5bbd0a8628056d51d1d6e5eb2ea0bc5be37d9ab738bcee2cc42ab4562f14995.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17942",
+    "content_title": "ひなフェス！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-04-12 10:00:00",
+    "created_at": "2022-04-11 23:03:02",
+    "updated_at": "2022-04-11 23:03:02",
+    "content_text": "ひなフェス無事終了しました〜\r\n\r\n\r\n有澤一華ちゃんの分までみんなで頑張りました(^-^)v\r\n\r\n\r\nそして、トリオでは『情熱エクスタシー』をパフォーマンスさせていただきました！\r\n\r\n\r\n0412_irie_S.jpg\r\n\r\n秋山眞緒さんと江端妃咲ちゃん♡\r\n\r\n\r\n\r\nたくさんダンスを教えていただいて、3人でいっぱい練習しました！\r\n\r\n\r\n\r\n皆さんいかがでしたか？？(^^)",
+    "materials": [
+      {
+        "secretKey": "160f33b18c635eb9fe5fb1a3c3752057",
+        "material_id": "14995",
+        "material_title": "0412_irie_S.jpg",
+        "material_file": "5fad2c11f0b5e2ab0002ad38310f3d28a41530bb2184bd9252dc1ea96f63825c14995.jpeg"
+      }
+    ],
+    "previous_id": "17943",
+    "next_id": "17937",
+    "saved_materials": [
+      "assets/17942_14995_0412_irie_S.jpg"
+    ]
+  }
+}

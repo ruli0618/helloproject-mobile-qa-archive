@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 93,
+    "content_id": "16868",
+    "content_title": "パーカー♡",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-10-06 16:35:00",
+    "created_at": "2021-10-06 16:38:27",
+    "updated_at": "2021-10-06 16:38:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14078",
+        "material_title": "211006_yamagishi_s.jpg",
+        "material_file": "d526be377f432da85254c92ac988b7619fa217678cf1df84f821037fab45ab1b14078.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16868",
+    "content_title": "パーカー♡",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-10-06 16:35:00",
+    "created_at": "2021-10-06 16:38:27",
+    "updated_at": "2021-10-06 16:38:27",
+    "content_text": "211006_yamagishi_s.jpg\r\nかわいいパーカーをみて\r\nテンションあげてます⤴︎ \r\n\r\n段々と季節も寒くなってきましたね。体調崩さないように一緒に\r\n頑張りましょ！",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14078",
+        "material_title": "211006_yamagishi_s.jpg",
+        "material_file": "8dcf94523b2b361949633a36e46c42ba5c50343f4623e4b9abe934817e19435d14078.jpeg"
+      }
+    ],
+    "previous_id": "16892",
+    "next_id": "16854",
+    "saved_materials": [
+      "assets/16868_14078_211006_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 568,
+    "content_id": "7791",
+    "content_title": "工藤の家の屋根裏部屋#9 ～岸本ゆめの～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-10-18 17:47:00",
+    "created_at": "2017-10-18 17:48:10",
+    "updated_at": "2017-10-18 17:49:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6845",
+        "material_title": "1710181_s.jpg",
+        "material_file": "e836ac0bec2ebc0ac561b905a7392e24146d8d52dfc9acca2eb73f3dc05f73856845.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6846",
+        "material_title": "1710182_s.jpg",
+        "material_file": "d1799484b59ebcabb5b1527a38c3548e3f97569b228cbc252cd802882a7830646846.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7791",
+    "content_title": "工藤の家の屋根裏部屋#9 ～岸本ゆめの～",
+    "content_sub_title": "",
+    "release_date": "2017-10-18 17:47:00",
+    "created_at": "2017-10-18 17:48:10",
+    "updated_at": "2017-10-18 17:49:10",
+    "content_text": "「ふくむらの部屋」9回目の配信が開始しました！\r\n\r\n\r\nゲストはつばきファクトリー岸本ゆめのさんが登場です！\r\n\r\n\r\n1710181_s.jpg\r\n\r\n最初は少し緊張した様子ですが、\r\nハロプロの話やつばきメンバーについて、プライベートについてもたくさん話しています！\r\n\r\n\r\n「みずき先生のハロプロ講座」\r\n秋のハロプロ曲といえば！\r\n可愛い、かっこいい、面白いMVについて！\r\nもちろん2人が大好きな、Berryz工房についても語っています！\r\n\r\n\r\n\r\n1710182_s.jpg\r\n\r\n\r\n「みずきお嬢様の私生活」\r\n岸本さんも驚愕のエピソードが飛び出しています\r\n岸本家の〇〇の行方は！？\r\nそしてそして、なんとこのコーナーは今回で最終回！？\r\n\r\n\r\nみずきお嬢様の突然の宣言（!?）によって幕を閉じることとなったこのコーナー\r\n新コーナーの企画は一体どうなるでしょうか！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」\r\n普通のお便り、新コーナー案も募集中！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6845",
+        "material_title": "1710181_s.jpg",
+        "material_file": "d8140bc0391f66ecdb3d29a5cd9bc1824df31f47e4c30d0e74ea0d93b1a5b7ec6845.jpeg"
+      },
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6846",
+        "material_title": "1710182_s.jpg",
+        "material_file": "66d3bdbfef10395078064ee3b92dfb60b90b15ddd433da4416cc25e88de883856846.jpeg"
+      }
+    ],
+    "previous_id": "7802",
+    "next_id": "7750",
+    "saved_materials": [
+      "assets/7791_6845_1710181_s.jpg",
+      "assets/7791_6846_1710182_s.jpg"
+    ]
+  }
+}

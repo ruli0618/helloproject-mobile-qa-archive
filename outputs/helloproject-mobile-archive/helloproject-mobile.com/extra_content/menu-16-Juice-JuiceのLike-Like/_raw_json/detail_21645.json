@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 197,
+    "content_id": "21645",
+    "content_title": "三つ編み",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2024-02-01 10:00:00",
+    "created_at": "2024-01-29 19:43:27",
+    "updated_at": "2024-01-29 19:43:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17789",
+        "material_title": "0201_irie_s.jpg",
+        "material_file": "b413f1ad14d5f1f738b7ddca85200bb88531d03a5a184860740f629839ab7a4d17789.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21645",
+    "content_title": "三つ編み",
+    "content_sub_title": "入江里咲",
+    "release_date": "2024-02-01 10:00:00",
+    "created_at": "2024-01-29 19:43:27",
+    "updated_at": "2024-01-29 19:43:56",
+    "content_text": "0201_irie_s.jpg\r\nちっちゃい三つ編み混ざってるの見えるかな！！\r\n\r\nこの衣装とってもお気に入りなんだ〜(^^)",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17789",
+        "material_title": "0201_irie_s.jpg",
+        "material_file": "6e1d0c0a87095edcc1f2f7106a6ba3924e0b104265058165dae4bcc48f91fb2817789.jpeg"
+      }
+    ],
+    "previous_id": "21646",
+    "next_id": "21644",
+    "saved_materials": [
+      "assets/21645_17789_0201_irie_s.jpg"
+    ]
+  }
+}

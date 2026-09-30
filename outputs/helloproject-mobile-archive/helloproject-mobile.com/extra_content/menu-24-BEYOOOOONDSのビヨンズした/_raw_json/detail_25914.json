@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 44,
+    "content_id": "25914",
+    "content_title": "いつもドアップ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2026-03-23 17:14:00",
+    "created_at": "2026-03-23 17:15:07",
+    "updated_at": "2026-03-23 17:15:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21236",
+        "material_title": "0323_eguchi_s.jpg",
+        "material_file": "a9af2fee655c4c23c9d32da42957d9796e8408fe5e815d162d788c60eb0057da21236.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25914",
+    "content_title": "いつもドアップ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2026-03-23 17:14:00",
+    "created_at": "2026-03-23 17:15:07",
+    "updated_at": "2026-03-23 17:15:07",
+    "content_text": "0323_eguchi_s.jpg\r\n自撮りをすると癖で、必ず5枚ぐらいはドアップの画角があります！\r\n\r\n【51周目お題：どアップ】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21236",
+        "material_title": "0323_eguchi_s.jpg",
+        "material_file": "80c537a73cd9a071aa3f6dc4d79205a7532ed6e479cd7266d002840a9ac5abcd21236.jpeg"
+      }
+    ],
+    "previous_id": "25937",
+    "next_id": "25900",
+    "saved_materials": [
+      "assets/25914_21236_0323_eguchi_s.jpg"
+    ]
+  }
+}

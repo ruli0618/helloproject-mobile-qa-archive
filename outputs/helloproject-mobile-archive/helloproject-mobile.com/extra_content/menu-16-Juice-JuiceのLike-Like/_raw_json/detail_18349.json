@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 360,
+    "content_id": "18349",
+    "content_title": "いいかげんせー！",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-06-16 13:08:00",
+    "created_at": "2022-06-16 13:08:56",
+    "updated_at": "2022-06-16 13:09:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15275",
+        "material_title": "0616_inoue_s.jpg",
+        "material_file": "2c1a1fb672bbdcb598496c113b675ea8da1ae61e5f9fcfdca6feb3c188cba7bd15275.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18349",
+    "content_title": "いいかげんせー！",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-06-16 13:08:00",
+    "created_at": "2022-06-16 13:08:56",
+    "updated_at": "2022-06-16 13:09:29",
+    "content_text": "やほえば！\r\n\r\n江端妃咲でーす(●>v<●)\r\n\r\n最近、3歳の弟が怒ると\r\n\r\n「いいかげんせー！」\r\nって叫ぶんです、、\r\n\r\nめっちゃ怖いけど、ちょっと面白いです笑笑\r\n\r\n日常で3歳がいいかげんせー！って怒るって何事！笑笑\r\n\r\nって感じですよね～\r\n\r\nそういう時期なんですよね～\r\n\r\nお母さんファイト～\r\n\r\n\r\n0616_inoue_s.jpg\r\n\r\n\r\n可愛い井上さんをご提供～\r\n\r\n\r\nじゃあねん！",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15275",
+        "material_title": "0616_inoue_s.jpg",
+        "material_file": "b05235fb406bbe5c3946863871ea546d359c07a404ad52115845bf4185ea7a8a15275.jpeg"
+      }
+    ],
+    "previous_id": "18358",
+    "next_id": "18304",
+    "saved_materials": [
+      "assets/18349_15275_0616_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 183,
+    "content_id": "13715",
+    "content_title": "和食",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-04-28 14:46:00",
+    "created_at": "2020-04-28 14:48:40",
+    "updated_at": "2020-04-28 14:48:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11470",
+        "material_title": "0428_yamagishi_s.jpg",
+        "material_file": "4ae6c9a4de0e0b1a49f335dc1b7f45c9714b3d717f9bb66f8b2f37554bba634611470.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13715",
+    "content_title": "和食",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-04-28 14:46:00",
+    "created_at": "2020-04-28 14:48:40",
+    "updated_at": "2020-04-28 14:48:40",
+    "content_text": "こんにちは！\r\nつばきファクトリーの山岸理子です！\r\n\r\nおうち時間どうお過ごしですか？\r\n\r\n0428_yamagishi_s.jpg\r\n\r\nこの写真は、\r\n結構前に食べた和食！ホッケだよ。\r\n体に良さそう！健康そう！\r\nわ！これは意識高いね！♡\r\n和食は落ち着きますねぇ。\r\n\r\n皆さんも今日のご飯は和食にしてほっと一息。つきましょう。",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11470",
+        "material_title": "0428_yamagishi_s.jpg",
+        "material_file": "1263cbea851f0d5e144e4da8997ac5a3790610e4dfe143da9483bdc35086ec1a11470.jpeg"
+      }
+    ],
+    "previous_id": "13759",
+    "next_id": "13690",
+    "saved_materials": [
+      "assets/13715_11470_0428_yamagishi_s.jpg"
+    ]
+  }
+}

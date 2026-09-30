@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 467,
+    "content_id": "10140",
+    "content_title": "みずきのメドレーセレクション",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-26 19:22:00",
+    "created_at": "2018-10-26 19:22:50",
+    "updated_at": "2018-10-26 19:23:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10140",
+    "content_title": "みずきのメドレーセレクション",
+    "content_sub_title": "",
+    "release_date": "2018-10-26 19:22:00",
+    "created_at": "2018-10-26 19:22:50",
+    "updated_at": "2018-10-26 19:23:39",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\nハロー！ラジオ番組「ふくむらの部屋」のコーナー「みずきのメドレーセレクション」がプレイリスト配信としても公開されている事はご存知ですか？\n\n番組内で賞をとったメドレーをピックアップして、順次公開しています。\n\n4～5曲と通常のプレイリストよりは短くなりますが、ぜひ当てはまるシチュエーションの時に聴いてみてくださいね！\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>はこちら！\n\nP.S.次回「宣伝会議」ラジオは、\n10/29(月)17時配信予定です。\nお楽しみに！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10219",
+    "next_id": "10112",
+    "saved_materials": []
+  }
+}

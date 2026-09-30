@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 16,
+    "content_id": "26703",
+    "content_title": "浜松♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "155",
+    "release_date": "2026-08-16 10:00:00",
+    "created_at": "2026-08-04 00:44:04",
+    "updated_at": "2026-09-05 00:09:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21820",
+        "material_title": "0816_onoda_s.jpg",
+        "material_file": "8551991cb4da85d1f4d416b0fe4ba800967bb84272bb78681ea551ee29ab4dea21820.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26703",
+    "content_title": "浜松♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2026-08-16 10:00:00",
+    "created_at": "2026-08-04 00:44:04",
+    "updated_at": "2026-09-05 00:09:26",
+    "content_text": "眠気に勝てない、さおりです♪\r\n\r\n\r\n最近、さおり個人TikTokをはじめました☆\r\n\r\nもうフォローしてくれてるかなあ？？？\r\n\r\n地元である、浜松市をたーーっくさんアピールしています！\r\n\r\nとても素敵なところなので！\r\n\r\nたくさんの方に、TikTokを通して、\r\n\r\n浜松市のことを知っていただけますように！！！！\r\n\r\nぜひ、一緒に盛り上げてね！\r\n\r\nさにこ会in浜松も、まーってます！！！\r\n\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n0816_onoda_s.jpg\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21820",
+        "material_title": "0816_onoda_s.jpg",
+        "material_file": "f9593b93a1f7934d5526ebced924d83fa77f0956e6fae9946d069217e6e78d9d21820.jpeg"
+      }
+    ],
+    "previous_id": "26704",
+    "next_id": "26702",
+    "saved_materials": [
+      "assets/26703_21820_0816_onoda_s.jpg"
+    ]
+  }
+}

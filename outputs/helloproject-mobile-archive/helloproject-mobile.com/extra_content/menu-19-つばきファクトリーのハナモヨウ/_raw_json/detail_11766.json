@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 39,
+    "content_id": "11766",
+    "content_title": "光",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-07-24 10:00:00",
+    "created_at": "2019-07-23 19:29:09",
+    "updated_at": "2019-07-23 19:29:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10037",
+        "material_title": "0724_akiyama_s.jpg",
+        "material_file": "d14018e81a114ad65368f6f1099e53e275f24842848922a65e7c1a8e5b59885410037.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11766",
+    "content_title": "光",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-07-24 10:00:00",
+    "created_at": "2019-07-23 19:29:09",
+    "updated_at": "2019-07-23 19:29:09",
+    "content_text": "こんにちわ！！\r\n\r\n0724_akiyama_s.jpg\r\nピンクと白と黄色のお花<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n色の組み合わせが可愛くてつい撮っちゃいました！\r\n今年の夏はたくさんお花と写真撮りたいなぁ〜\r\n\r\n秋山 眞緒",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10037",
+        "material_title": "0724_akiyama_s.jpg",
+        "material_file": "4d078450fb6dd0368e256b85bea79558f3c26887fa7c7bb7e6483541ed4d7f7010037.jpeg"
+      }
+    ],
+    "previous_id": "11767",
+    "next_id": "11750",
+    "saved_materials": [
+      "assets/11766_10037_0724_akiyama_s.jpg"
+    ]
+  }
+}

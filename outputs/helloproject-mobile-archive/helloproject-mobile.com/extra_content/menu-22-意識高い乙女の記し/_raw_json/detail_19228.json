@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 25,
+    "content_id": "19228",
+    "content_title": "Happyハロウィーン‪(^_-)-☆",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-11-28 10:00:00",
+    "created_at": "2022-11-24 21:10:38",
+    "updated_at": "2022-11-24 21:10:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15979",
+        "material_title": "1128_yofu_s.jpg",
+        "material_file": "f9eb711dcd2a970d1512514fbe047c11aae7903be0b792e6859f3308d3eca58015979.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19228",
+    "content_title": "Happyハロウィーン‪(^_-)-☆",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-11-28 10:00:00",
+    "created_at": "2022-11-24 21:10:38",
+    "updated_at": "2022-11-24 21:10:38",
+    "content_text": "1128_yofu_s.jpg\r\nHalloweenの！！\r\n和菓子デす！！\r\n\r\nHalloweenDayは\r\nお菓子まで仮装してるです（≧∇≦）\r\n\r\nいしきたかーい(笑い)",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15979",
+        "material_title": "1128_yofu_s.jpg",
+        "material_file": "0b1438fb5ea35dd6aa33c987b40bf0acd03b867273d089b4acd5503aa89d2b7f15979.jpeg"
+      }
+    ],
+    "previous_id": "19229",
+    "next_id": "19227",
+    "saved_materials": [
+      "assets/19228_15979_1128_yofu_s.jpg"
+    ]
+  }
+}

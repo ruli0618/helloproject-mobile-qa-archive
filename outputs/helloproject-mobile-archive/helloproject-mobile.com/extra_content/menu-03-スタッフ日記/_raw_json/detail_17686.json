@@ -1,0 +1,280 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 240,
+    "content_id": "17686",
+    "content_title": "工藤の家の屋根裏部屋#100～小田さくら～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-02-22 22:20:00",
+    "created_at": "2022-02-22 22:19:22",
+    "updated_at": "2022-02-22 22:22:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14755",
+        "material_title": "20220222_02_s.jpg",
+        "material_file": "f05271dfb3147e4f8d83fcc1ffaa0e38bc32aed5b52cf9acd5c51e7b79d5625614755.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14756",
+        "material_title": "20220222_01_s.jpg",
+        "material_file": "6b11db41ef2223978ef94bcb3646c6bfd885fe637dd01992dfca3880ea12076c14756.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14757",
+        "material_title": "02_s.jpg",
+        "material_file": "47b7172df9b36bc708540f0b82057f86ff426db82a73fd4b6af95ae8885ee7c214757.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14758",
+        "material_title": "01_s.jpg",
+        "material_file": "f632bbdbd5d481982b7dc6f0934f359314439a40e74a8ac4dc87f56e4fcd67f414758.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14759",
+        "material_title": "03_s.jpg",
+        "material_file": "5554444033c4f56d7c18383332cf2ab72ac62df47ca3efa35ab3e2898f300c6614759.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14760",
+        "material_title": "05_s.jpg",
+        "material_file": "22e06ebf7152b995b305a387bdd0264a3d52d093c6341dbac2668519e07cfe3d14760.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14761",
+        "material_title": "06_s.jpg",
+        "material_file": "24c5e9dd05b1be18cde883e0632719fec23b043f72b4745760cc710807ee0cbe14761.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14762",
+        "material_title": "06-2_s.jpg",
+        "material_file": "45605fdb091767e5b90cdb105861760e3f5f1cfb0e66a909d5a5b7867c9b91c314762.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14763",
+        "material_title": "10_s.jpg",
+        "material_file": "6473b73b42b0c3181064a803017185504df07dcd81c4d04e85eedbcdefe0048d14763.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14764",
+        "material_title": "07_s.jpg",
+        "material_file": "14c7e07d328e9368e52f3c676d7081146ee16dd8018f70cb37996f837980ebad14764.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14765",
+        "material_title": "11-2_s.jpg",
+        "material_file": "071641348e17be2a4d65b0149e12731b4783e3daaeaf2c08dad825977b86264c14765.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14766",
+        "material_title": "10-2_s.jpg",
+        "material_file": "6b5a40fac28c1feeacd17e4ba0d7f37f4c02c12501126b71a52516818e79cf5214766.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14767",
+        "material_title": "08_s.jpg",
+        "material_file": "84832c6b2aec43ab08212591df5b550ca2ef01481bb1662860b5385a9cc70d8114767.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14768",
+        "material_title": "04.jpg",
+        "material_file": "3c6ca19285bd96b7e2990fa22b98bf5d18b22c9fae444e69e01d05d3e54b965f14768.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14769",
+        "material_title": "14_s.jpg",
+        "material_file": "4406dc7e0bd7447cb3d9fddd61f797d103a3b46cbc7560db1f5f86f87c22207114769.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14770",
+        "material_title": "12_s.jpg",
+        "material_file": "894c57f923740b2f1c5517cd379963e08642a077e10b3afe5957a7bf7c9dea1514770.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14771",
+        "material_title": "13.jpg",
+        "material_file": "5217d8a8140aa3015e81bdcf27aefeb157a58b2b9e6827ee0b5cdc62f9f927dc14771.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14772",
+        "material_title": "11.png",
+        "material_file": "e86884a938ef0b722a0980aed3c3d6a435d02a18b80582106ac1df8704916c3e14772.png"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17686",
+    "content_title": "工藤の家の屋根裏部屋#100～小田さくら～",
+    "content_sub_title": "",
+    "release_date": "2022-02-22 22:20:00",
+    "created_at": "2022-02-22 22:19:22",
+    "updated_at": "2022-02-22 22:22:06",
+    "content_text": "ついに第100回を迎えました。\nふくむらの部屋 \nゲストは、モーニング娘。'22小田さくらさん！\n\n20220222_01_s.jpg\n\nまずは今回から始まった新コーナー！\n「ハロプロクイズ王」\n歌詞の一部から曲名を当てる、歌詞クイズにチャレンジ！\n\n全3問お送りしましたが、少し難しい問題に苦戦するお二人。\nぜひ皆さんもラジオを聞きながら、曲名当てに挑戦してみてくださいね♪\n\nお二人の結果は、番組をチェック！\n\n「みずき先生のハロプロ講座」＜特別編＞では、\n2021年3月にリリースしたモーニング娘。'21のアルバム\n「16th～That's J-POP～」の歌詞について\"熱く\"語って頂きました。\n\n今回の配信を聴いてから改めて楽曲を聴くと、また新たな魅力が感じられるんじゃないでしょうか。\n\n番組内ですべては紹介出来ませんでしたが、\n楽曲の思い出や、好きだという思い、深い考察、\n色々な観点からのお便りが届き、とてもバラエティに富んでいました。\n\n小田さんも、ふくむらの部屋に届くメールは面白い内容が多いと話されていましたね。\n\n「祝ふくむらの部屋100回」のコーナーでは、\n沢山の愛のあるお便り、ありがとうございます！\n\n時間内で紹介出来る限り、紹介させて頂きました。\n\n2017年6月からスタートした「ふくむらの部屋」\nここまで長い間続けてこられたのは、ひとえに聴いてくださる皆さんのおかげです。\n\n101回目からの「ふくむらの部屋」も、どうぞよろしくお願いいたします！\n\n20220222_02_s.jpg\n\n最後に「祝ふくむらの部屋100回」のコーナーに届いたお祝い写真をご紹介します♪\n\n01_s.jpg\n02_s.jpg\n03_s.jpg\n04.jpg\n05_s.jpg\n06_s.jpg\n06-2_s.jpg\n07_s.jpg\n08_s.jpg\n10_s.jpg\n10-2_s.jpg\n11.png\n11-2_s.jpg\n12_s.jpg\n13.jpg\n14_s.jpg\n\n※「新型コロナウイルス」感染拡大防止の観点から、収録時間を短縮してお届けしました。\n\n次回101回目のゲストは、アンジュルム伊勢鈴蘭さん！\n\n収録途中に乱入してきたあの人も登場…？\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14755",
+        "material_title": "20220222_02_s.jpg",
+        "material_file": "eea43678ded7bb25cc30fa33de1f4ddf4669fb3bc130f23ba6c671e6f328a18f14755.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14756",
+        "material_title": "20220222_01_s.jpg",
+        "material_file": "3f4b314e65a08588cc82846d8888b0fff2c5a74e18fd3ce35d6e128e584fee9614756.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14757",
+        "material_title": "02_s.jpg",
+        "material_file": "6ed9c4523121774dbfd98ed6530453c0fc581f2001a0f1fc4a59a00a94a6602d14757.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14758",
+        "material_title": "01_s.jpg",
+        "material_file": "f820939ffdf243f83352c21b96995b66b4bde23557e1bd60a88a504cbdddc9fd14758.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14759",
+        "material_title": "03_s.jpg",
+        "material_file": "af3a3f86e0131b8ac5297c3506d5ae9d9cbd83d6f8d78a0a147413f9c487c40814759.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14760",
+        "material_title": "05_s.jpg",
+        "material_file": "bc77b4783803941852fc3678aad211333f14d4891e481b03ee4d2f6f31833ad514760.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14761",
+        "material_title": "06_s.jpg",
+        "material_file": "ca55176bdd7fa33a898224b7ee79c2a92909bf5117e90c948200e50dfe976c3214761.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14762",
+        "material_title": "06-2_s.jpg",
+        "material_file": "e6b3dbd6ca11e04e31947cafb54a0b8b21b43e7cf620dea9af641dfee76698fc14762.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14763",
+        "material_title": "10_s.jpg",
+        "material_file": "3f4421e908b4c5ddf9971dd0dfb64a3c00bab037fb20e9140b2512d051d9a79614763.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14764",
+        "material_title": "07_s.jpg",
+        "material_file": "5fc0de5d898ed4eaa314b5f7e911f548179f853f3b892a8fa4537ad27ede171714764.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14765",
+        "material_title": "11-2_s.jpg",
+        "material_file": "f502787875280ee672a113d19f39565c23c859bd1374ce5cf4add789509a5ad514765.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14766",
+        "material_title": "10-2_s.jpg",
+        "material_file": "464536da7b0f4341ffa2dd62a0b33bf7504e15d70340dcda640f62792c338bf014766.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14767",
+        "material_title": "08_s.jpg",
+        "material_file": "0b29101f6967a770d0fd07b57ca464e780ade2f7453264a877ed60a8b8a136c714767.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14768",
+        "material_title": "04.jpg",
+        "material_file": "fd451fb7359d19c4014b1c7622386300754b7a217a3d9eadac171c173831132714768.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14769",
+        "material_title": "14_s.jpg",
+        "material_file": "1f4ed24610522dbc937b22bc4921b520b740d1778fba9025105fdc6b8d4d8a6714769.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14770",
+        "material_title": "12_s.jpg",
+        "material_file": "69b98af44a533cf5c923437b8d2c172bd2bb9cd94f585611063403cdb674d64814770.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14771",
+        "material_title": "13.jpg",
+        "material_file": "7705d6eced5189ba32743a81deae3858b6409dab6cbf0c34b48612936dbfed0014771.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14772",
+        "material_title": "11.png",
+        "material_file": "74fb59626adcebe3bffb69c89b4e8cd32ec8c4beaca91f7fea1a024b03dec5fd14772.png"
+      }
+    ],
+    "previous_id": "17739",
+    "next_id": "17842",
+    "saved_materials": [
+      "assets/17686_14755_20220222_02_s.jpg",
+      "assets/17686_14756_20220222_01_s.jpg",
+      "assets/17686_14757_02_s.jpg",
+      "assets/17686_14758_01_s.jpg",
+      "assets/17686_14759_03_s.jpg",
+      "assets/17686_14760_05_s.jpg",
+      "assets/17686_14761_06_s.jpg",
+      "assets/17686_14762_06-2_s.jpg",
+      "assets/17686_14763_10_s.jpg",
+      "assets/17686_14764_07_s.jpg",
+      "assets/17686_14765_11-2_s.jpg",
+      "assets/17686_14766_10-2_s.jpg",
+      "assets/17686_14767_08_s.jpg",
+      "assets/17686_14768_04.jpg",
+      "assets/17686_14769_14_s.jpg",
+      "assets/17686_14770_12_s.jpg",
+      "assets/17686_14771_13.jpg",
+      "assets/17686_14772_11.png"
+    ]
+  }
+}

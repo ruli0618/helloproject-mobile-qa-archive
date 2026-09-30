@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 172,
+    "content_id": "14077",
+    "content_title": "100パーセント",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2020-07-10 15:52:00",
+    "created_at": "2020-07-10 15:53:46",
+    "updated_at": "2020-07-10 15:53:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11745",
+        "material_title": "0710_tanimoto_s.jpg",
+        "material_file": "964256d77db5a4a2e837c70439e51efba708b4d42640cf13d12fc23f5b363f2b11745.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14077",
+    "content_title": "100パーセント",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-07-10 15:52:00",
+    "created_at": "2020-07-10 15:53:46",
+    "updated_at": "2020-07-10 15:53:46",
+    "content_text": "0710_tanimoto_s.jpg\r\n高知に住んでるおばーちゃんから美生柑というみかんが送られできたので、100%ジュースにしてビタミンとりました<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n<img src=\"/emoji/emoji-images/f7b2.gif\"/>ami<img src=\"/emoji/emoji-images/f7b2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11745",
+        "material_title": "0710_tanimoto_s.jpg",
+        "material_file": "57f573190d07d663bba15dba6b4c75efe293646127203a8bcf320c5266d8c56711745.jpeg"
+      }
+    ],
+    "previous_id": "14179",
+    "next_id": "14061",
+    "saved_materials": [
+      "assets/14077_11745_0710_tanimoto_s.jpg"
+    ]
+  }
+}

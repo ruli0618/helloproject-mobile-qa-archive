@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 607,
+    "content_id": "11764",
+    "content_title": "Cute！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2019-07-25 10:00:00",
+    "created_at": "2019-07-23 19:24:54",
+    "updated_at": "2019-07-23 19:24:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10034",
+        "material_title": "0725_matsunaga_s.jpg",
+        "material_file": "fe815163bae7e0fc4fd8a7d71a28f7c1fadb7c253c57586d812c32261c89cde210034.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11764",
+    "content_title": "Cute！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2019-07-25 10:00:00",
+    "created_at": "2019-07-23 19:24:54",
+    "updated_at": "2019-07-23 19:24:54",
+    "content_text": "みなさんさん。\r\n\r\n松永里愛です！！\r\n\r\n\r\n私のLIKE＝LIKEは愛犬と愛猫の\r\n\r\nクロエちゃんとビビちゃんです！\r\n\r\n0725_matsunaga_s.jpg\r\n\r\nクロエちゃんとビビちゃんもたまには喧嘩しますがとっても仲良しです♡",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10034",
+        "material_title": "0725_matsunaga_s.jpg",
+        "material_file": "d4b5bd04244bc5302189b1c1e37f3afbfe04b91ef377a646d6d4b11ebc0e073610034.jpeg"
+      }
+    ],
+    "previous_id": "11822",
+    "next_id": "11755",
+    "saved_materials": [
+      "assets/11764_10034_0725_matsunaga_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 118,
+    "content_id": "16062",
+    "content_title": "ルイボスティー",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-05-17 17:59:00",
+    "created_at": "2021-05-17 17:59:14",
+    "updated_at": "2021-05-17 17:59:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13385",
+        "material_title": "210517_yamagishi_s.jpg",
+        "material_file": "8acd7675c2ae9ba2c36f79e81e210f00062a9a87e2b77fa510be86b2f241780b13385.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16062",
+    "content_title": "ルイボスティー",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-05-17 17:59:00",
+    "created_at": "2021-05-17 17:59:14",
+    "updated_at": "2021-05-17 17:59:14",
+    "content_text": "210517_yamagishi_s.jpg\r\n\r\n最近大きい袋に入っている\r\nルイボスティーを買って、\r\nお家でもよく飲んでます\r\n\r\n写真の飲み物もルイボスティー。\r\n\r\n\r\n浮腫みやしい体質だから、\r\n助かってます♪",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13385",
+        "material_title": "210517_yamagishi_s.jpg",
+        "material_file": "138ee7c047c8f556021030e15a07e0d8324e7201a5a76cdc47520e5d266bc87613385.jpeg"
+      }
+    ],
+    "previous_id": "16135",
+    "next_id": "16017",
+    "saved_materials": [
+      "assets/16062_13385_210517_yamagishi_s.jpg"
+    ]
+  }
+}

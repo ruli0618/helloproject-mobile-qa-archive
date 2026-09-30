@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 180,
+    "content_id": "21977",
+    "content_title": "お祭り",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2024-04-02 10:00:00",
+    "created_at": "2024-04-01 19:24:03",
+    "updated_at": "2024-04-01 19:24:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18036",
+        "material_title": "0401_irie_s.jpg",
+        "material_file": "21a78e274ae558f288d6b453f46e38d4b50285abcddaaeede22f9726e434e54318036.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21977",
+    "content_title": "お祭り",
+    "content_sub_title": "入江里咲",
+    "release_date": "2024-04-02 10:00:00",
+    "created_at": "2024-04-01 19:24:03",
+    "updated_at": "2024-04-01 19:24:03",
+    "content_text": "やっほー！！\r\nりさちだよ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\nひなフェス2024が終わりましたね<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\n年に一度のお祭り！\r\n\r\n今年も素敵な思い出がたくさんできました<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n　\r\n\r\nあなたの中にも思い出に残ってくれてたらいいな♡\r\n\r\n\r\nJuice=Juice & BEYOOOOONDS プレミアム、つばきファクトリー & OCHA NORMA プレミアムは\r\n\r\n配信が始まっているので、ぜひ観てね！！\r\n\r\n\r\n0401_irie_s.jpg\r\n\r\n\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18036",
+        "material_title": "0401_irie_s.jpg",
+        "material_file": "e2e78ad8a3a6e57624f07265ff43ec0d1a073386c1c381c5472c10b1c3364e3a18036.jpeg"
+      }
+    ],
+    "previous_id": "22021",
+    "next_id": "21974",
+    "saved_materials": [
+      "assets/21977_18036_0401_irie_s.jpg"
+    ]
+  }
+}

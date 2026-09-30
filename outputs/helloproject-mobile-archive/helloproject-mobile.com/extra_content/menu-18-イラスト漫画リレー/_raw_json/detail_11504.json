@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 5,
+    "content_id": "11504",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "category_id": "55",
+    "release_date": "2019-06-03 17:00:00",
+    "created_at": "2019-05-27 17:47:53",
+    "updated_at": "2019-06-03 16:46:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9816",
+        "material_title": "26_nonaka.jpg",
+        "material_file": "f3742ec77afe99422503718eccfdf732c66f847159c678b17bbe21111ff707769816.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "11504",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "release_date": "2019-06-03 17:00:00",
+    "created_at": "2019-05-27 17:47:53",
+    "updated_at": "2019-06-03 16:46:59",
+    "content_text": "26_nonaka.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9816",
+        "material_title": "26_nonaka.jpg",
+        "material_file": "f3742ec77afe99422503718eccfdf732c66f847159c678b17bbe21111ff707769816.jpeg"
+      }
+    ],
+    "previous_id": "11747",
+    "next_id": "11362",
+    "saved_materials": [
+      "assets/11504_9816_26_nonaka.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 307,
+    "content_id": "15260",
+    "content_title": "工藤の家の屋根裏部屋#80後編～竹内朱莉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-01-05 15:11:00",
+    "created_at": "2021-01-05 15:12:47",
+    "updated_at": "2021-01-05 15:12:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12692",
+        "material_title": "1215_fukumuraroom_01_s.jpg",
+        "material_file": "a722fbbcb57a63004d5d2f915d6f929bac056eee0e19724bf7698c25ae7fdca812692.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12693",
+        "material_title": "1215_fukumuraroom_02_s.jpg",
+        "material_file": "8ab47b459caa1f2ace1922ac9c70189a8f534b438661b4702bdb8dd60916f9ce12693.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12694",
+        "material_title": "1215_fukumuraroom_03_s.jpg",
+        "material_file": "ba761ace9afd120a9339eff3e80550e2295ac08a74531c0a7d798acb7fa5a35512694.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15260",
+    "content_title": "工藤の家の屋根裏部屋#80後編～竹内朱莉～",
+    "content_sub_title": "",
+    "release_date": "2021-01-05 15:11:00",
+    "created_at": "2021-01-05 15:12:47",
+    "updated_at": "2021-01-05 15:12:47",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。\r\nふくむらの部屋 第80回後編配信中！\r\n\r\nゲストは、前回に引き続きアンジュルム竹内朱莉さんが出演！\r\n\r\n1215_fukumuraroom_01_s.jpg\r\n\r\n「ハロプロ講座」のコーナーでは、\r\n印象的な涙のシーンについて\r\nリーダーについて\r\nトークして頂きました！\r\n\r\n1215_fukumuraroom_02_s.jpg\r\n\r\n先日髪を切った譜久村さん\r\n竹内さんのとある言動に「ヒドイ！」を連発していました。\r\nまた、竹内さんが皆さんへ今後伝えていきたい事柄も要チェックです！\r\n\r\n方向音痴はどっち？というテーマについても、回答しています。\r\n\r\n1215_fukumuraroom_03_s.jpg\r\n\r\n次回は、1/12(火)の配信になります。\r\n\r\nゲストは、BEYOOOOONDS里吉うたのさんが登場！\r\n\r\nそして次回から前編後編・時間短縮形式を取りやめ、番組時間をもとに戻してお送りします。\r\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12692",
+        "material_title": "1215_fukumuraroom_01_s.jpg",
+        "material_file": "5f29a956b6f2cb7d2a36153a41dbfc3ecebbdcc0439903ad5cf2d526acf92ddc12692.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12693",
+        "material_title": "1215_fukumuraroom_02_s.jpg",
+        "material_file": "7e73b8127ed2450ed282ca9cf1a6544eb312de509dac335c322cbd05e89f284b12693.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12694",
+        "material_title": "1215_fukumuraroom_03_s.jpg",
+        "material_file": "4ca377017b55ae2e1d601fa4d696f01df010620c6bc60f3a4601d79481d9b1d312694.jpeg"
+      }
+    ],
+    "previous_id": "15314",
+    "next_id": "15192",
+    "saved_materials": [
+      "assets/15260_12692_1215_fukumuraroom_01_s.jpg",
+      "assets/15260_12693_1215_fukumuraroom_02_s.jpg",
+      "assets/15260_12694_1215_fukumuraroom_03_s.jpg"
+    ]
+  }
+}

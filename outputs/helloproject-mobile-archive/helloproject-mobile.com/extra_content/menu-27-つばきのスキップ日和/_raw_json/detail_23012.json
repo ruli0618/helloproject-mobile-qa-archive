@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 87,
+    "content_id": "23012",
+    "content_title": "ご当地の美味しいもの",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2024-10-04 12:37:00",
+    "created_at": "2024-10-04 12:39:53",
+    "updated_at": "2024-10-04 12:39:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18851",
+        "material_title": "1004_kasai_s.jpg",
+        "material_file": "dfb6901f32cfa59294f90d9c54bb2ddb27ec6f7db78015152203393ecc42e82218851.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23012",
+    "content_title": "ご当地の美味しいもの",
+    "content_sub_title": "河西結心",
+    "release_date": "2024-10-04 12:37:00",
+    "created_at": "2024-10-04 12:39:53",
+    "updated_at": "2024-10-04 12:39:53",
+    "content_text": "1004_kasai_s.jpg\r\n今年の秋ツアーの鼓動では\r\n各地をまわらせていただいています！！行ったことのなかった都道府県につばきのみんなと行ってライブするのもスキップしたいくらい嬉しいけど！！\r\n\r\nいろんなご当地の美味しいものを食べることもできています！！\r\n\r\nみんなの住んでる土地の美味しいものも食べてみたいな〜\r\n秋ツアーも盛り上がっていくぞ〜",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "18851",
+        "material_title": "1004_kasai_s.jpg",
+        "material_file": "9f8596ec79b840f23520472c7231c904bb95497b20da82a8577bcc02bdcf2daf18851.jpeg"
+      }
+    ],
+    "previous_id": "23183",
+    "next_id": "22865",
+    "saved_materials": [
+      "assets/23012_18851_1004_kasai_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 285,
+    "content_id": "19337",
+    "content_title": "懐かしい",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2022-12-21 10:00:00",
+    "created_at": "2022-12-14 19:55:25",
+    "updated_at": "2022-12-14 19:56:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16048",
+        "material_title": "1221_shimakura_s.jpg",
+        "material_file": "099567a6a14c5df9380d353af0bc7db5878425c283160294112bbb370140f03a16048.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19337",
+    "content_title": "懐かしい",
+    "content_sub_title": "島倉りか",
+    "release_date": "2022-12-21 10:00:00",
+    "created_at": "2022-12-14 19:55:25",
+    "updated_at": "2022-12-14 19:56:54",
+    "content_text": "1221_shimakura_s.jpg\n懐かし衣装。思い出です。\nうーちゃんかわいい。\n\n【23周目お題：思い出】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16048",
+        "material_title": "1221_shimakura_s.jpg",
+        "material_file": "ecfc454705d06dbe4c9cdbcbe50fb8126d414effdc3109b6d1e928d08279e17516048.jpeg"
+      }
+    ],
+    "previous_id": "19338",
+    "next_id": "19028",
+    "saved_materials": [
+      "assets/19337_16048_1221_shimakura_s.jpg"
+    ]
+  }
+}

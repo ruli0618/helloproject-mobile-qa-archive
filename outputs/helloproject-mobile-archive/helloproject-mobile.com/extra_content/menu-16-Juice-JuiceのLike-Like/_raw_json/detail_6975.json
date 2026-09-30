@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 802,
+    "content_id": "6975",
+    "content_title": "タネ／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-07-06 14:41:00",
+    "created_at": "2017-07-06 14:41:20",
+    "updated_at": "2017-07-06 14:43:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6139",
+        "material_title": "6312395386985_s.jpg",
+        "material_file": "ff752fac1b50a45d66b699950bac8add605af12c9089174383fe7d672b2ffbb36139.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6975",
+    "content_title": "タネ／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-07-06 14:41:00",
+    "created_at": "2017-07-06 14:41:20",
+    "updated_at": "2017-07-06 14:43:08",
+    "content_text": "6312395386985_s.jpg\nタネが少ないスイカが好きです。スイカ美味しい〜〜<img src=\"/emoji/emoji-images/4f68.gif\"/>！！",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "6139",
+        "material_title": "6312395386985_s.jpg",
+        "material_file": "aec1d981e24a9b3b87eb42e2a786f43a7b91b798f7e28008fb572ee0c257a95d6139.jpeg"
+      }
+    ],
+    "previous_id": "6991",
+    "next_id": "6926",
+    "saved_materials": [
+      "assets/6975_6139_6312395386985_s.jpg"
+    ]
+  }
+}

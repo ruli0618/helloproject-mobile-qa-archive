@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 289,
+    "content_id": "19025",
+    "content_title": "最高傑作",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2022-11-23 10:00:00",
+    "created_at": "2022-10-26 15:02:59",
+    "updated_at": "2022-10-26 15:02:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15831",
+        "material_title": "1123_kiyono_s.jpg",
+        "material_file": "1f348620767789a145a9fcb7c5491733facb0817b5eb2f207c61f308712a386e15831.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19025",
+    "content_title": "最高傑作",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2022-11-23 10:00:00",
+    "created_at": "2022-10-26 15:02:59",
+    "updated_at": "2022-10-26 15:02:59",
+    "content_text": "1123_kiyono_s.jpg\r\nみんな、地味にこういうの嫌いじゃないでしょ、、、、\r\n\r\n【22周目お題：自分のベストショット】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15831",
+        "material_title": "1123_kiyono_s.jpg",
+        "material_file": "f8774d168447c2a0cfae016c4bed4fc23d516952ba68a0a96d245ac0c411c20615831.jpeg"
+      }
+    ],
+    "previous_id": "19026",
+    "next_id": "19024",
+    "saved_materials": [
+      "assets/19025_15831_1123_kiyono_s.jpg"
+    ]
+  }
+}

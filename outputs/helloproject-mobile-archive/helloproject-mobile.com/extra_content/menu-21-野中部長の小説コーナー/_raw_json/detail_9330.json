@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 7,
+    "content_id": "9330",
+    "content_title": "答えは",
+    "content_sub_title": "",
+    "category_id": "80",
+    "release_date": "2018-07-01 16:05:00",
+    "created_at": "2018-06-25 16:06:03",
+    "updated_at": "2018-07-01 21:44:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": 0,
+    "content_id": "9330",
+    "content_title": "答えは",
+    "content_sub_title": "",
+    "release_date": "2018-07-01 16:05:00",
+    "created_at": "2018-06-25 16:06:03",
+    "updated_at": "2018-07-01 21:44:25",
+    "content_text": "生田衣梨奈さんに声をかけたところ…\r\n\r\n『 いーよ！』と言ってくださった。\r\n\r\n芋子さん、ぶたこさん、生田衣梨奈さん、そして私は鬼退治をするために鬼ヶ島へ向かい始めた。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9492",
+    "next_id": "9185",
+    "saved_materials": []
+  }
+}

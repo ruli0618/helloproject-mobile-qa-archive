@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 550,
+    "content_id": "8037",
+    "content_title": "工藤の家の屋根裏部屋#12～工藤遥＆小田さくら～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-30 19:00:00",
+    "created_at": "2017-11-30 18:58:49",
+    "updated_at": "2017-11-30 18:59:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7087",
+        "material_title": "1711301_s.jpg",
+        "material_file": "10840074ff23ede5409d0b6acf96eeac20b361f3ccd43e971ca0c670d156a7c27087.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7088",
+        "material_title": "1711302_s.jpg",
+        "material_file": "6b78e11c067dc172ad9258b8d2d4ca39994b629d1fda5f812c4097baea9422457088.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8037",
+    "content_title": "工藤の家の屋根裏部屋#12～工藤遥＆小田さくら～",
+    "content_sub_title": "",
+    "release_date": "2017-11-30 19:00:00",
+    "created_at": "2017-11-30 18:58:49",
+    "updated_at": "2017-11-30 18:59:55",
+    "content_text": "「ふくむらの部屋」12回目の配信されています！\r\nお聴きいただけましたでしょうか？\r\n過去最長の15ファイルでお届けしております\r\n\r\nゲストはモーニング娘。'17から工藤遥さん、小田さくらさんが登場！\r\n今回はふくむらの部屋初の3人でお送りします！\r\n\r\n\r\n1711301_s.jpg\r\n\r\n「みずき先生のハロプロ講座」\r\n今回もすごくコアなハロプロ講座となっております。。。\r\n好きなオリジナルアルバムの話では大盛り上がり！\r\nそれぞれメンバーが選んだアルバム曲をBGMで流しているのでチェックしてみてくださいね！\r\n16ビートとは…3人が詳しく説明！\r\nもちろん12月6日発売になる「⑮ Thank you, too」についても話しています。\r\n\r\n\r\n1711302_s.jpg\r\n\r\n\r\n「みずきのハロプロNo.1」\r\n家事ができそうなメンバーは？\r\n誰の写真集を撮りたい？\r\n可愛い仕草No.1など\r\n怖がらないメンバーは三人一致であのひとに!?\r\n\r\n\r\n番組の最後には\r\n「若いんだし！」を初めて聴いた時の印象やMV撮影の裏話なども・・・\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのハロプロNo.1」\r\n普通のお便りも募集中！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7087",
+        "material_title": "1711301_s.jpg",
+        "material_file": "0d6d803846ffe50549ecc4ab3694b553aa6060d3eb808e7d944b7693a01ee2b97087.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7088",
+        "material_title": "1711302_s.jpg",
+        "material_file": "b85c03c10f2d5d9c9dcd6c82e63243c2d7dc413519bb8c73f12f3cf1db8737397088.jpeg"
+      }
+    ],
+    "previous_id": "8042",
+    "next_id": "8010",
+    "saved_materials": [
+      "assets/8037_7087_1711301_s.jpg",
+      "assets/8037_7088_1711302_s.jpg"
+    ]
+  }
+}

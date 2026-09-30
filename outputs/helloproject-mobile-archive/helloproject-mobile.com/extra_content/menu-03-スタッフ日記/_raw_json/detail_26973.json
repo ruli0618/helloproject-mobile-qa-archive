@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 76,
+    "content_id": "26973",
+    "content_title": "工藤の家の軒下#24～石井泉羽～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-11-05 00:00:00",
+    "created_at": "2026-09-28 22:52:57",
+    "updated_at": "2026-09-28 22:52:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22061",
+        "material_title": "241105_024.jpg",
+        "material_file": "09ca984fd4fc00cbc540d4153193ceeb8d4e2e76a635bc56ac0fa66c841e851922061.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26973",
+    "content_title": "工藤の家の軒下#24～石井泉羽～",
+    "content_sub_title": "",
+    "release_date": "2024-11-05 00:00:00",
+    "created_at": "2026-09-28 22:52:57",
+    "updated_at": "2026-09-28 22:52:57",
+    "content_text": "241105_024.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第24回はゲストは、石井泉羽！\r\n\r\n・れいるる好きなところ\r\n・ちょっと情緒不安定?…夏\r\n・誕生日\r\n・サプライズ合格発表\r\n・3人の名称\r\n・憧れのメンバー\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・バースデーイベント\r\n・ゲーム事情\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・理想とするアイドル\r\n・グループ加入して良かった点\r\n・ケータリング事情\r\n・ライブハウスツアー\r\n・一般人だった頃\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "secretKey": "4e23d261687a3cab6b3e6857728251f0",
+        "material_id": "22061",
+        "material_title": "241105_024.jpg",
+        "material_file": "154494064cc764b404c617a736ec041e536347d5cda0a91516c975dd81385d1222061.jpeg"
+      }
+    ],
+    "previous_id": "23238",
+    "next_id": "23221",
+    "saved_materials": [
+      "assets/26973_22061_241105_024.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 113,
+    "content_id": "8819",
+    "content_title": "赤いお花",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-04-04 19:52:00",
+    "created_at": "2018-04-04 19:53:07",
+    "updated_at": "2018-04-04 19:53:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7730",
+        "material_title": "0404_yamagishi_s.jpg",
+        "material_file": "b2b61fde6a1899a65a072a94898dbe1a788dc78965f08810779a02e009c7b4617730.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8819",
+    "content_title": "赤いお花",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-04-04 19:52:00",
+    "created_at": "2018-04-04 19:53:07",
+    "updated_at": "2018-04-04 19:53:07",
+    "content_text": "こんにちは...♪*ﾟ\r\n山岸理子です！！\r\nもう春に着替えましたか？\r\n今日は赤いお花withりこです。\r\n撮影してたところで咲いていたお花です。\r\n\r\n0404_yamagishi_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "7730",
+        "material_title": "0404_yamagishi_s.jpg",
+        "material_file": "000532e15d840dd2586c631e49f28fd7c763d30d88d084c47cad1f8b521a62a37730.jpeg"
+      }
+    ],
+    "previous_id": "8892",
+    "next_id": "8807",
+    "saved_materials": [
+      "assets/8819_7730_0404_yamagishi_s.jpg"
+    ]
+  }
+}

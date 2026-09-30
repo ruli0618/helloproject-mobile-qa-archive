@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 75,
+    "content_id": "24528",
+    "content_title": "懐かしい写真",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-06-24 11:46:00",
+    "created_at": "2025-06-24 11:48:34",
+    "updated_at": "2025-06-24 11:48:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20068",
+        "material_title": "0624_ebata_s.jpg",
+        "material_file": "6751777c63ddd7848652b53f172834394e7346c920410715a5f2cc4fc251f6c820068.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24528",
+    "content_title": "懐かしい写真",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-06-24 11:46:00",
+    "created_at": "2025-06-24 11:48:34",
+    "updated_at": "2025-06-24 11:48:34",
+    "content_text": "やっほー\r\n\r\nえばです\r\n\r\n0624_ebata_s.jpg\r\n懐かしい写真がでてきた\r\n共有します( ･θ･)\r\n江端妃咲",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "20068",
+        "material_title": "0624_ebata_s.jpg",
+        "material_file": "d7e5d0f471426c32e50075c2a39947644372ace5e6e3af3c4ab74d8178d8f1b220068.jpeg"
+      }
+    ],
+    "previous_id": "24555",
+    "next_id": "24499",
+    "saved_materials": [
+      "assets/24528_20068_0624_ebata_s.jpg"
+    ]
+  }
+}

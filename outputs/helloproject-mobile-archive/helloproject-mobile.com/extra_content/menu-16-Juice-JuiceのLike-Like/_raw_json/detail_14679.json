@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 512,
+    "content_id": "14679",
+    "content_title": "Juice=Juice日に！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-10-27 10:00:00",
+    "created_at": "2020-10-14 21:53:51",
+    "updated_at": "2020-10-14 21:53:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12192",
+        "material_title": "1027_inaba_s.jpg",
+        "material_file": "b4bb0e83947aed07c12666d95d2fade7970c0e4bf3a5599cedcdd7af4ba6384812192.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14679",
+    "content_title": "Juice=Juice日に！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-10-27 10:00:00",
+    "created_at": "2020-10-14 21:53:51",
+    "updated_at": "2020-10-14 21:53:51",
+    "content_text": "1027_inaba_s.jpg\r\n10月10日、Juice=Juiceの日にイベントをやらせて頂きました♪\r\nその時に、素敵なフルーツを頂いて♡\r\nとっても美味しかったです☆\r\nみんなフルーツが大好きなので、テンションが物凄い上がっていました！笑\r\nイチゴとかいつか無限に食べたいなぁ…♪",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12192",
+        "material_title": "1027_inaba_s.jpg",
+        "material_file": "a19a64be09413d15c2bd5739410f82dc02d356ee91bb53cd2bdb1cba1837174b12192.jpeg"
+      }
+    ],
+    "previous_id": "14787",
+    "next_id": "14678",
+    "saved_materials": [
+      "assets/14679_12192_1027_inaba_s.jpg"
+    ]
+  }
+}

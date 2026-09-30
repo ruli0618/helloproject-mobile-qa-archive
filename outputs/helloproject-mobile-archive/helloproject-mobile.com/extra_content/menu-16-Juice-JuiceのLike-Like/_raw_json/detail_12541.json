@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 583,
+    "content_id": "12541",
+    "content_title": "沖縄での",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-11-25 10:00:00",
+    "created_at": "2019-11-22 23:01:55",
+    "updated_at": "2019-11-22 23:01:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10634",
+        "material_title": "1125_miyamoto_s.jpg",
+        "material_file": "4a21c77644b6d2dd9ce472f1239ba6ff6cea15b4b3c8af4a7ba720b1b300c07010634.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12541",
+    "content_title": "沖縄での",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-11-25 10:00:00",
+    "created_at": "2019-11-22 23:01:55",
+    "updated_at": "2019-11-22 23:01:55",
+    "content_text": "1125_miyamoto_s.jpg\r\nソーキそば。",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10634",
+        "material_title": "1125_miyamoto_s.jpg",
+        "material_file": "cf268b316c385b8efb2b1439f204d5abe8c95330a55f0477fa7c7c49cce0e23710634.jpeg"
+      }
+    ],
+    "previous_id": "12542",
+    "next_id": "12496",
+    "saved_materials": [
+      "assets/12541_10634_1125_miyamoto_s.jpg"
+    ]
+  }
+}

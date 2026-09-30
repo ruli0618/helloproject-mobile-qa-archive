@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 142,
+    "content_id": "7596",
+    "content_title": "きいろいな",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2017-09-26 11:00:00",
+    "created_at": "2017-09-21 21:23:59",
+    "updated_at": "2017-09-21 21:25:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6694",
+        "material_title": "170926_tanimoto_s.jpg",
+        "material_file": "d83cc1c6e754d8dd0b2912973800a5db9a25ee81d14abc032bd9596489fec62c6694.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7596",
+    "content_title": "きいろいな",
+    "content_sub_title": "谷本安美",
+    "release_date": "2017-09-26 11:00:00",
+    "created_at": "2017-09-21 21:23:59",
+    "updated_at": "2017-09-21 21:25:00",
+    "content_text": "170926_tanimoto_s.jpg\nこんなに大きい黄色のお花初めて見たのでパシャりと！\n岸本ゆめのちゃんのメンバーカラー！",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "6694",
+        "material_title": "170926_tanimoto_s.jpg",
+        "material_file": "3a9a9273ed0a369dfc123adda3f62279c98df6e372352ae56bfe3403c9fa11e46694.jpeg"
+      }
+    ],
+    "previous_id": "7720",
+    "next_id": "7503",
+    "saved_materials": [
+      "assets/7596_6694_170926_tanimoto_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 92,
+    "content_id": "24662",
+    "content_title": "爆笑ばぶすぎだろー",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2025-07-23 10:00:00",
+    "created_at": "2025-07-14 21:44:26",
+    "updated_at": "2025-07-14 21:44:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20141",
+        "material_title": "0723_kiyono_s.jpg",
+        "material_file": "ada60205e1795c6c5dc1a7203bae5e800fe527aba0b1759058f550ba1029d92e20141.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24662",
+    "content_title": "爆笑ばぶすぎだろー",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2025-07-23 10:00:00",
+    "created_at": "2025-07-14 21:44:26",
+    "updated_at": "2025-07-14 21:44:26",
+    "content_text": "0723_kiyono_s.jpg\r\nビタミンMEのときの♡かわいい\r\n\r\n【44周目お題：懐かしい】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20141",
+        "material_title": "0723_kiyono_s.jpg",
+        "material_file": "ac410f5f6980f7a1ab2ba9abd6109e8e066c22dda88135367a6cf41307d0c3a420141.jpeg"
+      }
+    ],
+    "previous_id": "24663",
+    "next_id": "24661",
+    "saved_materials": [
+      "assets/24662_20141_0723_kiyono_s.jpg"
+    ]
+  }
+}

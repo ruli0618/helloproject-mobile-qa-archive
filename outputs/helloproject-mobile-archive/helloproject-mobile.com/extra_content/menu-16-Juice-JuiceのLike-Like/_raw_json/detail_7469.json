@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 782,
+    "content_id": "7469",
+    "content_title": "トマト／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-10-06 11:00:00",
+    "created_at": "2017-09-07 17:14:36",
+    "updated_at": "2017-09-11 15:19:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6581",
+        "material_title": "6616760035861_s.jpg",
+        "material_file": "671d302d1c7910f961702def964652324281237d5a7c59585d8c49e50d7a86a16581.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7469",
+    "content_title": "トマト／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-10-06 11:00:00",
+    "created_at": "2017-09-07 17:14:36",
+    "updated_at": "2017-09-11 15:19:39",
+    "content_text": "6616760035861_s.jpg\r\nるるが大好きな担々麺に、おっきなトマトがのっとった(≧∇≦)\r\n中にはキムチが入ってました!!\r\nおいしかった(♡˙3˙)",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6581",
+        "material_title": "6616760035861_s.jpg",
+        "material_file": "f14b828d337e4a4915fdb366b3da6407fb9c13da3f3499d34ccc0a875736733f6581.jpeg"
+      }
+    ],
+    "previous_id": "7471",
+    "next_id": "7467",
+    "saved_materials": [
+      "assets/7469_6581_6616760035861_s.jpg"
+    ]
+  }
+}

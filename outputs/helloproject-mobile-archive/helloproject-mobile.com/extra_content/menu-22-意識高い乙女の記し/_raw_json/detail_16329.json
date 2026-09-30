@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 109,
+    "content_id": "16329",
+    "content_title": "プレート",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-07-12 18:00:00",
+    "created_at": "2021-07-12 18:18:17",
+    "updated_at": "2021-07-12 18:18:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13640",
+        "material_title": "210712-yamagishi-s.jpg",
+        "material_file": "b6a55fcafee89e3b9e7a343192eb286e143737c3dd9171d4a0c36e699bcdfa1c13640.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16329",
+    "content_title": "プレート",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-07-12 18:00:00",
+    "created_at": "2021-07-12 18:18:17",
+    "updated_at": "2021-07-12 18:18:17",
+    "content_text": "210712-yamagishi-s.jpg\r\n理子です！\r\nこの前、\r\nサラダが多いプレート食べた！\r\n色合いも良し！\r\n自分に拍手〜！笑\r\n\r\nみんなも一緒に健康を目指そう！",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13640",
+        "material_title": "210712-yamagishi-s.jpg",
+        "material_file": "c3d14a9d803cbadbc021d0a72adc59a3bf2d6b2bc334a5114fc0c14f1b901d5013640.jpeg"
+      }
+    ],
+    "previous_id": "16404",
+    "next_id": "16325",
+    "saved_materials": [
+      "assets/16329_13640_210712-yamagishi-s.jpg"
+    ]
+  }
+}

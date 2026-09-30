@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 325,
+    "content_id": "17909",
+    "content_title": "いつもと違う雰囲気に…",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2022-05-02 10:00:00",
+    "created_at": "2022-04-01 22:25:07",
+    "updated_at": "2022-04-01 22:25:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14986",
+        "material_title": "0502_satoyoshi_s.jpg",
+        "material_file": "ad88b6d52d63f4eb1741af773f85b9381e8ba488995af26fdb9f1191f1ba6b0b14986.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17909",
+    "content_title": "いつもと違う雰囲気に…",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2022-05-02 10:00:00",
+    "created_at": "2022-04-01 22:25:07",
+    "updated_at": "2022-04-01 22:25:07",
+    "content_text": "0502_satoyoshi_s.jpg\r\nハロプロまるわかりBOOKのお衣装は、いつもと違うモノトーンのクールな雰囲気！\r\nかっこいい表情も研究したい……！\r\n\r\n【18周目お題：かっこいい】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14986",
+        "material_title": "0502_satoyoshi_s.jpg",
+        "material_file": "f15bab7201f3c6ac714c1f25de16f21bc241eb8b69366fd777afefdd894a408014986.jpeg"
+      }
+    ],
+    "previous_id": "17910",
+    "next_id": "17908",
+    "saved_materials": [
+      "assets/17909_14986_0502_satoyoshi_s.jpg"
+    ]
+  }
+}

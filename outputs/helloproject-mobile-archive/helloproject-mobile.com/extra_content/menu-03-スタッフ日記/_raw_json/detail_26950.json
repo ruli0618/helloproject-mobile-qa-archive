@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 61,
+    "content_id": "26950",
+    "content_title": "宣伝会議#107",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-02-28 00:00:00",
+    "created_at": "2026-09-28 15:36:54",
+    "updated_at": "2026-09-28 15:36:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22016",
+        "material_title": "107_04.jpg",
+        "material_file": "18bd008493bcfa193b3a6b592052d91f7ebeb3121e0906ec16ec6692000baa2022016.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22014",
+        "material_title": "107.jpg",
+        "material_file": "0d4be274aaa8f277c1a30632662f94fe830744d256bcb0efd7ea1a0d0e91b43022014.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22015",
+        "material_title": "107_02.jpg",
+        "material_file": "dac2f550ac8619966fddfcc4e56e2d34db0c8f3218bb509f81450d05de2f15a022015.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22017",
+        "material_title": "107_01.jpg",
+        "material_file": "0ea6b4076ae44daec9e25d74626e709eef5686a782328ea27418bd7f5693c7a622017.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22018",
+        "material_title": "107_03.jpg",
+        "material_file": "f9f3ad894a4b5a43debfe55df3f8b0e1ce3f8a848cd99e2f427654756e7f683b22018.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26950",
+    "content_title": "宣伝会議#107",
+    "content_sub_title": "",
+    "release_date": "2025-02-28 00:00:00",
+    "created_at": "2026-09-28 15:36:54",
+    "updated_at": "2026-09-28 15:36:54",
+    "content_text": "107_04.jpg\r\n\r\n宣伝会議第107回は、野中美希部長・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・バレンタインのお菓子\r\n・バースデーイベントで歌いたい曲\r\n・客席どれくらい見てる？\r\n・サブスク解禁\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「一生お肉が食べられないか、一生デザートが食べられないか」についてディベート！\r\n\r\n後編では、\r\n・水泳\r\n・密着映像\r\n・メロン記念日の好きな曲\r\n・小野田華凜のメンバー愛\r\n・早生まれメンバーが多い共通点\r\n・ハロショグッズの組み合わせ\r\n・小野田華凜のニックネーム\r\n・部員の特徴的な声\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「西﨑美空」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n107.jpg\r\n\r\n107_02.jpg\r\n\r\n107_01.jpg\r\n\r\n107_03.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22016",
+        "material_title": "107_04.jpg",
+        "material_file": "900cdaa40943691e3c30ed18fb12567f257a75b4e9b4c11dd7174022cd80e27e22016.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22014",
+        "material_title": "107.jpg",
+        "material_file": "cd264fd51e4c5857a834d18e201c7d9d5b6ee67a8e8140af30d573a86bc7bf3822014.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22015",
+        "material_title": "107_02.jpg",
+        "material_file": "c447a7a98458713d425a572840aea4893cde94e85bde0f266cf71f751d7b588022015.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22017",
+        "material_title": "107_01.jpg",
+        "material_file": "638fe1ee410e9a73beab8f48da4422a2ce2d34a91471f4cf74e8ea3dfffd5f5a22017.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22018",
+        "material_title": "107_03.jpg",
+        "material_file": "27856e11d3571e6dbd639be64765fa01c9c0f16f000b9e8cab2de536f434044a22018.jpeg"
+      }
+    ],
+    "previous_id": "26981",
+    "next_id": "26980",
+    "saved_materials": [
+      "assets/26950_22016_107_04.jpg",
+      "assets/26950_22014_107.jpg",
+      "assets/26950_22015_107_02.jpg",
+      "assets/26950_22017_107_01.jpg",
+      "assets/26950_22018_107_03.jpg"
+    ]
+  }
+}

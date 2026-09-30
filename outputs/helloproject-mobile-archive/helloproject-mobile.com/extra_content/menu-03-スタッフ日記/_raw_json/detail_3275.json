@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 707,
+    "content_id": "3275",
+    "content_title": "さやしの部屋の天井裏​#2",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-16 21:00:00",
+    "created_at": "2015-10-16 20:57:16",
+    "updated_at": "2015-11-19 10:46:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3275",
+    "content_title": "さやしの部屋の天井裏​#2",
+    "content_sub_title": "",
+    "release_date": "2015-10-16 21:00:00",
+    "created_at": "2015-10-16 20:57:16",
+    "updated_at": "2015-11-19 10:46:35",
+    "content_text": "こんにちは！\nハロモバスタッフ番号4番♂です。\n本日更新したハローラジオオリジナル番組「さやしの部屋」2回目はお聞きいただけましたか？\n\n前回募集した新コーナーが始まり、飴を舐めながらヌルーッと進む第2回目、まさか鞘師里保自ら次回のゲストを決めるとは・・・\nスタッフの特権を奪われて青春小僧は泣いています。。。\nでもでもがんばってスケジュール合わせましたよ！\n\n\nそんな鞘師里保がやりたい放題の「さやしの部屋」3回目の収録に向けて、メール大募集中です。\n「プロデューサー鞘師」「ホワイト＆ブラック」の各コーナーのお題や、もちろん普通のお便りもたくさんお待ちしています！！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com\"><u><font color=\"#0000ff\">halomoba@gmail.com</font></u></a>\n\n次回は11月初旬の更新です。\nお楽しみに！！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3285",
+    "next_id": "3272",
+    "saved_materials": []
+  }
+}

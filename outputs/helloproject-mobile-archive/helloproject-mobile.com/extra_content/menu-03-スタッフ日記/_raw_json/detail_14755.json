@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 313,
+    "content_id": "14755",
+    "content_title": "工藤の家の屋根裏部屋#79後編～生田衣梨奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-12-04 13:20:00",
+    "created_at": "2020-10-20 18:43:09",
+    "updated_at": "2020-12-04 13:22:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12265",
+        "material_title": "201117_01_s.jpg",
+        "material_file": "3975c9beb560b5452b72b934391ed315fe80dd357007b08e036655bc8c25ebf812265.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12266",
+        "material_title": "201117_02_s.jpg",
+        "material_file": "d1f08791d69f320e33b6285517d02750857f3d03186d7c92a5f3834c5391307b12266.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14755",
+    "content_title": "工藤の家の屋根裏部屋#79後編～生田衣梨奈～",
+    "content_sub_title": "",
+    "release_date": "2020-12-04 13:20:00",
+    "created_at": "2020-10-20 18:43:09",
+    "updated_at": "2020-12-04 13:22:13",
+    "content_text": "スタッフ日記の更新が遅れ、申し訳ありません。\nふくむらの部屋 第79回後編配信中！\n\nゲストは、前回に引き続きモーニング娘。'20生田衣梨奈さん！\n\n201117_01_s.jpg\n\nまずは新コーナー「ハロプロファン失敗談」からスタート！\n皆さんのやらかし話を紹介しました。\n\nライブ中にペンライトで○○！！\n会場で譜久村さんのお父さんが体験した事とは…？\n\n握手会での言い間違いでは、生田さんの「ウケる」を頂きました。\n恥ずかしいって思わないで良いよと言われたあるある失敗話は、ぜひ番組を聴いて確かめてくださいね。\n\n鬼滅の刃コスプレの裏話もトーク！\n譜久村さんのこだわりや、コスプレしたいキャラクターも教えて頂きました。\n\n201117_02_s.jpg\n\n後編は急ぎ足でお送りしましたが、前編後編あわせてとても盛り上がる回となりました。\n\n次回はアンジュルム竹内朱莉さんが登場です！\n\n※換気のためドア・窓を開けた状態で収録していますので、車の通行音などの音で聞きづらい可能性があります。ご了承ください。",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12265",
+        "material_title": "201117_01_s.jpg",
+        "material_file": "76e01f34965b09c0bb7bbf979c12f844b7055ed49709d57324daa2204a65441f12265.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12266",
+        "material_title": "201117_02_s.jpg",
+        "material_file": "cf47eb5351ea0920733e018da09dcbadc907354ba0314aa0ed2f3dfd9cb2a77a12266.jpeg"
+      }
+    ],
+    "previous_id": "15067",
+    "next_id": "15248",
+    "saved_materials": [
+      "assets/14755_12265_201117_01_s.jpg",
+      "assets/14755_12266_201117_02_s.jpg"
+    ]
+  }
+}

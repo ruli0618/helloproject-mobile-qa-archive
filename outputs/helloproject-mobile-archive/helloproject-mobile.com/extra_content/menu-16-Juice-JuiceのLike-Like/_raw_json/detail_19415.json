@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 308,
+    "content_id": "19415",
+    "content_title": "振替公演",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2022-12-20 16:26:00",
+    "created_at": "2022-12-20 16:27:20",
+    "updated_at": "2022-12-20 16:27:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16101",
+        "material_title": "1220_kudo_s.jpg",
+        "material_file": "89ed5a7d54f7e5ac2889cb9f12f5e826ad92aa80e9cfaacca5d851dd9993850416101.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19415",
+    "content_title": "振替公演",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2022-12-20 16:26:00",
+    "created_at": "2022-12-20 16:27:20",
+    "updated_at": "2022-12-20 16:27:20",
+    "content_text": "1220_kudo_s.jpg\r\n中止となってしまった日本武道館公演の振替公演が決まりました(泣)\r\n本当に嬉しく、感謝の気持ちでいっぱいです。\r\nその気持ちをパフォーマンスにのせて、熱いステージをお届け出来るように頑張ります！！\r\nどうか皆さんの予定が空いていますように。。。",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16101",
+        "material_title": "1220_kudo_s.jpg",
+        "material_file": "a1880fbd5eab4d17aa5bef601234849140d37b72c5d7fc183bbe6bcbeb18052916101.jpeg"
+      }
+    ],
+    "previous_id": "19416",
+    "next_id": "19309",
+    "saved_materials": [
+      "assets/19415_16101_1220_kudo_s.jpg"
+    ]
+  }
+}

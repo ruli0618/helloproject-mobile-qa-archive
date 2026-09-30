@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 402,
+    "content_id": "15786",
+    "content_title": "家族写真",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2021-04-12 10:00:00",
+    "created_at": "2021-04-07 19:22:21",
+    "updated_at": "2022-01-17 14:38:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13157",
+        "material_title": "0412_eguchi_s.jpg",
+        "material_file": "b14fb7555474316d6069cfd50f9d89d975b7b5e626f1f5f2cd938af7d83c50f613157.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15786",
+    "content_title": "家族写真",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2021-04-12 10:00:00",
+    "created_at": "2021-04-07 19:22:21",
+    "updated_at": "2022-01-17 14:38:57",
+    "content_text": "0412_eguchi_s.jpg\n家族写真をイメージ撮りました！\n\n【10周目お題：グループショット(複数人)】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13157",
+        "material_title": "0412_eguchi_s.jpg",
+        "material_file": "536d673abd6ae0886b42e7cf748394f097bb8b09e0f3954969645a9f953f6ba313157.jpeg"
+      }
+    ],
+    "previous_id": "15787",
+    "next_id": "15512",
+    "saved_materials": [
+      "assets/15786_13157_0412_eguchi_s.jpg"
+    ]
+  }
+}

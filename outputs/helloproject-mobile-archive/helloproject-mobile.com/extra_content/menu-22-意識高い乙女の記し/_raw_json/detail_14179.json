@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 171,
+    "content_id": "14179",
+    "content_title": "お祝い",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-07-22 15:38:00",
+    "created_at": "2020-07-22 15:40:17",
+    "updated_at": "2020-07-22 15:40:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11798",
+        "material_title": "0722_ono_s.jpg",
+        "material_file": "abc381c24be11168eebcc10bc0f1e0dd8258f52c5ab4e6750281429bf7d775e611798.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14179",
+    "content_title": "お祝い",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-07-22 15:38:00",
+    "created_at": "2020-07-22 15:40:17",
+    "updated_at": "2020-07-22 15:40:17",
+    "content_text": "0722_ono_s.jpg\r\n\r\n家族のお誕生日を\r\nお祝いした時の写真です<img src=\"/emoji/emoji-images/4766.gif\"/>\r\n\r\nこの日のご飯は、\r\n姉と私2人で作ったんだけど、\r\n盛り付けるだけなのに\r\nすっごく時間がかかっちゃって笑 \r\n\r\nお料理をして盛り付けもする\r\n母の手際の良さを実感したよ！\r\n\r\nお誕生日をお祝いする\r\n意識が一つ上がった<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11798",
+        "material_title": "0722_ono_s.jpg",
+        "material_file": "ba7788b782124805a2d0048723dfe43c29416876423e32a4b9364b229aed67b211798.jpeg"
+      }
+    ],
+    "previous_id": "14218",
+    "next_id": "14077",
+    "saved_materials": [
+      "assets/14179_11798_0722_ono_s.jpg"
+    ]
+  }
+}

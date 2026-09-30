@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 160,
+    "content_id": "23368",
+    "content_title": "宣伝会議#84",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-23 00:00:00",
+    "created_at": "2024-11-28 05:06:31",
+    "updated_at": "2024-11-28 05:06:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19166",
+        "material_title": "84.jpg",
+        "material_file": "b9eef4f417a5633c4d9e4f2bfacfd8a4b9a2a0996dd148859f95b45a2dc437db19166.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19167",
+        "material_title": "84_01_s.jpg",
+        "material_file": "41282970f6d64f1495a16eacc3a8d08f134fdeec13562a6ef4c01b20ef6381ba19167.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19168",
+        "material_title": "84_02_s.jpg",
+        "material_file": "6c25233ee6b61dd1d24e1489ba076cf9041cad0e18ea55f4487d78a3c039dcfc19168.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23368",
+    "content_title": "宣伝会議#84",
+    "content_sub_title": "",
+    "release_date": "2023-03-23 00:00:00",
+    "created_at": "2024-11-28 05:06:31",
+    "updated_at": "2024-11-28 05:06:31",
+    "content_text": "宣伝会議第84回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n84_01_s.jpg\r\n\r\n前編では、\r\n・江端妃咲サプライズ\r\n・西﨑美空\r\n・声援ありライブ\r\n・聴いてほしい曲\r\n・個別イベントの私服\r\n・お菓子作り\r\n・花粉対策\r\n・仮歌担当\r\nについてトーク！\r\n\r\n後編では、\r\n・武道館の感想\r\n・誕生日に立てた目標\r\n・幼少期インターナショナルな出来事\r\n・春楽しみにしていること\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「西田汐里」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n84.jpg\r\n\r\n84_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19166",
+        "material_title": "84.jpg",
+        "material_file": "84f4706c5418368810a9eb665a5afb26c1f03628c66c98296166f1680d359f0e19166.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19167",
+        "material_title": "84_01_s.jpg",
+        "material_file": "8add455b8976162c1d67d8e4003ca53dce96f7c1d28a078dbfabd9abe53d308819167.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19168",
+        "material_title": "84_02_s.jpg",
+        "material_file": "f11493aeb859232faa35efdb9cc6da8eb314839164f5c9f38a611a9f8fb9cb1e19168.jpeg"
+      }
+    ],
+    "previous_id": "24078",
+    "next_id": "21236",
+    "saved_materials": [
+      "assets/23368_19166_84.jpg",
+      "assets/23368_19167_84_01_s.jpg",
+      "assets/23368_19168_84_02_s.jpg"
+    ]
+  }
+}

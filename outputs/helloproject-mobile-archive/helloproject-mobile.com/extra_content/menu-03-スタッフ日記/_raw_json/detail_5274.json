@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 647,
+    "content_id": "5274",
+    "content_title": "工藤の家の天井裏#17　～しましまPart2～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-01 21:35:00",
+    "created_at": "2016-09-01 21:32:07",
+    "updated_at": "2016-09-01 21:35:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4759",
+        "material_title": "160901_B_1_s.jpg",
+        "material_file": "cab7987a9aba7b49eccdfec5e9bb1da6aafcbfb0c177202768643f0e390bb0bd4759.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5274",
+    "content_title": "工藤の家の天井裏#17　～しましまPart2～",
+    "content_sub_title": "",
+    "release_date": "2016-09-01 21:35:00",
+    "created_at": "2016-09-01 21:32:07",
+    "updated_at": "2016-09-01 21:35:36",
+    "content_text": "やじまの森やな#17公開！ \n\nゲストは2回目の登場！\n前回ハロ！モバ会員登録したにも関わらず、既に解約してしまっていた中島早貴さんです！\n\n160901_B_1_s.jpg\n\n今回は番組内容を変えて、一通でも多くのお便りをお届けしました。\n\n℃-ute解散発表後、ファンの皆さんの声に対して、じっくりと向き合って答えています。\nまだ子供だった頃の印象的なエピソードや、今後の未来に向けての希望まで。\n\nぜひ、お聴き下さい。\n\nそして本日より、「ハロ！モバPresents 矢島舞美＆鈴木愛理 アコースティックライブ2016 ～コロンの娘。ふたたび～」の先行応募がスタート！\n会員の方向けの応募受付は10/3(月)より始まりますので、先行応募の対象でない方も、諦めずにぜひ応募して下さいね！\n\nもしかしたら第2次、第3次応募申込もあるかも…！？\n\n<a href=\"https://helloproject-mobile.com/info/special/content?page=yajisuzu_sp_event/index\"><font color=\"#0000ff\"><u>詳しくはこちら！</u></font></a>\n",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4759",
+        "material_title": "160901_B_1_s.jpg",
+        "material_file": "28513466c2ac2711882ecbb4659455cdb5f86b39eeea9ef144d8e6b9b26147b84759.jpeg"
+      }
+    ],
+    "previous_id": "5331",
+    "next_id": "5273",
+    "saved_materials": [
+      "assets/5274_4759_160901_B_1_s.jpg"
+    ]
+  }
+}

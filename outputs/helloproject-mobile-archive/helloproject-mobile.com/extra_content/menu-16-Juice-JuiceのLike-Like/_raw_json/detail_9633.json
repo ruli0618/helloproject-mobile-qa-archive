@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 700,
+    "content_id": "9633",
+    "content_title": "ひょっこりゆかにゃ",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2018-08-09 20:29:00",
+    "created_at": "2018-08-06 14:58:44",
+    "updated_at": "2018-08-09 20:29:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8429",
+        "material_title": "0810_miyamoto_s.jpg",
+        "material_file": "e311833998ae2a00cdf690d1101d3319ebf088796c7948a524f242da0ec43d518429.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9633",
+    "content_title": "ひょっこりゆかにゃ",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2018-08-09 20:29:00",
+    "created_at": "2018-08-06 14:58:44",
+    "updated_at": "2018-08-09 20:29:34",
+    "content_text": "0810_miyamoto_s.jpg\r\nだよー！かわいいでしょー！",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8429",
+        "material_title": "0810_miyamoto_s.jpg",
+        "material_file": "45d4518365e60c42c946fb9224666c1c266096486c9800fd491be44e7a4d4d548429.jpeg"
+      }
+    ],
+    "previous_id": "9653",
+    "next_id": "9603",
+    "saved_materials": [
+      "assets/9633_8429_0810_miyamoto_s.jpg"
+    ]
+  }
+}

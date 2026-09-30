@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 455,
+    "content_id": "16227",
+    "content_title": "送られてきた写真",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-07-01 10:00:00",
+    "created_at": "2021-06-21 17:04:35",
+    "updated_at": "2021-06-21 17:04:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13557",
+        "material_title": "210701_inoue_s.jpg",
+        "material_file": "862a91af4558c0762e8e3efb6c5f2d1472c55daedbe04a0680dea8557fa6df9c13557.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16227",
+    "content_title": "送られてきた写真",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-07-01 10:00:00",
+    "created_at": "2021-06-21 17:04:35",
+    "updated_at": "2021-06-21 17:04:35",
+    "content_text": "210701_inoue_s.jpg\r\nこの前お姉さんから送られてきた写真が素敵だったから、しぇあはぴしちゃうよ。\r\n空とシャボン玉の相性◎",
+    "materials": [
+      {
+        "secretKey": "ef280e548a1849486df7990d214b1ec1",
+        "material_id": "13557",
+        "material_title": "210701_inoue_s.jpg",
+        "material_file": "6983303e296ce85bf2b90be01ee6f881b5eee222b10d8dac6d345c7bc045fce213557.jpeg"
+      }
+    ],
+    "previous_id": "16241",
+    "next_id": "16226",
+    "saved_materials": [
+      "assets/16227_13557_210701_inoue_s.jpg"
+    ]
+  }
+}

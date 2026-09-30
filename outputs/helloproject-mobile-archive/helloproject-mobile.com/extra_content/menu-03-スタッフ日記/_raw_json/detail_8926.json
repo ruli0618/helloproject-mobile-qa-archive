@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 514,
+    "content_id": "8926",
+    "content_title": "隣のやじまん家の塀の裏#20 上國料萌衣",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-04-19 20:21:00",
+    "created_at": "2018-04-19 20:21:21",
+    "updated_at": "2018-04-19 20:22:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7816",
+        "material_title": "180417_01_s.jpg",
+        "material_file": "7be75bd8f5d42a8efa34cacfc7c552cbc7fcdfd7d0f8828d4cc212de8152e1e57816.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7817",
+        "material_title": "180417_02_s.jpg",
+        "material_file": "a77d39a8e7b3ddf97f4f28ad41cc1d2aeca8e6af7b990991db792a2d1832e4aa7817.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8926",
+    "content_title": "隣のやじまん家の塀の裏#20 上國料萌衣",
+    "content_sub_title": "",
+    "release_date": "2018-04-19 20:21:00",
+    "created_at": "2018-04-19 20:21:21",
+    "updated_at": "2018-04-19 20:22:17",
+    "content_text": "隣のやじまん家も20回配信を迎えました！\nもうお聴きになりましたか？\n\nゲストはアンジュルムから上國料萌衣さん！\n\n色々と共通点のある二人、\n和やかなムードで収録が進みました。\n\n180417_01_s.jpg\n\n向かい合う二人…。\n心なしか服装の雰囲気まで似ている気がします。\n\n今回のモグレポショットはこちら！\n\n180417_02_s.jpg\n\n上國料さんのモグレポを聴いて、思わず笑顔になってしまう方も多かったのではないでしょうか。\n\nそして引き続き、お試し新コーナーへのお便りを大募集しています！！\n\n①妄想スピーチ\nリスナーからキーワードを募集し、3つ程選んだキーワードを組み込んでトークを構成。\n時間を決めてスピーチするコーナー！\n\n②目指せアクトレス矢島\nリスナーから送られたセリフを演技派にこなす、真面目なコーナー！\nゲストにも相手役をお願いすることも！？\n\n③モグレポ\n矢島さんがゲストと二人で食レポをするコーナー！\n\n④イメージキャラクターを作ろう！\nキャラクターの特徴を募集し、矢島さんが想像してイメージキャラクターのイラストを描くコーナー\n\n新たな新コーナー案も募集中♪\n「くじ引きトーク」「今月のハッピーバースデー♪」「楽曲リクエスト」も、お待ちしています！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回は、つばきファクトリー浅倉樹々さんがゲスト出演！\n4/25(水)午前11時まで、メール受付中です！\n\n次の配信は、5/1(火)を予定しています。\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7816",
+        "material_title": "180417_01_s.jpg",
+        "material_file": "7dd4208c2a00c6a4a6b56b79319b5b894c5992667920a496df44f4dd57b6064a7816.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7817",
+        "material_title": "180417_02_s.jpg",
+        "material_file": "ba350cbe38fcb78773be2820a47eaf9b10f3e386a8338711c3e0180dee4ec79d7817.jpeg"
+      }
+    ],
+    "previous_id": "8979",
+    "next_id": "8850",
+    "saved_materials": [
+      "assets/8926_7816_180417_01_s.jpg",
+      "assets/8926_7817_180417_02_s.jpg"
+    ]
+  }
+}

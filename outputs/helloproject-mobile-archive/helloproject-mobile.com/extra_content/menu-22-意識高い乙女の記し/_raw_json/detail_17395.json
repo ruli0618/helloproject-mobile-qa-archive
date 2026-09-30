@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 77,
+    "content_id": "17395",
+    "content_title": "眩し過ぎるほど…",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-12-31 10:00:00",
+    "created_at": "2021-12-24 12:50:32",
+    "updated_at": "2021-12-24 12:50:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14520",
+        "material_title": "211231_yamagishi_s.jpg",
+        "material_file": "f89b2afb7394f0eb4fd20f8d2a6c7a83020a8a55aa5c257c7f7e96f908ac03ef14520.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17395",
+    "content_title": "眩し過ぎるほど…",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-12-31 10:00:00",
+    "created_at": "2021-12-24 12:50:32",
+    "updated_at": "2021-12-24 12:50:32",
+    "content_text": "211231_yamagishi_s.jpg\r\n早起きは三文の徳。\r\n⁡\r\n早起き苦手な方も\r\n今日早く起きたから得するかな？って思ったら、苦じゃないかもね✩\r\n\r\n今日は大晦日。\r\n今年もありがとうございました！\r\n良いお年を…！\r\n\r\nつばきファクトリー 山岸理子",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14520",
+        "material_title": "211231_yamagishi_s.jpg",
+        "material_file": "e49e9b675d9f05ce652e47b240bbb46c0a4867a9960078e47fe85433507e3b5d14520.jpeg"
+      }
+    ],
+    "previous_id": "17446",
+    "next_id": "17394",
+    "saved_materials": [
+      "assets/17395_14520_211231_yamagishi_s.jpg"
+    ]
+  }
+}

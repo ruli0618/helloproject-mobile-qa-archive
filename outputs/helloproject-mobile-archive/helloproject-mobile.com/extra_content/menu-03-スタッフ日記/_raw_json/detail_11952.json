@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 398,
+    "content_id": "11952",
+    "content_title": "工藤の家の屋根裏部屋#55～野中美希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-19 17:24:00",
+    "created_at": "2019-08-19 17:16:51",
+    "updated_at": "2019-08-19 17:24:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10199",
+        "material_title": "190819_03_s.jpg",
+        "material_file": "7fd4c840d8ae2f69f3127567d2e2473c5312bb0e7ed3d09111f520f5b5da780e10199.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10200",
+        "material_title": "190819_02_s.jpg",
+        "material_file": "82c1a49b36b969cf8946ff5853a78bd9b3bbe5a80e7cbff25d884cdd29624ec510200.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10201",
+        "material_title": "190819_01_s.jpg",
+        "material_file": "324b545bbcbb57c3b131e9c8140f593b21bf01793a15c845ad8964b343e2721110201.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11952",
+    "content_title": "工藤の家の屋根裏部屋#55～野中美希～",
+    "content_sub_title": "",
+    "release_date": "2019-08-19 17:24:00",
+    "created_at": "2019-08-19 17:16:51",
+    "updated_at": "2019-08-19 17:24:28",
+    "content_text": "ふくむらの部屋 第55回！\n番組はもうお聴きになって頂けましたか？\n\n今回のゲストは、ハロ！モバ宣伝部長でもあるモーニング娘。'19野中美希さん！\n\n190819_01_s.jpg\n(バッチリ黒い服を着てきた野中さん)\n\n2人が日々更新している\nInstagramトークで盛り上がりました！\n野中さんが驚いた裏？ワザ機能、\n譜久村さんが自分の投稿に「いいね」する理由とは…？\n\nそして、ハロ！モバQ＆Aの気になる回答、\nBEYOOOOONDSメンバーのカワイイところ\nふくたけイベントの裏話などなど！\n\n190819_02_s.jpg\n\n「みずき先生のハロプロ講座」のコーナーでは、おすすめインスト曲や衣装、影響を受けたアーティスト等について語りました！\n\nアルバム「二十歳のモーニング娘。」に収録されている「お天気の日のお祭り」の歌詞についても、二人なりの考察を展開！\n\n新コーナーも決定！\nその名も、<b>「皆に伝えたいハロプロ名場面」</b>\n\n卒業コンサートのような有名な事から、\nMVのこの表情がいい！といった細かい事まで、\n皆に知って欲しいハロプロ名場面、名シーンを\n<span style=\"color:red;\"><b>＜五・七・五＞の川柳</b></span>でお送り下さい！\n\n川柳を書いたあと、その下に内容に関する詳しい説明を記載して下さい。\n\nぜひぜひ譜久村さんやゲストが知らないような、名シーンを教えて下さい♪\n\n190819_03_s.jpg\n\n次回もお楽しみに！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10199",
+        "material_title": "190819_03_s.jpg",
+        "material_file": "f00ac072d417368797b4fb2abcf4e4e51c9013cc1593e2b5606855784b55bc2410199.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10200",
+        "material_title": "190819_02_s.jpg",
+        "material_file": "18d68321698d1b4b16ac7e184424949c44df38efaa0c24b778ccb2fd89b9e96210200.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10201",
+        "material_title": "190819_01_s.jpg",
+        "material_file": "3e64083d6ee5ba9b79f7d1c95d19e00cf0130e0f19b33752c68b0922e427741410201.jpeg"
+      }
+    ],
+    "previous_id": "12001",
+    "next_id": "11841",
+    "saved_materials": [
+      "assets/11952_10199_190819_03_s.jpg",
+      "assets/11952_10200_190819_02_s.jpg",
+      "assets/11952_10201_190819_01_s.jpg"
+    ]
+  }
+}

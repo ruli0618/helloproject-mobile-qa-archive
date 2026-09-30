@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 612,
+    "content_id": "6296",
+    "content_title": "工藤の家の天井裏#29　～最多出演～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-03 22:50:00",
+    "created_at": "2017-03-03 22:52:19",
+    "updated_at": "2017-03-03 22:54:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5615",
+        "material_title": "170303_s.jpg",
+        "material_file": "96e7c040248a964eecc47098cc5aa94d3fc87e7693483cc8631c5587406846d05615.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6296",
+    "content_title": "工藤の家の天井裏#29　～最多出演～",
+    "content_sub_title": "",
+    "release_date": "2017-03-03 22:50:00",
+    "created_at": "2017-03-03 22:52:19",
+    "updated_at": "2017-03-03 22:54:42",
+    "content_text": "やじまの部屋#29公開中！\r\n今回のゲストは℃-uteから、自称他人に興味の無い中島さん！\r\n\r\n170303_s.jpg\r\n\r\nやじすずアコースティックライブ・ナルチカツアーの裏話や、\r\nSATOYAMA＆SATOUMIイベントの初出し情報も！\r\nハロ！モバブースはどんな形になるんでしょうか。\r\n\r\nふたりごとのテーマは、\r\n「解散を決めてからメンバーのここが変わった。グループのここが変わった」\r\n\r\n℃-ute皆でお風呂に入ったエピソードに、\r\nメンバーそれぞれのダンスについての2人の視点も必聴です！\r\n\r\nハロプロ大喜利のお題は\r\n⇒「矢島舞美がグレた！精一杯やった悪い事は？」\r\n\r\n次回お題は\r\n⇒「矢島舞美が待ち合わせに大遅刻。その理由は？」\r\n\r\n沢山のメール、お待ちしております！\r\n次の次の回のお題投稿も募集中！\r\n\r\n次回もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5615",
+        "material_title": "170303_s.jpg",
+        "material_file": "1d0f1b6d4427ff15e8fd2c060f8c7daddcd1ca84955141836cf7a2c337aaa3505615.jpeg"
+      }
+    ],
+    "previous_id": "6338",
+    "next_id": "6290",
+    "saved_materials": [
+      "assets/6296_5615_170303_s.jpg"
+    ]
+  }
+}

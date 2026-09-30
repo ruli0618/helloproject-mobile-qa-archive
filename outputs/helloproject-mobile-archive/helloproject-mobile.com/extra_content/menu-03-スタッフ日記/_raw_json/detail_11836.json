@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 402,
+    "content_id": "11836",
+    "content_title": "宣伝会議 議事録#40",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-05 15:09:00",
+    "created_at": "2019-08-05 15:09:30",
+    "updated_at": "2019-08-05 15:10:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10100",
+        "material_title": "190805c_03_s.jpg",
+        "material_file": "cbe0ddb804db8e0dc098c2f63bada438158a0d6769a48dc11d84efe83a5504cf10100.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10101",
+        "material_title": "190805c_01_s.jpg",
+        "material_file": "374fd65d8b93a173a31078080f0c2601c283eb37bfe701e64f0a145ccaa872d010101.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "10102",
+        "material_title": "190805c_02_s.jpg",
+        "material_file": "96d3796a31ae09b6f1b5c7fdaed3c2850648923bdf816ed1ebe18956320fdf5910102.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11836",
+    "content_title": "宣伝会議 議事録#40",
+    "content_sub_title": "",
+    "release_date": "2019-08-05 15:09:00",
+    "created_at": "2019-08-05 15:09:30",
+    "updated_at": "2019-08-05 15:10:03",
+    "content_text": "ハロモバ宣伝会議\r\n40回目の配信はチェックしていただけましたか？\r\n\r\n190805c_01_s.jpg\r\n\r\n4人とも洋服の雰囲気がお揃いな感じで\r\n息もぴったりな宣伝会議でした！\r\n\r\n各グループに入った新メンバーにもハロ！モバを知ってもらうべく\r\nそれぞれ担当を決めて新メンバーの妄想動画を撮影することに！\r\n\r\n\r\n今回からお悩みメールを募集！\r\n１通目から真剣なお悩み相談でしたが、、、\r\nメンバーはなんと…。\r\n\r\n190805c_02_s.jpg\r\n\r\n次回も宣伝部員がお悩み解決していきます！\r\n些細なお悩みでもOKなので是非メールをお送りください。\r\n\r\n\r\n↓前田書記が書いた議事録はこちら↓\r\n\r\n190805c_03_s.jpg\r\n\r\n\r\n「励ましのメール」「お悩み相談メール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください\r\n※お悩み相談は「お悩み相談」と記入してください",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10100",
+        "material_title": "190805c_03_s.jpg",
+        "material_file": "e6a80afaff90b8f3b9ac7eda1be319b2e030ce463e26a5e7622cb3d2abe763f610100.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10101",
+        "material_title": "190805c_01_s.jpg",
+        "material_file": "6a8b3e6475619b80ba625a7a568948889098dca417af9ba1e0ec5491c492d3c410101.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10102",
+        "material_title": "190805c_02_s.jpg",
+        "material_file": "ff60020cc8a6165920b01621703ffe4fa56eacedddb7007fb574367c2659913110102.jpeg"
+      }
+    ],
+    "previous_id": "11856",
+    "next_id": "11834",
+    "saved_materials": [
+      "assets/11836_10100_190805c_03_s.jpg",
+      "assets/11836_10101_190805c_01_s.jpg",
+      "assets/11836_10102_190805c_02_s.jpg"
+    ]
+  }
+}

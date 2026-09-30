@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 37,
+    "content_id": "26997",
+    "content_title": "工藤の家の軒下#48～川名凜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-10-14 00:00:00",
+    "created_at": "2026-09-28 23:11:09",
+    "updated_at": "2026-09-28 23:11:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26997",
+    "content_title": "工藤の家の軒下#48～川名凜～",
+    "content_sub_title": "",
+    "release_date": "2025-10-14 00:00:00",
+    "created_at": "2026-09-28 23:11:09",
+    "updated_at": "2026-09-28 23:11:09",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第48回はゲストは、川名凜！\r\n\r\n・リリースイベント、秋ツアー\r\n・日本武道館公演\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・恐怖体験\r\n・質問BOX\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・昔ハマっていたこと\r\n・HELLO! IDOL CLASSIC\r\n・グッズが初めて作られた時の感情\r\n・アルバム曲\r\nについてトーク！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26958",
+    "next_id": "26996",
+    "saved_materials": []
+  }
+}

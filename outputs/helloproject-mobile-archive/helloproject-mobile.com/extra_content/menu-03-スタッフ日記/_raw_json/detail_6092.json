@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 623,
+    "content_id": "6092",
+    "content_title": "工藤の家の天井裏#26　～筋肉質～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-01-18 22:07:00",
+    "created_at": "2017-01-18 22:08:28",
+    "updated_at": "2017-01-18 22:10:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5394",
+        "material_title": "170117.JPG",
+        "material_file": "dce6e434d0a2bc29541996aa5943d64f38e214d4b0a4d3b4038da4da37d005825394.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6092",
+    "content_title": "工藤の家の天井裏#26　～筋肉質～",
+    "content_sub_title": "",
+    "release_date": "2017-01-18 22:07:00",
+    "created_at": "2017-01-18 22:08:28",
+    "updated_at": "2017-01-18 22:10:02",
+    "content_text": "やじまの部屋#26公開中！\nゲストは、モーニング娘。'17のサブリーダー、生田衣梨奈さんが登場！\n\n楽曲を聴くうえで詩と曲どちらを重視するか、それぞれのリーダーサブリーダー論等など…\n運動会DVDマガジンの撮影秘話も話しています！\n\n運動神経がよく筋肉質という共通点のある2人！\n番組内で腕相撲対決を行う事に！\n勝敗の行方は…？\n\n気になる方は放送をお聴き下さい！\n\n170117.JPG\n\nハロプロ大喜利のお題は\n「やじまの部屋の家賃はお金じゃない。では何？」\n沢山のお答えありがとうございます！\n\n次回お題は\n「朝起きたら矢島舞美になっていた。第一声は？」\n\nお題も随時募集中！！\nどしどしお送り下さい！！\n\n次回ゲストは、Juice=Juice最後の1人！\n高木紗友希さんが出演です！\nぜひお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5394",
+        "material_title": "170117.JPG",
+        "material_file": "58825209cefce4d9fc7516889b2fee863e60dcd7533fafad4ee33b4ed41d25015394.jpeg"
+      }
+    ],
+    "previous_id": "6093",
+    "next_id": "6064",
+    "saved_materials": [
+      "assets/6092_5394_170117.JPG"
+    ]
+  }
+}

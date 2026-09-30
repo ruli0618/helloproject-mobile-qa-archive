@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 399,
+    "content_id": "17557",
+    "content_title": "雪",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-02-01 10:00:00",
+    "created_at": "2022-01-25 21:05:47",
+    "updated_at": "2022-01-25 21:05:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14655",
+        "material_title": "0201_matsunaga_s.jpg",
+        "material_file": "14f434e009379b1ec6feacbeb2b5901f98159a6952e981abe4497e203b29635914655.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17557",
+    "content_title": "雪",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-02-01 10:00:00",
+    "created_at": "2022-01-25 21:05:47",
+    "updated_at": "2022-01-25 21:05:47",
+    "content_text": "この前、雪が降りましたね！！\r\n私は雪が好きなので、超嬉しかったなあ〜寒かったけど！笑\r\n0201_matsunaga_s.jpg\r\n北海道行きたい！！！！！",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14655",
+        "material_title": "0201_matsunaga_s.jpg",
+        "material_file": "5c70e63612fd268b7c0fd37a5a104e947e61b3f62afc1aa93b152da2a5ff417914655.jpeg"
+      }
+    ],
+    "previous_id": "17592",
+    "next_id": "17532",
+    "saved_materials": [
+      "assets/17557_14655_0201_matsunaga_s.jpg"
+    ]
+  }
+}

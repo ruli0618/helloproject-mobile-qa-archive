@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 669,
+    "content_id": "10249",
+    "content_title": "のぼり",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-11-14 11:00:00",
+    "created_at": "2018-11-08 19:59:19",
+    "updated_at": "2018-11-08 19:59:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8881",
+        "material_title": "1114_miyazaki_s.jpg",
+        "material_file": "0d492124c4784fe6a8cc5b1149c1bd5089bec034fbd39e127e2ae346e49317638881.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10249",
+    "content_title": "のぼり",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-11-14 11:00:00",
+    "created_at": "2018-11-08 19:59:19",
+    "updated_at": "2018-11-08 19:59:19",
+    "content_text": "1114_miyazaki_s.jpg\r\n石川県のタワーレコード金沢フォーラス店さんに私ののぼりがあります！うれしい。",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8881",
+        "material_title": "1114_miyazaki_s.jpg",
+        "material_file": "7deeed4086d947d1f32d569bdd6274b76e10afd6fe53c417885f89bed8101f8a8881.jpeg"
+      }
+    ],
+    "previous_id": "10252",
+    "next_id": "10248",
+    "saved_materials": [
+      "assets/10249_8881_1114_miyazaki_s.jpg"
+    ]
+  }
+}

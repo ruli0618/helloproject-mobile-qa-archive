@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 619,
+    "content_id": "11390",
+    "content_title": "北海道で！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-05-27 10:00:00",
+    "created_at": "2019-05-22 14:54:48",
+    "updated_at": "2019-05-22 14:54:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9755",
+        "material_title": "0527_inaba_s.jpg",
+        "material_file": "7aa3b83146403ab9b3d07163214eeda135b876b0415d0e5f77984b3cd6149d4c9755.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11390",
+    "content_title": "北海道で！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-05-27 10:00:00",
+    "created_at": "2019-05-22 14:54:48",
+    "updated_at": "2019-05-22 14:54:48",
+    "content_text": "0527_inaba_s.jpg\r\n5月20日に北海道でのラジオ収録の合間に、お世話になっているスタッフさんとケーキを頂きました♡少しでも、大好きな地元である北海道で何かを食べられるのって本当に嬉しいんです！りんごとキャラメルのケーキ美味しかったなぁ♪",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9755",
+        "material_title": "0527_inaba_s.jpg",
+        "material_file": "9f0d3d3d8acb731101d8712e73b293b63b610d56414746861c4128319be2fa779755.jpeg"
+      }
+    ],
+    "previous_id": "11507",
+    "next_id": "11389",
+    "saved_materials": [
+      "assets/11390_9755_0527_inaba_s.jpg"
+    ]
+  }
+}

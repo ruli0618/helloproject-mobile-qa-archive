@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 619,
+    "content_id": "6194",
+    "content_title": "かるた！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-02-07 23:40:00",
+    "created_at": "2017-02-07 23:39:51",
+    "updated_at": "2017-02-07 23:40:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5517",
+        "material_title": "karuta_03.jpg",
+        "material_file": "d5057a82af06e44c14eece8dd7a4e70e3f2796ef3d2fad009e84a52ef3731fda5517.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5518",
+        "material_title": "karuta_02.jpg",
+        "material_file": "f9f70fd2dedbba0b6f73d567076551ba18c5314fa393a4cc79f1f6841ba4721b5518.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5519",
+        "material_title": "karuta_04.jpg",
+        "material_file": "c4768964ef018e507ad5f2f4954abeaa1c0a08c1d33ad62668ae84e07a9807a85519.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5520",
+        "material_title": "karuta_01.jpg",
+        "material_file": "51fa0e1c9d75cfa880ceca51dcdc26fd07dc24d2a60d182584d49cdd7b6431f35520.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6194",
+    "content_title": "かるた！",
+    "content_sub_title": "",
+    "release_date": "2017-02-07 23:40:00",
+    "created_at": "2017-02-07 23:39:51",
+    "updated_at": "2017-02-07 23:40:53",
+    "content_text": "こんばんは。\nハロ！モバスタッフ番号2番です。\n\n「ハロー！プロジェクト オリジナルかるた2017」受注締切りが迫ってきております！\n\n皆さん、もうチェックは済んでいますか？\n\nメンバーも、実際にかるたで遊んだ様子をブログ等に書いてくれています！\n\nkaruta_01.jpg\nkaruta_02.jpg\nkaruta_03.jpg\nkaruta_04.jpg\n\n受注締切は、2/9(木)23:59までですので、\nぜひお買い逃しなく！\n\n<a href=\"https://www.elineupmall.com/c189/c607/c608/e-lineupmall-2017\"><font color=\"#0000ff\"><u>ご注文はこちらから！</u></font></a>\n\n※期間限定商品のため受注期間を過ぎてしまいますとご購入頂くことができませんので、購入ご希望の方はお早めにご注文下さい。",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5517",
+        "material_title": "karuta_03.jpg",
+        "material_file": "ac2cec69d1a9e14fd27c710fa7c7643b0cdfcd36cdfbf426e0f357652d20db855517.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5518",
+        "material_title": "karuta_02.jpg",
+        "material_file": "4a66e218fb36735d57c9a44ce111b8c5ec03654de7af9d45a56f73d3debe688f5518.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5519",
+        "material_title": "karuta_04.jpg",
+        "material_file": "68e58411b80853b9d15a246214fb2408a9fdd7bfa5dc22b5205debe7df721a315519.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5520",
+        "material_title": "karuta_01.jpg",
+        "material_file": "924a26c99d5d314382cc88acdb8034d3a41274d21ceea3f90ab0999c57e954de5520.jpeg"
+      }
+    ],
+    "previous_id": "6198",
+    "next_id": "6139",
+    "saved_materials": [
+      "assets/6194_5517_karuta_03.jpg",
+      "assets/6194_5518_karuta_02.jpg",
+      "assets/6194_5519_karuta_04.jpg",
+      "assets/6194_5520_karuta_01.jpg"
+    ]
+  }
+}

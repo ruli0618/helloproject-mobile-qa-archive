@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 520,
+    "content_id": "8804",
+    "content_title": "工藤の家の屋根裏部屋#20～佐藤優樹～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-28 15:20:00",
+    "created_at": "2018-03-28 15:21:51",
+    "updated_at": "2018-03-28 15:24:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7722",
+        "material_title": "180328_s.jpg",
+        "material_file": "9f988b3a043a2506ff72b07b9fd332bdb14b7e2bf94f360e67a0493e841e3af47722.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8804",
+    "content_title": "工藤の家の屋根裏部屋#20～佐藤優樹～",
+    "content_sub_title": "",
+    "release_date": "2018-03-28 15:20:00",
+    "created_at": "2018-03-28 15:21:51",
+    "updated_at": "2018-03-28 15:24:09",
+    "content_text": "「ふくむらの部屋」20回目の配信開始しました！\r\n\r\n\r\n今回のゲストはモーニング娘。’18佐藤優樹さんが登場！！\r\n破茶滅茶な回かもしれませんが記念すべき20回目！！\r\n\r\n「まさかこんな形で20回目を迎えるとは思わなかった」という譜久村さん\r\n\r\nみなさん必聴ですよー！\r\n\r\n\r\n180328_s.jpg\r\n\r\n\r\n佐藤さんからはどんな話が飛び出すのか！予測不能です！\r\n\r\n全てが面白発言!?と思いきやスゴイことを考えているな～と思わず関心してしまう発言まで。\r\n\r\n楽曲のリズムに関する話を真面目にしていると思ったら\r\n携帯に音楽を入れる方法の話に？\r\n\r\nお二人の話はかなり脱線気味なので悪しからず。。\r\n\r\n\r\n\r\nそして！\r\n次回からは新コーナーを考えていきたいと思います。\r\n皆様からのたくさんの「新コーナー案」お待ちしております！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\r\n「普通のお便り」や「新コーナー案」も大・大・大募集中です！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7722",
+        "material_title": "180328_s.jpg",
+        "material_file": "aeaeceabae18414b7b6aafe6b4aa26faeed6534681b31308b32f1dd78d525ea67722.jpeg"
+      }
+    ],
+    "previous_id": "8805",
+    "next_id": "8802",
+    "saved_materials": [
+      "assets/8804_7722_180328_s.jpg"
+    ]
+  }
+}

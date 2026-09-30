@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 163,
+    "content_id": "24074",
+    "content_title": "みよちゃん家の縁側の猫#22 田代すみれ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-07 00:00:00",
+    "created_at": "2025-03-27 19:24:59",
+    "updated_at": "2025-03-27 19:24:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19741",
+        "material_title": "240314_01.jpg",
+        "material_file": "3925446df129ccc903d3be7a1af69a7a4cea6e4d38cfd41826ae73620a9f2ba519741.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19742",
+        "material_title": "240314_02.jpg",
+        "material_file": "f8d7898134a337419579772971229817ee2173687b7f3c9308ae6bc3a93e536319742.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24074",
+    "content_title": "みよちゃん家の縁側の猫#22 田代すみれ",
+    "content_sub_title": "",
+    "release_date": "2023-03-07 00:00:00",
+    "created_at": "2025-03-27 19:24:59",
+    "updated_at": "2025-03-27 19:24:59",
+    "content_text": "「みよちゃん家の縁側」#22配信中です！\r\n\r\n第22回ゲストは、OCHA NORMAの田代すみれさん！<img src=\"/emoji/emoji-images/f37d.gif\"/>\r\n\r\n240314_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①やぽしゅみ～\r\n②晴れ女\r\n③プラマイパラッパー\r\n④おやちゅみれ\r\n\r\n短い単語でも難しいパターンもあり、逆再生は奥が深いですね…(？)\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「後輩に振り回される平井先輩」、「チャラい田代先輩」の2本をお届けしました。\r\n\r\n\r\nその他、冬ハロー「TWO OF US」カバー楽曲をパフォーマンスした感想や楽屋の様子、スキンケア・メイク、平井さんからみた田代さんの絶賛ポイントなどなどたくさんのお便りを紹介しています！\r\n\r\n240314_02.jpg\r\n\r\nほぼ挨拶しかしたことがない！というお二人でしたが、このラジオを通して仲良くなっていただけたらスタッフも嬉しく思います<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、BEYOOOOONDS 江口紗耶さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19741",
+        "material_title": "240314_01.jpg",
+        "material_file": "273dc3c81acb9036b1b9fe98a8bb50070107d1264abd3ab5d6ecf7f62a51551019741.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19742",
+        "material_title": "240314_02.jpg",
+        "material_file": "d86d2e3b5b024bb5d2e3f8cb43eb1dce8ec208fd59de869138e3ccce5e63f83519742.jpeg"
+      }
+    ],
+    "previous_id": "24076",
+    "next_id": "21235",
+    "saved_materials": [
+      "assets/24074_19741_240314_01.jpg",
+      "assets/24074_19742_240314_02.jpg"
+    ]
+  }
+}

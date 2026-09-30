@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 381,
+    "content_id": "16232",
+    "content_title": "懐かしのヒマリか",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2021-07-12 10:00:00",
+    "created_at": "2021-06-21 17:26:08",
+    "updated_at": "2022-01-17 14:45:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13562",
+        "material_title": "210712_hirai_s.jpg",
+        "material_file": "08a3db677ef484fb93a5bbe607b34dd3b054ff80bd65a6a2aa51fa101713a69313562.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16232",
+    "content_title": "懐かしのヒマリか",
+    "content_sub_title": "平井美葉",
+    "release_date": "2021-07-12 10:00:00",
+    "created_at": "2021-06-21 17:26:08",
+    "updated_at": "2022-01-17 14:45:08",
+    "content_text": "210712_hirai_s.jpg\nあんた優勝だよ！！！\n\n【12周目お題：かわいい】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13562",
+        "material_title": "210712_hirai_s.jpg",
+        "material_file": "2fc6d0068bd77421831b152c9ca3041daf88a282b52da346e7d6082645df620213562.jpeg"
+      }
+    ],
+    "previous_id": "16233",
+    "next_id": "16231",
+    "saved_materials": [
+      "assets/16232_13562_210712_hirai_s.jpg"
+    ]
+  }
+}

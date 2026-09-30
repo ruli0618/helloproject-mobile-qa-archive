@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 383,
+    "content_id": "12473",
+    "content_title": "隣のやじまん家の塀の裏#59 川村文乃",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-06 19:38:00",
+    "created_at": "2019-11-06 19:34:18",
+    "updated_at": "2019-11-06 19:38:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10580",
+        "material_title": "191106_1.jpg",
+        "material_file": "87ab2dd0bbe400969466b2a6d364c8629e3fad6b24aba6c7d21baa5fbaa6fb6d10580.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10582",
+        "material_title": "191106_2.jpg",
+        "material_file": "398c05027221ea14dc5c594b94ed3a52355133f105f1a826e575fc992f770e5210582.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12473",
+    "content_title": "隣のやじまん家の塀の裏#59 川村文乃",
+    "content_sub_title": "",
+    "release_date": "2019-11-06 19:38:00",
+    "created_at": "2019-11-06 19:34:18",
+    "updated_at": "2019-11-06 19:38:58",
+    "content_text": "更新が遅れましたが、「隣のやじまん家」#59配信中です！\n\n今回のゲストはアンジュルム・ハロモバ宣伝部の川村文乃さんです！\n\n\nこの収録でトークテーマ「学校行事の思い出」が最後でした！\nみなさんの学校行事の思い出、たくさんお送りいただきありがとうございました。\n今回はイモ堀りや中間テスト、好きだった楽器についてお話ししています！\n\nお2人のブログへのこだわりや、川村さんがうなぎを捌いた時のお話、\n矢島さんはアンジュルム・川村文乃と書いて何と読む？？(笑)など興味深いトークをたっぷりお届けしています♪\n\n191106_1.jpg\n\n「矢島パイセンの○○チェック」では、\n川村さんが味覚音痴とのタレコミをいただきました！！\n実は、矢島パイセンも味覚音痴だそうで…(笑)\nお2人の少し変わった食べ方、みなさん的にはアリでしょうか…？\n感想は ＃隣のやじまん家 をつけてSNSに投稿してくださいね♪\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①ウソはどれだ？3択エピソードクイズ！\n②山手線ゲーム！！\n\n今回はシンプルに山手線ゲームをやってみました<img src=\"/emoji/emoji-images/473e.gif\"/>\nお題は「魚の名前」と「動物の名前」です。\nゆるゆるっと対決しましたので、優しい気持ちで聴いていただけたらと思います(笑)\nいつもたくさんのメールありがとうございます<img src=\"/emoji/emoji-images/4f34.gif\"/>\n\n191106_2.jpg\n\n11月テーマトークのお題は\n「過去にやってしまった失敗談」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は11月12日(火)、ゲストはつばきファクトリーの新沼希空さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10580",
+        "material_title": "191106_1.jpg",
+        "material_file": "96fffbd04546f29912bb43ce020e94f84c82afbdf406e6412dcd95fce3df730010580.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10582",
+        "material_title": "191106_2.jpg",
+        "material_file": "4bbf1c8a4b3a5c5e39c6d9c9237e05e20935fc3bb406c16be7205f07fb19c7dd10582.jpeg"
+      }
+    ],
+    "previous_id": "12525",
+    "next_id": "12472",
+    "saved_materials": [
+      "assets/12473_10580_191106_1.jpg",
+      "assets/12473_10582_191106_2.jpg"
+    ]
+  }
+}

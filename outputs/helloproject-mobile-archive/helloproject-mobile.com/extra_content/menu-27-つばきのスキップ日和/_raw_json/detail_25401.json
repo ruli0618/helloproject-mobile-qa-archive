@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 52,
+    "content_id": "25401",
+    "content_title": "うれぴよ！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2026-01-09 10:00:00",
+    "created_at": "2025-12-01 10:54:55",
+    "updated_at": "2025-12-01 10:54:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20750",
+        "material_title": "0109_fukuda_s.jpg",
+        "material_file": "a7c241e17f69a749b6e73c91193b12637436eb0c33ca98239dbc61ae8a83f79720750.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25401",
+    "content_title": "うれぴよ！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2026-01-09 10:00:00",
+    "created_at": "2025-12-01 10:54:55",
+    "updated_at": "2025-12-01 10:54:55",
+    "content_text": "0109_fukuda_s.jpg\r\n先日久しぶりにライブで\r\nポニーテールしたの！！！\r\n\r\n\r\nファンの皆さんがたくさん\r\n似合ってるよ<img src=\"/emoji/emoji-images/f3a1.gif\"/>と温かい言葉をくださって、スキップしたくなるくらいうれぴよでしたぁ！\r\n\r\nまた気が向いたらポニーテールしたいとおもいます！！<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20750",
+        "material_title": "0109_fukuda_s.jpg",
+        "material_file": "99d7536222fc96847bfa5f20ae990b3c5cd90d2b3a4d7fb30794b33867770db720750.jpeg"
+      }
+    ],
+    "previous_id": "25402",
+    "next_id": "25400",
+    "saved_materials": [
+      "assets/25401_20750_0109_fukuda_s.jpg"
+    ]
+  }
+}

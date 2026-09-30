@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 374,
+    "content_id": "12731",
+    "content_title": "宣伝会議 議事録#44",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-12-18 19:40:00",
+    "created_at": "2019-12-18 19:40:24",
+    "updated_at": "2019-12-18 19:43:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10781",
+        "material_title": "191218_01_s.jpg",
+        "material_file": "b0e94c544dec0b85ac15f14135335a81239d8d0a01b379ef948b305e55a1fdd510781.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10782",
+        "material_title": "191218_03_s.jpg",
+        "material_file": "dd3ea1383c36bdf758f2ca82ea43f5111665cbcc9bbbbd62c9433727e7556d1810782.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10783",
+        "material_title": "191218_04_s.jpg",
+        "material_file": "6a28c088609d33f0b7db7031d870f501504e9e071dba5d4362d45258d20e1dc710783.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10784",
+        "material_title": "191218_02_s.jpg",
+        "material_file": "55cb4e959f059aa85faf4cc8dfb4037ff4994d96d5627005249bc86b96c3057410784.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12731",
+    "content_title": "宣伝会議 議事録#44",
+    "content_sub_title": "",
+    "release_date": "2019-12-18 19:40:00",
+    "created_at": "2019-12-18 19:40:24",
+    "updated_at": "2019-12-18 19:43:31",
+    "content_text": "ハロ！モバ宣伝会議44回目！\n\n今回も前田警備兼書記が欠席のため\n野中部長、小片副部長、川村広報の3人での会議です！\n\n191218_01_s.jpg\n\n今回は皆さんへの感謝の気持ち、\nこれからもどしどしお便りを送って頂きたい気持ちを込めて、いつも以上に、沢山のメールを読みました！\n\nお悩みも、部員ならではの観点から\nサクサク解決させていただきました！\n\nですが、お悩み相談が少ない…\nという部員の嘆きの声も<img src=\"/emoji/emoji-images/f9ab.gif\"/>\n\nどんなに小さなお悩みでも構いませんので、\n皆さんのお便り、お待ちしています♪\n\n191218_02_s.jpg\n\n「ふくむらの部屋」「隣のやじまん家」では、\nもうすっかりおなじみ！\nハロ！モバラジオ連動企画「質問BOX」！\n↓こちらの質問に答えました！\n\n191218_03_s.jpg\n\n新しく質問も考えているので、\n他のラジオも要チェックお願いします<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\nそして戸締まりの様子を撮影した映像が、ハロー！ムービー「妄想動画」にて公開中！\nそちらも要チェックです♪\n\n今回は前田書記に代わり、\n小片副部長が議事録を制作！\n\n191218_04_s.jpg\n\n「励ましのメール」「お悩み相談メール」お待ちしています！\n\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※お悩み相談は「お悩み相談」と記入してください。\n\n次回は残念ながら川村広報がお休み<img src=\"/emoji/emoji-images/f7ce.gif\"/>\n前田警備兼書記が帰ってきて、野中部長、小片副部長と3人でお送りします<img src=\"/emoji/emoji-images/f65a.gif\"/>\n\nお楽しみに♪",
+    "materials": [
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10781",
+        "material_title": "191218_01_s.jpg",
+        "material_file": "71820e3cd48773ef907af860f0a061fee290cd4848f82acb05cce870a989c46310781.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10782",
+        "material_title": "191218_03_s.jpg",
+        "material_file": "4cb7d613971d7572b194af06b722f2fb45f3100ed0fbcc4a1aede1cea430584910782.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10783",
+        "material_title": "191218_04_s.jpg",
+        "material_file": "3fb2a3af8d2baf534c658c70e9600d1190e9143cf4a5814219c591e0d1c93f9110783.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10784",
+        "material_title": "191218_02_s.jpg",
+        "material_file": "694accd7deb16c28f666b7152de5413bae8760c8676ec941a80508bb8b61b51010784.jpeg"
+      }
+    ],
+    "previous_id": "12815",
+    "next_id": "12663",
+    "saved_materials": [
+      "assets/12731_10781_191218_01_s.jpg",
+      "assets/12731_10782_191218_03_s.jpg",
+      "assets/12731_10783_191218_04_s.jpg",
+      "assets/12731_10784_191218_02_s.jpg"
+    ]
+  }
+}

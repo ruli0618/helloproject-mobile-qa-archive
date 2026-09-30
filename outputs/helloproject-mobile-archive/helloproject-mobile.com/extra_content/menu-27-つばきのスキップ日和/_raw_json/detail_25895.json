@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 37,
+    "content_id": "25895",
+    "content_title": "バンドライブ！！",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2026-04-24 10:00:00",
+    "created_at": "2026-03-13 23:53:02",
+    "updated_at": "2026-03-13 23:53:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21218",
+        "material_title": "0424_doi_s.jpg",
+        "material_file": "c69bf20b8b656239616e05c62be56f7dbb0db2cca4ca6c79e711000a4542ca7c21218.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25895",
+    "content_title": "バンドライブ！！",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2026-04-24 10:00:00",
+    "created_at": "2026-03-13 23:53:02",
+    "updated_at": "2026-03-13 23:53:02",
+    "content_text": "0424_doi_s.jpg\r\nリコピンパワー！！\r\n\r\nつばきファクトリーの土居楓奏（どいふうか）です！<img src=\"/emoji/emoji-images/f37b.gif\"/><img src=\"/emoji/emoji-images/f38f.gif\"/>\r\n\r\n3月4日に\r\n\r\n『つばきファクトリー BAND LIVE 2026 SPRING 「IGNITION」』\r\n\r\nが開催されました〜\r\n\r\nつばきファクトリーとしては、5度目のバンドライブ！！！\r\n\r\n色んな一面のつばきファクトリーや、季節によって違う雰囲気を感じることが出来る、バンドライブでした。\r\n\r\n公演中もすごく楽しくて、心の中でわくわくとドキドキが止まらなかったです！！\r\n\r\nわくわくやドキドキを感じて、私は幸せ者だなと心から感じることが出来ました。\r\n\r\n小野瑞歩さんがMCで\r\nバンドツアーがしたいとおっしゃっていて、 \r\n\r\n私たちも、またバンドライブをしたいですし、バンドツアーの夢も叶えられるように、これからも頑張りたいなと思いました！！！\r\n\r\nバンドライブ最高でした！！\r\n\r\nほなまたー！\r\n\r\n土居楓奏でした！！",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21218",
+        "material_title": "0424_doi_s.jpg",
+        "material_file": "97aff930f0ef68ec551593b1d8a714113e35ae6269605f57becbfc3075625da221218.jpeg"
+      }
+    ],
+    "previous_id": "25896",
+    "next_id": "25894",
+    "saved_materials": [
+      "assets/25895_21218_0424_doi_s.jpg"
+    ]
+  }
+}

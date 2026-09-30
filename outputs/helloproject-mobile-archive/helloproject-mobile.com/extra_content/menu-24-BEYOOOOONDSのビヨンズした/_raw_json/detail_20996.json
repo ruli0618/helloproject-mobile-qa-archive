@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 225,
+    "content_id": "20996",
+    "content_title": "聞いてたんと違う",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2023-11-13 10:00:00",
+    "created_at": "2023-10-10 23:30:14",
+    "updated_at": "2023-10-10 23:30:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17282",
+        "material_title": "1113_hirai_s.jpg",
+        "material_file": "be1a3da5850ae8940bf49004e15bfc2489f3cab8d08d8ef4ba0139306fba2ba817282.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20996",
+    "content_title": "聞いてたんと違う",
+    "content_sub_title": "平井美葉",
+    "release_date": "2023-11-13 10:00:00",
+    "created_at": "2023-10-10 23:30:14",
+    "updated_at": "2023-10-10 23:30:14",
+    "content_text": "1113_hirai_s.jpg\r\nこのアトラクションでは濡れないと聞いていたのに、いざ乗ってみたら3人してびしょ濡れ！笑\r\nたくさん笑って良い思い出です(о´∀`о)♡\r\n\r\n【29周目お題：面白い 】",
+    "materials": [
+      {
+        "secretKey": "4f33116813b24bdb1df518f3397096cf",
+        "material_id": "17282",
+        "material_title": "1113_hirai_s.jpg",
+        "material_file": "a4bd9ed88dd51f827a9984c9aca82c4787d59c7e1973b648c54391a9e979fd4317282.jpeg"
+      }
+    ],
+    "previous_id": "20997",
+    "next_id": "20995",
+    "saved_materials": [
+      "assets/20996_17282_1113_hirai_s.jpg"
+    ]
+  }
+}

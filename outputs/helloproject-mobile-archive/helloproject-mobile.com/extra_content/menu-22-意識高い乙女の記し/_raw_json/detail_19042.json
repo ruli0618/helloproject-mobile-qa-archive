@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 29,
+    "content_id": "19042",
+    "content_title": "オトナカワイイ",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2022-11-11 10:00:00",
+    "created_at": "2022-10-27 17:45:59",
+    "updated_at": "2022-10-27 17:45:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15846",
+        "material_title": "1111_onoda_s.jpg",
+        "material_file": "609907c1571d4a6035df133e1562aa134b0a604d6c0bf1b6561a6db163cd15c515846.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19042",
+    "content_title": "オトナカワイイ",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2022-11-11 10:00:00",
+    "created_at": "2022-10-27 17:45:59",
+    "updated_at": "2022-10-27 17:45:59",
+    "content_text": "最近寒くなってきて衣替えをした、さおりです♪\r\n\r\nさおりの20歳の目標は、オトナカワイイなんですよー！！\r\n\r\nなので、それを意識してライブなどなどするのですが、\r\n\r\n最近は、オトナ要素が多かったのかなあーと思ったので！\r\n\r\nライブでは、ツインテールにリボンをつけて、かわいさ要素を出してみています！！\r\n\r\nこれからも全力オトナカワイイを意識して活動していきたいと思います！\r\n\r\nがんばるぞー！\r\n\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n1111_onoda_s.jpg\r\n\r\nバイバイ♡\r\n",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15846",
+        "material_title": "1111_onoda_s.jpg",
+        "material_file": "072aef4eb3d1bdd9a1fdf2e78efc66e567383958dc35836876d3b6e46e125eef15846.jpeg"
+      }
+    ],
+    "previous_id": "19043",
+    "next_id": "19041",
+    "saved_materials": [
+      "assets/19042_15846_1111_onoda_s.jpg"
+    ]
+  }
+}

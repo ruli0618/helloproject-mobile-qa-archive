@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 182,
+    "content_id": "22231",
+    "content_title": "虚無",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2024-06-05 10:00:00",
+    "created_at": "2024-05-16 15:22:12",
+    "updated_at": "2024-05-16 15:22:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18207",
+        "material_title": "0605_hirai_.jpg",
+        "material_file": "ebaa5c33b6dc290d3efced0731a3888290a4caf0da7aa01936718880736af52818207.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22231",
+    "content_title": "虚無",
+    "content_sub_title": "平井美葉",
+    "release_date": "2024-06-05 10:00:00",
+    "created_at": "2024-05-16 15:22:12",
+    "updated_at": "2024-05-16 15:22:12",
+    "content_text": "0605_hirai_.jpg\r\n撮影中、りかに撮られてたみたいです笑\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18207",
+        "material_title": "0605_hirai_.jpg",
+        "material_file": "c3ec71d94e402fa1921aabcc1afb9ebf5bdee085ec262c87701fed695bb2108218207.jpeg"
+      }
+    ],
+    "previous_id": "22232",
+    "next_id": "22230",
+    "saved_materials": [
+      "assets/22231_18207_0605_hirai_.jpg"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 326,
+    "content_id": "14367",
+    "content_title": "宣伝会議 議事録#53",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-08-28 22:40:00",
+    "created_at": "2020-08-19 22:17:44",
+    "updated_at": "2020-08-28 23:00:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11951",
+        "material_title": "20200819_01_s.jpg",
+        "material_file": "441ba427b6b6874a43ae67279eab210153a414e229cb44ea693848f74f6889ac11951.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11952",
+        "material_title": "20200819_03_s.jpg",
+        "material_file": "ede461cc6f160dcec64bc0830ee60dcdcfa3d13d9d81fee4ad2b87855461082c11952.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11953",
+        "material_title": "20200819_02_s.jpg",
+        "material_file": "806f97aa7071eb65eca55963ec4c1c86cfd071fc0b66029c303eaa7c0520327211953.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11954",
+        "material_title": "20200819_s.jpg",
+        "material_file": "3366885485fb735734709109e58eaee3ec67af1dd111ca9e5549b2aecd5d2a7811954.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14367",
+    "content_title": "宣伝会議 議事録#53",
+    "content_sub_title": "",
+    "release_date": "2020-08-28 22:40:00",
+    "created_at": "2020-08-19 22:17:44",
+    "updated_at": "2020-08-28 23:00:30",
+    "content_text": "宣伝会議ラジオ第53回は、久しぶりに会議室に戻ってきました！\n\n小片リサ副部長、川村文乃広報の2人でお送りしております。\n\n20200819_01_s.jpg\nハロコンの楽曲について、\nオンラインイベントで思ったこと、\nマネージャーになるなら…？\nサブリーダー事情などなど沢山話されました。\n\n20200819_02_s.jpg\nカレーや浴衣、夏バテ対策、遠征時の荷物も！\n\n20200819_03_s.jpg\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「ハロプロ用語」\n\nハロー！プロジェクトならではのワードが盛り沢山！\n\n↓議事録はこちら！\n\n20200819_s.jpg\n川村文乃広報が、今回特別に書記兼警備を担当！\n(洋服の柄まで再現してくれています。)\n\n※今回換気のため窓を開けて収録しているので、外で車が走る音等の環境音が聞こえる事があります。ご了承ください。\n\n「励ましのメール」「ハロー！ペディア」メールを大募集！\n次回「ハロー！ペディア」のお題は、\n「<b>名台詞・決め台詞</b>」です！\n\nメールはこちらまで。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11951",
+        "material_title": "20200819_01_s.jpg",
+        "material_file": "e0d0fbadf37340e573927827220a4f281fe9fd7acaeedf587ededa5ca3ced08211951.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11952",
+        "material_title": "20200819_03_s.jpg",
+        "material_file": "8317ef7ced85e614fe09722924f3079e0ecb60f42555264d97f1facf7afda27d11952.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11953",
+        "material_title": "20200819_02_s.jpg",
+        "material_file": "825a51d6000ef765fe33c346b71d67b864588c6363e498e32b7e50aaf67dc30311953.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11954",
+        "material_title": "20200819_s.jpg",
+        "material_file": "3b909030555f7712dfd883cb9a149c97c4580531847eed293bd484c9905791f311954.jpeg"
+      }
+    ],
+    "previous_id": "14444",
+    "next_id": "14406",
+    "saved_materials": [
+      "assets/14367_11951_20200819_01_s.jpg",
+      "assets/14367_11952_20200819_03_s.jpg",
+      "assets/14367_11953_20200819_02_s.jpg",
+      "assets/14367_11954_20200819_s.jpg"
+    ]
+  }
+}

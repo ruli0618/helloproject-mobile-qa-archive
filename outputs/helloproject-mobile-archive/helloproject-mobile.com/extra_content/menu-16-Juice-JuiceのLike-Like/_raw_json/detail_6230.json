@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 820,
+    "content_id": "6230",
+    "content_title": "いなにわ／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-02-23 21:40:00",
+    "created_at": "2017-02-23 21:40:49",
+    "updated_at": "2017-02-23 21:42:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5547",
+        "material_title": "5683673574138_s.jpg",
+        "material_file": "ae176c1c1a2620bcbf5a33582ae163ad30ee601411c1c991069e1f31ae31831d5547.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6230",
+    "content_title": "いなにわ／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-02-23 21:40:00",
+    "created_at": "2017-02-23 21:40:49",
+    "updated_at": "2017-02-23 21:42:18",
+    "content_text": "5683673574138_s.jpg\r\n秋田で食べた稲庭うどん。最高でした！！生麺はもちもちしてました<img src=\"/emoji/emoji-images/f7f4.gif\"/><img src=\"/emoji/emoji-images/f7f4.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "64a2006aa24ad0a56239eb29cde82457",
+        "material_id": "5547",
+        "material_title": "5683673574138_s.jpg",
+        "material_file": "11268bef9c5643a972a671d67c9e282e583039314fb679772a24cd406454794b5547.jpeg"
+      }
+    ],
+    "previous_id": "6293",
+    "next_id": "6226",
+    "saved_materials": [
+      "assets/6230_5547_5683673574138_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 287,
+    "content_id": "15968",
+    "content_title": "工藤の家の屋根裏部屋#86～橋迫鈴～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-05-11 18:45:00",
+    "created_at": "2021-05-11 19:29:54",
+    "updated_at": "2021-05-11 19:32:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13311",
+        "material_title": "210511_s.jpg",
+        "material_file": "0d10fa13e56ffdb4a885aa97ac6ddf7b8c18f834592a80b18e4fb1d6a7c76d9813311.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15968",
+    "content_title": "工藤の家の屋根裏部屋#86～橋迫鈴～",
+    "content_sub_title": "",
+    "release_date": "2021-05-11 18:45:00",
+    "created_at": "2021-05-11 19:29:54",
+    "updated_at": "2021-05-11 19:32:04",
+    "content_text": "隔週火曜日に更新している「ふくむらの部屋」ですが、今回はゴールデンウィークの前に先出し公開させていただきました！\r\n皆さん、連休中にお聴き頂けましたか？\r\n\r\nゲストは、アンジュルム橋迫鈴さんが初出演！\r\n\r\n質問コーナーでは、\r\n5番目に好きな食べ物、\r\n好きな遊具を回答。\r\n\r\nお二人の共通点でもある特殊なペットのお話から、\r\n楽屋で流行っていること、\r\nハロコンでの新しい発見、\r\n大人っぽくなった橋迫さんについてトーク！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n理想のアイドル像、初めての後輩、研修生同期等について語ってくれました！\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\n服装にまつわる失敗が多く届きました！\r\nビデオのお話では、譜久村さんから「偉い」の声があがりました。\r\n\r\n歯並びがきれいな理由、\r\n好きなサンリオキャラクター、\r\n普段の睡眠時間も要チェック！\r\n\r\n昨今度々目撃されている、橋迫さんがライブ終わりにシャンプーをする件についても詳しくお話聞かせてくれました。\r\n\r\n210511_s.jpg\r\n\r\n次回は、モーニング娘。'21牧野真莉愛さんが登場！\r\nお楽しみに！\r\n\r\n「ふくむらの部屋」では、メールを募集しています。\r\n件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>までお送りください♬\r\n\r\nコーナー：\r\n①「みずき先生のハロプロ講座」\r\nハロー！プロジェクトのこんなところを語ってほしい！\r\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\r\n皆さまからお寄せいただいたテーマで譜久村とゲストが熱く語り合います。\r\n\r\n②「ハロプロファン失敗談」\r\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\r\nハロプロファンなら共感出来る\"あるある話\"や、\r\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\r\nMC譜久村聖とゲストが慰めます！\r\n",
+    "materials": [
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13311",
+        "material_title": "210511_s.jpg",
+        "material_file": "d10864c16141e5771cbe337b7ce8c88a977fb93e7db252f4edb74627e3f5c75613311.jpeg"
+      }
+    ],
+    "previous_id": "16132",
+    "next_id": "15958",
+    "saved_materials": [
+      "assets/15968_13311_210511_s.jpg"
+    ]
+  }
+}

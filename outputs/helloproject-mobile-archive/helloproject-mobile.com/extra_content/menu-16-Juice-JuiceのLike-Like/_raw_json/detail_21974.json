@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 181,
+    "content_id": "21974",
+    "content_title": "本家",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2024-03-28 10:00:00",
+    "created_at": "2024-03-28 11:53:51",
+    "updated_at": "2024-03-28 11:53:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "18033",
+        "material_title": "0328_inoue_s.jpg",
+        "material_file": "6b836fe83892a86ce5676ae475d3209f61375b48390a2c9fdb3dcc59bc644fbd18033.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21974",
+    "content_title": "本家",
+    "content_sub_title": "井上玲音",
+    "release_date": "2024-03-28 10:00:00",
+    "created_at": "2024-03-28 11:53:51",
+    "updated_at": "2024-03-28 11:53:51",
+    "content_text": "0328_inoue_s.jpg\r\n最近甥っ子姪っ子のJuice=Juice曲レパートリーが増えすぎてて、おばさん感動です！\r\n本家負けてられないですわ！",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18033",
+        "material_title": "0328_inoue_s.jpg",
+        "material_file": "fe0c34c4a6066be3b9038cd0eba5c4096adcd667a2973dc492d931e48ee1496518033.jpeg"
+      }
+    ],
+    "previous_id": "21977",
+    "next_id": "21926",
+    "saved_materials": [
+      "assets/21974_18033_0328_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 187,
+    "content_id": "20215",
+    "content_title": "みよちゃん家の縁側の猫#14 秋山眞緒",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-11-08 00:00:00",
+    "created_at": "2023-05-16 19:03:37",
+    "updated_at": "2023-05-16 19:09:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16699",
+        "material_title": "230516_01.jpg",
+        "material_file": "37f901180f193a105a618bc5bfd24c239de1c58432a81e0e94804f54e869ab7516699.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16700",
+        "material_title": "230516_02.jpg",
+        "material_file": "0e2b05908a13395d4e3f5b631b337d6033bc89f95e856b3a717058e0e2f577de16700.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20215",
+    "content_title": "みよちゃん家の縁側の猫#14 秋山眞緒",
+    "content_sub_title": "",
+    "release_date": "2022-11-08 00:00:00",
+    "created_at": "2023-05-16 19:03:37",
+    "updated_at": "2023-05-16 19:09:31",
+    "content_text": "「みよちゃん家の縁側」#14配信中です！\n\n第14回ゲストは、前回の加賀さんに引き続きダンス学園メンバーのつばきファクトリー秋山眞緒さん！\n\n230516_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①まおぴん\n②キュンとするセリフ\n③好きなダンスの種類\n④一生推し変したらアカンで？\n\n\n「演技してみよ～！」のコーナーでは、\n「関西弁教室」、「就職活動中の姉と応援する妹」の2本をお届けしました。\n\n\n2グループの振り入れの違いやお互いのダンスで取り入れたいこと\n秋山さんの愛され力についても平井さんが語ってくれました♪\nダンス学園トークも今回もたっぷりありますので是非お聴きください！\n\n230516_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第15回ゲストは、Juice=Juice井上玲音さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16699",
+        "material_title": "230516_01.jpg",
+        "material_file": "cea0af9c0399caeb0e0b3a559651b7e6a9fb918cdcc151b51f40af145c4ee10e16699.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16700",
+        "material_title": "230516_02.jpg",
+        "material_file": "863d1c29ccc5fc3784af334f8018e113794a9bc1b53a27260a3f7f34bdfd05c916700.jpeg"
+      }
+    ],
+    "previous_id": "21226",
+    "next_id": "19768",
+    "saved_materials": [
+      "assets/20215_16699_230516_01.jpg",
+      "assets/20215_16700_230516_02.jpg"
+    ]
+  }
+}

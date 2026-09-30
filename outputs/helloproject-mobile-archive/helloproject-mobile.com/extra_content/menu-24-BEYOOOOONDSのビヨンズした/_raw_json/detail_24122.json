@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 107,
+    "content_id": "24122",
+    "content_title": "ストリートピアノ",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-05-12 10:00:00",
+    "created_at": "2025-04-09 21:56:22",
+    "updated_at": "2025-04-09 21:59:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19763",
+        "material_title": "0512_kobayashi_s.jpg",
+        "material_file": "0a398ea3926eca22113ea404d49b0995fcf508a39a47cc220a0d9c986ffd91e619763.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24122",
+    "content_title": "ストリートピアノ",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-05-12 10:00:00",
+    "created_at": "2025-04-09 21:56:22",
+    "updated_at": "2025-04-09 21:59:07",
+    "content_text": "0512_kobayashi_s.jpg\n浜松駅に行ったら、ピアノが弾けなくともストリートピアノを弾いてみるのをオススメします！！たのしいよ！\n\n【42周目お題：オススメ！】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "19763",
+        "material_title": "0512_kobayashi_s.jpg",
+        "material_file": "e42721bb537354808390eb006b0c7375c0d8fb25716147876248315e3d83d88219763.jpeg"
+      }
+    ],
+    "previous_id": "24123",
+    "next_id": "24121",
+    "saved_materials": [
+      "assets/24122_19763_0512_kobayashi_s.jpg"
+    ]
+  }
+}

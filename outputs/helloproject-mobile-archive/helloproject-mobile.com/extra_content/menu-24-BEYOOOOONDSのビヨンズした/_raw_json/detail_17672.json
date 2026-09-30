@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 338,
+    "content_id": "17672",
+    "content_title": "舌がかわいいんだ…",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2022-02-28 10:00:00",
+    "created_at": "2022-02-17 22:15:00",
+    "updated_at": "2022-02-17 22:16:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14743",
+        "material_title": "03_satoyoshi_s.jpg",
+        "material_file": "403a497224ab78fbdc84e7fd8666c2d9a67647f9087a8388f9f63e9fd9f20a9d14743.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17672",
+    "content_title": "舌がかわいいんだ…",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2022-02-28 10:00:00",
+    "created_at": "2022-02-17 22:15:00",
+    "updated_at": "2022-02-17 22:16:55",
+    "content_text": "03_satoyoshi_s.jpg\nおもちくんがたまに見せてくれるこの小さい舌！！\nすっごく可愛くて愛おしくていつも癒されています！♡\n\n【17周目お題：癒やし】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14743",
+        "material_title": "03_satoyoshi_s.jpg",
+        "material_file": "2d34e052b78ec4a1a0859966e7254088ae7119bc86e11d73289935108948141014743.jpeg"
+      }
+    ],
+    "previous_id": "17673",
+    "next_id": "17671",
+    "saved_materials": [
+      "assets/17672_14743_03_satoyoshi_s.jpg"
+    ]
+  }
+}

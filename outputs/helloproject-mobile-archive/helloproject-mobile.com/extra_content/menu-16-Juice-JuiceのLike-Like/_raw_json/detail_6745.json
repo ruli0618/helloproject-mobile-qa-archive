@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 808,
+    "content_id": "6745",
+    "content_title": "オリジナル／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-05-26 18:05:00",
+    "created_at": "2017-05-26 18:06:07",
+    "updated_at": "2017-05-26 18:06:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5941",
+        "material_title": "6114243149353_s.jpg",
+        "material_file": "dbaa1b5d8e3f3271602236f714246cd5baae50c35a23ded51b92005b71ef6fd95941.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6745",
+    "content_title": "オリジナル／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-05-26 18:05:00",
+    "created_at": "2017-05-26 18:06:07",
+    "updated_at": "2017-05-26 18:06:07",
+    "content_text": "6114243149353_s.jpg\r\n量産型エンジェりん",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5941",
+        "material_title": "6114243149353_s.jpg",
+        "material_file": "c5d253591b8709440b8d5bbc70a1de7c5109c8a017744b7bedd71f106c8f44dd5941.jpeg"
+      }
+    ],
+    "previous_id": "6754",
+    "next_id": "6702",
+    "saved_materials": [
+      "assets/6745_5941_6114243149353_s.jpg"
+    ]
+  }
+}

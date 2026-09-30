@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 249,
+    "content_id": "17434",
+    "content_title": "宣伝会議#68",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 23:11:00",
+    "created_at": "2021-12-31 23:18:35",
+    "updated_at": "2021-12-31 23:31:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14565",
+        "material_title": "221231_s68_01_s.jpg",
+        "material_file": "020ace0b501a1a2f2f5a3e13beb6fefe494f709fcf281b29e99fb7840c8e61bf14565.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14564",
+        "material_title": "221231_s68_02_s.jpg",
+        "material_file": "29cffc47b0e20f88a2a5d3895265c3c778eb99a968779b6d4903578a9bcaadce14564.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14566",
+        "material_title": "221231_s68_03_s.jpg",
+        "material_file": "f2298e02e951d45f4d048f0a5c1f17138927fa35eb2037bde368eadea6fc23de14566.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17434",
+    "content_title": "宣伝会議#68",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 23:11:00",
+    "created_at": "2021-12-31 23:18:35",
+    "updated_at": "2021-12-31 23:31:32",
+    "content_text": "宣伝会議第68回は、野中美希部長、前田こころ書記兼警備兼広報の二人でお届け！\r\n\r\nラジオ連動の質問企画では、\r\n・ステージ上での失敗談\r\n・好きな動物\r\nという質問に回答！\r\n\r\n山﨑愛生さんからの「好きな動物」という質問には、こう答えるしかありませんね。\r\n\r\n221231_s68_01_s.jpg\r\n\r\n忘れっぽいエピソード、\r\nメンバーの好きな字、\r\nハロウィンの仮装、\r\n新メンバーのブログ、\r\nバースデーイベントで披露したオリジナルソング、\r\n手作りロック画面、\r\nについてトーク！\r\n\r\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「川名凜」さんについて紹介！\r\n有名なカエル好きエピソードから知られざるお話まで、聞きどころ満載です！\r\n\r\nその他、ソロフェス！2ご褒美特番の裏話、\r\nビニール傘のこだわり、\r\nポジティブを保つ方法、\r\n好きなドラマ、\r\n舞台袖の様子、\r\n川村さん・前田さんが二人でお出かけした時のお話も！\r\n\r\nこの収録をきっかけに、野中さんと前田さんもお二人でお出かけする約束をしていました。\r\n\r\n221231_s68_02_s.jpg\r\n\r\n↓議事録はこちら！\r\n221231_s68_03_s.jpg\r\n\r\nぜひ、お聴き下さい♬",
+    "materials": [
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14565",
+        "material_title": "221231_s68_01_s.jpg",
+        "material_file": "f21a9c2ef2dcb3417cd2a5071c5af93f3872c68535604fc284bc7bdc8c789f3314565.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14564",
+        "material_title": "221231_s68_02_s.jpg",
+        "material_file": "94e9f78732127c8f03a348097261afe2650c7779d0b5798f6bf152f24c06997d14564.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14566",
+        "material_title": "221231_s68_03_s.jpg",
+        "material_file": "b3044e05a2332666e79dfd25409dc000523aa2e37d2f332356c4c79227efb02a14566.jpeg"
+      }
+    ],
+    "previous_id": "17435",
+    "next_id": "17433",
+    "saved_materials": [
+      "assets/17434_14565_221231_s68_01_s.jpg",
+      "assets/17434_14564_221231_s68_02_s.jpg",
+      "assets/17434_14566_221231_s68_03_s.jpg"
+    ]
+  }
+}

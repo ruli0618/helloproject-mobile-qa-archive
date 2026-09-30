@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 232,
+    "content_id": "17828",
+    "content_title": "SATOYAMA & SATOUMI",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-23 21:41:00",
+    "created_at": "2022-03-23 21:41:23",
+    "updated_at": "2022-03-23 21:42:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14910",
+        "material_title": "2019-02.jpg",
+        "material_file": "0ae99412844209704941d00eccfef1897fff6b9be864db992d0f912042b0eb3814910.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14911",
+        "material_title": "2019-01.jpg",
+        "material_file": "7fb544637d583c959d5ac0d5cad89fee17494eec59338c3592edb261ebf709bf14911.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17828",
+    "content_title": "SATOYAMA & SATOUMI",
+    "content_sub_title": "",
+    "release_date": "2022-03-23 21:41:00",
+    "created_at": "2022-03-23 21:41:23",
+    "updated_at": "2022-03-23 21:42:42",
+    "content_text": "4月2日(土)・4月3日(日)に、千葉県 幕張メッセ 国際展示場3ホールにて、「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう2022」が開催されます。\n\n本日、当日引換券 販売のお知らせが発表されました！\n\n<a href=\"http://www.helloproject.com/news/14275/\" target=\"_blank\">▶お知らせはこちら</a>\n<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">▶公式サイトはこちら</a>\n\n今年は残念ながらハロ！モバブースの出展はありませんが、ぜひチェックしてみてください！\n\n↓の写真は、2019年3月のSATOYAMA & SATOUMIイベントで出展した際のハロ！モバブースの様子です。\n\n2019-01.jpg\n\n2019-02.jpg",
+    "materials": [
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14910",
+        "material_title": "2019-02.jpg",
+        "material_file": "93f22ed1eabda62c58f39c35969165095fcb9b18c76fee77861d2f2eee88200914910.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14911",
+        "material_title": "2019-01.jpg",
+        "material_file": "72d86bdfd20362c96cbb83bc6db99287f331f9a548e7cbe44f958e555cb5afbe14911.jpeg"
+      }
+    ],
+    "previous_id": "17832",
+    "next_id": "17817",
+    "saved_materials": [
+      "assets/17828_14910_2019-02.jpg",
+      "assets/17828_14911_2019-01.jpg"
+    ]
+  }
+}

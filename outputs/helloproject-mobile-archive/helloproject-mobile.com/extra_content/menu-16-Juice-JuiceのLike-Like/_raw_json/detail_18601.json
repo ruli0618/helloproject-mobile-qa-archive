@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 346,
+    "content_id": "18601",
+    "content_title": "今日",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-08-09 10:00:00",
+    "created_at": "2022-08-01 16:40:15",
+    "updated_at": "2022-08-01 16:40:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15496",
+        "material_title": "0809_arisawa_s.jpg",
+        "material_file": "b3c280030348970d7351e5450bb8c9c617e1763dc96aa28dc864051bfe2d19d215496.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18601",
+    "content_title": "今日",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-08-09 10:00:00",
+    "created_at": "2022-08-01 16:40:15",
+    "updated_at": "2022-08-01 16:40:15",
+    "content_text": "0809_arisawa_s.jpg\r\n\r\n有澤一華です!\r\n\r\n今日、駅のホームで座っていたら蜂が肩に止まって、びっくりしてうろちょろしてしまいました笑\r\n\r\n\r\n周りに2、3人しかいなかったので、良かったですが、、へへ\r\n\r\n実は、虫全般いけるのに「蜂とムカデ」だけ怖いんですよ。。\r\n\r\n克服したいですね！！",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15496",
+        "material_title": "0809_arisawa_s.jpg",
+        "material_file": "decea5c8b89a6bbcf8d435194ab08eead0516a3de9657578e86f3c7b144dd3d215496.jpeg"
+      }
+    ],
+    "previous_id": "18602",
+    "next_id": "18587",
+    "saved_materials": [
+      "assets/18601_15496_0809_arisawa_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 22,
+    "content_id": "27007",
+    "content_title": "工藤の家の軒下#58～伊勢鈴蘭～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-03-10 00:00:00",
+    "created_at": "2026-09-28 23:41:23",
+    "updated_at": "2026-09-28 23:41:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22084",
+        "material_title": "260310_058.jpg",
+        "material_file": "404aedf34fbfb4f3062f8fdc18dea4e5534dc7fd2cbb90b413f90667f62577e522084.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27007",
+    "content_title": "工藤の家の軒下#58～伊勢鈴蘭～",
+    "content_sub_title": "",
+    "release_date": "2026-03-10 00:00:00",
+    "created_at": "2026-09-28 23:41:23",
+    "updated_at": "2026-09-28 23:41:23",
+    "content_text": "260310_058.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第58回はゲストは、伊勢鈴蘭！\r\n\r\n・ハロコンひな壇\r\n・ソロフェス裏話\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・質問BOX\r\n・お気に入りのお菓子\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・サブスクプレイリスト\r\n・ステージ上で客観的に自分を見る\r\n・カメラをまわしながら掃除すること\r\n・段原瑠々の好きなところ\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22084",
+        "material_title": "260310_058.jpg",
+        "material_file": "3817aca5561293e6d0972942859aae2f49ce236a1716f901dd66dc8d086d981b22084.jpeg"
+      }
+    ],
+    "previous_id": "27008",
+    "next_id": "26962",
+    "saved_materials": [
+      "assets/27007_22084_260310_058.jpg"
+    ]
+  }
+}

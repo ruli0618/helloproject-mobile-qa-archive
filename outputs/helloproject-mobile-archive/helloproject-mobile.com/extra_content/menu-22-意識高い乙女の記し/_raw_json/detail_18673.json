@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 40,
+    "content_id": "18673",
+    "content_title": "じゃがバター",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-08-19 12:48:00",
+    "created_at": "2022-08-19 12:48:51",
+    "updated_at": "2022-08-19 12:49:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15553",
+        "material_title": "0819_yofu_s.jpg",
+        "material_file": "4cae9e34af0e38e20e75af9c661da132a9f1a5842a9dc7bdc9a054208e46722215553.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18673",
+    "content_title": "じゃがバター",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-08-19 12:48:00",
+    "created_at": "2022-08-19 12:48:51",
+    "updated_at": "2022-08-19 12:49:07",
+    "content_text": "0819_yofu_s.jpg\r\nじゃがバターをつくりました╰(＊´︶`＊)╯\r\nキッチンペーパーのかわりにさくらんぼのペーパーにしました\r\n\r\nさくらんぼ可愛くないですカ\r\n\r\nさくらんぼ<img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/><img src=\"/emoji/emoji-images/f6ab.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15553",
+        "material_title": "0819_yofu_s.jpg",
+        "material_file": "58250ae3674344dbf7b3b8fff654ca98319dc470e5209b62395991e65682716015553.jpeg"
+      }
+    ],
+    "previous_id": "18715",
+    "next_id": "18596",
+    "saved_materials": [
+      "assets/18673_15553_0819_yofu_s.jpg"
+    ]
+  }
+}

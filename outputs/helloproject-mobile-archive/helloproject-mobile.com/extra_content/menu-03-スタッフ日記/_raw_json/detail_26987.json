@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 51,
+    "content_id": "26987",
+    "content_title": "工藤の家の軒下#38～松永里愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-05-27 00:00:00",
+    "created_at": "2026-09-28 22:59:25",
+    "updated_at": "2026-09-28 22:59:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22073",
+        "material_title": "250603_038.jpg",
+        "material_file": "bf16850f51bbb4674aed53b6084baa60ee3af611a9a928fa244ee7e912cfa65822073.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26987",
+    "content_title": "工藤の家の軒下#38～松永里愛～",
+    "content_sub_title": "",
+    "release_date": "2025-05-27 00:00:00",
+    "created_at": "2026-09-28 22:59:25",
+    "updated_at": "2026-09-28 22:59:25",
+    "content_text": "250603_038.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第38回はゲストは、松永里愛！\r\n\r\n・メンバーカラー発表\r\n・2パターンの公演の違い\r\n・三姉妹あるある\r\n・野外パフォーマンス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・お互いのグループでの好きな曲\r\n・歌い方のニュアンス\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・春ツアー\r\n・ターニングポイント\r\n・音圧\r\n・ハモリ、フェイク\r\n・段原瑠々の魅力\r\n・お互いのグループに入っていたら？\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22073",
+        "material_title": "250603_038.jpg",
+        "material_file": "ee7c1ad07f135bc23525e9bb28f289b23c915306d1b23b45a4e9342a839131a422073.jpeg"
+      }
+    ],
+    "previous_id": "26988",
+    "next_id": "26953",
+    "saved_materials": [
+      "assets/26987_22073_250603_038.jpg"
+    ]
+  }
+}

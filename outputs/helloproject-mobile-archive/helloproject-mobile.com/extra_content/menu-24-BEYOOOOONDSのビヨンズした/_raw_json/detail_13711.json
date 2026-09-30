@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 469,
+    "content_id": "13711",
+    "content_title": "デコポン",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2020-05-25 10:00:00",
+    "created_at": "2020-04-27 17:42:35",
+    "updated_at": "2020-06-08 19:50:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11466",
+        "material_title": "0525_kiyono_s.jpg",
+        "material_file": "e905e49301bbd62a8a00f2f62339d5150307057ff1bcaa6360da6671dcbb04d111466.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13711",
+    "content_title": "デコポン",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2020-05-25 10:00:00",
+    "created_at": "2020-04-27 17:42:35",
+    "updated_at": "2020-06-08 19:50:54",
+    "content_text": "0525_kiyono_s.jpg\n私は、デコポンのような存在になりたい。\n\n【2周目お題：最近の美味しかったもの】",
+    "materials": [
+      {
+        "secretKey": "f2592cebaad5f780695cc19702f35053",
+        "material_id": "11466",
+        "material_title": "0525_kiyono_s.jpg",
+        "material_file": "ab5461bc64edbfab06a234caf24dcaaf579cd227db61742c0261c0e57b3828a911466.jpeg"
+      }
+    ],
+    "previous_id": "13712",
+    "next_id": "13710",
+    "saved_materials": [
+      "assets/13711_11466_0525_kiyono_s.jpg"
+    ]
+  }
+}

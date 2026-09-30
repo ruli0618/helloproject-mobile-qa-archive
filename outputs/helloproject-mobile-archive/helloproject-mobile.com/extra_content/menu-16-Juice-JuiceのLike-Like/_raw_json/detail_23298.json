@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 118,
+    "content_id": "23298",
+    "content_title": "ジャケット",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2024-11-19 18:35:00",
+    "created_at": "2024-11-19 18:37:06",
+    "updated_at": "2024-11-19 18:37:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19096",
+        "material_title": "1119_endo_s.jpg",
+        "material_file": "74bea06500264b9e2961722b34390096165b78e361b5255528840febd3b152a519096.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23298",
+    "content_title": "ジャケット",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2024-11-19 18:35:00",
+    "created_at": "2024-11-19 18:37:06",
+    "updated_at": "2024-11-19 18:37:06",
+    "content_text": "1119_endo_s.jpg\r\n遠藤彩加里です♪\r\nこの時着ていたジャケットが名古屋のハロショで展示されています！\r\n背中の刺繍がホントに綺麗で繊細なんです！！！\r\n着た時テンション上がりました♪",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19096",
+        "material_title": "1119_endo_s.jpg",
+        "material_file": "443d0aa1f6bb1c29c76e05d95a1191f3a87bdea2751de980fdbcc5bfecdfcbeb19096.jpeg"
+      }
+    ],
+    "previous_id": "23299",
+    "next_id": "23284",
+    "saved_materials": [
+      "assets/23298_19096_1119_endo_s.jpg"
+    ]
+  }
+}

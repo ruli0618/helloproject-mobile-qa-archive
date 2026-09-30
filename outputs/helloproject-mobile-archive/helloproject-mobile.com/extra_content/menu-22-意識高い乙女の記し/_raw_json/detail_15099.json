@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 147,
+    "content_id": "15099",
+    "content_title": "アート",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2020-12-08 12:24:00",
+    "created_at": "2020-12-08 12:28:12",
+    "updated_at": "2020-12-08 12:28:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12569",
+        "material_title": "1208_tanimoto_s.jpg",
+        "material_file": "3ecc2bf1c020e9d8c7284f0e4be9aac8b69d692b09b55813ddaac9da495806ac12569.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15099",
+    "content_title": "アート",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-12-08 12:24:00",
+    "created_at": "2020-12-08 12:28:12",
+    "updated_at": "2020-12-08 12:28:12",
+    "content_text": "1208_tanimoto_s.jpg\r\nおねーちゃんと一緒に\r\n『STARS展』行ってきたよ！\r\nどの作品も素敵すぎました！<img src=\"/emoji/emoji-images/f399.gif\"/>\r\n❤︎ami❤",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12569",
+        "material_title": "1208_tanimoto_s.jpg",
+        "material_file": "e48acd52b917aa9ae0cf4e8c56225d6cd5a145c5ff3abb256932c2ee6e13e2b412569.jpeg"
+      }
+    ],
+    "previous_id": "15231",
+    "next_id": "15039",
+    "saved_materials": [
+      "assets/15099_12569_1208_tanimoto_s.jpg"
+    ]
+  }
+}

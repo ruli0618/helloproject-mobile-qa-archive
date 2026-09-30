@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 128,
+    "content_id": "20816",
+    "content_title": "yummy！！",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2023-09-05 10:00:00",
+    "created_at": "2023-09-04 21:50:19",
+    "updated_at": "2023-09-04 21:50:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17146",
+        "material_title": "0905_yofu_s.jpg",
+        "material_file": "16dbe7ea0e95cd2156880ddc6f359612ae2e8c65cb689e04cca18de1cc0552fe17146.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20816",
+    "content_title": "yummy！！",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2023-09-05 10:00:00",
+    "created_at": "2023-09-04 21:50:19",
+    "updated_at": "2023-09-04 21:50:19",
+    "content_text": "0905_yofu_s.jpg\r\nにゃんさんと、おのさんと、一緒にお祭り行った時に食べたかき氷*\\(^o^)/*\r\n\r\nめっちゃ美味しくて\r\n氷がミルクで\r\nサイコーでした",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17146",
+        "material_title": "0905_yofu_s.jpg",
+        "material_file": "85fdb068182fbcbbe74a09ceae295d342ad7baebdf5dff8afe5a69ff59dc680317146.jpeg"
+      }
+    ],
+    "previous_id": "20817",
+    "next_id": "20762",
+    "saved_materials": [
+      "assets/20816_17146_0905_yofu_s.jpg"
+    ]
+  }
+}

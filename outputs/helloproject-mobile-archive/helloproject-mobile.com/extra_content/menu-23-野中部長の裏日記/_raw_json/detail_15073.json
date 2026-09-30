@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "15073",
+    "content_title": "12月",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2020-12-04 18:07:00",
+    "created_at": "2020-12-04 18:08:13",
+    "updated_at": "2020-12-04 18:08:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "12544",
+        "material_title": "1204_nonakaura_02_s.jpg",
+        "material_file": "1628467b6a80ddfe00f5febf7686544fa078a1f26bbb6075505b7ecea981176f12544.jpeg"
+      },
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "12545",
+        "material_title": "1204_nonakaura_01_s.jpg",
+        "material_file": "893e968988c9e9e0b30bc055c0de684b0ccb90a19612061271bc84ebb82c0e7c12545.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "15073",
+    "content_title": "12月",
+    "content_sub_title": "",
+    "release_date": "2020-12-04 18:07:00",
+    "created_at": "2020-12-04 18:08:13",
+    "updated_at": "2020-12-04 18:08:13",
+    "content_text": "12月になりました！\r\nちぇる部長です<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n寒いですが、みなさん風邪は引いていないですか？大丈夫ですか？気をつけておすごしくださいね<img src=\"/emoji/emoji-images/f662.gif\"/>\r\n\r\n裏日記を更新するのは久しぶりですが、、ずっと下書きしては消し、、下書きしては消し、、書いては消してを繰り返していました<img src=\"/emoji/emoji-images/503d.gif\"/>\r\n\r\n自分の今年の中身の変化を書きたかったのですが、あまりまとまらなくて。。<img src=\"/emoji/emoji-images/f46d.gif\"/>\r\nでも、今年、前以上に自分自身が穏やかになったなぁと感じます<img src=\"/emoji/emoji-images/4f4e.gif\"/>周りの環境やみなさんのおかげで良い変化ができたのではないかな、と思うので…、今これを読んでくれているあなたに感謝の気持ちを伝えたいです<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nそして、穏やかになったのは、我が家の新しい家族、とうふちゃんの影響もあるのかもしれません<img src=\"/emoji/emoji-images/4772.gif\"/>本当にとうふには助けられています、、眠れない夜も、一緒にずっと起きていてくれる、そんな優しい子なんです<img src=\"/emoji/emoji-images/f46d.gif\"/>\r\n\r\n12月になり、1年を総括する時期になってきたので、最近はこんなことをよく考えています…！今年はイレギュラーな年になりましたが、みなさんは何か変化、ありましたか？\r\n\r\n記事にはコメントできないので、もしよかったらブログのコメントなりなんなりで、教えてくださいね<img src=\"/emoji/emoji-images/f3a1.gif\"/>みなさんとのコミュニケーションもだいじにしていきたいな<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n昨日の日本武道館公演にて、オフショットをたーくさん撮っていただいたので裏日記にお裾分けしておきたいと思います<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n\r\n1204_nonakaura_01_s.jpg\r\n\r\n1204_nonakaura_02_s.jpg\r\n\r\nそれでは〜！また近々更新しますね！",
+    "materials": [
+      {
+        "secretKey": "675b02898768bb9fa4be1d9bba29e4ed",
+        "material_id": "12544",
+        "material_title": "1204_nonakaura_02_s.jpg",
+        "material_file": "56aea9daa5701ec5f57fd5d0c5ab3d067987cb3d6592191f3303ad8b8b88b10c12544.jpeg"
+      },
+      {
+        "secretKey": "675b02898768bb9fa4be1d9bba29e4ed",
+        "material_id": "12545",
+        "material_title": "1204_nonakaura_01_s.jpg",
+        "material_file": "eff353bc7f06898cb162d6abde291fec933c4f62220a514daf507e16c22b593112545.jpeg"
+      }
+    ],
+    "previous_id": "15254",
+    "next_id": "14670",
+    "saved_materials": [
+      "assets/15073_12544_1204_nonakaura_02_s.jpg",
+      "assets/15073_12545_1204_nonakaura_01_s.jpg"
+    ]
+  }
+}

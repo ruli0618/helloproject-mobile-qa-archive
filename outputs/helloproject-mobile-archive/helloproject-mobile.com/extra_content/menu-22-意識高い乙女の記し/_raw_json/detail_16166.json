@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 116,
+    "content_id": "16166",
+    "content_title": "可愛いで気分あげてる",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-06-03 18:50:00",
+    "created_at": "2021-06-03 18:50:33",
+    "updated_at": "2021-06-03 18:50:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13484",
+        "material_title": "210603_ono_s.jpg",
+        "material_file": "9a6ba0332adaafe376a1aef8afacd8aa0d1ab1715f066edb704fe336728f7c9113484.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16166",
+    "content_title": "可愛いで気分あげてる",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-06-03 18:50:00",
+    "created_at": "2021-06-03 18:50:33",
+    "updated_at": "2021-06-03 18:50:33",
+    "content_text": "210603_ono_s.jpg\r\nもう使ってます〜！\r\n今年も日傘！\r\n\r\nこの子は去年からの相棒です。\r\nフリル×ピンクが可愛くて\r\n気分も上がるの〜！♡\r\n\r\n雨降るかもしれない時用と使い分けてるんだけど\r\nそっちも可愛いです！\r\n\r\n機会があったらみせます笑\r\n\r\n気分大事だよねぇ<img src=\"/emoji/emoji-images/4f4f.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13484",
+        "material_title": "210603_ono_s.jpg",
+        "material_file": "3fe9629aa67944845eb7c093c8dce71f84a3dba92cd368082854ff56b6c8a6df13484.jpeg"
+      }
+    ],
+    "previous_id": "16176",
+    "next_id": "16135",
+    "saved_materials": [
+      "assets/16166_13484_210603_ono_s.jpg"
+    ]
+  }
+}

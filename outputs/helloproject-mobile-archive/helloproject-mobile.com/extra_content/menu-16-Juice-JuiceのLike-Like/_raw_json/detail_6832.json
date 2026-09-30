@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 805,
+    "content_id": "6832",
+    "content_title": "やはり／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-06-13 19:02:00",
+    "created_at": "2017-06-13 19:03:03",
+    "updated_at": "2017-06-13 19:03:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6025",
+        "material_title": "6114245473605_s.jpg",
+        "material_file": "76fe6399c5b7c4fca213a6a0462fb2d10f9e9c150ad2ebedb85cfbad07efd61a6025.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6832",
+    "content_title": "やはり／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-06-13 19:02:00",
+    "created_at": "2017-06-13 19:03:03",
+    "updated_at": "2017-06-13 19:03:03",
+    "content_text": "6114245473605_s.jpg\r\n綺麗なツツジ",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "6025",
+        "material_title": "6114245473605_s.jpg",
+        "material_file": "f1faaade97d7eda48b123712a131ea44a6ad9fdbd828625a926ab43d18f5d7a26025.jpeg"
+      }
+    ],
+    "previous_id": "6858",
+    "next_id": "6804",
+    "saved_materials": [
+      "assets/6832_6025_6114245473605_s.jpg"
+    ]
+  }
+}

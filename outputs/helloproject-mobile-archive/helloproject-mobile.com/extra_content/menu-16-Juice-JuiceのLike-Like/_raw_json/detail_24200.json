@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 86,
+    "content_id": "24200",
+    "content_title": "ドキドキの1枚",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-04-22 20:50:00",
+    "created_at": "2025-04-22 20:52:04",
+    "updated_at": "2025-04-22 20:52:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19831",
+        "material_title": "0422_kudou_s.jpg",
+        "material_file": "7904b5fa574cb1b2cb31839ca0f075bb934e59cc68dc26870ed5ae6a196ced2b19831.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24200",
+    "content_title": "ドキドキの1枚",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-04-22 20:50:00",
+    "created_at": "2025-04-22 20:52:04",
+    "updated_at": "2025-04-22 20:52:04",
+    "content_text": "0422_kudou_s.jpg\r\n春ツアー初日の本番円陣前です！！<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n春ツアーもよろしくお願いします！",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19831",
+        "material_title": "0422_kudou_s.jpg",
+        "material_file": "bb0c43255b747fb222cca46d42e64f96291f08d66dfa9c318616fe3fb33e297419831.jpeg"
+      }
+    ],
+    "previous_id": "24213",
+    "next_id": "24160",
+    "saved_materials": [
+      "assets/24200_19831_0422_kudou_s.jpg"
+    ]
+  }
+}

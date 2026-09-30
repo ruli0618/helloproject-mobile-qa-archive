@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 65,
+    "content_id": "10848",
+    "content_title": "からふる♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2019-02-13 10:00:00",
+    "created_at": "2019-02-12 11:47:12",
+    "updated_at": "2019-02-12 11:47:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9319",
+        "material_title": "0213_onoda_s.jpg",
+        "material_file": "beb001c7be28d70c606d711a87e98de2494e5f58cff438f622f27f44f1d6f7fc9319.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10848",
+    "content_title": "からふる♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2019-02-13 10:00:00",
+    "created_at": "2019-02-12 11:47:12",
+    "updated_at": "2019-02-12 11:47:12",
+    "content_text": "最近、すぐ眠くなってしまうさおりです♪\r\n\r\nんちゃ！\r\n\r\n\r\nこの間、カラフルなお花をみつけたんです！！！\r\n\r\nついつい写真を撮っちゃいました♪\r\n\r\n0213_onoda_s.jpg\r\n\r\nこの時期に黄色いお花をみると、夏を思い出します、！\r\n\r\nってことでーーー\r\n\r\nお花をみつけたら、写真に撮ってみては♪\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9319",
+        "material_title": "0213_onoda_s.jpg",
+        "material_file": "44ebbaaee86d0865d4812986986365513a2e741cc4a412852d9cdb47f1aad8169319.jpeg"
+      }
+    ],
+    "previous_id": "10857",
+    "next_id": "10829",
+    "saved_materials": [
+      "assets/10848_9319_0213_onoda_s.jpg"
+    ]
+  }
+}

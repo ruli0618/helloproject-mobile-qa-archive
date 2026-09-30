@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 116,
+    "content_id": "8801",
+    "content_title": "さとやま！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-03-26 18:36:00",
+    "created_at": "2018-03-26 18:37:20",
+    "updated_at": "2018-03-26 18:37:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7718",
+        "material_title": "0326_ono_s.jpg",
+        "material_file": "807a1d66c0c6c0871b9bd9a47da8e94db8242db90180e820e98da1cca3a94de57718.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8801",
+    "content_title": "さとやま！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-03-26 18:36:00",
+    "created_at": "2018-03-26 18:37:20",
+    "updated_at": "2018-03-26 18:37:20",
+    "content_text": "先日、山岸理子ちゃん岸本ゆめのちゃん小野田紗栞ちゃんと大阪にある泉佐野丘陵緑地に行ってきました！\r\n\r\n3月31日、4月1日に行われる「遊ぶ。暮らす。育てる。SATOYAMA&SATOUMIへ行こう2018」に関することをしてきたよ！\r\n\r\nたっくさんお花咲いてた〜<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\nそのなかのひとつ！\r\n\r\n0326_ono_s.jpg\r\n\r\nみんなイベント来てね〜！！\r\n\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7718",
+        "material_title": "0326_ono_s.jpg",
+        "material_file": "3483272c6a7104531787973cd5ff7b2445ce272af6440b7650d9b58b698756cf7718.jpeg"
+      }
+    ],
+    "previous_id": "8806",
+    "next_id": "8753",
+    "saved_materials": [
+      "assets/8801_7718_0326_ono_s.jpg"
+    ]
+  }
+}

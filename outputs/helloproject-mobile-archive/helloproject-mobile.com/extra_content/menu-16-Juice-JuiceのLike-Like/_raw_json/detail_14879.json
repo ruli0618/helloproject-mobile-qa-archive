@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 505,
+    "content_id": "14879",
+    "content_title": "料理！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-11-26 10:00:00",
+    "created_at": "2020-11-16 16:16:00",
+    "updated_at": "2020-11-16 16:16:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12397",
+        "material_title": "1126_inaba_s.jpg",
+        "material_file": "970fcb0984d7cdf3106e19d2d5e988ddbbfc4042cebc6a3a39cfe8282b60f64312397.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14879",
+    "content_title": "料理！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-11-26 10:00:00",
+    "created_at": "2020-11-16 16:16:00",
+    "updated_at": "2020-11-16 16:16:00",
+    "content_text": "1126_inaba_s.jpg\r\nこの間作った、サラダと2種類のハンバーグ。\r\nどうしてもハンバーグが食べたくなって作りました〜♪最近自炊をサボり気味なので珍しい写真です！笑\r\n玉ねぎをみじん切りにして調味料と合わせたハンバーグソースの味付けが上手くいってご飯が進みました〜！\r\nまた何か作ったらお話しますね♡",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12397",
+        "material_title": "1126_inaba_s.jpg",
+        "material_file": "ebace3a0d2b234b62b639033e900088b2dbf8a6048a2e5a211d4832020811eae12397.jpeg"
+      }
+    ],
+    "previous_id": "14992",
+    "next_id": "14878",
+    "saved_materials": [
+      "assets/14879_12397_1126_inaba_s.jpg"
+    ]
+  }
+}

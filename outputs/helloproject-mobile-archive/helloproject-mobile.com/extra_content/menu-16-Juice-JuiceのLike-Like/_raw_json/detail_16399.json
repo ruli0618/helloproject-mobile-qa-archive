@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 449,
+    "content_id": "16399",
+    "content_title": "Tシャツ",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-07-27 10:00:00",
+    "created_at": "2021-07-16 22:07:42",
+    "updated_at": "2021-07-16 22:07:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13677",
+        "material_title": "210727_inoue_s.jpg",
+        "material_file": "db7265d4ae8820e5fc4f2fdb2c6adb032b0ff7d032a5aa1b12ebeb06faf450b613677.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16399",
+    "content_title": "Tシャツ",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-07-27 10:00:00",
+    "created_at": "2021-07-16 22:07:42",
+    "updated_at": "2021-07-16 22:07:42",
+    "content_text": "210727_inoue_s.jpg\r\n\r\n夏はTシャツを集めてしまうんですけど、キリがないよね！！\r\n今度自分でプリントしてアイロンで貼るやつやってみたいなぁ\r\nぜひ調べてみてね〜",
+    "materials": [
+      {
+        "secretKey": "ef280e548a1849486df7990d214b1ec1",
+        "material_id": "13677",
+        "material_title": "210727_inoue_s.jpg",
+        "material_file": "e7ce8e74c0122d84c07beeb6b3b494f39bbcfd78c43933d43b09ebd4dbf4823f13677.jpeg"
+      }
+    ],
+    "previous_id": "16400",
+    "next_id": "16398",
+    "saved_materials": [
+      "assets/16399_13677_210727_inoue_s.jpg"
+    ]
+  }
+}

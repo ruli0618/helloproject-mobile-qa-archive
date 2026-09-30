@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 711,
+    "content_id": "3205",
+    "content_title": "PRISMスタート！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-26 23:59:00",
+    "created_at": "2015-09-27 00:48:14",
+    "updated_at": "2015-09-27 01:23:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3015",
+        "material_title": "image3.jpg",
+        "material_file": "3a4d0f61a47aad823daa47d909bd31951759c63076f151c2b7e24f24eed8d35f3015.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3016",
+        "material_title": "image2.jpg",
+        "material_file": "ff3c445b13a89efcf6037cea6969fb8f420e0ec1a1f025fe0ac7a4d49e1aedf73016.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3205",
+    "content_title": "PRISMスタート！",
+    "content_sub_title": "",
+    "release_date": "2015-09-26 23:59:00",
+    "created_at": "2015-09-27 00:48:14",
+    "updated_at": "2015-09-27 01:23:13",
+    "content_text": "皆さん、ご機嫌いかがですか？\n\nモーニング娘。'15は現在、先週19日から始まった秋ツアー真っ最中です。\nスタッフ日記もこれからどんどん更新していきたいと思います！\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nお待たせしました！初日は座間！\n大事な思い出のある会場での\nさくらコールに嬉しそうな小田。\n悔いの残らぬよう！\nラストの武道館まで全国駆け抜けます！\n\n\nimage2.jpg\n\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n雲一つない快晴となった埼玉公演！\nド緊張でそわそわしまくってたのが\n嘘のようにステージでは\nはじけた姿を見せていました。写真は\nルンルン気分の工藤とキメてる鞘師、\nカメラにこっそり忍び寄ってきた羽賀。\n\n\nimage3.jpg\n\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n続いては生田の地元・福岡！そして、\nくまもんの地元・熊本！盛り上がりましょう！！",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3015",
+        "material_title": "image3.jpg",
+        "material_file": "8e57ed3b29a56a48a4526007765d714794c5764da1b1842c817f7d0be26ffb4d3015.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3016",
+        "material_title": "image2.jpg",
+        "material_file": "b8c0b17c5466b1e564793764db1fed2d0e0fdb2909c84c72fdc3a5e11324ddd83016.jpeg"
+      }
+    ],
+    "previous_id": "3222",
+    "next_id": "3159",
+    "saved_materials": [
+      "assets/3205_3015_image3.jpg",
+      "assets/3205_3016_image2.jpg"
+    ]
+  }
+}

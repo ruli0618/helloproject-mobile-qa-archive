@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 495,
+    "content_id": "9494",
+    "content_title": "隣のやじまん家の塀の裏#26 熊井友理奈",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-07-10 19:10:00",
+    "created_at": "2018-07-10 19:08:47",
+    "updated_at": "2018-07-10 19:10:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8330",
+        "material_title": "180710_s.jpg",
+        "material_file": "82780ba165fe831f57fc12029e2056058ed5c6b9ebc80fbdb8b0bed61531f1a68330.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9494",
+    "content_title": "隣のやじまん家の塀の裏#26 熊井友理奈",
+    "content_sub_title": "",
+    "release_date": "2018-07-10 19:10:00",
+    "created_at": "2018-07-10 19:08:47",
+    "updated_at": "2018-07-10 19:10:28",
+    "content_text": "隣のやじまん家#26 本日配信されました～。\nもうお聴きになって頂けましたか？\n\nゲストは、とってもレアなこの方が出演してくれました！\n\n180710_s.jpg\n\n矢島さんと共にとっても汗っかきで天然(!?)な、熊井友理奈さん！\n\nこの2人は、7/22(日)名古屋・日本特殊陶業市民会館で開催される夏のハロー！プロジェクトのコンサート「Hello! Project 20th Anniversary!! Hello! Project 2018 SUMMER ～ONE FOR ALL～」で共にゲストOGとしてステージに立つお2人でもありますね♪\n\nお互いの意外な第一印象や、\nキッズ時代に中澤さんに怒られたエピソード、\n流行っていた事等など…\n懐かしい話で盛り上がりました。\n\n矢島さんが熊井さんを見る目が\"恋する乙女\"になっていた真相も…！？\n\n「目指せアクトレス矢島」のコーナーでは、方言や「やじずきんちゃん」にもチャレンジ☆\n\n沢山のメール、ありがとうございました！\n\n次回は、モーニング娘。'18から加賀様(加賀楓さん)が登場！\n7/11(水)13時まで、メール受付中です♪\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、7月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案もお送り下さい。\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8330",
+        "material_title": "180710_s.jpg",
+        "material_file": "bfeca57e7bfe02400bea378abd87c8c2baff5fc0b22f3e62ae31ca3f0eb3f8368330.jpeg"
+      }
+    ],
+    "previous_id": "9496",
+    "next_id": "9489",
+    "saved_materials": [
+      "assets/9494_8330_180710_s.jpg"
+    ]
+  }
+}

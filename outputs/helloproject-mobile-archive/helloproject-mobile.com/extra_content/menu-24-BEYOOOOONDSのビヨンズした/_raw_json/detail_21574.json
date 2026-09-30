@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 209,
+    "content_id": "21574",
+    "content_title": "イケメンですか？",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2024-02-05 10:00:00",
+    "created_at": "2024-01-16 18:14:29",
+    "updated_at": "2024-01-16 18:14:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17720",
+        "material_title": "0205_okamura_s.jpg",
+        "material_file": "3292ee88d6519ed365495aba8e33137f8d38e85069643dbf0a1e5785b832940a17720.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21574",
+    "content_title": "イケメンですか？",
+    "content_sub_title": "岡村美波",
+    "release_date": "2024-02-05 10:00:00",
+    "created_at": "2024-01-16 18:14:29",
+    "updated_at": "2024-01-16 18:14:29",
+    "content_text": "0205_okamura_s.jpg\r\nイケメンに憧れるお年頃です…笑\r\n\r\n【31周目お題：キメキメショット】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17720",
+        "material_title": "0205_okamura_s.jpg",
+        "material_file": "8e4b587d273980026dfa96fef5ce02f63a8718e721310b7a67523981ec49b5ac17720.jpeg"
+      }
+    ],
+    "previous_id": "21575",
+    "next_id": "21572",
+    "saved_materials": [
+      "assets/21574_17720_0205_okamura_s.jpg"
+    ]
+  }
+}

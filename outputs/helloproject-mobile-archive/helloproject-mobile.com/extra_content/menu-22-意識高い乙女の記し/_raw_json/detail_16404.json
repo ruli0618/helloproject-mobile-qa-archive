@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 108,
+    "content_id": "16404",
+    "content_title": "お花",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-07-19 18:47:00",
+    "created_at": "2021-07-19 18:47:09",
+    "updated_at": "2021-07-19 18:47:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13682",
+        "material_title": "210719_tanimoto_s.jpg",
+        "material_file": "3a1774967e9b8ca8cc40fe8bc20b2a0d65d062d426bda9ff73ff5e3bb8645c7d13682.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16404",
+    "content_title": "お花",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-07-19 18:47:00",
+    "created_at": "2021-07-19 18:47:09",
+    "updated_at": "2021-07-19 18:47:09",
+    "content_text": "210719_tanimoto_s.jpg\r\n可愛いお花たちたくさんで\r\n気分上がりますね〜\r\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13682",
+        "material_title": "210719_tanimoto_s.jpg",
+        "material_file": "69fa953d953907c022181c2893714a99a8a1a0c07f1f93a828c846ac5743ab1713682.jpeg"
+      }
+    ],
+    "previous_id": "16511",
+    "next_id": "16329",
+    "saved_materials": [
+      "assets/16404_13682_210719_tanimoto_s.jpg"
+    ]
+  }
+}

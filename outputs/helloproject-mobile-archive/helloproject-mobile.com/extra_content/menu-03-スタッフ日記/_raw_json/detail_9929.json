@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 476,
+    "content_id": "9929",
+    "content_title": "宣伝会議 議事録#30",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-09-27 19:44:00",
+    "created_at": "2018-09-27 19:44:35",
+    "updated_at": "2018-09-27 19:47:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8648",
+        "material_title": "180927_03_01_s.jpg",
+        "material_file": "0513060f28b437d70a4ffbcd8bbd4e5e22de919fd4f442ccc43c4f13d95b56638648.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8649",
+        "material_title": "180927_03_03_s.jpg",
+        "material_file": "97c25f65bba178361e06963e9e01f744ad88cb41004496ee914879a92e5132098649.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8650",
+        "material_title": "180927_03_02_s.jpg",
+        "material_file": "95aea9d1a91345da2778e8f46866674affbbefa1711732d89e7ee10e5c18f79d8650.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9929",
+    "content_title": "宣伝会議 議事録#30",
+    "content_sub_title": "",
+    "release_date": "2018-09-27 19:44:00",
+    "created_at": "2018-09-27 19:44:35",
+    "updated_at": "2018-09-27 19:47:26",
+    "content_text": "ハロ！モバ宣伝会議\n記念すべき30回目が配信開始しました！\n\n180927_03_01_s.jpg\n芸術の秋\n\n今回は10月に熊谷で行われる<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">SATOYAMA&SATOUMIイベント</a>に向けて\nハロ！モバ宣伝部で話し合いました！\n\n\n宣伝チラシとTシャツ、さらに「あるモノ」のデザインを考えました！\n\n前回たくさん時間がかかったのですが\n今回はサクサク決まっていきました！\n\n\n180927_03_03_s.jpg\n一体どんなデザインになったのか！\n\nGET方法などは決まり次第お知らせしますのでお楽しみに！\n\n180927_03_02_s.jpg\n引き続き「励ましのメール」お待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8648",
+        "material_title": "180927_03_01_s.jpg",
+        "material_file": "57f61754402f34a7442fd81688f77e003c6a34a1033f4425e84cf922d1abf8758648.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8649",
+        "material_title": "180927_03_03_s.jpg",
+        "material_file": "2910098d74ccc53f6f3ef59142d2f0efebd2b27496cf9373f558272ad827fd828649.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8650",
+        "material_title": "180927_03_02_s.jpg",
+        "material_file": "e5673f3b1c180162c4dff19cc320ed360abfc30511e6c2d9414fe732c6a329848650.jpeg"
+      }
+    ],
+    "previous_id": "9937",
+    "next_id": "9928",
+    "saved_materials": [
+      "assets/9929_8648_180927_03_01_s.jpg",
+      "assets/9929_8649_180927_03_03_s.jpg",
+      "assets/9929_8650_180927_03_02_s.jpg"
+    ]
+  }
+}

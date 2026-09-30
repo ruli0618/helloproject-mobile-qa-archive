@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 464,
+    "content_id": "13955",
+    "content_title": "可愛すぎー！！",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2020-06-15 10:00:00",
+    "created_at": "2020-06-08 19:57:09",
+    "updated_at": "2020-06-08 19:57:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11637",
+        "material_title": "0615_maeda_s.jpg",
+        "material_file": "4caa311587138e0eb18d250250126300c3b6b3b8c37b18ab25848b52dbf6dd8d11637.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13955",
+    "content_title": "可愛すぎー！！",
+    "content_sub_title": "前田こころ",
+    "release_date": "2020-06-15 10:00:00",
+    "created_at": "2020-06-08 19:57:09",
+    "updated_at": "2020-06-08 19:57:09",
+    "content_text": "0615_maeda_s.jpg\r\n里吉うたのちゃんにメイクしてもらう岡村美波ちゃん…横顔綺麗だし、可愛すぎるよ(；；)♡\r\n\r\n【3周目お題：メンバーのベストショット】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11637",
+        "material_title": "0615_maeda_s.jpg",
+        "material_file": "388f7af5f5525815780b079b35ee5000190713c325dffa428e06ceb1669c46a811637.jpeg"
+      }
+    ],
+    "previous_id": "13959",
+    "next_id": "13954",
+    "saved_materials": [
+      "assets/13955_11637_0615_maeda_s.jpg"
+    ]
+  }
+}

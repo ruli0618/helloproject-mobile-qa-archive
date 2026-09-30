@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 507,
+    "content_id": "9196",
+    "content_title": "隣のやじまん家の塀の裏#22 広瀬彩海",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-05-17 22:08:00",
+    "created_at": "2018-05-17 22:36:16",
+    "updated_at": "2018-05-17 22:37:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8055",
+        "material_title": "180517_s.jpg",
+        "material_file": "773429cb4966846aff6de756c37546d2401d13a98b3378def31646c49f6d86e08055.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9196",
+    "content_title": "隣のやじまん家の塀の裏#22 広瀬彩海",
+    "content_sub_title": "",
+    "release_date": "2018-05-17 22:08:00",
+    "created_at": "2018-05-17 22:36:16",
+    "updated_at": "2018-05-17 22:37:48",
+    "content_text": "隣のやじまん家22回目、配信中♪\n\n矢島さんが髪を染めてから初めての収録である今回、\nゲストはこの方、こぶしファクトリーの広瀬彩海さんです！\n\n180517_s.jpg\n\n2人でジェケニンポーズ！\n※JKとは女子高生の事です。\n\n生バンドで披露したパフォーマンスから、こぶつば合同コンサートの裏話、○○ロスや読書話、不思議な夢の話などなど…盛り上がりました！\n\n矢島さんがどうしてもラーメンが食べたくなった理由とは…？\nそして広瀬さんは℃-uteに対する秘めた想いを、矢島さんを目の前にして打ち明けます。\n\n2人の野球観戦の約束は果たされるのでしょうか。\n「隣のやじまん家」では、報告を楽しみにしています♪\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題や、新たな新コーナー案も募集中♪\n「くじ引きトーク」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n次回はつばきファクトリー谷本安美さんが登場！\n配信は、5/29(火)を予定しています。\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8055",
+        "material_title": "180517_s.jpg",
+        "material_file": "c9f97e83b9493754868194794582b488352622f87827ba5f9f041bccede353878055.jpeg"
+      }
+    ],
+    "previous_id": "9209",
+    "next_id": "9180",
+    "saved_materials": [
+      "assets/9196_8055_180517_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 594,
+    "content_id": "12215",
+    "content_title": "うどん",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2019-10-03 10:00:00",
+    "created_at": "2019-09-27 14:45:46",
+    "updated_at": "2019-09-27 14:45:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10407",
+        "material_title": "1003_uemura_s.jpg",
+        "material_file": "8ed5104b1089e4f6f3fa7cbd020e40e0dd80ea997dff138f07810db795d4040210407.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12215",
+    "content_title": "うどん",
+    "content_sub_title": "植村あかり",
+    "release_date": "2019-10-03 10:00:00",
+    "created_at": "2019-09-27 14:45:46",
+    "updated_at": "2019-09-27 14:45:46",
+    "content_text": "植村あかりです！\r\n\r\n鍋焼きうどんが食べたい気分です！！\r\n\r\n1003_uemura_s.jpg\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10407",
+        "material_title": "1003_uemura_s.jpg",
+        "material_file": "703973488b040114cdc21337c46684a79b59427ccfc8546a518a51ff71ca167b10407.jpeg"
+      }
+    ],
+    "previous_id": "12226",
+    "next_id": "12214",
+    "saved_materials": [
+      "assets/12215_10407_1003_uemura_s.jpg"
+    ]
+  }
+}

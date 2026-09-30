@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 16,
+    "content_id": "12629",
+    "content_title": "いろんな♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2019-12-03 11:49:00",
+    "created_at": "2019-12-03 11:49:43",
+    "updated_at": "2019-12-03 11:49:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10716",
+        "material_title": "1203_onoda_s.jpg",
+        "material_file": "49e8e57f63dd17cee51fb559d2732176e63d26ca0eb04d27bc1500804a9a030210716.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12629",
+    "content_title": "いろんな♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2019-12-03 11:49:00",
+    "created_at": "2019-12-03 11:49:43",
+    "updated_at": "2019-12-03 11:49:43",
+    "content_text": "寒くなってきて、イルミネーションがきれいだあなーと思ったさおりです♪\r\n\r\nこの間、きれいな景色の中にたくさんのお花が咲いていました！\r\n\r\n1203_onoda_s.jpg\r\n\r\n写真の下の方には、バラが咲いていたり！\r\n\r\nお花には、いろんな種類があって、みていてかわいらしいなぁーって思います！！！\r\n\r\nぜひ、お花があったら写真を撮ってみては♪\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10716",
+        "material_title": "1203_onoda_s.jpg",
+        "material_file": "dc89abf89f5210bdad3c5fc9a282312e143aa7c58c2bce8f41ef9e2eb667c09510716.jpeg"
+      }
+    ],
+    "previous_id": "12651",
+    "next_id": "12617",
+    "saved_materials": [
+      "assets/12629_10716_1203_onoda_s.jpg"
+    ]
+  }
+}

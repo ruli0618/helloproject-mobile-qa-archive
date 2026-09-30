@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 422,
+    "content_id": "11251",
+    "content_title": "工藤の家の屋根裏部屋#46～羽賀朱音～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-04-19 23:15:00",
+    "created_at": "2019-04-19 23:17:18",
+    "updated_at": "2019-04-19 23:50:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9620",
+        "material_title": "0419_46_2_s.jpg",
+        "material_file": "48a188daf744ead2f89049dd23f269bfb928bcb8b0b2b679111dc9e782ac9cfb9620.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9621",
+        "material_title": "0419_46_3_s.jpg",
+        "material_file": "e9210611b97ee525d61441fdb1228f8e114ab61aac5228f687d012d0c78cd7299621.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9622",
+        "material_title": "0419_46_1_s.jpg",
+        "material_file": "4fdf5f6ff4f13f14ccac1cc5dd6fbf5fb3834a0a0f4af64eed5f5a79b6580eae9622.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11251",
+    "content_title": "工藤の家の屋根裏部屋#46～羽賀朱音～",
+    "content_sub_title": "",
+    "release_date": "2019-04-19 23:15:00",
+    "created_at": "2019-04-19 23:17:18",
+    "updated_at": "2019-04-19 23:50:27",
+    "content_text": "更新が遅くなりまして申し訳ございません\r\n\r\nふくむらの部屋46回目！\r\n今回のゲストはモーニング娘。’19羽賀朱音さん！　\r\n\r\n0419_46_1_s.jpg\r\n\r\n悩みをキラーンと解決のコーナーでは\r\n眠れない！寝すぎる！寝つきが悪い！など眠りにまつわる悩みが多数登場。。\r\n\r\n姉御肌な羽賀朱音さんがキラーンと解決!?\r\n\r\n0419_46_2_s.jpg\r\n\r\nI surrender 愛されど愛について\r\nそれぞれの歌詞の解釈をトーク！\r\n\r\nそして番組後半では羽賀朱音○○卒業宣言！！\r\n\r\n0419_46_3_s.jpg\r\n\r\n今年のひなフェスで羽賀さんがソロで歌った曲の選曲秘話！\r\n\r\nそして今だから話せる過去のひなフェスで起こった事件とは!?\r\n\r\n\r\n\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9620",
+        "material_title": "0419_46_2_s.jpg",
+        "material_file": "b87e29428820bb8f6846c14f70513c3ef66b4c737eeab84b8400c82d9a3724dd9620.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9621",
+        "material_title": "0419_46_3_s.jpg",
+        "material_file": "bda4f5e2d874ead096c5709fb6ef8746139a9d0b7df68fa210f537e4d720056c9621.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9622",
+        "material_title": "0419_46_1_s.jpg",
+        "material_file": "caa728a7db536dd1033fd63f9e31872864966ef3ee3b75042b042593a287b61b9622.jpeg"
+      }
+    ],
+    "previous_id": "11252",
+    "next_id": "11241",
+    "saved_materials": [
+      "assets/11251_9620_0419_46_2_s.jpg",
+      "assets/11251_9621_0419_46_3_s.jpg",
+      "assets/11251_9622_0419_46_1_s.jpg"
+    ]
+  }
+}

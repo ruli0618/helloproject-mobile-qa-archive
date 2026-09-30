@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 480,
+    "content_id": "15637",
+    "content_title": "ラーメン食べたい！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-03-16 10:00:00",
+    "created_at": "2021-03-11 18:34:29",
+    "updated_at": "2021-03-11 18:34:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13019",
+        "material_title": "210316_inaba_s.jpg",
+        "material_file": "a897ddd09bb7fc427c77afcaeb69cad7b028504f9324d5987b76e7dabae6acb513019.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15637",
+    "content_title": "ラーメン食べたい！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-03-16 10:00:00",
+    "created_at": "2021-03-11 18:34:29",
+    "updated_at": "2021-03-11 18:34:29",
+    "content_text": "210316_inaba_s.jpg\r\nこの間、久しぶりに北海道で食べたラーメンが忘れられない…凄く量が多かったのに全部たいらげたの！ピリ辛で食べ応えがあって最高でした。\r\n今はツアー前で結構我慢してるから、恋しくて仕方ありません！笑\r\n北海道グルメは本当に最高だからオススメだよ〜\r\n今度はスープカレー食べたいな♡",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "13019",
+        "material_title": "210316_inaba_s.jpg",
+        "material_file": "6c91af730e1ffa597db9612487cebab0f1aed7397dd87819541f1b7edef86ec213019.jpeg"
+      }
+    ],
+    "previous_id": "15653",
+    "next_id": "15636",
+    "saved_materials": [
+      "assets/15637_13019_210316_inaba_s.jpg"
+    ]
+  }
+}

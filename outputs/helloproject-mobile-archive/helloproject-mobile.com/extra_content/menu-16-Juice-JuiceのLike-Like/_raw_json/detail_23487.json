@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 113,
+    "content_id": "23487",
+    "content_title": "いちご",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-12-17 14:56:00",
+    "created_at": "2024-12-17 14:57:58",
+    "updated_at": "2024-12-17 14:57:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19321",
+        "material_title": "1217_matsunaga_s.jpg",
+        "material_file": "e0f11f59b98ab0f15ef0cdd0c5bac2ea5c69e2ea6519e13f9a068051c548bc2519321.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23487",
+    "content_title": "いちご",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-12-17 14:56:00",
+    "created_at": "2024-12-17 14:57:58",
+    "updated_at": "2024-12-17 14:57:58",
+    "content_text": "大好きないちごー！\r\nいちごの季節がやってきてわくわく♡今年も食べまくるゾ\r\n1217_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19321",
+        "material_title": "1217_matsunaga_s.jpg",
+        "material_file": "f9870117af46f5c4d1860a45105d9b3393739d335ad590bb8317fdae70f4b4d119321.jpeg"
+      }
+    ],
+    "previous_id": "23488",
+    "next_id": "23465",
+    "saved_materials": [
+      "assets/23487_19321_1217_matsunaga_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 555,
+    "content_id": "13583",
+    "content_title": "色",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2020-04-07 10:00:00",
+    "created_at": "2020-03-31 17:25:35",
+    "updated_at": "2020-03-31 17:25:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11365",
+        "material_title": "0407_matsunaga_s.jpg",
+        "material_file": "ca8209fc533842752c3c27e83ad25f800d2d4dec2981a931a6547cb23a5adf3b11365.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13583",
+    "content_title": "色",
+    "content_sub_title": "松永里愛",
+    "release_date": "2020-04-07 10:00:00",
+    "created_at": "2020-03-31 17:25:35",
+    "updated_at": "2020-03-31 17:25:35",
+    "content_text": "白、黒、赤とかのはっきりした色にハマっている最近です..\r\nブレ気味な白のカーディガン。\r\n0407_matsunaga_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "b197310330babf83d23ee4313b563295",
+        "material_id": "11365",
+        "material_title": "0407_matsunaga_s.jpg",
+        "material_file": "8e3a4dd827fe7757f8183fb9491499fb9f248d67b3e364a93e53fe52230de65111365.jpeg"
+      }
+    ],
+    "previous_id": "13627",
+    "next_id": "13582",
+    "saved_materials": [
+      "assets/13583_11365_0407_matsunaga_s.jpg"
+    ]
+  }
+}

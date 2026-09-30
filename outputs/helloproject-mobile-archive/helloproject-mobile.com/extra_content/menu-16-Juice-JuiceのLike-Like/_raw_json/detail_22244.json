@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 167,
+    "content_id": "22244",
+    "content_title": "パジャマで！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2024-05-28 10:00:00",
+    "created_at": "2024-05-21 11:45:56",
+    "updated_at": "2024-05-21 11:45:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18218",
+        "material_title": "0528_irie_s.jpg",
+        "material_file": "b4172853c87c982d4650a20e6966bb8e3d4ddf6ed8abd292464917438f9538f518218.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22244",
+    "content_title": "パジャマで！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2024-05-28 10:00:00",
+    "created_at": "2024-05-21 11:45:56",
+    "updated_at": "2024-05-21 11:45:56",
+    "content_text": "0528_irie_s.jpg\r\n先日の盛りだくさん会で、\r\nDマガで着たパジャマをみんなで一緒に着ました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nリラックスしながらみんなとお話しできて楽しかった〜",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18218",
+        "material_title": "0528_irie_s.jpg",
+        "material_file": "79d71759545ed7d11e0662ea64049fd396b3fe6a67a27f7b47ffb9e94189817518218.jpeg"
+      }
+    ],
+    "previous_id": "22315",
+    "next_id": "22243",
+    "saved_materials": [
+      "assets/22244_18218_0528_irie_s.jpg"
+    ]
+  }
+}

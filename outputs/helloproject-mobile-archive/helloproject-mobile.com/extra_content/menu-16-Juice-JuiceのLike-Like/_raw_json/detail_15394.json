@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 489,
+    "content_id": "15394",
+    "content_title": "シュシュ",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-02-02 10:00:00",
+    "created_at": "2021-01-28 15:42:54",
+    "updated_at": "2021-01-28 15:42:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12826",
+        "material_title": "210202_kudo_s.jpg",
+        "material_file": "735486bcb19871a462e875de67773a5b6d095f45ad89ba6c579f59ee7a3fb2b612826.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15394",
+    "content_title": "シュシュ",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-02-02 10:00:00",
+    "created_at": "2021-01-28 15:42:54",
+    "updated_at": "2021-01-28 15:42:54",
+    "content_text": "210202_kudo_s.jpg\r\n最近シュシュを作りました！\r\n持ち方が変です(笑)\r\n今度は編み棒で作りたいです\r\n買った編み棒の太さを間違えてしまったので<img src=\"/emoji/emoji-images/f9ab.gif\"/>\r\nいつかチャレンジです！",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12826",
+        "material_title": "210202_kudo_s.jpg",
+        "material_file": "30989a55635ea011f32d1ddef1faa12331fb1c6ab004c2437b6d01f97f38618212826.jpeg"
+      }
+    ],
+    "previous_id": "15440",
+    "next_id": "15377",
+    "saved_materials": [
+      "assets/15394_12826_210202_kudo_s.jpg"
+    ]
+  }
+}

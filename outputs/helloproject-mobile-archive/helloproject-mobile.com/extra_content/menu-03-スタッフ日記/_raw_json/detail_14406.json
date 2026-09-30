@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 327,
+    "content_id": "14406",
+    "content_title": "工藤の家の屋根裏部屋#77前編～松永里愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-08-27 22:28:00",
+    "created_at": "2020-08-27 22:36:15",
+    "updated_at": "2020-08-27 22:36:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11987",
+        "material_title": "0827_fukumura_01_s.jpg",
+        "material_file": "214e08bb77b3134ecf0d4e6050796bb288840d6dd439465a70e9fdace7033c8811987.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11988",
+        "material_title": "0827_fukumura_02_s.jpg",
+        "material_file": "85e8915d3a80ccc66eade3b85d6f718f309f236c68479e75afc3995ea371fddb11988.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14406",
+    "content_title": "工藤の家の屋根裏部屋#77前編～松永里愛～",
+    "content_sub_title": "",
+    "release_date": "2020-08-27 22:28:00",
+    "created_at": "2020-08-27 22:36:15",
+    "updated_at": "2020-08-27 22:36:15",
+    "content_text": "ふくむらの部屋 第77回前編配信中！\r\n\r\nゲストは、Juice=Juiceから初出演！\r\n松永里愛さんが登場してくれました！\r\n\r\n0827_fukumura_02_s.jpg\r\n\r\n夏のハロー！プロジェクトコンサート変更前楽曲についてネタバレトーク！\r\n松永さんがハロプロ研修生時代にチャレンジアクトとしてモーニング娘。のツアーに帯同した時の話も！\r\n\r\nみんなに伝えたいハロプロ名場面のコーナーでは、\r\n松永さんがハロプロ研修生時代に代打出演したハロコン、\r\nJuice=Juice新メンバーお披露目の「さゆき〜！」、\r\nDVDMAGAZINEのババ抜きシーンを紹介！\r\n\r\n0827_fukumura_01_s.jpg\r\n\r\n次回は、9/8(火)の配信になります。\r\n\r\n引き続き松永里愛さんが出演する後編も、ぜひお聴き下さい♪\r\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11987",
+        "material_title": "0827_fukumura_01_s.jpg",
+        "material_file": "d67f6fc5f704f116e62ce810afa469744f6c456f185971eba408533b9734fc7b11987.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11988",
+        "material_title": "0827_fukumura_02_s.jpg",
+        "material_file": "25e150adb5514784a758922cecd6f4a0d96a54eb51920867bf30e3e05d9c203011988.jpeg"
+      }
+    ],
+    "previous_id": "14367",
+    "next_id": "14336",
+    "saved_materials": [
+      "assets/14406_11987_0827_fukumura_01_s.jpg",
+      "assets/14406_11988_0827_fukumura_02_s.jpg"
+    ]
+  }
+}

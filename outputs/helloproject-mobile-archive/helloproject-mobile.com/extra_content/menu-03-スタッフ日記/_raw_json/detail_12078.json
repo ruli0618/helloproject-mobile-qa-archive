@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 393,
+    "content_id": "12078",
+    "content_title": "隣のやじまん家の塀の裏#55 石田亜佑美",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-09-04 00:00:00",
+    "created_at": "2019-09-04 15:42:28",
+    "updated_at": "2019-09-04 16:27:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10285",
+        "material_title": "190904.jpg",
+        "material_file": "75e161e0ed4d7e8c89763df0a56f7bbb114680aca9fe24d68d20bd4e2249e75f10285.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12078",
+    "content_title": "隣のやじまん家の塀の裏#55 石田亜佑美",
+    "content_sub_title": "",
+    "release_date": "2019-09-04 00:00:00",
+    "created_at": "2019-09-04 15:42:28",
+    "updated_at": "2019-09-04 16:27:52",
+    "content_text": "「隣のやじまん家」#55配信中です♪\n\n今回はモーニング娘。'19 石田亜佑美さんに来て頂きました！\n\n\nお2人が注目しているダンスメンバーや\n石田さんから見たモーニング娘。15期メンバーの印象もお話していただきましたよ。\n\n石田さんの「ついついやってしまう癖」とは一体…？\n\n190904.jpg\n\n「矢島パイセンの○○チェック」では、\n石田さんの倹約エピソードについてチェックしました！\n過去に、ケータリングにあったアレを持って帰ったことがあるとか…。\n矢島パイセン的には、アリだったのか…？それともナシ…？\n\n\n「VS矢島」のコーナーでは、こちらの2つで対決！\n\n①職業なりきり対決！\n②台詞パート対決！\n\n車掌さん・ハンバーガーの売り子さん・アパレルの店員さんになりきって対決していただきました！\nお2人共とても上手でスタッフも勝敗を決めるのが難しかったです、、。\n\n台詞パート対決も大盛り上がり！\n勝敗の結果は、ぜひ配信をお聴きくださいね♪\n\n※音声トラブルのため#1～#4が少し聴き取りづらくなっており大変申し訳ございません。\nご迷惑をおかけしますが、何卒ご了承いただけますと幸いです。\n\n\n9月テーマトークのお題は\n「ついついやってしまう癖」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は9月17日(火)、ゲストはつばきファクトリーの秋山眞緒さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10285",
+        "material_title": "190904.jpg",
+        "material_file": "5640803dda2104053f83492185c29171acf32def2c2ad92a58f7a2ae178bf65510285.jpeg"
+      }
+    ],
+    "previous_id": "12099",
+    "next_id": "12072",
+    "saved_materials": [
+      "assets/12078_10285_190904.jpg"
+    ]
+  }
+}

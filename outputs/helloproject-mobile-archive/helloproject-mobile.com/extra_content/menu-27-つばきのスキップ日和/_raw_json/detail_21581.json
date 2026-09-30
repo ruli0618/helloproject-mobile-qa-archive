@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "21581",
+    "content_title": "ビーフシチュー",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2024-01-19 10:00:00",
+    "created_at": "2024-01-16 18:29:28",
+    "updated_at": "2024-01-16 18:29:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17727",
+        "material_title": "0119_kasai_s.jpg",
+        "material_file": "8272cc56864e2f21d85223adea96e0108550893e380de347589458d55963ae9f17727.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21581",
+    "content_title": "ビーフシチュー",
+    "content_sub_title": "河西結心",
+    "release_date": "2024-01-19 10:00:00",
+    "created_at": "2024-01-16 18:29:28",
+    "updated_at": "2024-01-16 18:29:28",
+    "content_text": "0119_kasai_s.jpg\r\nこの前いとこのままとビーフシチューを食べにいきました！！\r\nめちゃ美味しくてウキウキしました〜\r\n東京でも美味しいご飯屋さん探したいです！！\r\n美味しいもの大好きなので今年も沢山食べます！！\r\n\r\nそれじゃまたね！\r\n河西結心",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17727",
+        "material_title": "0119_kasai_s.jpg",
+        "material_file": "97df4c0346e4e32f4eba6f782a549f0d9f073d89baac61fc75d27469d758043d17727.jpeg"
+      }
+    ],
+    "previous_id": "21647",
+    "next_id": "21468",
+    "saved_materials": [
+      "assets/21581_17727_0119_kasai_s.jpg"
+    ]
+  }
+}

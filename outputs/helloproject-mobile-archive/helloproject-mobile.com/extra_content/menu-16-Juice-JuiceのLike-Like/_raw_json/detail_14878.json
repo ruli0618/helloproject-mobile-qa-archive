@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 506,
+    "content_id": "14878",
+    "content_title": "チーズ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2020-11-24 10:00:00",
+    "created_at": "2020-11-16 16:15:57",
+    "updated_at": "2020-11-16 16:15:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12398",
+        "material_title": "1124_uemura_s.jpg",
+        "material_file": "31849c950bba9abdd5e8bcdfede45666306330aac66bc512543b82b38231f7d412398.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14878",
+    "content_title": "チーズ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2020-11-24 10:00:00",
+    "created_at": "2020-11-16 16:15:57",
+    "updated_at": "2020-11-16 16:15:57",
+    "content_text": "1124_uemura_s.jpg\r\n植村あかりです！\r\n\r\n最近チーズの中でゴルゴンゾーラに惹かれます\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12398",
+        "material_title": "1124_uemura_s.jpg",
+        "material_file": "1b6684fd32a629a0d3a5fec19d2d390553fa5a82866f83593cdada7a944a230412398.jpeg"
+      }
+    ],
+    "previous_id": "14879",
+    "next_id": "14877",
+    "saved_materials": [
+      "assets/14878_12398_1124_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 426,
+    "content_id": "11146",
+    "content_title": "宣伝会議 議事録#36",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-25 22:40:00",
+    "created_at": "2019-03-25 22:40:24",
+    "updated_at": "2019-03-25 22:41:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9522",
+        "material_title": "0325_02_s.jpg",
+        "material_file": "4e1b74fb230cc52814d6187e288a44816ccc9e6bb03bea6aed1c3640168009ca9522.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9523",
+        "material_title": "0325_03_s.jpg",
+        "material_file": "de125a29dd7fe038283592b4c5c5d2dc2a1f92977e21dae44eb33ba19ea814f99523.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9524",
+        "material_title": "0325_01_s.jpg",
+        "material_file": "a43b5cfbda27f799704b5cf9fe9ac233da96643c0f4a29407cff684ab831609c9524.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11146",
+    "content_title": "宣伝会議 議事録#36",
+    "content_sub_title": "",
+    "release_date": "2019-03-25 22:40:00",
+    "created_at": "2019-03-25 22:40:24",
+    "updated_at": "2019-03-25 22:41:28",
+    "content_text": "ハロ！モバ宣伝会議\r\n36回目の配信開始です！\r\n\r\n\r\n梁川秘書も宣伝部を卒業し、、\r\n\r\n野中部長と小片書記の2人でお送りしています！\r\n\r\n0325_01_s.jpg\r\n\r\n先月おこなわれたハロ！モバ宣伝部イベントの反省会から始まり\r\n\r\n毎年恒例のSATOYAMA & SATOUMI へ行こう2019\r\n\r\nサブステージ＆ブースの出展が決定！\r\n\r\n作戦会議では今回初の試みも・・・？\r\n\r\n0325_02_s.jpg\r\n\r\nそしてそして遂にお待ちかねのアレを発表！！！！\r\n\r\n本番中の発表に野中部長、小片書記が全く同じ反応をしています。。\r\n\r\nその他にも今回は重大発表づくしの回です！！\r\n\r\nお聞き逃しなく！\r\n\r\n↓小片書記が書いた今回の議事録はこちら↓\r\n\r\n0325_03_s.jpg\r\n\r\n\r\n「励ましのメール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9522",
+        "material_title": "0325_02_s.jpg",
+        "material_file": "5aaa1c72458269985c4d2497e67dfd343ec865c47c2154fe8b5fcc8ea9e9dcc69522.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9523",
+        "material_title": "0325_03_s.jpg",
+        "material_file": "6940a2ec567d66f8420169daf689985d6dcb59322d710676cd23ddea2a57ab5b9523.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9524",
+        "material_title": "0325_01_s.jpg",
+        "material_file": "609bc2cd2e7d05d621eb49296c5353e43567b18868ffefba8e0b6266e82b40f49524.jpeg"
+      }
+    ],
+    "previous_id": "11173",
+    "next_id": "11142",
+    "saved_materials": [
+      "assets/11146_9522_0325_02_s.jpg",
+      "assets/11146_9523_0325_03_s.jpg",
+      "assets/11146_9524_0325_01_s.jpg"
+    ]
+  }
+}

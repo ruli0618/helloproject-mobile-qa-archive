@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 289,
+    "content_id": "19718",
+    "content_title": "三姉妹",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2023-02-23 10:00:00",
+    "created_at": "2023-02-21 22:05:49",
+    "updated_at": "2023-02-21 22:05:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16366",
+        "material_title": "0223_inoue_s.jpg",
+        "material_file": "e923a3f5535bc41dad5f5da850af127e8e1928c74cf08677ba9de5f11085246c16366.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19718",
+    "content_title": "三姉妹",
+    "content_sub_title": "井上玲音",
+    "release_date": "2023-02-23 10:00:00",
+    "created_at": "2023-02-21 22:05:49",
+    "updated_at": "2023-02-21 22:05:49",
+    "content_text": "0223_inoue_s.jpg\r\n3つ連なったいちご発見だよ。井上家三姉妹だったら私ココ〜",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16366",
+        "material_title": "0223_inoue_s.jpg",
+        "material_file": "2e4d05a0b8aba8d7d136baefd3c1c9e0e76ca1593cbe69b36fc1ade066a66e6116366.jpeg"
+      }
+    ],
+    "previous_id": "19719",
+    "next_id": "19686",
+    "saved_materials": [
+      "assets/19718_16366_0223_inoue_s.jpg"
+    ]
+  }
+}

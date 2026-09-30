@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 312,
+    "content_id": "18511",
+    "content_title": "ひまわり",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2022-07-20 10:00:00",
+    "created_at": "2022-07-14 17:27:44",
+    "updated_at": "2022-07-14 17:29:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15411",
+        "material_title": "0720_shimakura_s.jpg",
+        "material_file": "0163f4f97f33c2724fea39eeb5bec23ef527ac5601963531246dab886fa50cde15411.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18511",
+    "content_title": "ひまわり",
+    "content_sub_title": "島倉りか",
+    "release_date": "2022-07-20 10:00:00",
+    "created_at": "2022-07-14 17:27:44",
+    "updated_at": "2022-07-14 17:29:07",
+    "content_text": "0720_shimakura_s.jpg\r\nお花買ったらなんかオシャレな紙に包まれてたよーラッキー。\r\n\r\n【20周目お題：オシャレ】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15411",
+        "material_title": "0720_shimakura_s.jpg",
+        "material_file": "09f909a3e4bab82118d9fa3bc616a6b297cefdb7c7c4787ece7ce816c21b112315411.jpeg"
+      }
+    ],
+    "previous_id": "18512",
+    "next_id": "18219",
+    "saved_materials": [
+      "assets/18511_15411_0720_shimakura_s.jpg"
+    ]
+  }
+}

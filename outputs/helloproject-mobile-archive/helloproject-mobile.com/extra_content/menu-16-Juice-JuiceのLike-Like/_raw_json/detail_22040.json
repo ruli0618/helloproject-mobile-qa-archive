@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 176,
+    "content_id": "22040",
+    "content_title": "チキン",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2024-04-18 10:00:00",
+    "created_at": "2024-04-15 19:15:44",
+    "updated_at": "2024-04-15 19:15:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18090",
+        "material_title": "0418_ebata_s.jpg",
+        "material_file": "406f7773c8b27532fbcbc7a481ee4090cd97465ef871851b4d40085db35f300618090.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22040",
+    "content_title": "チキン",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2024-04-18 10:00:00",
+    "created_at": "2024-04-15 19:15:44",
+    "updated_at": "2024-04-15 19:15:44",
+    "content_text": "えばだよー\r\n\r\n\r\n私チキンが好きなんですけど、この前さくりんごと3人でケンタッキー食べ放題に行って\r\n\r\n思う存分ケンタッキーを味わってきた！\r\n\r\n念願の食べ放題！\r\n\r\n\r\nまた早く行きたいദ്ദിᐢ- ̫-ᐢ₎\r\n\r\n\r\n0418_ebata_s.jpg\r\n\r\n映えとか全く意識できてないけど笑\r\n\r\n私の一皿目！笑笑\r\n\r\n\r\nほなね〜",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18090",
+        "material_title": "0418_ebata_s.jpg",
+        "material_file": "84cec639d5a961a4c923bfcf0748461ff000d31c840e9480715f3249bbf6e3c918090.jpeg"
+      }
+    ],
+    "previous_id": "22048",
+    "next_id": "22039",
+    "saved_materials": [
+      "assets/22040_18090_0418_ebata_s.jpg"
+    ]
+  }
+}

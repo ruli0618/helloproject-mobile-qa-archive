@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 190,
+    "content_id": "23363",
+    "content_title": "宣伝会議#79",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-10-20 00:00:00",
+    "created_at": "2024-11-28 04:42:07",
+    "updated_at": "2024-11-28 04:42:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19156",
+        "material_title": "79.jpg",
+        "material_file": "60ca04b4dfce3b5fd960581f2265cfc218c191b85bce3326c443f7d03e832c6819156.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19157",
+        "material_title": "79_01_s.jpg",
+        "material_file": "68b0dfc90446049cbe3e2af0ebee2a12995c077ee231944c30b49985e124357119157.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23363",
+    "content_title": "宣伝会議#79",
+    "content_sub_title": "",
+    "release_date": "2022-10-20 00:00:00",
+    "created_at": "2024-11-28 04:42:07",
+    "updated_at": "2024-11-28 04:42:20",
+    "content_text": "宣伝会議第79回は、川村文乃副部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n79_01_s.jpg\r\n\r\n前編では、\r\n・秋ツアー\r\n・公演中の髪型ネイル\r\n・パン派？米派？\r\n・手帳のこだわり\r\n・成長を感じたポイント\r\n・凱旋公演\r\n・蒙古タンメン\r\n・加賀楓\r\nについてトーク！\r\n\r\n後編では、\r\n・ココロのカメラ\r\n・2人のお出かけ予定\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「松本わかな」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n79.jpg",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "19156",
+        "material_title": "79.jpg",
+        "material_file": "22f5cbcd3246f2f68f17d86da274950deeaf3417b4b18549b666d6cc1891062419156.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "19157",
+        "material_title": "79_01_s.jpg",
+        "material_file": "f3c4fa87d8d15b2bee654c94b28c25732cf0604ef1b42cb5c72f1367c09f67d219157.jpeg"
+      }
+    ],
+    "previous_id": "21225",
+    "next_id": "19633",
+    "saved_materials": [
+      "assets/23363_19156_79.jpg",
+      "assets/23363_19157_79_01_s.jpg"
+    ]
+  }
+}

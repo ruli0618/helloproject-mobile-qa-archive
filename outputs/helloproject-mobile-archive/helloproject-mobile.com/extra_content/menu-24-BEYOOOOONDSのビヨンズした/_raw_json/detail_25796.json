@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 52,
+    "content_id": "25796",
+    "content_title": "サムズアップ",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2026-02-18 15:38:00",
+    "created_at": "2026-02-18 15:39:50",
+    "updated_at": "2026-02-18 15:39:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21090",
+        "material_title": "0218_nishida_s.jpg",
+        "material_file": "0fe508064adc5e263fc480d4425448100084957710863216080f22ca5b3677d521090.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25796",
+    "content_title": "サムズアップ",
+    "content_sub_title": "西田汐里",
+    "release_date": "2026-02-18 15:38:00",
+    "created_at": "2026-02-18 15:39:50",
+    "updated_at": "2026-02-18 15:39:50",
+    "content_text": "0218_nishida_s.jpg\r\nタイの景色と！\r\n\r\n【50周目お題：ゆるポーズ】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "21090",
+        "material_title": "0218_nishida_s.jpg",
+        "material_file": "90b0cb49ddd1f1a8fb5a2942d26e8bd3a44cc9fea499215d7aa32f050a379b4721090.jpeg"
+      }
+    ],
+    "previous_id": "25797",
+    "next_id": "25585",
+    "saved_materials": [
+      "assets/25796_21090_0218_nishida_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 417,
+    "content_id": "11413",
+    "content_title": "隣のやじまん家の塀の裏#47 山﨑夢羽",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-05-23 19:40:00",
+    "created_at": "2019-05-23 19:44:01",
+    "updated_at": "2019-05-24 19:13:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9769",
+        "material_title": "190523_01_s.jpg",
+        "material_file": "f6f49ba08ddf1efb9031f7f007ba873f398d72e1ead6e037ae5f6aef87d0644c9769.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9770",
+        "material_title": "190523_02_s.jpg",
+        "material_file": "936f61622be5a45561006e9a0d9c859e8dd24bf5c7fb3b37b5eefc17968b9ca59770.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11413",
+    "content_title": "隣のやじまん家の塀の裏#47 山﨑夢羽",
+    "content_sub_title": "",
+    "release_date": "2019-05-23 19:40:00",
+    "created_at": "2019-05-23 19:44:01",
+    "updated_at": "2019-05-24 19:13:52",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ございません。隣のやじまん家#47配信中です！ \n\n今回のゲストは、なんとラジオ番組の収録初体験！\nBEYOOOOONDS 雨ノ森 川海から、山﨑夢羽さんが登場！\n\n190523_01_s.jpg\n\nマイクに顔を近づけすぎて喋ってしまったり、\nお便り内の挨拶に毎回手を振っていたりと、\n山﨑さんの初々しい姿が見られました♪\n\nトークテーマ「どうしてもやる気が出ない事」では、\n色んなパターンのお便りから、それぞれやる気を出す方法についても話されました！\n \nドラえもんが大好きだという山﨑さん。\n二人のモノマネにも注目！！\n\n190523_02_s.jpg\nドラえもんのように三本ヒゲポーズ！\n\n「VS矢島」コーナーでは\n・オリジナルひみつ道具\n・かわいい台詞\nの2つのお題で戦いました！\n\n℃-ute帯同や実力診断テストの裏話、\nやってみたい役柄、キラキラネーム、\n山﨑さんの本性…！？も要チェックです。\n\n本日更新の<a href=\"https://www.youtube.com/watch?v=laXsXHnB9rU\" target=\"_blank\">OMAKE CHANNEL「矢島舞美＆山﨑夢羽《自撮りアカペラ》嵐を起こすんだ Exciting Fight！」</a>もぜひご覧になって下さいね！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回ゲストは、こぶしファクトリー井上玲音さん！\n\n6月テーマトークのお題は\n「お父さんに言いたい事」\n「VS矢島」対決するお題も募集！\n\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \nメール受付〆切は、6/3(月)19:00まで！\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9769",
+        "material_title": "190523_01_s.jpg",
+        "material_file": "9b4d123d717c8aba21088e25f3f80e51bb25f8844a30e101f35615b9c16428bf9769.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9770",
+        "material_title": "190523_02_s.jpg",
+        "material_file": "3b0486351c9f04712666be5e0fb58bb55a226e04f3ebf58f15ac15ce719924ea9770.jpeg"
+      }
+    ],
+    "previous_id": "11514",
+    "next_id": "11352",
+    "saved_materials": [
+      "assets/11413_9769_190523_01_s.jpg",
+      "assets/11413_9770_190523_02_s.jpg"
+    ]
+  }
+}

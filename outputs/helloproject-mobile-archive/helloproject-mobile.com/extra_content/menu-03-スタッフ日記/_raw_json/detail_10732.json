@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 441,
+    "content_id": "10732",
+    "content_title": "2月5日(火)まで！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-04 12:05:00",
+    "created_at": "2019-02-04 12:06:05",
+    "updated_at": "2019-02-04 12:06:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10732",
+    "content_title": "2月5日(火)まで！",
+    "content_sub_title": "",
+    "release_date": "2019-02-04 12:05:00",
+    "created_at": "2019-02-04 12:06:05",
+    "updated_at": "2019-02-04 12:06:57",
+    "content_text": "こんにちは！スタッフ番号2番です！\n\n「ハロ！モバ宣伝部イベント」\n入金締切日は<b><font color=\"red\">2月5日(火)</font></b>まで！\nご当選の方は、ぜひ入金をお忘れなく！\n\n詳しくは<a href=\"http://helloproject-mobile.com/info/special/content?page=2019_hm_event/index\">特設ページ</a>をご覧ください。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10803",
+    "next_id": "10726",
+    "saved_materials": []
+  }
+}

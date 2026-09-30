@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 85,
+    "content_id": "17124",
+    "content_title": "salad",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-11-19 17:00:00",
+    "created_at": "2021-11-19 17:08:46",
+    "updated_at": "2021-11-19 17:08:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14265",
+        "material_title": "211119_s.jpg",
+        "material_file": "9582f5b2649dfc9ca4c6232330b0067ae209831331f23b32f96652ffed64bf9f14265.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17124",
+    "content_title": "salad",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-11-19 17:00:00",
+    "created_at": "2021-11-19 17:08:46",
+    "updated_at": "2021-11-19 17:08:46",
+    "content_text": "211119_s.jpg\r\nお皿いっぱいにサラダ。\r\n\r\n大人の味がしたよ〜\r\nケールも入ってた〜！\r\n\r\nごちそうさまでした！",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14265",
+        "material_title": "211119_s.jpg",
+        "material_file": "1d088b69b676450e26e962d0845e347b6acc39fb1244e60532f8a49ba5b5af5f14265.jpeg"
+      }
+    ],
+    "previous_id": "17230",
+    "next_id": "17119",
+    "saved_materials": [
+      "assets/17124_14265_211119_s.jpg"
+    ]
+  }
+}

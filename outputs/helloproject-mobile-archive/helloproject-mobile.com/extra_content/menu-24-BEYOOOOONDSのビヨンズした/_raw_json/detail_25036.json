@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 76,
+    "content_id": "25036",
+    "content_title": "ミラーボール！",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2025-10-15 10:00:00",
+    "created_at": "2025-09-26 19:17:16",
+    "updated_at": "2025-10-13 21:29:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20523",
+        "material_title": "1013_hirai_s.jpg",
+        "material_file": "4f7bb254310566b8dbcbf177e720da8216ae2d27aa1998fab08899728051715f20523.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25036",
+    "content_title": "ミラーボール！",
+    "content_sub_title": "平井美葉",
+    "release_date": "2025-10-15 10:00:00",
+    "created_at": "2025-09-26 19:17:16",
+    "updated_at": "2025-10-13 21:29:58",
+    "content_text": "1013_hirai_s.jpg\nギラギラで綺麗だった！\n\n【46周目お題：綺麗】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20523",
+        "material_title": "1013_hirai_s.jpg",
+        "material_file": "73350881062cf05a3cdc49709b79e72200c9fbe0691f4933a103b4590cee16ec20523.jpeg"
+      }
+    ],
+    "previous_id": "25037",
+    "next_id": "25035",
+    "saved_materials": [
+      "assets/25036_20523_1013_hirai_s.jpg"
+    ]
+  }
+}

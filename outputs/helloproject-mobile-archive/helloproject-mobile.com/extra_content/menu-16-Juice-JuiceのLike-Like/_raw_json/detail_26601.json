@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "26601",
+    "content_title": "すごいねアホ毛",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2026-07-23 10:00:00",
+    "created_at": "2026-07-15 22:36:14",
+    "updated_at": "2026-07-15 22:36:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21712",
+        "material_title": "0723_kudo.jpg",
+        "material_file": "6cddd1427978fd4f1d0a6d78f9124fefab0d776d4f3dc559a1d0c8791c13ac4f21712.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26601",
+    "content_title": "すごいねアホ毛",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2026-07-23 10:00:00",
+    "created_at": "2026-07-15 22:36:14",
+    "updated_at": "2026-07-15 22:36:14",
+    "content_text": "0723_kudo.jpg\r\nオンラインお話し会の時に髪の毛をまとめました！\r\n後れ毛をウェーブ巻きにして、オシャレ風に♡\r\nウェーブ巻きを特訓したいです！",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21712",
+        "material_title": "0723_kudo.jpg",
+        "material_file": "c7a4debdf623589ed0d862a439a08ca8c679971b772354643670967959049e5021712.jpeg"
+      }
+    ],
+    "previous_id": "26602",
+    "next_id": "26600",
+    "saved_materials": [
+      "assets/26601_21712_0723_kudo.jpg"
+    ]
+  }
+}

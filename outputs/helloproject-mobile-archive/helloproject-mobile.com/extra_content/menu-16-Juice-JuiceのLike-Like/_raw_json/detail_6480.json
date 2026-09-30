@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 814,
+    "content_id": "6480",
+    "content_title": "餃子！！！／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-04-06 11:52:00",
+    "created_at": "2017-04-06 11:49:37",
+    "updated_at": "2017-04-06 11:54:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5743",
+        "material_title": "5892109948543_s.jpg",
+        "material_file": "b206025e4244b7a595ed2171448abc04c3afc60b549c3082771631b5ceeb802e5743.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6480",
+    "content_title": "餃子！！！／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-04-06 11:52:00",
+    "created_at": "2017-04-06 11:49:37",
+    "updated_at": "2017-04-06 11:54:57",
+    "content_text": "5892109948543_s.jpg\n宇都宮キャンペーンで餃子を食べました<img src=\"/emoji/emoji-images/f485.gif\"/>12個全部すぐ食べちゃうくらい美味しかったです！！",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5743",
+        "material_title": "5892109948543_s.jpg",
+        "material_file": "4e649110a225e5d70ab4da5d2f282ee1049fbe57e9940b7ff09d78855ae0e1565743.jpeg"
+      }
+    ],
+    "previous_id": "6514",
+    "next_id": "6444",
+    "saved_materials": [
+      "assets/6480_5743_5892109948543_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "19076",
+    "content_title": "カフェ",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2022-11-18 10:00:00",
+    "created_at": "2022-11-02 20:45:24",
+    "updated_at": "2022-11-02 20:45:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15860",
+        "material_title": "1118_kasai_s.jpg",
+        "material_file": "2504f06557bda352ffae4e7692740b35dd63c244aa84d50bac31fa9d916561db15860.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19076",
+    "content_title": "カフェ",
+    "content_sub_title": "河西結心",
+    "release_date": "2022-11-18 10:00:00",
+    "created_at": "2022-11-02 20:45:24",
+    "updated_at": "2022-11-02 20:45:24",
+    "content_text": "1118_kasai_s.jpg\r\n先日友達とカフェに行ってきました＾＾マカロンを食べたけど美味しかったです♪\r\nいままであんまりカフェとか行ってなかったけど、またカフェに行きたいです！！",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15860",
+        "material_title": "1118_kasai_s.jpg",
+        "material_file": "a5cad49a6f6e572dc998ab389d94c1ef7568576afc18ca23b2de90014f0d2c8215860.jpeg"
+      }
+    ],
+    "previous_id": "19227",
+    "next_id": "19043",
+    "saved_materials": [
+      "assets/19076_15860_1118_kasai_s.jpg"
+    ]
+  }
+}

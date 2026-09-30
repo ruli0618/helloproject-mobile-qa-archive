@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 481,
+    "content_id": "15636",
+    "content_title": "部屋",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2021-03-11 18:34:00",
+    "created_at": "2021-03-11 18:34:22",
+    "updated_at": "2021-03-11 18:34:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13020",
+        "material_title": "210311_uemura_s.jpg",
+        "material_file": "dbbf2d9e42614339ff05a44dc073b342ef71ba0c725ddac3ebee457282c2857a13020.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15636",
+    "content_title": "部屋",
+    "content_sub_title": "植村あかり",
+    "release_date": "2021-03-11 18:34:00",
+    "created_at": "2021-03-11 18:34:22",
+    "updated_at": "2021-03-11 18:34:22",
+    "content_text": "植村あかりです！\r\n\r\n210311_uemura_s.jpg\r\nこの部屋がすごい綺麗で好きな感じでした！自分の家も模様替えしたくなりました〜\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "13020",
+        "material_title": "210311_uemura_s.jpg",
+        "material_file": "00e218bfa4f53ab1aed67c9076133b6dff2e0810abc9e6134efd2f372d0b1c1513020.jpeg"
+      }
+    ],
+    "previous_id": "15637",
+    "next_id": "15598",
+    "saved_materials": [
+      "assets/15636_13020_210311_uemura_s.jpg"
+    ]
+  }
+}

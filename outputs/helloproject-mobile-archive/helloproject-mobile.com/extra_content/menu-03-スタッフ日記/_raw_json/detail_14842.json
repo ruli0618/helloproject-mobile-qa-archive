@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 319,
+    "content_id": "14842",
+    "content_title": "工藤の家の屋根裏部屋#78後編～佐々木莉佳子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-11-04 19:55:00",
+    "created_at": "2020-11-04 19:55:49",
+    "updated_at": "2020-11-04 20:58:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12358",
+        "material_title": "1014_03_s.jpg",
+        "material_file": "1f8376e3e6e32d2d0806834897246cd3132b2780da99efa767f7d8a943d5e45d12358.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12359",
+        "material_title": "1014_02_s.jpg",
+        "material_file": "261b14678b624d121741b1b3bc16daaf223cecb89d82d8b1ba36338caef321f812359.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14842",
+    "content_title": "工藤の家の屋根裏部屋#78後編～佐々木莉佳子～",
+    "content_sub_title": "",
+    "release_date": "2020-11-04 19:55:00",
+    "created_at": "2020-11-04 19:55:49",
+    "updated_at": "2020-11-04 20:58:04",
+    "content_text": "スタッフ日記の更新が遅れ、申し訳ありません。\nふくむらの部屋 第78回後編配信中！\n\nゲストは、前回に引き続きアンジュルム佐々木莉佳子さん！\n\nみずき先生のハロプロ講座では、\n振りVについて、それぞれのダンスについてトーク！\n\n1014_02_s.jpg\n\nハロコンでの歌唱順、\n二人が後輩メンバーに伝えたい事も教えてくれました。\n\nそして、今回から新コーナーが大決定！\n\n<b>★新コーナー「ハロプロファン失敗談」</b>\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\nハロプロファンなら共感出来る\"あるある話\"や、\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\nMC譜久村聖とゲストが慰めます！\n例）\n・「青海駅」と間違え「青梅駅」に行ってしまい、ライブに間に合わなかった。\n・「あ列」チケットが届いてルンルンで会場に行ったら、一番後ろの席だった。\n\n1014_03_s.jpg\n\n※換気のためドア・窓を開けた状態で収録していますので、車の通行音などの音で聞きづらい可能性があります。ご了承ください。\n\nお便りは、メール件名に番組名・コーナー名、\n本文にはラジオネームを明記の上、下記宛先までお送り下さい。\n\n宛先：<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n※募集は、700円会員に登録している方が対象となります。\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12358",
+        "material_title": "1014_03_s.jpg",
+        "material_file": "33c98dd2908aa14124fef06f531e55572afd0138f90ae2f0e3a559b8b77f0bf312358.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12359",
+        "material_title": "1014_02_s.jpg",
+        "material_file": "0def3a00a4bac38207a2dc2f689d1a8a158a8d70c1184a0fd106cc037c4b786812359.jpeg"
+      }
+    ],
+    "previous_id": "14754",
+    "next_id": "14717",
+    "saved_materials": [
+      "assets/14842_12358_1014_03_s.jpg",
+      "assets/14842_12359_1014_02_s.jpg"
+    ]
+  }
+}

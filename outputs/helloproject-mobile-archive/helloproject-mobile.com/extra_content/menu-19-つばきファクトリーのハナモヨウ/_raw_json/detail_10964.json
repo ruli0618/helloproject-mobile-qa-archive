@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 61,
+    "content_id": "10964",
+    "content_title": "梅！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-03-12 18:15:00",
+    "created_at": "2019-03-12 18:15:27",
+    "updated_at": "2019-03-12 18:15:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9415",
+        "material_title": "0312_ono_s.jpg",
+        "material_file": "bd5f7c62e8e71e223763aa88caaaf6609f0e05e992a5a8ad7c44806771239ed49415.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10964",
+    "content_title": "梅！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-03-12 18:15:00",
+    "created_at": "2019-03-12 18:15:27",
+    "updated_at": "2019-03-12 18:15:27",
+    "content_text": "0312_ono_s.jpg\r\n\r\n梅の花を見つけました。\r\n綺麗だった〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nもうすぐ桜の季節ですね〜。\r\nお花見したい！\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9415",
+        "material_title": "0312_ono_s.jpg",
+        "material_file": "718307c144a4233db379a7661338116c495407e831ba849486cd00f7d15764d99415.jpeg"
+      }
+    ],
+    "previous_id": "11022",
+    "next_id": "10930",
+    "saved_materials": [
+      "assets/10964_9415_0312_ono_s.jpg"
+    ]
+  }
+}

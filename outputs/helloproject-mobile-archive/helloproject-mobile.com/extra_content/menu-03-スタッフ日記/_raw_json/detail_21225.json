@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 189,
+    "content_id": "21225",
+    "content_title": "工藤の家の屋根裏部屋#118～工藤由愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-10-25 00:00:00",
+    "created_at": "2023-11-14 14:30:16",
+    "updated_at": "2023-11-14 14:30:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17432",
+        "material_title": "22120101_s.jpg",
+        "material_file": "09ccf3701c085a66c80d878c6e2fb02db537284ad94c878a47f8d0cc36b7a9c717432.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21225",
+    "content_title": "工藤の家の屋根裏部屋#118～工藤由愛～",
+    "content_sub_title": "",
+    "release_date": "2022-10-25 00:00:00",
+    "created_at": "2023-11-14 14:30:16",
+    "updated_at": "2023-11-14 14:30:16",
+    "content_text": "ふくむらの部屋 第118回は、Juice=Juice工藤由愛さんが登場！\r\n\r\n・ライブ中のアクシデント\r\n・新メンバー\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n歌詞の中のタコを探せ！隠れタコクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・空き時間楽屋での過ごし方\r\n・衣装さばき\r\nを語りました！\r\n\r\n後半では、\r\n・バースデーイベント\r\n・大人になった、まだ子供だな、と思うところ\r\nについてトーク！\r\n\r\n22120101_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "17432",
+        "material_title": "22120101_s.jpg",
+        "material_file": "ecb8f80494ead753498d79fcaea2f0ba50d76b90ffd2bb660c626beac78c0d3117432.jpeg"
+      }
+    ],
+    "previous_id": "19768",
+    "next_id": "23363",
+    "saved_materials": [
+      "assets/21225_17432_22120101_s.jpg"
+    ]
+  }
+}

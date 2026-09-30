@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 475,
+    "content_id": "15731",
+    "content_title": "推し、燃ゆ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2021-04-06 10:00:00",
+    "created_at": "2021-04-02 14:28:38",
+    "updated_at": "2021-04-05 16:01:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13097",
+        "material_title": "210406_uemura_s.jpg",
+        "material_file": "53267120a1f0e052f2e16f320c04fe26b0957992a647faae57fb6d71bea8bcbb13097.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15731",
+    "content_title": "推し、燃ゆ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2021-04-06 10:00:00",
+    "created_at": "2021-04-02 14:28:38",
+    "updated_at": "2021-04-05 16:01:18",
+    "content_text": "210406_uemura_s.jpg\r\n\r\n植村あかりです！\r\n\r\n推し、燃ゆ\r\n\r\n作者さんの名前、あたし憧れるりんという名前でいいなあと思いました\r\n\r\n作中あかりって名前が出てきてびっくり\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "13097",
+        "material_title": "210406_uemura_s.jpg",
+        "material_file": "540c62ecb28e7a0b0eb01b2042c7959a494c6a37cf03f04245cc087160528c6613097.jpeg"
+      }
+    ],
+    "previous_id": "15732",
+    "next_id": "15681",
+    "saved_materials": [
+      "assets/15731_13097_210406_uemura_s.jpg"
+    ]
+  }
+}

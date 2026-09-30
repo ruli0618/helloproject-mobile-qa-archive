@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 546,
+    "content_id": "13826",
+    "content_title": "初めて作った！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-05-21 22:40:00",
+    "created_at": "2020-05-21 22:42:40",
+    "updated_at": "2020-05-21 22:42:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11558",
+        "material_title": "0521_inaba_s.jpg",
+        "material_file": "0ebe418d5abdc169a7907f64c4f61cdf60c77a63471a109a6b200aba0a9a438011558.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13826",
+    "content_title": "初めて作った！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-05-21 22:40:00",
+    "created_at": "2020-05-21 22:42:40",
+    "updated_at": "2020-05-21 22:42:40",
+    "content_text": "0521_inaba_s.jpg\r\nこの間、はじめて\"じゃがいものガレット\"を作りました〜♪ジャガイモが残ってたんだけど、調理がマンネリ化しがちだから何かできないかな〜と思って、初挑戦！たこ焼きの粉とかを混ぜて繋ぐんだけど、とっても美味しかったです♡となりは余り物の野菜をにんにく醤油炒めにしただけです！笑",
+    "materials": [
+      {
+        "secretKey": "b197310330babf83d23ee4313b563295",
+        "material_id": "11558",
+        "material_title": "0521_inaba_s.jpg",
+        "material_file": "8bca77b9e0d804b568389b4bc57b76bb194d5b5e45daf615cf1405fde889166c11558.jpeg"
+      }
+    ],
+    "previous_id": "13827",
+    "next_id": "13762",
+    "saved_materials": [
+      "assets/13826_11558_0521_inaba_s.jpg"
+    ]
+  }
+}

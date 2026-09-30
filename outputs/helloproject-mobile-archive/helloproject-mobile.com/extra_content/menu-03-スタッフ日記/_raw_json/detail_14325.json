@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 329,
+    "content_id": "14325",
+    "content_title": "工藤の家の屋根裏部屋#76後編～金澤朋子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-08-13 17:23:00",
+    "created_at": "2020-08-13 17:23:25",
+    "updated_at": "2020-08-13 17:23:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11915",
+        "material_title": "200811_01_s.jpg",
+        "material_file": "9df4dc89e4e63bb10798df5bfe194fef1f1373baadef1cef995ba5bf8346320511915.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11916",
+        "material_title": "200811_02_s.jpg",
+        "material_file": "17cd29facd6f11dbd9bffc8f848da3c6c6b6c93bae7934ff6f3e293dfaf5d10811916.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14325",
+    "content_title": "工藤の家の屋根裏部屋#76後編～金澤朋子～",
+    "content_sub_title": "",
+    "release_date": "2020-08-13 17:23:00",
+    "created_at": "2020-08-13 17:23:25",
+    "updated_at": "2020-08-13 17:23:25",
+    "content_text": "ふくむらの部屋 第76回後編配信開始されました！\r\n\r\nゲストは前回に引き続き、Juice=Juice金澤朋子さんが出演！\r\n\r\n推しメンを語ろう！のコーナーでは、\r\nつばきファクトリー浅倉樹々さんを中心に、\r\n金澤さんの推しメン達について語って頂きました！\r\n\r\n200811_01_s.jpg\r\n\r\nハロプロ講座のコーナーでは、\r\n各グループのダンスについて、ハロコンに関してトーク！\r\n\r\nお二人が飼われている猫たちや、\r\n面白かったドラマ・映画も教えてくれています。\r\n\r\nぜひお聴きください♪\r\n\r\n200811_02_s.jpg\r\n\r\n次回は8/25(火)配信、\r\n同じJuice=Juiceから、最年少メンバー松永里愛さんが出演！\r\n\r\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11915",
+        "material_title": "200811_01_s.jpg",
+        "material_file": "fec81a209617b789fe50bc1cd13062f1972616811bd77911bd65297b26d0001c11915.jpeg"
+      },
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11916",
+        "material_title": "200811_02_s.jpg",
+        "material_file": "7d65f5a16475c14e6d3fe0812e2043d75070847dbff84478f4c8f83f8f5889e911916.jpeg"
+      }
+    ],
+    "previous_id": "14336",
+    "next_id": "14263",
+    "saved_materials": [
+      "assets/14325_11915_200811_01_s.jpg",
+      "assets/14325_11916_200811_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 152,
+    "content_id": "7069",
+    "content_title": "花壇のお花たち。",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2017-07-24 14:39:00",
+    "created_at": "2017-07-24 14:40:22",
+    "updated_at": "2017-07-24 14:40:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6221",
+        "material_title": "170724_tanimoto_s.jpg",
+        "material_file": "26d8c42e10a7635aa974898a088d8252af6007bcb6186f4db7381bfce51b9dca6221.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7069",
+    "content_title": "花壇のお花たち。",
+    "content_sub_title": "谷本安美",
+    "release_date": "2017-07-24 14:39:00",
+    "created_at": "2017-07-24 14:40:22",
+    "updated_at": "2017-07-24 14:40:22",
+    "content_text": "170724_tanimoto_s.jpg\r\n花壇にいっぱい初めて見たお花が咲いていました！\r\n谷本安美",
+    "materials": [
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6221",
+        "material_title": "170724_tanimoto_s.jpg",
+        "material_file": "9cbedad637687a24face63296db4a471f8eb9b9ceb7874fbeac966ffab8d39a46221.jpeg"
+      }
+    ],
+    "previous_id": "7214",
+    "next_id": "7027",
+    "saved_materials": [
+      "assets/7069_6221_170724_tanimoto_s.jpg"
+    ]
+  }
+}

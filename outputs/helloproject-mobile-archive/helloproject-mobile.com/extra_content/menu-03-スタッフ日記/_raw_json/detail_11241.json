@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 423,
+    "content_id": "11241",
+    "content_title": "隣のやじまん家の塀の裏#45 野中美希",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-04-19 13:00:00",
+    "created_at": "2019-04-19 13:03:36",
+    "updated_at": "2019-04-19 13:08:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9615",
+        "material_title": "190411_02_s.jpg",
+        "material_file": "0dfbe7bc64a1077fb47004bd21c19d501fe9dd220bda00ba4e23f83f648ca8989615.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9616",
+        "material_title": "190411_01_s.jpg",
+        "material_file": "1e33ec89fe4d74204cd987d73024cb51f8ef74fd84318c13bd06037dd23e30be9616.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11241",
+    "content_title": "隣のやじまん家の塀の裏#45 野中美希",
+    "content_sub_title": "",
+    "release_date": "2019-04-19 13:00:00",
+    "created_at": "2019-04-19 13:03:36",
+    "updated_at": "2019-04-19 13:08:37",
+    "content_text": "スタッフ日記の更新、大変お待たせいたしました。\n隣のやじまん家#45配信中！ \n\n今回のゲストは、矢島さん同様スマホをよく無くす？\nハロ！モバ宣伝部長でもある、モーニング娘。'19野中美希さんです！\n\n190411_01_s.jpg\n\nお二人の筋トレ事情や、ハロ！モバや新部員について、ライブ中の目線などなど、\nレッスン話では分かるー！を連発する矢島さん。\nナッシュビルの話でも盛り上がりました。\n\n「VS矢島」のコーナー\n今回のお題は、大喜利対決！\n難しかったようで悩みながら書いていました。\n\n190411_02_s.jpg\n↑書いているセリフを実際にお互い披露してくれました♪\n\n今回実践した新コーナー、\n想像食レポ、文章の妄想スピーチはなかなか上手だったのではないでしょうか。\n\n現在、BEYOOOOONDS山﨑夢羽さん出演5/14配信回のメールを大募集！\nテーマトークのお題は\n「どうしてもやる気が出ない事」\n「VS矢島」対決するお題も募集！\n\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9615",
+        "material_title": "190411_02_s.jpg",
+        "material_file": "11302ddd9881794454e8071375d3a0d0d3eb2792ebbc1c5e10b953cd6ab1d6d59615.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9616",
+        "material_title": "190411_01_s.jpg",
+        "material_file": "051557f473885692847b4e8b882ccc25c6e4a40f3ce8df9b0e55458e01f0416d9616.jpeg"
+      }
+    ],
+    "previous_id": "11251",
+    "next_id": "11176",
+    "saved_materials": [
+      "assets/11241_9615_190411_02_s.jpg",
+      "assets/11241_9616_190411_01_s.jpg"
+    ]
+  }
+}

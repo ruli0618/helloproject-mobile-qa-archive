@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 372,
+    "content_id": "18082",
+    "content_title": "写真",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-05-05 10:00:00",
+    "created_at": "2022-05-05 00:31:47",
+    "updated_at": "2022-05-05 00:31:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15096",
+        "material_title": "0505_matsunaga_s .jpg",
+        "material_file": "2f572e92c5aa4e35ba52a1a9a2a76f7d26d9adc87f363afba26a4f885d7f7be515096.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18082",
+    "content_title": "写真",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-05-05 10:00:00",
+    "created_at": "2022-05-05 00:31:47",
+    "updated_at": "2022-05-05 00:31:47",
+    "content_text": "井上玲音さんが撮ってくださる写真が大好きです！\r\n私もいつかフィルムカメラでメンバーの事を撮ってみたい！\r\n0505_matsunaga_s .jpg",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "15096",
+        "material_title": "0505_matsunaga_s .jpg",
+        "material_file": "a2139f1b6b4e12a6d8377d5791753f8dfce701de8abfea2b7c39fe0df75e819d15096.jpeg"
+      }
+    ],
+    "previous_id": "18083",
+    "next_id": "18056",
+    "saved_materials": [
+      "assets/18082_15096_0505_matsunaga_s.jpg"
+    ]
+  }
+}

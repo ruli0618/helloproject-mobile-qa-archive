@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "26390",
+    "content_title": "つばきっさおいしかった",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2026-07-03 10:00:00",
+    "created_at": "2026-06-12 10:47:38",
+    "updated_at": "2026-06-12 10:47:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21562",
+        "material_title": "0703_yofu_s.jpg",
+        "material_file": "c91c289439e56dbbde4389437b923da47514e1010dccc1a27fbe97016e3b8bd421562.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26390",
+    "content_title": "つばきっさおいしかった",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2026-07-03 10:00:00",
+    "created_at": "2026-06-12 10:47:38",
+    "updated_at": "2026-06-12 10:47:38",
+    "content_text": "0703_yofu_s.jpg\r\n\r\nるんるん\r\nよっふぅ～\r\n\r\nげんきー？\r\n\r\nるのは、つばきっさに言って\r\n\r\nちょー元気だよぉ\r\n\r\n\r\n自分でメニュー考えたの！\r\n\r\n\r\nクッキーもね！\r\n見て欲しい\r\n\r\n\r\n「豫」風クッキー\r\n\r\nこの、「豫」\r\n\r\n\r\n頑張って書いたんです\r\n\r\n\r\n褒めて\r\n\r\nおいしかったなー\r\n\r\n\r\n\r\n本当に、コラボカフェっていうのが夢だったから\r\n\r\nゆめの世界に目を開けて参戦できて\r\n\r\nうれぴよでした\r\n\r\nもう終わっちゃったけど、またできますよーーに！\r\n\r\n頑張ルノー！\r\n\r\n\r\nばいばーい♥",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21562",
+        "material_title": "0703_yofu_s.jpg",
+        "material_file": "79f2ec1e2ba49485ddd8f22feb10bbc2414d00ba60e28f5d189dc377292b97eb21562.jpeg"
+      }
+    ],
+    "previous_id": "26391",
+    "next_id": "26389",
+    "saved_materials": [
+      "assets/26390_21562_0703_yofu_s.jpg"
+    ]
+  }
+}

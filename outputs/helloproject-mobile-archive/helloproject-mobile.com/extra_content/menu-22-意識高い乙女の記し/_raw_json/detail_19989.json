@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 10,
+    "content_id": "19989",
+    "content_title": "あめの日ー",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2023-04-07 10:00:00",
+    "created_at": "2023-04-06 23:18:06",
+    "updated_at": "2023-04-06 23:18:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16533",
+        "material_title": "0407_yofu_s.jpg",
+        "material_file": "ca58d6e44a2034f7a513969f688b38405616e82347fae22cac679d4921198bdc16533.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19989",
+    "content_title": "あめの日ー",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2023-04-07 10:00:00",
+    "created_at": "2023-04-06 23:18:06",
+    "updated_at": "2023-04-06 23:18:06",
+    "content_text": "0407_yofu_s.jpg\r\nるのの\r\nおきにーり傘( ^ω^)\r\n\r\nさくらんぼでーす<img src=\"/emoji/emoji-images/f6ab.gif\"/>\r\nよく沢山さくらんぼ身につけてますねぇー\r\n\r\n可愛いから好きー(≧∀≦)",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16533",
+        "material_title": "0407_yofu_s.jpg",
+        "material_file": "6998575369cf9aa1d713b26c757078cae3cbb73ccac6611844a520388e45241f16533.jpeg"
+      }
+    ],
+    "previous_id": "19993",
+    "next_id": "19898",
+    "saved_materials": [
+      "assets/19989_16533_0407_yofu_s.jpg"
+    ]
+  }
+}

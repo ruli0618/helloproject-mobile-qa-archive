@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 556,
+    "content_id": "7957",
+    "content_title": "あと3日！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-17 21:00:00",
+    "created_at": "2017-11-17 18:27:49",
+    "updated_at": "2017-11-17 18:59:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7957",
+    "content_title": "あと3日！",
+    "content_sub_title": "",
+    "release_date": "2017-11-17 21:00:00",
+    "created_at": "2017-11-17 18:27:49",
+    "updated_at": "2017-11-17 18:59:38",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>の日本武道館プレイリストはお聴き頂けましたでしょうか！\n\nJuice=Juiceのツアーでは、未音源化の新曲が披露されています。\n\nそのうち、「TOKYOグライダー」「Never Never Surrender」が、YouTube番組「<a href=\"https://youtu.be/-eu-DP9O_uo\" target=\"_blank\">アプカミ#93</a>」にてライブ映像公開中です！\n\nぜひ、11/20(月)日本武道館公演前にチェックしてみてくださいね♪\n\nそして、アルバム曲「GIRLS BE AMBITIOUS」の歌詞も、ツアーで披露している楽曲では7人Ver.の内容に変更されているようですね！\n歌詞の内容にも注目です<img src=\"/emoji/emoji-images/f99f.gif\"/>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7958",
+    "next_id": "7945",
+    "saved_materials": []
+  }
+}

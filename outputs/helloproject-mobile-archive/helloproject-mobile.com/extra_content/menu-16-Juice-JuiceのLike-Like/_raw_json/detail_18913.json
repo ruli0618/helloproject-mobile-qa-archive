@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 328,
+    "content_id": "18913",
+    "content_title": "17歳",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2022-10-11 10:00:00",
+    "created_at": "2022-10-04 20:19:29",
+    "updated_at": "2022-10-04 20:19:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15735",
+        "material_title": "1011_kudo_s.jpg",
+        "material_file": "cf105ad7685dbbd5ae4a5ce4ef9e548bce555c79b3f93d3158b3c796bf411d2115735.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18913",
+    "content_title": "17歳",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2022-10-11 10:00:00",
+    "created_at": "2022-10-04 20:19:29",
+    "updated_at": "2022-10-04 20:19:29",
+    "content_text": "1011_kudo_s.jpg\r\n18歳になりました！\r\n17歳の時の写真です♪",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15735",
+        "material_title": "1011_kudo_s.jpg",
+        "material_file": "844036e0dfa7b37f6b92cea1a3ff524e740feafec7de588e816f314899503be515735.jpeg"
+      }
+    ],
+    "previous_id": "18914",
+    "next_id": "18912",
+    "saved_materials": [
+      "assets/18913_15735_1011_kudo_s.jpg"
+    ]
+  }
+}

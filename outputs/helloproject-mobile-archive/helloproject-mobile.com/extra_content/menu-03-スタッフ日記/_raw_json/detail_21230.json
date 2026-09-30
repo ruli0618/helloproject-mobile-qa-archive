@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 179,
+    "content_id": "21230",
+    "content_title": "工藤の家の屋根裏部屋#122～江口紗耶～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-20 00:00:00",
+    "created_at": "2023-11-14 15:20:06",
+    "updated_at": "2023-11-14 15:20:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21230",
+    "content_title": "工藤の家の屋根裏部屋#122～江口紗耶～",
+    "content_sub_title": "",
+    "release_date": "2022-12-20 00:00:00",
+    "created_at": "2023-11-14 15:20:06",
+    "updated_at": "2023-11-14 15:20:06",
+    "content_text": "ふくむらの部屋 第122回は、BEYOOOOONDS江口紗耶さんが登場！\r\n\r\n・SeasoningS\r\n・妄想シミュレーション\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n写真集を出したメンバークイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・正直嫌だったこと\r\n・朝起きれないこと\r\nを語りました！\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "20933",
+    "next_id": "23365",
+    "saved_materials": []
+  }
+}

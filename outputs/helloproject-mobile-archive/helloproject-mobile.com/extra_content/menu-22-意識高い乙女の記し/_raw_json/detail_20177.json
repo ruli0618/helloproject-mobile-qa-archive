@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 7,
+    "content_id": "20177",
+    "content_title": "うに",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2023-05-19 10:00:00",
+    "created_at": "2023-05-10 21:51:16",
+    "updated_at": "2023-05-10 21:51:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16688",
+        "material_title": "0519_ono_s.jpg",
+        "material_file": "f2c82184f229098dea2f4e299e223d11d6a133b121bbe2371c140186302459ed16688.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20177",
+    "content_title": "うに",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2023-05-19 10:00:00",
+    "created_at": "2023-05-10 21:51:16",
+    "updated_at": "2023-05-10 21:51:16",
+    "content_text": "0519_ono_s.jpg\r\nだいすきなうに\r\n北海道行ったら食べなきゃ帰れない！！！\r\nうにへの意識、、\r\nげきたかです(///_///)\r\n\r\nまたねん",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16688",
+        "material_title": "0519_ono_s.jpg",
+        "material_file": "846a385c7457b7284a0feb8b10074a5c67be372d70a5bb9302e069936e09d2b416688.jpeg"
+      }
+    ],
+    "previous_id": "20178",
+    "next_id": "20006",
+    "saved_materials": [
+      "assets/20177_16688_0519_ono_s.jpg"
+    ]
+  }
+}

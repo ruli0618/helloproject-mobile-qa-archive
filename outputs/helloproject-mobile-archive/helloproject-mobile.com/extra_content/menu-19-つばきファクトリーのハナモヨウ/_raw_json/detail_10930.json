@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 62,
+    "content_id": "10930",
+    "content_title": "あ！った！！",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2019-03-01 18:46:00",
+    "created_at": "2019-03-01 18:46:09",
+    "updated_at": "2019-03-01 18:46:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9385",
+        "material_title": "0301_tanimoto_s.jpg",
+        "material_file": "a9118a359df5f2c370367887ed3452e22b7fd7bbb469d1595917e6ed9fb559a49385.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10930",
+    "content_title": "あ！った！！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2019-03-01 18:46:00",
+    "created_at": "2019-03-01 18:46:09",
+    "updated_at": "2019-03-01 18:46:09",
+    "content_text": "前に雑誌の撮影してた時、花壇にお花があったので\r\n一緒に撮りました！！\r\nお花さいてるとついみてしまう<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\n0301_tanimoto_s.jpg",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9385",
+        "material_title": "0301_tanimoto_s.jpg",
+        "material_file": "2c0d6065dfdae93ba78f3021e0795d98c0fea77db5b279c977a0ef55541c72c49385.jpeg"
+      }
+    ],
+    "previous_id": "10964",
+    "next_id": "10872",
+    "saved_materials": [
+      "assets/10930_9385_0301_tanimoto_s.jpg"
+    ]
+  }
+}

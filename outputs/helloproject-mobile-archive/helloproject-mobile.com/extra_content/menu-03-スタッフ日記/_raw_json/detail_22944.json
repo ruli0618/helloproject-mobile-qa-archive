@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 88,
+    "content_id": "22944",
+    "content_title": "工藤の家の軒下#20～植村葉純～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-09-10 00:00:00",
+    "created_at": "2024-09-21 06:31:00",
+    "updated_at": "2024-09-24 15:09:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18806",
+        "material_title": "240910_s.jpg",
+        "material_file": "e376c869f20e55f5547d7e85985224203d5632613b5d4b4265974007a3f54edf18806.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22944",
+    "content_title": "工藤の家の軒下#20～植村葉純～",
+    "content_sub_title": "",
+    "release_date": "2024-09-10 00:00:00",
+    "created_at": "2024-09-21 06:31:00",
+    "updated_at": "2024-09-24 15:09:04",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\n第20回は、ロージークロニクル植村葉純さんがゲストに来てくれました！\n\n240910_s.jpg\n\n・シャッフルユニット組むなら？\n・FCイベント\n・ダンス部\n・夏休みの宿題\n・もし学校で同じクラスなら\n・好きなすき焼きの具\nのお話からスタート！\n\n「6個の部屋」のコーナーでは、\n・おすすめの牛乳\n・写真不足問題\nについて語りました！\n\n皆さんから募集しましたアイディアから、\n新コーナーを決定しました！\n次回からこちらのコーナーがスタート！\n\n「ゲストをもっと知ろーコーナー」\nクイズに答えて、ゲストのことをもっとよく知ろう！というコーナーです。\nゲストに関するクイズを大募集！\nMC筒井澪心とゲストが回答します。\n問題と答えを書いて送って下さい。\n※可能であれば出典の明記もお願いいたします。\n\n後半では、\n・印象に残ったカバー曲\n・楽屋での過ごし方\n・同い年\nについてトーク！\n\n次回は、OCHA NORMA北原ももさんがゲストに出演！\nぜひお聴き下さい♪\n\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "18806",
+        "material_title": "240910_s.jpg",
+        "material_file": "d027308c9d6e25f93dd258ae8020b33b11270f18322e01a1b82529f769b3ba7b18806.jpeg"
+      }
+    ],
+    "previous_id": "23395",
+    "next_id": "22943",
+    "saved_materials": [
+      "assets/22944_18806_240910_s.jpg"
+    ]
+  }
+}

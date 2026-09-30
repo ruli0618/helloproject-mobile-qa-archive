@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 257,
+    "content_id": "20166",
+    "content_title": "飛行機",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2023-05-24 10:00:00",
+    "created_at": "2023-05-10 21:27:45",
+    "updated_at": "2023-05-10 21:27:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16677",
+        "material_title": "0524_nishida_s.jpg",
+        "material_file": "60a8693b866aebe4fd1b6efec76d1dec29bbdc9dcb368d2287696e17de560d9f16677.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20166",
+    "content_title": "飛行機",
+    "content_sub_title": "西田汐里",
+    "release_date": "2023-05-24 10:00:00",
+    "created_at": "2023-05-10 21:27:45",
+    "updated_at": "2023-05-10 21:27:45",
+    "content_text": "0524_nishida_s.jpg\r\n冬の北海道の朝です！\r\n\r\n【26周目お題：美しい】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16677",
+        "material_title": "0524_nishida_s.jpg",
+        "material_file": "488bd1279204aee4e74a99464a910ffa65f31790850d0b68d3a20a92e8ccdb6f16677.jpeg"
+      }
+    ],
+    "previous_id": "20167",
+    "next_id": "20165",
+    "saved_materials": [
+      "assets/20166_16677_0524_nishida_s.jpg"
+    ]
+  }
+}

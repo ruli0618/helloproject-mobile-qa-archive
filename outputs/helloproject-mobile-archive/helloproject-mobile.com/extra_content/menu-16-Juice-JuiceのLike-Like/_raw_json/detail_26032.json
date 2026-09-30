@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 24,
+    "content_id": "26032",
+    "content_title": "何回も",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2026-04-14 10:00:00",
+    "created_at": "2026-04-03 14:55:34",
+    "updated_at": "2026-04-03 14:55:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21306",
+        "material_title": "0414_kudo_s.jpg",
+        "material_file": "3aa435bcfb6b859f6e1eeb3d09e4031b6422a103f7018a7ffcd16b2c3ce9b63021306.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26032",
+    "content_title": "何回も",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2026-04-14 10:00:00",
+    "created_at": "2026-04-03 14:55:34",
+    "updated_at": "2026-04-03 14:55:34",
+    "content_text": "0414_kudo_s.jpg\r\n先日出演させていただいたCDTVライブ！ライブさん！\r\n何回も何回も画像や映像を見返しています\r\n本当に嬉しくて、、\r\nでもまだまだ頑張らないといけない事がたくさんあって、自分の中で乗り越えなきゃいけない壁もあるけれど\r\n気持ちを強く持って頑張ります！！！！\r\nいつもありがとうございます！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21306",
+        "material_title": "0414_kudo_s.jpg",
+        "material_file": "50f36d683b39ea96b00cf457c40879d9fe68297163061caea5470a39212afe9221306.jpeg"
+      }
+    ],
+    "previous_id": "26033",
+    "next_id": "26031",
+    "saved_materials": [
+      "assets/26032_21306_0414_kudo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 457,
+    "content_id": "13967",
+    "content_title": "謎ポーズ",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2020-07-15 10:00:00",
+    "created_at": "2020-06-11 18:21:19",
+    "updated_at": "2020-06-11 18:21:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11648",
+        "material_title": "0715_nishida_s.jpg",
+        "material_file": "59bb026d86afc5424d85f95d6b8595591ee2d1cfff3aeae21ddc296841be0c9011648.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13967",
+    "content_title": "謎ポーズ",
+    "content_sub_title": "西田汐里",
+    "release_date": "2020-07-15 10:00:00",
+    "created_at": "2020-06-11 18:21:19",
+    "updated_at": "2020-06-11 18:21:19",
+    "content_text": "0715_nishida_s.jpg\r\n2017年5月5日の江口紗耶ちゃんと私です！\r\n\r\n【3周目お題：メンバーのベストショット】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11648",
+        "material_title": "0715_nishida_s.jpg",
+        "material_file": "d57f2f220824543caf7e549dafe9cb37aeca9028d6a7c251eadacd892bd9cc2811648.jpeg"
+      }
+    ],
+    "previous_id": "14202",
+    "next_id": "13966",
+    "saved_materials": [
+      "assets/13967_11648_0715_nishida_s.jpg"
+    ]
+  }
+}

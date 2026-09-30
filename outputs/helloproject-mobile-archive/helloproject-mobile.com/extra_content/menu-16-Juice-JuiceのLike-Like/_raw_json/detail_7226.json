@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 791,
+    "content_id": "7226",
+    "content_title": "ワクワクジャスミンタイム／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-08-28 11:00:00",
+    "created_at": "2017-08-04 12:17:09",
+    "updated_at": "2017-08-04 12:56:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6356",
+        "material_title": "6414791929838_s.jpg",
+        "material_file": "3b03e285d6a8300fd03cb75d0ecf99c9e4da075b7bddf2db9e356ccaf96b4fe96356.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7226",
+    "content_title": "ワクワクジャスミンタイム／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-08-28 11:00:00",
+    "created_at": "2017-08-04 12:17:09",
+    "updated_at": "2017-08-04 12:56:05",
+    "content_text": "6414791929838_s.jpg\r\nキスされたみたいにとれたー",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6356",
+        "material_title": "6414791929838_s.jpg",
+        "material_file": "630bf1acf7dae8527f1a182e448c38c0c63544d4371597b7ad5b5f9b02bd7c8a6356.jpeg"
+      }
+    ],
+    "previous_id": "7228",
+    "next_id": "7225",
+    "saved_materials": [
+      "assets/7226_6356_6414791929838_s.jpg"
+    ]
+  }
+}

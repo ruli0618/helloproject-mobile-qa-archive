@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 113,
+    "content_id": "23378",
+    "content_title": "宣伝会議#94",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-01-25 00:00:00",
+    "created_at": "2024-11-28 14:33:14",
+    "updated_at": "2025-01-06 11:58:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19198",
+        "material_title": "94.jpg",
+        "material_file": "708e3cf1c7d3cf92bf97d1525460de567e25310a19590300f02df61fb0ba000819198.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19199",
+        "material_title": "94_01_s.jpg",
+        "material_file": "9e197b7c6df542725abb9474fec344e3a5991f0143e4fcff601f378a42acda1d19199.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19393",
+        "material_title": "irie.jpg",
+        "material_file": "01c7ce15d5c83eb5cbac18b8d6090d8d292bedc8a0736463c8b5d9f6284c107919393.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19394",
+        "material_title": "nonaka.jpg",
+        "material_file": "2acfbf0e62dfd753b59675ed79130d51c2634614ed347a0ca731e5c865d3ce0919394.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19395",
+        "material_title": "kawamura.jpg",
+        "material_file": "7884e54426ea48600a0fb9e5a4c6a45cc61833fbc3e738347c23a76993bc31b719395.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23378",
+    "content_title": "宣伝会議#94",
+    "content_sub_title": "",
+    "release_date": "2024-01-25 00:00:00",
+    "created_at": "2024-11-28 14:33:14",
+    "updated_at": "2025-01-06 11:58:01",
+    "content_text": "宣伝会議第94回は、野中美希部長・川村文乃副部長・入江里咲書記の三人でお届け！\n※前田こころ警備兼広報は体調不良のためお休みとなります。\n\n毎年新年初回の配信では活動理念を決めていましたが、今年は趣向を変えて、それぞれの抱負や目標を書き初めしました！\n\n書き初めテーマは、「ハロ！モバを含めたハロー！プロジェクトの宣伝活動」\n\n94_01_s.jpg\n\n前編では、\n久しぶりに妄想動画の撮影も行いました！\n\n後編では、\n・仲良くなりたいメンバー\n・横浜アリーナ舞台裏\n・年越しの過ごし方\n・体力あるメンバー\n・好みの声\n・入江里咲写真集\n・里山イベント\n・長距離移動\n・鍋パーティ\n・ハロ！モバメールの工夫\n・ハロプロあるある\n・プレゼント交換\nについてトーク！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\n「清野桃々姫」さんについて紹介！\n\n↓議事録はこちら！\n94.jpg\n\nnonaka.jpg\n\nkawamura.jpg\n\nirie.jpg",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19198",
+        "material_title": "94.jpg",
+        "material_file": "ed8775ae466e2495cf77f70842eab4771eac26734b7ba7bcabcd1cd88f6a6e7319198.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19199",
+        "material_title": "94_01_s.jpg",
+        "material_file": "6874b118923796bd3bea9822e87c95ff09964a6c3bda88102f800d3e9d9c3dc119199.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19393",
+        "material_title": "irie.jpg",
+        "material_file": "5520e910132e750d3ca9f29353c8d63d9520e4f149aec51b370bc57308807aab19393.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19394",
+        "material_title": "nonaka.jpg",
+        "material_file": "eb13ab6c362c61255dad91c20c3d86c68e5aa1ea1eba9bc89508ec6bc8a0c12f19394.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "19395",
+        "material_title": "kawamura.jpg",
+        "material_file": "83f632fc01f81a54dc9741c68276ebfccb99d39c59344e4cabfeb925ea1a2e5019395.jpeg"
+      }
+    ],
+    "previous_id": "21614",
+    "next_id": "22928",
+    "saved_materials": [
+      "assets/23378_19198_94.jpg",
+      "assets/23378_19199_94_01_s.jpg",
+      "assets/23378_19393_irie.jpg",
+      "assets/23378_19394_nonaka.jpg",
+      "assets/23378_19395_kawamura.jpg"
+    ]
+  }
+}

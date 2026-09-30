@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 225,
+    "content_id": "18497",
+    "content_title": "みよちゃん家の縁側の猫#2 里吉うたの",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-10 00:00:00",
+    "created_at": "2022-07-11 19:16:30",
+    "updated_at": "2022-07-11 19:20:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15396",
+        "material_title": "220711_1.jpg",
+        "material_file": "d61a82153eee127a31f5210b7a2b4706090498a5f20b15c81d2c1baa56d9de3415396.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15397",
+        "material_title": "220711_2.jpg",
+        "material_file": "8a5c1895148525a4d3b7fa9ba96ab979a49a1952ca97be129f72573b9dd04e0015397.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18497",
+    "content_title": "みよちゃん家の縁側の猫#2 里吉うたの",
+    "content_sub_title": "",
+    "release_date": "2022-05-10 00:00:00",
+    "created_at": "2022-07-11 19:16:30",
+    "updated_at": "2022-07-11 19:20:06",
+    "content_text": "「みよちゃん家の縁側」#2配信中です！\n\n記念すべき最初のゲストは、BEYOOOOONDS里吉うたのさん！<img src=\"/emoji/emoji-images/4772.gif\"/>\n\n220711_2.jpg\n\n初ゲスト回で平井さんが緊張している…！ということだったので\nまずは逆再生チャレンジコーナーで緊張をほぐしていきました♪\n\n①ばあさんやばあさんや\n②子猫ちゃんって思ってた？\n③(うーたん/みよー)煮卵食べる～？？\n\nこちらの逆再生にチャレンジしました。\n長ければ長いほど難しくなりますが、お2人の挑戦は配信をお聴きください♪\n最後にはどちらがうまく逆再生チャレンジできていたかスタッフが判定します。\n\n\n「演技してみよ～！」のコーナーでは、癖が強くて面白い台本をたくさんいただきました！笑\n今回は「眼鏡の男の子」のシチュエーション、「怪盗ミヨーンとアイドル戦士うーたん」の二本立てでお送りしましたよ<img src=\"/emoji/emoji-images/4f47.gif\"/>\n\n\n平井ん家の踊り場コーナーでは、ハムカツ黙示録の好きな振付、Now Now Ningenの振付のポイント、虎視タンタ・ターンのダンスの感想などなど。\nふつうのお便りでもたくさんのメールを紹介しているので、是非お聴きくださいね。\n\n\nそして、「みよちゃん家の縁側」スタッフ日記のタイトルお気づきの方いらっしゃいましたか？？\n【みよちゃん家の縁側の猫】で決定いたしました<img src=\"/emoji/emoji-images/f6b4.gif\"/>\nみよちゃん家の縁側にいる猫(スタッフ)目線で平井さんとゲストの収録時の様子や配信内容をお届けできればと名付けてみました。(いかがでしょうか…)\n\n隔週火曜配信「みよちゃん家の縁側」平井さんはもちろん！スタッフ一同がんばっていきますので今後もよろしくお願いします。\n\n220711_1.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第3回ゲストはJuice=Juice 稲場愛香さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15396",
+        "material_title": "220711_1.jpg",
+        "material_file": "4a618edf521a1ec5cf4904b13eb367c1e7a772d0b96dac51f0c29e349a5dca9c15396.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15397",
+        "material_title": "220711_2.jpg",
+        "material_file": "e1ad9197b24f81e42cce7d0c0802979834714a62a20e1e4d662d5efd572778d415397.jpeg"
+      }
+    ],
+    "previous_id": "18116",
+    "next_id": "18344",
+    "saved_materials": [
+      "assets/18497_15396_220711_1.jpg",
+      "assets/18497_15397_220711_2.jpg"
+    ]
+  }
+}

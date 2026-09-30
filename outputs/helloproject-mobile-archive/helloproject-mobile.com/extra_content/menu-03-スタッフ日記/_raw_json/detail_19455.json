@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 209,
+    "content_id": "19455",
+    "content_title": "みよちゃん家の縁側の猫#8 西田汐里",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-02 00:00:00",
+    "created_at": "2022-12-23 16:43:11",
+    "updated_at": "2022-12-23 16:43:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16135",
+        "material_title": "221223_01.jpg",
+        "material_file": "09b39a75526b96a3591930dfcd9459c96c299e137883cc2dced952e1dbb620fb16135.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16134",
+        "material_title": "221223_02.jpg",
+        "material_file": "6a90930412a29211db51900ad4c0e6adc8f6133ff16ba4ac67b6fbc0a42946a416134.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19455",
+    "content_title": "みよちゃん家の縁側の猫#8 西田汐里",
+    "content_sub_title": "",
+    "release_date": "2022-08-02 00:00:00",
+    "created_at": "2022-12-23 16:43:11",
+    "updated_at": "2022-12-23 16:43:11",
+    "content_text": "「みよちゃん家の縁側」#8配信中です！\r\n\r\n第8回ゲストは、BEYOOOOONDS西田汐里さん！\r\n\r\n221223_01.jpg\r\n\r\n逆再生チャレンジコーナーのお題はこちら！\r\n\r\n①準備OK！\r\n②1人にしなーいで<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n③なにゆえ！\r\n\r\n西田さんのセリフパートからたくさんのリクエストがありました！\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\nコテコテの関西弁で漫才コンビ「しおりんみよりん」のネタ、「華山高校演劇部地区予選を観にきた荒井美鈴」の2本をお送りしました。\r\n西田さんの美鈴と夢子の演じ分けにも注目してください♪\r\n\r\n\r\nその他「フレフレ・エブリデイ」ペアダンスの裏話、お互いの第一印象やファンサについても<img src=\"/emoji/emoji-images/f6de.gif\"/>\r\n\r\n221223_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第9回ゲストはOCHA NORMA 斉藤円香さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "16135",
+        "material_title": "221223_01.jpg",
+        "material_file": "2fd579336d4fd206cbf03d1e839ddb104e6fd439ac6f3b066751b6e118b8da3316135.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "16134",
+        "material_title": "221223_02.jpg",
+        "material_file": "68e1ea6d9d96e77b89e6c8305c7ba2b330e6c3422882294b49ddb51bca6ed85616134.jpeg"
+      }
+    ],
+    "previous_id": "21219",
+    "next_id": "23360",
+    "saved_materials": [
+      "assets/19455_16135_221223_01.jpg",
+      "assets/19455_16134_221223_02.jpg"
+    ]
+  }
+}

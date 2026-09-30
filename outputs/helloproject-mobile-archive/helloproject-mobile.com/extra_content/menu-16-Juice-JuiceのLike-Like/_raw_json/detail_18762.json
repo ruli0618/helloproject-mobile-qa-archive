@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 339,
+    "content_id": "18762",
+    "content_title": "秋楽しみ",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2022-09-01 10:00:00",
+    "created_at": "2022-08-30 13:10:54",
+    "updated_at": "2022-08-30 13:10:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15632",
+        "material_title": "0901_inoue_s.jpg",
+        "material_file": "585b1857d2325fb6356c1d6da5f8d97539075367db21fe52b8d6e8a5ec3931f015632.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18762",
+    "content_title": "秋楽しみ",
+    "content_sub_title": "井上玲音",
+    "release_date": "2022-09-01 10:00:00",
+    "created_at": "2022-08-30 13:10:54",
+    "updated_at": "2022-08-30 13:10:54",
+    "content_text": "0901_inoue_s.jpg\r\nまだまだ暑いね～\r\n眩しくて険しい顔で歩く毎日です。\r\n私が1番好きな季節、秋が待ち遠しい～",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15632",
+        "material_title": "0901_inoue_s.jpg",
+        "material_file": "88b658105c263553bcec3102116bd30336c477e5153b8d637dbae1ee2f85ba6915632.jpeg"
+      }
+    ],
+    "previous_id": "18763",
+    "next_id": "18761",
+    "saved_materials": [
+      "assets/18762_15632_0901_inoue_s.jpg"
+    ]
+  }
+}

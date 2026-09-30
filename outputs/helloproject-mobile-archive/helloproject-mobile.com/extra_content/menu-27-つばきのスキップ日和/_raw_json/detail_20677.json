@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 130,
+    "content_id": "20677",
+    "content_title": "みみちゃん",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2023-08-16 12:07:00",
+    "created_at": "2023-08-16 12:09:03",
+    "updated_at": "2023-08-16 12:09:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17029",
+        "material_title": "0816_kasai_s.jpg",
+        "material_file": "aa8eab89f41837f9c98b66e832ecb67a6cd6c7d8b1e908725d44c79555ccf48717029.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20677",
+    "content_title": "みみちゃん",
+    "content_sub_title": "河西結心",
+    "release_date": "2023-08-16 12:07:00",
+    "created_at": "2023-08-16 12:09:03",
+    "updated_at": "2023-08-16 12:09:03",
+    "content_text": "0816_kasai_s.jpg\r\nみみちゃんと遊んだよ〜\r\n癒されました！！\r\nいつも癒しをありがとう〜\r\nまた遊びに行くね",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17029",
+        "material_title": "0816_kasai_s.jpg",
+        "material_file": "556d11be65760821136e4b54f81e4a4ddf123055a38bb8b96e4f02dc887a929717029.jpeg"
+      }
+    ],
+    "previous_id": "20762",
+    "next_id": "20651",
+    "saved_materials": [
+      "assets/20677_17029_0816_kasai_s.jpg"
+    ]
+  }
+}

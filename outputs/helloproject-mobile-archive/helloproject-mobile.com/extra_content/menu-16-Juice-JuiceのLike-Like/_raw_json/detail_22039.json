@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 177,
+    "content_id": "22039",
+    "content_title": "焼きおにぎり",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2024-04-16 10:00:00",
+    "created_at": "2024-04-15 19:15:42",
+    "updated_at": "2024-04-15 19:15:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18091",
+        "material_title": "0416_arisawa_s.jpg",
+        "material_file": "4606d1f225b4df5eb58a4527a5d73e45b2ffd1e3a4640e390a6780adbed6321b18091.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22039",
+    "content_title": "焼きおにぎり",
+    "content_sub_title": "有澤一華",
+    "release_date": "2024-04-16 10:00:00",
+    "created_at": "2024-04-15 19:15:42",
+    "updated_at": "2024-04-15 19:15:42",
+    "content_text": "0416_arisawa_s.jpg\r\nこんにちは〜\r\n\r\n焼きおにぎりを美味しく作る方法知りたいです！！！！！\r\n\r\n醤油をかけるだけなのかな〜。\r\n今試行錯誤中笑\r\n\r\nばいびー！",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18091",
+        "material_title": "0416_arisawa_s.jpg",
+        "material_file": "450b0d4eda64c54c4835193f587cbff29cd7f2906ad88c339d60146a6d5cbd6918091.jpeg"
+      }
+    ],
+    "previous_id": "22040",
+    "next_id": "22022",
+    "saved_materials": [
+      "assets/22039_18091_0416_arisawa_s.jpg"
+    ]
+  }
+}

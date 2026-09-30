@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 86,
+    "content_id": "23183",
+    "content_title": "バースデーイベント！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2024-10-25 18:57:00",
+    "created_at": "2024-10-25 18:58:35",
+    "updated_at": "2024-10-25 18:58:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18960",
+        "material_title": "1025_fukuda_s.jpg",
+        "material_file": "d837aa59de1ee338b9b7874b58ed8e7455a3d4a7c522c203e64351257386e93818960.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23183",
+    "content_title": "バースデーイベント！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2024-10-25 18:57:00",
+    "created_at": "2024-10-25 18:58:35",
+    "updated_at": "2024-10-25 18:58:35",
+    "content_text": "1025_fukuda_s.jpg\r\n先日バースデーイベントがあり、\r\n大好きなお友達や先輩が観にきてくれて、\r\nとっても嬉しかったです！！\r\n\r\n\r\nお友達の中には、\r\n久しぶりに会う子達もいて、\r\n懐かしい気持ちになりました〜！！\r\n\r\nみんな、\r\n良かったよ〜！と温かい言葉をかけてくれて、\r\nもっと頑張らなきゃ！と言う気持ちになれました〜！！\r\n\r\n\r\nもっと頑張るぞー！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "18960",
+        "material_title": "1025_fukuda_s.jpg",
+        "material_file": "5afb5e1f723fefab917de53cd53d3735be8fb4f31b16622af2d8eed3c37a7bcb18960.jpeg"
+      }
+    ],
+    "previous_id": "23239",
+    "next_id": "23012",
+    "saved_materials": [
+      "assets/23183_18960_1025_fukuda_s.jpg"
+    ]
+  }
+}

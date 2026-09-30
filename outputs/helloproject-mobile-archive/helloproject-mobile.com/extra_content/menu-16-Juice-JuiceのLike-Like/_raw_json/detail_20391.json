@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 257,
+    "content_id": "20391",
+    "content_title": "春ツアー",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-06-20 12:35:00",
+    "created_at": "2023-06-20 12:35:20",
+    "updated_at": "2023-06-20 12:35:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16826",
+        "material_title": "0620_irie_s.jpg",
+        "material_file": "28ff949692bfd75781c8b0cbc0f35c9eb024581297dd1fe01ad3801d366d0d5a16826.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20391",
+    "content_title": "春ツアー",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-06-20 12:35:00",
+    "created_at": "2023-06-20 12:35:20",
+    "updated_at": "2023-06-20 12:35:20",
+    "content_text": "0620_irie_s.jpg\r\n先日、春ツアーが千秋楽を迎えましたー！！\r\n\r\n今回のツアーの途中から声出しやスタンディングが解禁になって、、\r\n\r\nやっとやっと元の生活に戻ってきた感じがして嬉しいです♪\r\n\r\n日本武道館で\\ここだよりさち/が聞けたのも嬉しかったなぁ（≧∇≦）\r\n\r\n夏ツアーからは、新メンバーの川嶋美楓ちゃんも帯同してくれるので！\r\n\r\n11人体制になったJuice=Juiceも楽しみにしててね(^^)\r\n\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16826",
+        "material_title": "0620_irie_s.jpg",
+        "material_file": "1ebf7b11e3a70a9dd86a98fa56fa403d837d7210872f422ce0f6a6f70e79b9f016826.jpeg"
+      }
+    ],
+    "previous_id": "20394",
+    "next_id": "20345",
+    "saved_materials": [
+      "assets/20391_16826_0620_irie_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 342,
+    "content_id": "13657",
+    "content_title": "工藤の家の屋根裏部屋#73後編～野中美希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-05-19 19:00:00",
+    "created_at": "2020-04-17 19:54:06",
+    "updated_at": "2020-05-19 19:06:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11415",
+        "material_title": "20200428_02_s.jpg",
+        "material_file": "2b8d3827645124e1dff9707dbf74bd64d10930c13eaea9752aea0f83badadff911415.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13657",
+    "content_title": "工藤の家の屋根裏部屋#73後編～野中美希～",
+    "content_sub_title": "",
+    "release_date": "2020-05-19 19:00:00",
+    "created_at": "2020-04-17 19:54:06",
+    "updated_at": "2020-05-19 19:06:45",
+    "content_text": "ふくむらの部屋 第73回後編配信開始！\n\n第73回後編のゲストは、前回に引き続きモーニング娘。'20、ハロ！モバ宣伝部部長 野中美希さんが出演！\n\n野中さんがゲストに来てくれた回恒例！？になりつつある…「新コーナーを考えよう」のコーナーを行い、新しいコーナーが決定しました！\n\n<b>新コーナー「推しメンを語ろう！！」</b>\nハロー！プロジェクト内の「推しメン」について\nお気に入りの場面やパフォーマンス、\n当人同士のエピソードや推しメンとしたい事など\nゲストと共に語り合うコーナーです。\n\n※このコーナーのお便り募集はありません。\n\n沢山のアイディアをありがとうございました！\n次回から始まる新コーナをお楽しみに！\n\n20200428_02_s.jpg\nこの日はカラフルな服装の野中さん。\n\n野中さんの良いところや、\n譜久村の変わったきっかけ、\nお二人のお部屋事情などなど、短い時間ではありますが濃密なトークが繰り広げられましたよ。\n\nふくむらの部屋では、メールを募集しております。\n\n宛先はこちら↓まで。\n<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11415",
+        "material_title": "20200428_02_s.jpg",
+        "material_file": "3ff30eeb3117155d9abc449bbf62397ee388a72610fc0882b7d7b15a385b8fc511415.jpeg"
+      }
+    ],
+    "previous_id": "13894",
+    "next_id": "13773",
+    "saved_materials": [
+      "assets/13657_11415_20200428_02_s.jpg"
+    ]
+  }
+}

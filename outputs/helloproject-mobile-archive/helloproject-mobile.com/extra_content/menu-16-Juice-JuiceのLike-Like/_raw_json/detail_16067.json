@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 465,
+    "content_id": "16067",
+    "content_title": "この表情",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-05-20 18:39:00",
+    "created_at": "2021-05-20 18:39:52",
+    "updated_at": "2021-05-20 18:39:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13392",
+        "material_title": "210520_kudo_s.jpg",
+        "material_file": "0a3915b2c2fea833f7e7a390c2f60155ddd37a7643c23ddfecda98ba12a4b38513392.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16067",
+    "content_title": "この表情",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-05-20 18:39:00",
+    "created_at": "2021-05-20 18:39:52",
+    "updated_at": "2021-05-20 18:39:52",
+    "content_text": "210520_kudo_s.jpg\r\n自分で言うのはアレですが、、(笑)\r\nこういう微妙な顔をした写真が後からじわじわと面白くて好きです(*´∀｀)",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13392",
+        "material_title": "210520_kudo_s.jpg",
+        "material_file": "a9e15f4ec283d25d3a77ea93c9eb579dc4f9fdf71f52cfe5daadbad7c7584ede13392.jpeg"
+      }
+    ],
+    "previous_id": "16068",
+    "next_id": "15942",
+    "saved_materials": [
+      "assets/16067_13392_210520_kudo_s.jpg"
+    ]
+  }
+}

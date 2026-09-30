@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 524,
+    "content_id": "14372",
+    "content_title": "同期",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-09-01 10:00:00",
+    "created_at": "2020-08-20 23:16:13",
+    "updated_at": "2020-08-20 23:16:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11958",
+        "material_title": "0901_dambara_s.jpg",
+        "material_file": "65d4d990c1e6ea9f88fc2035a654872f9d0ebe8f4071a94b82298737c38634c811958.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14372",
+    "content_title": "同期",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-09-01 10:00:00",
+    "created_at": "2020-08-20 23:16:13",
+    "updated_at": "2020-08-20 23:16:13",
+    "content_text": "0901_dambara_s.jpg\r\nきそら、あかね、むすぶ！\r\n大好きな人たち<img src=\"/emoji/emoji-images/f399.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "11958",
+        "material_title": "0901_dambara_s.jpg",
+        "material_file": "b1bc36ef343a021692b07c13da5f2a7673339cc45cb86fa4e84bbbb315e8fe4511958.jpeg"
+      }
+    ],
+    "previous_id": "14373",
+    "next_id": "14371",
+    "saved_materials": [
+      "assets/14372_11958_0901_dambara_s.jpg"
+    ]
+  }
+}

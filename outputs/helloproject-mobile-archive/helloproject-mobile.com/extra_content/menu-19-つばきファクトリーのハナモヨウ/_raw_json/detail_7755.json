@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 138,
+    "content_id": "7755",
+    "content_title": "香りが好き♡",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2017-10-16 17:00:00",
+    "created_at": "2017-10-12 15:05:33",
+    "updated_at": "2017-10-12 15:05:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6807",
+        "material_title": "171016_yamagishi_s.png",
+        "material_file": "121df6fdc5fe10deba65e53beb1b645d9c9f35937a04cf0332b56e92362ecf4e6807.png"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7755",
+    "content_title": "香りが好き♡",
+    "content_sub_title": "山岸理子",
+    "release_date": "2017-10-16 17:00:00",
+    "created_at": "2017-10-12 15:05:33",
+    "updated_at": "2017-10-12 15:05:33",
+    "content_text": "みなさん、こんにちはー(^^)\r\n\r\nつばきファクトリーの山岸理子です！\r\n\r\n今日のお花は、私が秋で1番好きなお花、、、\r\n\r\n「金木犀」です！！！！\r\n\r\n171016_yamagishi_s.png\r\n\r\n香りが大好きで、\r\nこの香りを嗅ぐと秋が来たな～って毎年思います♡",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "6807",
+        "material_title": "171016_yamagishi_s.png",
+        "material_file": "d8fb4063493949890b4eef78c38dfb7041ba19aefaef1ff4ac28d4cacf7a25f66807.png"
+      }
+    ],
+    "previous_id": "7814",
+    "next_id": "7754",
+    "saved_materials": [
+      "assets/7755_6807_171016_yamagishi_s.png"
+    ]
+  }
+}

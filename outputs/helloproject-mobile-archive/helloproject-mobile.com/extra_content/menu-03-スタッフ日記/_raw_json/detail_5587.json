@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 636,
+    "content_id": "5587",
+    "content_title": "宣伝会議 議事録#7",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-10-26 23:24:00",
+    "created_at": "2016-10-26 23:29:00",
+    "updated_at": "2016-10-26 23:52:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5014",
+        "material_title": "161026_1.jpg",
+        "material_file": "9f0c43e9c3578cda73f798d3f1bc54bb9b61833be472228f6b558a27daa5074a5014.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5015",
+        "material_title": "161026_2.jpg",
+        "material_file": "fefde8d08641e22ed2f9a7cd5bd0d03d91306200ae24c13b987036ee61c6f4855015.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5016",
+        "material_title": "161026_3.jpg",
+        "material_file": "8b80bee81140dc8dbce2ca77e3b10cc9652200e40f2298c310c4feb90ab3db575016.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5587",
+    "content_title": "宣伝会議 議事録#7",
+    "content_sub_title": "",
+    "release_date": "2016-10-26 23:24:00",
+    "created_at": "2016-10-26 23:29:00",
+    "updated_at": "2016-10-26 23:52:59",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と宣伝部員の尾形春水・野中美希・梁川奈々美による7回目の宣伝会議が行われました！\n\nみなさん聞いて頂けましたか？\nついに宣伝部副部長が決定しました！！\n\n妄想動画への投票をして頂いた皆様ありがとうございました！\nぜひ新たに就任した宣伝部副部長の応援も宜しくお願いします。\n\n161026_1.jpg\n\nそして、尾形春水が務めていた書記が野中美希に引き継がれました。\n\n161026_2.jpg\n\n前回宣伝部員によるイベントに関する会議をしましたが、今回の配信日から1ヶ月間、イベント開催に向け開催希望メールの募集も開始いたします。\n今回は開催希望メールを1000通集める事が条件となりましたので、ぜひたくさんの方のメールをお待ちしています！\n\n★注意事項\n--------------------------------------\n・ハロ！モバのマイページに登録しているメールアドレスからのみの受付になります。\n※11/25(金)時点で会員の方\n\n・最初は仮登録のままになっている場合がありますので、きちんとマイページからアドレスが登録されている事を確認して送って下さいね！\n\n・お一人の方が複数通メールを送って頂いても、カウント数は1となります。\n\n・メールは件名に「<b>宣伝部イベント開催希望</b>」と記入して、<a href=\"mailto:halomoba@gmail.com?subject=宣伝部イベント開催希望\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>まで送って下さい。\n\n目標数：1000通\n募集期間：10/25(火)～11/25(金)\n--------------------------------------\n\n今回の書記のメモはこちら！\n\n161026_3.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！\n",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5014",
+        "material_title": "161026_1.jpg",
+        "material_file": "b09706be1f5db855ddb05ed1c85aa4434dfa304e38f376d4c217c12479a6263b5014.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5015",
+        "material_title": "161026_2.jpg",
+        "material_file": "44e2258a8750d50185b12d3188e00d318f34a6ce2495fca35f3cb218c2f7000c5015.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "5016",
+        "material_title": "161026_3.jpg",
+        "material_file": "cb11b2242b0027f943f9ba3ee5c3e100ec550752131be7d57b89e65a914d539c5016.jpeg"
+      }
+    ],
+    "previous_id": "5633",
+    "next_id": "5544",
+    "saved_materials": [
+      "assets/5587_5014_161026_1.jpg",
+      "assets/5587_5015_161026_2.jpg",
+      "assets/5587_5016_161026_3.jpg"
+    ]
+  }
+}

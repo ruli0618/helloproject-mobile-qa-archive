@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 217,
+    "content_id": "21218",
+    "content_title": "MV公開！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-11-16 10:00:00",
+    "created_at": "2023-11-13 21:59:09",
+    "updated_at": "2023-11-13 21:59:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17423",
+        "material_title": "1116_irie_s.jpg",
+        "material_file": "155fd738e1f08f692ad31fa15687e1f6c53aed82958f6d2ed0d3c81650d90f5f17423.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21218",
+    "content_title": "MV公開！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-11-16 10:00:00",
+    "created_at": "2023-11-13 21:59:09",
+    "updated_at": "2023-11-13 21:59:09",
+    "content_text": "入江里咲です！\r\n\r\n\r\n\r\n『ロマンスの途中(2023 10th Juice Ver.)』のMVが公開されました！！\r\n\r\nオケを演奏してくださった楽器隊の皆さんもMVに映っていたりと、、\r\n\r\nとっても豪華な映像になっています♪\r\n\r\n\r\nぜひいっぱい見てね！！\r\n\r\n1116_irie_s.jpg\r\n\r\n\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17423",
+        "material_title": "1116_irie_s.jpg",
+        "material_file": "236d66f075e02697f07c7f4484a2ba13e49d065af0fb52b3363f26821db9d04f17423.jpeg"
+      }
+    ],
+    "previous_id": "21264",
+    "next_id": "21217",
+    "saved_materials": [
+      "assets/21218_17423_1116_irie_s.jpg"
+    ]
+  }
+}

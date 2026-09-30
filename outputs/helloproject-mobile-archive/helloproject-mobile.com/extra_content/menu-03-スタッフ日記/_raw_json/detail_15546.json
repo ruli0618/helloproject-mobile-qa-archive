@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 300,
+    "content_id": "15546",
+    "content_title": "工藤の家の屋根裏部屋#83前編～川村文乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-02-24 19:45:00",
+    "created_at": "2021-02-24 19:45:39",
+    "updated_at": "2021-02-25 11:20:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12941",
+        "material_title": "210224_s.jpg",
+        "material_file": "81001db4e7225a891dfdca8c2491371836506df97a7fc0f462526e100285bc4412941.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15546",
+    "content_title": "工藤の家の屋根裏部屋#83前編～川村文乃～",
+    "content_sub_title": "",
+    "release_date": "2021-02-24 19:45:00",
+    "created_at": "2021-02-24 19:45:39",
+    "updated_at": "2021-02-25 11:20:05",
+    "content_text": "ふくむらの部屋 第83回前編は、もうお聴きになられましたか？\n\n今回はハロ！モバ宣伝部 広報でもある、アンジュルム川村文乃さんが出演！\n\n210224_s.jpg\n\n空はどうして青いのか、\nお気に入りアプリ紹介からスタート！\n\nそれぞれのグループのアルバム楽曲のお話もしてくれました！\n\n「ハロプロファン失敗談」のコーナーでは、\nペンライトあるあるや、空港あるある、スマホの予測変換、ライブでのコール等…\nご自身の経験も交えてトーク。\n\nぜひ聴いてみてくださいね♬\n\n次回、後編は3/9(火)の配信になります。\n\n沢山のお便りお待ちしています！",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12941",
+        "material_title": "210224_s.jpg",
+        "material_file": "fb5495ebdba75a016c0dcf9ef69ac7b31cb0965ab406f78c867c5d5b7cc589da12941.jpeg"
+      }
+    ],
+    "previous_id": "15604",
+    "next_id": "15446",
+    "saved_materials": [
+      "assets/15546_12941_210224_s.jpg"
+    ]
+  }
+}

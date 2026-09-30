@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 26,
+    "content_id": "26391",
+    "content_title": "5月の石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2026-07-05 10:00:00",
+    "created_at": "2026-06-12 10:47:43",
+    "updated_at": "2026-06-12 10:47:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21563",
+        "material_title": "0705_ishii_s.jpg",
+        "material_file": "9f118b010014f4b1f7fd8fc68340091e4392a89450ed6d7cda4c31a480ede57121563.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26391",
+    "content_title": "5月の石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2026-07-05 10:00:00",
+    "created_at": "2026-06-12 10:47:43",
+    "updated_at": "2026-06-12 10:47:43",
+    "content_text": "0705_ishii_s.jpg\r\n\r\nみはみは～！\r\n\r\n春ツアー無事に千秋楽をむかえましたー\r\nすっごく楽しかったですし、10人で真琳さんが頑張っている分も頑張りたかったですし、\r\nもっともっと成長したいって思いましたし、\r\nすごく色んな事を感じて、思い出たくさんなツアーになりました\r\n\r\n5月はスイーツパラダイスさんとのコラボ\r\n「つばきっさ」でもコラボメニューを出させていただいたり、幸せすぎる5月でした\r\n\r\nみなさんの5月はどんなだったかな？\r\n楽しく過ごせましたか？\r\n\r\nそれでは皆さん！今日も一日おつかレッサーレッサーでした！",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21563",
+        "material_title": "0705_ishii_s.jpg",
+        "material_file": "743034ad35f374aef7cb7ffbeaa650540ca2ab870523280790274f1a641d879f21563.jpeg"
+      }
+    ],
+    "previous_id": "26392",
+    "next_id": "26390",
+    "saved_materials": [
+      "assets/26391_21563_0705_ishii_s.jpg"
+    ]
+  }
+}

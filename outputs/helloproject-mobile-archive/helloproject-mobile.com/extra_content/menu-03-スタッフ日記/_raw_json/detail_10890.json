@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 433,
+    "content_id": "10890",
+    "content_title": "隣のやじまん家の塀の裏#42 植村あかり",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-26 18:55:00",
+    "created_at": "2019-02-25 19:19:20",
+    "updated_at": "2019-02-26 18:55:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9354",
+        "material_title": "0226_01_s.jpg",
+        "material_file": "8bca257f319544e0efe25b6319e9f7f2e53e3955613c391780bd65d297021fcb9354.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9355",
+        "material_title": "0226_02_s.jpg",
+        "material_file": "0216336d19bbc6760b1c70865b76386df75c32979c78862049ef46e1f281ab229355.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10890",
+    "content_title": "隣のやじまん家の塀の裏#42 植村あかり",
+    "content_sub_title": "",
+    "release_date": "2019-02-26 18:55:00",
+    "created_at": "2019-02-25 19:19:20",
+    "updated_at": "2019-02-26 18:55:52",
+    "content_text": "隣のやじまん家\n#42配信開始しました！\n\n今回のゲストは、\n矢島さん曰くお菓子作りはパティシエ並！？\n話す雰囲気が菅谷梨沙子さんに似ているという、Juice=Juice植村あかりさん！\n\n0226_02_s.jpg\n\nお互いの親友・室田さん徳永さんの話や、\nパシフィック・ヘブンの思い出、\nファンに謝罪して欲しい事などなど！？\n\n「妄想スピーチ」のコーナーでは、\n春にまつわるお話を、\n「目指せ！アクトレス矢島」のコーナーでは、\nありのまま(?)の2人の姿を演じました！\n\n0226_01_s.jpg\n\n人狼会の約束も、ぜひ果たしてほしいですね♪\n次回もお楽しみに！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「今月のハッピーバースデー♪」「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9354",
+        "material_title": "0226_01_s.jpg",
+        "material_file": "92c3a10e4cd7a125e0f9a37cf28c442e9d765cf9c987e1301bf7701b0caeb2449354.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9355",
+        "material_title": "0226_02_s.jpg",
+        "material_file": "c90ab9d7da3c711426d91cb42c177206ae3f3723005e8800cda43b7982a551559355.jpeg"
+      }
+    ],
+    "previous_id": "10944",
+    "next_id": "10889",
+    "saved_materials": [
+      "assets/10890_9354_0226_01_s.jpg",
+      "assets/10890_9355_0226_02_s.jpg"
+    ]
+  }
+}

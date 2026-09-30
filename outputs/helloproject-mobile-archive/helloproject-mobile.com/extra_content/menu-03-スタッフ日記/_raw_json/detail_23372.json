@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 137,
+    "content_id": "23372",
+    "content_title": "宣伝会議#88",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-07-20 00:00:00",
+    "created_at": "2024-11-28 05:23:06",
+    "updated_at": "2024-11-28 05:23:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19179",
+        "material_title": "88_01_s.jpg",
+        "material_file": "bf583935828c4ed840c0ecec556fcaed3f4e4df672d232ee0ac8c56d13b6aa1019179.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19180",
+        "material_title": "88.jpg",
+        "material_file": "5e07bec18664f9b3f5f25e0a84160532c4ea8f010a550ea0247cbedd9f4e51af19180.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23372",
+    "content_title": "宣伝会議#88",
+    "content_sub_title": "",
+    "release_date": "2023-07-20 00:00:00",
+    "created_at": "2024-11-28 05:23:06",
+    "updated_at": "2024-11-28 05:23:06",
+    "content_text": "宣伝会議第88回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n88_01_s.jpg\r\n\r\n前編では、\r\n・武道館感想\r\n・新メンバーの裏話\r\n・ツアーで印象的な曲\r\n・衣装\r\n・バースデーイベント\r\n・誕生日迎えた瞬間\r\n・バースデーイベント衣装の決め方\r\n・竹内朱莉卒業ライブで印象的な曲\r\nについてトーク！\r\n\r\n後編では、\r\n・新大久保でプリクラ\r\n・遊びに行く場所の決め方\r\n・行列並ぶ？\r\n・やってみたいコスプレ\r\n・バースデーイベント\r\n・武道館公演前の過ごし方\r\n・GUコラボ\r\n・やらないと元気が出ないこと\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「岸本ゆめの」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n88.jpg",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "19179",
+        "material_title": "88_01_s.jpg",
+        "material_file": "99f006881731e96ea448e79271fd913d5df11afb7b9f4dcd3773735710749f6019179.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "19180",
+        "material_title": "88.jpg",
+        "material_file": "c4190d4b9ee564b730693ab7267ef17a25cb47432b33d830635a1081b4c23dd419180.jpeg"
+      }
+    ],
+    "previous_id": "21246",
+    "next_id": "21245",
+    "saved_materials": [
+      "assets/23372_19179_88_01_s.jpg",
+      "assets/23372_19180_88.jpg"
+    ]
+  }
+}

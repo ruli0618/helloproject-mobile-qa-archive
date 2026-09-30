@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 99,
+    "content_id": "23382",
+    "content_title": "宣伝会議#98",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-05-23 00:00:00",
+    "created_at": "2024-11-28 14:56:28",
+    "updated_at": "2024-11-28 14:56:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19211",
+        "material_title": "98_03_s.jpg",
+        "material_file": "d3f1a6d2fafd6662ab4f8e7d12dc5e0f961902c12a3799f4fdd265ce6a72d75119211.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19212",
+        "material_title": "98_02_s.jpg",
+        "material_file": "005fc20383011004c7ba7db216dd53bb7c62fa02b280ae741d7f974ad8fb95dc19212.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19213",
+        "material_title": "98_01_s.jpg",
+        "material_file": "a623e884084d89b20669665546344f044fd112889dfc15cda122b5362520c44219213.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19214",
+        "material_title": "98.jpg",
+        "material_file": "9401ade120e8bc4ba67f80797133b4a23611fb5f3a24a1e85e90b0ea2d6b59d219214.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23382",
+    "content_title": "宣伝会議#98",
+    "content_sub_title": "",
+    "release_date": "2024-05-23 00:00:00",
+    "created_at": "2024-11-28 14:56:28",
+    "updated_at": "2024-11-28 14:56:28",
+    "content_text": "宣伝会議第98回は、野中美希部長・川村文乃副部長の二人でお届け！\r\n\r\n98_01_s.jpg\r\n\r\n前編では、\r\n・JAPAN JAM楽しみ方\r\n・ひなフェスカバーの感想\r\n・高知公演観光案内\r\n・一番忙しい時期\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「好きな食べ物、最初に食べる？最後に食べる？」についてディベート！\r\n\r\n後編では、\r\n・長崎旅行、韓国旅行\r\n・コレクション\r\n・高橋愛とアフタヌーンティー\r\n・未来の太陽で書く漢字\r\n・特撮映画裏話\r\n・ツアーの注目ポイント\r\n・完全プロデュースライブ\r\n・2人でお出かけのきっかけ\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「斉藤円香」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n98.jpg\r\n\r\n98_02_s.jpg\r\n\r\n98_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19211",
+        "material_title": "98_03_s.jpg",
+        "material_file": "f11f85224fe6edfd7eeedc8082a9b006d80a35a9c4b77c5ad1db1b02c0165e3119211.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19212",
+        "material_title": "98_02_s.jpg",
+        "material_file": "d2dc709c429c9fd9232a2f91fb75fe83bde5b13e3466204a69d32c7f7a62e35f19212.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19213",
+        "material_title": "98_01_s.jpg",
+        "material_file": "6c596dc291e79265194fe7f9aa45f658f801e461fa895525069ebb0f8c5c161719213.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19214",
+        "material_title": "98.jpg",
+        "material_file": "af923a851dcfffdacff5785b01505a3735a1ea38d0ba6b2b1149e4d1020b487c19214.jpeg"
+      }
+    ],
+    "previous_id": "22938",
+    "next_id": "22937",
+    "saved_materials": [
+      "assets/23382_19211_98_03_s.jpg",
+      "assets/23382_19212_98_02_s.jpg",
+      "assets/23382_19213_98_01_s.jpg",
+      "assets/23382_19214_98.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 37,
+    "content_id": "26099",
+    "content_title": "ヘッドフォン",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2026-04-27 10:00:00",
+    "created_at": "2026-04-21 23:01:53",
+    "updated_at": "2026-04-21 23:01:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21345",
+        "material_title": "0427_eguchi_s.jpg",
+        "material_file": "f8afcff781e9aeef8abc49211c43a662e138c0cea561c39b9ebfb1b0db7e5d7221345.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26099",
+    "content_title": "ヘッドフォン",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2026-04-27 10:00:00",
+    "created_at": "2026-04-21 23:01:53",
+    "updated_at": "2026-04-21 23:01:53",
+    "content_text": "0427_eguchi_s.jpg\r\nヘッドフォンをつけて、大音量で音楽を聴き込むのが好きです！\r\n\r\n【52周目お題：音が聞こえそう】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21345",
+        "material_title": "0427_eguchi_s.jpg",
+        "material_file": "b0823da3cc09a7a58a495efecb74f72cdb234e711cf2d8d0b27c1d125143a26d21345.jpeg"
+      }
+    ],
+    "previous_id": "26101",
+    "next_id": "26098",
+    "saved_materials": [
+      "assets/26099_21345_0427_eguchi_s.jpg"
+    ]
+  }
+}

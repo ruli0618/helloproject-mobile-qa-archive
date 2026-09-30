@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 340,
+    "content_id": "18761",
+    "content_title": "リボン",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2022-08-30 13:10:00",
+    "created_at": "2022-08-30 13:10:53",
+    "updated_at": "2022-08-30 13:10:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15631",
+        "material_title": "0830_dambara_s.jpg",
+        "material_file": "fe54e5a807e900e0c08f5505133e3db2de4f8319ed9be98ccba307bd4924ca9915631.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18761",
+    "content_title": "リボン",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2022-08-30 13:10:00",
+    "created_at": "2022-08-30 13:10:53",
+    "updated_at": "2022-08-30 13:10:53",
+    "content_text": "0830_dambara_s.jpg\r\nリボンのヘアアレンジ、またやろうかなぁ～",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15631",
+        "material_title": "0830_dambara_s.jpg",
+        "material_file": "d7b3f268c591649ac8483d434879d88f65bf5cdf4ef45b9694fe3a00c540dfe715631.jpeg"
+      }
+    ],
+    "previous_id": "18762",
+    "next_id": "18636",
+    "saved_materials": [
+      "assets/18761_15631_0830_dambara_s.jpg"
+    ]
+  }
+}

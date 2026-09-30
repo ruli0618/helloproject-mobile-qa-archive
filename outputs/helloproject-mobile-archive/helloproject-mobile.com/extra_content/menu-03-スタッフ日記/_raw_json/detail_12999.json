@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 363,
+    "content_id": "12999",
+    "content_title": "隣のやじまん家の塀の裏#65 北川莉央",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-01-30 16:00:00",
+    "created_at": "2020-01-30 13:39:19",
+    "updated_at": "2020-01-30 21:17:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11041",
+        "material_title": "190130_1.jpg",
+        "material_file": "28f262a9574148520ae1c0afd807b4f471b97b5f70a7a3cd7acc826ede7995cd11041.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11042",
+        "material_title": "190130_2.jpg",
+        "material_file": "544b2c71add67f5243e2bd96b2df96f01033da982d2deacd87aed3ae72afaed611042.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12999",
+    "content_title": "隣のやじまん家の塀の裏#65 北川莉央",
+    "content_sub_title": "",
+    "release_date": "2020-01-30 16:00:00",
+    "created_at": "2020-01-30 13:39:19",
+    "updated_at": "2020-01-30 21:17:35",
+    "content_text": "「隣のやじまん家」#65配信中です！\n\n\n今回のゲストは初登場！モーニング娘。'20 北川莉央さん！\n矢島さんとは、初共演！とても緊張されている様子でした。\n\n\n矢島さんの冬ハロー！を観た感想やMVPメンバー、\n北川さんの℃-uteへの印象、秋ツアーファイナル代々木公演についてなど、\n初共演とは思えないほどたくさんお話しています！\n\n190130_1.jpg\n\n\n「矢島パイセンの○○チェック」では、北川さんがドハマりしているもの…。\nそれはなんと…、先輩の加賀楓さん！\n大好きな加賀さんについて存分に語っていただきましたよ♡\n矢島パイセンの判断は、アリ？それともナシ…？\n\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①利き水対決！\n\n北川さんはお水が好き、ツアーでも利き水に挑戦していたということで\nこちらの対決をしてみました！\nまさかの結果にスタッフもびっくり！\n勝敗は配信をチェックしてくださいね。\n\n190130_2.jpg\n\n今回のハロー！ラジオ連動企画は「ふくむらの部屋」から山﨑愛生さん、「宣伝会議」から川村さんの質問に答えましたよ♪\nお2人のパンダさんラブ度は○○％？？<img src=\"/emoji/emoji-images/f44a.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n\n\n2月テーマトークのお題は\n「私のなくてはならない必需品」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストは、こぶしファクトリーの野村みな美さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11041",
+        "material_title": "190130_1.jpg",
+        "material_file": "5b9a85b8d479b41bd77eab67fdf91a0f1cac6635b820f39631283d52466814e211041.jpeg"
+      },
+      {
+        "secretKey": "0e314afd452f4d576856e879750e1af8",
+        "material_id": "11042",
+        "material_title": "190130_2.jpg",
+        "material_file": "6aee5582b412829ba5e5138316cf6ea478b19dd499a82dcc437c5a8b40e92f1211042.jpeg"
+      }
+    ],
+    "previous_id": "13065",
+    "next_id": "12997",
+    "saved_materials": [
+      "assets/12999_11041_190130_1.jpg",
+      "assets/12999_11042_190130_2.jpg"
+    ]
+  }
+}

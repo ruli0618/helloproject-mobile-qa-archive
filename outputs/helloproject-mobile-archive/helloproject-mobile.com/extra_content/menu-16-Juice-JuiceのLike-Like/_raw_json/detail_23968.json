@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 96,
+    "content_id": "23968",
+    "content_title": "夕焼け",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2025-03-13 10:00:00",
+    "created_at": "2025-03-10 20:15:39",
+    "updated_at": "2025-03-10 20:15:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19667",
+        "material_title": "0313_inoue_s.jpg",
+        "material_file": "60d72b72d2565860b4ef5ae7cd9d8d0421d4ee3facc9940640d251bec09cf29319667.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23968",
+    "content_title": "夕焼け",
+    "content_sub_title": "井上玲音",
+    "release_date": "2025-03-13 10:00:00",
+    "created_at": "2025-03-10 20:15:39",
+    "updated_at": "2025-03-10 20:15:39",
+    "content_text": "0313_inoue_s.jpg\r\n合成に見えるこの写真、夕焼け時を逃しただけのただの写真です",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19667",
+        "material_title": "0313_inoue_s.jpg",
+        "material_file": "758a3f619c086378a6b14c2ba91555a6d4663e24abc205a08aea2691621a8e7f19667.jpeg"
+      }
+    ],
+    "previous_id": "24006",
+    "next_id": "23967",
+    "saved_materials": [
+      "assets/23968_19667_0313_inoue_s.jpg"
+    ]
+  }
+}

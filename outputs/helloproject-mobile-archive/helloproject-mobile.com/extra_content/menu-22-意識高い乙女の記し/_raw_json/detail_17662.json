@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 70,
+    "content_id": "17662",
+    "content_title": "チョコテリーヌ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2022-02-14 12:27:00",
+    "created_at": "2022-02-14 12:27:28",
+    "updated_at": "2022-02-14 12:27:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14734",
+        "material_title": "0214_yamagishi_s.jpg",
+        "material_file": "059f71c3bfae622997d568a7b0c2b145c9de802f0c4e6b3366c9d1dc7786914414734.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17662",
+    "content_title": "チョコテリーヌ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2022-02-14 12:27:00",
+    "created_at": "2022-02-14 12:27:28",
+    "updated_at": "2022-02-14 12:27:28",
+    "content_text": "0214_yamagishi_s.jpg\r\nクリスマス前に、チョコテリーヌを作りました☆(´ｰ｀)\r\n\r\nなんと…！\r\n隠し味にカレー粉を入れたんです！\r\n\r\nちょっと大人の味になって\r\n新しい味わいで美味しくできました〜！\r\n\r\n\r\nまた作ってみよっ\r\n\r\n\r\n\r\n＊やまぎしりこ＊",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14734",
+        "material_title": "0214_yamagishi_s.jpg",
+        "material_file": "79d8f69600eac983d3060335705282b2bd73213440276e18aeb0712bf1211ad514734.jpeg"
+      }
+    ],
+    "previous_id": "17684",
+    "next_id": "17655",
+    "saved_materials": [
+      "assets/17662_14734_0214_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 239,
+    "content_id": "20763",
+    "content_title": "夕日と富士山！",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2023-08-28 14:10:00",
+    "created_at": "2023-08-28 14:11:06",
+    "updated_at": "2023-08-28 14:11:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17094",
+        "material_title": "0828_nishida_s.jpg",
+        "material_file": "7220a1b78304e294a19b8e61c94413424b825a716bdcf296f35b44df45227a1f17094.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20763",
+    "content_title": "夕日と富士山！",
+    "content_sub_title": "西田汐里",
+    "release_date": "2023-08-28 14:10:00",
+    "created_at": "2023-08-28 14:11:06",
+    "updated_at": "2023-08-28 14:11:06",
+    "content_text": "0828_nishida_s.jpg\r\n綺麗すぎて合成みたい！\r\n\r\n【28周目お題：映え 】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "17094",
+        "material_title": "0828_nishida_s.jpg",
+        "material_file": "5278e9bfa626632fd86930e4e5a4f75c8d4f585a31b7a94282988b6433916c7417094.jpeg"
+      }
+    ],
+    "previous_id": "20765",
+    "next_id": "20754",
+    "saved_materials": [
+      "assets/20763_17094_0828_nishida_s.jpg"
+    ]
+  }
+}

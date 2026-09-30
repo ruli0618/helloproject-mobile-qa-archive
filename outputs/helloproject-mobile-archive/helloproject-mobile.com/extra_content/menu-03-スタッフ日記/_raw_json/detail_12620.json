@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 378,
+    "content_id": "12620",
+    "content_title": "宣伝会議 議事録#43",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-29 00:00:00",
+    "created_at": "2019-12-02 14:35:32",
+    "updated_at": "2019-12-02 14:35:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10707",
+        "material_title": "191202_s.jpg",
+        "material_file": "a75edc20a86b9ed74f374952cc6e6b5fa70ad4c40d839c2939fe3b8cad8bec7d10707.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12620",
+    "content_title": "宣伝会議 議事録#43",
+    "content_sub_title": "",
+    "release_date": "2019-11-29 00:00:00",
+    "created_at": "2019-12-02 14:35:32",
+    "updated_at": "2019-12-02 14:35:32",
+    "content_text": "ハロ！モバ宣伝会議43回目！\r\n\r\n今回は前田警備兼書記が欠席のため\r\n野中部長、小片副部長、川村広報の3人で会議をおこないました！\r\n\r\n今回は野中部長が20歳の誕生日を迎えたということで\r\n\r\n紫芋のお菓子を食べながらの会議でした！\r\n\r\n芋つながりで今回はイラストマンガリレーの最終回を部員で考え、描きました。\r\n\r\n紆余曲折あった物語の結末は如何に!?\r\n\r\n\r\nそして新たな物語が!?\r\n\r\n\r\nSATOYAMAイベントに向けての話し合いもおこないました！\r\n\r\nまだイベント開催も告知されていない中\r\nいつもギリギリになってしまうので宣伝会議では勝手に話を進行中！！\r\n\r\n何ができるか、出展できるのかも決まっていませんが\r\n皆様からのご意見・ご要望メールも募集します！\r\n\r\n\r\n↓前田書記に代わって川村広報作の議事録はこちら↓\r\n\r\n191202_s.jpg\r\n\r\n「励ましのメール」「お悩み相談メール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※お悩み相談は「お悩み相談」と記入してください。",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10707",
+        "material_title": "191202_s.jpg",
+        "material_file": "1cb592e69349c26c6e633ce6b4824ddd6584990e42c3fde29d4c83dcf4437d9610707.jpeg"
+      }
+    ],
+    "previous_id": "12619",
+    "next_id": "12528",
+    "saved_materials": [
+      "assets/12620_10707_191202_s.jpg"
+    ]
+  }
+}

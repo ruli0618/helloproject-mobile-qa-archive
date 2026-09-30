@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 26,
+    "content_id": "12239",
+    "content_title": "きれいに♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2019-10-08 14:03:00",
+    "created_at": "2019-10-08 14:04:16",
+    "updated_at": "2019-10-08 14:04:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10431",
+        "material_title": "1008_onoda_s.jpg",
+        "material_file": "3a603a0d9b2e46baee065455fe80ed6250e8cd099db7b8e1f92c3435ca4dc7a210431.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12239",
+    "content_title": "きれいに♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2019-10-08 14:03:00",
+    "created_at": "2019-10-08 14:04:16",
+    "updated_at": "2019-10-08 14:04:16",
+    "content_text": "1008_onoda_s.jpg\r\n10月の気温が好きな、さおりです♪\r\nこの間、紫色のきれいなおはなをみつけましたー！\r\nそれでね、写真を撮ってみたら、\r\n肉眼でみるのと同じくらいきれいにとることができたんです！！！！\r\nこの日はとても天気もよくて、\r\nおはなが輝いていましたっ。\r\nお花のきれいさを共有することができて嬉しい♪\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10431",
+        "material_title": "1008_onoda_s.jpg",
+        "material_file": "0cc64cadd43a054140fc1e9243c90bf310c7d1a56ac691cde7c50dc97b30133810431.jpeg"
+      }
+    ],
+    "previous_id": "12251",
+    "next_id": "12227",
+    "saved_materials": [
+      "assets/12239_10431_1008_onoda_s.jpg"
+    ]
+  }
+}

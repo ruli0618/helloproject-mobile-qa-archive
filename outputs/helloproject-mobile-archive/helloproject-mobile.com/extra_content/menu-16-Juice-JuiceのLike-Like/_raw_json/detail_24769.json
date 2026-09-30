@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 70,
+    "content_id": "24769",
+    "content_title": "ハロコン",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2025-08-12 10:00:00",
+    "created_at": "2025-08-06 19:06:46",
+    "updated_at": "2025-08-06 19:07:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20242",
+        "material_title": "250811_irie_s.jpg",
+        "material_file": "3e8b005297472e5625c31a8914f08bfa2c0e661cfeb112f2e162d6de2a5ea4e920242.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24769",
+    "content_title": "ハロコン",
+    "content_sub_title": "入江里咲",
+    "release_date": "2025-08-12 10:00:00",
+    "created_at": "2025-08-06 19:06:46",
+    "updated_at": "2025-08-06 19:07:07",
+    "content_text": "「ハロ！コン2025」スタートしました<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\n250811_irie_s.jpg\n私にとっては一年ぶりのハロコン！\n最後まで楽しむぞー！！",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "20242",
+        "material_title": "250811_irie_s.jpg",
+        "material_file": "cc1d85f7aa56bf24bd454992d3623f337dfcb98a1a94bee0fdef57cf0b40767020242.jpeg"
+      }
+    ],
+    "previous_id": "24776",
+    "next_id": "24768",
+    "saved_materials": [
+      "assets/24769_20242_250811_irie_s.jpg"
+    ]
+  }
+}

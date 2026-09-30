@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 319,
+    "content_id": "19079",
+    "content_title": "ハロウィン",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2022-11-10 10:00:00",
+    "created_at": "2022-11-02 20:53:43",
+    "updated_at": "2022-11-02 20:53:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15862",
+        "material_title": "1110_inoue_s.jpg",
+        "material_file": "5f443e274e76ede432e396413d0ccc835ca3d70c7ff0c2ed914f511859c865da15862.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19079",
+    "content_title": "ハロウィン",
+    "content_sub_title": "井上玲音",
+    "release_date": "2022-11-10 10:00:00",
+    "created_at": "2022-11-02 20:53:43",
+    "updated_at": "2022-11-02 20:53:43",
+    "content_text": "1110_inoue_s.jpg\r\nハロウィン楽しんだかー！！\r\n私は数日前に甥っ子と姪っ子と仮装して、楽しんだよ",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15862",
+        "material_title": "1110_inoue_s.jpg",
+        "material_file": "77a03c22d5a05862e396dd9cfcb5ac78b5f5d1aea385bf7d508c9686dc76c72c15862.jpeg"
+      }
+    ],
+    "previous_id": "19139",
+    "next_id": "19078",
+    "saved_materials": [
+      "assets/19079_15862_1110_inoue_s.jpg"
+    ]
+  }
+}

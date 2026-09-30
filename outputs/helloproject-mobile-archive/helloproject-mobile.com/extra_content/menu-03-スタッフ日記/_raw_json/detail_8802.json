@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 521,
+    "content_id": "8802",
+    "content_title": "宣伝会議 議事録#24",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-27 15:13:00",
+    "created_at": "2018-03-27 15:07:01",
+    "updated_at": "2018-03-27 15:13:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7719",
+        "material_title": "180327_01_s.jpg",
+        "material_file": "4a012855811b99e0f3aa643bd337504ef8a6a2a0100f0394165fd0ef7dc94a077719.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7721",
+        "material_title": "180327_03.jpg",
+        "material_file": "7be93256741a03fa5c047f6c0144842a136534e4d029152aafeb9c40dc340a087721.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7720",
+        "material_title": "180327_02_s.jpg",
+        "material_file": "bde840603b6141db065221d15ed9ca10a76f6019ca2c440cffe581a67e4027b97720.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8802",
+    "content_title": "宣伝会議 議事録#24",
+    "content_sub_title": "",
+    "release_date": "2018-03-27 15:13:00",
+    "created_at": "2018-03-27 15:07:01",
+    "updated_at": "2018-03-27 15:13:28",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美・部員の小片リサによる24回目の宣伝会議が行われました！\r\n\r\n小片が加入して2回目の宣伝会議。\r\n尾形・小片問題はスタッフ内でも、どうにかしなければと思ってます・・・。\r\n\r\n180327_02_s.jpg\r\n\r\n今回は3/31・4/1に行われるSATOYAMA &SATOUMIイベントに向けて色々準備をしました。\r\n\r\nイベントのタイムテーブルも発表になりましたね。\r\n\r\n<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">★イベント情報はこちら★</a>\r\n\r\nハロ！モバブースでお待ちしております！\r\n\r\n180327_01_s.jpg\r\n\r\n今回の書記のメモはこちら！ \r\n\r\n180327_03.jpg\r\n\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7719",
+        "material_title": "180327_01_s.jpg",
+        "material_file": "15e4f8d821d4254d9b0559e6dcf0b0b5d262fe3702ee61e9a49438575783512e7719.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7721",
+        "material_title": "180327_03.jpg",
+        "material_file": "a091b68907d09fa4f22b2374815a8b9db192007e27cc25825bf4241d64fb62397721.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7720",
+        "material_title": "180327_02_s.jpg",
+        "material_file": "b36b98365572a4957df67445ee59c8ecbf572500ed6402f3e13e3624f01133927720.jpeg"
+      }
+    ],
+    "previous_id": "8804",
+    "next_id": "8797",
+    "saved_materials": [
+      "assets/8802_7719_180327_01_s.jpg",
+      "assets/8802_7721_180327_03.jpg",
+      "assets/8802_7720_180327_02_s.jpg"
+    ]
+  }
+}

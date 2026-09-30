@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 170,
+    "content_id": "14218",
+    "content_title": "マスク♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2020-07-24 19:42:00",
+    "created_at": "2020-07-24 19:44:07",
+    "updated_at": "2020-07-24 19:44:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11839",
+        "material_title": "0724_onoda_s.jpg",
+        "material_file": "826bc5dbc9882d0aa5b78f413b2dd6198cf401452a591bb3104b6133389d6a9d11839.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14218",
+    "content_title": "マスク♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2020-07-24 19:42:00",
+    "created_at": "2020-07-24 19:44:07",
+    "updated_at": "2020-07-24 19:44:07",
+    "content_text": "腕を組んで寝てしまっていた、さおりです♪\r\n\r\n元気に過ごしていますか！？\r\n\r\nこんな時だからこそ、前に、\r\n\r\nマスクをつくりました！！\r\n\r\n0724_onoda_s.jpg\r\n\r\nその時の写真なのですが、\r\n\r\nマスクって作るの難しいんですね、、、\r\n\r\nこれからも、お裁縫がんばりたいと思います！\r\n\r\nバイバイ♡\r\n",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11839",
+        "material_title": "0724_onoda_s.jpg",
+        "material_file": "595c14e609948dce297cf5ca9d9d39fdafe59b11c8c780c3d7233b666559d54211839.jpeg"
+      }
+    ],
+    "previous_id": "14245",
+    "next_id": "14179",
+    "saved_materials": [
+      "assets/14218_11839_0724_onoda_s.jpg"
+    ]
+  }
+}

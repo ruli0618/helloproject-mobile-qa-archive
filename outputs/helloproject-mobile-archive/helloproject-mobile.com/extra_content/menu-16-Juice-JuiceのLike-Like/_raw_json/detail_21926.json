@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 182,
+    "content_id": "21926",
+    "content_title": "いちご",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-03-26 10:00:00",
+    "created_at": "2024-03-18 19:22:06",
+    "updated_at": "2024-03-18 19:22:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17990",
+        "material_title": "0326_dambara_s.jpg",
+        "material_file": "c6099a4b59d9c7e959be18d6ede3d8a44a790ca3e3733eab7f032e00095d60e317990.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21926",
+    "content_title": "いちご",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-03-26 10:00:00",
+    "created_at": "2024-03-18 19:22:06",
+    "updated_at": "2024-03-18 19:22:06",
+    "content_text": "0326_dambara_s.jpg\r\nとちおとめのいちご狩り、大きくて甘くておいしかったな〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "17990",
+        "material_title": "0326_dambara_s.jpg",
+        "material_file": "1170821f6295f00c9122f796b2666952d86a5eb921a1b65e69aebadb5e9b406817990.jpeg"
+      }
+    ],
+    "previous_id": "21974",
+    "next_id": "21925",
+    "saved_materials": [
+      "assets/21926_17990_0326_dambara_s.jpg"
+    ]
+  }
+}

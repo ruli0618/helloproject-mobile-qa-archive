@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 171,
+    "content_id": "19570",
+    "content_title": "遅い年賀状",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-01-27 12:00:00",
+    "created_at": "2023-01-27 12:01:23",
+    "updated_at": "2023-01-27 12:01:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19570",
+    "content_title": "遅い年賀状",
+    "content_sub_title": "",
+    "release_date": "2023-01-27 12:00:00",
+    "created_at": "2023-01-27 12:01:23",
+    "updated_at": "2023-01-27 12:01:23",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n先日、年賀状を発送してきました！\r\n早ければ本日から、当選者のみなさまのお宅のポストに入っているかと思います。\r\n※地域によっては郵便が遅れる場合がございます。\r\n\r\nもし年賀状が届いた方は、ぜひハガキの写真を撮って、ハッシュタグ「<a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a>」をつけて、ぜひSNSに画像をアップしてください！\r\n\r\n<a href=\"http://helloproject-mobile.com/info/special/content?page=nenshi_2023/index\" target=\"_blank\">年始特集ページ</a>の公開は、1月いっぱいまでですのでお見逃しなく！\r\nオリジナルおみくじも毎日ひいてみてくださいね♬",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "21233",
+    "next_id": "23366",
+    "saved_materials": []
+  }
+}

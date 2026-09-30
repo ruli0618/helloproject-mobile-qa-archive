@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 862,
+    "content_id": "4942",
+    "content_title": "宇宙柄／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-07-11 14:21:00",
+    "created_at": "2016-07-11 14:18:34",
+    "updated_at": "2016-07-11 14:21:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "4467",
+        "material_title": "204630_s.jpg",
+        "material_file": "13d017c98e01e3a7e16fed7db2b914c8b072e7d33c1ad502404ac7ad8bdf43494467.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 862,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "4942",
+    "content_title": "宇宙柄／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-07-11 14:21:00",
+    "created_at": "2016-07-11 14:18:34",
+    "updated_at": "2016-07-11 14:21:33",
+    "content_text": "204630_s.jpg\r\nCode3千秋楽迎えました〜！！宇宙柄のこの衣装大好きでした(*^^*)",
+    "materials": [
+      {
+        "secretKey": "be6a53c2901c686555241fa142fd29f9",
+        "material_id": "4467",
+        "material_title": "204630_s.jpg",
+        "material_file": "e9b7c7aa7073ebdd07208657cf45914e98f2bc969207d6ac6d7f5b9fcc16fcce4467.jpeg"
+      }
+    ],
+    "previous_id": "4944",
+    "next_id": "4926",
+    "saved_materials": [
+      "assets/4942_4467_204630_s.jpg"
+    ]
+  }
+}

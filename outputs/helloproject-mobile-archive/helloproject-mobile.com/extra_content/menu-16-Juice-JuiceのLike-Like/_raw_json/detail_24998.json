@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 57,
+    "content_id": "24998",
+    "content_title": "恋しい",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-09-30 10:00:00",
+    "created_at": "2025-09-24 14:10:48",
+    "updated_at": "2025-09-24 14:10:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20426",
+        "material_title": "0930_kudo_s.jpg",
+        "material_file": "fb7b99b0d22808f9e58146707522ed3b1e03b41c4d3fb5846b5558d38bee8eb420426.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24998",
+    "content_title": "恋しい",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-09-30 10:00:00",
+    "created_at": "2025-09-24 14:10:48",
+    "updated_at": "2025-09-24 14:10:48",
+    "content_text": "0930_kudo_s.jpg\r\nりあいが作ってくれたお弁当の写真を見る度に、、、\r\nお弁当が恋しくて仕方がありません泣\r\nまた食べたいアモ",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20426",
+        "material_title": "0930_kudo_s.jpg",
+        "material_file": "36c819f49cdf09cc0ccd1e078f5597d6b927c90fd480d2833cd6ea267811203520426.jpeg"
+      }
+    ],
+    "previous_id": "24999",
+    "next_id": "24997",
+    "saved_materials": [
+      "assets/24998_20426_0930_kudo_s.jpg"
+    ]
+  }
+}

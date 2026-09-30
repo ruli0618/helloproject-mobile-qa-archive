@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 137,
+    "content_id": "23480",
+    "content_title": "クリスマス",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-01-01 10:00:00",
+    "created_at": "2024-12-16 15:31:34",
+    "updated_at": "2024-12-16 15:31:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19314",
+        "material_title": "0101_okamura_s.jpg",
+        "material_file": "9055e59756ec3585a776330b145c45516e313d174663a56df686661078fbe44f19314.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23480",
+    "content_title": "クリスマス",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-01-01 10:00:00",
+    "created_at": "2024-12-16 15:31:34",
+    "updated_at": "2024-12-16 15:31:34",
+    "content_text": "0101_okamura_s.jpg\r\nクリスマスの準備が一年でいちばん大好きなイベントです♡\r\n\r\n【39周目お題：イベント】",
+    "materials": [
+      {
+        "secretKey": "eb591b537d7ab956e6f5de307aa7f773",
+        "material_id": "19314",
+        "material_title": "0101_okamura_s.jpg",
+        "material_file": "8f58ec5486e312f8c6e428da2f1e50afc1a05503b6d697d07019cf057cd0c98b19314.jpeg"
+      }
+    ],
+    "previous_id": "23481",
+    "next_id": "23479",
+    "saved_materials": [
+      "assets/23480_19314_0101_okamura_s.jpg"
+    ]
+  }
+}

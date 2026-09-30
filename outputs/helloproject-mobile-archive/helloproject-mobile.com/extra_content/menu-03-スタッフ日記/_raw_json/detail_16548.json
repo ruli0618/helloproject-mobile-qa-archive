@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 275,
+    "content_id": "16548",
+    "content_title": "MVP",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-08-17 13:19:00",
+    "created_at": "2021-08-17 13:19:16",
+    "updated_at": "2021-08-17 13:27:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13814",
+        "material_title": "E87CH0uVoAUAD7I_s.jpg",
+        "material_file": "c25fa9bb9831008040b75965e41fde0071ec9d70e176acdfe57ab0f73de3daf713814.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16548",
+    "content_title": "MVP",
+    "content_sub_title": "",
+    "release_date": "2021-08-17 13:19:00",
+    "created_at": "2021-08-17 13:19:16",
+    "updated_at": "2021-08-17 13:27:41",
+    "content_text": "こんにちは！スタッフ番号2番です。\n\n昨夜放送されました「ソロフェス！2」\n皆さんはご覧になられましたか？\n\nこれから見るよ！という方は、以下ネタバレを含みます。\n\n\n\n\n\n↓↓↓\n\n\n\n\n↓↓↓\n\n\n\n\n↓↓↓\n\n\n\n\nこの度の「Hello! Project presents…『ソロフェス！2』」にて、我らがハロ！モバ宣伝部 野中美希部長がMVPを受賞しました！\n\nE87CH0uVoAUAD7I_s.jpg\n\nおめでとうございます<img src=\"/emoji/emoji-images/f3a7.gif\"/>\n昨年の川村文乃副部長の受賞に続き、宣伝部員の受賞になりますね<img src=\"/emoji/emoji-images/4551.gif\"/>\n\n10月放送予定のMVPご褒美特番も今から楽しみです<img src=\"/emoji/emoji-images/f6de.gif\"/>\n噂では原宿の竹下通りにMVP記念看板も設置されているとか…要チェックお願いします！\n\n見逃してしまったという方は、8/21(土)放送の再放送をご覧ください。\n以下、関連番組情報です。\n\n8/21(土)16:30～22:00\nBSスカパー！「Hello! Project presents…『ソロフェス！2』」\n※再放送\n※スカパー！オンデマンドで同時配信。\n\n9/12(日)17:00～19:00\nテレ朝チャンネル1「Hello! Project presents「ソロフェス！2」MIP決定！舞台裏密着特番」\n※スカパー！オンデマンドで同時配信。\n\n10/23(土)16:00～(予定)\nHello! Project presents「ソロフェス！2」MVP野中美希ご褒美特番(仮)\n\n\nMIP投票は、8月23日(月)23:59まで。\nお忘れなく！\n\n全ての詳細は、<a href=\"https://www.tv-asahi.co.jp/ch/recommend/helloproject_live_program/\" target=\"_blank\">番組公式HP</a>をチェック！",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13814",
+        "material_title": "E87CH0uVoAUAD7I_s.jpg",
+        "material_file": "508a0dd22f3e00030860947347df5d0e9ad471c3ae8a5ac92af35deae6d03e6413814.jpeg"
+      }
+    ],
+    "previous_id": "16553",
+    "next_id": "16526",
+    "saved_materials": [
+      "assets/16548_13814_E87CH0uVoAUAD7I_s.jpg"
+    ]
+  }
+}

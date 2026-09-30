@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 309,
+    "content_id": "15311",
+    "content_title": "隣のやじまん家の塀の裏#79 山岸理子",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-12-28 00:00:00",
+    "created_at": "2021-01-18 15:45:37",
+    "updated_at": "2021-01-18 15:48:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12741",
+        "material_title": "20210118_1.jpg",
+        "material_file": "bc776165418c557d54edbbdd944fe9daf16aba8644ec881f10cd9cf5852fb31112741.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12742",
+        "material_title": "20210118_2.jpg",
+        "material_file": "35fe852424382cd69856e66437673d6a4540f4fa89874b7d984ab3c1c7fcac5612742.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15311",
+    "content_title": "隣のやじまん家の塀の裏#79 山岸理子",
+    "content_sub_title": "",
+    "release_date": "2020-12-28 00:00:00",
+    "created_at": "2021-01-18 15:45:37",
+    "updated_at": "2021-01-18 15:48:18",
+    "content_text": "「隣のやじまん家」第79回 前後編配信中です！\n\n2020年ラストのゲストはつばきファクトリー 山岸理子さん！！\n\nトークテーマ「2020年を振り返って」にたくさんのお便りありがとうございました。\n今年起きたハプニングや、山岸さんがソロフェスで披露した℃-uteの「会いたい会いたい会いたいな」についてもお聴き逃しなく！\n\n5月に発売した山岸さんのセカンド写真集「R-21」の裏話も聞けちゃいます♡\nまだ購入していない方はぜひ写真集もチェックしてくださいね！\n矢島さんも収録終わりに見て、絶賛していましたよ<img src=\"/emoji/emoji-images/5047.gif\"/>\n\n20210118_2.jpg\n\n「矢島パイセンの○○チェック」では\nファンの間では有名な「四つ葉事件」についてのタレコミ<img src=\"/emoji/emoji-images/4530.gif\"/>！\n矢島パイセンの判断はアリ？それともナシ？\n\n\n今回の「VS矢島」はこちらの対決！\n\n①鬼滅の刃風！技名対決！\n\n「〇〇の呼吸 〇〇の型 〇〇〇〇！！」を自分にまつわるような要素でどちらがより強そうな技かで対決しました！\nこちらは後編からお聴きください！\n\n\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から竹内さん、「宣伝会議」から前田さんの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n20210118_1.jpg\n\n次回から「新コーナー案」を募集します<img src=\"/emoji/emoji-images/f37e.gif\"/><img src=\"/emoji/emoji-images/f37e.gif\"/>\n隣のやじまん家にやって欲しい企画やコーナーがありましたらどしどしお送りください！\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n2021年1発目のゲストはBEYOOOOONDS/CHICA#TETSU 西田汐里さんが登場！\n1/19(火)～前編・2/2(火)～後編の配信スタート！お楽しみに！\nよいお年をお過ごしください<img src=\"/emoji/emoji-images/f3e2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12741",
+        "material_title": "20210118_1.jpg",
+        "material_file": "5a1a585c46c6c1d02835950b7e65140280a0b920213c7e0b6020f0836f551e8112741.jpeg"
+      },
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12742",
+        "material_title": "20210118_2.jpg",
+        "material_file": "f1b8d544c56eb799bfed20cbb59e8d172516b0e9bea0f68453c3fae580631e1312742.jpeg"
+      }
+    ],
+    "previous_id": "15192",
+    "next_id": "15252",
+    "saved_materials": [
+      "assets/15311_12741_20210118_1.jpg",
+      "assets/15311_12742_20210118_2.jpg"
+    ]
+  }
+}

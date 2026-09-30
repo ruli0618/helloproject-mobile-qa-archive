@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 464,
+    "content_id": "10246",
+    "content_title": "工藤の家の屋根裏部屋#36～石田亜佑美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-07 11:27:00",
+    "created_at": "2018-11-07 11:28:15",
+    "updated_at": "2018-11-07 11:28:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8876",
+        "material_title": "181107_01_s.jpg",
+        "material_file": "d2122a52f8f452128065237cceddaf572bf7536cc4ad1e3c0f2112cfa815edc88876.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8877",
+        "material_title": "181107_03_s.jpg",
+        "material_file": "1834b3c7c4bb614897258aa86b13a240ce53aeba61f5e3d21a11007477374a858877.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8878",
+        "material_title": "181107_02_s.jpg",
+        "material_file": "6a918c02b338b91fcb3ecb5f6b0afa6f595fc6c7a7ed45014fc84d0fc3ef9afc8878.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10246",
+    "content_title": "工藤の家の屋根裏部屋#36～石田亜佑美～",
+    "content_sub_title": "",
+    "release_date": "2018-11-07 11:27:00",
+    "created_at": "2018-11-07 11:28:15",
+    "updated_at": "2018-11-07 11:28:23",
+    "content_text": "「ふくむらの部屋」36回目の配信が開始しました！\r\n\r\n今回はモーニング娘。’18石田亜佑美さんが登場。\r\n収録時はまだ誕生日前で21歳の譜久村さん。\r\n\r\n181107_01_s.jpg\r\n\r\nたくさんお話ししたいとのことで\r\n今回は譜久村さんのソロでのオープニングトークはナシでお送りします！\r\n\r\n181107_02_s.jpg\r\n写真はお揃いのような袖をアピールする2人\r\n\r\n\r\nあんなことしたい！こんなことしたい！\r\nいろいろな夢を語っています！\r\n\r\n181107_03_s.jpg\r\n\r\nハロー！Q&Aでの「弱ってんじゃねぇーーーよ！！！ 」について\r\n石田さんがアンケート事情を解説。\r\n\r\n「もしも…」の歌詞にも出てくるお腹がキュルルとなった時のカワし方とは!?\r\n\r\nハロフェスの裏話もたーっぷりしています！\r\n\r\n\r\n次回のゲストはモーニング娘。'18小田さくらが登場！（メールの募集は終了しました。）\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8876",
+        "material_title": "181107_01_s.jpg",
+        "material_file": "5ac386bda287b27756360b53df6aa754781df4eebfa48532e3ea8b07cadf13408876.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8877",
+        "material_title": "181107_03_s.jpg",
+        "material_file": "964e533404cab5a682a81f6a9db451cef8c58b47ac3e707a5ba75a919a98e9028877.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8878",
+        "material_title": "181107_02_s.jpg",
+        "material_file": "6c08888efd75332185ca68456bec874a079b06c9b4281dde45e71e3c938daf6b8878.jpeg"
+      }
+    ],
+    "previous_id": "10284",
+    "next_id": "10220",
+    "saved_materials": [
+      "assets/10246_8876_181107_01_s.jpg",
+      "assets/10246_8877_181107_03_s.jpg",
+      "assets/10246_8878_181107_02_s.jpg"
+    ]
+  }
+}

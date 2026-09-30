@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 640,
+    "content_id": "10870",
+    "content_title": "バースデーイベントin北海道",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-02-18 20:56:00",
+    "created_at": "2019-02-18 20:57:33",
+    "updated_at": "2019-02-18 20:58:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9336",
+        "material_title": "inaba_01_s.jpg",
+        "material_file": "dbe2aecf9de3a819373ae0ac721c77b0d6d11e7dc17a68add08fa6f5ca7ec6a69336.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10870",
+    "content_title": "バースデーイベントin北海道",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-02-18 20:56:00",
+    "created_at": "2019-02-18 20:57:33",
+    "updated_at": "2019-02-18 20:58:09",
+    "content_text": "inaba_01_s.jpg\n1月9日に稲場愛香バースデーイベントin北海道を行わせて頂きました！歌唱はできずで申し訳なかったのですが…みなさんのお陰で楽しい時間を過ごす事ができました。ハロプロ研修生北海道のめんこちゃんたち、そしてなまらレンジャーのみんな(笑)も イベントを盛り上げてくれました♪みなさん、みんなに感謝です。\nありがとうございました<img src=\"/emoji/emoji-images/f7b2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9336",
+        "material_title": "inaba_01_s.jpg",
+        "material_file": "7670248a8871dc93dd8c9a540e5329c96e217f9b7ee4c53f7ebdfe36df269e099336.jpeg"
+      }
+    ],
+    "previous_id": "10874",
+    "next_id": "10610",
+    "saved_materials": [
+      "assets/10870_9336_inaba_01_s.jpg"
+    ]
+  }
+}

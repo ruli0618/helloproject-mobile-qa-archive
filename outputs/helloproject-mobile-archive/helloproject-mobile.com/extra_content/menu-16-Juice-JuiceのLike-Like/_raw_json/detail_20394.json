@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 256,
+    "content_id": "20394",
+    "content_title": "井上さん",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-06-22 10:00:00",
+    "created_at": "2023-06-20 22:37:52",
+    "updated_at": "2023-06-20 22:37:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16827",
+        "material_title": "0622_ebata_s.jpg",
+        "material_file": "91d4139dd466236ccb964de5770dc7b277d6c2c612f2d19d386db93718ff24da16827.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20394",
+    "content_title": "井上さん",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-06-22 10:00:00",
+    "created_at": "2023-06-20 22:37:52",
+    "updated_at": "2023-06-20 22:37:52",
+    "content_text": "0622_ebata_s.jpg\r\nやっほえば〜\r\n\r\n江端妃咲ですっ\r\n\r\n\r\n先日リミスタ インターネットサイン会がありました〜\r\n\r\n井上さんといたら素がだせてずっと笑ってられます＾＾\r\n井上さん大好きー！\r\n\r\n\r\n終わってからはめっちゃ久しぶりのエクレアを食べました\r\n\r\n美味しいすぎる＾＾\r\n\r\nサイン会のアーカイブ見ながらたべた笑笑\r\n\r\n楽しかったな〜（余韻）\r\n\r\n\r\nじゃあねー！",
+    "materials": [
+      {
+        "secretKey": "9ed02a745e9125ff252fa13ebc2a45fe",
+        "material_id": "16827",
+        "material_title": "0622_ebata_s.jpg",
+        "material_file": "ea3d745bc5e8bb06c10d1f98f1daa7100e1b36ff2a289244876c46845c47d99a16827.jpeg"
+      }
+    ],
+    "previous_id": "20426",
+    "next_id": "20391",
+    "saved_materials": [
+      "assets/20394_16827_0622_ebata_s.jpg"
+    ]
+  }
+}

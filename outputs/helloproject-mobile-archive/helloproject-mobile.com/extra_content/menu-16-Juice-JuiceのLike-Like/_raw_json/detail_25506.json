@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 40,
+    "content_id": "25506",
+    "content_title": "かんそう",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-12-25 10:00:00",
+    "created_at": "2025-12-19 11:45:43",
+    "updated_at": "2026-01-14 17:27:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20841",
+        "material_title": "1223_ebata_s.jpg",
+        "material_file": "eab698276dd2979760f02e67cae7e75e63426d593c848c1a9ff4d9345f8f77ed20841.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25506",
+    "content_title": "かんそう",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-12-25 10:00:00",
+    "created_at": "2025-12-19 11:45:43",
+    "updated_at": "2026-01-14 17:27:18",
+    "content_text": "1223_ebata_s.jpg\r\nえばです^_^\r\n\r\nフユ。。\r\n乾燥しすぎて毎日保湿しまくってます\r\n私は、頑張って乾燥から走って逃げ切りたいと思います！！\r\n\r\n写真はみふちゃんと京都→東京に行く時の写真\r\nみふちゃん、すやすや寝てます₊˚⊹ \r\n\r\nばいばい",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20841",
+        "material_title": "1223_ebata_s.jpg",
+        "material_file": "e3e457de64a5bcbf2d102d23fa0b14cd4b2f377c81e97cf7514fc688de5ba5dc20841.jpeg"
+      }
+    ],
+    "previous_id": "25592",
+    "next_id": "25507",
+    "saved_materials": [
+      "assets/25506_20841_1223_ebata_s.jpg"
+    ]
+  }
+}

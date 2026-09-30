@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 753,
+    "content_id": "8341",
+    "content_title": "空／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-01-14 11:00:00",
+    "created_at": "2018-01-09 20:07:53",
+    "updated_at": "2018-01-09 20:07:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7327",
+        "material_title": "0114_uemura_s.jpg",
+        "material_file": "90ef6be9b69cf0ca3b47aad5c01536a5e3069f3ea750c2f96db153506aaecec97327.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8341",
+    "content_title": "空／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2018-01-14 11:00:00",
+    "created_at": "2018-01-09 20:07:53",
+    "updated_at": "2018-01-09 20:07:53",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\n空～<img src=\"/emoji/emoji-images/f68c.gif\"/>\r\n\r\n\r\n0114_uemura_s.jpg\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7327",
+        "material_title": "0114_uemura_s.jpg",
+        "material_file": "7e55392324bb1f45344a9572ba51e364a9fedd24439a9c7df218326c70f269177327.jpeg"
+      }
+    ],
+    "previous_id": "8315",
+    "next_id": "8312",
+    "saved_materials": [
+      "assets/8341_7327_0114_uemura_s.jpg"
+    ]
+  }
+}

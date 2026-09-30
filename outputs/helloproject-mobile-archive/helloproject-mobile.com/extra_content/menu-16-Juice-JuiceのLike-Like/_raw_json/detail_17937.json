@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 380,
+    "content_id": "17937",
+    "content_title": "乗馬",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-04-07 15:20:00",
+    "created_at": "2022-04-07 15:20:48",
+    "updated_at": "2022-04-07 15:20:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "14993",
+        "material_title": "0407_arisawa.jpeg",
+        "material_file": "6ec13cf9ba9d2d3159c59f362db74f4eb48ec442fad08834b1a25a1a873f5e7414993.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17937",
+    "content_title": "乗馬",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-04-07 15:20:00",
+    "created_at": "2022-04-07 15:20:48",
+    "updated_at": "2022-04-07 15:20:48",
+    "content_text": "0407_arisawa.jpeg\r\n今日は、馬に乗ってる夢を見ました。\r\n\r\n\r\nパッカパッカして楽しかった〜！\r\n\r\n中学の時の友達が乗馬を習っていて、楽しそうだな〜って当時思ってたんだっ笑\r\n\r\n夢にもその女の子出てきたから、久しぶりな感覚だった笑\r\n久しぶりに連絡してみようかな",
+    "materials": [
+      {
+        "secretKey": "160f33b18c635eb9fe5fb1a3c3752057",
+        "material_id": "14993",
+        "material_title": "0407_arisawa.jpeg",
+        "material_file": "5a069a017ca408c1a22d745e8e30386a266d3ed58a35c5c131b3f2db0f5b266d14993.jpeg"
+      }
+    ],
+    "previous_id": "17942",
+    "next_id": "17898",
+    "saved_materials": [
+      "assets/17937_14993_0407_arisawa.jpeg"
+    ]
+  }
+}

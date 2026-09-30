@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 140,
+    "content_id": "15312",
+    "content_title": "毎日",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2021-01-18 18:39:00",
+    "created_at": "2021-01-18 18:40:01",
+    "updated_at": "2021-01-18 18:40:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12743",
+        "material_title": "0118_onoda_s.jpg",
+        "material_file": "5790ec4f6af8c64676c269d9b0a0eb73f6337ee669eea9495a08ac483a130dac12743.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15312",
+    "content_title": "毎日",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2021-01-18 18:39:00",
+    "created_at": "2021-01-18 18:40:01",
+    "updated_at": "2021-01-18 18:40:01",
+    "content_text": "毎日パックをしているさおりです♪\r\n\r\n最近ハロコンで、\r\n\r\n濃すぎず薄すぎないメイクを頑張っています笑\r\n\r\n中々度合いがわからないので、、、\r\n\r\n今回のハロコンで学んでいきたいです！！\r\n\r\n手先を器用にがんばるぞお。\r\n\r\n今日も、さおりの写真です♪\r\n\r\n0118_onoda_s.jpg\r\n\r\nバイバイ♡\r\n",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12743",
+        "material_title": "0118_onoda_s.jpg",
+        "material_file": "e07a849e45e3c956ab6177e0c8e3a8c42528796bc29ebe8d12a3466159b624cd12743.jpeg"
+      }
+    ],
+    "previous_id": "15374",
+    "next_id": "15302",
+    "saved_materials": [
+      "assets/15312_12743_0118_onoda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 304,
+    "content_id": "19459",
+    "content_title": "クリスマス",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-01-03 10:00:00",
+    "created_at": "2022-12-27 22:41:44",
+    "updated_at": "2023-01-10 16:07:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16137",
+        "material_title": "0102_ebata_s.jpg",
+        "material_file": "dd0b409bda91863825c8eec3e543f6d21edd05275c8ce4ce7573c3d04481cba916137.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19459",
+    "content_title": "クリスマス",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-01-03 10:00:00",
+    "created_at": "2022-12-27 22:41:44",
+    "updated_at": "2023-01-10 16:07:34",
+    "content_text": "0102_ebata_s.jpg\r\nやっほう\r\n\r\n\r\nえばだよーん\r\n\r\n\r\n\r\nクリスマスは楽しかったですか！\r\n\r\n\r\nえばは楽しかったよ！\r\n\r\n\r\nちゃんとチキンもケーキも食べた！\r\n\r\n\r\nみんなは何食べた？？\r\n\r\n\r\nサンタさんはきた？？\r\n\r\nサンタさんは私はこなかった！\r\n\r\n\r\nもう数年前から笑笑笑\r\n\r\n\r\n\r\nサンタさーーーん\r\n\r\n\r\n\r\n江端妃咲でしたあ〜",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16137",
+        "material_title": "0102_ebata_s.jpg",
+        "material_file": "be2f3df09d2ebb92501060bd3fe46f7abfd60b36ddc5ec886ec0238a97bc02c016137.jpeg"
+      }
+    ],
+    "previous_id": "19494",
+    "next_id": "19417",
+    "saved_materials": [
+      "assets/19459_16137_0102_ebata_s.jpg"
+    ]
+  }
+}

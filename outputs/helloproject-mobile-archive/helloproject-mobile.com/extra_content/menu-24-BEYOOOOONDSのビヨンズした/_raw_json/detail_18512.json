@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 311,
+    "content_id": "18512",
+    "content_title": "オシャレな角度",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2022-07-25 10:00:00",
+    "created_at": "2022-07-14 17:27:44",
+    "updated_at": "2022-07-14 17:29:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15412",
+        "material_title": "0725_nishida_s.jpg",
+        "material_file": "5c564a799ecdd40c7aa211d83d920f6560bb48e73d39efe96015eb4283aa6ff515412.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18512",
+    "content_title": "オシャレな角度",
+    "content_sub_title": "西田汐里",
+    "release_date": "2022-07-25 10:00:00",
+    "created_at": "2022-07-14 17:27:44",
+    "updated_at": "2022-07-14 17:29:17",
+    "content_text": "0725_nishida_s.jpg\r\n家族でディズニーランドに行った時の写真！\r\n\r\n【20周目お題：オシャレ】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15412",
+        "material_title": "0725_nishida_s.jpg",
+        "material_file": "b16ebf55893a03c969dc5d1b28a9f7c9aaefbc791d6e4e4e2ac322e4c53ff43915412.jpeg"
+      }
+    ],
+    "previous_id": "18513",
+    "next_id": "18511",
+    "saved_materials": [
+      "assets/18512_15412_0725_nishida_s.jpg"
+    ]
+  }
+}

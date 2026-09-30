@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 243,
+    "content_id": "17649",
+    "content_title": "工藤の家の屋根裏部屋#99～浅倉樹々～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-02-02 19:26:00",
+    "created_at": "2022-02-02 19:26:10",
+    "updated_at": "2022-02-03 14:36:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14718",
+        "material_title": "220202_f99_01.jpg",
+        "material_file": "fa93b07c38429e0ec263e2390c4235f872e0583ec342320ee6020b389d032a2714718.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14719",
+        "material_title": "220202_f99_02.jpg",
+        "material_file": "3f6913d137e43c25a0f3e77adf12173fc26529996472a37df71687b260d253fb14719.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17649",
+    "content_title": "工藤の家の屋根裏部屋#99～浅倉樹々～",
+    "content_sub_title": "",
+    "release_date": "2022-02-02 19:26:00",
+    "created_at": "2022-02-02 19:26:10",
+    "updated_at": "2022-02-03 14:36:27",
+    "content_text": "ふくむらの部屋 第99回のゲストは、つばきファクトリー浅倉樹々さんが登場！\r\n\r\n新年1回目の配信らしく、お二人の新年の目標(グループ・個人・ハロー！プロジェクト)を教えてくれました。\r\n\r\n日本武道館公演での振りから、フリーダンスに関してもトーク！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ボーカルRECまでのマイルーティーン\r\n・髪型\r\n・高橋愛\r\n・オフィシャルグッズ\r\nに関して、語って頂きました。\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\nフットサルチーム「Gatas Brilhantes H.P.」のイベントで恥ずかしかったエピソードや、\r\nライブでペンライトを振った時のあるある話を紹介！\r\n\r\nペットに対する愛が深いお二人。\r\n終盤のトークでは、ペットのお話でとても盛り上がりました！\r\n\r\n220202_f99_01.jpg\r\n\r\nそして今回の収録の模様が少しだけ、<a href=\"https://youtu.be/G7HgBtyOfjo?t=735\" target=\"_blank\">YouTube番組【アプカミ#258】</a>の「今週の○○」のコーナーに登場しています！\r\n\r\n普段通りの収録の雰囲気を、ぜひ覗いてみてくださいね♪\r\n\r\n220202_f99_02.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14718",
+        "material_title": "220202_f99_01.jpg",
+        "material_file": "fe8b38be0ae5cc1f0ddc26b1036a131936867f1bd6d9a6d1fa0b6850ed6c5f7114718.jpeg"
+      },
+      {
+        "secretKey": "ff993b38417cdab161295a80398b9f2c",
+        "material_id": "14719",
+        "material_title": "220202_f99_02.jpg",
+        "material_file": "64cec639b1221a5a2955722d092d7b944368453e85ba52dcfe3a897a9f3033fd14719.jpeg"
+      }
+    ],
+    "previous_id": "17650",
+    "next_id": "17527",
+    "saved_materials": [
+      "assets/17649_14718_220202_f99_01.jpg",
+      "assets/17649_14719_220202_f99_02.jpg"
+    ]
+  }
+}

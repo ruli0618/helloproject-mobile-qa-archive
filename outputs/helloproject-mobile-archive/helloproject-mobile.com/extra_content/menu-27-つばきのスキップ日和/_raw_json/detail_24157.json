@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 75,
+    "content_id": "24157",
+    "content_title": "パディントンさん！",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2025-04-11 16:57:00",
+    "created_at": "2025-04-11 16:57:11",
+    "updated_at": "2025-04-11 16:57:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19794",
+        "material_title": "0411_ishii_s.jpg",
+        "material_file": "300580f0eddeed3295f62cd52f3f48bc7aa4daa39d83010a8c664f824f55e03819794.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24157",
+    "content_title": "パディントンさん！",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2025-04-11 16:57:00",
+    "created_at": "2025-04-11 16:57:11",
+    "updated_at": "2025-04-11 16:57:11",
+    "content_text": "0411_ishii_s.jpg\r\nみはみは〜！\r\n石井 泉羽(いしい みはね)です！\r\n\r\nパディントン「消えた黄金郷の秘密」の試写会に行かせていただきましたっ\r\n\r\n映像も綺麗でマーマレードも美味しそうだし何よりパディントンがとってもとっても可愛いです♥\r\n\r\nさらに！SATOYAMA & SATOUMI でパディントンに会えて写真まで撮っていただきましたっ\r\n\r\nかわいすぎるーっ\r\n\r\n今日も一日おつかレッサーレッサーです！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19794",
+        "material_title": "0411_ishii_s.jpg",
+        "material_file": "821b82525925d4d988de726f016d02cec986bb49d863c5ddb3832e43cf2e23ee19794.jpeg"
+      }
+    ],
+    "previous_id": "24193",
+    "next_id": "24084",
+    "saved_materials": [
+      "assets/24157_19794_0411_ishii_s.jpg"
+    ]
+  }
+}

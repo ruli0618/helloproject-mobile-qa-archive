@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 74,
+    "content_id": "10512",
+    "content_title": "白！",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2018-12-17 19:47:00",
+    "created_at": "2018-12-17 19:47:59",
+    "updated_at": "2018-12-17 19:47:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9084",
+        "material_title": "1217_akiyama_s.jpg",
+        "material_file": "cc5e415cb1234ab4d2074082c0415ad93993dac112aaddda7bf05ab4d394f0db9084.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10512",
+    "content_title": "白！",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2018-12-17 19:47:00",
+    "created_at": "2018-12-17 19:47:59",
+    "updated_at": "2018-12-17 19:47:59",
+    "content_text": "1217_akiyama_s.jpg\r\nこの前、遊びに行った時に咲いてた綺麗な白のお花！！！\r\nやっぱり白のお花すきだな〜\r\n\r\nあなたは、何色のお花がすきですかーー？？？？？(^^)\r\n\r\n秋山 眞緒でした！",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9084",
+        "material_title": "1217_akiyama_s.jpg",
+        "material_file": "de6e05f9866836e7a9afca53f7de353a0f1cb5e39599146ad0a9c761cd0663cd9084.jpeg"
+      }
+    ],
+    "previous_id": "10537",
+    "next_id": "10503",
+    "saved_materials": [
+      "assets/10512_9084_1217_akiyama_s.jpg"
+    ]
+  }
+}

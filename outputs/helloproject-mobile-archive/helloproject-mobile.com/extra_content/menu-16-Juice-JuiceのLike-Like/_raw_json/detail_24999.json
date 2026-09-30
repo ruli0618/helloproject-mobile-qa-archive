@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 56,
+    "content_id": "24999",
+    "content_title": "アボカド",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2025-10-02 10:00:00",
+    "created_at": "2025-09-24 14:10:49",
+    "updated_at": "2025-09-24 14:10:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20425",
+        "material_title": "1002_matsunaga_s.jpg",
+        "material_file": "0560f49e8c7586525b3a0ec923b6cebf692a6cb6bad330eb9c9787899aaece3a20425.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24999",
+    "content_title": "アボカド",
+    "content_sub_title": "松永里愛",
+    "release_date": "2025-10-02 10:00:00",
+    "created_at": "2025-09-24 14:10:49",
+    "updated_at": "2025-09-24 14:10:49",
+    "content_text": "1002_matsunaga_s.jpg\r\n最近アボカドにハマってて毎朝食べてるよーん\r\n毎朝は嘘、朝起きるの苦手だからね\r\n奇跡的に起きれた朝にたまに食べてる",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20425",
+        "material_title": "1002_matsunaga_s.jpg",
+        "material_file": "1988a81ca2c95c354abac0d0a8e498fa099504855917f4fcf55858bca00c629920425.jpeg"
+      }
+    ],
+    "previous_id": "25000",
+    "next_id": "24998",
+    "saved_materials": [
+      "assets/24999_20425_1002_matsunaga_s.jpg"
+    ]
+  }
+}

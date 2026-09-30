@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 713,
+    "content_id": "3150",
+    "content_title": "Juice=Juice 2周年！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-16 00:00:00",
+    "created_at": "2015-09-16 18:00:30",
+    "updated_at": "2015-09-16 18:20:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2966",
+        "material_title": "IMG_7257.JPG",
+        "material_file": "c736db55fc2e032aacd34589113578fd72dce2fc982badc3ea2114232fc62c7c2966.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2967",
+        "material_title": "S__56786952.jpg",
+        "material_file": "02f36c5201558f7050218bace91b85a449d488ea9ec0b3a5a60c1c82cfaf25732967.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2969",
+        "material_title": "S__56786957.jpg",
+        "material_file": "88dd7f12558ef425ad3f5b7fda91484f2b0f5a74f1e220881fce7c4c5affd69f2969.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2968",
+        "material_title": "IMG_4231.JPG",
+        "material_file": "893e3c3da5dc080c1ebd1d774a031305a68155b6917dc37ad28a5989f6a48c3d2968.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3150",
+    "content_title": "Juice=Juice 2周年！",
+    "content_sub_title": "",
+    "release_date": "2015-09-16 00:00:00",
+    "created_at": "2015-09-16 18:00:30",
+    "updated_at": "2015-09-16 18:20:47",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n\n9月11日に、Juice=Juiceがメジャーデビュー2周年を迎えました！\n\nこの日は、7月にリリースされたJuice=Juice初のアルバム『First Squeeze！』のリリースを記念し、\n「Juice=Juice『First Squeeze！』発売記念スペシャルライブ～今日はデビュー日、3年目に突入！～」と題したイベントを開催。\n\nアルバムジャケットでも着用した、爽やかな青いチェック衣装に身を包んだ5人が\nアルバムに収録された最新曲やシングル曲を多数披露しました。\n\nIMG_7257.JPG\n\nIMG_4231.JPG\n\n最後はデビュー曲「ロマンスの途中」で締めくくりました。\n\n\nお祝いの為に用意されたケーキには、\nなんと！Juice=Juiceメンバーの写真がプリントされています！\n\nS__56786952.jpg\n\nS__56786957.jpg\nいただいたケーキをパワーに変えて！\n\nJuice=Juice、3年目も応援よろしくお願いします！",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2966",
+        "material_title": "IMG_7257.JPG",
+        "material_file": "07d7d35242ba24df61146fb6c7b8220b1c3e8ad011f7c991b2d5ff898e8610252966.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2967",
+        "material_title": "S__56786952.jpg",
+        "material_file": "c5bd791cbef0a8cee536f96dc50d2223590ae1dd122cd7d4f5addaf7a80dd3902967.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2969",
+        "material_title": "S__56786957.jpg",
+        "material_file": "a4e5731f7fc8e0678e6f3ebbc90d3dedc86aadd2b000f8efd5af7280147b53a42969.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2968",
+        "material_title": "IMG_4231.JPG",
+        "material_file": "7481734976a68464f454f76ecb87889c149a07b4b77ef0bdde1681abb34840fe2968.jpeg"
+      }
+    ],
+    "previous_id": "3159",
+    "next_id": "3124",
+    "saved_materials": [
+      "assets/3150_2966_IMG_7257.JPG",
+      "assets/3150_2967_S__56786952.jpg",
+      "assets/3150_2969_S__56786957.jpg",
+      "assets/3150_2968_IMG_4231.JPG"
+    ]
+  }
+}

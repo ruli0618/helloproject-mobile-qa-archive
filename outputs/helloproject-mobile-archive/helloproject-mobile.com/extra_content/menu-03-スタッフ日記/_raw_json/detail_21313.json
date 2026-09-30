@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 169,
+    "content_id": "21313",
+    "content_title": "みよちゃん家の縁側の猫#20 小林萌花",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-02-07 00:00:00",
+    "created_at": "2023-11-30 16:19:56",
+    "updated_at": "2023-11-30 16:19:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17521",
+        "material_title": "231130_04.jpg",
+        "material_file": "7912529de091a8a41e51f977adbc08dd406b42c7339f1025c85616c7c613242217521.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17522",
+        "material_title": "231130_03.jpg",
+        "material_file": "c4c5f7d424ed93d5231ec56292ac0a65863d4ea8d84cc12d2c4e8055bfc546a517522.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21313",
+    "content_title": "みよちゃん家の縁側の猫#20 小林萌花",
+    "content_sub_title": "",
+    "release_date": "2023-02-07 00:00:00",
+    "created_at": "2023-11-30 16:19:56",
+    "updated_at": "2023-11-30 16:19:56",
+    "content_text": "「みよちゃん家の縁側」#20配信中です！\r\n\r\n第20回ゲストは、BEYOOOOONDS/SeasoningSの小林萌花さん！\r\n\r\n231130_04.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①一緒にいただきます\r\n②〇〇シーズニングス！\r\n③干し柿配りお姉さん\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「鏑木Pと香奈社長」、「平井急便」の2本をお届けしました。\r\n\r\n\r\nその他ダンスが苦手な人が上手くなるコツ、衣装とパフォーマンスの関係、最近スタートした個人インスタに関してなどなどたくさんのお便りを紹介しています！\r\n\r\n231130_03.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、モーニング娘。'23の山﨑愛生さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17521",
+        "material_title": "231130_04.jpg",
+        "material_file": "a48d2aafd727cbef752d2d1f7608863490339927dace7b19b80cd9c7bd86ab7817521.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17522",
+        "material_title": "231130_03.jpg",
+        "material_file": "d7cec0dcdfa75285b423c1fc371caeaf57448cc7809fb7920042862d2de2872817522.jpeg"
+      }
+    ],
+    "previous_id": "19674",
+    "next_id": "21233",
+    "saved_materials": [
+      "assets/21313_17521_231130_04.jpg",
+      "assets/21313_17522_231130_03.jpg"
+    ]
+  }
+}

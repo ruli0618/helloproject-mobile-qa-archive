@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-09-30T10:31:28.041Z",
+  "categories": [
+    {
+      "label": "スタッフ日記",
+      "entries": 729,
+      "images": 1421,
+      "saved": 1416,
+      "missing": [
+        {
+          "content_id": "23397",
+          "title": "宣伝会議#104",
+          "material_id": "19240",
+          "filename": "104_02_s.jpg"
+        },
+        {
+          "content_id": "16243",
+          "title": "工藤の家の屋根裏部屋#87前後編～牧野真莉愛～",
+          "material_id": "13579",
+          "filename": "210622_07_s.jpg"
+        },
+        {
+          "content_id": "16174",
+          "title": "宣伝会議#62",
+          "material_id": "13506",
+          "filename": "210604_01_s.jpg"
+        },
+        {
+          "content_id": "2884",
+          "title": "コメント収録に潜入！",
+          "material_id": "2736",
+          "filename": "image1 (1).jpg"
+        },
+        {
+          "content_id": "2884",
+          "title": "コメント収録に潜入！",
+          "material_id": "2737",
+          "filename": "image2 (1).jpg"
+        }
+      ]
+    },
+    {
+      "label": "Juice=JuiceのLike=Like",
+      "entries": 876,
+      "images": 876,
+      "saved": 876,
+      "missing": []
+    },
+    {
+      "label": "イラスト漫画リレー",
+      "entries": 23,
+      "images": 23,
+      "saved": 23,
+      "missing": []
+    },
+    {
+      "label": "つばきファクトリーのハナモヨウ",
+      "entries": 158,
+      "images": 160,
+      "saved": 160,
+      "missing": []
+    },
+    {
+      "label": "野中部長の小説コーナー",
+      "entries": 18,
+      "images": 0,
+      "saved": 0,
+      "missing": []
+    },
+    {
+      "label": "意識高い乙女の記し",
+      "entries": 198,
+      "images": 198,
+      "saved": 198,
+      "missing": []
+    },
+    {
+      "label": "野中部長の裏日記",
+      "entries": 99,
+      "images": 25,
+      "saved": 25,
+      "missing": []
+    },
+    {
+      "label": "BEYOOOOONDSのビヨンズした",
+      "entries": 483,
+      "images": 483,
+      "saved": 483,
+      "missing": []
+    },
+    {
+      "label": "つばきのスキップ日和",
+      "entries": 142,
+      "images": 142,
+      "saved": 142,
+      "missing": []
+    }
+  ],
+  "tour_diary": {
+    "entries": 557,
+    "images": 636,
+    "saved": 635,
+    "missing": [
+      {
+        "content_id": "23185",
+        "title": "鼓動ツアーin仙台Rensa",
+        "material_id": "18964",
+        "filename": "1028_akiyama_s.jpg"
+      }
+    ]
+  }
+}

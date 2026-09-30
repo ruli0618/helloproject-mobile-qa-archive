@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 545,
+    "content_id": "8216",
+    "content_title": "工藤の家の屋根裏部屋#13～羽賀朱音～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-13 11:00:00",
+    "created_at": "2017-12-12 22:49:32",
+    "updated_at": "2017-12-12 22:49:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7246",
+        "material_title": "17121202_s.jpg",
+        "material_file": "c85da5ee84e0a6fbb8130ab95a30214b409c16281a01dad364c239a14fd1f74b7246.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7247",
+        "material_title": "17121201_s.jpg",
+        "material_file": "ba65deb776f64d466f4f04c4700c0eaa6a7fb2b396f66182c4b7a05c435a26437247.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8216",
+    "content_title": "工藤の家の屋根裏部屋#13～羽賀朱音～",
+    "content_sub_title": "",
+    "release_date": "2017-12-13 11:00:00",
+    "created_at": "2017-12-12 22:49:32",
+    "updated_at": "2017-12-12 22:49:32",
+    "content_text": "「ふくむらの部屋」13回目の配信スタートです！\r\n\r\n\r\nゲストはモーニング娘。'17から羽賀朱音さんが登場！\r\n羽賀さんは以前シークレットゲストとして登場してくれました。\r\n今回2回目の登場です！！\r\n\r\n17121201_s.jpg\r\n\r\n「みずき先生のハロプロ講座」\r\n好きなコンビでは羽賀さんが大好きなあのお二人のことを…！\r\n譜久村さんから見た12期の成長…。\r\nサンタさんはいる？いない？について真剣に考える羽賀さんのエピソードは必聴です！\r\n好きなコンサートのオープニング演出とは…！？\r\n\r\n17121202_s.jpg\r\n\r\n\r\n「みずきのハロプロNo.1」\r\n牧野真莉愛の純粋エピソード！12期ドッキリの裏話も！\r\n楽屋で一番○○ナンバーワンは！？\r\n\r\nもちろん羽賀さんといえば・・・\r\n（収録時）卒業を控えていた工藤遥さんへの思いもたくさん語っています！\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのハロプロNo.1」\r\n普通のお便りも募集中！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7246",
+        "material_title": "17121202_s.jpg",
+        "material_file": "066e546ff16694e91f2b7142344bed3e7971714b1c797075ca87d56e31632d317246.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7247",
+        "material_title": "17121201_s.jpg",
+        "material_file": "4dd45771b42e6e5fc8a6a0695a761596960a3dadc0f4308b11de96e1db5396d87247.jpeg"
+      }
+    ],
+    "previous_id": "8264",
+    "next_id": "8214",
+    "saved_materials": [
+      "assets/8216_7246_17121202_s.jpg",
+      "assets/8216_7247_17121201_s.jpg"
+    ]
+  }
+}

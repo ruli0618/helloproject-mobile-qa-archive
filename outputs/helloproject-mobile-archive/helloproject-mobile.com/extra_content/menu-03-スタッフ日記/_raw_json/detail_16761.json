@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 272,
+    "content_id": "16761",
+    "content_title": "工藤の家の屋根裏部屋#89～岡村美波～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-17 17:50:00",
+    "created_at": "2021-09-17 17:43:15",
+    "updated_at": "2021-09-17 18:55:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13966",
+        "material_title": "210713_01_s.jpg",
+        "material_file": "03b314484c28c416a57030473543ecba727ee666f59001539a684aaa1dad7a6e13966.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13967",
+        "material_title": "210713_02_s.jpg",
+        "material_file": "5ecbd67f4aa1ebbc66358bca651eddcb8e3baedf94b8d6d5c4bc5df6dc322e0b13967.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16761",
+    "content_title": "工藤の家の屋根裏部屋#89～岡村美波～",
+    "content_sub_title": "",
+    "release_date": "2021-09-17 17:50:00",
+    "created_at": "2021-09-17 17:43:15",
+    "updated_at": "2021-09-17 18:55:57",
+    "content_text": "ふくむらの部屋 第89回は、BEYOOOOONDS雨ノ森 川海の岡村美波さんが登場！\r\n\r\n210713_01_s.jpg\r\n\r\n先日リリースした配信曲「エキストラ」のお話からスタート！\r\n動物と共に暮らす魅力を語る話題では、岡村さんが飼ってみたい意外な動物を教えてくれました。\r\nお二人の共通点であるアクセサリー作りや、ハマっているガチャガチャのお話なども！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\nタイアップ・コラボ、歌割り、カバー曲、花鳥風月について語って頂きました！\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\n名前間違い、パスワード忘れ等のあるあるから、双眼鏡を使用するうえでの注意点、マスクを着用する世の中だからこその失敗も。\r\n\r\nそのほかにも、びよんず学校での授業に関するお話や\r\n岡村さんがアメ車を好きになったきっかけ、\r\nチーム月の雰囲気を教えてくれました！\r\n\r\n岡村さんの愛称「みいみ」は、ちいさい「ぃ」ではなく大きい「い」という事は覚えておきたいですね。\r\n\r\n210713_02_s.jpg\r\n\r\n次回もお楽しみに！\r\n",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13966",
+        "material_title": "210713_01_s.jpg",
+        "material_file": "cb1ee610268842e830ebf83903eb15f12d97fcf79c2c38c4b4b16a558e34439c13966.jpeg"
+      },
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13967",
+        "material_title": "210713_02_s.jpg",
+        "material_file": "080878ef2c999180eb3f631b4e97193220b41327b6b05f95f81ee86fd8eb941913967.jpeg"
+      }
+    ],
+    "previous_id": "16762",
+    "next_id": "16663",
+    "saved_materials": [
+      "assets/16761_13966_210713_01_s.jpg",
+      "assets/16761_13967_210713_02_s.jpg"
+    ]
+  }
+}

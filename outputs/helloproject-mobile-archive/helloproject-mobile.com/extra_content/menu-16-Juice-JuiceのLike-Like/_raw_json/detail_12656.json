@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 578,
+    "content_id": "12656",
+    "content_title": "代々木",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2019-12-12 10:00:00",
+    "created_at": "2019-12-06 20:42:32",
+    "updated_at": "2019-12-06 20:42:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10740",
+        "material_title": "1212_matsunaga_s.jpg",
+        "material_file": "cfac90344abe77b986b39866e652cfa7be1051886fa4e6d77be79459536b7ce110740.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12656",
+    "content_title": "代々木",
+    "content_sub_title": "松永里愛",
+    "release_date": "2019-12-12 10:00:00",
+    "created_at": "2019-12-06 20:42:32",
+    "updated_at": "2019-12-06 20:42:32",
+    "content_text": "ライブって本当に楽しくて大好き！！\r\n代々木公演、最高だった〜！\r\n\r\n1212_matsunaga_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "10740",
+        "material_title": "1212_matsunaga_s.jpg",
+        "material_file": "d53ed646b12ef3c60bbc927bee9ac27d539204e82e4e13038a3d629eb7a6c7ff10740.jpeg"
+      }
+    ],
+    "previous_id": "12701",
+    "next_id": "12655",
+    "saved_materials": [
+      "assets/12656_10740_1212_matsunaga_s.jpg"
+    ]
+  }
+}

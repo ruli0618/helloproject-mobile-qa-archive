@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 233,
+    "content_id": "17817",
+    "content_title": "工藤の家の屋根裏部屋#102～小野田紗栞～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-17 22:50:00",
+    "created_at": "2022-03-17 22:49:13",
+    "updated_at": "2022-03-17 22:50:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14899",
+        "material_title": "220315_01_s.jpg",
+        "material_file": "96daa686f22cff369fed5b646836445d56a6fc584bfab835e8ba63349e2fe47914899.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14900",
+        "material_title": "220315_02_s.jpg",
+        "material_file": "27814f83880b4361278b69a27aed9a7ae9306b2b41f478abf2b58870867ae3e314900.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14901",
+        "material_title": "220315_03_s.jpg",
+        "material_file": "137812e84a38fe8a52c6f3cfc38b98003ce80974dd219623064ccdff79ac165314901.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17817",
+    "content_title": "工藤の家の屋根裏部屋#102～小野田紗栞～",
+    "content_sub_title": "",
+    "release_date": "2022-03-17 22:50:00",
+    "created_at": "2022-03-17 22:49:13",
+    "updated_at": "2022-03-17 22:50:12",
+    "content_text": "ふくむらの部屋 第102回のゲストは、つばきファクトリー小野田紗栞さんが登場！\n\n220315_03_s.jpg\n\nツアーの思い出や、\n好きで集めているものを教えて頂きました。\nツムツムトークでは大盛りあがり！\n収録が終わった後、2人で連絡先を交換していました。\n\n「ハロプロクイズ王」のコーナーでは、\nメンバーの血液型クイズ、「春」が入った楽曲名の書き出しにチャレンジ！\n\n220315_02_s.jpg\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・中島卓偉さん\n・ロケ地\nに関して、語って頂きました。\n\nつばきファクトリー新メンバーに関してもトーク！\n\n220315_01_s.jpg\n\n次回ゲストは、BEYOOOOONDS山﨑夢羽さんが初登場♪\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14899",
+        "material_title": "220315_01_s.jpg",
+        "material_file": "62951f02c69d7e59fb654a1d39c59363b3cb74952aea0d4c3e99083ada64fb8214899.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14900",
+        "material_title": "220315_02_s.jpg",
+        "material_file": "885455a9a34ff15f44d7d4b64eec296732826bc3f4106ddbeb2a1d338acf038e14900.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14901",
+        "material_title": "220315_03_s.jpg",
+        "material_file": "54b86cd62c449b3f306b7eed4742581a9206b6123ef4458f93b5ff2d41b8b13214901.jpeg"
+      }
+    ],
+    "previous_id": "17828",
+    "next_id": "17913",
+    "saved_materials": [
+      "assets/17817_14899_220315_01_s.jpg",
+      "assets/17817_14900_220315_02_s.jpg",
+      "assets/17817_14901_220315_03_s.jpg"
+    ]
+  }
+}

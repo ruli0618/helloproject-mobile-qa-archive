@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-09-30T06:41:53.031Z",
+  "min_free_gb": 10,
+  "results": [
+    {
+      "menu_id": 3,
+      "label": "スタッフ日記",
+      "categories": 1,
+      "entries": 729,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-03-スタッフ日記"
+    },
+    {
+      "menu_id": 16,
+      "label": "Juice=JuiceのLike=Like",
+      "categories": 1,
+      "entries": 876,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-16-Juice-JuiceのLike-Like"
+    },
+    {
+      "menu_id": 18,
+      "label": "イラスト漫画リレー",
+      "categories": 2,
+      "entries": 23,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-18-イラスト漫画リレー"
+    },
+    {
+      "menu_id": 19,
+      "label": "つばきファクトリーのハナモヨウ",
+      "categories": 1,
+      "entries": 158,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-19-つばきファクトリーのハナモヨウ"
+    },
+    {
+      "menu_id": 21,
+      "label": "野中部長の小説コーナー",
+      "categories": 1,
+      "entries": 18,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-21-野中部長の小説コーナー"
+    },
+    {
+      "menu_id": 22,
+      "label": "意識高い乙女の記し",
+      "categories": 1,
+      "entries": 198,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-22-意識高い乙女の記し"
+    },
+    {
+      "menu_id": 23,
+      "label": "野中部長の裏日記",
+      "categories": 1,
+      "entries": 99,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-23-野中部長の裏日記"
+    },
+    {
+      "menu_id": 24,
+      "label": "BEYOOOOONDSのビヨンズした",
+      "categories": 1,
+      "entries": 483,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-24-BEYOOOOONDSのビヨンズした"
+    },
+    {
+      "menu_id": 27,
+      "label": "つばきのスキップ日和",
+      "categories": 1,
+      "entries": 142,
+      "errors": 0,
+      "dir": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\extra_content\\menu-27-つばきのスキップ日和"
+    }
+  ]
+}

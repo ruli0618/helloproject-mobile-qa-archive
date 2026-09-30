@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 719,
+    "content_id": "3025",
+    "content_title": "ほうとう",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-25 00:00:00",
+    "created_at": "2015-08-25 19:26:47",
+    "updated_at": "2015-11-19 11:07:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2871",
+        "material_title": "th_IMG_2915.jpg",
+        "material_file": "b073f510d026fc492be399bf1daafcdd8e2050710fcab8049593bc2a258b994e2871.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2872",
+        "material_title": "th_IMG_2810_2.jpg",
+        "material_file": "99d5be10cfd0c826f14036aa459e73d0aadd1e682cb6611ae1fa719db6e7ffe72872.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2873",
+        "material_title": "IMG_1997.JPG",
+        "material_file": "bfccd61a5a78acc731d780eb9e9a37a132f78319799c7c13cbe2e7a5d8f419042873.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2874",
+        "material_title": "th_IMG_2634.jpg",
+        "material_file": "30459e59d1133f08b4a84e0392c043e78d4e9bfdc023cbbdcb02a5ee272acc8b2874.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3025",
+    "content_title": "ほうとう",
+    "content_sub_title": "",
+    "release_date": "2015-08-25 00:00:00",
+    "created_at": "2015-08-25 19:26:47",
+    "updated_at": "2015-11-19 11:07:02",
+    "content_text": "みなさん、こんにちは。\nハロー！プロジェクトの映像制作スタッフです。\n \n先日、e-Line UP！で受注した「Greeting〜森戸知沙希〜」ですが、まもなく9月初旬に申し込まれた方のお手元に届きます。お楽しみにお待ち下さい。\n \n \n6月初旬、梅雨に入る前の富士山の麓、山中湖周辺で撮影したのですが、この日は快晴！！\n \nまずは富士山をバックにオフショットを一枚。\n \nth_IMG_2634.jpg\n \nお昼ごはんは山中湖畔のレストランで食べたのですが、、、\n森戸さんは入り口にあったスイーツコーナーから動きません。\n隣にはもちろん、ほうとう目当てに撮影についてきた嗣永さんも！\n \n食後にデザートをメニューを見ずに注文していたので、二人ともしっかり頭にインプットしていたんだと思います。ちなみに森戸さんはドリアを食べてからのスイーツでした。なぜかここの写真はありません。(—_—;)\n \n \n草原での撮影では森戸さんだけが食べるはずだったソフトクリームをしっかり嗣永さんも食べ始め、\n \nth_IMG_2810_2.jpg\n \n \n一日中天気にも恵まれ、撮影は無事終了しました。\n \nth_IMG_2915.jpg\n \nこの森戸知沙希Blu-rayでは、エンディングのスタッフクレジットにも注目してください！\n \n \n帰り道ではほうとうも食べました！\n \nIMG_1997.JPG\n \n \n \nそんな森戸知沙希の1st Blu-rayとともに手の空いているスタッフで力を入れて撮影・編集した、こちらの作品もよろしくお願いします。\n\n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/watch?v=tm_tCso2ewM\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/watch?v=tm_tCso2ewM</u></font></a>\n</span>\n \nこの作品の視聴回数によって「帰ってきた ももプレ」作品化を検討するという噂も聞きました！\nみなさん、よろしくお願いします！！",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2871",
+        "material_title": "th_IMG_2915.jpg",
+        "material_file": "c5b4500a7f4359f725e13e612c23e1215d4a82e5eac74eeff10e1dccd6ff33642871.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2872",
+        "material_title": "th_IMG_2810_2.jpg",
+        "material_file": "f40cb2d7e725bc33b87ec4e8da65aa64def9b3352663cd9afa51fe3481572aff2872.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2873",
+        "material_title": "IMG_1997.JPG",
+        "material_file": "8c27ebd079386e7a545a20645f2a58963b240de6b63e7fbf928503715387e7862873.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2874",
+        "material_title": "th_IMG_2634.jpg",
+        "material_file": "3ac795a418ed56778e80f928b43c6d5c048d86d47c18b99b64f88699862501702874.jpeg"
+      }
+    ],
+    "previous_id": "3027",
+    "next_id": "3022",
+    "saved_materials": [
+      "assets/3025_2871_th_IMG_2915.jpg",
+      "assets/3025_2872_th_IMG_2810_2.jpg",
+      "assets/3025_2873_IMG_1997.JPG",
+      "assets/3025_2874_th_IMG_2634.jpg"
+    ]
+  }
+}

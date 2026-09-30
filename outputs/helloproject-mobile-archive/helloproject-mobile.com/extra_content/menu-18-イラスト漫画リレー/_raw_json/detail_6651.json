@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 12,
+    "content_id": "6651",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "谷本安美",
+    "category_id": "55",
+    "release_date": "2017-12-18 16:00:00",
+    "created_at": "2017-05-02 14:18:17",
+    "updated_at": "2017-12-18 15:43:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "7255",
+        "material_title": "14_tanimoto.jpg",
+        "material_file": "303d1fc1ebfb53ca44589deeb9594186c5c4a1ff0832554f428218d25ea527ed7255.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "6651",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "谷本安美",
+    "release_date": "2017-12-18 16:00:00",
+    "created_at": "2017-05-02 14:18:17",
+    "updated_at": "2017-12-18 15:43:07",
+    "content_text": "14_tanimoto.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "7255",
+        "material_title": "14_tanimoto.jpg",
+        "material_file": "303d1fc1ebfb53ca44589deeb9594186c5c4a1ff0832554f428218d25ea527ed7255.jpeg"
+      }
+    ],
+    "previous_id": "8515",
+    "next_id": "8163",
+    "saved_materials": [
+      "assets/6651_7255_14_tanimoto.jpg"
+    ]
+  }
+}

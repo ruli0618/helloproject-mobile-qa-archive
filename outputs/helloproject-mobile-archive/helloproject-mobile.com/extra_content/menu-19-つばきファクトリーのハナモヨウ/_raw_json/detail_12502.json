@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 19,
+    "content_id": "12502",
+    "content_title": "白いお花",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2019-11-12 19:00:00",
+    "created_at": "2019-11-12 19:01:54",
+    "updated_at": "2019-11-12 19:01:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10608",
+        "material_title": "1112_yamagishi_s.jpg",
+        "material_file": "21ea8558612424c4538615fef9bd2c9981cf7d16acc92a4c3b0225349032eb4310608.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12502",
+    "content_title": "白いお花",
+    "content_sub_title": "山岸理子",
+    "release_date": "2019-11-12 19:00:00",
+    "created_at": "2019-11-12 19:01:54",
+    "updated_at": "2019-11-12 19:01:54",
+    "content_text": "お元気ですかー！\r\n山岸理子です！\r\n\r\n1112_yamagishi_s.jpg\r\n\r\n白いお花の写真〜！\r\nクサキョウチクトウって言うんだよー！\r\nかわいいお花だね！\r\nみなさんはお花好きですかー？\r\n\r\n寒くなってきたので寒さ対策しっかり\r\nしましょうね！",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10608",
+        "material_title": "1112_yamagishi_s.jpg",
+        "material_file": "77c5e4bdae12fcc923fcab3ffe8deaa4fbb4a8e75f5ced1350325102289b079410608.jpeg"
+      }
+    ],
+    "previous_id": "12540",
+    "next_id": "12490",
+    "saved_materials": [
+      "assets/12502_10608_1112_yamagishi_s.jpg"
+    ]
+  }
+}

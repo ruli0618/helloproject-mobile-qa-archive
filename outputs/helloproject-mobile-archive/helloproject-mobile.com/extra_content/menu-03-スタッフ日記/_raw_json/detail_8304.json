@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 539,
+    "content_id": "8304",
+    "content_title": "賀正",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-01 06:00:00",
+    "created_at": "2018-01-01 06:02:01",
+    "updated_at": "2018-01-01 06:03:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8304",
+    "content_title": "賀正",
+    "content_sub_title": "",
+    "release_date": "2018-01-01 06:00:00",
+    "created_at": "2018-01-01 06:02:01",
+    "updated_at": "2018-01-01 06:03:07",
+    "content_text": "新年明けまして、おめでとうございます<img src=\"/emoji/emoji-images/5056.gif\"/>\n本年もハロ！モバを、どうぞよろしくお願いいたします<img src=\"/emoji/emoji-images/4f41.gif\"/><img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\nスタッフ番号2番です！\n\nモーニング娘。も'18となりました、2018年！\n今年もハロ！モバは1月1日から年始特集がスタートしましたよ！\n\n★年始特集コンテンツ\n・直筆年賀状\n・2018年の目標、抱負\n・オリジナルかるた\n\n期間限定ですので、このお正月にぜひご覧ください！\n\n直筆年賀状はプレゼント応募も受付中！\n各1名様へお届けします。\n\n思い立ったが吉日です<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n忘れないうちにお早めのご応募を！\n\n<a href=\"http://helloproject-mobile.com/info/special/content?page=nenshi2018/index\">★年始特集ページはこちら！</a>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8344",
+    "next_id": "8300",
+    "saved_materials": []
+  }
+}

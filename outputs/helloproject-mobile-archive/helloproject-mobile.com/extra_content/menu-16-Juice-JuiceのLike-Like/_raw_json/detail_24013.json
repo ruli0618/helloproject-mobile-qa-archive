@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 94,
+    "content_id": "24013",
+    "content_title": "いちご",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2025-03-20 17:18:00",
+    "created_at": "2025-03-20 17:22:05",
+    "updated_at": "2025-03-20 17:22:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19683",
+        "material_title": "0320_matsunaga_s.jpg",
+        "material_file": "1213b4632038f09ce44dcc333081339a0b16019844d38745464366bb70e66f7219683.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24013",
+    "content_title": "いちご",
+    "content_sub_title": "松永里愛",
+    "release_date": "2025-03-20 17:18:00",
+    "created_at": "2025-03-20 17:22:05",
+    "updated_at": "2025-03-20 17:22:05",
+    "content_text": "0320_matsunaga_s.jpg\r\n苺が美味しい季節、いっぱい堪能できたよ〜〜\r\nゆめといちご狩りに行けたのも最高の思い出☆",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19683",
+        "material_title": "0320_matsunaga_s.jpg",
+        "material_file": "38393e75018b35b58bded09e951225e71080483ea74f197a9efb5537fa14b24d19683.jpeg"
+      }
+    ],
+    "previous_id": "24062",
+    "next_id": "24006",
+    "saved_materials": [
+      "assets/24013_19683_0320_matsunaga_s.jpg"
+    ]
+  }
+}

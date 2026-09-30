@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 617,
+    "content_id": "6204",
+    "content_title": "工藤の家の天井裏#27　～作文好き～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-02-14 22:53:00",
+    "created_at": "2017-02-14 22:53:58",
+    "updated_at": "2017-02-14 22:57:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5525",
+        "material_title": "170201_s.JPG",
+        "material_file": "f586c07d4e2aadeda9c5b2f7f51f55c07ee8a15d214e33484118ca314d62d24f5525.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6204",
+    "content_title": "工藤の家の天井裏#27　～作文好き～",
+    "content_sub_title": "",
+    "release_date": "2017-02-14 22:53:00",
+    "created_at": "2017-02-14 22:53:58",
+    "updated_at": "2017-02-14 22:57:47",
+    "content_text": "やじまの部屋#27公開中！\nゲストは、Juice=Juiceから最後の一人、\n℃-ute曲の中では「涙の色」が一番好きな高木紗友希さんが登場！\n\n歌を歌う事の楽しさや、発声法・歌う時の癖などを語ってくれて、\n℃-ute・Juice=Juice共通で教わっている、あのボイトレ先生に関するエピソードも！\n\nふたりごとのテーマは、\n「行ってみたいこんな国」\n海外公演に関して、夢溢れる議論をお届け！\n\nそして文章を書くのが好きな2人、グループの中でグッズの書き物が一番早いメンバーは？\n\n収録後のツーショットはこちら！\n\n170201_s.JPG\n\nハロプロ大喜利のお題は\n「朝起きたら矢島舞美になっていた。第一声は？」\n\n次回お題は\n「矢島舞美初主演映画決定！！そのタイトルは？」\n\nお題はいつでも募集しています！\nぜひお送り下さい！！\n\n次回ゲストは、メジャーデビューを控えているつばきファクトリーからリーダー、\n山岸理子さんが出演です！\nぜひお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5525",
+        "material_title": "170201_s.JPG",
+        "material_file": "7fffa155a0d704900513895e8f4c4a078cdf524c5674ec0689301a650bc988405525.jpeg"
+      }
+    ],
+    "previous_id": "6206",
+    "next_id": "6198",
+    "saved_materials": [
+      "assets/6204_5525_170201_s.JPG"
+    ]
+  }
+}

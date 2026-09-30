@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 25,
+    "content_id": "12251",
+    "content_title": "さんぽ",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-10-11 12:05:00",
+    "created_at": "2019-10-11 12:07:28",
+    "updated_at": "2019-10-11 12:07:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10437",
+        "material_title": "1011_akiyama_s.jpg",
+        "material_file": "6a52f3b0eaa3ef560241f8bc88bd814768c8b3d70680f6ca2888cd20727e86e010437.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12251",
+    "content_title": "さんぽ",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-10-11 12:05:00",
+    "created_at": "2019-10-11 12:07:28",
+    "updated_at": "2019-10-11 12:07:28",
+    "content_text": "この間空き時間に一人で散歩したんです\r\nかわいいお花達をたくさん見つけてテンションが上がりましたね〜\r\n\r\n1011_akiyama_s.jpg\r\n写真のお花、とても綺麗で見惚れちゃうな<img src=\"/emoji/emoji-images/f9f8.gif\"/>\r\nひとりさんぽ。も楽しかったです！",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10437",
+        "material_title": "1011_akiyama_s.jpg",
+        "material_file": "5b728de99616208b98f14419af447cc2eaeb68e582f05fdef5db184dc3f52fc810437.jpeg"
+      }
+    ],
+    "previous_id": "12292",
+    "next_id": "12239",
+    "saved_materials": [
+      "assets/12251_10437_1011_akiyama_s.jpg"
+    ]
+  }
+}

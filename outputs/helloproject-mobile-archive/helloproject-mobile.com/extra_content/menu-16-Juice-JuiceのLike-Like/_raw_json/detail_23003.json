@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 130,
+    "content_id": "23003",
+    "content_title": "魚釣り",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2024-10-08 10:00:00",
+    "created_at": "2024-10-01 15:05:36",
+    "updated_at": "2024-10-01 15:05:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18842",
+        "material_title": "1008_arisawa_s.jpg",
+        "material_file": "c34cce1f6d23a4cd73e1123384b7e3f4a705e63030f7bbfaa124b8fa672384c318842.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23003",
+    "content_title": "魚釣り",
+    "content_sub_title": "有澤一華",
+    "release_date": "2024-10-08 10:00:00",
+    "created_at": "2024-10-01 15:05:36",
+    "updated_at": "2024-10-01 15:05:36",
+    "content_text": "1008_arisawa_s.jpg\r\n有澤一華です！\r\n\r\n\r\n魚釣りしたいです！！！\r\n船に乗りたいです！！！！\r\n\r\n釣った新鮮な魚を捌いてみたいです！！\r\n\r\nでそのままかぶりつきたい！！！！\r\n\r\n\r\nでももうすぐで寒くなるよね。。。",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "18842",
+        "material_title": "1008_arisawa_s.jpg",
+        "material_file": "321cf726e753ee220d6a00adb2dddb1f850662e5f317dddc515ea32842f603b018842.jpeg"
+      }
+    ],
+    "previous_id": "23021",
+    "next_id": "22994",
+    "saved_materials": [
+      "assets/23003_18842_1008_arisawa_s.jpg"
+    ]
+  }
+}

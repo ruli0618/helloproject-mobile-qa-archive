@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 271,
+    "content_id": "19667",
+    "content_title": "ウトウトしてたら、、、、",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2023-03-13 10:00:00",
+    "created_at": "2023-02-08 20:48:13",
+    "updated_at": "2023-02-08 20:48:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16318",
+        "material_title": "0313_kiyono_s.jpg",
+        "material_file": "2cb092c3b84cd1f35f0121f0c823fad9de61ef3aedee19143fa8f0936998054216318.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19667",
+    "content_title": "ウトウトしてたら、、、、",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2023-03-13 10:00:00",
+    "created_at": "2023-02-08 20:48:13",
+    "updated_at": "2023-02-08 20:48:13",
+    "content_text": "0313_kiyono_s.jpg\r\n乗り過ごしちゃうぞ〜！！！\r\n\r\n【24周目お題：横顔】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16318",
+        "material_title": "0313_kiyono_s.jpg",
+        "material_file": "ea73427046cf51066be4e1d02b952155e7d3bf42dd55bc70cadcd677020cbb7516318.jpeg"
+      }
+    ],
+    "previous_id": "19668",
+    "next_id": "19666",
+    "saved_materials": [
+      "assets/19667_16318_0313_kiyono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 316,
+    "content_id": "14680",
+    "content_title": "宣伝会議 議事録#55",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-11-06 21:42:00",
+    "created_at": "2020-10-14 21:58:20",
+    "updated_at": "2020-11-06 21:43:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12193",
+        "material_title": "20201025_s.jpg",
+        "material_file": "d7e87c3e8426e99f47d3d4a5e4952a2e6dca376db162290d3c9e1fa01f3626f612193.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12375",
+        "material_title": "201106_01_s.jpg",
+        "material_file": "387c9b5f4b857805f9dee20c042144da64a1b0ec584c2a8f6dcfe26c8f290f6012375.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12376",
+        "material_title": "201106_02_s.jpg",
+        "material_file": "787fcec4401d496e00b0f7fa08faf1ab247b21986bd8f43719342e8ae8e6db1d12376.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14680",
+    "content_title": "宣伝会議 議事録#55",
+    "content_sub_title": "",
+    "release_date": "2020-11-06 21:42:00",
+    "created_at": "2020-10-14 21:58:20",
+    "updated_at": "2020-11-06 21:43:03",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。\n\n宣伝会議ラジオ第55回は、\n野中美希部長、前田こころ書記兼警備の2人でお届け！\n\n201106_01_s.jpg\n\nまずは野中部長からハロ！モバ会員の皆さんへ大学に関するご報告からスタート！\n\nBEYOOOOONDSの舞台の話や、\n目の輝きについて、集中力の高め方、\nバースデーイベントのお話も！\n\n201106_02_s.jpg\n\n食べるスピードは早い？遅い？\n誕生日のサプライズや、\n人気のあったQ＆A「教室の前後左右の席」も詳しくトーク！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「ハロプロ・コア情報」\n\nこれは初耳！という情報もあったのではないでしょうか。\n\n↓議事録はこちら！\n\n20201025_s.jpg\n\n※今回換気のため窓を開けて収録しているので、外で車が走る音等の環境音が聞こえる事があります。ご了承ください。\n\n「励ましのメール」「ハロー！ペディア」メールを大募集！\n次回「ハロー！ペディア」のお題は、\n「<b>冬のおすすめハロプロ曲</b>」です！\n\n11/16(月)17:00まで募集中！\nメール宛先はこちら。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\n次回は、川村文乃広報と前田こころ書記兼警備が出演！\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12193",
+        "material_title": "20201025_s.jpg",
+        "material_file": "f87a14a3ca71e5c19469d75999272e360cfd455205e533e1641f3bb8b0229f4d12193.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12375",
+        "material_title": "201106_01_s.jpg",
+        "material_file": "009ff433a3606656d658a822ec8e4dea41ce03e9a2009c424f2220ada77ddca712375.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12376",
+        "material_title": "201106_02_s.jpg",
+        "material_file": "09937ff1ee42e353b2ead9bedfc6de8d5556fd61582214768598326972ed93d912376.jpeg"
+      }
+    ],
+    "previous_id": "14859",
+    "next_id": "14853",
+    "saved_materials": [
+      "assets/14680_12193_20201025_s.jpg",
+      "assets/14680_12375_201106_01_s.jpg",
+      "assets/14680_12376_201106_02_s.jpg"
+    ]
+  }
+}

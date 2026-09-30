@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 207,
+    "content_id": "21576",
+    "content_title": "敬礼！",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2024-02-12 10:00:00",
+    "created_at": "2024-01-16 18:14:31",
+    "updated_at": "2024-01-16 18:14:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17722",
+        "material_title": "0212_hirai_s.jpg",
+        "material_file": "23059691b92ad03239699700cbb10400cd6e6b8520a677af8451b7fbbd35cc9717722.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21576",
+    "content_title": "敬礼！",
+    "content_sub_title": "平井美葉",
+    "release_date": "2024-02-12 10:00:00",
+    "created_at": "2024-01-16 18:14:31",
+    "updated_at": "2024-01-16 18:14:31",
+    "content_text": "0212_hirai_s.jpg\r\n制服を着てドキドキの1日でした！\r\n\r\n【31周目お題：キメキメショット】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17722",
+        "material_title": "0212_hirai_s.jpg",
+        "material_file": "5a7a6ca5236789b92f1e3c316937c26a7bbe83b4ee57b36bb523a1115ae92ce217722.jpeg"
+      }
+    ],
+    "previous_id": "21577",
+    "next_id": "21575",
+    "saved_materials": [
+      "assets/21576_17722_0212_hirai_s.jpg"
+    ]
+  }
+}

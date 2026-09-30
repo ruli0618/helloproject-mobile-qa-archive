@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 355,
+    "content_id": "18423",
+    "content_title": "紫陽花",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-07-07 10:00:00",
+    "created_at": "2022-07-05 14:21:35",
+    "updated_at": "2022-07-05 14:21:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15340",
+        "material_title": "0707_matsunaga_s .jpg",
+        "material_file": "10247223e235ae626ecac2b1bb7d25aec7099514cbfcc2a8a61b51a1a0d12e3c15340.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18423",
+    "content_title": "紫陽花",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-07-07 10:00:00",
+    "created_at": "2022-07-05 14:21:35",
+    "updated_at": "2022-07-05 14:21:35",
+    "content_text": "梅雨明けしたみたいですね！\r\nあっという間！紫陽花たくさん見られたんだ～～\r\n0707_matsunaga_s .jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15340",
+        "material_title": "0707_matsunaga_s .jpg",
+        "material_file": "0caccfd5ba525c48f0c5774c7ee9f23fffd970ae16161366a2a527b31d5d87f415340.jpeg"
+      }
+    ],
+    "previous_id": "18424",
+    "next_id": "18422",
+    "saved_materials": [
+      "assets/18423_15340_0707_matsunaga_s.jpg"
+    ]
+  }
+}

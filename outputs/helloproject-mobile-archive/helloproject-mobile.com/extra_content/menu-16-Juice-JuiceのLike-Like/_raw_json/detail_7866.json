@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 765,
+    "content_id": "7866",
+    "content_title": "犬／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-04 11:00:00",
+    "created_at": "2017-10-31 23:17:49",
+    "updated_at": "2017-12-04 14:03:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6924",
+        "material_title": "6908170939468_s.jpg",
+        "material_file": "bb864db427e0880a25d95d309c7679444050f114fd73a9c877696c532c532f4e6924.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7866",
+    "content_title": "犬／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-12-04 11:00:00",
+    "created_at": "2017-10-31 23:17:49",
+    "updated_at": "2017-12-04 14:03:52",
+    "content_text": "6908170939468_s.jpg\r\nハーフツインしたら、\r\n犬みたいになったぁ<img src=\"/emoji/emoji-images/4772.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6924",
+        "material_title": "6908170939468_s.jpg",
+        "material_file": "931c0b0d36e5da58cfb6f519ea424331a874ca57e4b505577e5e32681c4bceab6924.jpeg"
+      }
+    ],
+    "previous_id": "8053",
+    "next_id": "7865",
+    "saved_materials": [
+      "assets/7866_6924_6908170939468_s.jpg"
+    ]
+  }
+}

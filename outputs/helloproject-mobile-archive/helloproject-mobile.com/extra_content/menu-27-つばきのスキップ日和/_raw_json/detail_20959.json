@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 123,
+    "content_id": "20959",
+    "content_title": "21",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2023-10-06 20:44:00",
+    "created_at": "2023-10-06 11:22:54",
+    "updated_at": "2023-10-06 20:45:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17256",
+        "material_title": "1006_akiyama_s.jpg",
+        "material_file": "9b3d014cfed2318996ab0083303f9f61ece7344df91d581dd7b523a8d12cd3c117256.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20959",
+    "content_title": "21",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2023-10-06 20:44:00",
+    "created_at": "2023-10-06 11:22:54",
+    "updated_at": "2023-10-06 20:45:13",
+    "content_text": "1006_akiyama_s.jpg\r\n21歳になったばかりのわたしの写真。やっぱり何歳になっても誕生日は嬉しいものですね\r\n\r\n今年もたくさんの方にお祝いして頂いて幸せな気持ちでいっぱいでした♡\r\n\r\nこれからも一瞬一瞬の出会いや時間を大切に生きていきたい(^^)\r\nあとは自分磨きをしたい！\r\n\r\nたのしみです☆\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17256",
+        "material_title": "1006_akiyama_s.jpg",
+        "material_file": "65eaf047497d6611eb41b0e94f3e757148761c790eba33d04c99b1405dbe21fb17256.jpeg"
+      }
+    ],
+    "previous_id": "21083",
+    "next_id": "20922",
+    "saved_materials": [
+      "assets/20959_17256_1006_akiyama_s.jpg"
+    ]
+  }
+}

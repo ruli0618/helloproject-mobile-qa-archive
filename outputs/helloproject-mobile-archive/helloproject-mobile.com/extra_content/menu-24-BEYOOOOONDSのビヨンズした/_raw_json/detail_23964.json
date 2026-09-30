@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 115,
+    "content_id": "23964",
+    "content_title": "遠近法",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2025-04-09 10:00:00",
+    "created_at": "2025-03-07 07:56:00",
+    "updated_at": "2025-03-07 07:56:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19655",
+        "material_title": "0409_satoyoshi_s.jpg",
+        "material_file": "3917897ec34965db307a2bd03fafc5026f83843bb4c03ad20f5798e162b8d95a19655.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23964",
+    "content_title": "遠近法",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2025-04-09 10:00:00",
+    "created_at": "2025-03-07 07:56:00",
+    "updated_at": "2025-03-07 07:56:00",
+    "content_text": "0409_satoyoshi_s.jpg\r\nグループチェキ会の合間に撮りました！！♡\r\n\r\n【41周目お題：仲良しショット】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19655",
+        "material_title": "0409_satoyoshi_s.jpg",
+        "material_file": "42ae590f1baf3b5b25ca45a82e7063fac66475fe9080b5d7898b2f01b2a55b2819655.jpeg"
+      }
+    ],
+    "previous_id": "24114",
+    "next_id": "23963",
+    "saved_materials": [
+      "assets/23964_19655_0409_satoyoshi_s.jpg"
+    ]
+  }
+}

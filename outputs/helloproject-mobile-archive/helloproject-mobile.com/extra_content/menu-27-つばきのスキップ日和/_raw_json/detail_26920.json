@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 5,
+    "content_id": "26920",
+    "content_title": "灼熱大好きな石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2026-09-26 10:00:00",
+    "created_at": "2026-09-24 17:51:10",
+    "updated_at": "2026-09-24 17:51:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21978",
+        "material_title": "0926_ishii_s.jpg",
+        "material_file": "b3c7787a43a921fd7bafacd815eb46aad1fe36669f986b40d2d2c06378765bed21978.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26920",
+    "content_title": "灼熱大好きな石井泉羽",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2026-09-26 10:00:00",
+    "created_at": "2026-09-24 17:51:10",
+    "updated_at": "2026-09-24 17:51:10",
+    "content_text": "0926_ishii_s.jpg\r\nみはみは〜！石井 泉羽(いしい みはね)です！\r\n\r\n一年に一度の夏のお祭り、灼熱が今年も無事に開催されました(●>u<)\r\n\r\n今年は残念ながら雨で花火はみれなかったのですが、みなさんとメンバーと楽しい夏の思い出ができて幸せです(*^ω^*)\r\n\r\n今年は太鼓だったり、ユニットだったり、新曲\r\n「愛＝運+縁+恩」初披露だったり、\r\n緊張もありましたが、終わってみると楽しすぎて灼熱ロスになってます(*´ω`*)\r\n\r\n来年もずーっとこれからも灼熱が開催できますように、頑張りたいと思いますヽ(*＾ω＾*)ﾉ\r\n\r\nみなさんはこの夏たのしい思い出たくさんできたかな？？\r\n\r\nそれでは皆さん！今日も一日おつかレッサーレッサーです！",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21978",
+        "material_title": "0926_ishii_s.jpg",
+        "material_file": "96ab30b949990d71109add3d7ef46e9cf3fce468bc39e41d7d0e442e7ed3cacf21978.jpeg"
+      }
+    ],
+    "previous_id": "26921",
+    "next_id": "26919",
+    "saved_materials": [
+      "assets/26920_21978_0926_ishii_s.jpg"
+    ]
+  }
+}

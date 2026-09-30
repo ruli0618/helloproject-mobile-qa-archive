@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 208,
+    "content_id": "21575",
+    "content_title": "髪の長い",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-02-07 10:00:00",
+    "created_at": "2024-01-16 18:14:30",
+    "updated_at": "2024-01-16 18:14:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17721",
+        "material_title": "0207_kiyono_s.jpg",
+        "material_file": "8883edba782ec84e373d75daa43c4200ede4acee012439149bf39b9d7814b3e917721.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21575",
+    "content_title": "髪の長い",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-02-07 10:00:00",
+    "created_at": "2024-01-16 18:14:30",
+    "updated_at": "2024-01-16 18:14:30",
+    "content_text": "0207_kiyono_s.jpg\r\nギャル\r\n\r\n【31周目お題：キメキメショット】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17721",
+        "material_title": "0207_kiyono_s.jpg",
+        "material_file": "3062204eea8a14ba895ceec352b91c2c978147bdbfc201f9f8e4ff6f5027dfaa17721.jpeg"
+      }
+    ],
+    "previous_id": "21576",
+    "next_id": "21574",
+    "saved_materials": [
+      "assets/21575_17721_0207_kiyono_s.jpg"
+    ]
+  }
+}

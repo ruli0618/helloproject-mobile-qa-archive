@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 574,
+    "content_id": "7593",
+    "content_title": "工藤の家の屋根裏部屋#7 ～加賀楓～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-09-20 19:00:00",
+    "created_at": "2017-09-20 18:58:30",
+    "updated_at": "2017-09-20 18:59:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6689",
+        "material_title": "1709201_s.jpg",
+        "material_file": "5c6a784f072d84e1040bea6252cc9bdd002f52ad1e31e2c492056d6039e10aec6689.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6690",
+        "material_title": "1709202_s.jpg",
+        "material_file": "c44f3d228da399c71f711eef3ef69e9e71eacc8c8e367157d7727d2003712db76690.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7593",
+    "content_title": "工藤の家の屋根裏部屋#7 ～加賀楓～",
+    "content_sub_title": "",
+    "release_date": "2017-09-20 19:00:00",
+    "created_at": "2017-09-20 18:58:30",
+    "updated_at": "2017-09-20 18:59:20",
+    "content_text": "「ふくむらの部屋」7回目の配信が開始しました！\n\n\nゲストはモーニング娘。'17 加賀楓さんが登場！\n\n\n1709201_s.jpg\n\n\n今回は番組定番の“あめちゃんBOX”から、ある新しい飴に挑戦しています！\n\n\n「みずき先生のハロプロ講座」\nモーニング娘。それぞれの『期』についてのイメージについて\n13期の二人の関係は…!?\n\n\n「みずきお嬢様の私生活」\n上着のポケットから〇〇が…!?\nツアーの楽屋に持ち込んだが牧野真莉愛さんしかもらってくれなかったあるモノとは\nおじいちゃんが飼っていたという驚愕のペットとは…!?\n\n\n1709202_s.jpg\n\n\nそしてそして番組最後にプチハプニングが!?\n\n\n\n\n\n「みずき先生のハロプロ講座」「みずきお嬢様の私生活」\nそれぞれのコーナー、普通のお便り\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！\n\n\n\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6689",
+        "material_title": "1709201_s.jpg",
+        "material_file": "eb04a313951e9c0d5001aabc22cf190da3ff0d552b7aadcc55cac4cda0842abb6689.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6690",
+        "material_title": "1709202_s.jpg",
+        "material_file": "56180b85c3c16336ecef22a7bd8be1ecde7580d75a72acfe2d14e617d81f6a136690.jpeg"
+      }
+    ],
+    "previous_id": "7627",
+    "next_id": "7507",
+    "saved_materials": [
+      "assets/7593_6689_1709201_s.jpg",
+      "assets/7593_6690_1709202_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 275,
+    "content_id": "19661",
+    "content_title": "ファースト写真集",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2023-02-20 10:00:00",
+    "created_at": "2023-02-08 20:48:03",
+    "updated_at": "2023-02-08 20:48:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16312",
+        "material_title": "0220_nishida_s.jpg",
+        "material_file": "5e9106e6098865dc4f1b15732fa3aacce70ef8dec70e19a1340fafd0f456a5ea16312.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19661",
+    "content_title": "ファースト写真集",
+    "content_sub_title": "西田汐里",
+    "release_date": "2023-02-20 10:00:00",
+    "created_at": "2023-02-08 20:48:03",
+    "updated_at": "2023-02-08 20:48:03",
+    "content_text": "0220_nishida_s.jpg\r\n弓道初体験で腕がぷるぷるしてました！\r\n\r\n【24周目お題：横顔】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16312",
+        "material_title": "0220_nishida_s.jpg",
+        "material_file": "b9479b010fcad2f5db0f1aa1907fc80fdc9f3f829776be2b7de3ae3fc6366d9416312.jpeg"
+      }
+    ],
+    "previous_id": "19662",
+    "next_id": "19660",
+    "saved_materials": [
+      "assets/19661_16312_0220_nishida_s.jpg"
+    ]
+  }
+}

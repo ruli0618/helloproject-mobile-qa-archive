@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 345,
+    "content_id": "13656",
+    "content_title": "工藤の家の屋根裏部屋#73前編～野中美希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-05-01 10:00:00",
+    "created_at": "2020-04-17 19:54:04",
+    "updated_at": "2020-04-28 18:36:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11413",
+        "material_title": "20200428.jpg",
+        "material_file": "b04416cd1bafff6794ec67f88d885e77c48734f0924a993a3966573b81c482ca11413.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11414",
+        "material_title": "20200428_01_s.jpg",
+        "material_file": "8cb283be30e936b29444926786068bf40c17a2beb9929654a8b87238ea5dc70911414.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13656",
+    "content_title": "工藤の家の屋根裏部屋#73前編～野中美希～",
+    "content_sub_title": "",
+    "release_date": "2020-05-01 10:00:00",
+    "created_at": "2020-04-17 19:54:04",
+    "updated_at": "2020-04-28 18:36:20",
+    "content_text": "ふくむらの部屋 第73回前編配信中！\n\n第73回ゲストは、モーニング娘。'20から、ハロ！モバ宣伝部部長でもある野中美希さんが来てくれました！\n\nハロプロ講座では、\nお二人が成長したと思える曲、\n春ツアーで好きな衣装について、トークしました！！\n\n20200428_01_s.jpg\n\n踊ってみた動画や、開催中のサンリオキャラクター大賞についても盛り上がりましたよ！\n\nコラボ企画では、こちら↓の質問に回答しました！\n\n20200428.jpg\n久しぶりの\"のなえもん\"も登場♬\n\n「ふくむらの部屋」では今回より当分の間、収録時間を短縮し一回の収録を前編後編に分けてお送りしております。\n\n次回は、GWのお休みを挟んで5/19(火)の配信！\n\n第73回後編では新コーナーも決定しています。\nゲストは引き続き野中美希さんが登場！\n\nぜひ、お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11413",
+        "material_title": "20200428.jpg",
+        "material_file": "264a71840715c7b7474acecfcd0db4b234d3a2ed3f9c6f8659f9d68b2c30842511413.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11414",
+        "material_title": "20200428_01_s.jpg",
+        "material_file": "b9f4a34c78e4f6697a22fe29132086acf16b6980eea2c9f3a1568250cec3f7bd11414.jpeg"
+      }
+    ],
+    "previous_id": "13655",
+    "next_id": "13651",
+    "saved_materials": [
+      "assets/13656_11413_20200428.jpg",
+      "assets/13656_11414_20200428_01_s.jpg"
+    ]
+  }
+}

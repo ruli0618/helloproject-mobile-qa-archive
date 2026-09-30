@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 30,
+    "content_id": "26491",
+    "content_title": "ドーナツ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2026-06-29 10:00:00",
+    "created_at": "2026-06-26 00:41:52",
+    "updated_at": "2026-06-26 00:43:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21610",
+        "material_title": "0701_eguchi_s.jpg",
+        "material_file": "b20d0051fed573451cee27413a3af4bd44e2f79c33dff8b7f95fe5e04b67095f21610.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26491",
+    "content_title": "ドーナツ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2026-06-29 10:00:00",
+    "created_at": "2026-06-26 00:41:52",
+    "updated_at": "2026-06-26 00:43:30",
+    "content_text": "0701_eguchi_s.jpg\r\nもちもちのドーナツが好きです♡\r\n\r\n【53周目お題：スイーツ】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21610",
+        "material_title": "0701_eguchi_s.jpg",
+        "material_file": "b27983a9253bbed0aceaa49bc71fa25c151376824c0b947c95b20b730a6beae821610.jpeg"
+      }
+    ],
+    "previous_id": "26490",
+    "next_id": "26106",
+    "saved_materials": [
+      "assets/26491_21610_0701_eguchi_s.jpg"
+    ]
+  }
+}

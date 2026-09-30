@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 492,
+    "content_id": "9558",
+    "content_title": "工藤の家の屋根裏部屋#28～小片リサ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-07-18 18:17:00",
+    "created_at": "2018-07-18 18:18:14",
+    "updated_at": "2018-07-18 18:19:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8378",
+        "material_title": "180718_s.jpg",
+        "material_file": "a110e4a881c2f9758b586220b300d39511ed96d4c2ed26c6bc4db7171180435c8378.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9558",
+    "content_title": "工藤の家の屋根裏部屋#28～小片リサ～",
+    "content_sub_title": "",
+    "release_date": "2018-07-18 18:17:00",
+    "created_at": "2018-07-18 18:18:14",
+    "updated_at": "2018-07-18 18:19:57",
+    "content_text": "「ふくむらの部屋」28回目の配信開始しました！\n\n\n今回のゲストは前回に引き続きハロ！モバ宣伝部から、書記のつばきファクトリー小片リサさんが登場！\n\n180718_s.jpg\n\n冒頭トークから好きなものについて語りまくる譜久村さん。\n今回のふくむらの部屋も全体的に濃～い内容で\nところどころ小片さん、圧倒されていましたね。。\n\n譜久村さん、小片さんがそれぞれおこなった\n「お泊まり会」の裏話は必聴です！\n\nサブリーダー論！\nハロ！モバメールの裏話\n初のライブツアーについて・・・\n今回も盛りだくさんです！\n\nメドレーセレクションのコーナーでは\n前回ゲストの梁川さん提案の「落ち込んでいる時に聞きたいメドレー」\n予想に反して元気づけるような明るい楽曲が多かった印象です！\n\n次回は小片さん提案の\n「蚊に刺された時“かゆさ”を吹き飛ばしてくれるメドレー」\nです！\n難解な（!?）テーマに対する斬新なメドレーお待ちしています！\n\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\n「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！\n「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f193c5e2fb4d910eb81ab135c126e415",
+        "material_id": "8378",
+        "material_title": "180718_s.jpg",
+        "material_file": "681da034f81406d335ed2233878bffa27cd4bc546bf16c9b22d1a5dfc85031c58378.jpeg"
+      }
+    ],
+    "previous_id": "9598",
+    "next_id": "9501",
+    "saved_materials": [
+      "assets/9558_8378_180718_s.jpg"
+    ]
+  }
+}

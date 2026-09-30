@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 29,
+    "content_id": "27002",
+    "content_title": "工藤の家の軒下#53～橋迫鈴～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-12-23 00:00:00",
+    "created_at": "2026-09-28 23:41:12",
+    "updated_at": "2026-09-28 23:41:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22082",
+        "material_title": "251223_053.jpg",
+        "material_file": "a85f6563845e2251259a3e4795191466a63671e8bf326826b653af9f2586931c22082.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27002",
+    "content_title": "工藤の家の軒下#53～橋迫鈴～",
+    "content_sub_title": "",
+    "release_date": "2025-12-23 00:00:00",
+    "created_at": "2026-09-28 23:41:12",
+    "updated_at": "2026-09-28 23:41:12",
+    "content_text": "251223_053.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第53回はゲストは、橋迫鈴！\r\n\r\n・ドッキリ企画\r\n・メンバーに直してほしいこと\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・雪の日の思い出\r\n・モーニングルーティン、ナイトルーティン\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・抽選会\r\n・2人の似ているところ\r\n・グループトーク\r\n・日本武道館公演\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22082",
+        "material_title": "251223_053.jpg",
+        "material_file": "bc65b23b7ac1d5f92a2f636c9a8538d909c5883aaefab2fe769a61a8c06cf81622082.jpeg"
+      }
+    ],
+    "previous_id": "27003",
+    "next_id": "26960",
+    "saved_materials": [
+      "assets/27002_22082_251223_053.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 477,
+    "content_id": "9928",
+    "content_title": "工藤の家の屋根裏部屋#33～小野瑞歩～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-09-27 17:02:00",
+    "created_at": "2018-09-27 17:03:26",
+    "updated_at": "2018-09-27 17:03:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8646",
+        "material_title": "180927_02_s.jpg",
+        "material_file": "f9ff7170112a706ec75dff31dee12808570c83ddce019ab0d96c685155fa516d8646.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8647",
+        "material_title": "180927_01_s.jpg",
+        "material_file": "61864e3fb764674b5739e0519bd929ac5c36029d3a79be85f37a436285bcae058647.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9928",
+    "content_title": "工藤の家の屋根裏部屋#33～小野瑞歩～",
+    "content_sub_title": "",
+    "release_date": "2018-09-27 17:02:00",
+    "created_at": "2018-09-27 17:03:26",
+    "updated_at": "2018-09-27 17:03:26",
+    "content_text": "「ふくむらの部屋」33回目配信開始です！\r\nチェックしていただけましたか？\r\n\r\n今回はつばきファクトリーから小野瑞歩さんが登場！\r\n\r\n180927_01_s.jpg\r\n\r\n小野さんの大好きな先輩佐藤優樹さんの話を\r\nニコニコしながらしていたのが印象的でした。\r\n\r\nいや、譜久村さんを前に終始ニコニコしていましたね。\r\n\r\n\r\n握手会あるあるやこだわり話では\r\n小野田紗栞さんの“強すぎる握手”や\r\n「フクムラロック」に似ているというつばきファクトリーのメンバーについて話しています！\r\n\r\n過去のミュージックビデオ撮影エピソードも満載です。\r\n小野瑞歩の「Just Try!」MV撮影での失敗とは!?\r\n\r\n180927_02_s.jpg\r\n\r\nハロプロ・オールスターズ\r\n「YEAH YEAH YEAH」「憧れのStress-free」\r\nについてもたくさん語っています！\r\n\r\nメドレーセレクションのコーナー\r\n次回のテーマは「スポーツをしている時に聴きたいメドレー」です！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8646",
+        "material_title": "180927_02_s.jpg",
+        "material_file": "359d56302815f693cd363d14cac9f83936e270be033f6cc8c498e4c0046744018646.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8647",
+        "material_title": "180927_01_s.jpg",
+        "material_file": "73626bb3772336744e70f973f38fc26f3bf7307cca7e77923ca21b5dea458cc28647.jpeg"
+      }
+    ],
+    "previous_id": "9929",
+    "next_id": "9883",
+    "saved_materials": [
+      "assets/9928_8646_180927_02_s.jpg",
+      "assets/9928_8647_180927_01_s.jpg"
+    ]
+  }
+}

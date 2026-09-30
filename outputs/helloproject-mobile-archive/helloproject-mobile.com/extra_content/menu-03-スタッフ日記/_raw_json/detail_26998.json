@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 35,
+    "content_id": "26998",
+    "content_title": "工藤の家の軒下#49～上村麗菜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-10-28 00:00:00",
+    "created_at": "2026-09-28 23:11:11",
+    "updated_at": "2026-09-28 23:11:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26998",
+    "content_title": "工藤の家の軒下#49～上村麗菜～",
+    "content_sub_title": "",
+    "release_date": "2025-10-28 00:00:00",
+    "created_at": "2026-09-28 23:11:11",
+    "updated_at": "2026-09-28 23:11:11",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第49回はゲストは、上村麗菜！\r\n\r\n・好きな犬種\r\n・日本武道館公演\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・得意なのは高音？低音？\r\n・武道館とは\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・方言\r\n・1stライブツアー\r\n・日本武道館公演リハ\r\n・オープニングアクト\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26999",
+    "next_id": "26958",
+    "saved_materials": []
+  }
+}

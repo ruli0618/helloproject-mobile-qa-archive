@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 101,
+    "content_id": "16587",
+    "content_title": "和",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-08-25 10:00:00",
+    "created_at": "2021-08-24 19:16:50",
+    "updated_at": "2021-08-24 19:16:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13871",
+        "material_title": "210825_yamagishi_s.jpg",
+        "material_file": "64afb44722ac5b258df18c89bfea3df0a1fa931440d0640e584dc0d79aaf029c13871.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16587",
+    "content_title": "和",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-08-25 10:00:00",
+    "created_at": "2021-08-24 19:16:50",
+    "updated_at": "2021-08-24 19:16:50",
+    "content_text": "210825_yamagishi_s.jpg\r\n最近和食が好きです(^^)\r\n\r\n20歳過ぎたあたりから\r\n和の魅力に気がつきました\r\n\r\n心がホッとするし落ち着く♡\r\n\r\n朝ごはんも基本パンではなくお米を食べます！\r\n\r\n白飯に鮭に漬物にお味噌汁。\r\n\r\nはぁ、、最高ですね。",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13871",
+        "material_title": "210825_yamagishi_s.jpg",
+        "material_file": "d39b852ed4200fde70f76da3970350f8f178d0543d8ec570dfa03fe625056a1213871.jpeg"
+      }
+    ],
+    "previous_id": "16618",
+    "next_id": "16586",
+    "saved_materials": [
+      "assets/16587_13871_210825_yamagishi_s.jpg"
+    ]
+  }
+}

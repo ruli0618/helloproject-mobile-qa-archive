@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 11,
+    "content_id": "26858",
+    "content_title": "眉毛とリップと加工",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2026-09-02 10:00:00",
+    "created_at": "2026-08-28 19:49:31",
+    "updated_at": "2026-08-28 19:49:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21922",
+        "material_title": "0826_nishida_s.jpg",
+        "material_file": "cad1e708ce48883d83af4bfd2ad6f7a68f9645919088dfc23a2329996ce6450621922.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26858",
+    "content_title": "眉毛とリップと加工",
+    "content_sub_title": "西田汐里",
+    "release_date": "2026-09-02 10:00:00",
+    "created_at": "2026-08-28 19:49:31",
+    "updated_at": "2026-08-28 19:49:31",
+    "content_text": "0826_nishida_s.jpg\r\n加工が大事！\r\n\r\n【55周目お題：ナチュラル盛れ】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21922",
+        "material_title": "0826_nishida_s.jpg",
+        "material_file": "889c257bca686314415346a98386545b57fe760f921e6f500c948b5784b78cad21922.jpeg"
+      }
+    ],
+    "previous_id": "26881",
+    "next_id": "26667",
+    "saved_materials": [
+      "assets/26858_21922_0826_nishida_s.jpg"
+    ]
+  }
+}

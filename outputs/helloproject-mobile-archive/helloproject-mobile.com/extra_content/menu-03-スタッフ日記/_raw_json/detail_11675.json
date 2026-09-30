@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 409,
+    "content_id": "11675",
+    "content_title": "宣伝会議 議事録#39",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-06-28 22:55:00",
+    "created_at": "2019-06-28 22:56:02",
+    "updated_at": "2019-06-28 22:56:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9961",
+        "material_title": "190628_02_s.jpg",
+        "material_file": "c9f36878db6fb527dd86db1b92f49922bead174f668833c45e11e0f3a673ffc39961.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9962",
+        "material_title": "190628_01_s.jpg",
+        "material_file": "02bddf0aa7d18c63c36d6f2ff4f2d25907144f5a3e08569b014bcf064be485439962.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9963",
+        "material_title": "190628_05.jpg",
+        "material_file": "90a44d101a952f8b672c7ef084ec20be921f6299f35ac30838806ef6dc1353ad9963.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9964",
+        "material_title": "190628_03_s.jpg",
+        "material_file": "d12ac44ded7e48829295570311c29be3c7e6f49de9c5be7729fda4f6f8e5db739964.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9965",
+        "material_title": "190628_04_s.jpg",
+        "material_file": "efb37f6c42baf02f9d0cfe196316e3f59e5db8f013fb8f9beba9453e243eddd29965.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11675",
+    "content_title": "宣伝会議 議事録#39",
+    "content_sub_title": "",
+    "release_date": "2019-06-28 22:55:00",
+    "created_at": "2019-06-28 22:56:02",
+    "updated_at": "2019-06-28 22:56:02",
+    "content_text": "ハロモバ宣伝会議\r\n39回目の配信はもうチェックしていただけましたか？\r\n\r\n190628_01_s.jpg\r\n\r\n4人揃っての宣伝会議！\r\n野中部長が買ってきた川村広報オススメの「塩けんぴ」を食べながら\r\nお送りしています\r\n\r\n妄想動画撮影強化月間の中間発表～！\r\nハロモバ会員のために部員が頑張っています！\r\n\r\nそして会議中にも爆笑(!?)妄想動画撮影！\r\n配信をお楽しみに！\r\n\r\nさらに！\r\nハロモバ宣伝部ではお馴染みの\r\n野中部長のうさこ・しろえもん、小片副部長の白い動物に続き、\r\n川村広報と前田書記兼警備のオリジナルキャラクターが決定！\r\n\r\n会議中に描いたイラストはこちら↓\r\n\r\n190628_02_s.jpg\r\n川村文乃 作\r\n\r\n\r\n190628_03_s.jpg\r\n前田こころ 作\r\n\r\nポイント解説はラジオをチェック！\r\n\r\n190628_04_s.jpg\r\n\r\n次回はお悩み相談メールの募集を決定！\r\n宣伝部の4人に相談したいことを大募集します！\r\n大きなお悩みから小さなお悩みまで、\r\n解決できるか保証はありませんがぜひメールをお送りください！\r\n\r\n\r\n\r\n↓前田書記が書いた議事録はこちら↓\r\n\r\n190628_05.jpg\r\n\r\n\r\n「励ましのメール」「お悩み相談メール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください\r\n※お悩み相談は「お悩み相談」と記入してください",
+    "materials": [
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9961",
+        "material_title": "190628_02_s.jpg",
+        "material_file": "d727e7f714789cb7fbda9e6844dbf9dc651dd5541fe9a5761c9099795c0668f19961.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9962",
+        "material_title": "190628_01_s.jpg",
+        "material_file": "3dc454ae0daf461cff9d19fa65a465ea737f9b6c565829a463065c5d4c74f4879962.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9963",
+        "material_title": "190628_05.jpg",
+        "material_file": "d915e42fb23d204fc1172fbe89b63b33a230a523af63ea24cfb6375a607420119963.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9964",
+        "material_title": "190628_03_s.jpg",
+        "material_file": "06edd77230dff1b672f8748e993df02c0d0724c0ab0ff32941e7081b147486069964.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9965",
+        "material_title": "190628_04_s.jpg",
+        "material_file": "f8f651b57c8d6b3f320912b4c952ab207b2d95ebae4696970bca1770a9fb79779965.jpeg"
+      }
+    ],
+    "previous_id": "11691",
+    "next_id": "11668",
+    "saved_materials": [
+      "assets/11675_9961_190628_02_s.jpg",
+      "assets/11675_9962_190628_01_s.jpg",
+      "assets/11675_9963_190628_05.jpg",
+      "assets/11675_9964_190628_03_s.jpg",
+      "assets/11675_9965_190628_04_s.jpg"
+    ]
+  }
+}

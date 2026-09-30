@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 212,
+    "content_id": "19144",
+    "content_title": "みよちゃん家の縁側の猫#6 川名凜",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-07-07 00:00:00",
+    "created_at": "2022-11-16 15:59:46",
+    "updated_at": "2022-11-16 15:59:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15898",
+        "material_title": "221116_01.jpg",
+        "material_file": "573f51c31364c060398ea1e834843c2b8d1b7507284cde3bfd8c139c163d61b715898.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15899",
+        "material_title": "221116_02.jpg",
+        "material_file": "cf1b4f85ae213af2d4469f58a3e7fca182b2b4215eb3c8f269e975c42ebff0bd15899.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19144",
+    "content_title": "みよちゃん家の縁側の猫#6 川名凜",
+    "content_sub_title": "",
+    "release_date": "2022-07-07 00:00:00",
+    "created_at": "2022-11-16 15:59:46",
+    "updated_at": "2022-11-16 15:59:46",
+    "content_text": "「みよちゃん家の縁側」#6配信中です！\r\n\r\n第6回ゲストは、アンジュルム川名凜さん！\r\n\r\n221116_01.jpg\r\n\r\n逆再生チャレンジコーナーでのお題はこちら！\r\n\r\n①ゴライアスガエル\r\n②お互いのグループの新曲の好きな歌詞\r\n③ケロトッツォ\r\n④ケロケロケロッピ\r\n\r\n今回は川名さんの大好きなカエルにちなんだお題にたくさん挑戦しました<img src=\"/emoji/emoji-images/5151.gif\"/>\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「演劇部所属のふたり」「カエルの王子様<img src=\"/emoji/emoji-images/5151.gif\"/>」の2本をお送りしました。\r\n演技のなかで早口言葉対決もしましたよ<img src=\"/emoji/emoji-images/f7ee.gif\"/>\r\nぜひ配信でチェックしてくださいね。\r\n\r\n\r\nその他オーディション合格後に苦労したことや同期3人の役割、Hello! Project DVDマガジンの裏話なども！！！\r\n\r\n221116_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第7回ゲストはOCHA NORMA 窪田七海さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15898",
+        "material_title": "221116_01.jpg",
+        "material_file": "f821be9a33811077ca62991fa9db3b4a8fa36a4e3f1688f669f49cc055492d9c15898.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15899",
+        "material_title": "221116_02.jpg",
+        "material_file": "7dc8b11f41640c308e7fc3f937c7202c8a3b8a68936d161aa7711bc545cd5d4115899.jpeg"
+      }
+    ],
+    "previous_id": "19350",
+    "next_id": "18357",
+    "saved_materials": [
+      "assets/19144_15898_221116_01.jpg",
+      "assets/19144_15899_221116_02.jpg"
+    ]
+  }
+}

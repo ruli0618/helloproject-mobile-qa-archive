@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 133,
+    "content_id": "22992",
+    "content_title": "Vlog",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2024-09-26 10:00:00",
+    "created_at": "2024-09-26 22:49:54",
+    "updated_at": "2024-09-26 22:49:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18832",
+        "material_title": "0926_inoue_s.jpg",
+        "material_file": "d221e5e4cc0c50b02fb4e01f165a7edd3817ae547bd5e3df987c4082fa786aaf18832.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22992",
+    "content_title": "Vlog",
+    "content_sub_title": "井上玲音",
+    "release_date": "2024-09-26 10:00:00",
+    "created_at": "2024-09-26 22:49:54",
+    "updated_at": "2024-09-26 22:49:54",
+    "content_text": "0926_inoue_s.jpg\r\nこの前パソコンでVlog作ったんだけど、思いのほか上手くてエモい",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18832",
+        "material_title": "0926_inoue_s.jpg",
+        "material_file": "886656b713f2458e6c48a3954e44e0d51beb48b24a25de0af9e9ed1e60ebf4db18832.jpeg"
+      }
+    ],
+    "previous_id": "22993",
+    "next_id": "22948",
+    "saved_materials": [
+      "assets/22992_18832_0926_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 48,
+    "content_id": "11457",
+    "content_title": "おはなちゃん。",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2019-05-28 10:00:00",
+    "created_at": "2019-05-24 23:26:14",
+    "updated_at": "2019-05-24 23:26:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9795",
+        "material_title": "0524_yamagishi_s.jpg",
+        "material_file": "cae37f562b97f3abf491bc774c49596bfb8bbd2ec00642fd699171faab94aaaf9795.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11457",
+    "content_title": "おはなちゃん。",
+    "content_sub_title": "山岸理子",
+    "release_date": "2019-05-28 10:00:00",
+    "created_at": "2019-05-24 23:26:14",
+    "updated_at": "2019-05-24 23:26:14",
+    "content_text": "可愛いなぁと思って撮りました。\r\nこのお花ちゃん。\r\n0524_yamagishi_s.jpg\r\nお花といえばピンクをよく目にするなと思います。\r\n雨上がりなのか、水の雫がある♡",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9795",
+        "material_title": "0524_yamagishi_s.jpg",
+        "material_file": "4ac5fc2a2c64802e913fc4e1faa12e4727bb8e78d25b7b61b7a83ef919fe72269795.jpeg"
+      }
+    ],
+    "previous_id": "11560",
+    "next_id": "11370",
+    "saved_materials": [
+      "assets/11457_9795_0524_yamagishi_s.jpg"
+    ]
+  }
+}

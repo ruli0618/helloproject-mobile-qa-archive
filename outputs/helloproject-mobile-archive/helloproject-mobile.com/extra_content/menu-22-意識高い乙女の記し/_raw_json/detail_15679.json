@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 128,
+    "content_id": "15679",
+    "content_title": "カフェ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-03-23 20:41:00",
+    "created_at": "2021-03-23 20:41:32",
+    "updated_at": "2021-03-23 20:41:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13044",
+        "material_title": "210323_yamagishi_s.jpg",
+        "material_file": "784ccea3793cdf48717db1eeb106c9794ecb4f38a4995f195c82d385807bd05113044.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15679",
+    "content_title": "カフェ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-03-23 20:41:00",
+    "created_at": "2021-03-23 20:41:32",
+    "updated_at": "2021-03-23 20:41:32",
+    "content_text": "210323_yamagishi_s.jpg\r\n\r\n少しオシャレなカフェを\r\n調べて行くことがすき◎\r\n\r\n最近ブラックコーヒー飲めるようになりました^^*\r\n\r\nこの日は違うけどね！笑",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13044",
+        "material_title": "210323_yamagishi_s.jpg",
+        "material_file": "4dad5ac97abe05aee52b17c3d0b59ac9f110729d7497c42640ee553af04c084f13044.jpeg"
+      }
+    ],
+    "previous_id": "15729",
+    "next_id": "15655",
+    "saved_materials": [
+      "assets/15679_13044_210323_yamagishi_s.jpg"
+    ]
+  }
+}

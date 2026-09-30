@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 256,
+    "content_id": "20167",
+    "content_title": "綺麗な空",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2023-05-29 10:00:00",
+    "created_at": "2023-05-10 21:27:46",
+    "updated_at": "2023-05-10 21:27:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16678",
+        "material_title": "0529_eguchi_s.jpg",
+        "material_file": "73a2e75f63d92f22c27bf5ed3e67add3a4bf6e2d12f83b3eb8d7b15902539b3216678.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20167",
+    "content_title": "綺麗な空",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2023-05-29 10:00:00",
+    "created_at": "2023-05-10 21:27:46",
+    "updated_at": "2023-05-10 21:27:46",
+    "content_text": "0529_eguchi_s.jpg\r\n天気が良くて青い空が綺麗でした！\r\n\r\n【26周目お題：美しい】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16678",
+        "material_title": "0529_eguchi_s.jpg",
+        "material_file": "0bfb31d957889776db5e8d4c31e7e1323ac3c6c6e9cb1f1390629934256c0f8a16678.jpeg"
+      }
+    ],
+    "previous_id": "20169",
+    "next_id": "20166",
+    "saved_materials": [
+      "assets/20167_16678_0529_eguchi_s.jpg"
+    ]
+  }
+}

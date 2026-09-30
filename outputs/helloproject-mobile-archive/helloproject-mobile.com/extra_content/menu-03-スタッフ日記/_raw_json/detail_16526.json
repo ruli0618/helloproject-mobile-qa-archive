@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 276,
+    "content_id": "16526",
+    "content_title": "次回収録ふくむらの部屋に関するお知らせ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-08-06 14:31:00",
+    "created_at": "2021-08-06 14:31:10",
+    "updated_at": "2021-08-06 14:54:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13796",
+        "material_title": "K02_s.jpg",
+        "material_file": "607664e928cfba7c7c0810f96fb94d5379cc230e82a7b44cf79830638c313fb913796.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13797",
+        "material_title": "K01_s.jpg",
+        "material_file": "bbfcc53d87e95908a3d2d4f7ea58a6980c50cecd14688a6443dd6471bf1dd6eb13797.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16526",
+    "content_title": "次回収録ふくむらの部屋に関するお知らせ",
+    "content_sub_title": "",
+    "release_date": "2021-08-06 14:31:00",
+    "created_at": "2021-08-06 14:31:10",
+    "updated_at": "2021-08-06 14:54:12",
+    "content_text": "<a href=\"http://www.helloproject.com/news/13444/\" target=\"_blank\">譜久村聖が濃厚接触者に認定</a>されました関係で、ハロー！ラジオ「ふくむらの部屋」次回収録分の出演をお休みさせていただく事となりました。\n番組を楽しみにお待ちいただいている皆さまには、急な変更となり申し訳ございません。\n\nMCは、同じグループのモーニング娘。'21から加賀楓が代役を務めます。ゲストは変わらず、BEYOOOOONDS前田こころが出演します。\n\n出演者変更に伴い、メール締切を延長しお便りを再募集いたします。\n\n尚、現時点までにお送り頂いたお便りも、ご紹介させていただきます。\n※もしお送り頂いた中で今回読まれたくないメールがございます際には、お手数ですがその旨メールをお送り頂けますと幸いです。\n\nお便りは、件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>までお送りください。\n\nコーナー：\n①「かえで先生のハロプロ講座」\nハロー！プロジェクトのこんなところを語ってほしい！\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\n皆さまからお寄せいただいたテーマで加賀とゲストが熱く語り合います。\n\n②「ハロプロファン失敗談」\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\nハロプロファンなら共感出来る\"あるある話\"や、\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\nMC加賀楓とゲストが慰めます！\n\n【注意事項】（※必ずお読みください。）\n※募集は、700円会員に登録している方が対象となります。\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\n<a href=\"https://helloproject-mobile.com/mypage/manage\"><font color=\"#0000ff\"><u>・マイページはこちら</u></font></a>\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><font color=\"#0000ff\"><u>・ハロー！ラジオはこちら</u></font></a>\n\nK01_s.jpg\n\nK02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13796",
+        "material_title": "K02_s.jpg",
+        "material_file": "5e258f8d4a19488d250ccee46f2c350335ffdc6d4ec6c672130894037f073d5713796.jpeg"
+      },
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13797",
+        "material_title": "K01_s.jpg",
+        "material_file": "338e4435a626ff25c590ef355799ccf7fca8c793f811c3c3095e78a77126adad13797.jpeg"
+      }
+    ],
+    "previous_id": "16548",
+    "next_id": "16524",
+    "saved_materials": [
+      "assets/16526_13796_K02_s.jpg",
+      "assets/16526_13797_K01_s.jpg"
+    ]
+  }
+}

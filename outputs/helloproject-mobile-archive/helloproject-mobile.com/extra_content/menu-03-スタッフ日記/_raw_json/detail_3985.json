@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 679,
+    "content_id": "3985",
+    "content_title": "工藤の家の天井裏#3",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-02-01 20:25:00",
+    "created_at": "2016-02-01 20:23:45",
+    "updated_at": "2016-02-01 20:25:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3654",
+        "material_title": "160201_1_s.jpg",
+        "material_file": "eacc1206d58c514f38f509b99d22d4dd9e772748b2417809b000268f742ab7883654.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3655",
+        "material_title": "160201_2_s.jpg",
+        "material_file": "159b400bac0b680cdbc564cffdb84bb2181ef0d9d249a4db936800d766579a1c3655.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3656",
+        "material_title": "160201_3_s.jpg",
+        "material_file": "ce51e1c45df1185d4d9d0fe2789b85187c3dd0934a9a59b93076b08c4151210b3656.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3985",
+    "content_title": "工藤の家の天井裏#3",
+    "content_sub_title": "",
+    "release_date": "2016-02-01 20:25:00",
+    "created_at": "2016-02-01 20:23:45",
+    "updated_at": "2016-02-01 20:25:20",
+    "content_text": "事件です。\n大事件です。4♂です。\nわずか3回目の配信で「やじまの部屋」の番組名が変わってしまいました。\n想像以上にデキる人でした。梁川さんは。\n顛末を知りたい方は今日更新の「（旧）やじまの部屋」をお聞き下さい。\n\n収録後。\nこちらは普通バージョン。\n\n160201_1_s.jpg\n\n番組名変更を\n梁川さんに慰められているバージョン。\n\n160201_2_s.jpg\n\n皆さんご存知だと思いますが、\n矢島さんは心の広い人です。（←フォロー）\n\nそして、「犯人を追え！」のコーナーの似顔絵はこちら。\n\n160201_3_s.jpg\n\n次回のゲストも2人です！\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3654",
+        "material_title": "160201_1_s.jpg",
+        "material_file": "cba704f3b7803db230fdadf092524bba7c3f863620e706110778e3fa1b0fa24a3654.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3655",
+        "material_title": "160201_2_s.jpg",
+        "material_file": "d69d1d472b5553195ca43554fa67acedfe05ae734005a10de4d231f3d8db331b3655.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3656",
+        "material_title": "160201_3_s.jpg",
+        "material_file": "20eada32775a97aacd694faaa4b5833f12ffd780a56b8a573bd5261254859b733656.jpeg"
+      }
+    ],
+    "previous_id": "3989",
+    "next_id": "3951",
+    "saved_materials": [
+      "assets/3985_3654_160201_1_s.jpg",
+      "assets/3985_3655_160201_2_s.jpg",
+      "assets/3985_3656_160201_3_s.jpg"
+    ]
+  }
+}

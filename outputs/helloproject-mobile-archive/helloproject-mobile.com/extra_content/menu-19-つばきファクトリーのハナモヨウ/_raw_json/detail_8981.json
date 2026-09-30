@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 111,
+    "content_id": "8981",
+    "content_title": "今年はたくさん見れた。",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-04-26 11:00:00",
+    "created_at": "2018-04-25 18:30:13",
+    "updated_at": "2018-04-25 18:30:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7893",
+        "material_title": "0426_ono_s.jpg",
+        "material_file": "dc7ad263de3ed11ee1313580d806f96f81d4576bd6a9aff1e90e4ef0716807197893.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8981",
+    "content_title": "今年はたくさん見れた。",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-04-26 11:00:00",
+    "created_at": "2018-04-25 18:30:13",
+    "updated_at": "2018-04-25 18:30:13",
+    "content_text": "もう散ってしまったけど、\r\n\r\n今年は桜を\r\n\r\nたくさん見ることができました！\r\n\r\n0426_ono_s.jpg\r\n\r\n公園で撮った桜<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "7893",
+        "material_title": "0426_ono_s.jpg",
+        "material_file": "0bead7ecd9b59e983fa696542a81759f3887696b1eed88bd874543e678754e2a7893.jpeg"
+      }
+    ],
+    "previous_id": "9081",
+    "next_id": "8892",
+    "saved_materials": [
+      "assets/8981_7893_0426_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 11,
+    "content_id": "26745",
+    "content_title": "ぬいぐるみ",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2026-08-25 10:00:00",
+    "created_at": "2026-08-19 19:52:31",
+    "updated_at": "2026-08-19 19:52:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21835",
+        "material_title": "0825_endos.jpg",
+        "material_file": "b6c92fdf77f836f7acda5a56696878f671f7168eb5d5b144945728592955ea7f21835.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26745",
+    "content_title": "ぬいぐるみ",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2026-08-25 10:00:00",
+    "created_at": "2026-08-19 19:52:31",
+    "updated_at": "2026-08-19 19:52:31",
+    "content_text": "0825_endos.jpg\r\n遠藤彩加里です！\r\n\r\nハロ！コン 2026のTOYOTA ARENA TOKYO公演の楽屋前に、真っ赤なくまちゃんのぬいぐるみがあったんです！\r\n公演中もふもふに癒されてました♡\r\n\r\nハロコンとっても楽しかったので、あっという間に終わってしまって寂しかったです……\r\n\r\n今から次のハロコンが楽しみ♪",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21835",
+        "material_title": "0825_endos.jpg",
+        "material_file": "cd05050c77e5f4e7755f07a0c7b21b5dd19aa95205c3d6544404d1ee520b77c921835.jpeg"
+      }
+    ],
+    "previous_id": "26746",
+    "next_id": "26744",
+    "saved_materials": [
+      "assets/26745_21835_0825_endos.jpg"
+    ]
+  }
+}

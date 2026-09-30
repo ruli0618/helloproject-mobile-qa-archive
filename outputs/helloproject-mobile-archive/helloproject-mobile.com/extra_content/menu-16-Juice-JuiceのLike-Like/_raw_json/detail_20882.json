@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 230,
+    "content_id": "20882",
+    "content_title": "衣装",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2023-09-28 10:00:00",
+    "created_at": "2023-09-21 22:22:09",
+    "updated_at": "2023-09-21 22:22:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17195",
+        "material_title": "0928_inoue_s.jpg",
+        "material_file": "fdd31281fa13ee08020cb513572b4c256c14f9c650b53a16744a948cb96eeea217195.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20882",
+    "content_title": "衣装",
+    "content_sub_title": "井上玲音",
+    "release_date": "2023-09-28 10:00:00",
+    "created_at": "2023-09-21 22:22:09",
+    "updated_at": "2023-09-21 22:22:09",
+    "content_text": "0928_inoue_s.jpg\r\nこの前久しぶりにこの衣装着れて嬉しかったんだ<img src=\"/emoji/emoji-images/4f4e.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17195",
+        "material_title": "0928_inoue_s.jpg",
+        "material_file": "0e2bd82f111633a867382ec8b1ab4668405dcf9e8c5ff204494fedf64a9ea16417195.jpeg"
+      }
+    ],
+    "previous_id": "20920",
+    "next_id": "20880",
+    "saved_materials": [
+      "assets/20882_17195_0928_inoue_s.jpg"
+    ]
+  }
+}

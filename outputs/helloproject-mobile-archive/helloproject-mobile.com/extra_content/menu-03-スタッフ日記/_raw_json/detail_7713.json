@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 570,
+    "content_id": "7713",
+    "content_title": "工藤の家の屋根裏部屋#8 ～小田さくら～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-10-03 21:21:00",
+    "created_at": "2017-10-03 21:24:21",
+    "updated_at": "2017-10-03 21:26:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6766",
+        "material_title": "171003_1_s.jpg",
+        "material_file": "11e53aacfdbd3bc288d1c6bcfb17e0893051efb862085e3473f9e71aa10341216766.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6767",
+        "material_title": "171003_2_s.jpg",
+        "material_file": "5b55b7b9ea15772b8f7924475c20bcbae947a7e5c0d8a18f1fbac0d70f6ebae46767.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6768",
+        "material_title": "171003_3_s.jpg",
+        "material_file": "7c86717215c919b41bf9fe7878be23fe5423ed19ba13054c81227f47af2a23d06768.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7713",
+    "content_title": "工藤の家の屋根裏部屋#8 ～小田さくら～",
+    "content_sub_title": "",
+    "release_date": "2017-10-03 21:21:00",
+    "created_at": "2017-10-03 21:24:21",
+    "updated_at": "2017-10-03 21:26:07",
+    "content_text": "「ふくむらの部屋」8回目の配信が開始しました！\r\n\r\n\r\nゲストはモーニング娘。'17 小田さくらさんが登場！\r\nたくさん喋りたいから早口になっちゃったと譜久村さん。\r\n\r\n\r\n171003_1_s.jpg\r\n\r\n\r\n「みずき先生のハロプロ講座」\r\nステージメイクの話からハロプロ楽曲の世界観まで熱く語っています！\r\n小田が思い描く \"あの2曲\" の関係性は如何に。。。\r\n今回もかなりディープな内容になっているのではないでしょうか！\r\n\r\n\r\n171003_2_s.jpg\r\n\r\n\r\n「みずきお嬢様の私生活」ではまだまだ出てくるお嬢様エピソード！\r\nしかし、なんとかこのコーナーを最終回にしたいという譜久村さん。。。\r\nそんな気持ちも吹き飛ばすような私生活エピソードを皆さん想像してお送りください！\r\n\r\n新コーナー提案のお便りももちろんお待ちしていますね！\r\n\r\n\r\n171003_3_s.jpg\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきお嬢様の私生活」\r\nそれぞれのコーナー、普通のお便り\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6766",
+        "material_title": "171003_1_s.jpg",
+        "material_file": "fb581ba8c16e1f8681423af3a1e90d5555d04c7bd56b5b52fc61a10721ee643d6766.jpeg"
+      },
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6767",
+        "material_title": "171003_2_s.jpg",
+        "material_file": "70e23bfac3a1407e000122e3af81e57a06967ac430155159ea1254132c67aaa76767.jpeg"
+      },
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6768",
+        "material_title": "171003_3_s.jpg",
+        "material_file": "6e9c488997b2747124ea974904405d5bbe0678ad89682a4b0cfd8cebed7de2f16768.jpeg"
+      }
+    ],
+    "previous_id": "7750",
+    "next_id": "7646",
+    "saved_materials": [
+      "assets/7713_6766_171003_1_s.jpg",
+      "assets/7713_6767_171003_2_s.jpg",
+      "assets/7713_6768_171003_3_s.jpg"
+    ]
+  }
+}

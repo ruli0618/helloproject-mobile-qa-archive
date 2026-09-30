@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 219,
+    "content_id": "18345",
+    "content_title": "宣伝会議#74",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-06-13 16:21:00",
+    "created_at": "2022-06-13 16:07:39",
+    "updated_at": "2022-06-13 16:22:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15271",
+        "material_title": "220519_02_s.jpg",
+        "material_file": "7a5c628a304fba272ef803f3398ab8719ef1914de8198358401124fcb7d3f22215271.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15273",
+        "material_title": "220519_03_s.jpg",
+        "material_file": "0b2adf0f4e5e9169315dbb504315adf090975018c7af89b7e0eb1e2a56a67cbd15273.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15272",
+        "material_title": "220519_04_s.jpg",
+        "material_file": "475863f293a4773c0951768020cbc3526a5b0019b4c2149765201f0ecec4518e15272.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15274",
+        "material_title": "220519_01_s.jpg",
+        "material_file": "14908b26b161f527c69486607bc1e370e5dd76f25fbe9230d542b435fcaffc3615274.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18345",
+    "content_title": "宣伝会議#74",
+    "content_sub_title": "",
+    "release_date": "2022-06-13 16:21:00",
+    "created_at": "2022-06-13 16:07:39",
+    "updated_at": "2022-06-13 16:22:04",
+    "content_text": "宣伝会議第74回は、前田こころ警備兼広報と、先日新入部員に加入した入江里咲書記の二人でお届け！\n\n連動質問企画では、花粉症かどうか、\nお互いの好きなところを発表してスタート！\n\n220519_01_s.jpg\n\n入江書記の初ソロ仕事、\n二人がそれぞれ観た映画の感想、\n武道館を終えての心境についてトーク！\n\n220519_02_s.jpg\n\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「入江里咲」書記について紹介！\n\nほかにも…\nひなフェスソロ・トリオ披露の感想、\n二人の共通点、\nリズム感の習得、\n舞台上での早着替え\nなどの話題で盛り上がりました！\n\n↓議事録はこちら！\n220519_04_s.jpg\n\nぜひ、聴いてくださいね♫\n\n220519_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15271",
+        "material_title": "220519_02_s.jpg",
+        "material_file": "cda43629fdddefbfa684fc7bc35d236679b552c19870193c2ba607fc9fc3aa0e15271.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15273",
+        "material_title": "220519_03_s.jpg",
+        "material_file": "7b1cf47e0f76fcdd6881c57b2a2c4352f0814ae0e840a5d090ade087dcd1709515273.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15272",
+        "material_title": "220519_04_s.jpg",
+        "material_file": "c980bc9afb7df8a26a7f86693405c7cd0999e48959ccf52529e6770b8c60c9d915272.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15274",
+        "material_title": "220519_01_s.jpg",
+        "material_file": "3a7dd32a7909e3835fbe1392136c739f99bdfef52b55a05c5dfbc5821d7880d215274.jpeg"
+      }
+    ],
+    "previous_id": "18607",
+    "next_id": "18253",
+    "saved_materials": [
+      "assets/18345_15271_220519_02_s.jpg",
+      "assets/18345_15273_220519_03_s.jpg",
+      "assets/18345_15272_220519_04_s.jpg",
+      "assets/18345_15274_220519_01_s.jpg"
+    ]
+  }
+}

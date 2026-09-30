@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 154,
+    "content_id": "22957",
+    "content_title": "冬",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-10-16 10:00:00",
+    "created_at": "2024-09-25 12:07:08",
+    "updated_at": "2024-09-25 12:07:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18814",
+        "material_title": "1016_kiyono_s.jpg",
+        "material_file": "a956a802968246a11a9d2642b9aa5628136ad08b1d978cb1b1886a66848a163618814.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22957",
+    "content_title": "冬",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-10-16 10:00:00",
+    "created_at": "2024-09-25 12:07:08",
+    "updated_at": "2024-09-25 12:07:08",
+    "content_text": "1016_kiyono_s.jpg\r\nうっそ〜夏！大夏！( •e•)\r\n\r\n【37周目お題：季節を感じる】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "18814",
+        "material_title": "1016_kiyono_s.jpg",
+        "material_file": "51db698a487199f0e1c051c87512080ae553bcae746f41b2f3b08aaa6eedf2cd18814.jpeg"
+      }
+    ],
+    "previous_id": "22958",
+    "next_id": "22956",
+    "saved_materials": [
+      "assets/22957_18814_1016_kiyono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 625,
+    "content_id": "11292",
+    "content_title": "まる～！",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-05-02 10:00:00",
+    "created_at": "2019-04-25 18:23:58",
+    "updated_at": "2019-04-25 18:23:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9656",
+        "material_title": "0502_dambara_s.jpg",
+        "material_file": "f972de170e399b059f9ab7e82813b4b4bc5b6f0334a546d9885a0938254acdda9656.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11292",
+    "content_title": "まる～！",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-05-02 10:00:00",
+    "created_at": "2019-04-25 18:23:58",
+    "updated_at": "2019-04-25 18:23:58",
+    "content_text": "0502_dambara_s.jpg\r\nハロプロ・オールスターズでのイベント、すごく楽しかったです！\r\nまるまる～",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9656",
+        "material_title": "0502_dambara_s.jpg",
+        "material_file": "cb9bb369f6a22b75f9dbb374641f8add581ba3bb37dfc5f596a21eb2e2c93d6f9656.jpeg"
+      }
+    ],
+    "previous_id": "11337",
+    "next_id": "11291",
+    "saved_materials": [
+      "assets/11292_9656_0502_dambara_s.jpg"
+    ]
+  }
+}

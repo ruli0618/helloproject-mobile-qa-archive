@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 375,
+    "content_id": "16499",
+    "content_title": "ひょっこりくるみん",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2021-08-16 10:00:00",
+    "created_at": "2021-07-28 19:23:06",
+    "updated_at": "2022-01-17 14:46:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13774",
+        "material_title": "0816_nishida_s.jpg",
+        "material_file": "3e15148e7bd218d917f7f891659d285da043158b80b456ce3c111be6fb5e715c13774.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16499",
+    "content_title": "ひょっこりくるみん",
+    "content_sub_title": "西田汐里",
+    "release_date": "2021-08-16 10:00:00",
+    "created_at": "2021-07-28 19:23:06",
+    "updated_at": "2022-01-17 14:46:56",
+    "content_text": "0816_nishida_s.jpg\nたまたま通ったくるみんです。\n\n【13周目お題：構図を意識】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13774",
+        "material_title": "0816_nishida_s.jpg",
+        "material_file": "bc834736456dc9c0014dd8760ca27c67d3f7050bbf522b42994fd77514ae849413774.jpeg"
+      }
+    ],
+    "previous_id": "16501",
+    "next_id": "16239",
+    "saved_materials": [
+      "assets/16499_13774_0816_nishida_s.jpg"
+    ]
+  }
+}

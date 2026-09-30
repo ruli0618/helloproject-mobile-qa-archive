@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 266,
+    "content_id": "20212",
+    "content_title": "ご飯",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-05-18 10:00:00",
+    "created_at": "2023-05-16 15:44:34",
+    "updated_at": "2023-05-16 15:44:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16696",
+        "material_title": "0518_ebata_s.jpg",
+        "material_file": "f9db43e353e5f7d125f63247972084aca88dac449b78eb3ad28d8b48d7b4974a16696.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20212",
+    "content_title": "ご飯",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-05-18 10:00:00",
+    "created_at": "2023-05-16 15:44:34",
+    "updated_at": "2023-05-16 15:44:34",
+    "content_text": "0518_ebata_s.jpg\r\n\r\nこんちゃ江端妃咲ですっ\r\n\r\n\r\n今日はお昼ご飯をお母さんと2人で食べました～\r\n\r\n\r\nローストビーフ丼を食べたんですけど\r\n\r\nいつもは30分くらいで完売しちゃうみたいで！\r\n\r\nお母さんも私も食べることができて良かったです＾＾\r\n\r\n母の日近かったからそのパワーかな笑笑\r\n\r\n前菜とかサラダバーとか全部美味しかったです( ˋ͈ ˙̫ ˊ͈ )\r\n\r\n\r\nやっぱり美味しいご飯は最強です笑\r\n\r\n\r\nほなね～",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16696",
+        "material_title": "0518_ebata_s.jpg",
+        "material_file": "116b735a8fccf34b5149a75f86a91dc486bee240d61f7d5db87defa2df734f1016696.jpeg"
+      }
+    ],
+    "previous_id": "20254",
+    "next_id": "20182",
+    "saved_materials": [
+      "assets/20212_16696_0518_ebata_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 416,
+    "content_id": "17263",
+    "content_title": "ドラマ",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2021-12-02 10:00:00",
+    "created_at": "2021-12-01 22:13:31",
+    "updated_at": "2021-12-01 22:13:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14349",
+        "material_title": "211202_arisawa_s.jpg",
+        "material_file": "11ab9aae6bb1e2c60a394d0bb4b073436d607f2e3705aedc5fd145284bfc1c4e14349.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17263",
+    "content_title": "ドラマ",
+    "content_sub_title": "有澤一華",
+    "release_date": "2021-12-02 10:00:00",
+    "created_at": "2021-12-01 22:13:31",
+    "updated_at": "2021-12-01 22:13:31",
+    "content_text": "211202_arisawa_s.jpg\r\n最近、海外ドラマを見るのにハマっています〜！\r\n物語の展開が予想外なところがあるので、気が抜けません！\r\n楽しいいい",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14349",
+        "material_title": "211202_arisawa_s.jpg",
+        "material_file": "8294cdfc62b41fbd7738a8904fbeeafcb490feb168a1e5fef166040d852db1d614349.jpeg"
+      }
+    ],
+    "previous_id": "17264",
+    "next_id": "17132",
+    "saved_materials": [
+      "assets/17263_14349_211202_arisawa_s.jpg"
+    ]
+  }
+}

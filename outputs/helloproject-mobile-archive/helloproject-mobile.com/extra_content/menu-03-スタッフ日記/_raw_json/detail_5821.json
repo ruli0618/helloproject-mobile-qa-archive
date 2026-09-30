@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 628,
+    "content_id": "5821",
+    "content_title": "工藤の家の天井裏#23　～最年長と最年少～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-12-05 19:18:00",
+    "created_at": "2016-12-05 19:17:58",
+    "updated_at": "2016-12-05 19:19:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5213",
+        "material_title": "161205_s.jpg",
+        "material_file": "40dda99f19bd0f55f389d918e6608bff3fb1e99d8f95253642359d223b22ae9b5213.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5821",
+    "content_title": "工藤の家の天井裏#23　～最年長と最年少～",
+    "content_sub_title": "",
+    "release_date": "2016-12-05 19:18:00",
+    "created_at": "2016-12-05 19:17:58",
+    "updated_at": "2016-12-05 19:19:40",
+    "content_text": "番組名も新たに「やじまの部屋」#23公開中！\nゲストは、アンジュルムから笠原桃奈さん！\n\n見た目は13歳に見えず大人っぽいとよく言われる笠原さんですが、熱中しながら喋る話し口は年相応に聞こえたんじゃないでしょうか。\n\n161205_s.jpg\n\n「犯人を追え！」のコーナーが前回で終了となったということで、リスナーの皆さまから新コーナー案を募集します！\nメールの件名に「新コーナー」と記入して、自由に案をお送り下さい！\n「やじまの部屋」を盛り上げるため、どしどし送ってくださいね！\n\n次回ゲストは、ハロ！モバ宣伝部長からモーニング娘。'16工藤遥！\nぜひお聴き下さい。",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5213",
+        "material_title": "161205_s.jpg",
+        "material_file": "a74a2e12ef905e975dc2340c748bd69beac924e6620e1f6ec5d7c9a954e533765213.jpeg"
+      }
+    ],
+    "previous_id": "5882",
+    "next_id": "5784",
+    "saved_materials": [
+      "assets/5821_5213_161205_s.jpg"
+    ]
+  }
+}

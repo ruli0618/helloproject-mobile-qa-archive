@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 549,
+    "content_id": "8042",
+    "content_title": "隠れた名曲★",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-01 17:30:00",
+    "created_at": "2017-12-01 17:29:54",
+    "updated_at": "2017-12-01 17:31:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8042",
+    "content_title": "隠れた名曲★",
+    "content_sub_title": "",
+    "release_date": "2017-12-01 17:30:00",
+    "created_at": "2017-12-01 17:29:54",
+    "updated_at": "2017-12-01 17:31:00",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n先日公開された「ふくむらの部屋」第12回はお聴きになりましたか？\r\n\r\nリスナーさんから届いた「ハロプロの隠れた名曲を教えて下さい」というお便りに、モーニング娘。'17の譜久村さん、工藤さん、小田さんが熱いトークを繰り広げていましたね。\r\n\r\nハロ！モバでは、ここで1人2曲ずつ挙げられた全9曲を、ハロー！ラジオのプレイリストとして配信！\r\n\r\n3人が選ぶ隠れた名曲をぜひお楽しみ下さい♪\r\n\r\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" target=\"_blank\">★ハロー！ラジオをチェック！</a>\r\n※プレイリストはラジオ番組一覧の下にあります。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8085",
+    "next_id": "8037",
+    "saved_materials": []
+  }
+}

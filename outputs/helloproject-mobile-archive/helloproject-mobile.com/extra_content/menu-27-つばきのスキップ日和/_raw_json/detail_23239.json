@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 85,
+    "content_id": "23239",
+    "content_title": "広島！",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2024-11-08 12:19:00",
+    "created_at": "2024-11-08 12:19:57",
+    "updated_at": "2024-11-08 12:19:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19036",
+        "material_title": "1108_yofu_s.jpg",
+        "material_file": "f43736b65ad4d2148423b51882de0d106e02b0a9495da73fa25b7678bd2fe69419036.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23239",
+    "content_title": "広島！",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2024-11-08 12:19:00",
+    "created_at": "2024-11-08 12:19:57",
+    "updated_at": "2024-11-08 12:19:57",
+    "content_text": "この前ねー\r\n\r\n広島のおじいちゃんとおばあちゃんに\r\n会いに行きましたー(>ᴗ<)(*^^*)\r\n久しぶりに会えてうれしかったでーす\r\n広島は自然がいっぱいあってダイスキ♡♡♡！\r\n\r\nいつも\r\n自然いっぱいの広場であそんでしましたーーん\r\nちょうどお空がすごいキレーだったのです\r\nだから\r\n一緒に写真とったよー(^-^)\r\n\r\n1108_yofu_s.jpg\r\n\r\nまたおじいちゃんとおばあちゃんに会いに行きたいですですです！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19036",
+        "material_title": "1108_yofu_s.jpg",
+        "material_file": "65d878cf6c524ac291de885b054f55fe988d420e11cb8b2dcc4487c0cbe95f9019036.jpeg"
+      }
+    ],
+    "previous_id": "23240",
+    "next_id": "23183",
+    "saved_materials": [
+      "assets/23239_19036_1108_yofu_s.jpg"
+    ]
+  }
+}

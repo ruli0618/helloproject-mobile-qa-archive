@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 611,
+    "content_id": "6338",
+    "content_title": "妄想動画",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-14 15:00:00",
+    "created_at": "2017-03-14 14:59:01",
+    "updated_at": "2017-03-14 15:03:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6338",
+    "content_title": "妄想動画",
+    "content_sub_title": "",
+    "release_date": "2017-03-14 15:00:00",
+    "created_at": "2017-03-14 14:59:01",
+    "updated_at": "2017-03-14 15:03:28",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n現在公開中の「妄想動画」もうご覧になりましたか？\nカントリー・ガールズ小関舞の潔い可愛さ！\nつばきファクトリー小野田紗栞の初々しいあの名台詞！\nどの映像も必見です！\n\nそして今月3月は、ハロー！ムービー強化更新期間と題しまして、皆さんお待ちかねの「妄想動画」を少しずつ大公開しちゃいます！\n既に公開済みの小関・小野田の動画を含めて全部で14本、3月中に日を分けて公開していきますので楽しみにしていて下さいね♪\n\n本当にお待たせしてしまって、すみません…。\n\n特に本日公開予定の2本は、季節柄とても時期が外れていて「今更？」と思われるかもしれませんが、お蔵入りさせるには勿体ないクオリティなので…\nクリスマスプレゼントならぬ、ホワイトデーのプレゼントという気持ちで公開いたします！\n\n皆さんに喜んで頂けたら幸いです。\n\n動画は夕方頃の公開予定です。\nぜひご覧になってくださいね！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "6340",
+    "next_id": "6296",
+    "saved_materials": []
+  }
+}

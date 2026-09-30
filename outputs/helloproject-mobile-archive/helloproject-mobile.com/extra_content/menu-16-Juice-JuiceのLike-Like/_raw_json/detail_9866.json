@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 686,
+    "content_id": "9866",
+    "content_title": "まなかんと",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-09-22 11:00:00",
+    "created_at": "2018-09-14 23:33:41",
+    "updated_at": "2018-09-14 23:33:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8586",
+        "material_title": "0922_miyazaki_s.jpg",
+        "material_file": "b3ab5c2d4327296cfd5d1abbd578896f521bf62e7749b4a4d259c81574608b188586.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9866",
+    "content_title": "まなかんと",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-09-22 11:00:00",
+    "created_at": "2018-09-14 23:33:41",
+    "updated_at": "2018-09-14 23:33:41",
+    "content_text": "0922_miyazaki_s.jpg\r\nチーズハットクを食べました！\r\nまたすぐ食べに行こう～～。",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8586",
+        "material_title": "0922_miyazaki_s.jpg",
+        "material_file": "70f2f70795ee2aea2dc519361e17dec9db5fc5a44c607a35d4b4bd71069de3938586.jpeg"
+      }
+    ],
+    "previous_id": "9868",
+    "next_id": "9864",
+    "saved_materials": [
+      "assets/9866_8586_0922_miyazaki_s.jpg"
+    ]
+  }
+}

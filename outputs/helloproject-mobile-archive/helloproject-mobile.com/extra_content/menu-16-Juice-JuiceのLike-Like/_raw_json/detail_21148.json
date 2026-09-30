@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 221,
+    "content_id": "21148",
+    "content_title": "チェック",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2023-11-02 10:00:00",
+    "created_at": "2023-10-27 19:42:54",
+    "updated_at": "2023-10-27 19:42:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17359",
+        "material_title": "1102_dambara_s.jpg",
+        "material_file": "94c7ee1b902ffad1eee21b66ab624910f5c3fac815fead5d5ec6bc387a0d83d517359.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21148",
+    "content_title": "チェック",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2023-11-02 10:00:00",
+    "created_at": "2023-10-27 19:42:54",
+    "updated_at": "2023-10-27 19:42:54",
+    "content_text": "1102_dambara_s.jpg\r\n秋も深まってきましたね〜\r\nブラウンチェックの秋服♥",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17359",
+        "material_title": "1102_dambara_s.jpg",
+        "material_file": "5d9c6decb83776db16843ba3d56513f30754a50b1a5adf0b48467bda46035a7217359.jpeg"
+      }
+    ],
+    "previous_id": "21157",
+    "next_id": "21147",
+    "saved_materials": [
+      "assets/21148_17359_1102_dambara_s.jpg"
+    ]
+  }
+}

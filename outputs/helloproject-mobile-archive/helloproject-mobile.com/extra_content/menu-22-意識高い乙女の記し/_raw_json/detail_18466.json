@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 47,
+    "content_id": "18466",
+    "content_title": "髪パヤ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2022-07-08 10:00:00",
+    "created_at": "2022-07-05 19:44:06",
+    "updated_at": "2022-07-05 19:44:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15381",
+        "material_title": "0708_yamagishi_s.jpg",
+        "material_file": "6545fb6e087350b7d48bd4f73cb00e53e3f57bde83b2b03a16ae1385b29b4a2215381.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18466",
+    "content_title": "髪パヤ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2022-07-08 10:00:00",
+    "created_at": "2022-07-05 19:44:06",
+    "updated_at": "2022-07-05 19:44:06",
+    "content_text": "0708_yamagishi_s.jpg\r\n2週間前から消えないおでこのニキビと戦ってる\r\n山岸理子です。\r\n⁡\r\nお姉ちゃんに前髪カットしてもらったよ〜！\r\n最近湿気が多くてパヤパヤになっちゃう(><)\r\nケアしないと〜！",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15381",
+        "material_title": "0708_yamagishi_s.jpg",
+        "material_file": "9465065d5679d5803e9c97fd25fe020ac149f11398fba7eed3911581ac72e2f015381.jpeg"
+      }
+    ],
+    "previous_id": "18468",
+    "next_id": "18465",
+    "saved_materials": [
+      "assets/18466_15381_0708_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 122,
+    "content_id": "21254",
+    "content_title": "工藤の家の屋根裏部屋#145～岡村ほまれ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-11-15 17:00:00",
+    "created_at": "2023-11-14 21:19:49",
+    "updated_at": "2023-11-15 17:06:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17464",
+        "material_title": "231114_s.jpg",
+        "material_file": "154508146c0eefe07ebc4fd15a642a5892fe600e6aea08ffec7cdd641679792417464.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21254",
+    "content_title": "工藤の家の屋根裏部屋#145～岡村ほまれ～",
+    "content_sub_title": "",
+    "release_date": "2023-11-15 17:00:00",
+    "created_at": "2023-11-14 21:19:49",
+    "updated_at": "2023-11-15 17:06:24",
+    "content_text": "ふくむらの部屋 第145回は、岡村ほまれさんが登場！\n\n・写真集撮影の裏話\n・卒業\nのお話からスタート！\n\n新コーナー！\n「あなたのハロプロ一番」のコーナーでは、\nリスナーの皆さんの忘れられない瞬間を募集しました！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・「My Days for You」\n・ファンの存在について\nを語りました！\n\n後半では、\n・5人のディズニーシー\n・バースデーイベント\n・岡村ほまれの成長\n・やり残したこと\nについてトーク！\n\n231114_s.jpg\n\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17464",
+        "material_title": "231114_s.jpg",
+        "material_file": "d4cbe3b7d94b2b1bbf4f5bfbdca390a7165451a78a944bbc40b0a11ee42768b217464.jpeg"
+      }
+    ],
+    "previous_id": "23376",
+    "next_id": "21162",
+    "saved_materials": [
+      "assets/21254_17464_231114_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 84,
+    "content_id": "24797",
+    "content_title": "やっぱり...",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2025-09-03 10:00:00",
+    "created_at": "2025-08-18 23:01:54",
+    "updated_at": "2025-08-18 23:01:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20267",
+        "material_title": "0903_kiyono_s.jpg",
+        "material_file": "79a282d4e1569f9f0e558c6b8df17a28985becde5ab8da54d5fdcee87f52af5a20267.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24797",
+    "content_title": "やっぱり...",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2025-09-03 10:00:00",
+    "created_at": "2025-08-18 23:01:54",
+    "updated_at": "2025-08-18 23:01:54",
+    "content_text": "0903_kiyono_s.jpg\r\n夏がすきです\r\n\r\n【45周目お題：大好き】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20267",
+        "material_title": "0903_kiyono_s.jpg",
+        "material_file": "275a5b828facbc95a97fa8ff3c424d9c384f07a04ac40fb92d676853386da77620267.jpeg"
+      }
+    ],
+    "previous_id": "24798",
+    "next_id": "24796",
+    "saved_materials": [
+      "assets/24797_20267_0903_kiyono_s.jpg"
+    ]
+  }
+}

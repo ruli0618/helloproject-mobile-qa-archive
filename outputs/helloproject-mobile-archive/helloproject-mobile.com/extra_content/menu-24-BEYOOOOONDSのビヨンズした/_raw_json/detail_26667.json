@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 12,
+    "content_id": "26667",
+    "content_title": "チラ見",
+    "content_sub_title": "杉山結菜",
+    "category_id": "123",
+    "release_date": "2026-08-31 10:00:00",
+    "created_at": "2026-07-23 15:30:37",
+    "updated_at": "2026-07-23 15:30:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21783",
+        "material_title": "0831_sugiyama_s.jpg",
+        "material_file": "3f12fff6996864f001ae8a121c1f1a119a8bed9f5510cbec93a017c4deb01e8121783.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26667",
+    "content_title": "チラ見",
+    "content_sub_title": "杉山結菜",
+    "release_date": "2026-08-31 10:00:00",
+    "created_at": "2026-07-23 15:30:37",
+    "updated_at": "2026-07-23 15:30:37",
+    "content_text": "0831_sugiyama_s.jpg\r\nメンバーカラーの入った新衣装とツーショットしたよ！\r\n\r\n【54周目お題：上から or 下から】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21783",
+        "material_title": "0831_sugiyama_s.jpg",
+        "material_file": "f930255561224ea85f7c7ac81c3d864735238fc11a00a4b2ac9df55a95ec397a21783.jpeg"
+      }
+    ],
+    "previous_id": "26858",
+    "next_id": "26666",
+    "saved_materials": [
+      "assets/26667_21783_0831_sugiyama_s.jpg"
+    ]
+  }
+}

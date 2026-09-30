@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 15,
+    "content_id": "26704",
+    "content_title": "丸かじり！！",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2026-08-21 10:00:00",
+    "created_at": "2026-08-04 00:44:06",
+    "updated_at": "2026-08-04 00:44:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21821",
+        "material_title": "0821_doi_s.jpg",
+        "material_file": "1264afc833decd7504f60ed5db0b04870cc831463932b57ceee58c44aad3e86321821.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26704",
+    "content_title": "丸かじり！！",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2026-08-21 10:00:00",
+    "created_at": "2026-08-04 00:44:06",
+    "updated_at": "2026-08-04 00:44:06",
+    "content_text": "0821_doi_s.jpg\r\nトマト大好き\r\nリコピンパワー！\r\n\r\nつばきファクトリーの土居楓奏（どいふうか）\r\n\r\n7月20日に山梨県で行われた\r\n\r\nYBSラジオ FM90.9 fes×\r\nつばきファクトリーの夏祭り2026〜灼熱〜\r\n\r\nの際にスタッフさんから美味しい桃をいただきました！！\r\n\r\nありがとうございました。！！\r\n\r\n丸ごとかじって食べるのがおすすめと教えていただいたので、初めて桃を丸ごとかじって食べました〜！！\r\n\r\n皮ごと食べるのも初めてだったので、ドキドキしながら食べました！\r\n\r\n丸ごと食べることで、より桃の良さをダイレクトに感じることができましたし、とっても甘くて美味しかったです<img src=\"/emoji/emoji-images/f379.gif\"/>\r\n\r\n今年の夏も、沢山桃食べていきたいですし<img src=\"/emoji/emoji-images/f3fa.gif\"/>\r\n\r\nまた山梨県でイベントが出来るように、頑張りたいです！！\r\n\r\nほなまたー！！",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21821",
+        "material_title": "0821_doi_s.jpg",
+        "material_file": "c0b37a5c4e366eeb6fffdf0db20ca0d0bc6d986c13259b0dafde0a8f21d62c1a21821.jpeg"
+      }
+    ],
+    "previous_id": "26773",
+    "next_id": "26703",
+    "saved_materials": [
+      "assets/26704_21821_0821_doi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 229,
+    "content_id": "20920",
+    "content_title": "和田さんと！",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2023-10-03 10:00:00",
+    "created_at": "2023-09-27 12:13:34",
+    "updated_at": "2023-09-27 12:13:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17232",
+        "material_title": "1003_kudo_s.jpg",
+        "material_file": "ff696c6c07faddf4c6f3949526261e823d3abf49b2b4992187eeefe4e7c343b517232.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20920",
+    "content_title": "和田さんと！",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2023-10-03 10:00:00",
+    "created_at": "2023-09-27 12:13:34",
+    "updated_at": "2023-09-27 12:13:34",
+    "content_text": "1003_kudo_s.jpg\r\n趣味どきっ！の収録の時に出会ったわんちゃん！\r\n一緒に触れ合いました♡",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17232",
+        "material_title": "1003_kudo_s.jpg",
+        "material_file": "8a88de0715d2be5c0b8c382a3451d31aeb61440866044e465f424ac9e3c7cd5117232.jpeg"
+      }
+    ],
+    "previous_id": "20934",
+    "next_id": "20882",
+    "saved_materials": [
+      "assets/20920_17232_1003_kudo_s.jpg"
+    ]
+  }
+}

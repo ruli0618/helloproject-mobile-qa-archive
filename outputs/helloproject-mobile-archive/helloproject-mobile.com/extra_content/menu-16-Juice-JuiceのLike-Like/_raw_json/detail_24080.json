@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 91,
+    "content_id": "24080",
+    "content_title": "なーんだ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-04-01 22:08:00",
+    "created_at": "2025-04-01 22:10:29",
+    "updated_at": "2025-04-01 22:10:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19748",
+        "material_title": "0401_ebata_s.jpg",
+        "material_file": "d9ffbecd320af2fcd0592dbc750dbf5d85b905c04f47dd89264a3010d217964719748.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24080",
+    "content_title": "なーんだ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-04-01 22:08:00",
+    "created_at": "2025-04-01 22:10:29",
+    "updated_at": "2025-04-01 22:10:29",
+    "content_text": "0401_ebata_s.jpg\r\nこのキャラクター！\r\nなーんだ！",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19748",
+        "material_title": "0401_ebata_s.jpg",
+        "material_file": "6399baa5f83cdededa1e521e3658c29d19d57d6f7c338ed6b9bb68c09b97e31819748.jpeg"
+      }
+    ],
+    "previous_id": "24082",
+    "next_id": "24063",
+    "saved_materials": [
+      "assets/24080_19748_0401_ebata_s.jpg"
+    ]
+  }
+}

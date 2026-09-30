@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 198,
+    "content_id": "21644",
+    "content_title": "初",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2024-01-30 10:00:00",
+    "created_at": "2024-01-29 19:43:26",
+    "updated_at": "2024-01-29 19:43:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17790",
+        "material_title": "0130_arisawa_s.jpg",
+        "material_file": "661d2ec06171a3f1fd1b068c90eec95609de95ecb9a5a5b791407fe50024c55917790.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21644",
+    "content_title": "初",
+    "content_sub_title": "有澤一華",
+    "release_date": "2024-01-30 10:00:00",
+    "created_at": "2024-01-29 19:43:26",
+    "updated_at": "2024-01-29 19:43:26",
+    "content_text": "0130_arisawa_s.jpg\r\n有澤一華です。\r\nこの前！チーズ春巻きっていう食べ物を食べました！\r\n初です！！！！\r\n美味しかったな〜お菓子っぽくて、カリトロ〜って感じで美味しかった！！！\r\nハンバーグ美味しいよね\r\n何食べた？？",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17790",
+        "material_title": "0130_arisawa_s.jpg",
+        "material_file": "dd56e20ef0b2a2108efdfa8079ca2c1b879d2d052025c56bf5f1fe1fddd876d817790.jpeg"
+      }
+    ],
+    "previous_id": "21645",
+    "next_id": "21580",
+    "saved_materials": [
+      "assets/21644_17790_0130_arisawa_s.jpg"
+    ]
+  }
+}

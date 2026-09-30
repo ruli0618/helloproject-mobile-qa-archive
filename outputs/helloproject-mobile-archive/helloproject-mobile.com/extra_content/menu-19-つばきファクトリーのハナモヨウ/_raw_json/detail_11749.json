@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 41,
+    "content_id": "11749",
+    "content_title": "流れ星☆",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-07-18 15:35:00",
+    "created_at": "2019-07-18 15:37:01",
+    "updated_at": "2019-07-18 15:37:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10023",
+        "material_title": "0718_ono_s.jpg",
+        "material_file": "485d2ff92c1d9b51d85d3fe1c1c9b46b957621c1de4424fc20f4dd143d02c67910023.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11749",
+    "content_title": "流れ星☆",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-07-18 15:35:00",
+    "created_at": "2019-07-18 15:37:01",
+    "updated_at": "2019-07-18 15:37:01",
+    "content_text": "0718_ono_s.jpg\r\nこのお花、\r\n木立性ベコニア\"流れ星\"\r\n流れ星って名前が可愛い<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10023",
+        "material_title": "0718_ono_s.jpg",
+        "material_file": "bdebc5f606355a1b7d182f9d1e006f4b8dd2449e5960812df6ce5d7438f1d4d510023.jpeg"
+      }
+    ],
+    "previous_id": "11750",
+    "next_id": "11717",
+    "saved_materials": [
+      "assets/11749_10023_0718_ono_s.jpg"
+    ]
+  }
+}

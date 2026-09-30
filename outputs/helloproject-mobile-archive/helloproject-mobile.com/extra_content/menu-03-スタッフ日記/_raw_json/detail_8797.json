@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 522,
+    "content_id": "8797",
+    "content_title": "告知パネルとSATOYAMA",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-25 14:56:00",
+    "created_at": "2018-03-25 14:54:05",
+    "updated_at": "2018-03-25 14:55:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7717",
+        "material_title": "180325_s.jpg",
+        "material_file": "af744113b9c81225a68106080627f5f50ce23979b70b5566f5d19a24d39c32c87717.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8797",
+    "content_title": "告知パネルとSATOYAMA",
+    "content_sub_title": "",
+    "release_date": "2018-03-25 14:56:00",
+    "created_at": "2018-03-25 14:54:05",
+    "updated_at": "2018-03-25 14:55:59",
+    "content_text": "こんにちは！スタッフ番号2番です！\n\n只今開催中のモーニング娘。'18春ツアーのコンサート会場に、昨日の千葉公演からハロ！モバ告知パネルを設置しています！\n\n180325_s.jpg\n\nもうご覧になった方はいらっしゃいますでしょうか？\n春ツアーの各会場に設置予定ですので、これからツアー参戦の方は、ぜひ会場内を探してみて下さいね！\nこちらのパネルは撮影OKですので、SNSのアップもどんどんして頂けると、とっても嬉しいです！\n\nそして3/31(土)4/1(日)パシフィコ横浜開催の「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう 2018」イベント詳細が公開されました！\n今年もハロ！モバブースの出展、サブステージでのPRイベントを行います！\n\nPRイベント出演時間はこちら↓\n\n★3/31(土)\n16:30～16:45 尾形春水・野中美希・梁川奈々美\n\n★4/1(日)\n10:00～10:20 梁川奈々美・小片リサ\n13:55～14:15 尾形春水・野中美希\n\nそしてなんと今年は、ハロ！モバブースにご来場頂けた方が閲覧出来る、宣伝部員の特別限定画像を用意しています！\nハロ！モバブースは、サブステージのすぐ隣にありますので、ぜひ皆さん寄っていってくださいね♪\n\nSATOYAMA ＆ SATOUMIイベントに関する詳細は<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">イベント公式HP</a>をご覧ください。\n",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7717",
+        "material_title": "180325_s.jpg",
+        "material_file": "3f9e8a825fdff9130be6455722b761b9a32f82da0c56f69bb58c7890752c65647717.jpeg"
+      }
+    ],
+    "previous_id": "8802",
+    "next_id": "8767",
+    "saved_materials": [
+      "assets/8797_7717_180325_s.jpg"
+    ]
+  }
+}

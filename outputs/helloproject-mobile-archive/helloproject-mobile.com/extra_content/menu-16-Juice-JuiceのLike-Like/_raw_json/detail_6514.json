@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 813,
+    "content_id": "6514",
+    "content_title": "ドーナツ／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-04-13 22:55:00",
+    "created_at": "2017-04-13 22:56:09",
+    "updated_at": "2017-04-13 22:56:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5766",
+        "material_title": "5897511685487_s.jpg",
+        "material_file": "e90437e7362488b521077c56bc5a9d47bf2a862a70ecb919ec8cfa0fb815fe0b5766.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6514",
+    "content_title": "ドーナツ／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-04-13 22:55:00",
+    "created_at": "2017-04-13 22:56:09",
+    "updated_at": "2017-04-13 22:56:09",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\n\r\nインスタ映えがすると聞いて\r\nとってみたドーナツですが。\r\n\r\n\r\n私は撮るセンスが全くありません。\r\n\r\n5897511685487_s.jpg\r\n\r\n以上、植村あかりでした！！",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5766",
+        "material_title": "5897511685487_s.jpg",
+        "material_file": "e261f00a80394785123a3a9146e7ecac103f8606dd50dadfdf64953b56ba98c25766.jpeg"
+      }
+    ],
+    "previous_id": "6522",
+    "next_id": "6480",
+    "saved_materials": [
+      "assets/6514_5766_5897511685487_s.jpg"
+    ]
+  }
+}

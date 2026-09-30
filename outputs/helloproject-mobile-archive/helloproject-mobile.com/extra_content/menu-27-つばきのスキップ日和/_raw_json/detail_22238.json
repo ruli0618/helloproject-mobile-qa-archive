@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 103,
+    "content_id": "22238",
+    "content_title": "手羽先！",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2024-05-17 14:37:00",
+    "created_at": "2024-05-17 14:37:38",
+    "updated_at": "2024-05-17 14:37:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18214",
+        "material_title": "0517_murata_s.jpg",
+        "material_file": "bff9166a1807381820f6c8ec615b5d8f6141c75d191d1c59883943dcd4a6a18c18214.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22238",
+    "content_title": "手羽先！",
+    "content_sub_title": "村田結生",
+    "release_date": "2024-05-17 14:37:00",
+    "created_at": "2024-05-17 14:37:38",
+    "updated_at": "2024-05-17 14:37:38",
+    "content_text": "0517_murata_s.jpg\r\n春ツアーの愛知公演帰りに手羽先を10本！買って食べました！\r\nめちゃめちゃうまうまで最高るんるんだった〜\r\n毎日食べたいくらい！\r\n次愛知来た時はなんの名古屋めしを食べよっかな〜♡    ",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18214",
+        "material_title": "0517_murata_s.jpg",
+        "material_file": "172302b4a6586d0ed83e26f54fbc34568be35ee7a90bb5e979dbb3bdf391b0d018214.jpeg"
+      }
+    ],
+    "previous_id": "22299",
+    "next_id": "22192",
+    "saved_materials": [
+      "assets/22238_18214_0517_murata_s.jpg"
+    ]
+  }
+}

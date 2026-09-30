@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 120,
+    "content_id": "21211",
+    "content_title": "成功",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2023-11-10 14:10:00",
+    "created_at": "2023-11-10 14:11:38",
+    "updated_at": "2023-11-10 14:11:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17419",
+        "material_title": "1110_yofu_s.jpg",
+        "material_file": "4f0544dd05f5652ff21e759b73068a68b6bf796fcced87380f07473422d3fda417419.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21211",
+    "content_title": "成功",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2023-11-10 14:10:00",
+    "created_at": "2023-11-10 14:11:38",
+    "updated_at": "2023-11-10 14:11:38",
+    "content_text": "1110_yofu_s.jpg\r\nオレオチーズケーキを\r\nつくりました(≧∇≦)\r\n(4回目くらい)\r\n\r\nいままでで\r\nイチバン上手に出来てハッピーです\r\n\r\nskipしそうになったとかとかとかとかとか",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17419",
+        "material_title": "1110_yofu_s.jpg",
+        "material_file": "aa4bf386c710db74e0a2c8c7f2977bee3f2a9aec83234b2f5e8b43ca8164726617419.jpeg"
+      }
+    ],
+    "previous_id": "21290",
+    "next_id": "21160",
+    "saved_materials": [
+      "assets/21211_17419_1110_yofu_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 159,
+    "content_id": "24078",
+    "content_title": "みよちゃん家の縁側の猫#24 有澤一華",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-28 00:00:00",
+    "created_at": "2025-03-31 18:26:32",
+    "updated_at": "2025-03-31 18:26:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19746",
+        "material_title": "250331_04.jpg",
+        "material_file": "3c09140ee9e7357ae7c228d05ced647689e16eba2512c8523336f4f90c5fac7919746.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19747",
+        "material_title": "250331_03.jpg",
+        "material_file": "739a3ac33c1e858cc09395759ec56368686b4cce301e3d69b3647e16bde717a319747.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24078",
+    "content_title": "みよちゃん家の縁側の猫#24 有澤一華",
+    "content_sub_title": "",
+    "release_date": "2023-03-28 00:00:00",
+    "created_at": "2025-03-31 18:26:32",
+    "updated_at": "2025-03-31 18:26:32",
+    "content_text": "「みよちゃん家の縁側」#24配信中です！\r\n\r\n第24回ゲストは、Juice=Juiceの有澤一華さん！\r\n\r\n250331_03.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①アブラ・過多・アブラ\r\n②アリサワイチカ\r\n③バイオリン<img src=\"/emoji/emoji-images/f6e0.gif\"/>\r\n④グループに合う音楽用語(是非配信でご確認ください！)\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「音楽室で出会った二人」、「私と友達の好きな人」の2本をお届けしました。\r\n\r\n有澤さんの演技が独特でつい笑ってしまいました（笑）\r\n\r\n\r\nその他、新たに挑戦したい楽器やNever Never Surrenderのフェイクについて、デビュー前後のお話などなどたくさんのお便りを紹介しています！\r\n有澤さんがBEYOOOOONDSのファンだった時のお話も聞けちゃいますよ◎\r\n\r\n250331_04.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、モーニング娘。'23 牧野真莉愛さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19746",
+        "material_title": "250331_04.jpg",
+        "material_file": "fad5f659b28759df932af8c600c639bf991f1e5d505e3c0dac3142eacf641d9519746.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19747",
+        "material_title": "250331_03.jpg",
+        "material_file": "2731a31209aefaa9b095f734b74d11cd539c1169c59ac790aefbc20ac921e92619747.jpeg"
+      }
+    ],
+    "previous_id": "21237",
+    "next_id": "23368",
+    "saved_materials": [
+      "assets/24078_19746_250331_04.jpg",
+      "assets/24078_19747_250331_03.jpg"
+    ]
+  }
+}

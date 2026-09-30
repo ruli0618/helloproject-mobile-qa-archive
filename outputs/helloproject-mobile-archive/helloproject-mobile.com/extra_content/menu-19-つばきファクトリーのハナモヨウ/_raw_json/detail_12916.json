@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 9,
+    "content_id": "12916",
+    "content_title": "初海外で",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2020-01-24 00:00:00",
+    "created_at": "2020-01-27 11:25:50",
+    "updated_at": "2020-01-27 11:25:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10929",
+        "material_title": "0124_tanimoto_s.jpg",
+        "material_file": "245b0beda39c6517d0df4e2f13959e63f9537774f2728f7013de1f2fe9e7d94f10929.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12916",
+    "content_title": "初海外で",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-01-24 00:00:00",
+    "created_at": "2020-01-27 11:25:50",
+    "updated_at": "2020-01-27 11:25:50",
+    "content_text": "韓国に初めて旅行行った時に\r\nお花があったので\r\nパシャリしました！！\r\n\r\n0124_tanimoto_s.jpg",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10929",
+        "material_title": "0124_tanimoto_s.jpg",
+        "material_file": "245b0beda39c6517d0df4e2f13959e63f9537774f2728f7013de1f2fe9e7d94f10929.jpeg"
+      }
+    ],
+    "previous_id": "13007",
+    "next_id": "12867",
+    "saved_materials": [
+      "assets/12916_10929_0124_tanimoto_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 24,
+    "content_id": "26393",
+    "content_title": "旅行！！",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2026-07-12 10:00:00",
+    "created_at": "2026-06-12 10:47:56",
+    "updated_at": "2026-06-12 10:47:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21565",
+        "material_title": "0712_doi_s.jpg",
+        "material_file": "b1070fe9fef691eaeb2a70842a2fe8a93d1ed19f1d2617b02e9fd76deba1685c21565.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26393",
+    "content_title": "旅行！！",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2026-07-12 10:00:00",
+    "created_at": "2026-06-12 10:47:56",
+    "updated_at": "2026-06-12 10:47:56",
+    "content_text": "0712_doi_s.jpg\r\n\r\nリコピンパワー！\r\nつばきファクトリーの土居楓奏（どいふうか）です！！\r\n\r\n先日家族と愛媛県と香川県に旅行行ってきました！！！\r\n\r\n愛媛県では、道後温泉に行って沢山食べ歩きをしたり！\r\n\r\n鯛めしを食べたりしました！\r\n\r\nずっと憧れだった、蛇口から出てくるみかんジュースも体験出来て、とっても嬉しかったです！\r\n\r\n香川県ではこんぴらさんに行って、沢山階段を登りました！\r\n\r\n1番上まではいけなかったのですが、300段ほど登ることが出来ました！！\r\n\r\n最近あまり旅行に行く機会がなかったので、こうして家族と行くことが出来て、ハッピーでした\r\n\r\nお休みを充実することが出来て、楽しかったです！！\r\n\r\nほなまたー！！",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21565",
+        "material_title": "0712_doi_s.jpg",
+        "material_file": "ce4f8465667574a875da36fd2ff9fb757522ff03743ad91995f19c450414ff6621565.jpeg"
+      }
+    ],
+    "previous_id": "26394",
+    "next_id": "26392",
+    "saved_materials": [
+      "assets/26393_21565_0712_doi_s.jpg"
+    ]
+  }
+}

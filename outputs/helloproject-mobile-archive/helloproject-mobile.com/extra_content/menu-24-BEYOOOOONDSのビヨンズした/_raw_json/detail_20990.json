@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 229,
+    "content_id": "20990",
+    "content_title": "マイケルジャクソン",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2023-10-23 10:00:00",
+    "created_at": "2023-10-10 23:30:10",
+    "updated_at": "2023-10-10 23:30:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17276",
+        "material_title": "1023_eguchi_s.jpg",
+        "material_file": "d95befad8e1b091d3e1817c7422b0ccb8b164fece50322a6d3e57bd3b2d6c35b17276.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20990",
+    "content_title": "マイケルジャクソン",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2023-10-23 10:00:00",
+    "created_at": "2023-10-10 23:30:10",
+    "updated_at": "2023-10-10 23:30:10",
+    "content_text": "1023_eguchi_s.jpg\r\n坂道を利用して、マイケルジャクソンになりきってみました。\r\n\r\n【29周目お題：面白い 】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "17276",
+        "material_title": "1023_eguchi_s.jpg",
+        "material_file": "af897593e4eb0620f5fdce0063ab68588a33dbad83cc665d2e224fa23dcfa38e17276.jpeg"
+      }
+    ],
+    "previous_id": "20992",
+    "next_id": "20989",
+    "saved_materials": [
+      "assets/20990_17276_1023_eguchi_s.jpg"
+    ]
+  }
+}

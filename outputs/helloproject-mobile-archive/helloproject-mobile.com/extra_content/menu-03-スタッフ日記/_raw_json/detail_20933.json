@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 178,
+    "content_id": "20933",
+    "content_title": "みよちゃん家の縁側の猫#17 平山遊季",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-20 00:00:00",
+    "created_at": "2023-09-28 18:09:45",
+    "updated_at": "2023-09-28 18:11:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17235",
+        "material_title": "230928_02.jpg",
+        "material_file": "9a40290de57f099f7b0942543e0e92e084c4d53ae3048702774576e32ac090ff17235.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17236",
+        "material_title": "230928_01.jpg",
+        "material_file": "bb6780b9359e4a6d577a142de5371bfe6664e5529929011cad88219f0dc3e91717236.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20933",
+    "content_title": "みよちゃん家の縁側の猫#17 平山遊季",
+    "content_sub_title": "",
+    "release_date": "2022-12-20 00:00:00",
+    "created_at": "2023-09-28 18:09:45",
+    "updated_at": "2023-09-28 18:11:16",
+    "content_text": "「みよちゃん家の縁側」#17配信中です！\n\n第17回ゲストは、アンジュルムの平山遊季さん！\nお誕生日が近い平井さんに平山さんが紅茶のプレゼントを渡していてほっこりしました<img src=\"/emoji/emoji-images/4532.gif\"/>\n\n230928_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①ぺいぺい\n②ヒラヤマユキノシタ\n③メリークリスマス\n\n\n「演技してみよ～！」のコーナーでは、\n「チアリーディング部のユニフォーム消失事件」、クリスマスにちなんだ初の朗読劇の2本をお届けしました。\n\n\nその他、アンジュルムのダンスについて、佐々木莉佳子さんのダンスの印象、新曲の覚え方やアイドルになって嬉しかったことなどたくさんのお便りを紹介しています！\n\n230928_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第18回ゲストは、Juice=Juice工藤由愛さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17235",
+        "material_title": "230928_02.jpg",
+        "material_file": "710cded0c7abd56d4f356d4d36dbdd6a405e8b6c269bf3b4dcbaee186e1b3fc617235.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17236",
+        "material_title": "230928_01.jpg",
+        "material_file": "20212687c5bd8aad786be891f0264c45c76cae54187e9cc91cf08ef29f051eee17236.jpeg"
+      }
+    ],
+    "previous_id": "19418",
+    "next_id": "21230",
+    "saved_materials": [
+      "assets/20933_17235_230928_02.jpg",
+      "assets/20933_17236_230928_01.jpg"
+    ]
+  }
+}

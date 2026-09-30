@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 387,
+    "content_id": "12404",
+    "content_title": "宣伝会議 議事録#42",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-10-23 18:15:00",
+    "created_at": "2019-10-23 18:17:11",
+    "updated_at": "2019-10-23 18:17:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10518",
+        "material_title": "191023_02_s.jpg",
+        "material_file": "2156b62afd5951000de1e988013f9e2d1e3c273e6f2fd6359ee1fed949c8a78d10518.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10519",
+        "material_title": "191023_01_s.jpg",
+        "material_file": "0debc8355fbf4d3d4d066122d366994412d6a84fcfb57c0eb2b69e05b6ac2aa510519.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12404",
+    "content_title": "宣伝会議 議事録#42",
+    "content_sub_title": "",
+    "release_date": "2019-10-23 18:15:00",
+    "created_at": "2019-10-23 18:17:11",
+    "updated_at": "2019-10-23 18:17:11",
+    "content_text": "ハロ！モバ宣伝会議42回目の議事録になります。\r\n遅くなりまして申し訳ございません。\r\n\r\n191023_01_s.jpg\r\n\r\n今回はハロ！モバラジオについて話し合い！\r\n「隣のやじまん家」、「ふくむらの部屋」そして「ハロ！モバ宣伝会議」\r\n3番組の交流ができる連動企画について考えました。\r\n\r\nこちら現在進行中！実現の日をお楽しみに！\r\n\r\n\r\nお悩みコーナーではTシャツの捨て方について\r\n部員それぞれの驚きの処分法は必聴！？\r\n\r\nそして今回は広報会議のため、川村広報が残念ながら途中退席。\r\n\r\n\r\n↓前田書記が書いた議事録はこちら↓\r\n\r\n191023_02_s.jpg\r\n\r\n\r\n「励ましのメール」「お悩み相談メール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※お悩み相談は「お悩み相談」と記入してください。",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10518",
+        "material_title": "191023_02_s.jpg",
+        "material_file": "4f35975397889037578d89c500ed2c33965da2d195bda9e2134eab4f7a10caf810518.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10519",
+        "material_title": "191023_01_s.jpg",
+        "material_file": "8e0c5ba3233e45c1df4cefcb354ed184e7c729d60551947177a10ecb5c794cd410519.jpeg"
+      }
+    ],
+    "previous_id": "12405",
+    "next_id": "12249",
+    "saved_materials": [
+      "assets/12404_10518_191023_02_s.jpg",
+      "assets/12404_10519_191023_01_s.jpg"
+    ]
+  }
+}

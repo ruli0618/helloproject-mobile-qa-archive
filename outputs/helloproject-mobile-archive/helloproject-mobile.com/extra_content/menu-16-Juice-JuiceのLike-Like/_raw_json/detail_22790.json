@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 142,
+    "content_id": "22790",
+    "content_title": "楽屋",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2024-08-27 14:08:00",
+    "created_at": "2024-08-27 14:09:29",
+    "updated_at": "2024-08-27 14:09:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18662",
+        "material_title": "0827_inoue_s.jpg",
+        "material_file": "971b651bdb43f471d6d77a73923419f271a3f582590b732c0e4645f79ae6093518662.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22790",
+    "content_title": "楽屋",
+    "content_sub_title": "井上玲音",
+    "release_date": "2024-08-27 14:08:00",
+    "created_at": "2024-08-27 14:09:29",
+    "updated_at": "2024-08-27 14:09:29",
+    "content_text": "0827_inoue_s.jpg\r\n楽屋の隣の席がたこだった時は、絶対爆笑できる一日って思ってます。",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18662",
+        "material_title": "0827_inoue_s.jpg",
+        "material_file": "74380b9bde2c96654fcc4ed10111cf3adfdb82998f6217c421b69de4ba08f86818662.jpeg"
+      }
+    ],
+    "previous_id": "22791",
+    "next_id": "22748",
+    "saved_materials": [
+      "assets/22790_18662_0827_inoue_s.jpg"
+    ]
+  }
+}

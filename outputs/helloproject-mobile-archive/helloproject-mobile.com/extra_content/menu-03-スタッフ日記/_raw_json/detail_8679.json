@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 527,
+    "content_id": "8679",
+    "content_title": "宣伝会議 議事録#23 後編",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-02-27 11:33:00",
+    "created_at": "2018-02-26 16:50:27",
+    "updated_at": "2018-02-27 11:33:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7575",
+        "material_title": "180227_s.jpg",
+        "material_file": "f6063b3389f846c74d27695cc5d4d86e187402febd845eff6b5d7d5cf2a0aa797575.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8679",
+    "content_title": "宣伝会議 議事録#23 後編",
+    "content_sub_title": "",
+    "release_date": "2018-02-27 11:33:00",
+    "created_at": "2018-02-26 16:50:27",
+    "updated_at": "2018-02-27 11:33:26",
+    "content_text": "2月26日に配信された宣伝会議を聴いてくださった方はご存じかもしれませんが、\nついに宣伝部に新入部員が！！！\n\nつばきファクトリーの小片リサさんです！！\n\n180227_s.jpg\n\n小片さんにハロ！モバメールをほぼ毎日送っていた事に関して聞いてみると\n「実はこっそり宣伝部の座を狙っていました。」\nとの事。\n\nこれからの活躍に期待です！\n\n\n引き続き、励ましのメール・小片さんへのメッセージも募集しています。\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n\n\nあなたの周りのつばきファクトリーのファンの方を、是非ハロ！モバ会員に誘ってくださいね！！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7575",
+        "material_title": "180227_s.jpg",
+        "material_file": "601d44e4cacceaac4e697204e803a983c9759e11d72a10ea86d41741817847417575.jpeg"
+      }
+    ],
+    "previous_id": "8681",
+    "next_id": "8678",
+    "saved_materials": [
+      "assets/8679_7575_180227_s.jpg"
+    ]
+  }
+}

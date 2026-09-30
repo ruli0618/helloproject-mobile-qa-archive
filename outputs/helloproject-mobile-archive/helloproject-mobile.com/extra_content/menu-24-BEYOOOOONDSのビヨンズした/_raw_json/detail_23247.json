@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 145,
+    "content_id": "23247",
+    "content_title": "だーーーいすきな....",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-11-27 10:00:00",
+    "created_at": "2024-11-11 11:30:27",
+    "updated_at": "2024-11-11 11:30:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19043",
+        "material_title": "1127_kiyono_s.jpg",
+        "material_file": "be7a943cc2da2cc868f26a214bdf572ce098d5410fcacc88d2168fecdcd9704519043.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23247",
+    "content_title": "だーーーいすきな....",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-11-27 10:00:00",
+    "created_at": "2024-11-11 11:30:27",
+    "updated_at": "2024-11-11 11:30:27",
+    "content_text": "1127_kiyono_s.jpg\r\n名古屋♡「Go City Go」でも名古屋のところ歌えてて嬉しいんだ〜♪\r\n\r\n【38周目お題：はいチーズ！】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "19043",
+        "material_title": "1127_kiyono_s.jpg",
+        "material_file": "6c7af14e465fce87d936cc337d83cdc96063f2f2534ba88a014d8f2dec723fd419043.jpeg"
+      }
+    ],
+    "previous_id": "23248",
+    "next_id": "23246",
+    "saved_materials": [
+      "assets/23247_19043_1127_kiyono_s.jpg"
+    ]
+  }
+}

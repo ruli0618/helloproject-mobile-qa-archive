@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 580,
+    "content_id": "12628",
+    "content_title": "まーの大好きなお弁当",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-12-06 10:00:00",
+    "created_at": "2019-12-02 18:40:35",
+    "updated_at": "2019-12-06 20:56:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10714",
+        "material_title": "1206_inaba_s.jpg",
+        "material_file": "ee67e0cd392e633dade207779fb29f60ba072948d546b5745745ecc5e700702f10714.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12628",
+    "content_title": "まーの大好きなお弁当",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-12-06 10:00:00",
+    "created_at": "2019-12-02 18:40:35",
+    "updated_at": "2019-12-06 20:56:10",
+    "content_text": "1206_inaba_s.jpg\n東武動物公園でイベントをさせて頂いた時の写真です！このお弁当、大好きなんです♡\n厚ぼったいシャケ…これがめちゃくちゃ美味しいの！！お野菜も全部美味しくて最高なんです…♪これはLike=Likeで紹介しなければ！と決めていました☆紹介できてよかったですヽ(*^^*)ノ",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10714",
+        "material_title": "1206_inaba_s.jpg",
+        "material_file": "5bcc02f60ed0a5729c0eeed4b87d8edbd119b1aa8caa398891f104e87fd53ffa10714.jpeg"
+      }
+    ],
+    "previous_id": "12655",
+    "next_id": "12627",
+    "saved_materials": [
+      "assets/12628_10714_1206_inaba_s.jpg"
+    ]
+  }
+}

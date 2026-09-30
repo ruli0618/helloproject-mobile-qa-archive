@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 583,
+    "content_id": "7249",
+    "content_title": "1人1枚",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-08-10 19:30:00",
+    "created_at": "2017-08-10 19:32:10",
+    "updated_at": "2017-08-10 19:33:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7249",
+    "content_title": "1人1枚",
+    "content_sub_title": "",
+    "release_date": "2017-08-10 19:30:00",
+    "created_at": "2017-08-10 19:32:10",
+    "updated_at": "2017-08-10 19:33:23",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n暑中見舞いのハガキが続々と届いているようで嬉しいです！\r\n\r\n各何名が当選なんだろう～\r\nどこまで直筆なんだろう～\r\n\r\nという意見を見かけましたのでお答えしますが…\r\n\r\nハロ！モバのハガキプレゼント企画は全て、\r\n\r\nメンバー1人に対して1名様の当選！\r\nイラストもサインも全て直筆です！\r\n\r\nメンバーそれぞれに無地の葉書をお渡しして、暑中見舞いイラストを描いてもらっています。\r\nそのためこの世に1枚しか無い、とってもレアな暑中見舞い葉書なんです！\r\n\r\n今回惜しくも当選されなかった方は、また次回チャレンジしてみてくださいね！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7282",
+    "next_id": "7244",
+    "saved_materials": []
+  }
+}

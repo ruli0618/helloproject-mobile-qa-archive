@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 152,
+    "content_id": "14860",
+    "content_title": "ハロウィン",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2020-11-10 16:40:00",
+    "created_at": "2020-11-10 16:40:55",
+    "updated_at": "2020-11-10 16:40:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12379",
+        "material_title": "1110_tanimoto_s.jpg",
+        "material_file": "cc54da7b9412426f88f886c1cfabcbd43687b3929902ba824003c0686e244d9f12379.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14860",
+    "content_title": "ハロウィン",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-11-10 16:40:00",
+    "created_at": "2020-11-10 16:40:55",
+    "updated_at": "2020-11-10 16:40:55",
+    "content_text": "1110_tanimoto_s.jpg\r\n森戸知沙希ちゃんと、ハロウィンのアフタヌーンティーデートしました！！\r\nやっぱり甘いものは美味しい<img src=\"/emoji/emoji-images/f479.gif\"/><img src=\"/emoji/emoji-images/f479.gif\"/>\r\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12379",
+        "material_title": "1110_tanimoto_s.jpg",
+        "material_file": "eb057ca2d5cc30dd7a935ec1d4bd15925414de423facf139d84718b895f5446b12379.jpeg"
+      }
+    ],
+    "previous_id": "14913",
+    "next_id": "14855",
+    "saved_materials": [
+      "assets/14860_12379_1110_tanimoto_s.jpg"
+    ]
+  }
+}

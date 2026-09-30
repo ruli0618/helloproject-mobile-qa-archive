@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 110,
+    "content_id": "9081",
+    "content_title": "つぼみ♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2018-05-01 16:00:00",
+    "created_at": "2018-05-01 16:01:25",
+    "updated_at": "2018-05-01 16:01:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7993",
+        "material_title": "0501_onoda_s.jpg",
+        "material_file": "9789efb255a6e73d33063d9d6df9e2b5813a8cf4ee970b218f6997e5a942b9a77993.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9081",
+    "content_title": "つぼみ♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2018-05-01 16:00:00",
+    "created_at": "2018-05-01 16:01:25",
+    "updated_at": "2018-05-01 16:01:25",
+    "content_text": "自然の香りが好きな、さおりです♪\r\n\r\n\r\nんちゃ！\r\n\r\n\r\n今回は、白くて綺麗なお花を見つけました！！！！\r\n\r\n0501_onoda_s.jpg\r\n\r\nこのお花をよーくみてみると、、、\r\n\r\n\r\nつぼみがたくさんあるんです！\r\n\r\n\r\nだから、季節的にもこれからなのかなー？？\r\n\r\n\r\nなんて思いながら、写真を撮りました♪\r\n\r\n\r\n綺麗に、たくさんお花が咲きますようにっ。。\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "7993",
+        "material_title": "0501_onoda_s.jpg",
+        "material_file": "db7144d7fd1ee4fa79b8459b849d1987b5c5a02a2c662f58ee68d0135ae930dd7993.jpeg"
+      }
+    ],
+    "previous_id": "9101",
+    "next_id": "8981",
+    "saved_materials": [
+      "assets/9081_7993_0501_onoda_s.jpg"
+    ]
+  }
+}

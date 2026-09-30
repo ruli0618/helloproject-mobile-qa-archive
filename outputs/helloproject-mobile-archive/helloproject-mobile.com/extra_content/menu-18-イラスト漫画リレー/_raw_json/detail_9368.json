@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 10,
+    "content_id": "9368",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "山岸理子",
+    "category_id": "55",
+    "release_date": "2018-06-28 18:00:00",
+    "created_at": "2018-06-28 16:50:18",
+    "updated_at": "2019-01-28 15:39:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "8209",
+        "material_title": "19_yamagishi.jpg",
+        "material_file": "8b1857158a8a8ecc1a3a1a2768d48af5b949a44179a81df8d267c942584eec628209.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "9368",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-06-28 18:00:00",
+    "created_at": "2018-06-28 16:50:18",
+    "updated_at": "2019-01-28 15:39:52",
+    "content_text": "19_yamagishi.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "8209",
+        "material_title": "19_yamagishi.jpg",
+        "material_file": "8b1857158a8a8ecc1a3a1a2768d48af5b949a44179a81df8d267c942584eec628209.jpeg"
+      }
+    ],
+    "previous_id": "10717",
+    "next_id": "8515",
+    "saved_materials": [
+      "assets/9368_8209_19_yamagishi.jpg"
+    ]
+  }
+}

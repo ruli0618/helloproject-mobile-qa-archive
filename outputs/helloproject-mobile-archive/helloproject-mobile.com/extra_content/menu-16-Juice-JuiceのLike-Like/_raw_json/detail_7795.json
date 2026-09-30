@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 774,
+    "content_id": "7795",
+    "content_title": "コラボ／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-11-04 11:00:00",
+    "created_at": "2017-10-18 18:18:25",
+    "updated_at": "2017-10-18 18:34:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6855",
+        "material_title": "6781417940260_s.jpg",
+        "material_file": "d4b65705c34b2fed2bd2db289d43f7958ca68fb59dc888f1ede8fe38f2c8d1516855.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7795",
+    "content_title": "コラボ／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-11-04 11:00:00",
+    "created_at": "2017-10-18 18:18:25",
+    "updated_at": "2017-10-18 18:34:21",
+    "content_text": "6781417940260_s.jpg\r\nマレーシアのYouTuberさんと、コラボさせていただきました(♡-3-)",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6855",
+        "material_title": "6781417940260_s.jpg",
+        "material_file": "920cfbc30a67683832d2a0d236665f62dffe1dfd3d2ceca9d352562818cbf2d36855.jpeg"
+      }
+    ],
+    "previous_id": "7799",
+    "next_id": "7652",
+    "saved_materials": [
+      "assets/7795_6855_6781417940260_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 468,
+    "content_id": "10112",
+    "content_title": "工藤の家の屋根裏部屋#35～高木紗友希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-24 20:29:00",
+    "created_at": "2018-10-24 20:29:27",
+    "updated_at": "2018-10-24 20:30:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8828",
+        "material_title": "181024_02_s.jpg",
+        "material_file": "f48321448f6c1167ec51401265f172bdfb2c46e2360302a5370d3218c1bb8b6a8828.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8829",
+        "material_title": "181024_03_s.jpg",
+        "material_file": "472c365ac756da47ea1a0d5ff3bdf68d966bb27125f501da39aac0f61620ac008829.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8830",
+        "material_title": "181024_01_s.jpg",
+        "material_file": "867c678d31baca86cb18d61ae49550162ec516066ca0a78e38175a461d5548188830.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10112",
+    "content_title": "工藤の家の屋根裏部屋#35～高木紗友希～",
+    "content_sub_title": "",
+    "release_date": "2018-10-24 20:29:00",
+    "created_at": "2018-10-24 20:29:27",
+    "updated_at": "2018-10-24 20:30:33",
+    "content_text": "「ふくむらの部屋」35回目配信開始しました！\n\n今回はJuice=Juiceから高木紗友希さんが登場！\n\n\n181024_01_s.jpg\n\n\nちょっと早いハロウィン仕様！！\n\nハロプロエッグ（ハロプロ研修生）時代からの間柄ということで、\nエッグ時代と今で変わったこと、変わらないこと。\nお互いに羨ましいと思うところ。\nなどなど、ふくむらの部屋ならではの内容たっぷりで語り合っています。\n\n二人が恋愛の歌詞の内容を解釈するためにしていることとは！！\n\n181024_02_s.jpg\n\nハロー！プロジェクト オフィシャルショップでも、メンバーイラストグッズが絶賛発売中の高木さん。\n\n今回収録中に譜久村さんのイラストも描いてみましたが。。。\n\nざんねんながら途中で諦めてしまいました。。\n\n\n181024_03_s.jpg\n\n\nエンディングではちょっとしたおまけも…！\n\n最後までお楽しみください。\n\n\n次回のゲストは石田亜佑美が登場。\nメドレーセレクションテーマは「雨の日に聴きたいメドレー」です！\n\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！\n「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8828",
+        "material_title": "181024_02_s.jpg",
+        "material_file": "7e5329385b17c94d3addf6b1ad844ef02c0cefba81b9aa72b9ddd5627b14013c8828.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8829",
+        "material_title": "181024_03_s.jpg",
+        "material_file": "9f3625dacdbc09ce8e9f527b885d74c1b8d3c571db294ffab640d5a4ac1e57748829.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8830",
+        "material_title": "181024_01_s.jpg",
+        "material_file": "e1f52cfe1822e76990881483b29e00996c3c7c78c9283254d1a9cf79ad305aeb8830.jpeg"
+      }
+    ],
+    "previous_id": "10140",
+    "next_id": "10111",
+    "saved_materials": [
+      "assets/10112_8828_181024_02_s.jpg",
+      "assets/10112_8829_181024_03_s.jpg",
+      "assets/10112_8830_181024_01_s.jpg"
+    ]
+  }
+}

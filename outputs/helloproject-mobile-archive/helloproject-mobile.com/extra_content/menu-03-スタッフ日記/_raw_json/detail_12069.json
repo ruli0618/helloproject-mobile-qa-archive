@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 395,
+    "content_id": "12069",
+    "content_title": "宣伝会議 議事録#41",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-30 20:04:00",
+    "created_at": "2019-08-30 20:05:22",
+    "updated_at": "2019-08-30 20:09:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10274",
+        "material_title": "190830_03.jpg",
+        "material_file": "510c13206c9cb5423190ad519b2fd273590367d95f5804553277596751c87e6e10274.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10273",
+        "material_title": "190830_04.jpg",
+        "material_file": "9698a9a3efaad408200a0b14ab30657269f63ee585ce213927c7412590ae927e10273.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10275",
+        "material_title": "190830_01_s.jpg",
+        "material_file": "c5e47ee3af74017f909f8a31e47e0268081a0979024cf02ce1c7d74fc89996ba10275.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10277",
+        "material_title": "190830_02_s.jpg",
+        "material_file": "07ea0f6541b8beab664262964129c5c1975905095d099255fc9172fc1b90112010277.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10278",
+        "material_title": "190830_05.jpg",
+        "material_file": "f0fcf2e0071cc19cd8b097c008e22c5189203792dd8f99d9c830c009a34362d310278.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12069",
+    "content_title": "宣伝会議 議事録#41",
+    "content_sub_title": "",
+    "release_date": "2019-08-30 20:04:00",
+    "created_at": "2019-08-30 20:05:22",
+    "updated_at": "2019-08-30 20:09:52",
+    "content_text": "ハロ！モバ宣伝会議41回目の配信開始です！\nもうチェックしていただけましたか？\n\n190830_01_s.jpg\n\n今回は笑いの絶えない回！\n何が起きても笑い出し、\n何も起きなくても笑い出す。\nそんな宣伝会議になりました！（どんな。。）\n\n笑いすぎにより（?）\nなんと予定していた議題が一つ次回に持ち越しに！\n\n190830_02_s.jpg\n\n会議の中でオリジナルのプレイリストを作りました！\n「ハロ！モバ宣伝部セレクト 朝に聴きたいハロプロソング」\n\nラインナップはこちら↓\n\n190830_03.jpg\n190830_04.jpg\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>からお聴き頂けます♪\n\nそして今回もたくさんの「励ましのメール」「お悩み相談メール」ありがとうございました！\nお悩みコーナーではハプニングもありましたが、次回も宣伝部員がどんどんお悩み解決していきますので是非メールをお送りください。\n\n↓前田書記が書いた議事録はこちら↓\n\n190830_05.jpg\n\n「励ましのメール」「お悩み相談メール」お待ちしています！\n\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※お悩み相談は「お悩み相談」と記入してください。",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10274",
+        "material_title": "190830_03.jpg",
+        "material_file": "80608e17611c87136b265b1aea5ee01c1a94229676fa8e51b52705e2f29c4ced10274.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10273",
+        "material_title": "190830_04.jpg",
+        "material_file": "9eca6e461930eb1e96c493d5f72786eb2b7ad79951db26f3a000275c0e0b5d6310273.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10275",
+        "material_title": "190830_01_s.jpg",
+        "material_file": "e43442f1fe395fbb388922369bf1eede4b3ac8e036799ce3b11199a15a5e29ef10275.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10277",
+        "material_title": "190830_02_s.jpg",
+        "material_file": "e8a6978b88d57f467b3e571de7e7b1a2425ee48cbf9a0ef386ecf76f1859f7f810277.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10278",
+        "material_title": "190830_05.jpg",
+        "material_file": "1674d891223d1ab97c90f129050edd28e0a8463953c76a694002f7e7fe70e9f910278.jpeg"
+      }
+    ],
+    "previous_id": "12072",
+    "next_id": "12066",
+    "saved_materials": [
+      "assets/12069_10274_190830_03.jpg",
+      "assets/12069_10273_190830_04.jpg",
+      "assets/12069_10275_190830_01_s.jpg",
+      "assets/12069_10277_190830_02_s.jpg",
+      "assets/12069_10278_190830_05.jpg"
+    ]
+  }
+}

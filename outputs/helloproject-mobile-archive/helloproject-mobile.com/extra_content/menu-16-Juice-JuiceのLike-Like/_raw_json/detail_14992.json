@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 504,
+    "content_id": "14992",
+    "content_title": "片付けしてたら",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-12-01 10:00:00",
+    "created_at": "2020-11-27 21:43:55",
+    "updated_at": "2020-11-27 21:43:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12493",
+        "material_title": "1201_inoue_s.jpg",
+        "material_file": "c314ad469f3b69ce222f9860ffca6a534092cd26738db28cc52043560cd9fa2c12493.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14992",
+    "content_title": "片付けしてたら",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-12-01 10:00:00",
+    "created_at": "2020-11-27 21:43:55",
+    "updated_at": "2020-11-27 21:43:55",
+    "content_text": "この前部屋の片付けしてたら、懐かしい思い出品が沢山出てきて、ほのぼのしました。\r\nというわけで、懐かしいじわじわ写真をどうぞ。\r\n\r\n1201_inoue_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12493",
+        "material_title": "1201_inoue_s.jpg",
+        "material_file": "af358b5ed9a152c7b36cbd5b26ddb42f3a91a2e66bbc2f61548175ec1a9a00d312493.jpeg"
+      }
+    ],
+    "previous_id": "14993",
+    "next_id": "14879",
+    "saved_materials": [
+      "assets/14992_12493_1201_inoue_s.jpg"
+    ]
+  }
+}

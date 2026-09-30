@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 282,
+    "content_id": "19860",
+    "content_title": "武道館が楽しすぎたことが伝われ！！",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2023-03-21 10:00:00",
+    "created_at": "2023-03-16 13:42:21",
+    "updated_at": "2023-03-16 13:42:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16459",
+        "material_title": "0321_endo_s.jpg",
+        "material_file": "57bd69641be1769e9078dd44973805fceed327cf5995f6c57783d2d325d8c89116459.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19860",
+    "content_title": "武道館が楽しすぎたことが伝われ！！",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2023-03-21 10:00:00",
+    "created_at": "2023-03-16 13:42:21",
+    "updated_at": "2023-03-16 13:42:21",
+    "content_text": "0321_endo_s.jpg\r\nJuice=Juice最高!!!!!!!!!!",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16459",
+        "material_title": "0321_endo_s.jpg",
+        "material_file": "22126ddceb8d1ed99a42baeade0e5d793129499dcf8970f87b700cd3c5eade3a16459.jpeg"
+      }
+    ],
+    "previous_id": "19892",
+    "next_id": "19859",
+    "saved_materials": [
+      "assets/19860_16459_0321_endo_s.jpg"
+    ]
+  }
+}

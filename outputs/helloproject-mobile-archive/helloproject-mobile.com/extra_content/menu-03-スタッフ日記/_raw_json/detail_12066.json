@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 396,
+    "content_id": "12066",
+    "content_title": "工藤の家の屋根裏部屋#56～小田さくら～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-30 16:20:00",
+    "created_at": "2019-08-29 18:33:38",
+    "updated_at": "2019-08-30 16:21:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10270",
+        "material_title": "190828_01_s.jpg",
+        "material_file": "f8a43ea38755047029fa33aecc2a85ccc2fd51107f5efe802916020e37f87cee10270.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10271",
+        "material_title": "190828_02_s.jpg",
+        "material_file": "eb982460edddad87e83297f659bbc0006b4f43cf1241c9aa73fb5fa2ac85e04310271.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12066",
+    "content_title": "工藤の家の屋根裏部屋#56～小田さくら～",
+    "content_sub_title": "",
+    "release_date": "2019-08-30 16:20:00",
+    "created_at": "2019-08-29 18:33:38",
+    "updated_at": "2019-08-30 16:21:13",
+    "content_text": "ふくむらの部屋 第56回 お聴き頂けましたでしょうか？\n\nゲストは、モーニング娘。'19から小田さくらさんが登場！\n小田さんは最多出演の4回目！\n今回もたっぷり語って頂きました。\n\n190828_01_s.jpg\nハロプロ三昧、ロッキン、アニメの話から、\nグループ内の担当、歌の魅力、\nケンタッキーについて等など。\n\n小田さんが休養期間を経て変化した考えとは…？\n譜久村さんの特技も披露！\nファンの皆さん必聴です！\n\n190828_02_s.jpg\n新コーナー「皆に伝えたいハロプロ名場面」\n沢山のお便りありがとうございました！\n魅力的な川柳がとても多く、予定を変更して時間の許す限り読ませて頂きました。\n\n次の回替りコーナーは、「悩みをキラーンと解決」です！\n日々のお悩み、ふくむらさんに解決してもらいませんか？\nお便りお待ちしています♪\n\n「みずき先生のハロプロ講座」のコーナー、普通のお便りも大募集！\n\n次回もお楽しみに！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10270",
+        "material_title": "190828_01_s.jpg",
+        "material_file": "00e43571e9ad57fd6632da526985590ad2c624e5650b7caa2e70dae02b29328710270.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10271",
+        "material_title": "190828_02_s.jpg",
+        "material_file": "c055c481dbd15c5b4a6c0bcc10738f4aa005dcd07d5af6ecc9932c214b7b0ce410271.jpeg"
+      }
+    ],
+    "previous_id": "12069",
+    "next_id": "12001",
+    "saved_materials": [
+      "assets/12066_10270_190828_01_s.jpg",
+      "assets/12066_10271_190828_02_s.jpg"
+    ]
+  }
+}

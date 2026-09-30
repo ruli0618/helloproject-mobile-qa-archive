@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 397,
+    "content_id": "12001",
+    "content_title": "隣のやじまん家の塀の裏#54 稲場愛香",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-08-22 15:00:00",
+    "created_at": "2019-08-22 12:58:40",
+    "updated_at": "2019-08-22 15:09:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10207",
+        "material_title": "190822_2.jpg",
+        "material_file": "ee193567f84d8aeb4dac4d1f8134fcd1ad0b5b9474b9828cbc8f0499ec471e7e10207.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10208",
+        "material_title": "190822_1.jpg",
+        "material_file": "ca8421526e4356298b681a3e4065ddd212d715290ab59c4f9763359a3dcdb43610208.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12001",
+    "content_title": "隣のやじまん家の塀の裏#54 稲場愛香",
+    "content_sub_title": "",
+    "release_date": "2019-08-22 15:00:00",
+    "created_at": "2019-08-22 12:58:40",
+    "updated_at": "2019-08-22 15:09:05",
+    "content_text": "「隣のやじまん家」#54配信中です♪\n\n今回のゲストはJuice=Juice 稲場愛香さん！\n\nROCK IN JAPAN・OTODAMA 出演時のお話や\n稲場さん出身地、北海道のお話、\nお2人の「今年の夏にしたいこと」もお聞きしました。\n\n190822_1.jpg\n\n\n「矢島パイセンの○○チェック」では、稲場さんが辛党とのタレコミが…！\n実際にスパゲッティにタバスコを入れて試食していただきました。\n矢島パイセンは辛いものが苦手だそうですが、アリなのか…？それともナシ…？\n矢島パイセンのリアクションにも注目です！\n\n\n「VS矢島」のコーナーでは、こちらの2つで対決！\n\n①あざといセリフ対決♡\n②ひとりで生きられそう対決！\n\n握手会のシチュエーションであざといセリフ対決をしていただきました♡\nお2人にメロメロになること間違いなしです<img src=\"/emoji/emoji-images/4526.gif\"/>！！！\n\nこちらの対決にちなんで、お2人の「あざといポーズ♡」をおすそ分けします♪\n\n190822_2.jpg\n\nひとりで生きられそう対決では、一般常識クイズ5問に挑戦しています！\nどちらが多く正解できたのでしょうか…！？\n\n\n今回も盛りだくさんな隣のやじまん家！ぜひ配信をお聴きください！\n\n\n9月テーマトークのお題は\n「ついついやってしまう癖」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は9月6日(火)、ゲストはモーニング娘。'19の石田亜佑美さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10207",
+        "material_title": "190822_2.jpg",
+        "material_file": "9978db6e19377b48a27b0f942294b9951bf2486e3f17ca2a91c602ad3f6ddb0910207.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10208",
+        "material_title": "190822_1.jpg",
+        "material_file": "97d5cced814868905745fe5d25c842b88cb6af08594cb0a27baf61357971066710208.jpeg"
+      }
+    ],
+    "previous_id": "12066",
+    "next_id": "11952",
+    "saved_materials": [
+      "assets/12001_10207_190822_2.jpg",
+      "assets/12001_10208_190822_1.jpg"
+    ]
+  }
+}

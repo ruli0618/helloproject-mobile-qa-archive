@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 486,
+    "content_id": "15481",
+    "content_title": "キムチ！稲場愛香",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-02-18 10:00:00",
+    "created_at": "2021-02-16 19:30:28",
+    "updated_at": "2021-02-16 19:30:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12879",
+        "material_title": "0218_inaba_s.jpg",
+        "material_file": "65ec8e68bf44a251c4be6bd18710bfedb1a7ce476aa5a9a1465b0839c37c4fd912879.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15481",
+    "content_title": "キムチ！稲場愛香",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-02-18 10:00:00",
+    "created_at": "2021-02-16 19:30:28",
+    "updated_at": "2021-02-16 19:30:28",
+    "content_text": "0218_inaba_s.jpg\r\n材料がなかなか無くならなくて3日間くらい連続だったキムチ鍋！家族みんなキムチ鍋が大好きで昔からよく食べていました〜\r\n辛さの好みは違ったけど！笑\r\n今回は1人だから おうちで激辛グルメ祭りの収録で頂いた一味を思う存分かけて美味しく食べました！あたたまるね〜",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "12879",
+        "material_title": "0218_inaba_s.jpg",
+        "material_file": "a2fc0dfeda61d26e8bec3481273bd5e738c4e430eca1727b7023c30a231ce6b612879.jpeg"
+      }
+    ],
+    "previous_id": "15482",
+    "next_id": "15443",
+    "saved_materials": [
+      "assets/15481_12879_0218_inaba_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 642,
+    "content_id": "10609",
+    "content_title": "ポスター",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2019-02-10 10:00:00",
+    "created_at": "2019-01-08 12:57:33",
+    "updated_at": "2019-01-08 12:57:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9152",
+        "material_title": "0210_miyazaki_s.jpg",
+        "material_file": "0a9c9c8f9402aff5df1a8620b0986339b75bf98a1761f0f1a9a39b39724fa9019152.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10609",
+    "content_title": "ポスター",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2019-02-10 10:00:00",
+    "created_at": "2019-01-08 12:57:33",
+    "updated_at": "2019-01-08 12:57:33",
+    "content_text": "0210_miyazaki_s.jpg\r\n会社で懐かしいポスターを発見しました。みんなちょっと若い！",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9152",
+        "material_title": "0210_miyazaki_s.jpg",
+        "material_file": "adb441bec43db1907cce0d683ada99947511cc96544fe52b8690980b904f364e9152.jpeg"
+      }
+    ],
+    "previous_id": "10610",
+    "next_id": "10607",
+    "saved_materials": [
+      "assets/10609_9152_0210_miyazaki_s.jpg"
+    ]
+  }
+}

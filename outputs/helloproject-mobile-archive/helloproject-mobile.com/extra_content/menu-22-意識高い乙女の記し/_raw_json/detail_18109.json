@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 57,
+    "content_id": "18109",
+    "content_title": "新しいお洋服",
+    "content_sub_title": "福田真琳",
+    "category_id": "115",
+    "release_date": "2022-05-12 10:00:00",
+    "created_at": "2022-05-10 15:07:55",
+    "updated_at": "2022-05-10 15:07:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15118",
+        "material_title": "0512_fukuda_s.jpg",
+        "material_file": "5f1d9ce31bc1027473afdbe28597ba465f0cc084d6f0404907e5e77bcff04eee15118.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18109",
+    "content_title": "新しいお洋服",
+    "content_sub_title": "福田真琳",
+    "release_date": "2022-05-12 10:00:00",
+    "created_at": "2022-05-10 15:07:55",
+    "updated_at": "2022-05-10 15:07:55",
+    "content_text": "0512_fukuda_s.jpg\r\nみなさん！\r\nやっほーワラビー！\r\n\r\n\r\n最近！\r\n新しいお洋服を\r\n買いました！\r\n\r\n\r\n久しぶりに\r\n新しいお洋服を\r\n買うことができて\r\nとっても嬉しかったです！\r\n\r\n\r\nこれからも、\r\n自分磨きを頑張りたいです！\r\n\r\nバイバイワラビー！",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15118",
+        "material_title": "0512_fukuda_s.jpg",
+        "material_file": "fe9c77233f3f6c297c729f2c751461fb86af5c6fb26daadad188361f8298077115118.jpeg"
+      }
+    ],
+    "previous_id": "18110",
+    "next_id": "18050",
+    "saved_materials": [
+      "assets/18109_15118_0512_fukuda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 168,
+    "content_id": "19674",
+    "content_title": "櫻井梨央プレイリスト",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-02-10 18:34:00",
+    "created_at": "2023-02-10 18:25:44",
+    "updated_at": "2023-02-10 18:40:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16322",
+        "material_title": "02.jpg",
+        "material_file": "6cf5739fd0ef381824c2731e39f8168a38594a4b1c703a92539f4e73dc33c42516322.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16323",
+        "material_title": "03.jpg",
+        "material_file": "d68799ed8e27011ad3d0b173eb599538b42859fe155dff8fcf85f8c9c995da8116323.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16324",
+        "material_title": "01.jpg",
+        "material_file": "22d90f3cd8b61e49aeb4104137ea8d6be1d587265e8cb9f7538bdc239bbf08f216324.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19674",
+    "content_title": "櫻井梨央プレイリスト",
+    "content_sub_title": "",
+    "release_date": "2023-02-10 18:34:00",
+    "created_at": "2023-02-10 18:25:44",
+    "updated_at": "2023-02-10 18:40:54",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n本日より<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" target=\"_blank\">ハロー！ラジオ</a>では、櫻井梨央セレクト「Instrumentalおすすめハロプロソング」プレイリストを配信中！\n\n櫻井梨央といえば、OMAKEチャンネルで魅力を語るほどのInstrumental好き！\nぜひ、動画もあわせてチェックしてみてくださいね<img src=\"/emoji/emoji-images/f6de.gif\"/>\n\n<a href=\"https://youtu.be/Z9pwYowHp1s\" target=\"_blank\">▶【モーニング娘。'22 櫻井梨央 インストゥルメンタルのすばらしさを語りたい！！】\n01.jpg</a>\n\n<a href=\"https://youtu.be/_dyDhhRJy2o\" target=\"_blank\">▶【モーニング娘。'22 櫻井梨央with野中美希 インストゥルメンタルのすばらしさを語りたい！！前編】\n02.jpg</a>\n\n<a href=\"https://youtu.be/hIlII3IVoFk\" target=\"_blank\">▶【モーニング娘。'22 櫻井梨央with野中美希 インストゥルメンタルのすばらしさを語りたい！！後編】\n03.jpg</a>\n\n実は今回プレイリストの選曲を依頼した際に、「可能でしたらこの順番のまま掲載希望」と本人からお話がありました。\n残念ながらハロー！ラジオはプレイヤーの仕様上ランダム再生となってしまうので、ここでプレイリストの順番を公開したいと思います。\n\n<b>櫻井梨央セレクト「Instrumentalおすすめハロプロソング」</b>\n\n君の代わりは居やしない(Instrumental)\n／モーニング娘。'14\n\nもっとずっと一緒に居たかった(Instrumental)\n／Berryz工房\n\n夢幻クライマックス(Instrumental)\n／℃-ute\n\n微炭酸(Instrumental)\n／Juice=Juice\n\nお祭りデビューだぜ！(Instrumental)\n／OCHA NORMA\n\n気高く咲き誇れ！(Instrumental)\n／つばきファクトリー\n\n泳げないMermaid(Instrumental)\n／アンジュルム\n\n文化祭実行委員長の恋(Instrumental)\n／BEYOOOOONDS\n\n青春小僧が泣いている(Instrumental)\n／モーニング娘。'15\n\nAre you Happy?(Instrumental)\n／モーニング娘。'18\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" target=\"_blank\">ハロー！ラジオ</a>でも、ぜひ聴いてみてくださいね！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "16322",
+        "material_title": "02.jpg",
+        "material_file": "4b7c5d8244b2e21116f0f134225d83498c954df0ceb14126f06af078fd72051916322.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "16323",
+        "material_title": "03.jpg",
+        "material_file": "cdf96ca823d66a1ae1bbd603251e5732744b7e44a823a2578e4cb82a5be5c4a016323.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "16324",
+        "material_title": "01.jpg",
+        "material_file": "8c859baae3d6768ae6f676d31692d0fa9ed68fc999ae99305081c606378972ec16324.jpeg"
+      }
+    ],
+    "previous_id": "21234",
+    "next_id": "21313",
+    "saved_materials": [
+      "assets/19674_16322_02.jpg",
+      "assets/19674_16323_03.jpg",
+      "assets/19674_16324_01.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 28,
+    "content_id": "26492",
+    "content_title": "アイス",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2026-07-06 10:00:00",
+    "created_at": "2026-06-26 00:41:54",
+    "updated_at": "2026-06-26 00:41:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21611",
+        "material_title": "0706_maeda_s.jpg",
+        "material_file": "9aa195af8a1f9b9683ddc71772b0a368b235a260eee6cdd2c3ce0825c6ad263421611.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26492",
+    "content_title": "アイス",
+    "content_sub_title": "前田こころ",
+    "release_date": "2026-07-06 10:00:00",
+    "created_at": "2026-06-26 00:41:54",
+    "updated_at": "2026-06-26 00:41:54",
+    "content_text": "0706_maeda_s.jpg\r\n頑張ったご褒美には甘いものだよねっ\r\nよくコンビニでスイーツとかアイス買って帰ります！自分を甘やかしてこ〜^._.^\r\n\r\n【53周目お題：スイーツ】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21611",
+        "material_title": "0706_maeda_s.jpg",
+        "material_file": "9c127cf6c39bea38d2fd5d2985be9d8107acf8c6d5b2a9e02085a8f62b95b97021611.jpeg"
+      }
+    ],
+    "previous_id": "26493",
+    "next_id": "26490",
+    "saved_materials": [
+      "assets/26492_21611_0706_maeda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 371,
+    "content_id": "12827",
+    "content_title": "工藤の家の屋根裏部屋#64～山木梨沙～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-12-25 18:36:00",
+    "created_at": "2019-12-25 19:48:00",
+    "updated_at": "2019-12-25 19:50:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10845",
+        "material_title": "191225_01_s.jpg",
+        "material_file": "8a0eaff277b7bfd96f4b7ce0c55c353ca5b8c83990a6352d36f606321592581d10845.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10846",
+        "material_title": "191225_02_s.jpg",
+        "material_file": "930d978615a302309cd04ae0cee22febced596472073d703a34ba814a5e3733510846.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12827",
+    "content_title": "工藤の家の屋根裏部屋#64～山木梨沙～",
+    "content_sub_title": "",
+    "release_date": "2019-12-25 18:36:00",
+    "created_at": "2019-12-25 19:48:00",
+    "updated_at": "2019-12-25 19:50:15",
+    "content_text": "ふくむらの部屋 第64回配信中！\n\n卒業前の出演が叶いました。\nゲストは、12月26日にグループの活動休止を控えるカントリー・ガールズから、山木梨沙さんが登場！\n\n秋ツアーやボイトレについて、\nイベントのセトリを考えたり、\n森戸知沙希さんのエピソードを話したり、\n山木さんが道重さゆみさんと二人でお食事した時のお話も！\n\n今回のコラボ企画では、こちらの質問にお答えしました。\nなんと、二人とも自分が書いた質問を引くというミラクル！\n\n191225_02_s.jpg\n\n山木さんがゲストに来てくれた回のみ復活する人気コーナーは、今回が最終回！\n｢復活！聖お嬢様の私生活のコーナー｣では、お嬢様らしい発言が飛び出しました！\n\n「皆に伝えたいハロプロ名場面」のコーナーも、沢山のお便りありがとうございました！\n\n191225_01_s.jpg\n\nハロー！プロジェクトが大好きで、ハロー！プロジェクトのメンバーになったお二人ならではのお話が盛り沢山！\n\n譜久村さんが話す、\n山木さんへの想い、\nカントリー・ガールズへの想いを、\nそして卒業前の山木さんの想いを、\nぜひお聴き下さい。\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\"><b>「ふくむらの部屋」は、こちらから！</b></a>\n\n次回は、2020年1月7日の配信！\nゲストはこぶしファクトリーの和田桜子さんです！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10845",
+        "material_title": "191225_01_s.jpg",
+        "material_file": "526572aa96f9773a1fd4e53111e0824c7ab5d227153723d0cfa8a0915db9c1ce10845.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10846",
+        "material_title": "191225_02_s.jpg",
+        "material_file": "c0f5ed72e8b7db9906c32f6fd15c4a144ddccb50c8d6d3e30991cf087d49d0f110846.jpeg"
+      }
+    ],
+    "previous_id": "12826",
+    "next_id": "12819",
+    "saved_materials": [
+      "assets/12827_10845_191225_01_s.jpg",
+      "assets/12827_10846_191225_02_s.jpg"
+    ]
+  }
+}

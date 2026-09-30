@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 285,
+    "content_id": "16149",
+    "content_title": "宣伝会議#61",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-05-28 20:00:00",
+    "created_at": "2021-05-28 20:04:50",
+    "updated_at": "2021-05-28 20:04:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13466",
+        "material_title": "210528_s.jpg",
+        "material_file": "3be6e9ae91e307eb8f4e0c3751ee8726c30d136125e68c2fb74a2b5d4cc1ed8513466.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13467",
+        "material_title": "210528_01_s.jpg",
+        "material_file": "ba76c6995bb7447066b49d19b7d329c52d4a11634bdc71aac465e6622b6812ea13467.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16149",
+    "content_title": "宣伝会議#61",
+    "content_sub_title": "",
+    "release_date": "2021-05-28 20:00:00",
+    "created_at": "2021-05-28 20:04:50",
+    "updated_at": "2021-05-28 20:04:50",
+    "content_text": "宣伝会議ラジオ第61回は、久しぶりに宣伝部員が全員集合！\r\nこの度は公開が遅れ申し訳ございませんでした。\r\n皆さん、既にお聴き頂けましたでしょうか。\r\n\r\n210528_01_s.jpg\r\n\r\n今回、番組内で大事な発表を行いました！\r\n\r\n【議題】「副部長を決めよう」\r\n川村広報、前田書記兼警備の二人に、妄想動画を撮ってきてもらい、動画をご覧になった皆さんの投票で副部長を決定する事となりました。\r\n\r\n動画のテーマは「皆さんをハッピーにする動画」\r\n\r\n二人の意気込みはラジオで要チェックです！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「パフォーマンス中のクセ」について募集しました！\r\n本人自身も気づけていないようなクセから、誰もが頷くメンバーのクセまで、沢山のお便りありがとうございました！\r\n\r\nブログを書く時のこだわりや、街でメンバーと遭遇した話、甘やかしたいメンバー等などトークも盛り沢山。\r\n母の日についても！\r\n\r\n↓議事録はこちら！\r\n\r\n210528_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13466",
+        "material_title": "210528_s.jpg",
+        "material_file": "ade1003dc723bd1f02d76c77707d41bec3cadb69bfec5ca8d1d067d8ee289b3b13466.jpeg"
+      },
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13467",
+        "material_title": "210528_01_s.jpg",
+        "material_file": "7819c4eb52334e2974607afc162ad2b01762231c4a33dd9041d0fd6926a4a89613467.jpeg"
+      }
+    ],
+    "previous_id": "16174",
+    "next_id": "16132",
+    "saved_materials": [
+      "assets/16149_13466_210528_s.jpg",
+      "assets/16149_13467_210528_01_s.jpg"
+    ]
+  }
+}

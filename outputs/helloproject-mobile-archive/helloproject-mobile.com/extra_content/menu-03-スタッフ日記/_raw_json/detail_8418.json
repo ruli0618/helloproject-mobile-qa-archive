@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 535,
+    "content_id": "8418",
+    "content_title": "雪の日には…",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-22 18:42:00",
+    "created_at": "2018-01-22 19:00:12",
+    "updated_at": "2018-01-22 19:01:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8418",
+    "content_title": "雪の日には…",
+    "content_sub_title": "",
+    "release_date": "2018-01-22 18:42:00",
+    "created_at": "2018-01-22 19:00:12",
+    "updated_at": "2018-01-22 19:01:05",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n関東は今年初の雪が降り積もっていますね<img src=\"/emoji/emoji-images/f65d.gif\"/>\r\n今日は普段よりも早い時間に帰路へつかれた方も多いのではと思います。\r\n\r\nなかなか進まない電車の中、\r\n早く家に着きすぎてやることが無い等など…\r\n時間を持て余しているそこのあなた、<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" target=\"_blank\">ハロー！ラジオ</a>を聴いてみるのはいかがでしょう。\r\n\r\n楽曲プレイリストの中には冬にぴったりなハロプロソング特集もあって、この時期おすすめです♪\r\n\r\n室田瑞希セレクト「こたつに入りながら聴きたいハロプロソング」\r\nハロ！モバセレクション「冬編」\r\n\r\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" target=\"_blank\">★ハロー！ラジオはこちら！</a>\r\n※プレイリストはラジオ番組一覧の下にあります。\r\n\r\n帰り道、明日の朝も雪が降った道を歩く際にはお気をつけて。。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8430",
+    "next_id": "8365",
+    "saved_materials": []
+  }
+}

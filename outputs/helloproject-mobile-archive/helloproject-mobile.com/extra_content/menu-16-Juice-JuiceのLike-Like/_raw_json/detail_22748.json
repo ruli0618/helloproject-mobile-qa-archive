@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 143,
+    "content_id": "22748",
+    "content_title": "いい天気",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-08-22 10:00:00",
+    "created_at": "2024-08-19 16:07:28",
+    "updated_at": "2024-08-19 16:07:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18623",
+        "material_title": "0822_dambara_s.jpg",
+        "material_file": "76c3c2ea0504651f271c164387ba7deb0ac11481652beae10f469ed6dba64c9118623.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22748",
+    "content_title": "いい天気",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-08-22 10:00:00",
+    "created_at": "2024-08-19 16:07:28",
+    "updated_at": "2024-08-19 16:07:28",
+    "content_text": "0822_dambara_s.jpg\r\n夏楽しんでますか<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18623",
+        "material_title": "0822_dambara_s.jpg",
+        "material_file": "cc84a404b92c0a0a1096a89ba4d72e623cf80a3bc9eef791a51be10e1f781ee618623.jpeg"
+      }
+    ],
+    "previous_id": "22790",
+    "next_id": "22747",
+    "saved_materials": [
+      "assets/22748_18623_0822_dambara_s.jpg"
+    ]
+  }
+}

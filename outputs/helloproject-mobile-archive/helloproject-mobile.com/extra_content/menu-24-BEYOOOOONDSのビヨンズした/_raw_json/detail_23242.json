@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 149,
+    "content_id": "23242",
+    "content_title": "ステージ上で！",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2024-11-11 10:00:00",
+    "created_at": "2024-11-11 11:30:21",
+    "updated_at": "2024-11-11 11:30:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19038",
+        "material_title": "1111_nishida_s.jpg",
+        "material_file": "241d6c5e6858c937fcbd27ea6d60e2416b01a4e7bda098311eac7b39ef393d7519038.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23242",
+    "content_title": "ステージ上で！",
+    "content_sub_title": "西田汐里",
+    "release_date": "2024-11-11 10:00:00",
+    "created_at": "2024-11-11 11:30:21",
+    "updated_at": "2024-11-11 11:30:21",
+    "content_text": "1111_nishida_s.jpg\r\n最初はももひめが1人で撮ってたんだけど、だんだん近くにいたメンバーが集まりました！笑\r\n\r\n【38周目お題：はいチーズ！】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "19038",
+        "material_title": "1111_nishida_s.jpg",
+        "material_file": "2ded02c96125127522122e088c3da915ae09dc2fed32246a2dc500c14b90c17419038.jpeg"
+      }
+    ],
+    "previous_id": "23243",
+    "next_id": "23226",
+    "saved_materials": [
+      "assets/23242_19038_1111_nishida_s.jpg"
+    ]
+  }
+}

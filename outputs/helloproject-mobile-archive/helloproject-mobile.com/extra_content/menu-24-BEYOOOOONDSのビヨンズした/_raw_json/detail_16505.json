@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 370,
+    "content_id": "16505",
+    "content_title": "探せ！",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2021-09-06 10:00:00",
+    "created_at": "2021-07-28 19:23:15",
+    "updated_at": "2022-01-17 14:40:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13780",
+        "material_title": "0906_shimakura_s.jpg",
+        "material_file": "848b3c2e65b1b845ee5d9ed36f23290ebdfdda713ab8a9bf76bdab210bdc794b13780.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16505",
+    "content_title": "探せ！",
+    "content_sub_title": "島倉りか",
+    "release_date": "2021-09-06 10:00:00",
+    "created_at": "2021-07-28 19:23:15",
+    "updated_at": "2022-01-17 14:40:30",
+    "content_text": "0906_shimakura_s.jpg\nHello! Project 2021 Summer Sapphire & Ruby楽屋にて、写真を撮ったら平井美葉ちゃんと江口紗耶ちゃんが二人づつ写り込んでた！笑\n\n【13周目お題：構図を意識】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13780",
+        "material_title": "0906_shimakura_s.jpg",
+        "material_file": "a146ce8c5fa70394fbee2b0b3fc7727ba6f5dc854336b7b8342979ca69dc589213780.jpeg"
+      }
+    ],
+    "previous_id": "16506",
+    "next_id": "16504",
+    "saved_materials": [
+      "assets/16505_13780_0906_shimakura_s.jpg"
+    ]
+  }
+}

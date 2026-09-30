@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 101,
+    "content_id": "23891",
+    "content_title": "トイプードル",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-02-25 22:30:00",
+    "created_at": "2025-02-25 22:31:24",
+    "updated_at": "2025-02-26 12:08:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19588",
+        "material_title": "0225_ebata_s.jpg",
+        "material_file": "1c9e16f7bc6c3bd75095ba7d9a2715196352d5924b397f46b44b44c18401ed2219588.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23891",
+    "content_title": "トイプードル",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-02-25 22:30:00",
+    "created_at": "2025-02-25 22:31:24",
+    "updated_at": "2025-02-26 12:08:12",
+    "content_text": "0225_ebata_s.jpg\r\nやっほー\r\nえばです！\r\n\r\n「今夜はHearty Party」の衣装、アウターを着るとトイプードルみたいになります笑\r\nモコモコであたたかくて可愛いです︎^_^",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19588",
+        "material_title": "0225_ebata_s.jpg",
+        "material_file": "ba34ea8a2a35ed859336f8e2594d5c657b8dc4682c8d258494fadd218b4a76bc19588.jpeg"
+      }
+    ],
+    "previous_id": "23937",
+    "next_id": "23860",
+    "saved_materials": [
+      "assets/23891_19588_0225_ebata_s.jpg"
+    ]
+  }
+}

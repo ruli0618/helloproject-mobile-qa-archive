@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 56,
+    "content_id": "18110",
+    "content_title": "和菓子",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-05-17 10:00:00",
+    "created_at": "2022-05-10 15:07:57",
+    "updated_at": "2022-05-10 15:07:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15119",
+        "material_title": "0517_yofu_s.jpg",
+        "material_file": "40c63f9d34484a0dc5f17d21a6d759bed3ce9e44c1a9ed0c9dbaeda02b89193915119.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18110",
+    "content_title": "和菓子",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-05-17 10:00:00",
+    "created_at": "2022-05-10 15:07:57",
+    "updated_at": "2022-05-10 15:07:57",
+    "content_text": "0517_yofu_s.jpg\r\nよっふぅ〜<img src=\"/emoji/emoji-images/4f5c.gif\"/><img src=\"/emoji/emoji-images/f387.gif\"/>\r\n\r\n七條甘春堂の和菓子たべました＼(´ω｀)／\r\n\r\n見た目可愛くて、なのに味も可愛くて美味しかったです（≧∇≦）\r\n\r\nるのもこんな和菓子になりたいです！",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15119",
+        "material_title": "0517_yofu_s.jpg",
+        "material_file": "158393b9bef1e757fe1012aa0212f41c6e9739b584ef5a7b5d5224417ca301b615119.jpeg"
+      }
+    ],
+    "previous_id": "18111",
+    "next_id": "18109",
+    "saved_materials": [
+      "assets/18110_15119_0517_yofu_s.jpg"
+    ]
+  }
+}

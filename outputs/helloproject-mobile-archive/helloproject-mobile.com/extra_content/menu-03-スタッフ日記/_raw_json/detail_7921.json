@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 561,
+    "content_id": "7921",
+    "content_title": "イベント前に",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-09 21:37:00",
+    "created_at": "2017-11-09 21:37:05",
+    "updated_at": "2017-11-09 21:39:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7921",
+    "content_title": "イベント前に",
+    "content_sub_title": "",
+    "release_date": "2017-11-09 21:37:00",
+    "created_at": "2017-11-09 21:37:05",
+    "updated_at": "2017-11-09 21:39:34",
+    "content_text": "こんばんは！\r\nスタッフ番号2番です！\r\n\r\n明日はとうとう、ハロ！モバ宣伝部イベント開催日ですね！\r\nイベントに参加される皆さまへ、お願いがあります。\r\n\r\nイベントでは「公開ハロー！Q＆A」を行います！\r\n\r\n皆さんからお題を募集して、ステージ上でメンバーが答えてしまう！というものです。\r\n（いわゆる質問コーナーです）\r\n\r\nその質問を1問、考えてきてください。\r\n\r\nイベントがとっても盛り上がるようなとびっきりの質問、お待ちしています！\r\n\r\n※受付で記入用紙とペンをお渡ししますので、着席されましたら用紙にご記入ください。\r\n※用紙とペンは開演前にスタッフが回収させていただきます。\r\n\r\n明日のイベント開場時間は、\r\n【第1部】18:10\r\n【第2部】19:40\r\nになります！\r\n\r\n会場は、都営大江戸線「赤羽橋駅」中之橋口を出て、左向きにすぐのビルです。\r\n<a href=\"https://www.google.co.jp/maps/place/%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC/@35.6551623,139.7434332,20.25z/data=!4m13!1m7!3m6!1s0x60188bbceb378c9f:0x16228c40b0bc2f37!2z44CSMTA2LTAwNDQg5p2x5Lqs6YO95riv5Yy65p2x6bq75biD77yR5LiB55uu77yS77yY4oiS77yR77yS!3b1!8m2!3d35.6552654!4d139.7436917!3m4!1s0x60188bbceb3d87dd:0x8a423abc950d65e1!8m2!3d35.6552623!4d139.7437676\" target=\"_blank\">＜GoogleMAPはこちら＞</a>\r\n\r\nぜひ皆さん、時間に余裕をもって、\r\nそして焦らずお気をつけて、いらしてくださいね。\r\n\r\nP.S.質問の記入用紙は、本日スタッフ番号2番が作成しました！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "7925",
+    "next_id": "7915",
+    "saved_materials": []
+  }
+}

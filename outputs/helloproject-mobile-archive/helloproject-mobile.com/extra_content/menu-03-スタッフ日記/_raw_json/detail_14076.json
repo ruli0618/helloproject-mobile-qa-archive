@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 335,
+    "content_id": "14076",
+    "content_title": "工藤の家の屋根裏部屋#75前編～江口紗耶～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-07-08 21:10:00",
+    "created_at": "2020-07-08 21:11:40",
+    "updated_at": "2020-07-08 21:12:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11744",
+        "material_title": "200708_01_s.jpg",
+        "material_file": "8a3f608f850b3b4a2266a71d2d7ea5ed0334301eefe46f97a54c52a799b6354411744.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14076",
+    "content_title": "工藤の家の屋根裏部屋#75前編～江口紗耶～",
+    "content_sub_title": "",
+    "release_date": "2020-07-08 21:10:00",
+    "created_at": "2020-07-08 21:11:40",
+    "updated_at": "2020-07-08 21:12:32",
+    "content_text": "ふくむらの部屋 第75回前編配信中！\n\nゲストは、BEYOOOOONDS CHICA#TETSUから江口紗耶さんが出演！\n\n質問BOXの最近入れたスマホアプリ、一番好きな曲のお話から始まり、ニックネーム秘話や、様々な趣味・特技についてトーク！\n\n「みんなに伝えたいハロプロ名場面」のコーナーでは、厳選して三句、川柳を読ませて頂きました。\n\n200708_01_s.jpg\n\n次回は、7/14(火)の配信。\n\n第75回後編では引き続き江口紗耶さんがゲスト出演し、お二人のソロフェス感想などなど要チェックです！\n\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11744",
+        "material_title": "200708_01_s.jpg",
+        "material_file": "4f81ab2b15d5e01538cfb2d841bfb6b9460c4ee0628038a235c40da69e4b538e11744.jpeg"
+      }
+    ],
+    "previous_id": "14121",
+    "next_id": "14074",
+    "saved_materials": [
+      "assets/14076_11744_200708_01_s.jpg"
+    ]
+  }
+}

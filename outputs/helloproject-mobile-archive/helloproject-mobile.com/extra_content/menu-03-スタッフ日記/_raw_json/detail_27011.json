@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 16,
+    "content_id": "27011",
+    "content_title": "工藤の家の軒下#62～相馬優芽～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-05-07 00:00:00",
+    "created_at": "2026-09-28 23:52:34",
+    "updated_at": "2026-09-28 23:52:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22085",
+        "material_title": "260507_062.jpg",
+        "material_file": "cde7243b9c58604ea87d420baccc18ce3d5aabca7b138a5bc8c5fadee245ba8122085.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27011",
+    "content_title": "工藤の家の軒下#62～相馬優芽～",
+    "content_sub_title": "",
+    "release_date": "2026-05-07 00:00:00",
+    "created_at": "2026-09-28 23:52:34",
+    "updated_at": "2026-09-28 23:52:34",
+    "content_text": "260507_062.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第62回はゲストは、相馬優芽！\r\n\r\n・最年少で良かったこと、苦労したこと\r\n・お互いのグループの曲で歌ってみたい曲\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・中国クイズ\r\n・春ツアー\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・中学の合唱祭\r\n・誕生日プレゼント\r\n・TikTokハモリチャレンジ動画\r\n・メンバーカラー\r\n・同期\r\n・実力診断テスト\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22085",
+        "material_title": "260507_062.jpg",
+        "material_file": "612fe6b28341f358de5ffa0a719fcca05d773ece1dc6979a6040eacf5ef82a6f22085.jpeg"
+      }
+    ],
+    "previous_id": "27012",
+    "next_id": "26964",
+    "saved_materials": [
+      "assets/27011_22085_260507_062.jpg"
+    ]
+  }
+}

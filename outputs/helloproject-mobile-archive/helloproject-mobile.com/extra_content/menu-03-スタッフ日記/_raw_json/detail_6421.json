@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 605,
+    "content_id": "6421",
+    "content_title": "℃-uteリリース！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-29 23:20:00",
+    "created_at": "2017-03-29 23:20:26",
+    "updated_at": "2017-03-30 22:23:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5678",
+        "material_title": "cute.jpg",
+        "material_file": "f21e8791e3dd904e3409efaf218aa4c40241f54a3d0b83cec8a2b9d1d470a21f5678.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6421",
+    "content_title": "℃-uteリリース！",
+    "content_sub_title": "",
+    "release_date": "2017-03-29 23:20:00",
+    "created_at": "2017-03-29 23:20:26",
+    "updated_at": "2017-03-30 22:23:55",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\n今日は℃-uteのNEWシングル「To Tomorrow／ファイナルスコール／The Curtain Rises」発売日ですね。\n最後のシングルリリース、ぜひ皆さんで盛り上げていきましょう！\n\nこちらに℃-ute情報をまとめてみましたので、よかったら見てみてくださいね！\n\n<a href=\"http://helloproject-mobile.com/info/special/content?page=170329_cute_sg/index\">★リリース特設はこちら！</a>\n*メンバーそれぞれの楽曲紹介は必見！\n\n<a href=\"http://www.helloproject.com/c-ute/news/6567/\">★購入者特典情報はこちら！</a>\n*オリジナルポストカードがついてきます！\n\n<a href=\"http://www.helloproject.com/c-ute/news/6672/\">★楽曲配信はこちら！</a>\n*着うた、着うたフル、PC・スマホシングル、ハイレゾ、MVも配信中！\n\n<a href=\"http://www.areaq.jp/c-ute/\">★℃-uteコラボカフェ「℃afe ℃-ute」開催！</a>\n*チケット一般発売は3月31日(金)12:00から！\n\n<a href=\"http://www.helloproject.com/c-ute/event/\">★コンサート＆イベント情報はこちら！</a>\n*まだまだ℃-uteに会えるチャンスあり！\n\n<a href=\"http://ameblo.jp/c-ute-official\">★オフィシャルブログはこちら！</a>\n*最新の℃-uteをチェック！\n\n<a href=\"http://www.youtube.com/user/ocutechannel\">★YouTubeチャンネルはこちら！</a>\n*新曲MVを観るもよし！過去の映像を振り返るもよし！\n\n<a href=\"http://www.helloproject.com/c-ute/media/\">★メディア情報はこちら！</a>\n*℃-ute出演番組・雑誌をチェック！\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">★矢島舞美MCラジオ番組「やじまの部屋」はこちら！</a>\n*℃-uteメンバー全員ゲスト登場済み！\n\n<a href=\"http://www.up-front-works.jp/cutehistory/\">★このサイトで℃-uteのすべてがわかる！「℃-ute スペシャル大百科サイト」はこちら！</a>\n*実はひっそり更新続いてます！歴史年表は読み応えあるボリューム！\n\ncute.jpg",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5678",
+        "material_title": "cute.jpg",
+        "material_file": "f497799a56d0aeb8917e81b8a42ffaada84271724b7dd86afaf786bceba876825678.jpeg"
+      }
+    ],
+    "previous_id": "6478",
+    "next_id": "6382",
+    "saved_materials": [
+      "assets/6421_5678_cute.jpg"
+    ]
+  }
+}

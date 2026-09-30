@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 102,
+    "content_id": "24410",
+    "content_title": "みんなの後ろ姿",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2025-06-11 10:00:00",
+    "created_at": "2025-06-02 12:04:14",
+    "updated_at": "2025-06-02 12:04:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19979",
+        "material_title": "0611_maeda_s.jpg",
+        "material_file": "928dd9f149b6ec95140fb8d10d3d85ed0a9e59f2dcc534ff050d9b4dfd62274c19979.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24410",
+    "content_title": "みんなの後ろ姿",
+    "content_sub_title": "前田こころ",
+    "release_date": "2025-06-11 10:00:00",
+    "created_at": "2025-06-02 12:04:14",
+    "updated_at": "2025-06-02 12:04:14",
+    "content_text": "0611_maeda_s.jpg\r\nメンバーの後ろ姿をついつい撮りたくなってしまいます！！！\r\n\r\n【43周目お題：隠し撮り】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "19979",
+        "material_title": "0611_maeda_s.jpg",
+        "material_file": "2ed6960ff7a29da8a7608b8ff090b9ec1333a1997d9bbff2df7930f3f9a31b4e19979.jpeg"
+      }
+    ],
+    "previous_id": "24411",
+    "next_id": "24408",
+    "saved_materials": [
+      "assets/24410_19979_0611_maeda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 530,
+    "content_id": "8572",
+    "content_title": "工藤の家の屋根裏部屋#17～谷本安美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-02-13 19:14:00",
+    "created_at": "2018-02-13 19:19:03",
+    "updated_at": "2018-02-13 19:20:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7491",
+        "material_title": "180213_03_s.jpg",
+        "material_file": "c4b6b3b846f0255d7f09fb7d5b6f2e246b0690abab7389d4a780ced96d80fdd47491.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7492",
+        "material_title": "180213_01_s.jpg",
+        "material_file": "2609167c4dfec04f2b982b441b6c3ba3f639e08c416bc4fb298de9f856f82fb67492.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7493",
+        "material_title": "180213_02_s.jpg",
+        "material_file": "46443f3aa1ca5db8ed1ef9185585b6586bc4227958fa9b6fde7310a5881163d47493.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8572",
+    "content_title": "工藤の家の屋根裏部屋#17～谷本安美～",
+    "content_sub_title": "",
+    "release_date": "2018-02-13 19:14:00",
+    "created_at": "2018-02-13 19:19:03",
+    "updated_at": "2018-02-13 19:20:55",
+    "content_text": "「ふくむらの部屋」17回目の配信開始しました。\n今回のゲストはつばきファクトリーの谷本安美さん！！\n偶然にもお二人とも同じ飲み物を持って収録にやってきました。\n\n「みずき先生のハロプロ講座」では\n番組始まって以来のとんでもないテーマが登場！？\n谷本さんがハロプロメンバーの\"おしり\"について語る！！\nそしてなんと谷本さんによる譜久村さんの\"おしり鑑定\"までおこなってしまいました！\n「いつもグラビア拝見させていただいてます～」と谷本さん\n譜久村さんからのおすすめメンバーの名前もしっかりメモをしていました。\n\n残念ながらラジオなので音声のみになりますが…。お楽しみください！\n\nそしてそして、\n本編（第17回#10を参照）を聞いていただいた方、お待たせいたしました。\nお互いが描いた似顔絵を大公開です！！\n\nどうぞ！\n\n\n180213_01_s.jpg\n\nそれぞれよく見たいあなたへ\n一枚づつお楽しみください。\n\n譜久村さん作・谷本さんの似顔絵\n\n180213_02_s.jpg\n\n谷本さん作・譜久村さんの似顔絵\n\n180213_03_s.jpg\n\n\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\n普通のお便りや新コーナー案も引き続き募集中です！\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7491",
+        "material_title": "180213_03_s.jpg",
+        "material_file": "78ef12c5efaf08e7e5db2018d2d4b9985631b3f9a85574f3a770496659eda2477491.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7492",
+        "material_title": "180213_01_s.jpg",
+        "material_file": "12c47f889f36eb582a9ff54f032e41ad30a6193715160ec3cc4b52a2d3e501b57492.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7493",
+        "material_title": "180213_02_s.jpg",
+        "material_file": "9308418da774ebca7508895f92eea66b02ac7bfa8ba46fb22608307496bc8a917493.jpeg"
+      }
+    ],
+    "previous_id": "8593",
+    "next_id": "8527",
+    "saved_materials": [
+      "assets/8572_7491_180213_03_s.jpg",
+      "assets/8572_7492_180213_01_s.jpg",
+      "assets/8572_7493_180213_02_s.jpg"
+    ]
+  }
+}

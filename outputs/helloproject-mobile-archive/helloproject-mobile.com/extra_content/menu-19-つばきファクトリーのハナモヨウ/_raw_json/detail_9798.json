@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "9798",
+    "content_title": "本木(^^)",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2018-09-05 19:18:00",
+    "created_at": "2018-09-05 19:19:16",
+    "updated_at": "2018-09-05 19:19:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8575",
+        "material_title": "0905_akiyama_s.jpg",
+        "material_file": "52d8b46a701bbbd488deec5828a975ec56f23cb769be1774317b50c1820795f88575.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9798",
+    "content_title": "本木(^^)",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2018-09-05 19:18:00",
+    "created_at": "2018-09-05 19:19:16",
+    "updated_at": "2018-09-05 19:19:16",
+    "content_text": "こんにちは〜\r\n秋山眞緒です！！！\r\n\r\nこの前、きれーーいな花を見つけました！！！\r\n白とピンクの花って可愛いなっ家に飾りたい(^^)\r\n\r\n0905_akiyama_s.jpg\r\n\r\nじゃあ\r\nバイバイっっ（ ' v ' ）☆",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8575",
+        "material_title": "0905_akiyama_s.jpg",
+        "material_file": "f928098de0c128cd96874fc3c68db80189a77d24b0150c1b91ac593637c1e3be8575.jpeg"
+      }
+    ],
+    "previous_id": "9850",
+    "next_id": "9789",
+    "saved_materials": [
+      "assets/9798_8575_0905_akiyama_s.jpg"
+    ]
+  }
+}

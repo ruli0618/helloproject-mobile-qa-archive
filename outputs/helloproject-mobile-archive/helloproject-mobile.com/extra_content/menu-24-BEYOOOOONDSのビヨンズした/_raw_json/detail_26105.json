@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 32,
+    "content_id": "26105",
+    "content_title": "ピアノの音が",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2026-05-18 10:00:00",
+    "created_at": "2026-04-21 23:02:01",
+    "updated_at": "2026-04-28 21:57:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21351",
+        "material_title": "0520_kobayashi_s.jpg",
+        "material_file": "6fd92541c077573047669d0fa5d086b3f1d387d0c8e5256daca4175823b1751621351.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26105",
+    "content_title": "ピアノの音が",
+    "content_sub_title": "小林萌花",
+    "release_date": "2026-05-18 10:00:00",
+    "created_at": "2026-04-21 23:02:01",
+    "updated_at": "2026-04-28 21:57:46",
+    "content_text": "0520_kobayashi_s.jpg\r\n実際に弾きながら撮影してると、オフショットからも音が聞こえてきそう…！\r\n\r\n【52周目お題：音が聞こえそう】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21351",
+        "material_title": "0520_kobayashi_s.jpg",
+        "material_file": "02c1d905bd7a1338461f7bc780d937b0f61214387a2e27d344cf4ce026423de721351.jpeg"
+      }
+    ],
+    "previous_id": "26106",
+    "next_id": "26104",
+    "saved_materials": [
+      "assets/26105_21351_0520_kobayashi_s.jpg"
+    ]
+  }
+}

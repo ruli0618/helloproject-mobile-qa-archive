@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 733,
+    "content_id": "8735",
+    "content_title": "秋田",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2018-03-27 11:00:00",
+    "created_at": "2018-03-02 23:38:16",
+    "updated_at": "2018-03-02 23:38:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7635",
+        "material_title": "0327_miyamoto_s.jpg",
+        "material_file": "baf5c168a75089a32886e98d844ce0c9a116d9c5f376e040fd8d4938ac5ac2d67635.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8735",
+    "content_title": "秋田",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2018-03-27 11:00:00",
+    "created_at": "2018-03-02 23:38:16",
+    "updated_at": "2018-03-02 23:38:16",
+    "content_text": "0327_miyamoto_s.jpg\r\n雪がすごかったなー！",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7635",
+        "material_title": "0327_miyamoto_s.jpg",
+        "material_file": "e3937a5d6fe9708c9e5c96b2116d4322f3a6c9183859bd2ae3c2d932c612bc177635.jpeg"
+      }
+    ],
+    "previous_id": "8823",
+    "next_id": "8734",
+    "saved_materials": [
+      "assets/8735_7635_0327_miyamoto_s.jpg"
+    ]
+  }
+}

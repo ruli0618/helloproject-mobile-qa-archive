@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 104,
+    "content_id": "22934",
+    "content_title": "工藤の家の軒下#9～櫻井梨央～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-04-09 00:00:00",
+    "created_at": "2024-09-21 05:44:14",
+    "updated_at": "2024-09-21 06:41:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18783",
+        "material_title": "240409_s.jpg",
+        "material_file": "1b0894f72e87f4fe40a6b30f927dd3b6aa3baef9db8dbeda11acd1d38db6e8da18783.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22934",
+    "content_title": "工藤の家の軒下#9～櫻井梨央～",
+    "content_sub_title": "",
+    "release_date": "2024-04-09 00:00:00",
+    "created_at": "2024-09-21 05:44:14",
+    "updated_at": "2024-09-21 06:41:13",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第9回は、モーニング娘。'24櫻井梨央さんがゲストに来てくれました！\r\n\r\n240409_s.jpg\r\n\r\n・歌割り変更\r\n・覚えるのに苦労した曲\r\n・自分磨き\r\n・同期の存在\r\n・現代建築\r\n・ひなフェス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・えらいりー\r\n・スマホケース\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\nファン活動、映画鑑賞記録について紹介しました！\r\n\r\n後半では、\r\n・部活\r\n・体験入部したいグループ\r\n・ディズニーの良いところ\r\n・オーディション初出し情報\r\n・憧れの先輩と同じグループ\r\n・表情\r\n・新しい一歩を踏み出したこと\r\n・春ツアー\r\nについてトーク！\r\n\r\n次回は、つばきファクトリー八木栞さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18783",
+        "material_title": "240409_s.jpg",
+        "material_file": "bdbce35783d84802f1e40a601f411496ef2d83178d3ebe37a90522b4ec7ab97018783.jpeg"
+      }
+    ],
+    "previous_id": "23381",
+    "next_id": "22933",
+    "saved_materials": [
+      "assets/22934_18783_240409_s.jpg"
+    ]
+  }
+}

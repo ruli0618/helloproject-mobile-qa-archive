@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 127,
+    "content_id": "20817",
+    "content_title": "みんなとの夏",
+    "content_sub_title": "山岸理子",
+    "category_id": "155",
+    "release_date": "2023-09-08 10:00:00",
+    "created_at": "2023-09-04 21:56:15",
+    "updated_at": "2023-09-04 21:56:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17147",
+        "material_title": "0908_yamagishi_s.jpg",
+        "material_file": "961f6823fee051822c6ba04baeec2332c7554e17d851be0bacd6ee7eb45a80da17147.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20817",
+    "content_title": "みんなとの夏",
+    "content_sub_title": "山岸理子",
+    "release_date": "2023-09-08 10:00:00",
+    "created_at": "2023-09-04 21:56:15",
+    "updated_at": "2023-09-04 21:56:15",
+    "content_text": "0908_yamagishi_s.jpg\r\n灼熱楽しかったぁ！\r\nみんなと今年も浴衣を着ることが\r\nできて、\r\n毎年あたりまえにみんなと着てた浴衣も、\r\n「あぁ今年で最後かぁ」という\r\n感情になったよ。\r\n\r\n夏ってエモいよな！\r\nエモい夏、ありがとう！\r\n\r\n\r\nつばきファクトリー山岸理子",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17147",
+        "material_title": "0908_yamagishi_s.jpg",
+        "material_file": "c4faf85130140c289e267cd684ccc5b58ee739adf076703f7c60e1dfc8f4954817147.jpeg"
+      }
+    ],
+    "previous_id": "20885",
+    "next_id": "20816",
+    "saved_materials": [
+      "assets/20817_17147_0908_yamagishi_s.jpg"
+    ]
+  }
+}

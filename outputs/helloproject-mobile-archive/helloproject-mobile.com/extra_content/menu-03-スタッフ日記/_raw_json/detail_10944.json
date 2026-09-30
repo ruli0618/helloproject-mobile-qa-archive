@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 432,
+    "content_id": "10944",
+    "content_title": "工藤の家の屋根裏部屋#44～佐藤優樹～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-08 15:24:00",
+    "created_at": "2019-03-08 15:25:00",
+    "updated_at": "2019-03-08 15:25:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9398",
+        "material_title": "0308_01_s.jpg",
+        "material_file": "24e896cf022861e3bf42706df80774f0063561604a805c10a6cb0c36ff656f2e9398.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9399",
+        "material_title": "0308_02_s.jpg",
+        "material_file": "41c985a46f83f64528a73a0fa284ba80a74fe3cc8afade370faf165d581acc409399.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10944",
+    "content_title": "工藤の家の屋根裏部屋#44～佐藤優樹～",
+    "content_sub_title": "",
+    "release_date": "2019-03-08 15:24:00",
+    "created_at": "2019-03-08 15:25:00",
+    "updated_at": "2019-03-08 15:25:00",
+    "content_text": "「ふくむらの部屋」44回目の配信開始です！\r\n今回のゲストはモーニング娘。’19佐藤優樹さん！　\r\n\r\n0308_01_s.jpg\r\n\r\n佐藤さんは2回目の登場ですが、始まる前から飴ちゃんを4つも食べていたり\r\n本人も言っていましたがリラックスして収録に臨んでいた模様です。\r\n\r\n佐藤さんの独特なメンバーの呼び名について解説したり\r\n\r\nパフォーマンスや楽曲、舞台での裏話について\r\n\r\nディナーショー裏での事件（!?）\r\n\r\nキラーンと解決のコーナーでは恋愛相談が！！\r\n\r\n\r\n自由奔放な佐藤さんの発言に譜久村さんも思わず…!?\r\n\r\n\r\n0308_02_s.jpg\r\n\r\n\r\nエンディングでは佐藤さんの独特な告知に大爆笑！\r\n\r\n\r\n自由すぎるトークから真面目なトークまで\r\n今回も「ここでしか聴けない」が満載です！！\r\n\r\n\r\n\r\n次回ゲストはこぶしファクトリーから野村みな美さんが登場！\r\n\r\n回替わりコーナーは「ハロプロなんでもベスト3」\r\nテーマは「影響を受けた歌詞ベスト3」を大募集！\r\n※こちらはハロプロ曲でお願いします！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「悩みをキラーンと解決」\r\n「普通のお便り」\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9398",
+        "material_title": "0308_01_s.jpg",
+        "material_file": "9db38b9a1e6be0212159e57d2618ae91a3dc077785a82fe509fa9a00e25560109398.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9399",
+        "material_title": "0308_02_s.jpg",
+        "material_file": "d044002a9d9e9b26a1c2eb77bb66169e1715364ae1218dc6c51a9dbc4fad62ac9399.jpeg"
+      }
+    ],
+    "previous_id": "10947",
+    "next_id": "10890",
+    "saved_materials": [
+      "assets/10944_9398_0308_01_s.jpg",
+      "assets/10944_9399_0308_02_s.jpg"
+    ]
+  }
+}

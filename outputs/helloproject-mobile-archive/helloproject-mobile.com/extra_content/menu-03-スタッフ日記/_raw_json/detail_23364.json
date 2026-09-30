@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 185,
+    "content_id": "23364",
+    "content_title": "宣伝会議#80",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-11-17 00:00:00",
+    "created_at": "2024-11-28 04:46:25",
+    "updated_at": "2024-11-28 04:47:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19158",
+        "material_title": "80.jpg",
+        "material_file": "311b15202d8a1b8c6379ebae8498fe9f339850b88e4cb4165ddb2f1c9e6f554719158.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23364",
+    "content_title": "宣伝会議#80",
+    "content_sub_title": "",
+    "release_date": "2022-11-17 00:00:00",
+    "created_at": "2024-11-28 04:46:25",
+    "updated_at": "2024-11-28 04:47:08",
+    "content_text": "宣伝会議第80回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・楽屋の過ごし方\r\n・バースデーイベント\r\n・初参加シングル\r\n・ハロウィン\r\n・スケジュール管理事情\r\n・誰とどんなお話したい？\r\nについてトーク！\r\n\r\n後編では、\r\n・入江美容室\r\n・卒業武道館と通常武道館の違い\r\n・誕生日を迎えて\r\n・晴れ女？雨女？\r\n・OGとの展示会\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「豫風瑠乃」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n80.jpg",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "19158",
+        "material_title": "80.jpg",
+        "material_file": "d15a88c4dcbe89667e5a0f353fe08747e8c6a8091a31e61e1dd965e8ef2d7f2e19158.jpeg"
+      }
+    ],
+    "previous_id": "21227",
+    "next_id": "21226",
+    "saved_materials": [
+      "assets/23364_19158_80.jpg"
+    ]
+  }
+}

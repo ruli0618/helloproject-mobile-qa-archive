@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T02:37:23.781Z",
+  "generated_at": "2026-09-30T06:45:36.512Z",
   "source": "http://helloproject-mobile.com/dialy/tour?menu_id=2",
   "menu_id": "2",
   "category_count": 35,
-  "entry_count": 535,
+  "entry_count": 557,
   "error_count": 0,
   "categories": [
     {
@@ -22,7 +22,7 @@
       "category_content": "",
       "category_color": "#FFFFFF",
       "menu_id": "2",
-      "is_new": "0"
+      "is_new": "1"
     },
     {
       "idx": 3,
@@ -32701,6 +32701,1354 @@
         ],
         "previous_id": "27022",
         "next_id": "-1"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "26937",
+        "content_title": "ルンルン♫",
+        "content_sub_title": "山﨑愛生",
+        "category_id": "206",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-25 19:27:09",
+        "updated_at": "2026-09-25 19:27:09",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21998",
+            "material_title": "S__75169798.jpg",
+            "material_file": "61aba885f3384445ed5d219ec4b2dd26ec00e6d473b89de052baaf3c3901dec221998.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "26937",
+        "content_title": "ルンルン♫",
+        "content_sub_title": "山﨑愛生",
+        "category_id": "206",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-25 19:27:09",
+        "updated_at": "2026-09-25 19:27:09",
+        "is_new": 0,
+        "content_text": "やっほー♪\r\nモーニング娘。'26の山﨑愛生です (^o^)/\r\n\r\n\r\nモーニング娘。'26 コンサートツアー秋『超 Heartful 11』\r\nNiterra 日本特殊陶業市民会館 フォレストホール\r\n愛知公演でした〜♫\r\n\r\nまーじで暑かった(>_<)\r\nリハーサルの時の袖にいる時点で、\r\n「え、もう暑くない！？」ってなってたよ笑\r\nまだ踊ってないのに…！\r\nだから本番も絶対暑いと思って髪型工夫したのに、\r\nもう顔周りの髪の毛がお風呂の後並みに濡れてた笑\r\n\r\n朝から音楽聴いてルンルンになって、\r\nケータリングのきしめんにいい量の七味をかけて、\r\n好みの辛さで食べれてルンルンで、\r\nライブもちょーーー楽しくて、\r\nルンルンな1日でした (^-^)v\r\n\r\nルンルンだったのであんまりお土産買わない私も、\r\n栗好きの家族に栗のお菓子みつけてお土産にしてた笑\r\n\r\n写真です (^ ^)\r\n\r\nS__75169798.jpg\r\n\r\n自撮りです！\r\n\r\n秋ツアーはまだまだ続くよ〜♪♪\r\n来月は私の地元北海道公演もあるよ〜♪♪♪\r\nぜひ遊びにきてね o(^▽^)o\r\n\r\n\r\nめいより",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21998",
+            "material_title": "S__75169798.jpg",
+            "material_file": "61aba885f3384445ed5d219ec4b2dd26ec00e6d473b89de052baaf3c3901dec221998.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21998_3e7441c4.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=3e7441c4c8c28d590d56baee182bc5c9&material_file=61aba885f3384445ed5d219ec4b2dd26ec00e6d473b89de052baaf3c3901dec221998.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "26938"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "26938",
+        "content_title": "愛知公演！",
+        "content_sub_title": "鈴木もあ",
+        "category_id": "206",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-25 19:28:34",
+        "updated_at": "2026-09-25 19:28:34",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21999",
+            "material_title": "S__43589653.jpg",
+            "material_file": "c592adcdae5e974613e2be12963faa0103effb4cc66ae6dfcba8a5784a4ee8e621999.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26938",
+        "content_title": "愛知公演！",
+        "content_sub_title": "鈴木もあ",
+        "category_id": "206",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-25 19:28:34",
+        "updated_at": "2026-09-25 19:28:34",
+        "is_new": 0,
+        "content_text": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」 愛知公演 ありがとうございました〜！！\r\n\r\n初日から9公演もパフォーマンスさせていただいていて、体力面でも1曲でどのくらいの体力を使うのかも分かってきました。曲によって使う力も違うので、それぞれの曲に合わせて体力の配分も考えられるようになりました。 \r\nそして、体力面だけでなく、パフォーマンスやステージでの見せ方など、色々なことをこれからもっと学べると思うので、1つ1つの公演を大切にしながら、楽しんでいけるようにしたいです！！\r\n\r\n秋ツアーはこれから、20公演と、横浜アリーナでのパフォーマンスがあるのでお近くの方はぜひ！遊びに来てくださると嬉しいです！！\r\n\r\nS__43589653.jpg",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21999",
+            "material_title": "S__43589653.jpg",
+            "material_file": "c592adcdae5e974613e2be12963faa0103effb4cc66ae6dfcba8a5784a4ee8e621999.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21999_3e7441c4.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=3e7441c4c8c28d590d56baee182bc5c9&material_file=c592adcdae5e974613e2be12963faa0103effb4cc66ae6dfcba8a5784a4ee8e621999.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26937",
+        "next_id": "26935"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "26935",
+        "content_title": "大阪公演！",
+        "content_sub_title": "井上春華",
+        "category_id": "206",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 19:23:37",
+        "updated_at": "2026-09-25 19:23:37",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21996",
+            "material_title": "S__139649047.jpg",
+            "material_file": "64bdf61bc8d25275385323d9953318ad0dd4ee8ce14f1a0758ce9c65092c8c2421996.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26935",
+        "content_title": "大阪公演！",
+        "content_sub_title": "井上春華",
+        "category_id": "206",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 19:23:37",
+        "updated_at": "2026-09-25 19:23:37",
+        "is_new": 0,
+        "content_text": "井上春華です！\r\n\r\n\r\nモーニング娘。'26 コンサートツアー秋 「超 Heartful 11」大阪公演ありがとうございました！\r\n\r\nS__139649047.jpg\r\n\r\n凱旋公演ではないのですが…、関西出身ということで、杉原明紗ちゃんと「ただいまー！」言わしてもらいました！\r\n一緒に写真も撮った。\r\nいつか杉原明紗ちゃんと大阪のテーマパーク行きたいねって話した。\r\n行けるといいなー。\r\n\r\nまた大阪来るのが楽しみです！\r\n次大阪に来るのは10月12日です。\r\n今より成長した姿をお見せできるように頑張ります！\r\n\r\n今度はたこ焼き食べたいなぁ。\r\nあとチーズケーキも。\r\nミックスジュースは飲みました！\r\n\r\n\r\n\r\n\r\nほな<img src=\"/emoji/emoji-images/f3aa.gif\"/>",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21996",
+            "material_title": "S__139649047.jpg",
+            "material_file": "31c0b45677e6882ab46189a76d89ec6254b2d8dfe345008664f42d554150e8fe21996.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21996_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=31c0b45677e6882ab46189a76d89ec6254b2d8dfe345008664f42d554150e8fe21996.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26938",
+        "next_id": "26936"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 4,
+        "content_id": "26936",
+        "content_title": "ただいまー！",
+        "content_sub_title": "杉原明紗",
+        "category_id": "206",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 19:25:28",
+        "updated_at": "2026-09-25 19:25:28",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21997",
+            "material_title": "S__65773573.jpg",
+            "material_file": "3ebb3f77a510e6ee23b2bfbf46f61452ab5f99c4a061906f4b2b45605e833f5521997.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26936",
+        "content_title": "ただいまー！",
+        "content_sub_title": "杉原明紗",
+        "category_id": "206",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-25 19:25:28",
+        "updated_at": "2026-09-25 19:25:28",
+        "is_new": 0,
+        "content_text": "みんな〜\r\nめーさが参上〜←\r\n杉原明紗やでー！\r\n\r\n\r\n9月21日は\r\n秋ツアー大阪公演でしたー♪\r\n来てくださったみなさん、お家から応援してくださったみなさんたのしかったですかー？\r\n大阪のおいしいものたべれましたかー？\r\n\r\n\r\n井上さんとただいまー！できたことがうれしかったです♡\r\n\r\n \r\nなにより今日はモーニング娘。加入ちょうど半年でした！！\r\nもっともっとモーニング娘。のメンバーとして先輩方が作ってくださったものを歌い繋いでいけるようにがんばります！\r\n\r\nS__65773573.jpg\r\n\r\nモーニング娘。で幸せです。",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21997",
+            "material_title": "S__65773573.jpg",
+            "material_file": "8df77ffe5410e1c4486c808a87495ad65cee2720920b5ccec8d53c63bdfbaa5321997.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21997_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=8df77ffe5410e1c4486c808a87495ad65cee2720920b5ccec8d53c63bdfbaa5321997.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26935",
+        "next_id": "26933"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 5,
+        "content_id": "26933",
+        "content_title": "高松公演裏話",
+        "content_sub_title": "野中美希",
+        "category_id": "206",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-25 18:33:32",
+        "updated_at": "2026-09-25 18:33:32",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21992",
+            "material_title": "S__139649039_0.jpg",
+            "material_file": "27160a0a1052ba391f1945082ddcbbaa281dc8982017cf061a3a2dce56b0233621992.jpeg"
+          },
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21993",
+            "material_title": "S__139649038_0.jpg",
+            "material_file": "52127e6a5fcda38fb0c23520fff8a6e759fca9d45713b4df43872fefd2896f2221993.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26933",
+        "content_title": "高松公演裏話",
+        "content_sub_title": "野中美希",
+        "category_id": "206",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-25 18:33:32",
+        "updated_at": "2026-09-25 18:33:32",
+        "is_new": 0,
+        "content_text": "高松公演、ありがとうございました<img src=\"/emoji/emoji-images/f9f1.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n野中にとっては、久しぶりの関東圏以外でのコンサート。すごく楽しかったです！\r\n\r\nせっかくのツアー日記なので、インスタには載せていないバージョンの写真を載せますね<img src=\"/emoji/emoji-images/f6ee.gif\"/>\r\n\r\nS__139649038_0.jpg\r\n\r\nそして、香川といえば！\r\n食べた讃岐うどんも載せちゃいます<img src=\"/emoji/emoji-images/f9f1.gif\"/>\r\n\r\nS__139649039_0.jpg\r\n\r\n小田さん、らいりー、げったー、みゆみゆ、すーも、野中というメンバーで、お話ししながら食べました！\r\n\r\nみゆみゆ、すーもともたくさんお話しできたし、げったーが話していたお話がおもしろかったです。笑モーニング女学院でも話したそうなので…にやり<img src=\"/emoji/emoji-images/5022.gif\"/>気になる方はぜひ。\r\n\r\nそして、香川のおみやげもいっぱい買いました！中でも一番気になっているのが、うどんパンラスク。どんな味なんだろう！食べるのが楽しみです！\r\n\r\nオリーブオイルも欲しかったので、香川でゲットできてうれしかったです（> <）\r\n\r\nそんな感じで今回は、SNSには載せていない高松公演の裏話をいろいろ書いてみました。\r\n\r\nそして、ハロモバは今月で終了ということで、今回が私にとって最後のツアー日記になると思います<img src=\"/emoji/emoji-images/f9c8.gif\"/>\r\n\r\n今までツアー日記を読んでくださったみなさん、ありがとうございました！\r\n\r\n残りわずかとなりましたが、最後までハロモバのいろいろなコンテンツを楽しんでいただけたらうれしいです<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n高松公演、改めてありがとうございました！残りの秋ツアーも、各地でたくさん思い出つくるぞ！それでわん。",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21992",
+            "material_title": "S__139649039_0.jpg",
+            "material_file": "27c7e56e23201619eb737f85792409a40452cb8c1be319e27e8ea141ff974cf621992.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21992_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=27c7e56e23201619eb737f85792409a40452cb8c1be319e27e8ea141ff974cf621992.jpeg"
+            }
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21993",
+            "material_title": "S__139649038_0.jpg",
+            "material_file": "77f3e58cafa1208d483f8b4b5ef424fec8c0fea22f5bc635f0aeb53aac40f4c421993.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21993_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=77f3e58cafa1208d483f8b4b5ef424fec8c0fea22f5bc635f0aeb53aac40f4c421993.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26936",
+        "next_id": "26934"
+      }
+    },
+    {
+      "category": {
+        "idx": 1,
+        "category_id": "206",
+        "category_title": "モーニング娘。'26 コンサートツアー秋「超 Heartful 11」",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 6,
+        "content_id": "26934",
+        "content_title": "うどん！",
+        "content_sub_title": "安田美結",
+        "category_id": "206",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-25 18:55:02",
+        "updated_at": "2026-09-25 18:55:02",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21994",
+            "material_title": "S__139649043_0.jpg",
+            "material_file": "0bde457c87a4d4c9b5238656ff1db33d2eede803257f4393aa310abba044ca0121994.jpeg"
+          },
+          {
+            "secretKey": "3e7441c4c8c28d590d56baee182bc5c9",
+            "material_id": "21995",
+            "material_title": "S__139649042_0.jpg",
+            "material_file": "9691d458c8ebe4536c683cc551e2b26f1229d1b3ad92f939c52b379a93ba2f9c21995.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26934",
+        "content_title": "うどん！",
+        "content_sub_title": "安田美結",
+        "category_id": "206",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-25 18:55:02",
+        "updated_at": "2026-09-25 18:55:02",
+        "is_new": 0,
+        "content_text": "みなさん、こんばんは〜<img src=\"/emoji/emoji-images/f37b.gif\"/>\r\n\r\n\r\nモーニング娘。'26 コンサートツアー秋「超 Heartful 11」香川公演にお越しくださった皆さんありがとうございました〜！！！\r\n\r\n\r\nS__139649042_0.jpg\r\n\r\n(野中さんのねこちゃんのカチューシャから、私の顔がひょこっとでてます！笑<img src=\"/emoji/emoji-images/f9cf.gif\"/><img src=\"/emoji/emoji-images/f945.gif\"/>）\r\n\r\n\r\n香川公演は1公演のみだったのですが、皆さんからの歓声がすごく聞こえてきて本当にうれしかったです！！！<img src=\"/emoji/emoji-images/f9cf.gif\"/><img src=\"/emoji/emoji-images/f663.gif\"/>\r\n\r\n今回私は埼玉公演で出来なかったことを香川公演ではできるように改善するということを目標にしていました！！！香川公演では改善できたのですが、もっと表情だったり、リズムだったりが細かい所まで意識できていなかったので、意識できるようにしていきたいです！！<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\n香川沢山盛り上がって、最高でした！！！\r\nツアー始まって、初の地方公演思い出もできました！！\r\nありがとうございました！！\r\n\r\n<img src=\"/emoji/emoji-images/f651.gif\"/>.ﾟ･*..☆.｡.:*<img src=\"/emoji/emoji-images/f651.gif\"/>.☆.｡.:.+*:ﾟ+｡<img src=\"/emoji/emoji-images/f651.gif\"/>.ﾟ･*..☆.｡.:*<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\nケータリングにうどんがあって香川を感じれました！！！おいしかった〜\r\n\r\nそして、うどん脳くんの被り物可愛いかった！！\r\n\r\nS__139649043_0.jpg\r\n\r\n香川公演で撮ったTikTokも投稿されているので、ぜひ見てみてね<img src=\"/emoji/emoji-images/f651.gif\"/>\r\n\r\n\r\n安田美結でした〜<img src=\"/emoji/emoji-images/f37b.gif\"/>",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21994",
+            "material_title": "S__139649043_0.jpg",
+            "material_file": "2500004b240343b4174e4f11ca7328cf42532fe4e0f1b631cfd4829ae59273cf21994.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21994_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=2500004b240343b4174e4f11ca7328cf42532fe4e0f1b631cfd4829ae59273cf21994.jpeg"
+            }
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21995",
+            "material_title": "S__139649042_0.jpg",
+            "material_file": "b0e04e83e98cb5d3cdee47f4e95336d66b74bc8731d5c84051cf24ffea847cd321995.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21995_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=b0e04e83e98cb5d3cdee47f4e95336d66b74bc8731d5c84051cf24ffea847cd321995.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26933",
+        "next_id": "26899"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "27079",
+        "content_title": "千葉公演！！！",
+        "content_sub_title": "川名凜",
+        "category_id": "207",
+        "release_date": "2026-09-30 00:00:00",
+        "created_at": "2026-09-30 13:24:17",
+        "updated_at": "2026-09-30 13:27:41",
+        "is_new": "1",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22117",
+            "material_title": "2609kawa.jpeg",
+            "material_file": "41bf16b216e314ea8cfb1847c5efd1ba56abd68db962ac2a55e5ec78d25f140f22117.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "27079",
+        "content_title": "千葉公演！！！",
+        "content_sub_title": "川名凜",
+        "category_id": "207",
+        "release_date": "2026-09-30 00:00:00",
+        "created_at": "2026-09-30 13:24:17",
+        "updated_at": "2026-09-30 13:27:41",
+        "is_new": 0,
+        "content_text": "ありがとうございました！！\n\nチーバくんのように赤く燃えるようなライブでした、とっても楽しかったしもう1公演やりたいなと思ってしまいましたぜ\n\n\n千葉トークもできたし色々千葉っぽいところがあったりだとか\nメンバーも沢山おかえり〜って言ってくれて嬉しかったです<img src=\"/emoji/emoji-images/5037.gif\"/><img src=\"/emoji/emoji-images/5037.gif\"/>\n\n\nまた来ます、千葉！！！\n\n\nありがとピーナッツ！！！\n\n2609kawa.jpeg\n",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22117",
+            "material_title": "2609kawa.jpeg",
+            "material_file": "41bf16b216e314ea8cfb1847c5efd1ba56abd68db962ac2a55e5ec78d25f140f22117.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22117_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=41bf16b216e314ea8cfb1847c5efd1ba56abd68db962ac2a55e5ec78d25f140f22117.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "27038"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "27038",
+        "content_title": "名古屋",
+        "content_sub_title": "橋迫鈴",
+        "category_id": "207",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-29 19:04:53",
+        "updated_at": "2026-09-29 19:04:53",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22114",
+            "material_title": "2609hashi.jpeg",
+            "material_file": "fb2157cee9e4a30c2078d23e36ebdc1b5b06ed49d84485d94d87230cb7ee0faa22114.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27038",
+        "content_title": "名古屋",
+        "content_sub_title": "橋迫鈴",
+        "category_id": "207",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-29 19:04:53",
+        "updated_at": "2026-09-29 19:04:53",
+        "is_new": 0,
+        "content_text": "秋ツアー名古屋公演ありがとうございました！\r\n\r\n2609hashi.jpeg\r\n\r\n他の会場に比べて名古屋の会場って広いから\r\nとても緊張するんですよね。\r\n\r\nでも、とっても楽しかったです！\r\n\r\nケータリングもすごく豪華で\r\n味噌を使ったメニューがいっぱいだったから\r\nとにかくたくさん食べました笑\r\n\r\nみんなも名古屋で美味しいもの食べれたかな。\r\n\r\n地元にいた時は、名物とかってあんまり\r\n意識しないから食べたことないもの多かった\r\nけど離れると恋しくなったりするもんですね。\r\n\r\nもう味噌が食べたい。\r\n\r\nばい！",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22114",
+            "material_title": "2609hashi.jpeg",
+            "material_file": "fb2157cee9e4a30c2078d23e36ebdc1b5b06ed49d84485d94d87230cb7ee0faa22114.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22114_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=fb2157cee9e4a30c2078d23e36ebdc1b5b06ed49d84485d94d87230cb7ee0faa22114.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27079",
+        "next_id": "27078"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "27078",
+        "content_title": "フォレストホール！",
+        "content_sub_title": "長野桃羽",
+        "category_id": "207",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-30 13:22:25",
+        "updated_at": "2026-09-30 13:25:41",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22116",
+            "material_title": "2609naga.jpeg",
+            "material_file": "aeb75e63f01b00f5cd642a7355737e5490b8db6fcc4b184d88ee9a8d39daeac922116.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27078",
+        "content_title": "フォレストホール！",
+        "content_sub_title": "長野桃羽",
+        "category_id": "207",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-30 13:22:25",
+        "updated_at": "2026-09-30 13:25:41",
+        "is_new": 0,
+        "content_text": "こんにちもっちー！<img src=\"/emoji/emoji-images/f3fa.gif\"/>\n長野桃羽です！\n\n9月22日！Niterra日本特殊陶業市民会館フォレストホールにて！秋ツアー名古屋公演ありがとうございました<img src=\"/emoji/emoji-images/5125.gif\"/>\n\n2609naga.jpeg\n\n橋迫さんの地元凱旋公演ということで、\n最初出た時の赤色のペンライトがめちゃくちゃ印象的でしたね<img src=\"/emoji/emoji-images/502d.gif\"/><img src=\"/emoji/emoji-images/f8ee.gif\"/>\n\nみなさんの声もめちゃくちゃ大きくてビックリしました！！( °_° )なごやパワーなの？！！！すごい！！！！\n\nあと名古屋公演の時はとにかくケータリングが美味しいっちゃんね〜‪<img src=\"/emoji/emoji-images/f9cf.gif\"/>\nきしめんがね、よく出てる気がするんですけど、きしめんってほんとに美味しくて…\nめちゃくちゃあったまるし気合いの入り方が半端ないの！！！笑\n他にも〜味噌かけて食べる串カツとか、名古屋ならではの味付けだったり、めちゃくちゃテンション上がりました<img src=\"/emoji/emoji-images/f3a2.gif\"/><img src=\"/emoji/emoji-images/f379.gif\"/>\n\n個人的に好きななごやめしは\n小倉トースト<img src=\"/emoji/emoji-images/f383.gif\"/>\n\n個人的に観光したことも何回かあって名古屋になぜだかすごく親近感があります…<img src=\"/emoji/emoji-images/502d.gif\"/><img src=\"/emoji/emoji-images/f379.gif\"/>\n\n橋迫さんと来れる名古屋をこれからも大切にしていきたいですし、橋迫さんと一緒に見れる景色をたーくさん目に焼き付けたいと思いますっ！！！\n\n名古屋だいだいだいすき！なのでこれからもたくさん行けるように頑張りますっ！<img src=\"/emoji/emoji-images/f3a2.gif\"/><img src=\"/emoji/emoji-images/f379.gif\"/>\n\n長野桃羽でした〜(｡･ω･)ﾉﾞ",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22116",
+            "material_title": "2609naga.jpeg",
+            "material_file": "aeb75e63f01b00f5cd642a7355737e5490b8db6fcc4b184d88ee9a8d39daeac922116.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22116_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=aeb75e63f01b00f5cd642a7355737e5490b8db6fcc4b184d88ee9a8d39daeac922116.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27038",
+        "next_id": "27036"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 4,
+        "content_id": "27036",
+        "content_title": "ええか！？",
+        "content_sub_title": "松本わかな",
+        "category_id": "207",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-29 18:56:21",
+        "updated_at": "2026-09-29 18:56:21",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22110",
+            "material_title": "2609_matsu2.jpeg",
+            "material_file": "6bdad80e79cb073402cf5c8c0241deae33f3bfc772651227262bbdbea4eeca1e22110.jpeg"
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22111",
+            "material_title": "2609_matsu3.jpeg",
+            "material_file": "c01a0b1052e433c2ba7eed4e9283512f2ad472839a1f9ec44f5d1307dfb3949722111.jpeg"
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22112",
+            "material_title": "2609_matsu1.jpeg",
+            "material_file": "8525e2872a1ad57e981b72a7d74c45e9d31d15ba075ca070a22dcb281e58449a22112.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27036",
+        "content_title": "ええか！？",
+        "content_sub_title": "松本わかな",
+        "category_id": "207",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-29 18:56:21",
+        "updated_at": "2026-09-29 18:56:21",
+        "is_new": 0,
+        "content_text": "やっほー！松本わかなです<img src=\"/emoji/emoji-images/f383.gif\"/>\r\n\r\n\r\n\r\n9月20日(日)は、NHK大阪ホール(大阪)にて、秋ツアーでした！！！\r\n\r\n『アンジュルム 2026秋 風林火山・弐』は、大阪公演が3日程もあるので、1ヶ月に1回、大阪でライブをすることができます！<img src=\"/emoji/emoji-images/f9cf.gif\"/><img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nわーい！♡\r\n\r\nそしてなんと、3日程もあるということで、大阪特別曲を1曲ずつ披露することになりました！<img src=\"/emoji/emoji-images/503f.gif\"/>\r\n\r\n今回の大阪公演1日目は、「ええか！？」を披露しました〜！\r\n\r\n楽しんでいただけたかな？？☺\r\n\r\n声援がたくさん聞こえてきて、楽屋時間は、ずっとメンバーと喋っていて、楽しい1日でした！！！<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n\r\n10/11(日)＆11/15(日)の大阪公演では、何を歌うのかお楽しみに！☺<img src=\"/emoji/emoji-images/475c.gif\"/>\r\n\r\n2609_matsu1.jpeg\r\n\r\n2609_matsu2.jpeg\r\n\r\n2609_matsu3.jpeg\r\n\r\n<img src=\"/emoji/emoji-images/452a.gif\"/>\r\n\r\n\r\nでは！\r\n\r\n松本わかな",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22110",
+            "material_title": "2609_matsu2.jpeg",
+            "material_file": "6bdad80e79cb073402cf5c8c0241deae33f3bfc772651227262bbdbea4eeca1e22110.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22110_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=6bdad80e79cb073402cf5c8c0241deae33f3bfc772651227262bbdbea4eeca1e22110.jpeg"
+            }
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22111",
+            "material_title": "2609_matsu3.jpeg",
+            "material_file": "c01a0b1052e433c2ba7eed4e9283512f2ad472839a1f9ec44f5d1307dfb3949722111.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22111_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=c01a0b1052e433c2ba7eed4e9283512f2ad472839a1f9ec44f5d1307dfb3949722111.jpeg"
+            }
+          },
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22112",
+            "material_title": "2609_matsu1.jpeg",
+            "material_file": "8525e2872a1ad57e981b72a7d74c45e9d31d15ba075ca070a22dcb281e58449a22112.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22112_851a27fc.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=851a27fcafa1081dce619917a6f92751&material_file=8525e2872a1ad57e981b72a7d74c45e9d31d15ba075ca070a22dcb281e58449a22112.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27078",
+        "next_id": "27037"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 5,
+        "content_id": "27037",
+        "content_title": "おおしゃかしゃか",
+        "content_sub_title": "下井谷幸穂",
+        "category_id": "207",
+        "release_date": "2026-09-20 00:00:00",
+        "created_at": "2026-09-29 18:59:21",
+        "updated_at": "2026-09-29 18:59:34",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "22113",
+            "material_title": "2609shimo.jpeg",
+            "material_file": "55e1291877eb0325e9303f4e932a7089a5a874ae37f96e615be183fdbf3fbfb322113.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27037",
+        "content_title": "おおしゃかしゃか",
+        "content_sub_title": "下井谷幸穂",
+        "category_id": "207",
+        "release_date": "2026-09-20 00:00:00",
+        "created_at": "2026-09-29 18:59:21",
+        "updated_at": "2026-09-29 18:59:34",
+        "is_new": 0,
+        "content_text": "やっほ〜ゆきほです！\r\n\r\n秋ツアー2026風林火山・弐\r\n大阪公演ありがとうございました！\r\n\r\nアンジュルムの気合いと皆さんの気合いが合わさったとっても熱く最高のLIVEになったと思います！！\r\n\r\n大阪公演1日目の特別楽曲は「ええか？！」でした！\r\n次の大阪は10月11日です<img src=\"/emoji/emoji-images/452a.gif\"/>\r\nなんの曲がくるかな？お楽しみに♬\r\n\r\n2609shimo.jpeg\r\n\r\n\r\nめっちゃ好きやで、大阪♡\r\n\r\n以上！下井谷幸穂でした〜",
+        "materials": [
+          {
+            "secretKey": "2f8f92efd9518fd93e51e59d81633006",
+            "material_id": "22113",
+            "material_title": "2609shimo.jpeg",
+            "material_file": "86c7ba1fc56760eb694f013b64e89dcf43fc21738ba720857122cda3e21b10df22113.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22113_2f8f92ef.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=2f8f92efd9518fd93e51e59d81633006&material_file=86c7ba1fc56760eb694f013b64e89dcf43fc21738ba720857122cda3e21b10df22113.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27036",
+        "next_id": "26925"
+      }
+    },
+    {
+      "category": {
+        "idx": 2,
+        "category_id": "207",
+        "category_title": "アンジュルム 2026秋 風林火山・弐",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "1"
+      },
+      "list": {
+        "idx": 6,
+        "content_id": "26925",
+        "content_title": "埼玉！",
+        "content_sub_title": "後藤花",
+        "category_id": "207",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-24 19:13:05",
+        "updated_at": "2026-09-24 19:13:05",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "851a27fcafa1081dce619917a6f92751",
+            "material_id": "21983",
+            "material_title": "2609goto.jpg",
+            "material_file": "5ff96ae36d6906eaae9882a9ecb8fda94f1f408b73b4628acb4e06eb9cd12ce821983.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26925",
+        "content_title": "埼玉！",
+        "content_sub_title": "後藤花",
+        "category_id": "207",
+        "release_date": "2026-09-14 00:00:00",
+        "created_at": "2026-09-24 19:13:05",
+        "updated_at": "2026-09-24 19:13:05",
+        "is_new": 0,
+        "content_text": "2609goto.jpg\r\n\r\n秋ツアー埼玉公演ありがとうございました！\r\nこうやってツアーで埼玉に来れること、そして、その場所にみなさんが会いにきてくれること、全て当たり前ではなく、ほんとに感謝でいっぱいです！\r\n\r\nみんなありがとう！\r\n\r\nこの2日間、楽屋はもちともいもいに挟まれていて、ひたすら会話してました笑\r\nもいもいももちも真っ直ぐな陽！！！って感じで、いいんですよねぇ\r\n話しててすごく楽だし、楽しいし、\r\nそして、その会話から溢れ出たものを先輩達がすかさず拾って笑ってくれたり、つっこんでくれたり、、\r\n\r\nアンジュルムのメンバーとこうやって日常を過ごせることが嬉しいし、幸せだなぁと思います！\r\n\r\n\r\nこのツアーを通して、さらにパワーアップできるように頑張ります！！\r\n\r\n\r\nそれでは！",
+        "materials": [
+          {
+            "secretKey": "2f8f92efd9518fd93e51e59d81633006",
+            "material_id": "21983",
+            "material_title": "2609goto.jpg",
+            "material_file": "d90a28f1bd32454924f8a96db01d0dbcb984d3f689d125045016006dfa8c3d8321983.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21983_2f8f92ef.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=2f8f92efd9518fd93e51e59d81633006&material_file=d90a28f1bd32454924f8a96db01d0dbcb984d3f689d125045016006dfa8c3d8321983.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27037",
+        "next_id": "26907"
+      }
+    },
+    {
+      "category": {
+        "idx": 4,
+        "category_id": "209",
+        "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "26944",
+        "content_title": "愛！",
+        "content_sub_title": "福田真琳",
+        "category_id": "209",
+        "release_date": "2026-09-24 00:00:00",
+        "created_at": "2026-09-28 13:17:06",
+        "updated_at": "2026-09-28 13:17:06",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22004",
+            "material_title": "S__49692733.jpg",
+            "material_file": "6293123095f0afbd23f4aa0b4edfa6626be2efa5f39791d8534ee06f472ff12622004.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "26944",
+        "content_title": "愛！",
+        "content_sub_title": "福田真琳",
+        "category_id": "209",
+        "release_date": "2026-09-24 00:00:00",
+        "created_at": "2026-09-28 13:17:06",
+        "updated_at": "2026-09-28 13:17:06",
+        "is_new": 0,
+        "content_text": "大阪で秋ツアーのライブがありました！\r\nまだ日本武道館公演は残っているけれど、秋ツアーがひと段落終わってしまうようで、朝からとっても寂しい気持ちでした（ ;  ; ）\r\n\r\nでもライブが始まると、\r\nそんな寂しい気持ちも忘れちゃうくらい楽しくて、\r\n本当に幸せな時間でした！☺\r\n\r\n秋山さんと立てる最後の大阪の舞台、\r\nすごく寂しかったけど、\r\n\r\n大阪公演の時にいつも\r\nファンの皆さんと一緒に『お帰りなさい！』って秋山さんに伝えるの大好きだったな〜とか、\r\nいろんな思い出に包まれた、最高の時間でした！\r\n\r\nみんなだいすきやでー！\r\n\r\nS__49692733.jpg\r\n\r\n福田真琳",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22004",
+            "material_title": "S__49692733.jpg",
+            "material_file": "6293123095f0afbd23f4aa0b4edfa6626be2efa5f39791d8534ee06f472ff12622004.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22004_cff616c5.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cff616c52cf3c3418d3c7e7530767d7a&material_file=6293123095f0afbd23f4aa0b4edfa6626be2efa5f39791d8534ee06f472ff12622004.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "26945"
+      }
+    },
+    {
+      "category": {
+        "idx": 4,
+        "category_id": "209",
+        "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "26945",
+        "content_title": "千秋楽！",
+        "content_sub_title": "土居楓奏",
+        "category_id": "209",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-28 13:19:33",
+        "updated_at": "2026-09-28 13:19:33",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22005",
+            "material_title": "S__147120134.jpg",
+            "material_file": "c075e098ba69f4e513c1f5fe3d17090d815689448c546deca6c17e551d72cf3c22005.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26945",
+        "content_title": "千秋楽！",
+        "content_sub_title": "土居楓奏",
+        "category_id": "209",
+        "release_date": "2026-09-23 00:00:00",
+        "created_at": "2026-09-28 13:19:33",
+        "updated_at": "2026-09-28 13:19:33",
+        "is_new": 0,
+        "content_text": "リコピンパワー！！\r\nつばきファクトリーの土居楓奏（どいふうか）です！！\r\n\r\nつばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～\r\n\r\n大阪公演が終了しました〜\r\n\r\nそして！千秋楽でした。！\r\n\r\n今回のツアーは、つばきバンドの皆さんと一緒に東名阪を回らせていただいて、音楽ってこんなに楽しんだ！と実感することが出来ましたし\r\n\r\n自分自身もまた\r\n皆さんに、新しい一面をお見せできるツアーに出来たんじゃないかなと思いました！！\r\n\r\n11人全員欠けることなく、無事6公演迎えられることが出来て、良かったなぁと思います！！\r\n\r\n大阪公演は、メンバーもファンの皆さんも\r\n涙と笑顔でいっぱいで、とっても愛と幸せに満ちた空間でした。！！\r\n\r\n秋山さんと一緒に立つステージが大好きだなと改めて感じました！！！\r\n\r\n秋ツアー残すところあと、日本武道館公演のみ\r\n\r\nまた成長した自分を見せれるように！\r\n笑顔いっぱいで秋山さんを見送れるように！\r\n\r\n残りの時間、精一杯頑張っていきたいと思います！！\r\n\r\n日本武道館きてね！！！待ってます！！\r\n\r\nほなまたーー！\r\n\r\nS__147120134.jpg",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22005",
+            "material_title": "S__147120134.jpg",
+            "material_file": "c075e098ba69f4e513c1f5fe3d17090d815689448c546deca6c17e551d72cf3c22005.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22005_cff616c5.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cff616c52cf3c3418d3c7e7530767d7a&material_file=c075e098ba69f4e513c1f5fe3d17090d815689448c546deca6c17e551d72cf3c22005.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26944",
+        "next_id": "26943"
+      }
+    },
+    {
+      "category": {
+        "idx": 4,
+        "category_id": "209",
+        "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "26943",
+        "content_title": "バンドあいちてるっ",
+        "content_sub_title": "村田結生",
+        "category_id": "209",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-28 13:15:08",
+        "updated_at": "2026-09-28 13:15:08",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22003",
+            "material_title": "S__148062213.jpg",
+            "material_file": "c65f84984f844e4985ba619c84ff32b34ab074f1bf40024cdff11ed22e3f80bb22003.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26943",
+        "content_title": "バンドあいちてるっ",
+        "content_sub_title": "村田結生",
+        "category_id": "209",
+        "release_date": "2026-09-22 00:00:00",
+        "created_at": "2026-09-28 13:15:08",
+        "updated_at": "2026-09-28 13:15:08",
+        "is_new": 0,
+        "content_text": "やっほー！村田結生です！\r\n秋ツアーin愛知ありがとうございました！\r\nつばき×生バンド、ついに愛知進出！いえい！\r\n\r\nライブハウスでみんなとの距離が近いからみんなのコールの熱量がダイレクトに体に伝わったしつばきバンドの皆さんのアレンジも最高で大盛り上がりな公演でした♡\r\n\r\nメンバーにもつばきバンドのみなさんにもおすすめの栗きんとんを差し入れできて嬉しかったな〜\r\n\r\nまたつばき×生バンドを愛知県でできますように！\r\n武道館がんばるっ\r\n\r\nS__148062213.jpg",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22003",
+            "material_title": "S__148062213.jpg",
+            "material_file": "c65f84984f844e4985ba619c84ff32b34ab074f1bf40024cdff11ed22e3f80bb22003.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22003_cff616c5.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cff616c52cf3c3418d3c7e7530767d7a&material_file=c65f84984f844e4985ba619c84ff32b34ab074f1bf40024cdff11ed22e3f80bb22003.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26945",
+        "next_id": "26942"
+      }
+    },
+    {
+      "category": {
+        "idx": 4,
+        "category_id": "209",
+        "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 4,
+        "content_id": "26942",
+        "content_title": "あいちてる♪",
+        "content_sub_title": "小野田紗栞",
+        "category_id": "209",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-28 13:07:56",
+        "updated_at": "2026-09-28 13:17:25",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22002",
+            "material_title": "S__142647498.jpg",
+            "material_file": "70ec0b5613c0e6999200ef2c5ed20d035dec6384233cba9fdab89b93a00c133522002.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26942",
+        "content_title": "あいちてる♪",
+        "content_sub_title": "小野田紗栞",
+        "category_id": "209",
+        "release_date": "2026-09-21 00:00:00",
+        "created_at": "2026-09-28 13:07:56",
+        "updated_at": "2026-09-28 13:17:25",
+        "is_new": 0,
+        "content_text": "ちょびっとだけ凱旋だった、さおりです♪\n\n今日は、愛知県で秋ツアーがありました！\n\n村田結生©の凱旋公演だったよー！\nさおりは、準凱旋として「おかえりー！」を一緒に言わせていただきました！！！！\n\nありがとおー☆\n\nみんなで大合唱したり、手遊びしたり、、、\nなんだか盛り沢山なツアーだったな！\n\n2部あるので、2部の前は栄養ドリンク飲んでがんばったー！！\n\n栄養ドリンクに頼りがち！笑\n\n次は！大阪でツアー！！！！\n\n秋山眞緒©とステージに立てる回数も限られてきているので、、、\n\n後悔のないように全力で楽しみたいと思います！！！\n\nそして！\n10月26日は日本武道館でコンサート！\nまーーってるよおーー！☆\n\n\n今日も、さおりの自撮りです♪\n\nS__142647498.jpg\n\nバイバイ♡",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22002",
+            "material_title": "S__142647498.jpg",
+            "material_file": "70ec0b5613c0e6999200ef2c5ed20d035dec6384233cba9fdab89b93a00c133522002.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22002_cff616c5.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cff616c52cf3c3418d3c7e7530767d7a&material_file=70ec0b5613c0e6999200ef2c5ed20d035dec6384233cba9fdab89b93a00c133522002.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26943",
+        "next_id": "26909"
+      }
+    },
+    {
+      "category": {
+        "idx": 4,
+        "category_id": "209",
+        "category_title": "つばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 7,
+        "content_id": "26946",
+        "content_title": "初日東京！",
+        "content_sub_title": "石井泉羽",
+        "category_id": "209",
+        "release_date": "2026-09-11 00:00:00",
+        "created_at": "2026-09-28 13:22:23",
+        "updated_at": "2026-09-28 13:22:23",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22006",
+            "material_title": "S__131514421.jpg",
+            "material_file": "23f02b83c71bc7538c73dd912a01177c2129748dc432cbb556d25b6791133b5622006.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26946",
+        "content_title": "初日東京！",
+        "content_sub_title": "石井泉羽",
+        "category_id": "209",
+        "release_date": "2026-09-11 00:00:00",
+        "created_at": "2026-09-28 13:22:23",
+        "updated_at": "2026-09-28 13:22:23",
+        "is_new": 0,
+        "content_text": "みはみは〜！<img src=\"/emoji/emoji-images/f6c7.gif\"/>\r\n\r\n石井 泉羽(いしい みはね)です！\r\n\r\nつばきファクトリー CONCERT TOUR 2026 AUTUMN ～Bloomy Groovy Story～ 初日東京公演でした！！\r\n\r\n楽しすぎました！\r\n\r\n今回の秋ツアーはバンド構成となっていて、バンドライブならではのアレンジになっていたり、\r\n\r\n衣装も秋山さんの赤、秋っぽい赤、の素敵な衣装となっております(*^ω^*)\r\n\r\nつばきバンドさんもほんとにほんとにみなさんかっこよくて、可愛くて一緒にツアーができる事、感謝です、\r\n\r\nこの秋ツアーで少しでも石井も成長していけるように頑張ります！\r\n\r\n最高に楽しいバンド秋ツアー、\r\n10月26日の武道館公演も楽しく、かっこよく、可愛く、最高のライブにしたいと思います、\r\n\r\nつばきバンドさん、そしてつばきファクトリーみんなで10月26日、武道館で待ってます(*^ω^*)\r\nみーんなの思い出に残る素敵なライブにしましょ\r\n(*^ω^*)\r\n\r\nそれでは皆さん！今日も一日おつかレッサーレッサーです！\r\n\r\nS__131514421.jpg",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22006",
+            "material_title": "S__131514421.jpg",
+            "material_file": "23f02b83c71bc7538c73dd912a01177c2129748dc432cbb556d25b6791133b5622006.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22006_cff616c5.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=cff616c52cf3c3418d3c7e7530767d7a&material_file=23f02b83c71bc7538c73dd912a01177c2129748dc432cbb556d25b6791133b5622006.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26910",
+        "next_id": "-1"
+      }
+    },
+    {
+      "category": {
+        "idx": 6,
+        "category_id": "211",
+        "category_title": "ロージークロニクル ライブツアー2026 ～BOOKMARK～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "27030",
+        "content_title": "千秋楽！",
+        "content_sub_title": "上村麗菜",
+        "category_id": "211",
+        "release_date": "2026-09-29 00:00:00",
+        "created_at": "2026-09-29 16:19:42",
+        "updated_at": "2026-09-29 16:19:42",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22104",
+            "material_title": "S__105316395.jpg",
+            "material_file": "680ef094f9b157bbd67a10d7cb8e7a1d4be128024b71584f5a81242edf024d2222104.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "27030",
+        "content_title": "千秋楽！",
+        "content_sub_title": "上村麗菜",
+        "category_id": "211",
+        "release_date": "2026-09-29 00:00:00",
+        "created_at": "2026-09-29 16:19:42",
+        "updated_at": "2026-09-29 16:19:42",
+        "is_new": 0,
+        "content_text": "ロージークロニクルの上村麗菜です。\r\n\r\n\r\nロージークロニクルライブツアー\r\n2026〜BOOKMARK〜\r\n名古屋で千秋楽でした！\r\n\r\nとても楽しいツアーでした、\r\n花道があったりセットリストでも\r\n皆さんに楽しんで頂けたと思います！\r\n\r\nすごく印象に残っているのは\r\nハロプロ研修生曲をカバーしたブロックです\r\n私は加入同期のひのはと\"悪いヒト\"を\r\n披露させていただきました！\r\n研修生時代には歌ってこなかったパートも歌えたりフェイクにも挑戦したり\r\nなにより研修生時代に着ていた衣装をまた着ることができて嬉しかったです！\r\nお写真も研修生衣装のものです\r\n\r\nS__105316395.jpg\r\n\r\n千秋楽とても感動しました\r\nメンバーと皆さんの笑顔が大好きです\r\n\r\n皆さんの声援があって熱気あるライブが完成しました、いつも支えられています\r\n応援してくださりありがとうございます！\r\n\r\n10月からは秋ツアーも始まりますので\r\nぜひお待ちしております♡\r\n\r\n上村麗菜",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "22104",
+            "material_title": "S__105316395.jpg",
+            "material_file": "d1f5b0d4c85a67256bb65a92552e95399f6486ab9e5f866e6a1870a60431faee22104.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22104_d822d687.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=d822d68754bc7913071089f298f614e4&material_file=d1f5b0d4c85a67256bb65a92552e95399f6486ab9e5f866e6a1870a60431faee22104.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "27029"
+      }
+    },
+    {
+      "category": {
+        "idx": 6,
+        "category_id": "211",
+        "category_title": "ロージークロニクル ライブツアー2026 ～BOOKMARK～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 2,
+        "content_id": "27029",
+        "content_title": "やり切った！",
+        "content_sub_title": "小野田華凜",
+        "category_id": "211",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 16:17:47",
+        "updated_at": "2026-09-29 16:17:47",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22103",
+            "material_title": "S__105316393.jpg",
+            "material_file": "57118b131b4e8060bdb204cbe8275e5e11b01909498aee60dd5fcd007155306622103.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27029",
+        "content_title": "やり切った！",
+        "content_sub_title": "小野田華凜",
+        "category_id": "211",
+        "release_date": "2026-09-28 00:00:00",
+        "created_at": "2026-09-29 16:17:47",
+        "updated_at": "2026-09-29 16:17:47",
+        "is_new": 0,
+        "content_text": "こんにちは\r\n小野田華凜です\r\n\r\n『ロージークロニクル ライブツアー2026 ～BOOKMARK～』\r\n名古屋COMTEC PORTBASEでのライブが終了しました\r\n千秋楽でした\r\n\r\n会場にお越しくださった方も、遠くから応援してくださった方も、皆さま本当にありがとうございました\r\n\r\nステージにミニ花道があったので、\r\nいつもより皆さんの近くに行くことができて表情までよく見えました\r\n楽しそうな様子や真剣な表情が分かって、\r\nいつも以上に皆さんの感情が伝わってきました\r\n\r\n\r\nBOOKMARKツアー、どの公演も本当に楽しかったです\r\n毎公演、自分がそのとき持っている最大限の力を出せたと思います\r\n\r\nみんなでたくさん準備してきたものを、ライブの一瞬に詰め込みました\r\n今の私たちを全部出し切りたかった\r\nツアーを終えてみて「やり切った！」と思っています！\r\n\r\n\r\n公演の途中で、ハロプロ研修生楽曲をメドレーでお届けしました\r\nかりんは松原ユリヤちゃんと\r\n『おへその国からこんにちは』をパフォーマンスしました\r\n\r\nS__105316393.jpg\r\n\r\n2人だけでどうやって迫力を出すか、ユリヤちゃんと何度も話し合いました\r\nここはもっと飛び跳ねよう！\r\nここは機械っぽく歌おう！\r\n歌い方やダンスを細かく合わせながら練習しました\r\n今の2人だからできる『おへその国からこんにちは』になっていたでしょうか\r\n\r\n今回のツアーは、ユリヤちゃんと2人で過ごす時間が多かった気がします\r\nなぜかは分からないけど、ユリヤちゃんには気を遣わずにいろんなことを話せます\r\n\r\nどんなことも冷静に受け止められる達観したところがあって、すごく大人だと思う\r\n話していると「そんな考え方もあるんだ」って感じることがたくさんあります！\r\n\r\n\r\nBOOKMARKツアーは終わりましたが\r\nロージークロニクルはまだまだ進みます\r\n\r\n10月4日からはBlueprintツアーがスタートします！\r\n\r\n\r\nこれからもずっと、何年後、何十年後もロージーと一緒にいてくれたら嬉しいな<img src=\"/emoji/emoji-images/4530.gif\"/>\r\nかりんも頑張ります\r\n\r\nBOOKMARKツアーを応援してくださった皆さま、本当にありがとうございました！",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "22103",
+            "material_title": "S__105316393.jpg",
+            "material_file": "8de92b9aa3070ad6f820c60e061b285d22763b49007b066658572be1c873acbf22103.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22103_d822d687.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=d822d68754bc7913071089f298f614e4&material_file=8de92b9aa3070ad6f820c60e061b285d22763b49007b066658572be1c873acbf22103.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27030",
+        "next_id": "27028"
+      }
+    },
+    {
+      "category": {
+        "idx": 6,
+        "category_id": "211",
+        "category_title": "ロージークロニクル ライブツアー2026 ～BOOKMARK～",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 3,
+        "content_id": "27028",
+        "content_title": "感謝してもしきれない。",
+        "content_sub_title": "橋田歩果",
+        "category_id": "211",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 16:14:55",
+        "updated_at": "2026-09-29 16:14:55",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "cff616c52cf3c3418d3c7e7530767d7a",
+            "material_id": "22102",
+            "material_title": "S__105316391.jpg",
+            "material_file": "fa637e536047871b859a9af811683c884ebe1b9c6a1fb1864b58bd11f3e1f0af22102.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "27028",
+        "content_title": "感謝してもしきれない。",
+        "content_sub_title": "橋田歩果",
+        "category_id": "211",
+        "release_date": "2026-09-27 00:00:00",
+        "created_at": "2026-09-29 16:14:55",
+        "updated_at": "2026-09-29 16:14:55",
+        "is_new": 0,
+        "content_text": "橋田歩果です♡\r\n\r\n今日は\r\n\r\nロージークロニクル ライブツアー2026 BOOKMARK\r\n\r\n千秋楽!!\r\n\r\n終わっちゃったよぉ<img src=\"/emoji/emoji-images/5031.gif\"/>\r\n\r\nなんかね\r\n今までのツアーのセトリも大好きだけど\r\n今回もセトリはロージークロニクルならではな感じがして\r\n特別な思いがこもったツアーだったなって思います!\r\n\r\nでも!\r\n声を治せなかったのがすっごく悔しい!!!\r\n\r\n2日前くらいから少し喉に違和感があって\r\n前日のリリイベで嫌な予感はしてたんだけど\r\n治せなかった<img src=\"/emoji/emoji-images/5031.gif\"/>\r\n\r\nでもね\r\nメンバーのみんなが\r\n大丈夫だよ!\r\nとか\r\nここ歌わないで自分の喉優先していいよ!\r\nとか言ってくれて\r\n本当になんて優しいメンバーなんだと思いました<img src=\"/emoji/emoji-images/5033.gif\"/>\r\n\r\nみんなのおかげで\r\n自分のソロはしっかり歌って\r\n無事千秋楽を終えることができました!\r\n\r\n本当に余韻が!!\r\nすごい!!!\r\n\r\n帰りはみんなで炭酸ジュース飲んで帰ったよ♡\r\n\r\nもうすぐ次のツアーが始まるので\r\n気持ちを切り替えて!準備してまいります!!\r\n\r\nたのしみーヽ(*>□<*)ﾉ\r\n\r\nまたね<img src=\"/emoji/emoji-images/f693.gif\"/>\r\n\r\nS__105316391.jpg",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "22102",
+            "material_title": "S__105316391.jpg",
+            "material_file": "78b356270410fad986eca0f866f0f2fbe0bcbdd2ee08eebcbc6ec81064bbf92722102.jpeg",
+            "saved": {
+              "local_path": "assets/materials/22102_d822d687.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=d822d68754bc7913071089f298f614e4&material_file=78b356270410fad986eca0f866f0f2fbe0bcbdd2ee08eebcbc6ec81064bbf92722102.jpeg"
+            }
+          }
+        ],
+        "previous_id": "27029",
+        "next_id": "26913"
+      }
+    },
+    {
+      "category": {
+        "idx": 7,
+        "category_id": "205",
+        "category_title": "ハロ！コン 2026",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 1,
+        "content_id": "26927",
+        "content_title": "バラライカ",
+        "content_sub_title": "石山咲良",
+        "category_id": "205",
+        "release_date": "2026-09-10 00:00:00",
+        "created_at": "2026-09-24 19:18:43",
+        "updated_at": "2026-09-24 19:18:43",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "21985",
+            "material_title": "S__565035019.jpg",
+            "material_file": "220d82384aefeb495aaa83b7bfaff23809425bc8aaf505302fa2516137f3869421985.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 1,
+        "content_id": "26927",
+        "content_title": "バラライカ",
+        "content_sub_title": "石山咲良",
+        "category_id": "205",
+        "release_date": "2026-09-10 00:00:00",
+        "created_at": "2026-09-24 19:18:43",
+        "updated_at": "2026-09-24 19:18:43",
+        "is_new": 0,
+        "content_text": "こんにちは〜<img src=\"/emoji/emoji-images/476c.gif\"/>\r\n\r\n\r\nハロ！コン\r\n千秋楽迎えて1ヶ月くらい経ちましたね〜\r\n\r\n\r\n早かったし今年のハロ！コンも\r\nあっという間に終わっちゃったな\r\n\r\n\r\n\r\n今回のハロ！コンは\r\nシャッフルユニットで「バラライカ」を\r\nパフォーマンスしました！！\r\n\r\n\r\n\r\nすごくかわいいオレンジ衣装で\r\nJuiceではにいなと一緒の\r\nユニットだったんだけど\r\n二人でどっちが低い体制になれるか\r\n対決したりしてました笑\r\n\r\n\r\n\r\n\r\nすごく楽しかったです！\r\n今年のハロ！コンも\r\nありがとうございました！！\r\n\r\n\r\n\r\n❁⃘*今日の咲良のヒトリゴト❁⃘*\r\n(^_−)−☆ \r\n\r\n皆さんの幸せの花が良く咲きますように*.ﾟ\r\n\r\nS__565035019.jpg",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "21985",
+            "material_title": "S__565035019.jpg",
+            "material_file": "220d82384aefeb495aaa83b7bfaff23809425bc8aaf505302fa2516137f3869421985.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21985_d822d687.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=d822d68754bc7913071089f298f614e4&material_file=220d82384aefeb495aaa83b7bfaff23809425bc8aaf505302fa2516137f3869421985.jpeg"
+            }
+          }
+        ],
+        "previous_id": "-1",
+        "next_id": "26791"
+      }
+    },
+    {
+      "category": {
+        "idx": 7,
+        "category_id": "205",
+        "category_title": "ハロ！コン 2026",
+        "category_content": "",
+        "category_color": "#FFFFFF",
+        "menu_id": "2",
+        "is_new": "0"
+      },
+      "list": {
+        "idx": 18,
+        "content_id": "26926",
+        "content_title": "Day1",
+        "content_sub_title": "入江里咲",
+        "category_id": "205",
+        "release_date": "2026-08-08 00:00:00",
+        "created_at": "2026-09-24 19:16:00",
+        "updated_at": "2026-09-24 19:16:00",
+        "is_new": "0",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "21984",
+            "material_title": "S__565035017.jpg",
+            "material_file": "da5ca098d033a3813a2b434e3b96016430b3568055e4cfed7b00788d38a8706b21984.jpeg"
+          }
+        ]
+      },
+      "detail": {
+        "idx": 2,
+        "content_id": "26926",
+        "content_title": "Day1",
+        "content_sub_title": "入江里咲",
+        "category_id": "205",
+        "release_date": "2026-08-08 00:00:00",
+        "created_at": "2026-09-24 19:16:00",
+        "updated_at": "2026-09-24 19:16:00",
+        "is_new": 0,
+        "content_text": "入江里咲です！\r\n\r\n\r\n「ハロ！コン2026」TOYOTA AREANA公演1日目が終了しました！\r\n\r\n\r\nホール公演から曲数が増えたり、\r\n豪華な特効もたくさんあって\r\n\r\n夏のお祭りでしたねー！！\r\n\r\n\r\n\r\n2日目も楽しみます♪\r\n\r\n\r\nS__565035017.jpg\r\n\r\nシャッフルユニット衣装<img src=\"/emoji/emoji-images/f7ea.gif\"/>\r\n\r\nオーロラのリボンがお気に入りです\r\n\r\n\r\n\r\n\r\nそれでは！明日もがんばりさ〜",
+        "materials": [
+          {
+            "secretKey": "d822d68754bc7913071089f298f614e4",
+            "material_id": "21984",
+            "material_title": "S__565035017.jpg",
+            "material_file": "da5ca098d033a3813a2b434e3b96016430b3568055e4cfed7b00788d38a8706b21984.jpeg",
+            "saved": {
+              "local_path": "assets/materials/21984_d822d687.jpeg",
+              "bytes": 61362,
+              "content_type": "image/png",
+              "source_url": "http://helloproject-mobile.com/materials/viewer?secretKey=d822d68754bc7913071089f298f614e4&material_file=da5ca098d033a3813a2b434e3b96016430b3568055e4cfed7b00788d38a8706b21984.jpeg"
+            }
+          }
+        ],
+        "previous_id": "26894",
+        "next_id": "26734"
       }
     }
   ],

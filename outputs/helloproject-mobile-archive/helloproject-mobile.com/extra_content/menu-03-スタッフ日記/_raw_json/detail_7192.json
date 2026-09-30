@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 588,
+    "content_id": "7192",
+    "content_title": "イベント開催結果は…",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-08-02 23:37:00",
+    "created_at": "2017-08-02 23:33:38",
+    "updated_at": "2017-08-02 23:38:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6321",
+        "material_title": "170725_2.jpg",
+        "material_file": "28a61932a0d0159a7ccf8862fcd90354bdedb6dff1b5688e0811dd75de2780e46321.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7192",
+    "content_title": "イベント開催結果は…",
+    "content_sub_title": "",
+    "release_date": "2017-08-02 23:37:00",
+    "created_at": "2017-08-02 23:33:38",
+    "updated_at": "2017-08-02 23:38:01",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n皆さん、ハロ！モバ宣伝部が宣伝部イベント開催をかけて、メールを募っていた事はご存知ですか？\n\nハロ！モバ会員の皆さんからメールを1000通集める事が出来たら、イベントを開催出来るというこの企画！\n\n去年の秋にも同じ企画を行いましたが、結果は1000通集まらずイベント開催成らずだったんです。\n\nハロー！ラジオ「宣伝会議」第16回の番組内で発表していますが…\nこのスタッフ日記でも開催結果を発表します！\n\n(ラジオを聴いている方や、メンバーブログをご覧の方はもうご存知ですよね。)\n\n\n結果は…\n\n\n\nなんと…\n\n\n\n<b>1216通集まりました！！\n\nイベント開催決定です！！</b>\n\n\n「宣伝会議 議事録#16」のスタッフ日記にアップしている画像では、実は集まったメールの数を指であらわしていたんですね。\n↓\n170725_2.jpg\n\nメールを送って下さった方々、ありがとうございました。\n\nメールを送り忘れた…という方も、イベント参加のチャンスはあります。\n\nイベントの詳細に関しては、決まり次第お知らせしますのでお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6321",
+        "material_title": "170725_2.jpg",
+        "material_file": "1b6bc4179e3cb38c03d38295ba2dea4786a3e9bdd59abbcbac6b8fabd9d738f66321.jpeg"
+      }
+    ],
+    "previous_id": "7211",
+    "next_id": "7076",
+    "saved_materials": [
+      "assets/7192_6321_170725_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 22,
+    "content_id": "26034",
+    "content_title": "にいな！",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2026-04-21 10:00:00",
+    "created_at": "2026-04-03 14:55:39",
+    "updated_at": "2026-04-03 14:55:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21308",
+        "material_title": "0421_arisawa_s.jpg",
+        "material_file": "026ae68afd1b8b9a8254c5be763b4545747dcdb0e31399a06b86e19e29467dcb21308.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26034",
+    "content_title": "にいな！",
+    "content_sub_title": "有澤一華",
+    "release_date": "2026-04-21 10:00:00",
+    "created_at": "2026-04-03 14:55:39",
+    "updated_at": "2026-04-03 14:55:39",
+    "content_text": "0421_arisawa_s.jpg\r\nこんちくわ\r\n\r\nにいなはとてもお喋りで楽しいです\r\n\r\n楽屋ではメンバー全員に話しかけに行っていてとても面白い子です\r\n\r\n\r\nかわいいですねえ\r\n\r\n\r\n私もたくさんの人に喋りかけてみたい、、！！！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21308",
+        "material_title": "0421_arisawa_s.jpg",
+        "material_file": "54dbefc05aa841f20619ad588f66cc6131370318b908862604dbd361599c2df521308.jpeg"
+      }
+    ],
+    "previous_id": "26379",
+    "next_id": "26033",
+    "saved_materials": [
+      "assets/26034_21308_0421_arisawa_s.jpg"
+    ]
+  }
+}

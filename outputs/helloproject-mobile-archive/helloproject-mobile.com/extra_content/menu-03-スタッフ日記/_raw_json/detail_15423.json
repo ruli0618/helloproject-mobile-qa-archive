@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 302,
+    "content_id": "15423",
+    "content_title": "工藤の家の屋根裏部屋#82前編～植村あかり～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-02-05 12:32:00",
+    "created_at": "2021-02-05 12:31:04",
+    "updated_at": "2021-02-10 16:03:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12847",
+        "material_title": "20210204_s.jpg",
+        "material_file": "49597d4bfebff4ec6a09b11f337d8f56f18245b22348dbcefb62241a164a8d3512847.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15423",
+    "content_title": "工藤の家の屋根裏部屋#82前編～植村あかり～",
+    "content_sub_title": "",
+    "release_date": "2021-02-05 12:32:00",
+    "created_at": "2021-02-05 12:31:04",
+    "updated_at": "2021-02-10 16:03:15",
+    "content_text": "ふくむらの部屋 第82回前編配信中！\n\nふくむらの部屋には、約3年ぶりの出演。\nJuice=Juice植村あかりさんがゲストに来てくれました。\n\n好きなチョコのお話から、\n22歳どうなりたいか＆22歳の思い出、\n加入時の心境、好きな数字の共通点等など…\n\n20210204_s.jpg\n\n「ハロプロファン失敗談」のコーナーでは、\nファンの方ならあるあると言ってしまいそうな事から、まさかの事態まで！\n\nぜひ聴いてみてくださいね♬\n\n次回、後編は2/9(火)の配信になります。\n\nそして現在、アンジュルム川村文乃さんゲスト回のメールを、2/15(月)13:00まで募集中！\n\n件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>宛にお送りください。\n\n沢山のお便りお待ちしています！",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12847",
+        "material_title": "20210204_s.jpg",
+        "material_file": "0b818bbb8725e87e18bdabd191ad52369a6e22356ca72e511fa77d539ddb448c12847.jpeg"
+      }
+    ],
+    "previous_id": "15446",
+    "next_id": "15420",
+    "saved_materials": [
+      "assets/15423_12847_20210204_s.jpg"
+    ]
+  }
+}

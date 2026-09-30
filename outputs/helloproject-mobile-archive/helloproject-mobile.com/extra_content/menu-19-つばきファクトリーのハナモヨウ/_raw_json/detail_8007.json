@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 132,
+    "content_id": "8007",
+    "content_title": "成長中",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2017-11-28 11:00:00",
+    "created_at": "2017-11-27 18:37:47",
+    "updated_at": "2017-11-27 18:37:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7055",
+        "material_title": "171128_tanimoto_s.jpg",
+        "material_file": "8eebd92ee33b27ec2aff5f72dddefeda7ef8d093da897f900c80765634c9dc627055.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8007",
+    "content_title": "成長中",
+    "content_sub_title": "谷本安美",
+    "release_date": "2017-11-28 11:00:00",
+    "created_at": "2017-11-27 18:37:47",
+    "updated_at": "2017-11-27 18:37:47",
+    "content_text": "171128_tanimoto_s.jpg\r\nピンクの可愛らしいお花をみつけました！\r\nまだ花びらが開ききってなかったけど、ちゃんと開いたらキレイなんだろうな〜",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "7055",
+        "material_title": "171128_tanimoto_s.jpg",
+        "material_file": "0040b6480c944ecf3718232c06bfbfc12bf8b0d2259b75fd046584c75c78673d7055.jpeg"
+      }
+    ],
+    "previous_id": "8127",
+    "next_id": "7956",
+    "saved_materials": [
+      "assets/8007_7055_171128_tanimoto_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 851,
+    "content_id": "5355",
+    "content_title": "虫／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-09-20 17:05:00",
+    "created_at": "2016-09-20 17:07:28",
+    "updated_at": "2016-09-20 17:08:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4820",
+        "material_title": "4888413947146_s.jpg",
+        "material_file": "0a66c9105137096656c3b2c469972fce0f0bbbf80e968a1b73a175419ba570ea4820.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5355",
+    "content_title": "虫／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2016-09-20 17:05:00",
+    "created_at": "2016-09-20 17:07:28",
+    "updated_at": "2016-09-20 17:08:09",
+    "content_text": "4888413947146_s.jpg\r\n夏は虫がいっぱいですね。\r\n撮影中もたくさん虫がいましたよー",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4820",
+        "material_title": "4888413947146_s.jpg",
+        "material_file": "4633dcf84ea08edb983c1722d5b25e19b2983805ccbb805b94d7ebe540247da94820.jpeg"
+      }
+    ],
+    "previous_id": "5358",
+    "next_id": "5334",
+    "saved_materials": [
+      "assets/5355_4820_4888413947146_s.jpg"
+    ]
+  }
+}

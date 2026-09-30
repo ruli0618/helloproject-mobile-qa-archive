@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 701,
+    "content_id": "9603",
+    "content_title": "ヤギ",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-08-02 11:00:00",
+    "created_at": "2018-07-27 17:41:49",
+    "updated_at": "2018-07-27 17:47:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8396",
+        "material_title": "0802_miyazaki_s.jpg",
+        "material_file": "7454307c5038218ff487b8b86eefcdcff7ef30b813e9408ea99373328b38139a8396.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9603",
+    "content_title": "ヤギ",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-08-02 11:00:00",
+    "created_at": "2018-07-27 17:41:49",
+    "updated_at": "2018-07-27 17:47:46",
+    "content_text": "0802_miyazaki_s.jpg\r\n撮影で動物園にいきました！ヤギの声真似をしたけど反応なしでした。",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8396",
+        "material_title": "0802_miyazaki_s.jpg",
+        "material_file": "2e61872f83d5020ef3b858f37fead15faf749d118d4fc41020e161196a50290e8396.jpeg"
+      }
+    ],
+    "previous_id": "9633",
+    "next_id": "9602",
+    "saved_materials": [
+      "assets/9603_8396_0802_miyazaki_s.jpg"
+    ]
+  }
+}

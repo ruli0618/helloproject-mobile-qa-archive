@@ -1,0 +1,78 @@
+[
+  {
+    "idx": 1,
+    "content_id": "13071",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "工藤由愛",
+    "category_id": "111",
+    "release_date": "2020-02-13 16:00:00",
+    "created_at": "2020-02-13 16:47:25",
+    "updated_at": "2020-02-13 17:13:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "11111",
+        "material_title": "04_kudo.jpg",
+        "material_file": "1e2c50936495b6781f820e1c544716472a0d2b4b7f9798584a0730ca7d3d977211111.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 2,
+    "content_id": "12911",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "111",
+    "release_date": "2020-01-23 12:00:00",
+    "created_at": "2020-01-23 10:18:40",
+    "updated_at": "2020-01-23 12:03:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "10926",
+        "material_title": "03_kiyono.jpg",
+        "material_file": "90539cf72b110d6133d20c414ec1f65c5a17dfdfb302bf984338b811011d731110926.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 3,
+    "content_id": "12535",
+    "content_title": "アンジュルム",
+    "content_sub_title": "笠原桃奈",
+    "category_id": "111",
+    "release_date": "2019-12-09 15:00:00",
+    "created_at": "2019-11-22 14:41:49",
+    "updated_at": "2019-12-09 15:03:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "10630",
+        "material_title": "02_kasahara.jpg",
+        "material_file": "a880940f71e731a8445be906b87caed354ee41d2f1d68a64074840158c89034610630.jpeg"
+      }
+    ]
+  },
+  {
+    "idx": 4,
+    "content_id": "12534",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "category_id": "111",
+    "release_date": "2019-11-28 15:00:00",
+    "created_at": "2019-11-22 14:37:03",
+    "updated_at": "2019-11-28 15:18:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "10629",
+        "material_title": "01_nonaka.jpg",
+        "material_file": "d228e64a30ae0803428d2b81dd72ef76a39bfc0381dc1133c5647dd1e5dc97d510629.jpeg"
+      }
+    ]
+  }
+]

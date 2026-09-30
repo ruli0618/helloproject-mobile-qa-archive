@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 130,
+    "content_id": "15643",
+    "content_title": "今回も♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2021-03-15 19:09:00",
+    "created_at": "2021-03-15 19:10:05",
+    "updated_at": "2021-03-15 19:10:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13023",
+        "material_title": "210315_onoda_s.jpg",
+        "material_file": "29ae467703d5cc87f37a48d056c3dc4207726358d8a420bc4934d513d152f02e13023.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15643",
+    "content_title": "今回も♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2021-03-15 19:09:00",
+    "created_at": "2021-03-15 19:10:05",
+    "updated_at": "2021-03-15 19:10:05",
+    "content_text": "最近、板チョコが食べたくなるさおりです♪\r\n\r\nさおりは、まだヘアアレンジが苦手なので、、、\r\n\r\n今回のハロコンも、巻き髪に挑戦しています！！！\r\n\r\n色んなヘアアレンジが出来るようになるためにも、\r\n\r\nまずは巻き髪を練習します！！\r\n\r\nがんばるぞー！\r\n\r\n\r\n今日も、さおりの写真です♪\r\n\r\n210315_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13023",
+        "material_title": "210315_onoda_s.jpg",
+        "material_file": "c438e75f95e4084a2575bf029ef9585e2cd89855cb339086e7899bf8de8fb57913023.jpeg"
+      }
+    ],
+    "previous_id": "15655",
+    "next_id": "15638",
+    "saved_materials": [
+      "assets/15643_13023_210315_onoda_s.jpg"
+    ]
+  }
+}

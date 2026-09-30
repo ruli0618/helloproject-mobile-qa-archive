@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 439,
+    "content_id": "10853",
+    "content_title": "隣のやじまん家の塀の裏#41 浜浦彩乃",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-12 20:30:00",
+    "created_at": "2019-02-12 20:30:48",
+    "updated_at": "2019-02-12 20:31:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9320",
+        "material_title": "0212_s.jpg",
+        "material_file": "29a3710715aa4a3bff4bce11971390aaf6d79ea5e92ef02904d0b5be72c97af79320.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10853",
+    "content_title": "隣のやじまん家の塀の裏#41 浜浦彩乃",
+    "content_sub_title": "",
+    "release_date": "2019-02-12 20:30:00",
+    "created_at": "2019-02-12 20:30:48",
+    "updated_at": "2019-02-12 20:31:57",
+    "content_text": "隣のやじまん家#41本日より配信開始！\r\n\r\n今回のゲストは、\r\nこぶしファクトリー浜浦彩乃さんが登場！\r\n\r\nこぶしファクトリーのアカペラや演奏出来る楽器について、\r\n初詣、カウントダウンライブのエピソード、\r\n好きなお鍋やペット、親戚の子供の話などなど！\r\n\r\n2人がオーディションを受けたきっかけは必聴です！\r\n\r\n「妄想スピーチ」では、バレンタインにぴったりなストーリーを、\r\n「アクトレス矢島」では、帰ってきた浜ちゃん大佐を披露！\r\n\r\n0212_s.jpg\r\n\r\n2人でラーメンポーズ♪\r\n\r\n次回もお楽しみに！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\r\n「今月のハッピーバースデー♪」「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。",
+    "materials": [
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9320",
+        "material_title": "0212_s.jpg",
+        "material_file": "a22a7b43eaaaa7b40e3566f47f8a72bacbc6a9a4971cdbfe6da9d7a11a1da8c59320.jpeg"
+      }
+    ],
+    "previous_id": "10855",
+    "next_id": "10803",
+    "saved_materials": [
+      "assets/10853_9320_0212_s.jpg"
+    ]
+  }
+}

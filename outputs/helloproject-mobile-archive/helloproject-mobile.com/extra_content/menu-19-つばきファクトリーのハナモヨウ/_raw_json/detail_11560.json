@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 47,
+    "content_id": "11560",
+    "content_title": "初めてみた！",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2019-06-05 16:25:00",
+    "created_at": "2019-06-04 16:25:28",
+    "updated_at": "2019-06-04 16:25:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9872",
+        "material_title": "0605_tanimoto_s.jpg",
+        "material_file": "fa2123a2b4e1789d15adf9b317329cd880fffc00452715c4eb80ab971ed066439872.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11560",
+    "content_title": "初めてみた！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2019-06-05 16:25:00",
+    "created_at": "2019-06-04 16:25:28",
+    "updated_at": "2019-06-04 16:25:28",
+    "content_text": "0605_tanimoto_s.jpg\r\n前、撮影している時に\r\n赤色の変わったお花がありました！！\r\n私は初めてこのお花みたよ〜",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9872",
+        "material_title": "0605_tanimoto_s.jpg",
+        "material_file": "a9259d8b746890f81fa814e4deeee1ed1970f9e31f9ba8e3ece5c865af9196db9872.jpeg"
+      }
+    ],
+    "previous_id": "11568",
+    "next_id": "11457",
+    "saved_materials": [
+      "assets/11560_9872_0605_tanimoto_s.jpg"
+    ]
+  }
+}

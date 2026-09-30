@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 354,
+    "content_id": "18424",
+    "content_title": "夏",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-07-12 10:00:00",
+    "created_at": "2022-07-05 14:21:36",
+    "updated_at": "2022-07-05 14:21:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15341",
+        "material_title": "0712_arisawa_s.jpg",
+        "material_file": "b78a8f8a05bfbd9e201387b8dec34ba772f543f9cb5c96214606d9f0449ea4ac15341.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18424",
+    "content_title": "夏",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-07-12 10:00:00",
+    "created_at": "2022-07-05 14:21:36",
+    "updated_at": "2022-07-05 14:21:36",
+    "content_text": "0712_arisawa_s.jpg\r\nこんにちわん！\r\n有澤一華です！\r\n\r\nずっと言ってるけどすんごい暑いね！！！\r\n\r\n\r\n夏って感じだわ～！\r\n夏っぽいことしてないな～。。\r\n\r\nかき氷食べたいし、お祭りも行きたいし、花火も見たい！\r\n\r\n夏っぽいことしたわ！！\r\n\r\n花火した！！\r\n\r\n綺麗だったわんんん\r\n一緒に暑い夏を乗り切りましょう♪",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15341",
+        "material_title": "0712_arisawa_s.jpg",
+        "material_file": "47a448407f47aec02099967d06dd02e3d6bf6fe96017d88bf71f9ed3a3ee249415341.jpeg"
+      }
+    ],
+    "previous_id": "18425",
+    "next_id": "18423",
+    "saved_materials": [
+      "assets/18424_15341_0712_arisawa_s.jpg"
+    ]
+  }
+}

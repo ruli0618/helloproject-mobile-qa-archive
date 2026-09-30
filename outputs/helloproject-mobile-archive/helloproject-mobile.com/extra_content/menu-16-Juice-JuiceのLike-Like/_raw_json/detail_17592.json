@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 398,
+    "content_id": "17592",
+    "content_title": "筋トレ、続けないと〜",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-02-03 10:00:00",
+    "created_at": "2022-01-31 15:53:49",
+    "updated_at": "2022-01-31 15:53:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14660",
+        "material_title": "0203_arisawa_s.jpg",
+        "material_file": "baddb5ffef8162b46c94f55b71ab5e58a2cc4b445a5238558d892687c58453e214660.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17592",
+    "content_title": "筋トレ、続けないと〜",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-02-03 10:00:00",
+    "created_at": "2022-01-31 15:53:49",
+    "updated_at": "2022-01-31 15:53:49",
+    "content_text": "0203_arisawa_s.jpg\r\n毎日やっていた筋トレを最近、サボり気味です。\r\nでもね、、\r\n昨日、自分でも続けられそうなのがあって、「スマホを持ったままできる筋トレ」って調べてやってみたら、やってる時は、あんまり疲れないんだけど、次の日の朝すんごい筋肉痛になってて！\r\n効いたんだ！って嬉しくなりました！！\r\nこれからも頑張ります〜",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14660",
+        "material_title": "0203_arisawa_s.jpg",
+        "material_file": "732ba480f342c5ff88c6cce40d0c88399fe8669c24cbf2f0e115602c9bcef18814660.jpeg"
+      }
+    ],
+    "previous_id": "17593",
+    "next_id": "17557",
+    "saved_materials": [
+      "assets/17592_14660_0203_arisawa_s.jpg"
+    ]
+  }
+}

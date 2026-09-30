@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 359,
+    "content_id": "13196",
+    "content_title": "工藤の家の屋根裏部屋#68～小林萌花～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-02-25 18:30:00",
+    "created_at": "2020-02-25 18:29:58",
+    "updated_at": "2020-02-25 18:31:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11179",
+        "material_title": "200218_03_s.jpg",
+        "material_file": "73448ab6860e3c906dd365fd368189294d321adab4578ded0275610bffa047c511179.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11180",
+        "material_title": "200218_02_s.jpg",
+        "material_file": "01c8aeff573069d767b3c36440d71f9b3caddf2c2aa2be94f95785df999ed5c111180.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11181",
+        "material_title": "200218_01_s.jpg",
+        "material_file": "f3cdd818bded658cf7f2d0570f81d7a7bc77017318862ab4ca71bc44d5e881e211181.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13196",
+    "content_title": "工藤の家の屋根裏部屋#68～小林萌花～",
+    "content_sub_title": "",
+    "release_date": "2020-02-25 18:30:00",
+    "created_at": "2020-02-25 18:29:58",
+    "updated_at": "2020-02-25 18:31:03",
+    "content_text": "ふくむらの部屋 第68回配信中！\r\n\r\n今回は、BEYOOOOONDSから小林萌花さんが来てくれました！\r\n\r\n小林さんからのハロ！モバメールに書かれていた物事を早く済ませる方法から、現在注目しているメンバー、肌の白さ等など…\r\n和やかムードでトークが展開されました！\r\n\r\n200218_01_s.jpg\r\n\r\nハロプロ講座では、\r\n後から加入した事について、\r\n「We Need a Name!」、\r\nセリフ曲やなんじゃこりゃ！と思った曲について語って頂きました！\r\n\r\n納豆、手のお手入れ、ペットについても！\r\n\r\n200218_02_s.jpg\r\n\r\n「みんなに伝えたいハロプロ名場面」のコーナーも、沢山の名場面川柳が生まれました！\r\n\r\nコラボ企画では、こちら↓の質問に回答！\r\n\r\n200218_03_s.jpg\r\n\r\n次回は、モーニング娘。'20北川莉央さんが初出演！\r\n3/3(火)17時頃の配信開始となります。\r\n\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "910716e797d7c97c8adfda648d013c21",
+        "material_id": "11179",
+        "material_title": "200218_03_s.jpg",
+        "material_file": "e9516bd26c3630e11f3f5deda324d3fb79c6b6deb99498c8bb0ac439ae92c46511179.jpeg"
+      },
+      {
+        "secretKey": "910716e797d7c97c8adfda648d013c21",
+        "material_id": "11180",
+        "material_title": "200218_02_s.jpg",
+        "material_file": "a9d9757d6a638fd6d5936a1d14893d3d90ccc406804052ff4879b5477c2faeb311180.jpeg"
+      },
+      {
+        "secretKey": "910716e797d7c97c8adfda648d013c21",
+        "material_id": "11181",
+        "material_title": "200218_01_s.jpg",
+        "material_file": "a7b11fe4ba15bdf1c8d95f0934c7a85ed140a5da6a63066b9103a7ecb8feebde11181.jpeg"
+      }
+    ],
+    "previous_id": "13218",
+    "next_id": "13077",
+    "saved_materials": [
+      "assets/13196_11179_200218_03_s.jpg",
+      "assets/13196_11180_200218_02_s.jpg",
+      "assets/13196_11181_200218_01_s.jpg"
+    ]
+  }
+}

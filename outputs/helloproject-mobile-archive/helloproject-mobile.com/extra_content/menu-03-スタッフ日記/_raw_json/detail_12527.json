@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 380,
+    "content_id": "12527",
+    "content_title": "工藤の家の屋根裏部屋#62～小片リサ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-20 18:00:00",
+    "created_at": "2019-11-19 18:07:51",
+    "updated_at": "2019-11-19 18:10:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10622",
+        "material_title": "191120_02_s.jpg",
+        "material_file": "93b83d43000e46c47b2feca61d68c6243f557248cb89700f9d3ce3ff68daf24310622.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10623",
+        "material_title": "191120_01_s.jpg",
+        "material_file": "1ba44d52d22531b2fa2308aa7b1390b36f30c453aab0c32e8c5ae52d87544ad210623.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12527",
+    "content_title": "工藤の家の屋根裏部屋#62～小片リサ～",
+    "content_sub_title": "",
+    "release_date": "2019-11-20 18:00:00",
+    "created_at": "2019-11-19 18:07:51",
+    "updated_at": "2019-11-19 18:10:02",
+    "content_text": "ふくむらの部屋 第62回配信中です！\n\nゲストは、ハロ！モバ宣伝部の副部長でもある、つばきファクトリー小片リサさんが登場！\n\n写真集撮影の、とある噂は本当？\n小片さんが自分で予約した誕生日ケーキとは…？\n譜久村さんがやってみたい意外なお仕事等など！\n\nまた、ファンの方からコア過ぎると言われてしまうお二人のバースデーイベントのセットリスト、こだわりの選曲や想いについても語って頂きました！\n\n191120_01_s.jpg\n\nこのラジオで譜久村さんは、小片さんの意外な一面も発見出来たようです。\n\n今回の3番組コラボ企画では、こちらの質問にお答えしました。\n\n191120_02_s.jpg\n\n譜久村さん、小片さんが書いた質問も要チェックです！\n\n＜スタッフ日記裏話＞\n収録前、とあるメールの文面を見て「これ、あかねちんが送ってきたみたいじゃない？」と、羽賀さんにメールを送ったか確認する譜久村さん。\n結果は、流石に羽賀さんではなかったようです…。\n\n次回は、モーニング娘。'19の新メンバー、岡村ほまれさんが出演！\n15期メンバーは初登場です！\n\n11/21(木)17:00までメール募集中！\n沢山のメールお待ちしています♪\n\n回替りコーナーは、「悩みをキラーンと解決」\n「みずき先生のハロプロ講座」のコーナー、普通のお便りもどしどしお送り下さい！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10622",
+        "material_title": "191120_02_s.jpg",
+        "material_file": "de86dcf81728f67df4361525f978c710cfbbb8b7bd78238eac94c86af183b82210622.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10623",
+        "material_title": "191120_01_s.jpg",
+        "material_file": "b26dd3b7c21a0f01f8c5db6ac54a796bbca02c715dd335a1e8449cc9c6864be010623.jpeg"
+      }
+    ],
+    "previous_id": "12528",
+    "next_id": "12532",
+    "saved_materials": [
+      "assets/12527_10622_191120_02_s.jpg",
+      "assets/12527_10623_191120_01_s.jpg"
+    ]
+  }
+}

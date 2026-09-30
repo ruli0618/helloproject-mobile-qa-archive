@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 607,
+    "content_id": "6381",
+    "content_title": "ハロ！モバブース",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-25 08:00:00",
+    "created_at": "2017-03-25 08:04:24",
+    "updated_at": "2017-03-25 08:04:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5671",
+        "material_title": "170325.jpg",
+        "material_file": "5b1662195a05e78be8a6166947eed2169e9012dbb12e41072b882d451b62d0bb5671.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6381",
+    "content_title": "ハロ！モバブース",
+    "content_sub_title": "",
+    "release_date": "2017-03-25 08:00:00",
+    "created_at": "2017-03-25 08:04:24",
+    "updated_at": "2017-03-25 08:04:24",
+    "content_text": "おはようございます！\r\nスタッフ番号2番です！\r\n\r\n本日は幕張メッセにて「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう 2017」開催ですね！\r\nぜひ公式サイトをチェックのうえ、お越し下さい！\r\n<a href=\"http://www.satoyamamovement.com/event.html\">http://www.satoyamamovement.com/</a>\r\n※宣伝部員登場のNEXT STAGEタイムテーブルは要チェックです！\r\n\r\nハロ！モバブースは、展示場2ホールNEXT STAGEと地球のふわふわドームに挟まれた形で位置しております。\r\n大きな地球を目印にいらしてください。\r\n\r\n「やじまの部屋」の「犯人を追え！」コーナーの似顔絵イラストや、「宣伝会議」議事録をファイルにまとめて展示しております！ハロプロかるたも実際に手に取ってご覧になれますので、奥まった場所でちょっと入りづらいかもしれませんが、お気軽に見に来て下さい！\r\n\r\n何よりも一番の見所は、モニターで流している尾形春水編集の宣伝動画です！\r\nこのために忙しい合間を縫って制作してくれた映像は渾身の出来になっています。\r\nぜひご覧下さい！\r\n\r\n170325.jpg",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5671",
+        "material_title": "170325.jpg",
+        "material_file": "098d550ba554c7ed6db9c0ea48ddbab14dda4677610a7e3cba3aad109e3335575671.jpeg"
+      }
+    ],
+    "previous_id": "6382",
+    "next_id": "6378",
+    "saved_materials": [
+      "assets/6381_5671_170325.jpg"
+    ]
+  }
+}

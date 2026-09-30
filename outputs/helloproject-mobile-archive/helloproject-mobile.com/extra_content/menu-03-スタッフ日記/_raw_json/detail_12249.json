@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 388,
+    "content_id": "12249",
+    "content_title": "工藤の家の屋根裏部屋#59～川村文乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-10-10 19:45:00",
+    "created_at": "2019-10-10 19:51:34",
+    "updated_at": "2019-10-10 19:51:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10432",
+        "material_title": "191010_04_s.jpg",
+        "material_file": "fd87de6c5947ad00a3c2b1c4e38bf5f4e758bf5a81d80d5f2ff8ed328b8f8d0b10432.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10433",
+        "material_title": "191010_03_s.jpg",
+        "material_file": "1505c4a709769b2ed6a7f8cbf2aa550b86d7ebfeb3fa258eabd472438ead382e10433.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10434",
+        "material_title": "191010_01_s.jpg",
+        "material_file": "58eb7f9bc60084bbf2f8978eb3a84b10a7a2f57c9877d55b7ea017d400f3904710434.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10435",
+        "material_title": "191010_02_s.jpg",
+        "material_file": "13afab3c9cfb2b1a622e5784d4087a1581027cca6024dfbed2143c2f8936d57c10435.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12249",
+    "content_title": "工藤の家の屋根裏部屋#59～川村文乃～",
+    "content_sub_title": "",
+    "release_date": "2019-10-10 19:45:00",
+    "created_at": "2019-10-10 19:51:34",
+    "updated_at": "2019-10-10 19:51:34",
+    "content_text": "ふくむらの部屋 第59回配信中！\r\nゲストは、ハロ！モバラジオを聴いてくれているというこの方！\r\n\r\n191010_04_s.jpg\r\n\r\nアンジュルムサブリーダー、ハロ！モバ宣伝部広報の川村文乃さん！\r\n\r\n最近高知のアンパンマンミュージアムに行ったという川村さん、\r\n譜久村さんはとっても羨ましがっていました。\r\n\r\n写真の書き物に対してこだわる2人だからこそ共感出来るあるある話や、子供の頃のやんちゃエピソード、兄弟との関係性について\r\n等など…\r\n\r\nそして今回も沢山お悩みを解決！\r\n\r\n番組後半では、卒業を控えている中西香菜さんの優しい話や、サブリーダーとして活動するにあたって譜久村さんへ相談する場面も。\r\n\r\nぜひお聴き下さい♪\r\n\r\n191010_02_s.jpg\r\n\r\n191010_01_s.jpg\r\n\r\n191010_03_s.jpg\r\n\r\n次回は、Juice=Juiceリーダーの金澤朋子さんが出演決定！\r\n回替りコーナーは、「皆に伝えたいハロプロ名場面」\r\n「みずき先生のハロプロ講座」のコーナー、普通のお便りもどしどしお送り下さい！\r\n沢山のお便りお待ちしています♪\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n10/11(金)18:00まで受付！\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10432",
+        "material_title": "191010_04_s.jpg",
+        "material_file": "0506f17e279a5e959fff6a468320b5c3845ac03fab968c67c7b3efb0083f27c110432.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10433",
+        "material_title": "191010_03_s.jpg",
+        "material_file": "b669b3c773739c1fd76ff6028d25b8b9d88b384e7e159bf9af2e1ea5c2b67fd110433.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10434",
+        "material_title": "191010_01_s.jpg",
+        "material_file": "e90a13f2705ba5d2ec8c0f9e6adaba2bf0bee79a0e8d655f6fd000bdecb404d310434.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10435",
+        "material_title": "191010_02_s.jpg",
+        "material_file": "3e1f88eb652ff2c2bbef4f5c64c1403a306725d522204c410ddc33bb2869927710435.jpeg"
+      }
+    ],
+    "previous_id": "12404",
+    "next_id": "12230",
+    "saved_materials": [
+      "assets/12249_10432_191010_04_s.jpg",
+      "assets/12249_10433_191010_03_s.jpg",
+      "assets/12249_10434_191010_01_s.jpg",
+      "assets/12249_10435_191010_02_s.jpg"
+    ]
+  }
+}

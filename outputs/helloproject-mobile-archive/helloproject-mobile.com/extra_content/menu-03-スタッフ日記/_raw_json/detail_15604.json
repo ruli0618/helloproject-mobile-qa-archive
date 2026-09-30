@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 299,
+    "content_id": "15604",
+    "content_title": "宣伝会議#59",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-03-05 18:39:00",
+    "created_at": "2021-03-05 18:40:16",
+    "updated_at": "2021-03-05 18:42:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13001",
+        "material_title": "210305_03_s.jpg",
+        "material_file": "57ea2e74fff85d5a60a434077ad43d267ae7b557e9fe3cc3da4f6a26ead6900d13001.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13002",
+        "material_title": "210305_01_s.jpg",
+        "material_file": "c91436235e896c4b85e2eaf58543f121e2d5de3fab03ee15f489510cc105e46a13002.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13003",
+        "material_title": "210305_02_s.jpg",
+        "material_file": "512b7b12c0861fd4d06896d2cd9799278c617582ea8cc1107a3d03aa9aedbd4d13003.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15604",
+    "content_title": "宣伝会議#59",
+    "content_sub_title": "",
+    "release_date": "2021-03-05 18:39:00",
+    "created_at": "2021-03-05 18:40:16",
+    "updated_at": "2021-03-05 18:42:21",
+    "content_text": "宣伝会議ラジオ第59回は、野中美希部長、川村文乃広報の2人でお届け！\n\n210305_01_s.jpg\n\n今回も沢山のお便り、ありがとうございました！\n\n・目指している憧れの人\n・やってみたいコラボ\n・家族が好きなメンバー\n・静岡で行きたい場所\n\n・野中部長の作曲\n・メンバーとのジェネレーションギャップ\n・メンバーの声\n\n210305_02_s.jpg\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、\n「ハロプロメンバーのペット」\n\n皆さんが飼っている可愛いペットに関する情報を沢山教えていただきました。\n\n↓議事録はこちら！\n\n210305_03_s.jpg\n\n「励ましのメール」「ハロー！ペディア」メールを大募集！\n\n次回「ハロー！ペディア」のお題は、\n「<b>メンバーの兄弟姉妹</b>」です！\n\nハロー！プロジェクトメンバーのお兄さん、お姉さん、弟、妹エピソードや知られざる情報を大募集！\n兄弟姉妹が好きなメンバーも！\n\nメール宛先はこちら。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\n次回は野中美希部長、前田こころ書記兼警備の二人でお届け。\n3/15(月)17:00までメールを大募集！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13001",
+        "material_title": "210305_03_s.jpg",
+        "material_file": "2d414d9c728c8fc37b0b7180e15f61f9a828a2849980197b766c2f8a06c15a8e13001.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13002",
+        "material_title": "210305_01_s.jpg",
+        "material_file": "80ab38ba4c5d0ed86a3da28c0769f59b31c7e107bf8263c8325397b6116815f413002.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13003",
+        "material_title": "210305_02_s.jpg",
+        "material_file": "f9235945e817c801010c247ff0861a681340067caa090a4d48d67688a72ef6da13003.jpeg"
+      }
+    ],
+    "previous_id": "15651",
+    "next_id": "15546",
+    "saved_materials": [
+      "assets/15604_13001_210305_03_s.jpg",
+      "assets/15604_13002_210305_01_s.jpg",
+      "assets/15604_13003_210305_02_s.jpg"
+    ]
+  }
+}

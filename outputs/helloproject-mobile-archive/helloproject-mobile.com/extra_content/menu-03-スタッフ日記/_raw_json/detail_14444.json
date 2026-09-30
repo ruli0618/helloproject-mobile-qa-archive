@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 325,
+    "content_id": "14444",
+    "content_title": "宣伝部員の活躍",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-09-09 20:10:00",
+    "created_at": "2020-09-09 20:18:36",
+    "updated_at": "2020-09-09 20:21:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12022",
+        "material_title": "#341.jpg",
+        "material_file": "e1169c937422c7720cf281fc9bc9fb627c48538bc12613d64058f272419e8b2012022.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14444",
+    "content_title": "宣伝部員の活躍",
+    "content_sub_title": "",
+    "release_date": "2020-09-09 20:10:00",
+    "created_at": "2020-09-09 20:18:36",
+    "updated_at": "2020-09-09 20:21:29",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n本日配信されましたYouTube番組「<a href=\"https://youtu.be/aUwADFVykS0\" target=\"_blank\">ハロ！ステ＃341</a>」は、もうご覧になりましたか？\n\nなんと、夏のハロー！プロジェクトコンサート「Hello! Project 2020 Summer COVERS ～The Ballad～」から、我らがハロ！モバ宣伝部の小片リサ副部長と川村文乃広報のソロパフォーマンス映像が公開となっています！\n\n【ハロ！ステ#341】は<a href=\"https://youtu.be/aUwADFVykS0\" target=\"_blank\">こちら</a>から、ぜひご覧ください！\n\n#341.jpg\n\nハロ！モバで配信中の宣伝会議ラジオ、\n第51回では、夏のコンサートの裏話をたっぷりお届け！\n最新の第52回は、小片リサ副部長と川村文乃広報の2人でお送りしています！\n\nハロー！ラジオは<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">こちら</a>から、ぜひお聴きください！\n\nまた、現在次回の宣伝会議ラジオメールを募集中！\n\n出演は、野中美希部長と川村文乃広報の2名。\nメール締切は、9/14(月)17:00までです。\n\n「ハロー！ペディア」のお題は、\n「<b>名台詞・決め台詞</b>」！\n\nメールはこちらまで。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\nたくさんのお便りお待ちしています！",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12022",
+        "material_title": "#341.jpg",
+        "material_file": "18aaea538783a1deefe1e2c1c7fe148153636722cec01d2bfc8a236b8e1538fa12022.jpeg"
+      }
+    ],
+    "previous_id": "14445",
+    "next_id": "14367",
+    "saved_materials": [
+      "assets/14444_12022_#341.jpg"
+    ]
+  }
+}

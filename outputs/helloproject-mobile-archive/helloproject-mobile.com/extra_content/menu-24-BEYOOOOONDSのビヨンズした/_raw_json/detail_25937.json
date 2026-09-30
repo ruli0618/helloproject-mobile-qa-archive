@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 43,
+    "content_id": "25937",
+    "content_title": "どあっぷ",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2026-03-30 10:00:00",
+    "created_at": "2026-03-23 18:23:18",
+    "updated_at": "2026-03-23 18:23:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21255",
+        "material_title": "0330_maeda_s.jpg",
+        "material_file": "9ac51d2db9ab2ea2f2836700abd9002723e73ed584b5ed71d90e51abc31f3ade21255.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25937",
+    "content_title": "どあっぷ",
+    "content_sub_title": "前田こころ",
+    "release_date": "2026-03-30 10:00:00",
+    "created_at": "2026-03-23 18:23:18",
+    "updated_at": "2026-03-23 18:23:18",
+    "content_text": "0330_maeda_s.jpg\r\nめがねこころちゃんです〜〜＾＾♡\r\n\r\n【51周目お題：どアップ】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21255",
+        "material_title": "0330_maeda_s.jpg",
+        "material_file": "8bf4acd6068e8168b93c0b1f36ecebf6bec9b63420c4f19687b23819f7179f6e21255.jpeg"
+      }
+    ],
+    "previous_id": "25938",
+    "next_id": "25914",
+    "saved_materials": [
+      "assets/25937_21255_0330_maeda_s.jpg"
+    ]
+  }
+}

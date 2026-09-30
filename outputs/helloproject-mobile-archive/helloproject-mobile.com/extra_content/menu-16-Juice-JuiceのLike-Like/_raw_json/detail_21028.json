@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 223,
+    "content_id": "21028",
+    "content_title": "アルバム",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2023-10-24 10:00:00",
+    "created_at": "2023-10-17 18:01:31",
+    "updated_at": "2023-10-17 18:01:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17293",
+        "material_title": "1024_endo_s.jpg",
+        "material_file": "8e110df694983d0e672a5e631566efa731c129651d4f0cecb2a2e7404fc50e2617293.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21028",
+    "content_title": "アルバム",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2023-10-24 10:00:00",
+    "created_at": "2023-10-17 18:01:31",
+    "updated_at": "2023-10-17 18:01:31",
+    "content_text": "1024_endo_s.jpg\r\n遠藤彩加里です♪\r\n\r\nJuice=Juiceベストセレクションアルバム『Juicetory』が発売されました！！！\r\n\r\nこの千鳥柄の衣装、かわいくてかっこよくて大好き♡\r\n\r\nアルバム沢山聞いてくださいね♪♪♪",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17293",
+        "material_title": "1024_endo_s.jpg",
+        "material_file": "c2562fde3b67f7a2f2cba8dbec400edf511b45481887f3e8f70615191e022b4f17293.jpeg"
+      }
+    ],
+    "previous_id": "21147",
+    "next_id": "21027",
+    "saved_materials": [
+      "assets/21028_17293_1024_endo_s.jpg"
+    ]
+  }
+}

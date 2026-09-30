@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 714,
+    "content_id": "9268",
+    "content_title": "豆腐ソフトクリーム",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-06-09 11:00:00",
+    "created_at": "2018-06-07 17:26:51",
+    "updated_at": "2018-06-07 17:26:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8131",
+        "material_title": "0609_uemura_s.jpg",
+        "material_file": "b0849bbb13acbd9b471ffff0ff659dec8968a234a3dcd29f7c5ae844259c22f98131.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9268",
+    "content_title": "豆腐ソフトクリーム",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-06-09 11:00:00",
+    "created_at": "2018-06-07 17:26:51",
+    "updated_at": "2018-06-07 17:26:51",
+    "content_text": "Juice＝Juiceの植村あかりです\r\n\r\n\r\nなかなか出会えぬ\r\n豆腐ソフトクリーム！！！\r\n\r\n築地で出会いました。。\r\n\r\nはじめて食べたのは\r\n京都だったんですが。。\r\n\r\nずっと忘れられないほど\r\n好きなんです。\r\n\r\n\r\n\r\n0609_uemura_s.jpg\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8131",
+        "material_title": "0609_uemura_s.jpg",
+        "material_file": "0cbfcdc7ebe2637a09560283c2a8684a186ef78223f6ffec8ba691a4eb13fe178131.jpeg"
+      }
+    ],
+    "previous_id": "9270",
+    "next_id": "9249",
+    "saved_materials": [
+      "assets/9268_8131_0609_uemura_s.jpg"
+    ]
+  }
+}

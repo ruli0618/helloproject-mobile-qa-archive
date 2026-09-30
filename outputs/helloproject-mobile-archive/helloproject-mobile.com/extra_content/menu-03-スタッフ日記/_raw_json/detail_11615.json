@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 412,
+    "content_id": "11615",
+    "content_title": "隣のやじまん家の塀の裏#49 井上玲音",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-06-19 22:11:00",
+    "created_at": "2019-06-19 22:11:10",
+    "updated_at": "2019-06-19 22:12:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9900",
+        "material_title": "190619_01_s.jpg",
+        "material_file": "1ab8cd779c46102624a5a142a0d80420ab4cd274f55cb0ad4e2004606da95c9d9900.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9901",
+        "material_title": "190619_03_s.jpg",
+        "material_file": "55ecf86d2c5259beafc9950fabd979500e223f656959e8e5d21ef6d4de9d88fa9901.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9902",
+        "material_title": "190619_02_s.jpg",
+        "material_file": "8ff09f7ebef82998ebc1b998131364b31ac0b6de3a6086d87721d074a365d2629902.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11615",
+    "content_title": "隣のやじまん家の塀の裏#49 井上玲音",
+    "content_sub_title": "",
+    "release_date": "2019-06-19 22:11:00",
+    "created_at": "2019-06-19 22:11:10",
+    "updated_at": "2019-06-19 22:12:47",
+    "content_text": "「隣のやじまん家」#49 配信中！\n\nこぶしファクトリーの井上玲音さんがゲストに来てくれました！\n\n190619_01_s.jpg\n\n前回よりは緊張していない、と言う井上さん。\nお父さん話やホールコンサートの感想等など…\n和やかムードでトークが進みました！\n\nVS矢島のコーナーでは…、\nボイパ対決！\n\n190619_02_s.jpg\n井上さんから指南を受けて、矢島さんもボイパに挑戦！\nレアな音声にご注目！\n\n井上さんがボイパを始める事になったきっかけはあのメンバーの一言？\n\nペット可愛がり対決！\n\n目の前に大好きな愛犬達が居るという想定でのお二人の可愛がる声は、\n聴いていて顔のニヤつき必至です！\nぜひお聴き下さい♪\n\n190619_03_s.jpg\n偶然にも先日公開された「ふくむらの部屋第51回」(清野桃々姫さんゲスト)では、清野さんの指南を受け譜久村さんがヒューマンビートボックスを披露！こちらもぜひぜひお聴き下さい♪\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n7月テーマトークのお題は\n「夏の思い出」\n「VS矢島」対決するお題も募集！\n\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は6月25日(火)、ゲストはつばきファクトリーの小野瑞歩さんです！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9900",
+        "material_title": "190619_01_s.jpg",
+        "material_file": "e649fad0d9652bfe72e77a04d490cc6ed9b978611d0d971b4726b23f0c9f8be59900.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9901",
+        "material_title": "190619_03_s.jpg",
+        "material_file": "85cd9b2a29da35763235cacb37c2a5167b8fce49a5a3828a5ff97cd3689fa26d9901.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9902",
+        "material_title": "190619_02_s.jpg",
+        "material_file": "d54ab666a8a6ae9509b1d095242045e2be60d05a38603a04a90d3aaaf6267b9e9902.jpeg"
+      }
+    ],
+    "previous_id": "11616",
+    "next_id": "11606",
+    "saved_materials": [
+      "assets/11615_9900_190619_01_s.jpg",
+      "assets/11615_9901_190619_03_s.jpg",
+      "assets/11615_9902_190619_02_s.jpg"
+    ]
+  }
+}

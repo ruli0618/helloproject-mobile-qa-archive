@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 464,
+    "content_id": "16068",
+    "content_title": "入浴剤",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-05-25 10:00:00",
+    "created_at": "2021-05-20 18:39:53",
+    "updated_at": "2021-05-20 18:39:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13391",
+        "material_title": "210525_matsunaga_s.jpg",
+        "material_file": "f93e0f4456c2ed144aef9522448c897b1bc4eeb85bb2c44157aa6a35b74cbed013391.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16068",
+    "content_title": "入浴剤",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-05-25 10:00:00",
+    "created_at": "2021-05-20 18:39:53",
+    "updated_at": "2021-05-20 18:39:53",
+    "content_text": "210525_matsunaga_s.jpg\r\n最近は入浴剤にどハマりしていて買い溜めしてます。\r\n疲れも取れるし癒されるしはっぴー！",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13391",
+        "material_title": "210525_matsunaga_s.jpg",
+        "material_file": "23b9fc326424c2124a08a9178f5e5542d65d741cf54a187278df499ebad161ec13391.jpeg"
+      }
+    ],
+    "previous_id": "16070",
+    "next_id": "16067",
+    "saved_materials": [
+      "assets/16068_13391_210525_matsunaga_s.jpg"
+    ]
+  }
+}

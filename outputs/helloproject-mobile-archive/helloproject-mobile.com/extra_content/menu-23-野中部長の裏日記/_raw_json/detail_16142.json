@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 67,
+    "content_id": "16142",
+    "content_title": "平日と週末の過ごし方",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2021-05-28 15:27:00",
+    "created_at": "2021-05-28 15:30:10",
+    "updated_at": "2021-05-28 15:30:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "13461",
+        "material_title": "210528_s.jpg",
+        "material_file": "639ba60471cd1b3118bef647acf291b25bae61f22de5a0c25383240a0c7393dd13461.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "16142",
+    "content_title": "平日と週末の過ごし方",
+    "content_sub_title": "",
+    "release_date": "2021-05-28 15:27:00",
+    "created_at": "2021-05-28 15:30:10",
+    "updated_at": "2021-05-28 15:30:10",
+    "content_text": "おはようございます！\r\nこんにちは！\r\nこんばんは！\r\n1週間おつかれさまです◎\r\n野中部長、ちぇる部長です<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nこれを読んでくださっている方々は\r\n土日休みの方が多いのかな？？\r\n週末はゆったりモードに\r\nなれますね<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\nゆっくり1週間がんばった自分、\r\nさらには5月をがんばった自分を\r\n癒してあげてくださいな<img src=\"/emoji/emoji-images/f487.gif\"/>\r\n\r\n私は週末に\r\nコンサートやイベントがあるので\r\n週末はスイッチオンの時！\r\n\r\nなので土日休みの感覚とは\r\nちょっと違うのかも<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n土日がわくわくするっていうのは\r\n変わりないですが<img src=\"/emoji/emoji-images/503f.gif\"/>\r\n\r\nちなみに平日のおやすみの日は\r\nメンテナンスをすることが多いです！\r\nだらだら1日中アニメをみる日も\r\nもちろんありますが\r\n基本的にアクティブ<img src=\"/emoji/emoji-images/f6b1.gif\"/>\r\n\r\n今日はトレーニングをしっかりしました！\r\n今はお部屋の窓際で\r\nアイスコーヒーを飲みながら\r\n日記を書いているところです\r\n\r\n目の前でとうふちゃんが\r\nごろごろしています<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\n210528_s.jpg\r\n\r\n\r\nこんな感じ！笑\r\n今の写真です\r\n\r\n今週末は鹿児島と福岡に\r\nいってきます◎\r\nいよいよツアーも終わりです\r\n\r\n思い残すことのないように\r\n楽しんできますね！\r\n\r\nそれでは、また来週！\r\n6月に！\r\n\r\nそれでわん<img src=\"/emoji/emoji-images/4772.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "675b02898768bb9fa4be1d9bba29e4ed",
+        "material_id": "13461",
+        "material_title": "210528_s.jpg",
+        "material_file": "f8a0c90b7c4d3c603c1a353decb6abc180e1f4659b98bce8a0f4e0c1c95ab4e713461.jpeg"
+      }
+    ],
+    "previous_id": "16163",
+    "next_id": "16065",
+    "saved_materials": [
+      "assets/16142_13461_210528_s.jpg"
+    ]
+  }
+}

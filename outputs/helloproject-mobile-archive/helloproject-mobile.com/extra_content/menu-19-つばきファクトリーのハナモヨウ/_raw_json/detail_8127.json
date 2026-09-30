@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 131,
+    "content_id": "8127",
+    "content_title": "少し寂しい〜",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2017-12-12 11:00:00",
+    "created_at": "2017-12-07 12:47:15",
+    "updated_at": "2017-12-07 12:48:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7182",
+        "material_title": "171212_ono_s.jpg",
+        "material_file": "4911a70e1ed78c0bc90c234250a2c4714a2d7474d7444469929b64e952cb2d587182.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8127",
+    "content_title": "少し寂しい〜",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2017-12-12 11:00:00",
+    "created_at": "2017-12-07 12:47:15",
+    "updated_at": "2017-12-07 12:48:39",
+    "content_text": "こんにちは<img src=\"/emoji/emoji-images/f89f.gif\"/>\r\n\r\n小野瑞歩です<img src=\"/emoji/emoji-images/f6bf.gif\"/>\r\n\r\n最近はとっても寒くなり季節はすっかり冬ですね〜、、、。\r\n\r\n今日の写真は夏に撮ったピンクのお花です！\r\n\r\n171212_ono_s.jpg\r\n\r\n冬は夏に比べて花がたくさん咲く季節ではないと思うので、ちょっと寂しいです<img src=\"/emoji/emoji-images/f396.gif\"/>\r\n\r\n冬の寒さに負けない強い花！\r\n\r\n見つけて写真を撮りに行きたいと思います！！！",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "7182",
+        "material_title": "171212_ono_s.jpg",
+        "material_file": "81d3c060140f58b61dd6e46d183e4b732178806f8ce7b6f331a9d35fe6ee53ad7182.jpeg"
+      }
+    ],
+    "previous_id": "8260",
+    "next_id": "8007",
+    "saved_materials": [
+      "assets/8127_7182_171212_ono_s.jpg"
+    ]
+  }
+}

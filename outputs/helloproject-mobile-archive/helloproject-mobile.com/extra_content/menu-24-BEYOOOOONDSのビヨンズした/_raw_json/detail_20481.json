@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 248,
+    "content_id": "20481",
+    "content_title": "私とアザラシ",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2023-07-13 12:47:00",
+    "created_at": "2023-07-13 12:47:42",
+    "updated_at": "2023-07-13 12:47:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16892",
+        "material_title": "0712_nishida_s.jpg",
+        "material_file": "c11c5ee9c09990cae913b87245cf4312977f86f1db9a90927477fba53051b28a16892.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20481",
+    "content_title": "私とアザラシ",
+    "content_sub_title": "西田汐里",
+    "release_date": "2023-07-13 12:47:00",
+    "created_at": "2023-07-13 12:47:42",
+    "updated_at": "2023-07-13 12:47:42",
+    "content_text": "0712_nishida_s.jpg\r\n京都水族館のアザラシ可愛かったー！！！\r\n\r\n【27周目お題：私と○○】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16892",
+        "material_title": "0712_nishida_s.jpg",
+        "material_file": "44e7790b88751dd5bfac4ea87aadfa2b013ac2315a622a9476f3e4e831ef443116892.jpeg"
+      }
+    ],
+    "previous_id": "20482",
+    "next_id": "20465",
+    "saved_materials": [
+      "assets/20481_16892_0712_nishida_s.jpg"
+    ]
+  }
+}

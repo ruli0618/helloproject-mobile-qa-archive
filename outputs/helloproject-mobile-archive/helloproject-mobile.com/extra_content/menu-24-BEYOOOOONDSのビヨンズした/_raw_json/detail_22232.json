@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 181,
+    "content_id": "22232",
+    "content_title": "フェスでまったり",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2024-06-10 10:00:00",
+    "created_at": "2024-05-16 15:22:13",
+    "updated_at": "2024-05-16 15:22:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18209",
+        "material_title": "0610_kobayashi_s.jpg",
+        "material_file": "16a532456a52c3f16e141cb23af684d9ab4bfeb888196529f148e785b17cc75518209.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22232",
+    "content_title": "フェスでまったり",
+    "content_sub_title": "小林萌花",
+    "release_date": "2024-06-10 10:00:00",
+    "created_at": "2024-05-16 15:22:13",
+    "updated_at": "2024-05-16 15:22:13",
+    "content_text": "0610_kobayashi_s.jpg\r\nお昼の出番が終わった後は、芝生の上でまったりしていました！\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18209",
+        "material_title": "0610_kobayashi_s.jpg",
+        "material_file": "4a921aa88a1cfab16cf67175c0b310ad9588e3719ca65f485b9c3cabfb5b540618209.jpeg"
+      }
+    ],
+    "previous_id": "22233",
+    "next_id": "22231",
+    "saved_materials": [
+      "assets/22232_18209_0610_kobayashi_s.jpg"
+    ]
+  }
+}

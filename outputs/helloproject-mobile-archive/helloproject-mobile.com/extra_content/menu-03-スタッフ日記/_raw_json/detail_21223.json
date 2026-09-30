@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 194,
+    "content_id": "21223",
+    "content_title": "工藤の家の屋根裏部屋#116～入江里咲～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-09-27 00:00:00",
+    "created_at": "2023-11-14 14:11:18",
+    "updated_at": "2023-11-14 14:11:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17430",
+        "material_title": "220927_s.jpg",
+        "material_file": "aa406bc2b9eb695f464e4323f1e117ff8ea3fcb643c27d572b099e719e2b1dd217430.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21223",
+    "content_title": "工藤の家の屋根裏部屋#116～入江里咲～",
+    "content_sub_title": "",
+    "release_date": "2022-09-27 00:00:00",
+    "created_at": "2023-11-14 14:11:18",
+    "updated_at": "2023-11-14 14:11:18",
+    "content_text": "ふくむらの部屋 第116回は、Juice=Juice入江里咲さんが登場！\r\n\r\n・ファンクラブイベント\r\n・入江里咲の印象\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nJuice=JuiceMV再生回数ランキングのクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・山崎あおい\r\n・はじめての後輩\r\nを語りました！\r\n\r\n後半では、\r\n・乗り物酔い\r\n・バースデーイベント\r\nについてトーク！\r\n\r\n220927_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "17430",
+        "material_title": "220927_s.jpg",
+        "material_file": "dd27395fe5db4ca526c5b28634a3d2d8c43f1c11a540f17fa9291bf357a88efc17430.jpeg"
+      }
+    ],
+    "previous_id": "19529",
+    "next_id": "18871",
+    "saved_materials": [
+      "assets/21223_17430_220927_s.jpg"
+    ]
+  }
+}

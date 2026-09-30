@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 421,
+    "content_id": "11252",
+    "content_title": "工藤の家の屋根裏部屋#47～新沼希空～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-04-19 23:16:00",
+    "created_at": "2019-04-19 23:17:42",
+    "updated_at": "2019-04-19 23:50:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9617",
+        "material_title": "0419_47_3_s.jpg",
+        "material_file": "49a54134f746585d021e3505cc10f93d067870536809c1f881588130b75dd87e9617.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9618",
+        "material_title": "0419_47_2_s.jpg",
+        "material_file": "e755fdec262be2f17a829c0be0941cbfebeb6a5422185af6abd118fb35d81f3b9618.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9619",
+        "material_title": "0419_47_1_s.jpg",
+        "material_file": "0acf16a8cbd3eff945a2a8559df770d468347f11b9bcb3b8837b221f42ab83fa9619.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11252",
+    "content_title": "工藤の家の屋根裏部屋#47～新沼希空～",
+    "content_sub_title": "",
+    "release_date": "2019-04-19 23:16:00",
+    "created_at": "2019-04-19 23:17:42",
+    "updated_at": "2019-04-19 23:50:31",
+    "content_text": "更新が遅くなりまして申し訳ございません\r\n\r\nふくむらの部屋46回目！\r\n今回のゲストはつばきファクトリー新沼希空さんが登場！　\r\n\r\n0419_47_1_s.jpg\r\n\r\n新沼さんが大好きな石田亜佑美さんについてたくさん語っています！\r\n本当に好きになると・・・!?\r\n\r\nデビュー何年目？デビューシングルの思い出は？\r\n譜久村さんが思わず大丈夫!?と心配になった新沼さんの発言とは！\r\n\r\n0419_47_2_s.jpg\r\n\r\n初めてのレコーディング、MV撮影の思い出話、\r\nつばきファクトリーがモーニング娘。の握手会に参加した裏話！\r\n二人が話す鞘師さんとの・・・ひなフェスの裏話も必聴です！\r\n\r\n0419_47_3_s.jpg\r\n\r\n次回の配信は5月7日(火)になります。\r\n新元号「令和」最初の配信をお楽しみに！\r\n\r\n\r\n「みずき先生のハロプロ講座」「悩みをキラーンと解決」\r\n「普通のお便り」\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9617",
+        "material_title": "0419_47_3_s.jpg",
+        "material_file": "606873182747611dac47526b01ab407ed4843d5cad7e5bdcc632e73943318ec59617.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9618",
+        "material_title": "0419_47_2_s.jpg",
+        "material_file": "abdf78724769c74ec6e28607b15515a1433d6ed2da8b9aa5e8f722979bcbae199618.jpeg"
+      },
+      {
+        "secretKey": "f81c99a438be4e03d53e0004581a689b",
+        "material_id": "9619",
+        "material_title": "0419_47_1_s.jpg",
+        "material_file": "0ab4c6004a0c6b19a17598a8100fcd6e1d60fdeb90129004082bfba9728b2bdb9619.jpeg"
+      }
+    ],
+    "previous_id": "11280",
+    "next_id": "11251",
+    "saved_materials": [
+      "assets/11252_9617_0419_47_3_s.jpg",
+      "assets/11252_9618_0419_47_2_s.jpg",
+      "assets/11252_9619_0419_47_1_s.jpg"
+    ]
+  }
+}

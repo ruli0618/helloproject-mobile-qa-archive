@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 584,
+    "content_id": "12496",
+    "content_title": "あめ！！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2019-11-14 10:00:00",
+    "created_at": "2019-11-11 11:40:32",
+    "updated_at": "2019-11-11 11:40:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10602",
+        "material_title": "1114_matsunaga_s.jpg",
+        "material_file": "39fa15cfe02fa92feb7c9d4f3844237c3551972e4e369ad29fb1e698c3ec87a810602.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12496",
+    "content_title": "あめ！！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2019-11-14 10:00:00",
+    "created_at": "2019-11-11 11:40:32",
+    "updated_at": "2019-11-11 11:40:32",
+    "content_text": "やふぞう！\r\n最近の里愛の好きな物は…\r\nいちご飴！\r\nばーみーと食べに行ったよ！\r\n1114_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10602",
+        "material_title": "1114_matsunaga_s.jpg",
+        "material_file": "62b616442d1a66d91c803606965bab3ac0a55854a4af3b74fe6baeb75526891310602.jpeg"
+      }
+    ],
+    "previous_id": "12541",
+    "next_id": "12495",
+    "saved_materials": [
+      "assets/12496_10602_1114_matsunaga_s.jpg"
+    ]
+  }
+}

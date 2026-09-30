@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 126,
+    "content_id": "15797",
+    "content_title": "環境にもお財布にも優しく",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-04-08 18:36:00",
+    "created_at": "2021-04-08 18:36:13",
+    "updated_at": "2021-04-08 18:36:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13168",
+        "material_title": "210408_ono_s.jpg",
+        "material_file": "edb7f8f4cdeb49836288154ec4adede2ae27900445e7869ba5b48b740462fe1c13168.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15797",
+    "content_title": "環境にもお財布にも優しく",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-04-08 18:36:00",
+    "created_at": "2021-04-08 18:36:13",
+    "updated_at": "2021-04-08 18:36:13",
+    "content_text": "210408_ono_s.jpg\r\n春らしさ全開の\r\nタンブラーをゲットしました<img src=\"/emoji/emoji-images/f44d.gif\"/>\r\n\r\n最近コーヒーを飲むことが多いんだけど\r\nこのタンブラーに入れてもらって\r\nエコ&節約しようと思います〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13168",
+        "material_title": "210408_ono_s.jpg",
+        "material_file": "d94a32c9422b990beb629af61fed42a65d6c5c6a8f19e88ca43468b16081e98d13168.jpeg"
+      }
+    ],
+    "previous_id": "15807",
+    "next_id": "15729",
+    "saved_materials": [
+      "assets/15797_13168_210408_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 2,
+    "content_id": "13091",
+    "content_title": "ありがとう♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2020-02-18 11:27:00",
+    "created_at": "2020-02-18 11:48:05",
+    "updated_at": "2020-02-18 11:48:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11129",
+        "material_title": "onoda.jpg",
+        "material_file": "1788ac5215bc7c91fb17babed01e5b5ed909995c2d868a0ec0ea367996c20c3411129.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "13091",
+    "content_title": "ありがとう♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2020-02-18 11:27:00",
+    "created_at": "2020-02-18 11:48:05",
+    "updated_at": "2020-02-18 11:48:05",
+    "content_text": "だんだん暖かくなってきたなあーと思った、さおりです♪\r\n\r\nこの投稿をもって、今までやってきた「ハナモヨウ」は終わっちゃうんですよおおーーー、、、(泣)\r\n\r\n今まで、色んな種類のお花を載せてきましたねえ！！\r\n\r\nこんなにも、お花の種類ってあるんだなあーって改めて思いました！！！！\r\n\r\nお花について、お互いちょっと詳しくなれましたねっ♪\r\n\r\nありがとうっ！\r\n\r\n\r\n最後は、さおりとお花で撮った写真です♪\r\n\r\nonoda.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11129",
+        "material_title": "onoda.jpg",
+        "material_file": "1788ac5215bc7c91fb17babed01e5b5ed909995c2d868a0ec0ea367996c20c3411129.jpeg"
+      }
+    ],
+    "previous_id": "13092",
+    "next_id": "13090",
+    "saved_materials": [
+      "assets/13091_11129_onoda.jpg"
+    ]
+  }
+}

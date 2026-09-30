@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 532,
+    "content_id": "8468",
+    "content_title": "工藤の家の屋根裏部屋#16～佐々木莉佳子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-30 21:00:00",
+    "created_at": "2018-01-30 13:19:37",
+    "updated_at": "2018-01-30 13:19:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7450",
+        "material_title": "180130_03_s.jpg",
+        "material_file": "0d6294efd4f5822f7029c0656f545f85aede9b138f96e9c2985ceb6fc7c9ef8d7450.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7451",
+        "material_title": "180130_02_s.jpg",
+        "material_file": "cef8409f374c5502d705ab3d98d98e089ff974ab7dc285cb57e2ad5f247da08f7451.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7452",
+        "material_title": "180130_01_s.jpg",
+        "material_file": "3b4cfa2d922458e69ffd2c8ea157c2e71a30d10eee30592c61093d79463cf6207452.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8468",
+    "content_title": "工藤の家の屋根裏部屋#16～佐々木莉佳子～",
+    "content_sub_title": "",
+    "release_date": "2018-01-30 21:00:00",
+    "created_at": "2018-01-30 13:19:37",
+    "updated_at": "2018-01-30 13:19:37",
+    "content_text": "「ふくむらの部屋」16回目の配信がスタートしました。\r\n今回はアンジュルム佐々木莉佳子さんが登場！\r\n\r\n180130_01_s.jpg\r\n\r\n「みずき先生のハロプロ講座」\r\nゲスト佐々木さんが思うロックなメンバーとは？\r\n二人が考えるライブで盛り上がる1曲とは？\r\n\r\n180130_02_s.jpg\r\n\r\n「みずきの究極セレクション！」\r\n舞台の演出に関するお題やコンサートスタッフに関するお題\r\nその話の中で佐々木が毎回すごいと思っていることとは？\r\n楽しい選択、恐ろしい選択、次々登場！\r\n\r\n180130_03_s.jpg\r\n\r\n寒い日が続きますが、風邪などひいていませんか？\r\n「手洗い」・「うがい」・「ふくむらの部屋」で寒い冬を乗り切りましょう！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\r\n普通のお便りや新コーナー案も引き続き募集中です！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7450",
+        "material_title": "180130_03_s.jpg",
+        "material_file": "b5c68aad758a2d7a2986dd93c90ade9e19ffe258aeead65d7e9137390dfed9c17450.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7451",
+        "material_title": "180130_02_s.jpg",
+        "material_file": "14b7b9d82beaea1f43284588cab597fab980d5913b09f065e85c995f5bc0c2667451.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7452",
+        "material_title": "180130_01_s.jpg",
+        "material_file": "2e15e72081407951ade28e43d141dde5eb514f256f54c7a6511bc784179b0a187452.jpeg"
+      }
+    ],
+    "previous_id": "8527",
+    "next_id": "8466",
+    "saved_materials": [
+      "assets/8468_7450_180130_03_s.jpg",
+      "assets/8468_7451_180130_02_s.jpg",
+      "assets/8468_7452_180130_01_s.jpg"
+    ]
+  }
+}

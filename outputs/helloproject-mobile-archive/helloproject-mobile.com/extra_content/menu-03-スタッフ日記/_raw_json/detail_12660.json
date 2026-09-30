@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 376,
+    "content_id": "12660",
+    "content_title": "工藤の家の屋根裏部屋#63～岡村ほまれ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-12-09 22:52:00",
+    "created_at": "2019-12-09 22:54:30",
+    "updated_at": "2019-12-09 22:55:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10744",
+        "material_title": "191203_02_s.jpg",
+        "material_file": "c333bb0c604556253eebd9030f5fabe9b6331b81fd2fd45b8f10724f876cf60710744.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10746",
+        "material_title": "191203_01_s.jpg",
+        "material_file": "5ac731e707ce13ca4a69463a2917bd20f5b6a97866ecf3aad47e6e418cfc0f6410746.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10745",
+        "material_title": "191203_03_s.jpg",
+        "material_file": "992dab1a56c6b6dbd6bbf8e45c735356f251c1e66daf10e3a19d0f6070189a8e10745.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10747",
+        "material_title": "191203_04_s.jpg",
+        "material_file": "c4916879ecc44f51d8504e4574584b32ddb807f770f195d43547a74e5e13711e10747.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12660",
+    "content_title": "工藤の家の屋根裏部屋#63～岡村ほまれ～",
+    "content_sub_title": "",
+    "release_date": "2019-12-09 22:52:00",
+    "created_at": "2019-12-09 22:54:30",
+    "updated_at": "2019-12-09 22:55:51",
+    "content_text": "ふくむらの部屋 第63回配信中です！\n\nゲストは、この方！\n\n191203_03_s.jpg\n\nモーニング娘。'19 新メンバーから初の出演！\n岡村ほまれさんが登場！\n\n新しいカニラが加わるいきさつや、\n岡村さんが楽しそうに踊る意外な曲、\nオーディションや発表時の裏話等など…。\n\n191203_01_s.jpg\n\n二人の共通点でもある、\n大好きなアンパンマンについても沢山語ってくれました！\n\n191203_02_s.jpg\n\n「悩みをキラーンと解決」のコーナーでは、\nクリスマスが近いという事もあり、\n娘さんへのプレゼントに悩むお父さんからのお便りが多くありました。\nどのように解決したか番組をチェック！\n\n今回のコラボ企画では、こちらの質問にお答えしました。\n文房具好きな岡村さんにぴったりな質問も。\n\n191203_04_s.jpg\n\n次回は、カントリー・ガールズ山木梨沙さんが出演！\n\n山木さんのハロー！プロジェクト卒業前、\nそしてふくむらの部屋としては、年内ラストの配信となります。\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10744",
+        "material_title": "191203_02_s.jpg",
+        "material_file": "6b73e5478b658e17a4f2e13bc8b36ccb8b676f75cb3ce88bfe51dd85c5738c7e10744.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10746",
+        "material_title": "191203_01_s.jpg",
+        "material_file": "4f28433f6feca8bca9e3d37ef0db83ae1a332b0778a11ad41a81ce2408f8f91710746.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10745",
+        "material_title": "191203_03_s.jpg",
+        "material_file": "b7f639bdde74891f287d5f1609c07ef8c34e4fe6549c384a60fddff7dbf154da10745.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10747",
+        "material_title": "191203_04_s.jpg",
+        "material_file": "5bfd3c8957d79b18ed245717adbe538e40e0ee46cbe0fd93ea3161bf2cdce17210747.jpeg"
+      }
+    ],
+    "previous_id": "12663",
+    "next_id": "12619",
+    "saved_materials": [
+      "assets/12660_10744_191203_02_s.jpg",
+      "assets/12660_10746_191203_01_s.jpg",
+      "assets/12660_10745_191203_03_s.jpg",
+      "assets/12660_10747_191203_04_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 470,
+    "content_id": "15836",
+    "content_title": "花やしき",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-04-22 10:00:00",
+    "created_at": "2021-04-20 17:41:17",
+    "updated_at": "2021-04-20 17:41:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13209",
+        "material_title": "210422_matsunaga_s.jpg",
+        "material_file": "f77ea634dcde2c957ee441b8179cea6693d091c88a2eaca8db7f96c05953d15d13209.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15836",
+    "content_title": "花やしき",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-04-22 10:00:00",
+    "created_at": "2021-04-20 17:41:17",
+    "updated_at": "2021-04-20 17:41:17",
+    "content_text": "210422_matsunaga_s.jpg\r\n先日、花やしきに行ってきました！\r\nすごく晴れていて最高でした〜",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13209",
+        "material_title": "210422_matsunaga_s.jpg",
+        "material_file": "1bbdd284c8e57ff90dd83ff2ab1b8162b29a41949603de866535bf401665a86913209.jpeg"
+      }
+    ],
+    "previous_id": "15921",
+    "next_id": "15820",
+    "saved_materials": [
+      "assets/15836_13209_210422_matsunaga_s.jpg"
+    ]
+  }
+}

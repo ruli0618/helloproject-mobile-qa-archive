@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 17,
+    "content_id": "26383",
+    "content_title": "衣装♬♬",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2026-06-25 10:00:00",
+    "created_at": "2026-06-11 10:22:32",
+    "updated_at": "2026-06-11 10:24:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21555",
+        "material_title": "0625_ebata_s.jpg",
+        "material_file": "371afe5b62f2b8df720e53bb88ea58ac1e66a9358842f3e499f614e61170d50f21555.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26383",
+    "content_title": "衣装♬♬",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2026-06-25 10:00:00",
+    "created_at": "2026-06-11 10:22:32",
+    "updated_at": "2026-06-11 10:24:26",
+    "content_text": "0625_ebata_s.jpg\nやっほーーー\nえばです！\n春ツアーの衣装、全部好きなんだけど特に2つ目の衣装のふわふわがお気に入り！\nアンコール衣装についてる黒いお花も好きだったな〜\nみんなはどの衣装が好きですか？\n\nほなね〜",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21555",
+        "material_title": "0625_ebata_s.jpg",
+        "material_file": "3e3d9334742dc2329157533d2032a47cbed40a00db6d4528e389acc1abb8f4b821555.jpeg"
+      }
+    ],
+    "previous_id": "26599",
+    "next_id": "26382",
+    "saved_materials": [
+      "assets/26383_21555_0625_ebata_s.jpg"
+    ]
+  }
+}

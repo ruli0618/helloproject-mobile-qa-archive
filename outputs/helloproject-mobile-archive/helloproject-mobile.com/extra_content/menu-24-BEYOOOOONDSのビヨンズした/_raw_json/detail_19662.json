@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 274,
+    "content_id": "19662",
+    "content_title": "カフェ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2023-02-22 10:00:00",
+    "created_at": "2023-02-08 20:48:05",
+    "updated_at": "2023-02-08 20:48:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16313",
+        "material_title": "0222_eguchi_s.jpg",
+        "material_file": "f0bb4233b909fb73b0d94cbf9faef17a744dee3be7375b5445e4d69d286590cf16313.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19662",
+    "content_title": "カフェ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2023-02-22 10:00:00",
+    "created_at": "2023-02-08 20:48:05",
+    "updated_at": "2023-02-08 20:48:05",
+    "content_text": "0222_eguchi_s.jpg\r\nカフェでの写真！髪の毛が綺麗に写っていてお気に入りです！\r\n\r\n【24周目お題：横顔】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16313",
+        "material_title": "0222_eguchi_s.jpg",
+        "material_file": "cfd4a283ece961f4727e88af08d9ada2626395b82a5fe9a4dafb5648746080ea16313.jpeg"
+      }
+    ],
+    "previous_id": "19664",
+    "next_id": "19661",
+    "saved_materials": [
+      "assets/19662_16313_0222_eguchi_s.jpg"
+    ]
+  }
+}

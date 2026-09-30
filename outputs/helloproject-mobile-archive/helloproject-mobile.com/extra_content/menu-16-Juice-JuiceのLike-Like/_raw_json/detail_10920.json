@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 634,
+    "content_id": "10920",
+    "content_title": "うえむーの",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-03-13 10:00:00",
+    "created_at": "2019-02-28 15:46:30",
+    "updated_at": "2019-03-11 11:17:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9382",
+        "material_title": "0308_miyamoto_s.jpg",
+        "material_file": "eea9c3845ead2c670be06ebd89da4bb77e0c26147aa26cb925b970e7203591229382.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10920",
+    "content_title": "うえむーの",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-03-13 10:00:00",
+    "created_at": "2019-02-28 15:46:30",
+    "updated_at": "2019-03-11 11:17:43",
+    "content_text": "0308_miyamoto_s.jpg\r\nバレンタインケーキ！",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9382",
+        "material_title": "0308_miyamoto_s.jpg",
+        "material_file": "27770f3ae17b7f3e6b11fdb1ca8396fad2ec498944264775c7774f9a973dff8d9382.jpeg"
+      }
+    ],
+    "previous_id": "10921",
+    "next_id": "10950",
+    "saved_materials": [
+      "assets/10920_9382_0308_miyamoto_s.jpg"
+    ]
+  }
+}

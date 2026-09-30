@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 396,
+    "content_id": "17656",
+    "content_title": "音楽",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-02-10 10:00:00",
+    "created_at": "2022-02-08 19:05:36",
+    "updated_at": "2022-02-08 19:05:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14731",
+        "material_title": "0210_ebata_s.jpg",
+        "material_file": "141cff4b671cf8eb033d36ca0e4e175e414e72c15005111839739d2bbb1e63f914731.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17656",
+    "content_title": "音楽",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-02-10 10:00:00",
+    "created_at": "2022-02-08 19:05:36",
+    "updated_at": "2022-02-08 19:05:36",
+    "content_text": "0210_ebata_s.jpg\r\nこんにちは！！\r\n\r\n\r\n江端妃咲です。\r\n\r\n\r\n最近ね、よく音楽聴いてて\r\n\r\n作業する時とかご飯食べる時とか\r\n\r\nずーっと音楽聞いてる！！\r\n\r\n今も音楽聞いてる！！\r\n\r\n音楽聴くと気分あがるから良いよね(^^♡）\r\n\r\n音楽聞いてたら、暇な時も孤独感が無くなることに気づいた！\r\n\r\n私みたいにひとりが苦手な人は音楽聞いてみて！！！\r\n\r\nいつかブログで私がいつも聞いてる音楽紹介したいなー！\r\n\r\n待っててねん❤︎\r\n\r\n写真はちょっと前に自撮りした時のオフショット(>_<)\r\n\r\nばいばーいᵕ̈",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14731",
+        "material_title": "0210_ebata_s.jpg",
+        "material_file": "5cf7ed1c20ce6ed69d82595939d83016f5e4ec231aebde555b6153f5b4ebee6014731.jpeg"
+      }
+    ],
+    "previous_id": "17657",
+    "next_id": "17593",
+    "saved_materials": [
+      "assets/17656_14731_0210_ebata_s.jpg"
+    ]
+  }
+}

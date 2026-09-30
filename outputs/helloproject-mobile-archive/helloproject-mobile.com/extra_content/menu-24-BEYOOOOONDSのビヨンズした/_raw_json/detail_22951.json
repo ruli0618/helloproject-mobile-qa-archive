@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 159,
+    "content_id": "22951",
+    "content_title": "夏でい",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2024-09-25 10:00:00",
+    "created_at": "2024-09-25 12:06:58",
+    "updated_at": "2024-09-25 12:06:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18808",
+        "material_title": "0925_shimakura_s.jpg",
+        "material_file": "e234515c15a486ed6a174b7ee855c92caff6f8e945896e0fe3065b3af5045c2c18808.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22951",
+    "content_title": "夏でい",
+    "content_sub_title": "島倉りか",
+    "release_date": "2024-09-25 10:00:00",
+    "created_at": "2024-09-25 12:06:58",
+    "updated_at": "2024-09-25 12:06:58",
+    "content_text": "0925_shimakura_s.jpg\r\n父からのお土産でもらったトウモロコシ！七輪で焼きました！甘い！\r\n\r\n【37周目お題：季節を感じる】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "18808",
+        "material_title": "0925_shimakura_s.jpg",
+        "material_file": "7d5ed199e325957b1321aba9603eb55b73612e7ad74fe9e53fe3ea794b8b2dc318808.jpeg"
+      }
+    ],
+    "previous_id": "22952",
+    "next_id": "22737",
+    "saved_materials": [
+      "assets/22951_18808_0925_shimakura_s.jpg"
+    ]
+  }
+}

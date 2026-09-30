@@ -1,0 +1,91 @@
+/*見出し*/
+.manga_header {
+	text-align: center;
+	background-color: #FFEFD5;
+	color: #696969;
+	text-shadow: -1px 1px 0 rgba(255,255,255,0.2);
+	margin: -15px 8px 15px 8px;
+	padding: 10px;
+	line-height: 1em;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	font-size: small;
+}
+
+
+
+/* テーブル表示*/
+table {
+  width: 100%;
+}
+table,th,td {
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+.mangalist {
+	margin: -15px 8px 15px 8px;
+	padding: 10px;
+	font-size: small;
+	color: #0075c2;
+}
+
+
+
+/*矢印*/
+.manga_arrow{
+  position: relative;
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.manga_arrow::before{
+  content: '';
+  width: 10px;
+  height: 10px;
+  border: 0px;
+  border-top: solid 3px #0075c2;
+  border-right: solid 3px #0075c2;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -12px;
+}
+
+
+
+/*サムネイル、数字の表示*/
+.image_text {
+	position: relative;
+}
+
+
+
+.text1 {
+	position: absolute;
+	z-index: 0;
+	pointer-events : none;/*一部要素無効*/
+	font-family: 'Stardos Stencil', cursive;/*Google Font 指定*/
+	color: #0075c2;/*文字色*/
+	font-size: 4em;/*フォントサイズ*/
+	text-shadow: 2px 0px 0px #E0FFFF, 0px 2px 0px #E0FFFF, -2px 0px 0px #E0FFFF, 0px -2px 0px #E0FFFF;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%,-50%);
+	-webkit-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	margin:0;
+	padding:0;
+}
+
+/*サムネイル、円に切り抜いて枠を付ける*/
+.thumbnail img {
+	width:60px;
+	height:60px;
+	border-radius: 50%;
+	box-shadow : 0 0 0 3px #FF9F00;
+}

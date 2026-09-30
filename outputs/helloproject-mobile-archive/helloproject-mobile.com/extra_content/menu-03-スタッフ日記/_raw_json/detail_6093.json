@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 622,
+    "content_id": "6093",
+    "content_title": "年賀状",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-01-19 17:21:00",
+    "created_at": "2017-01-19 17:20:41",
+    "updated_at": "2017-01-19 17:24:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5395",
+        "material_title": "170119.JPG",
+        "material_file": "b4d552d5c23f517349ff79643c5505a056986ffb92f0afa6cc668aea685d7cf95395.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6093",
+    "content_title": "年賀状",
+    "content_sub_title": "",
+    "release_date": "2017-01-19 17:21:00",
+    "created_at": "2017-01-19 17:20:41",
+    "updated_at": "2017-01-19 17:24:34",
+    "content_text": "こんにちは！\nハロ！モバスタッフ番号2番です。\n\n昨日、プレゼント募集をしておりましたメンバー直筆年賀状をポストに投函しました！\n\n170119.JPG\n\n早ければ今日にも、当選された皆さんのお宅に届いているかと思います。\nポストの中を確認してみてくださいね！\n\nそして前回、プレゼントのクリスマスカードを受け取った沢山の方がSNSから「#ハロモバ」で報告して下さっていて、とても嬉しく思います。\nありがとうございました！\n\n皆さんもよかったら「#ハロモバ」を覗いてみて下さいね！\n\n今後、ハロ！モバでこんなコーナーをやってほしい！こんなプレゼント企画があるといい！等などご希望がありましたら、ぜひ企画募集の応募フォームからリクエストして下さい。\n前向きに検討させていただきます！\n\n<a href=\"https://helloproject-mobile.com/info/form/form?form_id=2><font color=\"#0000ff\"><u>ハロ！プロモバイル企画大募集！\n応募フォームはこちら</u></font></a>\n\n",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5395",
+        "material_title": "170119.JPG",
+        "material_file": "2584247d27d3068be1962c40d228c9c1383306befab34b8c4b85a73af578d3f85395.jpeg"
+      }
+    ],
+    "previous_id": "6135",
+    "next_id": "6092",
+    "saved_materials": [
+      "assets/6093_5395_170119.JPG"
+    ]
+  }
+}

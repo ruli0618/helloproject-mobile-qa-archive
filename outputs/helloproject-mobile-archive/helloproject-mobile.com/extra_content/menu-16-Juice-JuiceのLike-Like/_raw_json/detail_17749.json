@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 390,
+    "content_id": "17749",
+    "content_title": "愛用",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2022-03-03 10:00:00",
+    "created_at": "2022-02-28 22:51:48",
+    "updated_at": "2022-02-28 22:52:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14836",
+        "material_title": "0303_matsunaga_s.jpg",
+        "material_file": "442c1f384ae5411f851e607286c26f3c0577508aa2e5cc11c3c77e9cc90573ad14836.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17749",
+    "content_title": "愛用",
+    "content_sub_title": "松永里愛",
+    "release_date": "2022-03-03 10:00:00",
+    "created_at": "2022-02-28 22:51:48",
+    "updated_at": "2022-02-28 22:52:38",
+    "content_text": "0303_matsunaga_s.jpg\r\n最近は白のブーツにはまっていて愛用してます、、！",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14836",
+        "material_title": "0303_matsunaga_s.jpg",
+        "material_file": "108cd5b786ac8535822f92abee7ae7ffed099ef3206f8c6c4943a869f2de300e14836.jpeg"
+      }
+    ],
+    "previous_id": "17750",
+    "next_id": "17748",
+    "saved_materials": [
+      "assets/17749_14836_0303_matsunaga_s.jpg"
+    ]
+  }
+}

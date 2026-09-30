@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 699,
+    "content_id": "9653",
+    "content_title": "知っとく北海道！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2018-08-13 15:47:00",
+    "created_at": "2018-08-13 15:49:01",
+    "updated_at": "2018-08-13 15:51:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8445",
+        "material_title": "0813_inaba_s.jpg",
+        "material_file": "7a4ce4ab44f051d1fb997ed9dac55ad3f33f103a254bdc038c7b1324c334dc858445.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9653",
+    "content_title": "知っとく北海道！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2018-08-13 15:47:00",
+    "created_at": "2018-08-13 15:49:01",
+    "updated_at": "2018-08-13 15:51:18",
+    "content_text": "0813_inaba_s.jpg\n6月30日にサッポロさとらんどより公開生放送がありました！番組のロケでは、支笏湖で初めてのカヤック体験をしました！とっても楽しくて天気も良く気持ちよかったです＼(`v`)／",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8445",
+        "material_title": "0813_inaba_s.jpg",
+        "material_file": "ba131338ba181a8d8f7e602d76ced5543d270b38c3c3a8689c354fc04856a8d18445.jpeg"
+      }
+    ],
+    "previous_id": "9655",
+    "next_id": "9633",
+    "saved_materials": [
+      "assets/9653_8445_0813_inaba_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 75,
+    "content_id": "10503",
+    "content_title": "クリーム",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2018-12-13 12:09:00",
+    "created_at": "2018-12-13 12:09:33",
+    "updated_at": "2018-12-13 12:09:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9077",
+        "material_title": "1213_onoda_s.jpg",
+        "material_file": "0644891be0905a04a537abc84a46a794da2d51d698c126d059389675afd334a59077.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10503",
+    "content_title": "クリーム",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2018-12-13 12:09:00",
+    "created_at": "2018-12-13 12:09:33",
+    "updated_at": "2018-12-13 12:09:33",
+    "content_text": "外の空気を吸うって気持ちいいなーって思った、さおりです♪\r\n\r\nんちゃ！\r\n\r\n1213_onoda_s.jpg\r\n\r\nこの間、お花を見つけたので、写真を撮ってみました！！\r\n\r\n白いお花って、すごく綺麗だなーって思うんです！\r\n\r\nそれもね、ちょっとクリームっぽい感じだったの！！\r\n\r\n写真だとあまりわからないけど笑\r\n\r\n純白もいいけど、クリームっぽい色もすき。\r\n\r\nみんなも、見つけたら写真撮ってみてネ！！！\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9077",
+        "material_title": "1213_onoda_s.jpg",
+        "material_file": "1a0ca56107baf215da4b866475d64a335942506324fca8dcd27549e12801b4ad9077.jpeg"
+      }
+    ],
+    "previous_id": "10512",
+    "next_id": "10453",
+    "saved_materials": [
+      "assets/10503_9077_1213_onoda_s.jpg"
+    ]
+  }
+}

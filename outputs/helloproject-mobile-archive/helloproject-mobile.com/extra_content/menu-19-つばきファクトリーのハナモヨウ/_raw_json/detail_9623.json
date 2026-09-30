@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 94,
+    "content_id": "9623",
+    "content_title": "ひまわりさーん！",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2018-08-03 11:00:00",
+    "created_at": "2018-08-02 13:30:28",
+    "updated_at": "2018-08-02 13:30:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8419",
+        "material_title": "0803_akiyama_s.jpg",
+        "material_file": "29d2db897f2577a55ba9e3a0f59a1bd522dc618f4bc39549809e2fdbe551da4f8419.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9623",
+    "content_title": "ひまわりさーん！",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2018-08-03 11:00:00",
+    "created_at": "2018-08-02 13:30:28",
+    "updated_at": "2018-08-02 13:30:28",
+    "content_text": "0803_akiyama_s.jpg\r\nこの前、大きくて綺麗なひまわりを見つけました<img src=\"/emoji/emoji-images/f6bc.gif\"/>\r\n\r\nひまわりを見つけて\r\n夏を感じましたね〜\r\n\r\n見ててなんだか元気になるお花です<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8419",
+        "material_title": "0803_akiyama_s.jpg",
+        "material_file": "f76e832f498b909323f6499530a6b1cc9bda65ab657752b113a6404b71a7d15e8419.jpeg"
+      }
+    ],
+    "previous_id": "9636",
+    "next_id": "9616",
+    "saved_materials": [
+      "assets/9623_8419_0803_akiyama_s.jpg"
+    ]
+  }
+}

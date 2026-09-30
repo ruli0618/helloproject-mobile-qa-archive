@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 524,
+    "content_id": "8760",
+    "content_title": "工藤の家の屋根裏部屋#19～山岸理子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-19 12:33:00",
+    "created_at": "2018-03-19 12:34:28",
+    "updated_at": "2018-03-19 12:35:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7675",
+        "material_title": "180319_03_s.jpg",
+        "material_file": "7dc12fcf31a9f72eb143e09f69ddb6fe2ddf8ec1863c7920f7ecfe2a172c8c0b7675.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7676",
+        "material_title": "180319_01_s.jpg",
+        "material_file": "dbaf4fcd92fbbb29a67d94c71c739c34b53d6de8ded2788e7e4f75044518552b7676.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7677",
+        "material_title": "180319_02_s.jpg",
+        "material_file": "fffad6ad31edc6608d52a814f1544cc896707f5595aedc8c4536bfc5f6e82d517677.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8760",
+    "content_title": "工藤の家の屋根裏部屋#19～山岸理子～",
+    "content_sub_title": "",
+    "release_date": "2018-03-19 12:33:00",
+    "created_at": "2018-03-19 12:34:28",
+    "updated_at": "2018-03-19 12:35:16",
+    "content_text": "スタッフ日記の更新をお待ちいただいていただ皆様、遅くなりまして申し訳ございません。\n\n「ふくむらの部屋」19回目の配信チェックして頂けましたか？\n\n\n今回のゲストはつばきファクトリーの山岸理子さん！！\n\n\n180319_01_s.jpg\n\n180319_02_s.jpg\n\n\n「みずき先生のハロプロ講座」のコーナーでは\n\nお互いの写真集を見ながらトーク！\n\n撮影時の裏話やお互いの写真集のとあるページに大発見…！\nなどなど盛りだくさん！\n\n写真集をお持ちの方は是非一緒に見ながら聴いてくださいね。\n\n\n180319_03_s.jpg\n\n\nそして山岸さん。\n\n今まで他では話していなかった\n\n衝撃（!?）のご報告をふくむらの部屋で。。。\n\n\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\n「普通のお便り」や「新コーナー案」も大・大・大募集中です！\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7675",
+        "material_title": "180319_03_s.jpg",
+        "material_file": "fc5c6d2c4be0373ad1c3f3c296293128c31ac0c9ce25033025dca2f9e55fc6e47675.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7676",
+        "material_title": "180319_01_s.jpg",
+        "material_file": "92fbf90e262ee38c059c4a5d024c7e7ed762dea7a985b74d5e1e2798fc71723e7676.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7677",
+        "material_title": "180319_02_s.jpg",
+        "material_file": "0588954b28988a72ae8e18e8523d4ec83be430997f69616f54da54705996ca4f7677.jpeg"
+      }
+    ],
+    "previous_id": "8767",
+    "next_id": "8746",
+    "saved_materials": [
+      "assets/8760_7675_180319_03_s.jpg",
+      "assets/8760_7676_180319_01_s.jpg",
+      "assets/8760_7677_180319_02_s.jpg"
+    ]
+  }
+}

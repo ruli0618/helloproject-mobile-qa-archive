@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 261,
+    "content_id": "19980",
+    "content_title": "海",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2023-05-08 10:00:00",
+    "created_at": "2023-04-05 01:04:34",
+    "updated_at": "2023-04-05 01:04:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16525",
+        "material_title": "0508_hirai_s.jpg",
+        "material_file": "e9dfc517cc845565d6b3f4323f16816cf6840f446e5543377e37d06ed15fcb8416525.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19980",
+    "content_title": "海",
+    "content_sub_title": "平井美葉",
+    "release_date": "2023-05-08 10:00:00",
+    "created_at": "2023-04-05 01:04:34",
+    "updated_at": "2023-04-05 01:04:34",
+    "content_text": "0508_hirai_s.jpg\r\n海辺で散歩したいな〜。\r\n\r\n【25周目お題：自然】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16525",
+        "material_title": "0508_hirai_s.jpg",
+        "material_file": "0cb1897097f423819526b5ca055a211c569795b466332499e42dd71954622d7116525.jpeg"
+      }
+    ],
+    "previous_id": "19981",
+    "next_id": "19979",
+    "saved_materials": [
+      "assets/19980_16525_0508_hirai_s.jpg"
+    ]
+  }
+}

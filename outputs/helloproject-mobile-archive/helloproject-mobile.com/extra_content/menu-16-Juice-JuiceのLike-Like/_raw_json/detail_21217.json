@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 218,
+    "content_id": "21217",
+    "content_title": "ビビちゃん❤︎❤︎",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-11-14 10:00:00",
+    "created_at": "2023-11-13 21:59:08",
+    "updated_at": "2023-11-13 21:59:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17422",
+        "material_title": "1114_matsunaga_s.jpg",
+        "material_file": "8ac6d8f90c65de1a96187c8bd11570c28228f2d5712ff051294cc1bdd35332b617422.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21217",
+    "content_title": "ビビちゃん❤︎❤︎",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-11-14 10:00:00",
+    "created_at": "2023-11-13 21:59:08",
+    "updated_at": "2023-11-13 21:59:08",
+    "content_text": "1114_matsunaga_s.jpg\r\nビビちゃんの秘密は実は寝言を言うことです。\r\n大きい声で寝言言うから夜中にびっくりして起きます♡",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17422",
+        "material_title": "1114_matsunaga_s.jpg",
+        "material_file": "fde61dfe7335992ebdb3dec393ddbb3f758f493b7aa99f0fc31bdf2013aa64f017422.jpeg"
+      }
+    ],
+    "previous_id": "21218",
+    "next_id": "21194",
+    "saved_materials": [
+      "assets/21217_17422_1114_matsunaga_s.jpg"
+    ]
+  }
+}

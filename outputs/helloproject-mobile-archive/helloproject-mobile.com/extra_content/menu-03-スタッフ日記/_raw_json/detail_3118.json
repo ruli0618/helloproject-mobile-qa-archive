@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 716,
+    "content_id": "3118",
+    "content_title": "名物コーナー",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-09 00:00:00",
+    "created_at": "2015-09-09 12:12:56",
+    "updated_at": "2015-11-19 11:04:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2937",
+        "material_title": "150909_2.jpg",
+        "material_file": "48d87e2e82cca6b8b4ba5e0ce92d302277a35dea8d9810ce8190864a07a84c752937.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3118",
+    "content_title": "名物コーナー",
+    "content_sub_title": "",
+    "release_date": "2015-09-09 00:00:00",
+    "created_at": "2015-09-09 12:12:56",
+    "updated_at": "2015-11-19 11:04:49",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n\n今日は、みなさんお待ちかねの水曜日！\n1週間の楽しみ「ハロ！ステ」の更新日ですね。\n\n\n「ハロ！ステ」名物コーナーと言えば・・・\n\nそう！「四字熟語」のコーナーです。\n\n先日、「ハロ！ステ」担当スタッフが、「四字熟語コーナー」の編集をしていたので、その様子を隠し撮りしてきました！\n\n150909_2.jpg\n（今日の問題はまだ秘密です。）\n\n前回に引き続き、\n講師は、Juice=Juice 宮本佳林\n生徒は、カントリー・ガールズ 小関舞\nで、今回もお届けする、「四字熟語コーナー」\n\nみなさんも一緒にお勉強してくださいね！\n\n\nハロ！ステ#134　今日21時更新です！\n是非ご覧ください。\n\n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/user/helloprojectstation\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/user/helloprojectstation</u></font></a>\n</span>\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2937",
+        "material_title": "150909_2.jpg",
+        "material_file": "b46ee895fb2232f4628ad67cc7dc45ac88607d4901001d54c6c43d85b381d63d2937.jpeg"
+      }
+    ],
+    "previous_id": "3119",
+    "next_id": "3112",
+    "saved_materials": [
+      "assets/3118_2937_150909_2.jpg"
+    ]
+  }
+}

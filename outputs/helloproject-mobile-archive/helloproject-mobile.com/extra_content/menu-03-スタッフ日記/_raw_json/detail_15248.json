@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 314,
+    "content_id": "15248",
+    "content_title": "隣のやじまん家の塀の裏#78 里吉うたの",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-12-01 00:00:00",
+    "created_at": "2020-12-22 15:55:38",
+    "updated_at": "2020-12-22 15:57:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12675",
+        "material_title": "201222_1.jpg",
+        "material_file": "a0b784bf0fbdc64538907ede8d44a8758cf65a5e962874c91d534dd16d60434b12675.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12676",
+        "material_title": "201222_2.jpg",
+        "material_file": "9b9f9924a4028e719a19e7a03256c5c4b7694a9de4e6fc55387372260b4ce2d412676.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15248",
+    "content_title": "隣のやじまん家の塀の裏#78 里吉うたの",
+    "content_sub_title": "",
+    "release_date": "2020-12-01 00:00:00",
+    "created_at": "2020-12-22 15:55:38",
+    "updated_at": "2020-12-22 15:57:27",
+    "content_text": "更新が遅れ申し訳ございません。\r\n「隣のやじまん家」第78回 前後編配信中です！\r\n\r\n今回のゲストはBEYOOOOONDS 里吉うたのさん！！\r\n矢島さんとじっくり話すのは今回はじめてとのことです♡\r\n\r\n矢島さんは「ルパンの娘」里吉さんは「科捜研の女」と話題のドラマに出演したおふたり。\r\nドラマトークや演技についてもお聴き逃しなく！\r\nおふたりの今年の漢字もチェックしてくださいね。\r\n\r\n201222_1.jpg\r\n\r\n\r\n「矢島パイセンの○○チェック」では、\r\n里吉さんの手先がとっても器用とのタレコミ！\r\nなんとハロウィンの仮装衣装を手作りしたそうです…！\r\n矢島パイセンの判断はアリ？それともナシ？\r\n\r\n\r\n今回の「VS矢島」はこちらの対決！\r\n\r\n①「はぁ」ていうゲーム(のアレンジバーション)！！\r\n\r\nセリフを考えてどんな心境で言っているのか当てるゲームです。\r\nなんとまさかの結果に？！？（笑）\r\nこちらは後編からお聴きください！\r\n\r\n201222_2.jpg\r\n\r\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から譜久村さん、佐々木さんの質問に答えました！\r\nおふたりの質問はどの番組で読まれるのか、\r\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\r\n\r\n\r\n\r\n次回のテーマトークのお題は\r\n「2020年を振り返って」\r\n「VS矢島」で対決するお題も募集！\r\n\r\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回2020年ラストのゲストはつばきファクトリー 山岸理子さんが登場！\r\n12/8(火)～前編・12/22(火)～後編の配信スタート！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12675",
+        "material_title": "201222_1.jpg",
+        "material_file": "d3912db7dc60d07cf1396324ecd8ce29be0414cd37a75c12994866f67145e1e412675.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12676",
+        "material_title": "201222_2.jpg",
+        "material_file": "7947f97093f1a52c574a625b451b43ec970f6636ea28e4d7b83c13f4aa4aa3ef12676.jpeg"
+      }
+    ],
+    "previous_id": "14755",
+    "next_id": "14859",
+    "saved_materials": [
+      "assets/15248_12675_201222_1.jpg",
+      "assets/15248_12676_201222_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 172,
+    "content_id": "22160",
+    "content_title": "コンサート",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-05-07 10:00:00",
+    "created_at": "2024-05-07 14:43:12",
+    "updated_at": "2024-05-07 14:43:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18167",
+        "material_title": "0507_dambara_s.jpg",
+        "material_file": "1188b08a347da4fb5ed28b418f8b9b7b5ff16ab7d07a332344c18a5fe75cdf1918167.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22160",
+    "content_title": "コンサート",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-05-07 10:00:00",
+    "created_at": "2024-05-07 14:43:12",
+    "updated_at": "2024-05-07 14:43:12",
+    "content_text": "0507_dambara_s.jpg\r\n春ツアー開催中です！\r\nコンサート最高だねぇ<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18167",
+        "material_title": "0507_dambara_s.jpg",
+        "material_file": "778821f44f6a897ab6e0f0eab183430a536d190c594295adfeada9169ff24fd218167.jpeg"
+      }
+    ],
+    "previous_id": "22161",
+    "next_id": "22097",
+    "saved_materials": [
+      "assets/22160_18167_0507_dambara_s.jpg"
+    ]
+  }
+}

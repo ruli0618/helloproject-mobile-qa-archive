@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 649,
+    "content_id": "5267",
+    "content_title": "宣伝会議 議事録#5",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-30 17:43:00",
+    "created_at": "2016-08-30 17:37:47",
+    "updated_at": "2016-08-30 17:44:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4752",
+        "material_title": "160830_1.jpg",
+        "material_file": "93adf075551609d268b25b3d10eff84c8dcf0a0f8c8f3b1da37a7e07dd7a1db94752.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4753",
+        "material_title": "160830_2.jpg",
+        "material_file": "d956bc3dd895d0f5cc75bbc31afd5c1ac16e36eacc16ebb47295b1fae38961bd4753.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4754",
+        "material_title": "160830_3.jpg",
+        "material_file": "466cb349731f76efbf35018c7c8efa1a82ff1eeb6b8d2cb6e36f2306ddb9bc2f4754.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5267",
+    "content_title": "宣伝会議 議事録#5",
+    "content_sub_title": "",
+    "release_date": "2016-08-30 17:43:00",
+    "created_at": "2016-08-30 17:37:47",
+    "updated_at": "2016-08-30 17:44:58",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と、宣伝部員の尾形春水・野中美希・梁川奈々美による5回目の宣伝会議が行われました！\n\n今回はついに宣伝部副部長を決める為の打ち合わせがスタートしましたよ！\nどうやって決める事になったのか、ぜひ宣伝会議をチェックしてみてください。\n\n今回は宣伝会議が始まってまもなく、ハロ！モバ責任者よりアイスクリームの差し入れが！！\n歓喜の声が会議室の外まで響き渡りました！\n\nアイスはすぐに食べてしまったので、部員によるイラストを使った写真はこちら！\nいつもより笑顔です。。\n\n160830_1.jpg\n\nその他にも、特別企画の打ち合わせなども一生懸命打ち合わせしていました！\nぜひ今回の宣伝会議もお楽しみください！\n\n部員の3人の中に宣伝部副部長はいるのか！？\n\n160830_2.jpg\n\n\n今回の尾形書記のメモはこちら！\n\n160830_3.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4752",
+        "material_title": "160830_1.jpg",
+        "material_file": "e50f8a3a8e17a021b9e347c6bd7d4efa9cd573ad9ed7ed7ef921b3caeea5697a4752.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4753",
+        "material_title": "160830_2.jpg",
+        "material_file": "ac4d06e8635c5ccdde301440119b6d0fffb6ad992e64317519cb759d8cd04fd24753.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4754",
+        "material_title": "160830_3.jpg",
+        "material_file": "f4e27d090827cec613ebc0b1b2cda275ac3a94c244d9a1f22fd11a40abfd566f4754.jpeg"
+      }
+    ],
+    "previous_id": "5273",
+    "next_id": "5240",
+    "saved_materials": [
+      "assets/5267_4752_160830_1.jpg",
+      "assets/5267_4753_160830_2.jpg",
+      "assets/5267_4754_160830_3.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 506,
+    "content_id": "9209",
+    "content_title": "工藤の家の屋根裏部屋#24～段原瑠々～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-05-24 14:13:00",
+    "created_at": "2018-05-24 14:13:36",
+    "updated_at": "2018-05-24 14:14:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8066",
+        "material_title": "180524_01_s.jpg",
+        "material_file": "d7310a5f2f2093e400aa619d192d7f897ae828ecde8755abf5adea56b33bac388066.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8067",
+        "material_title": "180524_02_s.jpg",
+        "material_file": "5a7df1b1faa1d98028fcc9a371505dc80ca26122c8a44610e1660ad5e468bce48067.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9209",
+    "content_title": "工藤の家の屋根裏部屋#24～段原瑠々～",
+    "content_sub_title": "",
+    "release_date": "2018-05-24 14:13:00",
+    "created_at": "2018-05-24 14:13:36",
+    "updated_at": "2018-05-24 14:14:46",
+    "content_text": "「ふくむらの部屋」24回目の配信開始しました！\r\n\r\n今回のゲストはJuice=Juice段原瑠々さんが登場！！\r\n\r\nいつにも増してゆった～りとした雰囲気の回にきっと癒されると思います。\r\n\r\n180524_01_s.jpg\r\n\r\n段原さんが研修生時代にモーニング娘。のコンサートに帯同した\r\n懐かしエピソードには譜久村さんもびっくり？\r\n\r\n研修生・実力診断テストについても段原さんのエピソードを語っています！\r\n\r\n段原さん憧れの先輩鞘師里保さんや地元の広島県についてもたくさんたくさん語っています。\r\n\r\nふくむらの部屋ならではのとても濃～い内容になっています\r\n\r\n180524_02_s.jpg\r\n\r\n\r\nそしてついにラジオネームが決まりました！\r\n\r\n譜久村さんはどのラジオネームも個性豊かで選び難い！と本当に迷っていました。\r\n\r\nなので、決まったラジオネームで送るも良し、好きなラジオネームで送るも良し！\r\n\r\nとのことでした！！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきファンの行動あるある大辞典」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8066",
+        "material_title": "180524_01_s.jpg",
+        "material_file": "652eefc19c860e46323722aa76a2cd987e5d5cc9b7d69431b3be2a8c48101e7b8066.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8067",
+        "material_title": "180524_02_s.jpg",
+        "material_file": "fedbf165c000515bda427b9fc33447c6cd198472b261fb4afbacadef70f0ca948067.jpeg"
+      }
+    ],
+    "previous_id": "9256",
+    "next_id": "9196",
+    "saved_materials": [
+      "assets/9209_8066_180524_01_s.jpg",
+      "assets/9209_8067_180524_02_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 188,
+    "content_id": "19768",
+    "content_title": "みよちゃん家の縁側の猫#13 加賀楓",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-10-25 00:00:00",
+    "created_at": "2023-03-03 18:24:13",
+    "updated_at": "2023-03-03 18:38:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16398",
+        "material_title": "20230303_01.jpg",
+        "material_file": "1393c478e979b9d06b019d42d236a170a65ed4572de7d45261df7b98ded004f116398.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16399",
+        "material_title": "20230303_02.jpg",
+        "material_file": "38ca0ceb1a92d53b2622c56b223b2c196fca74e31248bea327da5669932976c116399.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19768",
+    "content_title": "みよちゃん家の縁側の猫#13 加賀楓",
+    "content_sub_title": "",
+    "release_date": "2022-10-25 00:00:00",
+    "created_at": "2023-03-03 18:24:13",
+    "updated_at": "2023-03-03 18:38:25",
+    "content_text": "「みよちゃん家の縁側」#13配信中です！\n\n第13回ゲストは、12月に卒業予定のモーニング娘。'22加賀楓さん！\n卒業前に縁側に遊びに来てくれました<img src=\"/emoji/emoji-images/5047.gif\"/>\n平井さんも大好きな加賀さんがゲストということで、収録中とっても嬉しそうでしたよ<img src=\"/emoji/emoji-images/f650.gif\"/>\n\n20230303_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①おいで！踊ろう！\n②Bluetooth\n③まよりん\n④加賀のライン\n\nまさかの逆再生チャレンジの才能があった加賀さん(笑)\n是非配信をお聴きください！\n\n\n「演技してみよ～！」のコーナーでは、\nハムカツ黙示録セリフ部分の加賀さんバージョン、ガンダムならぬ「カガダム」の2本をお送りしました！\n\n\nダンス学園のトークはもちろん！チーム風、ファッション、普段聴いてる音楽のお話まで！\nその他たくさんのお便りを紹介しています！\n\n20230303_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第14回ゲストは、つばきファクトリー秋山眞緒さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16398",
+        "material_title": "20230303_01.jpg",
+        "material_file": "02f22ebd68389164feeb53da3cbad964037c6fdded070e3b2996d205803ad3be16398.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16399",
+        "material_title": "20230303_02.jpg",
+        "material_file": "9e394fa489a3bc131071a16918077dd76f1801598aa6c9c72acc95d28f5fe97b16399.jpeg"
+      }
+    ],
+    "previous_id": "20215",
+    "next_id": "21225",
+    "saved_materials": [
+      "assets/19768_16398_20230303_01.jpg",
+      "assets/19768_16399_20230303_02.jpg"
+    ]
+  }
+}

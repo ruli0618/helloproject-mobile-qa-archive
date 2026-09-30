@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 690,
+    "content_id": "3661",
+    "content_title": "新番組「やじまの部屋」メール募集中！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-12-23 17:00:00",
+    "created_at": "2015-12-23 17:37:05",
+    "updated_at": "2015-12-23 17:37:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3661",
+    "content_title": "新番組「やじまの部屋」メール募集中！",
+    "content_sub_title": "",
+    "release_date": "2015-12-23 17:00:00",
+    "created_at": "2015-12-23 17:37:05",
+    "updated_at": "2015-12-23 17:37:05",
+    "content_text": "こんにちは！\r\nハロモバスタッフ番号2番です。\r\n\r\n大好評！ハロー！ラジオでは、\r\n鞘師里保に代わり、℃-ute矢島舞美が新たにパーソナリティを務める「やじまの部屋」が、1/6(水)より配信スタート！\r\n\r\n初回ゲストは、ハロ！モバ宣伝部長のモーニング娘。'15工藤遥！\r\n\r\n番組では、会員のみなさんからのメールを大募集中！2人へのメッセージや、質問等、なんでも送ってください！\r\n\r\n\r\nメールの締切は、<font color=\"red\"><b>12/25(金)11:59</b></font>まで！\r\nたくさんのメールお待ちしております！\r\n\r\nメールはラジオネームを明記の上、下記宛先までお送り下さい。\r\n宛先：<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n締切：12/25(金)11:59\r\n\r\n【注意事項】（※必ずお読みください。）\r\n※募集は、700円会員に登録している方が対象となります。\r\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\r\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\r\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\r\n\r\n\r\n<a href=\"https://helloproject-mobile.com/mypage/manage\"><font color=\"#0000ff\"><u>マイページはこちら</u></font></a>\r\n\r\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><font color=\"#0000ff\"><u>ハローラジオはこちら</u></font></a>\r\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3699",
+    "next_id": "3660",
+    "saved_materials": []
+  }
+}

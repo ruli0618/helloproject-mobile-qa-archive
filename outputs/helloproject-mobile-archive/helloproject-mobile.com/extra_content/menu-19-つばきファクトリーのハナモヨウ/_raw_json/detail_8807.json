@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "8807",
+    "content_title": "すごい！",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2018-04-02 11:00:00",
+    "created_at": "2018-03-29 23:32:47",
+    "updated_at": "2018-03-29 23:32:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7726",
+        "material_title": "0406_akiyama_s.jpg",
+        "material_file": "cfbcd2b5fde3dfdf18c515ac5fb45fd9bee77e50155d723489d5f53187ccdb7c7726.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8807",
+    "content_title": "すごい！",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2018-04-02 11:00:00",
+    "created_at": "2018-03-29 23:32:47",
+    "updated_at": "2018-03-29 23:32:47",
+    "content_text": "0406_akiyama_s.jpg\r\n\r\nピンクの花〜♡♡\r\nすごく綺麗に撮れました☆\r\nピンクの花って可愛いな^ ^\r\n\r\n次は、珍しいお花を撮りたいです！！！",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7726",
+        "material_title": "0406_akiyama_s.jpg",
+        "material_file": "e747b3a655f16b930c902805e8a47b10f8c1abeb956c00c316e73b00e652b2687726.jpeg"
+      }
+    ],
+    "previous_id": "8819",
+    "next_id": "8806",
+    "saved_materials": [
+      "assets/8807_7726_0406_akiyama_s.jpg"
+    ]
+  }
+}

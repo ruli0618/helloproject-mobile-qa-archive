@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 54,
+    "content_id": "26985",
+    "content_title": "工藤の家の軒下#36～後藤花～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-04-28 00:00:00",
+    "created_at": "2026-09-28 22:59:23",
+    "updated_at": "2026-09-28 22:59:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26985",
+    "content_title": "工藤の家の軒下#36～後藤花～",
+    "content_sub_title": "",
+    "release_date": "2025-04-28 00:00:00",
+    "created_at": "2026-09-28 22:59:23",
+    "updated_at": "2026-09-28 22:59:23",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第36回はゲストは、後藤花！\r\n\r\n・パフォーマンスの成長\r\n・埼玉自慢\r\n・ゴールデンウィークの思い出\r\n・コミュニケーション力\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・口癖\r\n・グループの末っ子\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・「アンドロイドは夢を見るか？」MV\r\n・オーディション\r\n・一緒に遊びに行きたいところ\r\n・実力診断テスト\r\n・「お祭りデビューだぜ！」MV出演\r\n・LJK\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26986",
+    "next_id": "26952",
+    "saved_materials": []
+  }
+}

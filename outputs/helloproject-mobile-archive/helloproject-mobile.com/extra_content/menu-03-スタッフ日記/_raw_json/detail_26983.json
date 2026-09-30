@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 57,
+    "content_id": "26983",
+    "content_title": "工藤の家の軒下#34～上村麗菜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-04-01 00:00:00",
+    "created_at": "2026-09-28 22:59:21",
+    "updated_at": "2026-09-28 22:59:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22069",
+        "material_title": "250403_034.jpg",
+        "material_file": "c7c873624b00ee220b1e673a1c66f67271be4e0e4cf0584736708fe1c0d06e6122069.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26983",
+    "content_title": "工藤の家の軒下#34～上村麗菜～",
+    "content_sub_title": "",
+    "release_date": "2025-04-01 00:00:00",
+    "created_at": "2026-09-28 22:59:21",
+    "updated_at": "2026-09-28 22:59:21",
+    "content_text": "250403_034.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第34回はゲストは、上村麗菜！\r\n\r\n・楽屋での上村麗菜\r\n・屋久島\r\n・中学校を転校\r\n・ハマっているもの\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・方言\r\n・行ってみたい国\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・ツアー初日\r\n・ひなフェス\r\n・地元の良いところ\r\n・MV撮影\r\n・伊勢鈴蘭\r\n・単独ライブ\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22069",
+        "material_title": "250403_034.jpg",
+        "material_file": "7b004ffc4cc52acc87cdc85a6c8b9bb26987adbf06bb9a20ba48da2c705c59a622069.jpeg"
+      }
+    ],
+    "previous_id": "26984",
+    "next_id": "26951",
+    "saved_materials": [
+      "assets/26983_22069_250403_034.jpg"
+    ]
+  }
+}

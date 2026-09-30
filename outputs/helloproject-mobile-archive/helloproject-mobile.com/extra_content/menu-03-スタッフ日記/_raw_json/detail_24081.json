@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 157,
+    "content_id": "24081",
+    "content_title": "みよちゃん家の縁側の猫#25 牧野真莉愛",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-04-11 00:00:00",
+    "created_at": "2025-04-02 13:23:05",
+    "updated_at": "2025-04-02 13:27:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19749",
+        "material_title": "250331_06.jpg",
+        "material_file": "08fa68d0510b33d1b93b987e8420bbe6599e7de2c39140ffff2a07548366a2d019749.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19750",
+        "material_title": "250331_05.jpg",
+        "material_file": "fe6ef66cfdc005bc6662b05a4dc3d30ccea1f2b1a5293f5caa016c89f8ee2f5819750.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24081",
+    "content_title": "みよちゃん家の縁側の猫#25 牧野真莉愛",
+    "content_sub_title": "",
+    "release_date": "2023-04-11 00:00:00",
+    "created_at": "2025-04-02 13:23:05",
+    "updated_at": "2025-04-02 13:27:03",
+    "content_text": "「みよちゃん家の縁側」#25配信中です！\n\n第25回ゲストは、モーニング娘。'23の牧野真莉愛さん！\n\n250331_05.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①みよちゃん家の縁側\n②みよみよ\n③ドラゴンボール\n④求めよ…運命の旅人算/夢さえ描けない夜空には\n\nなんと！この番組も2年目に突入しました<img src=\"/emoji/emoji-images/f36f.gif\"/>\n初回配信からあっという間の1年！引き続きよろしくお願いします！\n過去の配信をもう一度聴いて平井さんの成長も感じてみてくださいね<img src=\"/emoji/emoji-images/f9ed.gif\"/>\n\n「演技してみよ～！」のコーナーでは、\n「高校野球」、「お助けください！」の2本をお届けしました。\n\n\nその他、「SEXY BOY～そよ風に寄り添って～」ダンスの意識している所、クラシックバレエ経験者のお二人ですがお互いのダンスの印象、行ってみたい国も！\nたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250331_06.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、OCHA NORMA 中山夏月姫さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19749",
+        "material_title": "250331_06.jpg",
+        "material_file": "3579df3be23bd6606ffed08f06781ed0d4b01cd9664c1b37e35408c3a350acf219749.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19750",
+        "material_title": "250331_05.jpg",
+        "material_file": "7dd4ce31afed077726e8d2f36e6cfa1e5ba6dddfc1b24269f25a48e2eca1cd5f19750.jpeg"
+      }
+    ],
+    "previous_id": "21238",
+    "next_id": "21237",
+    "saved_materials": [
+      "assets/24081_19749_250331_06.jpg",
+      "assets/24081_19750_250331_05.jpg"
+    ]
+  }
+}

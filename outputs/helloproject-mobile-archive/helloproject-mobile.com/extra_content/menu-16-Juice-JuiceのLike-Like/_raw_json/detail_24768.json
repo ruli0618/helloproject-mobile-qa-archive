@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 71,
+    "content_id": "24768",
+    "content_title": "20歳同士",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-08-07 10:00:00",
+    "created_at": "2025-08-06 19:05:36",
+    "updated_at": "2025-08-06 19:05:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20241",
+        "material_title": "250806_kudo_s.jpg",
+        "material_file": "969a5320b542af743d25f4948c2084c0524a5cd530527cf5fe181b4ecd5e35a920241.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24768",
+    "content_title": "20歳同士",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-08-07 10:00:00",
+    "created_at": "2025-08-06 19:05:36",
+    "updated_at": "2025-08-06 19:05:58",
+    "content_text": "250806_kudo_s.jpg\r\n里愛が20歳！\r\n改めておめでとう♡\r\nこの間一緒に帰ったのですが、\r\nいつもの帰り道、あっという間で、遠回りしていこうかお互い悩みました笑\r\n里愛と途中コンビニ寄ったのですが、2人とも紙パックのジュース買ってました笑",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "20241",
+        "material_title": "250806_kudo_s.jpg",
+        "material_file": "0d32ba29032cb68ad7495d883dcba48f4987c892b10f4bf5d454a78d1680ca9e20241.jpeg"
+      }
+    ],
+    "previous_id": "24769",
+    "next_id": "24655",
+    "saved_materials": [
+      "assets/24768_20241_250806_kudo_s.jpg"
+    ]
+  }
+}

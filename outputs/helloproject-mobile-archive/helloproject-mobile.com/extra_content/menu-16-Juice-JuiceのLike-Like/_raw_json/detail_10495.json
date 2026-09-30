@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 653,
+    "content_id": "10495",
+    "content_title": "はたち",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-01-05 11:00:00",
+    "created_at": "2018-12-11 15:32:08",
+    "updated_at": "2019-01-06 00:17:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9070",
+        "material_title": "0105_dambara_s.jpg",
+        "material_file": "e2e8a91c1a8fa613ae7715e02a7a85666fbb79a59e5bfffd49c9e15849af21ad9070.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10495",
+    "content_title": "はたち",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-01-05 11:00:00",
+    "created_at": "2018-12-11 15:32:08",
+    "updated_at": "2019-01-06 00:17:10",
+    "content_text": "0105_dambara_s.jpg\r\n12月1日は、宮本佳林さん20歳の誕生日でした<img src=\"/emoji/emoji-images/4766.gif\"/>\r\n本当におめでとうございます！！",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9070",
+        "material_title": "0105_dambara_s.jpg",
+        "material_file": "4a5fb22496fabeeaae024033345584f329a63cbf084c0f119531c26adfccc8d69070.jpeg"
+      }
+    ],
+    "previous_id": "10497",
+    "next_id": "10493",
+    "saved_materials": [
+      "assets/10495_9070_0105_dambara_s.jpg"
+    ]
+  }
+}

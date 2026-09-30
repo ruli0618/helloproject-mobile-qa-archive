@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 667,
+    "content_id": "4434",
+    "content_title": "工藤の家の天井裏#8　～姉姉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-04-20 23:50:00",
+    "created_at": "2016-04-20 23:52:25",
+    "updated_at": "2016-04-21 00:00:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4043",
+        "material_title": "160418_1_s.jpg",
+        "material_file": "8845ec0d9ecb94800c7c7174799141642cb191a3ff762d2a317d0189e7ba3d184043.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4044",
+        "material_title": "160418_2_s.jpg",
+        "material_file": "632febfbd34e445b1dabc595d4a912135669dd44bc90347dfb8a85128aa5ecdb4044.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4045",
+        "material_title": "160418_3.jpg",
+        "material_file": "b78bd066ebb53ac5ae25370f3151b30da89fb4ae0186a1b3fd2c69444e960ccc4045.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4434",
+    "content_title": "工藤の家の天井裏#8　～姉姉～",
+    "content_sub_title": "",
+    "release_date": "2016-04-20 23:50:00",
+    "created_at": "2016-04-20 23:52:25",
+    "updated_at": "2016-04-21 00:00:30",
+    "content_text": "スタッフ日記の更新が遅れましたが…\nやじまの部屋やな#8公開中です！\n\nゲストは、意外と適当な飯窪さん。\nいつか矢島と共にダイビングに行く日は訪れるのでしょうか。\n\n\n今回の写真はこちら！\n\n160418_1_s.jpg\nどこで売っているのか？話題の目玉焼き柄ワンピース！\n\n160418_2_s.jpg\n改めてお詫び申し上げます…。\n\n\n「犯人を追え！」コーナーの似顔絵はこちら。 \n\n160418_3.jpg\n\nハロ！モバ会員限定イベント「コロンの娘。アコースティックライブ(仮)」が開催されるかどうかについては、次回発表します！\n\nそして次回ゲストは…\nついにあの人が矢島と共演！？\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4043",
+        "material_title": "160418_1_s.jpg",
+        "material_file": "6e85d5b050606200de2de5d46197b3efcfa116e2988dc11553b3ce6584f315994043.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4044",
+        "material_title": "160418_2_s.jpg",
+        "material_file": "aa0fb73cf8bd0315af2132955ac982f9e0907c54ffb305d5febe4c86ef4df13f4044.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4045",
+        "material_title": "160418_3.jpg",
+        "material_file": "52c0ca0b7ddc3a460a8da3a816e98703902f11e53d7fdc7cca3045aaefe4f62c4045.jpeg"
+      }
+    ],
+    "previous_id": "4435",
+    "next_id": "4416",
+    "saved_materials": [
+      "assets/4434_4043_160418_1_s.jpg",
+      "assets/4434_4044_160418_2_s.jpg",
+      "assets/4434_4045_160418_3.jpg"
+    ]
+  }
+}

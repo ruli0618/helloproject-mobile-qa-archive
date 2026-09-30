@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 9,
+    "content_id": "23718",
+    "content_title": "お笑いライブ",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2025-01-24 16:30:00",
+    "created_at": "2025-01-24 16:30:03",
+    "updated_at": "2025-01-24 16:30:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "23718",
+    "content_title": "お笑いライブ",
+    "content_sub_title": "",
+    "release_date": "2025-01-24 16:30:00",
+    "created_at": "2025-01-24 16:30:03",
+    "updated_at": "2025-01-24 16:30:03",
+    "content_text": "石田さん、小田さんと一緒にお笑いライブに行ってきました！\r\n\r\nお笑いライブ中、横から独特な笑い声が聞こえるなと思ったら左隣に座っていた石田さんでした。石田さんの笑い声が、美しい音程と響きで会場に響き渡っていたので、そんなところまでエンターテイナーなのか…凄すぎる…と感じました。\r\n\r\nかと思ったら、右隣の小田さんは笑いながらも、ちょいちょいあの国民的アニメのキャラクターばりの「え〜？！」(そういう展開？！みたいなニュアンスの「え〜？！」に聞こえました)を発していて、こっちも独特な反応？！と感じました。\r\n\r\n自分のことは自分の中の普通、通常運転になっているので、私自身がどのようなスタイルでお笑いを鑑賞していて、尚且つそれがどう見えているのかは定かでは無いですが、個性って面白いなと思いました！\r\n\r\nお笑い、とーっても楽しかったです！\r\nそれでわん。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "24039",
+    "next_id": "23637",
+    "saved_materials": []
+  }
+}

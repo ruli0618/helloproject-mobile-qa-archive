@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 812,
+    "content_id": "6522",
+    "content_title": "広島／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-04-18 17:53:00",
+    "created_at": "2017-04-18 17:53:23",
+    "updated_at": "2017-04-18 17:55:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5777",
+        "material_title": "5912059258473_s.jpg",
+        "material_file": "e0e02e3075bc3868da4ebb3a2e05fabf494d0937287f426597703a2aa3b8da4b5777.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6522",
+    "content_title": "広島／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2017-04-18 17:53:00",
+    "created_at": "2017-04-18 17:53:23",
+    "updated_at": "2017-04-18 17:55:02",
+    "content_text": "5912059258473_s.jpg\r\n出会ったワンコ♥",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5777",
+        "material_title": "5912059258473_s.jpg",
+        "material_file": "4b02a9474d3dde86891b0e729a78362d1a7957ef3538c7dd687584c93a68a8395777.jpeg"
+      }
+    ],
+    "previous_id": "6635",
+    "next_id": "6514",
+    "saved_materials": [
+      "assets/6522_5777_5912059258473_s.jpg"
+    ]
+  }
+}

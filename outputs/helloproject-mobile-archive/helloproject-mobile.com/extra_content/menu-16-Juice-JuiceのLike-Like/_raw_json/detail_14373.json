@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 523,
+    "content_id": "14373",
+    "content_title": "フィッシュボーン",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-09-03 10:00:00",
+    "created_at": "2020-08-20 23:17:25",
+    "updated_at": "2020-08-20 23:17:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11959",
+        "material_title": "0903_kudo_s.jpg",
+        "material_file": "be42b45a127f8077e42aad5be34051280207242d564e98ff1070533c85a594a511959.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14373",
+    "content_title": "フィッシュボーン",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-09-03 10:00:00",
+    "created_at": "2020-08-20 23:17:25",
+    "updated_at": "2020-08-20 23:17:25",
+    "content_text": "0903_kudo_s.jpg\r\nフィッシュボーンを練習中です！\r\nアホ毛がすごいので、アホ毛を収めて、より綺麗に編めるように頑張ります♪",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "11959",
+        "material_title": "0903_kudo_s.jpg",
+        "material_file": "e61233b58d6162a5abd96133238dcb755ba2050134ae54f66d9c767f81d58f7811959.jpeg"
+      }
+    ],
+    "previous_id": "14412",
+    "next_id": "14372",
+    "saved_materials": [
+      "assets/14373_11959_0903_kudo_s.jpg"
+    ]
+  }
+}

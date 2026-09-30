@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 324,
+    "content_id": "14445",
+    "content_title": "隣のやじまん家の塀の裏#75 清野桃々姫",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-09-10 00:00:00",
+    "created_at": "2020-09-10 12:47:47",
+    "updated_at": "2020-09-10 12:49:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12023",
+        "material_title": "20200910_1.jpg",
+        "material_file": "fc16b9a8c7ba8e4018a2e95044c395c68ccb6d82285d4cd7ce02c56caef023c212023.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12024",
+        "material_title": "20200910_2.jpg",
+        "material_file": "255979fbe411016f4e13e6136e497727972da7b3ef86d1dde470de9c7f36183212024.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14445",
+    "content_title": "隣のやじまん家の塀の裏#75 清野桃々姫",
+    "content_sub_title": "",
+    "release_date": "2020-09-10 00:00:00",
+    "created_at": "2020-09-10 12:47:47",
+    "updated_at": "2020-09-10 12:49:45",
+    "content_text": "「隣のやじまん家」第75回 前後編配信中です！\n\n今回のゲストは初登場！\nBEYOOOOONDS/雨ノ森 川海 清野桃々姫さん！！\n\n20200910_1.jpg\n\n清野さんの不思議体験や夏のハロコンにてカバーした「香水」についてもお話してくれましたよ！\n\nまた、テーマトーク「誰にも言えない秘密」にたくさんのお便りありがとうございました<img src=\"/emoji/emoji-images/f6de.gif\"/>\nおふたりからも「誰にも言えない秘密」を教えて頂きましたので、ぜひ前編をお聴きくださいね！\n\n\n「矢島パイセンの○○チェック」では、\n清野さんがBEYOOOOONDS小林萌花さんにガチ恋？！\n矢島パイセンの判断は…アリ？それともナシ？？\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①ヒューマンビートボックス対決！！\n\n清野さんから簡単なヒューマンビートボックスを教えてもらって矢島さんがうまくできたら勝ち！というこの対決。\n大盛り上がりした「VS矢島」は後編をチェックしてください☆\n\n20200910_2.jpg\n\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から譜久村さん、金澤さんからの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n次回のテーマトークのお題は\n「今まで経験したアルバイトの思い出」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはモーニング娘。'20 加賀楓さんが登場！\n9/15(火)～前編・9/29(火)～後編の配信スタート！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12023",
+        "material_title": "20200910_1.jpg",
+        "material_file": "b02763e28abea45a3134f73a419244b9579c0b4a3e75b8d98ef7477b16868f1d12023.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12024",
+        "material_title": "20200910_2.jpg",
+        "material_file": "35aa677479f9eacaa5ff41250fbe90ad3cf255572dd4332d115ad5555c87829112024.jpeg"
+      }
+    ],
+    "previous_id": "14407",
+    "next_id": "14444",
+    "saved_materials": [
+      "assets/14445_12023_20200910_1.jpg",
+      "assets/14445_12024_20200910_2.jpg"
+    ]
+  }
+}

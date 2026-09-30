@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 9,
+    "content_id": "26877",
+    "content_title": "目があった！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2026-09-13 10:00:00",
+    "created_at": "2026-09-05 00:07:49",
+    "updated_at": "2026-09-05 00:07:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21938",
+        "material_title": "0913_fukuda_s.jpg",
+        "material_file": "247416a02e9348b5fbb01a29274110d0b169ef9077fed394886febba38279c2d21938.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26877",
+    "content_title": "目があった！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2026-09-13 10:00:00",
+    "created_at": "2026-09-05 00:07:49",
+    "updated_at": "2026-09-05 00:07:49",
+    "content_text": "0913_fukuda_s.jpg\r\n先日波佐見町の陶器屋さんを何軒かまわっていたら、かわぁいい置き物と目が合いました<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nすごくかわいくて幸せな気持ちになりました！\r\n少しクオッカワラビーに似てる気がする<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21938",
+        "material_title": "0913_fukuda_s.jpg",
+        "material_file": "ce0bc52c4ce75919ab67fce0300982c2dded5132372ce0f7c9806143a57d80a521938.jpeg"
+      }
+    ],
+    "previous_id": "26878",
+    "next_id": "26876",
+    "saved_materials": [
+      "assets/26877_21938_0913_fukuda_s.jpg"
+    ]
+  }
+}

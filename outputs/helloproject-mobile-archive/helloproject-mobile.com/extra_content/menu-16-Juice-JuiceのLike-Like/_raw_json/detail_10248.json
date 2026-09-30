@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 670,
+    "content_id": "10248",
+    "content_title": "舞台千秋楽",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2018-11-12 11:00:00",
+    "created_at": "2018-11-08 19:59:16",
+    "updated_at": "2018-11-08 19:59:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8880",
+        "material_title": "1112_inaba_s.jpg",
+        "material_file": "52c578a7f5d2d178cdd11b5038b614b24593d3dcf561340f23ac1281ede52d838880.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10248",
+    "content_title": "舞台千秋楽",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2018-11-12 11:00:00",
+    "created_at": "2018-11-08 19:59:16",
+    "updated_at": "2018-11-08 19:59:16",
+    "content_text": "10月8日に演劇女子部「タイムリピート〜永遠に君を想う〜」が皆様のお陰で無事に千秋楽を迎えました！\r\n沢山のことが浮かんできて、言葉にするのは難しいけれど…気持ちを一言で言うなら「感無量」でした。\r\n\r\n1112_inaba_s.jpg\r\n写真は幸せそうなソーマとルナをみなさんにお届けします☆彡.。\r\nエスペランサ号に乗船してくださった方、応援してくださった皆様、本当にありがとうございました！！",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8880",
+        "material_title": "1112_inaba_s.jpg",
+        "material_file": "80ada72ec888f735cabec1f977c2a56cb0d0b4bc3c00b89baeb48f0d6e1ec9f28880.jpeg"
+      }
+    ],
+    "previous_id": "10249",
+    "next_id": "9954",
+    "saved_materials": [
+      "assets/10248_8880_1112_inaba_s.jpg"
+    ]
+  }
+}

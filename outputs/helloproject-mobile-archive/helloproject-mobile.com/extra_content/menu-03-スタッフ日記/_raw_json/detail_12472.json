@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 384,
+    "content_id": "12472",
+    "content_title": "工藤の家の屋根裏部屋#61～谷本安美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-06 19:05:00",
+    "created_at": "2019-11-06 19:06:05",
+    "updated_at": "2019-11-06 19:07:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10577",
+        "material_title": "191106_s.jpg",
+        "material_file": "a3ec4655fa54b1d81d0ce49d03b511e5cba851f5b676ded075e015207c681f4a10577.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10579",
+        "material_title": "191106_02_s.jpg",
+        "material_file": "86bdcff2e99ee6621dbb93c3088da3cc4302b27bf5953d5738bd20ff1155a17710579.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12472",
+    "content_title": "工藤の家の屋根裏部屋#61～谷本安美～",
+    "content_sub_title": "",
+    "release_date": "2019-11-06 19:05:00",
+    "created_at": "2019-11-06 19:06:05",
+    "updated_at": "2019-11-06 19:07:01",
+    "content_text": "ふくむらの部屋 第61回配信中！\r\n\r\nゲストは、つばきファクトリー谷本安美さんが登場！\r\n\r\nバースデーイベント、フェス、歌声について、注目のハロプロ研修生、フェチ話などなど。\r\n\r\nお悩みも沢山解決させていただきました！\r\n\r\n譜久村さんが、谷本さんと一緒にグラビア出たくないと言った真相は…！？\r\n\r\n後半になるにつれ、ディープなお話を繰り広げていますので、ぜひ最後までお聴きください♪\r\n\r\n191106_s.jpg\r\n\r\nそして今回から、ラジオ3番組コラボ企画がスタート！\r\n企画の成り立ちに関しては、宣伝会議ラジオをチェック！\r\n\r\n191106_02_s.jpg\r\n\r\n次回は、ハロ！モバ宣伝部副部長でもある、つばきファクトリー小片リサさんが出演決定！\r\n回替りコーナーは、「皆に伝えたいハロプロ名場面」\r\n「みずき先生のハロプロ講座」のコーナー、普通のお便りもどしどしお送り下さい！\r\n沢山のお便りお待ちしています♪\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n11/12(火)19:00まで受付！\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10577",
+        "material_title": "191106_s.jpg",
+        "material_file": "8f69cfb9c983009b5065f6a1e15c9c0d603e13f3db16e9c11cb76673b20552dc10577.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10579",
+        "material_title": "191106_02_s.jpg",
+        "material_file": "1dba80e1911c1cb3c6617a4e28771f2fc7b83c8667ab50c247776590856e9f4210579.jpeg"
+      }
+    ],
+    "previous_id": "12473",
+    "next_id": "12407",
+    "saved_materials": [
+      "assets/12472_10577_191106_s.jpg",
+      "assets/12472_10579_191106_02_s.jpg"
+    ]
+  }
+}

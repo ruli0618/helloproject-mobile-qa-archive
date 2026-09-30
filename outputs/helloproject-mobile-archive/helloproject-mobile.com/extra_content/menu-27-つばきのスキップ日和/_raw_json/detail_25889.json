@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 43,
+    "content_id": "25889",
+    "content_title": "メンカラ！",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2026-03-13 19:06:00",
+    "created_at": "2026-03-13 19:06:55",
+    "updated_at": "2026-03-13 19:06:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21212",
+        "material_title": "0313_tanimoto_s.jpg",
+        "material_file": "7ac743fe3513716d60ceda26d1e49eb098ecff97d1e12fe3599e385b35724e5021212.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25889",
+    "content_title": "メンカラ！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2026-03-13 19:06:00",
+    "created_at": "2026-03-13 19:06:55",
+    "updated_at": "2026-03-13 19:06:55",
+    "content_text": "0313_tanimoto_s.jpg\r\n行くぜ！つばきファクトリーのスタッフの皆さんから\r\nメンバーカラーのお花いただきました！\r\nお家で飾ってるよ",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21212",
+        "material_title": "0313_tanimoto_s.jpg",
+        "material_file": "2a8fc106413829674ba838c36f109fc4a7ff606d95ed2107336581417da458ee21212.jpeg"
+      }
+    ],
+    "previous_id": "25890",
+    "next_id": "25737",
+    "saved_materials": [
+      "assets/25889_21212_0313_tanimoto_s.jpg"
+    ]
+  }
+}

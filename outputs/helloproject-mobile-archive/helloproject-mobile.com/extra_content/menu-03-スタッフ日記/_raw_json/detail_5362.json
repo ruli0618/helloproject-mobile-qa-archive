@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 645,
+    "content_id": "5362",
+    "content_title": "工藤の家の天井裏#18　～腹筋～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-22 23:59:00",
+    "created_at": "2016-09-22 00:06:38",
+    "updated_at": "2016-10-03 22:18:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4825",
+        "material_title": "160920_1_s.jpg",
+        "material_file": "7f240c9288528a3052bd07ba3a7f6ec8bb34e8d2face8ebb7dd2f0460fa656264825.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4826",
+        "material_title": "160920_2.jpg",
+        "material_file": "f4b668d70a8942fe279de22413f1a1510f63ef35399172f8830704d639662ac14826.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5362",
+    "content_title": "工藤の家の天井裏#18　～腹筋～",
+    "content_sub_title": "",
+    "release_date": "2016-09-22 23:59:00",
+    "created_at": "2016-09-22 00:06:38",
+    "updated_at": "2016-10-03 22:18:52",
+    "content_text": "やじまの森やな#18公開中！\n\n今回のゲストは、モーニング娘。'16石田亜佑美さん！\n\n歌唱力アップの方法、ダンス部、アイドル論から、得意料理、最後の晩餐まで！\n2人の有名なエピソード「どう？最近スマイレージは？」 の真相も語られます。\nそして恒例の腹筋チェックは行われたのか…\n\n詳しくは放送をお聴き下さい！\n\n\nさて、これは何のポーズでしょうか？\n\n160920_1_s.jpg\n\nヒントは、「犯人を追え！」コーナーの似顔絵の主が似ているというスポーツ選手！\n\nその似顔絵はこちら。 \n\n160920_2.jpg\n\nお分かりでしょうか？\n\n次回のゲストは誰が出演するでしょう。\n次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4825",
+        "material_title": "160920_1_s.jpg",
+        "material_file": "440207860e0bb2ba82e8e273f1fac4a1d881312017ff5372a9d86809ee5777f44825.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4826",
+        "material_title": "160920_2.jpg",
+        "material_file": "9114dc46b9885de53fe6d409cf4434c762e44d9f65a2fde740769d46e3e05ae94826.jpeg"
+      }
+    ],
+    "previous_id": "5386",
+    "next_id": "5331",
+    "saved_materials": [
+      "assets/5362_4825_160920_1_s.jpg",
+      "assets/5362_4826_160920_2.jpg"
+    ]
+  }
+}

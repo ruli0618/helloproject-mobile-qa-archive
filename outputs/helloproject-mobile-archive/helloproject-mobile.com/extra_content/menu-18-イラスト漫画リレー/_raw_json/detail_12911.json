@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 2,
+    "content_id": "12911",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "111",
+    "release_date": "2020-01-23 12:00:00",
+    "created_at": "2020-01-23 10:18:40",
+    "updated_at": "2020-01-23 12:03:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "10926",
+        "material_title": "03_kiyono.jpg",
+        "material_file": "90539cf72b110d6133d20c414ec1f65c5a17dfdfb302bf984338b811011d731110926.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "12911",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2020-01-23 12:00:00",
+    "created_at": "2020-01-23 10:18:40",
+    "updated_at": "2020-01-23 12:03:19",
+    "content_text": "03_kiyono.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10926",
+        "material_title": "03_kiyono.jpg",
+        "material_file": "589da632313f9d8cfb0b2804d1a377c4ebb87e74d59976d2cfcf734eae03dceb10926.jpeg"
+      }
+    ],
+    "previous_id": "13071",
+    "next_id": "12535",
+    "saved_materials": [
+      "assets/12911_10926_03_kiyono.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 586,
+    "content_id": "12465",
+    "content_title": "フルーツサンド",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-11-08 10:00:00",
+    "created_at": "2019-11-05 19:20:38",
+    "updated_at": "2019-11-05 19:20:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10572",
+        "material_title": "1108_inaba_s.jpg",
+        "material_file": "cac93dfe1f91c0e7e4547d431f2979264d0afe0712e52e96b831e77c605fba5b10572.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12465",
+    "content_title": "フルーツサンド",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-11-08 10:00:00",
+    "created_at": "2019-11-05 19:20:38",
+    "updated_at": "2019-11-05 19:20:38",
+    "content_text": "1108_inaba_s.jpg\r\nライブツアーの、岡山で頂いたフルーツサンド！♡とっっても美味しかった〜。フルーツはみずみずしくて、生クリームはフワフワで最高でした！ライブツアーではお邪魔する各地で色々な美味しい食べ物や、名物を頂けるのでそれも楽しみの1つになっています♪",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10572",
+        "material_title": "1108_inaba_s.jpg",
+        "material_file": "4995eb9b537ed6559098dd8a9541a90d40185e2146744bc9ec78688f6b819a7e10572.jpeg"
+      }
+    ],
+    "previous_id": "12495",
+    "next_id": "12442",
+    "saved_materials": [
+      "assets/12465_10572_1108_inaba_s.jpg"
+    ]
+  }
+}

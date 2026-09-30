@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 155,
+    "content_id": "7000",
+    "content_title": "公園で",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2017-07-13 14:57:00",
+    "created_at": "2017-07-12 19:31:01",
+    "updated_at": "2017-07-13 12:38:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6151",
+        "material_title": "170710_onoda1_s.jpg",
+        "material_file": "f5f4d60815387e92cb9975d7757119c57dc16573538db935c1d240afc2103a5e6151.jpeg"
+      },
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6152",
+        "material_title": "170710_onoda2_s.jpg",
+        "material_file": "59f5b9be2f9e507a25e0500e4207489c5f9b8a5e1782770c9f3ab0551e9da46a6152.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7000",
+    "content_title": "公園で",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2017-07-13 14:57:00",
+    "created_at": "2017-07-12 19:31:01",
+    "updated_at": "2017-07-13 12:38:30",
+    "content_text": "お部屋の掃除が好きな、つばきファクトリーの小野田紗栞です♪\r\n\r\n\r\n\r\n公園で、綺麗なお花を見つけましたよっ。\r\n\r\n\r\n\r\nこちらです↓\r\n\r\n\r\n170710_onoda1_s.jpg\r\n\r\n\r\n\r\n綺麗ですよね！！！！！\r\n\r\n\r\n他にも、たくさんお花がありました^_^\r\n\r\n\r\n\r\n\r\n最近、暖かくなってきたのでひまわりも咲いていました（＾Ｏ＾☆♪\r\n\r\n\r\n170710_onoda2_s.jpg\r\n\r\n\r\n\r\nひまわりの花言葉は、\r\n\r\n「あこがれ」「あたただけを見つめる」\r\n\r\nという花言葉だそうです♪\r\n\r\n\r\n皆さんも、お花を見つけたら写真を撮って花言葉を調べてみて下さいねん♡\r\n\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6151",
+        "material_title": "170710_onoda1_s.jpg",
+        "material_file": "518a214fb897ea19939a9a8d7de0993a7075485d084c576ac265ae3057d47ded6151.jpeg"
+      },
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6152",
+        "material_title": "170710_onoda2_s.jpg",
+        "material_file": "2d9f7ca9b39d451928cc95ff5b55a8e8e480619b20add223741796214206fa086152.jpeg"
+      }
+    ],
+    "previous_id": "7001",
+    "next_id": "6999",
+    "saved_materials": [
+      "assets/7000_6151_170710_onoda1_s.jpg",
+      "assets/7000_6152_170710_onoda2_s.jpg"
+    ]
+  }
+}

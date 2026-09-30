@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 538,
+    "content_id": "14029",
+    "content_title": "花",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-06-30 10:00:00",
+    "created_at": "2020-06-18 18:32:32",
+    "updated_at": "2020-06-18 18:32:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11707",
+        "material_title": "0630_dambara_s.jpg",
+        "material_file": "ba513474c7602c129c02acea613284352f4db2b65fe540ddfe426bed2c997f4d11707.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14029",
+    "content_title": "花",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-06-30 10:00:00",
+    "created_at": "2020-06-18 18:32:32",
+    "updated_at": "2020-06-18 18:32:32",
+    "content_text": "0630_dambara_s.jpg\r\n最近とくにお花が好きです。\r\n癒される〜",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11707",
+        "material_title": "0630_dambara_s.jpg",
+        "material_file": "a865d13b76f3f224a504f7f62f0f3636f22e9ac3f82b2889a3f0b66e8f640be311707.jpeg"
+      }
+    ],
+    "previous_id": "14030",
+    "next_id": "14028",
+    "saved_materials": [
+      "assets/14029_11707_0630_dambara_s.jpg"
+    ]
+  }
+}

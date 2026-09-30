@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 539,
+    "content_id": "14028",
+    "content_title": "小夏",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-06-25 10:00:00",
+    "created_at": "2020-06-18 18:32:30",
+    "updated_at": "2020-06-18 18:32:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11708",
+        "material_title": "0625_inoue_s.jpg",
+        "material_file": "99d63ccac4bdb1a648289c8e0916228b0205ded2d776adb779298f8aa9c4a42f11708.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14028",
+    "content_title": "小夏",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-06-25 10:00:00",
+    "created_at": "2020-06-18 18:32:30",
+    "updated_at": "2020-06-18 18:32:30",
+    "content_text": "0625_inoue_s.jpg\r\nゲージから出してくれたはいいけど、誰も構ってくれなくて拗ねちゃう小夏です！この後ちゃんと甘やかしました〜",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11708",
+        "material_title": "0625_inoue_s.jpg",
+        "material_file": "7d2e05a2bb3eb941cbdfb72f7ddddf2db54fb1facdd202405786b8cd9c6d49f411708.jpeg"
+      }
+    ],
+    "previous_id": "14029",
+    "next_id": "14027",
+    "saved_materials": [
+      "assets/14028_11708_0625_inoue_s.jpg"
+    ]
+  }
+}

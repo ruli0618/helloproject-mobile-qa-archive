@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 205,
+    "content_id": "21578",
+    "content_title": "ポイントは右の口角",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2024-02-19 10:00:00",
+    "created_at": "2024-01-16 18:14:32",
+    "updated_at": "2024-01-16 18:14:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17724",
+        "material_title": "0219_satoyoshi_s.jpg",
+        "material_file": "69a27de3a7c067abef80ca8f4c33527519430835a2111e6bede2a69b2864500917724.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21578",
+    "content_title": "ポイントは右の口角",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2024-02-19 10:00:00",
+    "created_at": "2024-01-16 18:14:32",
+    "updated_at": "2024-01-16 18:14:32",
+    "content_text": "0219_satoyoshi_s.jpg\r\nクリスマスのいぬです。\r\n右の口角だけ上がって素敵な表情です<img src=\"/emoji/emoji-images/f485.gif\"/>\r\n\r\n【31周目お題：キメキメショット】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17724",
+        "material_title": "0219_satoyoshi_s.jpg",
+        "material_file": "8af0acd4385f1c0d18b7a81a510885bed839efa6c3a24cac6e80d0d4f20f0c5d17724.jpeg"
+      }
+    ],
+    "previous_id": "21809",
+    "next_id": "21577",
+    "saved_materials": [
+      "assets/21578_17724_0219_satoyoshi_s.jpg"
+    ]
+  }
+}

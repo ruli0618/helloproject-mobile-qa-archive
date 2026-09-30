@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 484,
+    "content_id": "9747",
+    "content_title": "隣のやじまん家の塀の裏#29 野村みな美",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-21 22:02:00",
+    "created_at": "2018-08-21 22:12:50",
+    "updated_at": "2018-08-21 22:12:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8524",
+        "material_title": "180821_2_s.jpg",
+        "material_file": "e1066aa2aae3ecd70d66e43a5cdba5a6cc60ccaf73734491bf199457c489ea0e8524.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9747",
+    "content_title": "隣のやじまん家の塀の裏#29 野村みな美",
+    "content_sub_title": "",
+    "release_date": "2018-08-21 22:02:00",
+    "created_at": "2018-08-21 22:12:50",
+    "updated_at": "2018-08-21 22:12:50",
+    "content_text": "隣のやじまん家#29\r\n本日より公開中です！\r\n\r\n今回のゲストは、こぶしファクトリーから野村みな美さんが来てくれました！\r\n\r\n大学生生活、パン好きエピソード、\r\nコンサートでやってしまった事、\r\n友達との距離感等など…\r\n\r\n「目指せアクトレス矢島」コーナーでは、\r\n矢島さんのKY感的ブラックなところが出ていましたでしょうか。\r\n\r\n180821_2_s.jpg\r\n自撮り(風)で撮影するお二人。\r\n\r\n裏メニュー「モグレポ」も久しぶりに行いました！\r\n\r\n「隣のやじまん家」では、メールを募集しています。\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n「今月のハッピーバースデー♪」は、9月に誕生日を迎える方からのお便りを募集！\r\n\r\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\r\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n次回ゲストはカントリー・ガールズ小関舞さん！\r\n\r\n8/27(月)13時まで、メール受付しています♪\r\n\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8524",
+        "material_title": "180821_2_s.jpg",
+        "material_file": "523819bb796720d1d45aea3ac860578a388d67f984bb3e2590543e7c3dc8ccfe8524.jpeg"
+      }
+    ],
+    "previous_id": "9773",
+    "next_id": "9729",
+    "saved_materials": [
+      "assets/9747_8524_180821_2_s.jpg"
+    ]
+  }
+}

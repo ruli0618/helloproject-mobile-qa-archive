@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 630,
+    "content_id": "5777",
+    "content_title": "LINE！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-11-24 19:32:00",
+    "created_at": "2016-11-24 19:20:56",
+    "updated_at": "2016-11-24 19:32:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5777",
+    "content_title": "LINE！",
+    "content_sub_title": "",
+    "release_date": "2016-11-24 19:32:00",
+    "created_at": "2016-11-24 19:20:56",
+    "updated_at": "2016-11-24 19:32:23",
+    "content_text": "こんばんは！\nハロ！モバスタッフ2番です！\n\nコミュニケーションアプリ「LINE(ライン)」にハロー！プロジェクトの公式アカウントが出来ている事、皆さんはご存知ですか？\n\n忘れてしまいがちなチケット発売日やリリース情報、YouTube動画公開などをお知らせしています。ここでしか見れない情報もあるかもしれません。\n\nぜひ「友だち」登録してくださいね！\n\n<a href=\"http://www.helloproject.com/news/5975/\"><font color=\"#0000ff\"><u>※アプリ登録について、詳しくはコチラ！</u></font></a>\n\n友だちになっておくと、現在不定期に配信している「LINE LIVE」の生配信が始まった時も通知が来るのでオススメです。\n\n生配信をもし見逃してしまった場合は、「LINE LIVE」アプリから過去の番組がチェック出来ます。\n\n今はJuice=Juice、モーニング娘。'16が配信を行いましたが、今後他のグループの生配信も…？\nぜひご期待下さい！\n\n\n<b>★LINE LIVEキャンペーン★</b>\n“ネコ”姿の配信で、モーニング娘。'16、メンバーサイン入りLINEグッズをプレゼント！\n\n【締切】12月4日(日)23:59\n<a href=\"http://lineblog.me/livepress/archives/13094545.html\"><font color=\"#0000ff\"><u>詳しくはコチラ！</u></font></a>\n\n\n<b>★ハロ！モバ宣伝部イベント開催希望★</b>\nイベントが開催されるかどうか、あなたの1通にかかっています。\nメール締切は明日11/25(金)！\n\nこの日記を見て、まだ送ってなかった…という方は、ぜひ <a href=\"mailto:halomoba@gmail.com?subject=宣伝部イベント開催希望\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a> までメールお待ちしております！\n\n※↑アドレスクリックで、空メールが送れます。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5784",
+    "next_id": "5765",
+    "saved_materials": []
+  }
+}

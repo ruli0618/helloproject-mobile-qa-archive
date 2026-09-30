@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 78,
+    "content_id": "23396",
+    "content_title": "宣伝会議#103",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-10-24 00:00:00",
+    "created_at": "2024-11-28 18:21:13",
+    "updated_at": "2024-11-28 18:21:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19238",
+        "material_title": "103.jpg",
+        "material_file": "a35e9028acc4e73c47c0e763c38b75f4a1438e5f2631f6118806a4602245e43519238.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19239",
+        "material_title": "103_01_s.jpg",
+        "material_file": "501c3272442e73d3a3033919aabc257a30f0b64fb1c8c3d8efcaff62388a539f19239.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23396",
+    "content_title": "宣伝会議#103",
+    "content_sub_title": "",
+    "release_date": "2024-10-24 00:00:00",
+    "created_at": "2024-11-28 18:21:13",
+    "updated_at": "2024-11-28 18:21:13",
+    "content_text": "宣伝会議第103回は、川村文乃副部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n103_01_s.jpg\r\n\r\nまずは、前田警備兼広報が編集してくれたPR動画が完成したので、鑑賞会を行いました！\r\nとっても素敵な出来栄えに仕上がった動画、もう見てくれましたか？\r\n\r\nPR動画は<a href=\"https://x.com/halomoba\" target=\"_blank\" >ハロ！モバX公式アカウント</a>から見れます。\r\nぜひ皆さん、いいね・リポストで拡散をお願いします！\r\n\r\n前編では、\r\n・苗場バスツアー\r\n・アン10ルム日記\r\n・上國料萌衣への手紙\r\n・印象的なRECエピソード\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「動物園派？水族館派？」についてディベート！\r\n\r\n後編では、\r\n・ホールでのイヤモニ\r\n・前田初めての一人旅\r\n・上國料川村クルージングイベント\r\n・武道館公演\r\n・2人の思い出話\r\n・一人では出来ない行動\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「井上玲音」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n103.jpg",
+    "materials": [
+      {
+        "secretKey": "4e23d261687a3cab6b3e6857728251f0",
+        "material_id": "19238",
+        "material_title": "103.jpg",
+        "material_file": "4c6274fe336a02fd6342f8dadf975705c4ca73198958d0e7af07d69e130dd6fc19238.jpeg"
+      },
+      {
+        "secretKey": "4e23d261687a3cab6b3e6857728251f0",
+        "material_id": "19239",
+        "material_title": "103_01_s.jpg",
+        "material_file": "ed173ad8c626cdbc4e0e2371fc502116c78a6304d9b3a2a000ec9e50526e114819239.jpeg"
+      }
+    ],
+    "previous_id": "23221",
+    "next_id": "26972",
+    "saved_materials": [
+      "assets/23396_19238_103.jpg",
+      "assets/23396_19239_103_01_s.jpg"
+    ]
+  }
+}

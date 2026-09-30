@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 610,
+    "content_id": "6340",
+    "content_title": "工藤の家の天井裏#30　～大トリ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-03-16 22:38:00",
+    "created_at": "2017-03-16 22:37:44",
+    "updated_at": "2017-03-16 22:39:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5641",
+        "material_title": "170316_s.jpg",
+        "material_file": "c5adad2df89b439c28b5bdce324a07f0463687ad5de407d6b53d951a46cadbf55641.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6340",
+    "content_title": "工藤の家の天井裏#30　～大トリ～",
+    "content_sub_title": "",
+    "release_date": "2017-03-16 22:38:00",
+    "created_at": "2017-03-16 22:37:44",
+    "updated_at": "2017-03-16 22:39:42",
+    "content_text": "やじまの部屋#30公開！\r\n今回のゲストは前回に引き続き℃-uteから、最後の一人！\r\n大トリを務める岡井さんです！\r\n\r\n170316_s.jpg\r\n\r\n2人でのラジオ出演は珍しいという、矢島さんと岡井さんの新鮮なトーク！\r\n岡井家ラジオの実現、期待しています！\r\n\r\nふたりごとのテーマは、\r\n「エゴサ、エゴサーチ」\r\n\r\n普段からエゴサをよくするという岡井さんが語ってくれています。\r\n\r\nハロプロ大喜利のお題は\r\n⇒「矢島舞美が待ち合わせに大遅刻。その理由は？」\r\n\r\n事実は小説よりも奇なり。\r\n実話の投稿が多く、昔話に花咲きました。\r\n\r\n次回お題は\r\n⇒「(多分この人ハロプロのファンだな…)何故わかった？」\r\n\r\n岡井さんのお手本の答えを参考に、沢山の面白回答お待ちしております！\r\n答えに自信が無くても、ぜひ思いついたその一通を送ってみてくださいね。\r\nお題投稿も引き続き大募集！\r\n\r\nそして次回は、シークレットゲストの登場！\r\n矢島さん本人にも知らされていないゲストとは…？\r\n皆さん、お楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5641",
+        "material_title": "170316_s.jpg",
+        "material_file": "89c7f78bcd78d528e7e4319115887065f5e88a46077fdcab22b953860b2416305641.jpeg"
+      }
+    ],
+    "previous_id": "6353",
+    "next_id": "6338",
+    "saved_materials": [
+      "assets/6340_5641_170316_s.jpg"
+    ]
+  }
+}

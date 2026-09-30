@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 856,
+    "content_id": "5249",
+    "content_title": "馬刺し／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-08-25 18:42:00",
+    "created_at": "2016-08-25 18:41:34",
+    "updated_at": "2016-08-25 18:43:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4736",
+        "material_title": "4766887923483_s.jpg",
+        "material_file": "0615810b5f6ac9dfec637b71f317d8da82ac6bc0f1fad40f532a2927c38084044736.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5249",
+    "content_title": "馬刺し／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2016-08-25 18:42:00",
+    "created_at": "2016-08-25 18:41:34",
+    "updated_at": "2016-08-25 18:43:21",
+    "content_text": "4766887923483_s.jpg\r\n美味しい馬刺しを食べました！\r\n幸せです<img src=\"/emoji/emoji-images/f479.gif\"/>\r\nたてがみがすきです！",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4736",
+        "material_title": "4766887923483_s.jpg",
+        "material_file": "5496dacfd349339f38e6654b56f85dbcdf5436314c59fd245e62f410111b5eee4736.jpeg"
+      }
+    ],
+    "previous_id": "5265",
+    "next_id": "5214",
+    "saved_materials": [
+      "assets/5249_4736_4766887923483_s.jpg"
+    ]
+  }
+}

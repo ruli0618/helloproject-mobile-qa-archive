@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 512,
+    "content_id": "9076",
+    "content_title": "工藤の家の屋根裏部屋#22～石田亜佑美～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-04-30 23:59:00",
+    "created_at": "2018-05-01 11:52:17",
+    "updated_at": "2018-05-01 11:53:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7985",
+        "material_title": "180427_01_04.jpg",
+        "material_file": "a20df9d465d30e0b02df1ce7133c35f7be22c0e8ef75f79b20f50ddb5776a2b47985.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7984",
+        "material_title": "180427_01_01.jpg",
+        "material_file": "e174a5718da61f14687a65bc8206dae4f15bf10cc9b5104bf1e7883b5b8fa41b7984.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7986",
+        "material_title": "180427_01_03.jpg",
+        "material_file": "3f384e31a72456b1ac94ec6fc11b593c8ad2eb036388ed1c015458736eecd0d87986.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7987",
+        "material_title": "180427_01_02.jpg",
+        "material_file": "a15fe46d7c9778c4e035fef31dfa1fb83524bceaaec08cda1ea19f2d8f265d937987.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9076",
+    "content_title": "工藤の家の屋根裏部屋#22～石田亜佑美～",
+    "content_sub_title": "",
+    "release_date": "2018-04-30 23:59:00",
+    "created_at": "2018-05-01 11:52:17",
+    "updated_at": "2018-05-01 11:53:50",
+    "content_text": "「ふくむらの部屋」22回目の配信中！ \n今回のゲストは同じグループのモーニング娘｡'18から石田亜佑美さん！！ \n\n180427_01_01.jpg\n\nテンション高めでスタートした今回、\n同い年同士、仲の良さが伺える2人の自由なトークが繰り広げられました。\n\n180427_01_02.jpg\n\nみずき先生のハロプロ講座では \n2人が踊っていて気持ちのいいダンスについてお話ししています。\n\nそして、 みずき先生が感動するお題が登場！\n2人が考える記念の「あれ」とは…？\n大好き100万点エピソードも！\n\nみずきファンの行動あるある大辞典では\n新コーナーながら沢山のお便りが届きました！\n\nどれも\"あるある…\"と頷けるものばかり。\n\n終盤ではかなともこと、金澤朋子さんの話題で大盛り上がり！？\nJuice＝Juiceファンの皆さんもぜひお聴き下さい♪\n\n180427_01_03.jpg\n\n180427_01_04.jpg\n\n「みずき先生のハロプロ講座」「みずきファンの行動あるある大辞典」 \n普通のお便りや新コーナー案も引き続き募集中です！ \nメールはこちらまで \n→ halomoba@gmail.com \n\n件名に必ずコーナー名を記入してお送りください。 \n皆さまからのメールお待ちしております！\n\n次回は森戸知沙希さんがゲスト出演します！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7985",
+        "material_title": "180427_01_04.jpg",
+        "material_file": "8965457437d4f9fab7728626392888f3813188ec8df13040f57a9a4c25e6ed167985.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7984",
+        "material_title": "180427_01_01.jpg",
+        "material_file": "486aa5d685545dd1202a8c79be543dae73b8a783f71595f74cb7f95c0b6561d27984.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7986",
+        "material_title": "180427_01_03.jpg",
+        "material_file": "5ca252377a6a8718621fae684ce176d914eea32eab0aa1de1afcbb204a49bf417986.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7987",
+        "material_title": "180427_01_02.jpg",
+        "material_file": "01ae23989ebb0d34e6d5b3a02a3c1e54a54170ce007acc1740ccadfcccdd1f317987.jpeg"
+      }
+    ],
+    "previous_id": "9077",
+    "next_id": "8979",
+    "saved_materials": [
+      "assets/9076_7985_180427_01_04.jpg",
+      "assets/9076_7984_180427_01_01.jpg",
+      "assets/9076_7986_180427_01_03.jpg",
+      "assets/9076_7987_180427_01_02.jpg"
+    ]
+  }
+}

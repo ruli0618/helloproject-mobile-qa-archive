@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 780,
+    "content_id": "7653",
+    "content_title": "big！！／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-10-13 11:00:00",
+    "created_at": "2017-09-29 15:43:55",
+    "updated_at": "2017-09-29 15:54:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6746",
+        "material_title": "6709550896573_s.jpg",
+        "material_file": "c6e9295240523648c3c33be5552af5eaada811cdded6b58c4edafad8af249e286746.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7653",
+    "content_title": "big！！／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-10-13 11:00:00",
+    "created_at": "2017-09-29 15:43:55",
+    "updated_at": "2017-09-29 15:54:52",
+    "content_text": "6709550896573_s.jpg\r\nビッグベンはビッグでした。ヨーロッパは建物が高いというより全体的に大きくて美しかった〜〜<img src=\"/emoji/emoji-images/4f4e.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6746",
+        "material_title": "6709550896573_s.jpg",
+        "material_file": "b4d8f9e487825dfb3e10924ea8c32423d52dfe8fb5f97081d76e885c8bcbf9ec6746.jpeg"
+      }
+    ],
+    "previous_id": "7654",
+    "next_id": "7471",
+    "saved_materials": [
+      "assets/7653_6746_6709550896573_s.jpg"
+    ]
+  }
+}

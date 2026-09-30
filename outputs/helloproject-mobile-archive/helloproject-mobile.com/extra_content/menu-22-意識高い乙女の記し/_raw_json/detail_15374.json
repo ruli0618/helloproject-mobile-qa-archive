@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 139,
+    "content_id": "15374",
+    "content_title": "メイク",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-01-21 18:21:00",
+    "created_at": "2021-01-21 18:22:27",
+    "updated_at": "2021-01-21 18:22:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12805",
+        "material_title": "210121_akiyama_s.jpg",
+        "material_file": "15a5b637aa7c58eb83114f4eba9e9a005fbefbed353a4907d1b4028da8dc392012805.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15374",
+    "content_title": "メイク",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-01-21 18:21:00",
+    "created_at": "2021-01-21 18:22:27",
+    "updated_at": "2021-01-21 18:22:27",
+    "content_text": "210121_akiyama_s.jpg\r\n今年はお花やファッション、ダンス、歌、などなど色々勉強したいなと思ってましたが、つばきにはメイクコスメに詳しい子がいるのでメイクも教えてもらいたいなぁ(^^)\r\n\r\n詳しくなってかわいくなりたい♡秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "12805",
+        "material_title": "210121_akiyama_s.jpg",
+        "material_file": "2a1a48ceef6ba6f3f0ef70a1713169b9b95f4925323d7bd960e255527167872412805.jpeg"
+      }
+    ],
+    "previous_id": "15389",
+    "next_id": "15312",
+    "saved_materials": [
+      "assets/15374_12805_210121_akiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 258,
+    "content_id": "20345",
+    "content_title": "かわかわかわ",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-06-15 10:00:00",
+    "created_at": "2023-06-13 21:05:55",
+    "updated_at": "2023-06-13 21:05:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16785",
+        "material_title": "0615_matsunaga_s.jpg",
+        "material_file": "5653e54d413c11050c598789601cc31c0b093b2c61f4a3598e37de6742e1e3f516785.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20345",
+    "content_title": "かわかわかわ",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-06-15 10:00:00",
+    "created_at": "2023-06-13 21:05:55",
+    "updated_at": "2023-06-13 21:05:55",
+    "content_text": "0615_matsunaga_s.jpg\r\n新メンバーの川嶋美楓ちゃん！\r\nかわかわかわ〜〜♡♡",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16785",
+        "material_title": "0615_matsunaga_s.jpg",
+        "material_file": "475af24206c65153fd67369c1302e74b444fc40c2c2be44ea5921a4f2b3f685516785.jpeg"
+      }
+    ],
+    "previous_id": "20391",
+    "next_id": "20343",
+    "saved_materials": [
+      "assets/20345_16785_0615_matsunaga_s.jpg"
+    ]
+  }
+}

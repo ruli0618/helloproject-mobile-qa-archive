@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 152,
+    "content_id": "24594",
+    "content_title": "みよちゃん家の縁側の猫#27 新沼希空",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-05-09 00:00:00",
+    "created_at": "2025-07-02 18:16:10",
+    "updated_at": "2025-07-02 18:19:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20133",
+        "material_title": "250616_01.jpg",
+        "material_file": "d1d13bf7e602a63b6ca693190df2b429967cbbdca6adbaa8363dc2d77fe7438020133.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20132",
+        "material_title": "250616_02.jpg",
+        "material_file": "cad1d582f5e5140ea330ad51c3b54e5348d16151114fbcceb97339228b0cfe4d20132.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24594",
+    "content_title": "みよちゃん家の縁側の猫#27 新沼希空",
+    "content_sub_title": "",
+    "release_date": "2023-05-09 00:00:00",
+    "created_at": "2025-07-02 18:16:10",
+    "updated_at": "2025-07-02 18:19:54",
+    "content_text": "「みよちゃん家の縁側」#27配信中です！\n第27回ゲストは、つばきファクトリーの新沼希空さん！\n\n250616_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①ゴールデンウィーク\n②スキップ・スキップ・スキップ\n③推し傘\n④バイキソラーン\n\n逆再生コーナーとっても楽しんでもらえたようで良かったです<img src=\"/emoji/emoji-images/f37e.gif\"/>\n\n\n「演技してみよ～！」のコーナーでは、\n「夢の案内人」、「ツンデレな会社の同僚」の2本をお届けしました。\n\n\nその他、11人体制のつばきファクトリー、春ツアーの見どころや新沼さんの好きな着物・ヘアアレンジについても！！\n珍しく収録が押してしまうくらい話が盛り上がりました<img src=\"/emoji/emoji-images/4f4f.gif\"/>\nたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250616_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、ハロモバ宣伝部長 モーニング娘。'23 野中美希さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "20133",
+        "material_title": "250616_01.jpg",
+        "material_file": "722814b43f6f246e9c8f763c3e77a3428ebba8f49afe0a32bbf14e72206065b720133.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "20132",
+        "material_title": "250616_02.jpg",
+        "material_file": "6b0dcc49a7b1a0246d1ca881af6e4d5c5812b418cf7ab2f9f41716f6217cd4c320132.jpeg"
+      }
+    ],
+    "previous_id": "20208",
+    "next_id": "21239",
+    "saved_materials": [
+      "assets/24594_20133_250616_01.jpg",
+      "assets/24594_20132_250616_02.jpg"
+    ]
+  }
+}

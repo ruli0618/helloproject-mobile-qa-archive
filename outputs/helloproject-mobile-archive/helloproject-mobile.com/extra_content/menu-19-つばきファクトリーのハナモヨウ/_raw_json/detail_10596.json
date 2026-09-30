@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 71,
+    "content_id": "10596",
+    "content_title": "今年も！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-01-08 12:45:00",
+    "created_at": "2019-01-08 12:46:23",
+    "updated_at": "2019-01-08 12:46:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9138",
+        "material_title": "0108_ono_s.jpg",
+        "material_file": "7db81d8755374a58434a3ae8f5a373d525d5c749bb7cace20cd7eb158c4d0aba9138.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10596",
+    "content_title": "今年も！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-01-08 12:45:00",
+    "created_at": "2019-01-08 12:46:23",
+    "updated_at": "2019-01-08 12:46:23",
+    "content_text": "0108_ono_s.jpg\r\nピンクの可愛いお花みつけたよ。\r\n2019年初投稿！\r\n今年もたくさんお花みつけます<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\nでは( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9138",
+        "material_title": "0108_ono_s.jpg",
+        "material_file": "06019f6d01e54c28b21d8d27b625571123c030c8855c25f0b36f8c71a9386af49138.jpeg"
+      }
+    ],
+    "previous_id": "10625",
+    "next_id": "10583",
+    "saved_materials": [
+      "assets/10596_9138_0108_ono_s.jpg"
+    ]
+  }
+}

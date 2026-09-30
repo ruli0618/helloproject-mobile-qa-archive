@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 147,
+    "content_id": "20293",
+    "content_title": "10th Juice",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-05-29 00:00:00",
+    "created_at": "2023-05-26 22:50:49",
+    "updated_at": "2023-05-29 12:04:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20293",
+    "content_title": "10th Juice",
+    "content_sub_title": "",
+    "release_date": "2023-05-29 00:00:00",
+    "created_at": "2023-05-26 22:50:49",
+    "updated_at": "2023-05-29 12:04:58",
+    "content_text": "こんにちは。\nスタッフ番号2番です。\n\n本日は、「Juice=Juice 10th ANNIVERSARY CONCERT TOUR ～10th Juice at BUDOKAN～」公演日ですね。\n\n会場へ向かう道中や列に並ぶ時など時間を潰す際には、ぜひ<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>をお聴き下さいね♪\n\n▼コンサートに関する情報をチェック！\n5/29(月)開場17:00/開演18:00\n会場：日本武道館 (東京)\n<a href=\"http://www.helloproject.com/event/detail/5179b7b9820a4d2aa54679e26e8759e030e9807f/\" target=\"_blank\">★公式サイトのコンサートページはこちら！</a>\n※ガイドラインも要チェックです！\n\n<a href=\"https://www.elineupmall.com/ufgoodsland-b/bff536959121c7b152088875ebd095f4/\" target=\"_blank\">★グッズ一覧はこちら！</a>\n\n<a href=\"http://www.helloproject.com/news/15977/\" target=\"_blank\">★グッズ会場販売実施のお知らせとお願いはこちら！</a>\n\n<a href=\"https://twitter.com/dcfactory_goods\" target=\"_blank\">★会場のグッズ販売に関してDC FACTORY_GOODSのTwitterもチェック！</a>\n\n<a href=\"https://www.elineupmall.com/c182/c2383\" target=\"_blank\">★e-LineUP!Mallでもグッズ販売！</a>\n\n<a href=\"https://twitter.com/ODYSTAFF\" target=\"_blank\">★当日券情報・駐車場ご利用のご案内はオデッセーのTwitterアカウントがお知らせ！</a>\n\nお家や、映画館でも応援しましょう！\n\n<a href=\"http://www.helloproject.com/news/15936/\" target=\"_blank\">★ライブビューイング実施劇場はこちら！</a>\n\n<a href=\"https://www.tv-asahi.co.jp/ch/contents/variety/0662/\" target=\"_blank\">★CSテレ朝チャンネル1で生中継も決定！</a>\n\nオープニングアクトとして、OCHA NORMAの出演も決定！\n\n日本武道館に掲げられた看板もよく見てみてくださいね！\n\n\nハロ！モバ宣伝部の入江里咲書記も所属するJuice=Juiceの日本武道館公演。\n\nぜひ、ご覧ください！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "21241",
+    "next_id": "23370",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 365,
+    "content_id": "18252",
+    "content_title": "もう少し",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2022-05-27 12:54:00",
+    "created_at": "2022-05-27 12:54:59",
+    "updated_at": "2022-05-27 12:54:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15255",
+        "material_title": "0527_kudo_s.jpg",
+        "material_file": "12caee3c343252dc870589842f58e201c67e8b5baa28633e5a9435c81841bba015255.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18252",
+    "content_title": "もう少し",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2022-05-27 12:54:00",
+    "created_at": "2022-05-27 12:54:59",
+    "updated_at": "2022-05-27 12:54:59",
+    "content_text": "0527_kudo_s.jpg\r\nもう少しで日本武道館公演です！\r\n今日もリハーサルでしたよ〜\r\n",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15255",
+        "material_title": "0527_kudo_s.jpg",
+        "material_file": "68042b04aeea7abb7be48b55d68c644e22d3f563f0f0a526ebf5b3635cde842215255.jpeg"
+      }
+    ],
+    "previous_id": "18286",
+    "next_id": "18250",
+    "saved_materials": [
+      "assets/18252_15255_0527_kudo_s.jpg"
+    ]
+  }
+}

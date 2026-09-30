@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 699,
+    "content_id": "3456",
+    "content_title": "新メンバー！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-20 19:00:00",
+    "created_at": "2015-11-20 19:55:07",
+    "updated_at": "2015-11-25 19:58:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3209",
+        "material_title": "ABC_1901 small.JPG",
+        "material_file": "0e0b4f1da8e940b100a024ed90278aaabfb5e900eb98831bcb159dbbe5a80e3c3209.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3210",
+        "material_title": "ABC_1533 small.jpg",
+        "material_file": "4ee8c14ce4f590caffb9f33dfefce306774f3d2abc5070b2a872fddcacfdfc373210.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3456",
+    "content_title": "新メンバー！",
+    "content_sub_title": "",
+    "release_date": "2015-11-20 19:00:00",
+    "created_at": "2015-11-20 19:55:07",
+    "updated_at": "2015-11-25 19:58:18",
+    "content_text": "みなさん、こんにちは！\nハロモバスタッフです。\n\n11月5日にカントリー・ガールズの新メンバー加入が発表されました！\n\n当日のイベントの様子は、ハロ！ステや、GREEN ROOMにて配信されておりますので、是非ご覧ください。\n\n11月11日に公開された「<a href=\"https://youtu.be/guTOhsKqmEs?t=21s\" target=\"_blank\"><u>ハロ！ステ #143</u></a>」では、新メンバーに選ばれた2名への加入発表シーンをたっぷりと！\n11月19日に公開された「<a href=\"https://youtu.be/VTMA1aatD24?t=14m37s\" target=\"_blank\"><u>GREEN ROOM #30</u></a>」では、イベント当日の新メンバーに密着しています！\n\nABC_1533 small.jpg\n\n\nさらに、11月11日にサプライズ発表された、アンジュルム新メンバー！\n「<a href=\"https://youtu.be/guTOhsKqmEs?t=18m18s\" target=\"_blank\"><u>ハロ！ステ #143</u></a>」では、以前より開催していたオーディションの合格発表の模様を配信！\n\nハロプロアドバイザー清水佐紀、ハロー！プロジェクトリーダー矢島舞美から、告げられた合格という言葉に涙を堪えきれない姿…\n何度見ても思わずもらい泣きしてしまいそうになりますね…\n\nそして、アンジュルム新メンバーお披露目のシーンは、\n11月18日に公開された「<a href=\"https://youtu.be/x9g1jsajLhY?t=4m44s\" target=\"_blank\"><u>ハロ！ステ #144</u></a>」にて配信しております！\n\nABC_1901 small.JPG\n\n\n新たな顔が加入した、\nアンジュルム、カントリー・ガールズに\n皆さまご注目ください！！！\n",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3209",
+        "material_title": "ABC_1901 small.JPG",
+        "material_file": "12f4c0d580d3f3055f83f90348afcdd1a72fc65b6ca89bec846eb3212f8433423209.jpeg"
+      },
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3210",
+        "material_title": "ABC_1533 small.jpg",
+        "material_file": "ef361785c4a349616793483b68d6f4b13483d17f9a3e1323cf30c2f63fc81e1a3210.jpeg"
+      }
+    ],
+    "previous_id": "3457",
+    "next_id": "3450",
+    "saved_materials": [
+      "assets/3456_3209_ABC_1901 small.JPG",
+      "assets/3456_3210_ABC_1533 small.jpg"
+    ]
+  }
+}

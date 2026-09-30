@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 504,
+    "content_id": "9266",
+    "content_title": "工藤の家の屋根裏部屋#25",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-06-06 18:52:00",
+    "created_at": "2018-06-06 18:49:45",
+    "updated_at": "2018-06-06 18:52:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8125",
+        "material_title": "180606_03_s.jpg",
+        "material_file": "f63015c4958fb471189ea06b952536d3a856d4331a97c0baa72b1aeb1c0d3dfc8125.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8126",
+        "material_title": "180606_02_s.jpg",
+        "material_file": "ce375388ac4bff47ec27a8363e72adb09e2e2426afe0efcd717394882fb6bfd28126.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8128",
+        "material_title": "180606_01_s.jpg",
+        "material_file": "9550ae1a87030072828b2c4608575b0b1da6cdbfe2cfc4d8a039b7aec850f1fd8128.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9266",
+    "content_title": "工藤の家の屋根裏部屋#25",
+    "content_sub_title": "",
+    "release_date": "2018-06-06 18:52:00",
+    "created_at": "2018-06-06 18:49:45",
+    "updated_at": "2018-06-06 18:52:10",
+    "content_text": "「ふくむらの部屋」25回目の配信開始しました！\nチェックして頂けましたか？\n\n今回はふくむらおひとりスペシャル！\n\n180606_01_s.jpg\nということで、タイトルだけつけてみたのですが\n特別なコーナーをやったり、ということはありません。。。!\n\n\nですが！今回も盛りだくさんの内容でお送りしています。\n\n9期メンバーの最新情報や\n大好きな先輩・後輩について\n\n2018年上半期ハロプロ楽曲の中から\n気になった１曲を選曲したり、、\n\n「Loving you forever」の歌詞の譜久村さんなりの解釈であったり、、\n\n真面目な話からぶっちゃけトーク、\n他では聞けない「ふくむらの部屋」ならではの内容ばかりです！！\n\n\n180606_02_s.jpg\n\nそして次回より新コーナースタート！\n\n『みずきのメドレーセレクション』\n\n毎回テーマに沿った、あなたが考えるハロプロ楽曲メドレーを大募集！\n初回のテーマは『明るい』\n3～5曲のHello! Project楽曲でメドレーを構成してください。\nさらに歌うメンバーなどにも拘って考えていただいてもOK\nあなたの理想のメドレーを考えてお送りください！！\n\n\nさらに！！！\n次回のゲストはモーニング娘。'18から尾形春水さんが登場！\nお楽しみに！！\n\n180606_03_s.jpg\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\n「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8125",
+        "material_title": "180606_03_s.jpg",
+        "material_file": "d02c0f7105584d493bac700acb841d2ddc6dd4a53f3f53d502e25b2abb8a3df28125.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8126",
+        "material_title": "180606_02_s.jpg",
+        "material_file": "583671321095005c9e95399d6031078d87274fc28d7c002f7240f13bcbd532198126.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8128",
+        "material_title": "180606_01_s.jpg",
+        "material_file": "909d3f9ee667392024b00e21e405c992cc671a999266fd2ab97772dc925147cc8128.jpeg"
+      }
+    ],
+    "previous_id": "9267",
+    "next_id": "9256",
+    "saved_materials": [
+      "assets/9266_8125_180606_03_s.jpg",
+      "assets/9266_8126_180606_02_s.jpg",
+      "assets/9266_8128_180606_01_s.jpg"
+    ]
+  }
+}

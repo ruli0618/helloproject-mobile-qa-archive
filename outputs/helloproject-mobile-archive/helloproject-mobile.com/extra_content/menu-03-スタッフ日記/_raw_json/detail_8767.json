@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 523,
+    "content_id": "8767",
+    "content_title": "隣のやじまん家の塀の裏#18 宮崎由加",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-03-21 00:00:00",
+    "created_at": "2018-03-20 23:57:45",
+    "updated_at": "2018-03-21 00:06:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7687",
+        "material_title": "180320_02_s.jpg",
+        "material_file": "bf005288bcb5e29f57ea96beba8c11ede82fb40ef1605e06588c69c1c157df087687.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7686",
+        "material_title": "180320_01_s.jpg",
+        "material_file": "aebe235a2471bed1e568baa82553cac8e5f3a94615cba079a35784aa1ef872867686.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8767",
+    "content_title": "隣のやじまん家の塀の裏#18 宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2018-03-21 00:00:00",
+    "created_at": "2018-03-20 23:57:45",
+    "updated_at": "2018-03-21 00:06:53",
+    "content_text": "「隣のやじまん家」#18配信されました～！\n\nまたまた「やじまの部屋やな」時代にゲストに来てくれていた、Juice=Juice宮崎由加さんが登場！\n\n宮﨑さん初お仕事のSATOYAMAロケに関する思い出話や、\nサブリーダーに選ぶなら誰？等など…\n終始ほんわかムードで収録が進みました。\n\n180320_01_s.jpg\n\n矢島さんの入念な腹筋チェック…\n\n180320_02_s.jpg\n\n「やじまの部屋やな」の「犯人を追え！」コーナーで描いた似顔絵は<a href=\"http://helloproject-mobile.com/dialy/member/detail?menu_id=3&content_id=4723&idx=139&page=7\">こちら</a>♪\n\nそして、次回ゲストは、同じくハロ！モバラジオ番組を持つモーニング娘。'18譜久村聖さんが出演！\n3/26(月)18時まで、メール受付中です！\n\n「今月のハッピーバースデー♪」では、4月に誕生日を迎える方からのお便りを募集します♪\n\n楽曲リクエストや、新コーナー案も募集中！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次の配信は、4/3(火)を予定しています。\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7687",
+        "material_title": "180320_02_s.jpg",
+        "material_file": "e2eb614f290323fd5d47be0c4f3c4be8c410fb3d17ed9c0394aceb8e63c343b87687.jpeg"
+      },
+      {
+        "secretKey": "87c50df584d6b37786f192b3789b8dd6",
+        "material_id": "7686",
+        "material_title": "180320_01_s.jpg",
+        "material_file": "8aeb92e52b6180a591e71ce0b18455c0ee65d62dde20f00b820faf47539589ac7686.jpeg"
+      }
+    ],
+    "previous_id": "8797",
+    "next_id": "8760",
+    "saved_materials": [
+      "assets/8767_7687_180320_02_s.jpg",
+      "assets/8767_7686_180320_01_s.jpg"
+    ]
+  }
+}

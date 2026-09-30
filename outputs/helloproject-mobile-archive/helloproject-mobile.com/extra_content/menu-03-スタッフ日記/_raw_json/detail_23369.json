@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 155,
+    "content_id": "23369",
+    "content_title": "宣伝会議#85",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-04-20 00:00:00",
+    "created_at": "2024-11-28 05:08:51",
+    "updated_at": "2024-11-28 05:08:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19169",
+        "material_title": "85.jpg",
+        "material_file": "2890bbb0812e9bea5f1b29bc95d1cf7a94e6d4f42365698dd4414670973efdb319169.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19170",
+        "material_title": "85_02_s.jpg",
+        "material_file": "11e69e75cabffb7bdf8dc4a4fdf70f2a2469a0d8bb455fbe9c55dae042843e9d19170.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19171",
+        "material_title": "85_01_s.jpg",
+        "material_file": "84afd86335c149755637754ece48d59d17042552aef3f727b9f4ae0c250e5b5319171.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23369",
+    "content_title": "宣伝会議#85",
+    "content_sub_title": "",
+    "release_date": "2023-04-20 00:00:00",
+    "created_at": "2024-11-28 05:08:51",
+    "updated_at": "2024-11-28 05:08:51",
+    "content_text": "宣伝会議第85回は、前田こころ警備兼広報・入江里咲書記の二人でお届け！\r\n\r\n85_01_s.jpg\r\n\r\n前編では、\r\n・ひなフェス\r\nについてたっぷりトーク！\r\n\r\n後編では、\r\n・段原瑠々とお泊り\r\n・ツアーの見どころ\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「為永幸音」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n85.jpg\r\n\r\n85_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19169",
+        "material_title": "85.jpg",
+        "material_file": "4715f93657656147aa601c8e3cf0d01321fa44df7add02542b8a660cfe5bee7f19169.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19170",
+        "material_title": "85_02_s.jpg",
+        "material_file": "086a2811501b9d4157ee13e520e230829b8186df5a804e6cf0b02693a63cc93219170.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "19171",
+        "material_title": "85_01_s.jpg",
+        "material_file": "992fd95f798825bd9acb911db2102841aa0caa938f79553e777f3b4dc37213de19171.jpeg"
+      }
+    ],
+    "previous_id": "24491",
+    "next_id": "21238",
+    "saved_materials": [
+      "assets/23369_19169_85.jpg",
+      "assets/23369_19170_85_02_s.jpg",
+      "assets/23369_19171_85_01_s.jpg"
+    ]
+  }
+}

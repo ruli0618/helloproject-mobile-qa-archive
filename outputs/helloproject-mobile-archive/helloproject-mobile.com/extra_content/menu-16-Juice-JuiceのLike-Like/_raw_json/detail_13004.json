@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 568,
+    "content_id": "13004",
+    "content_title": "晴天の空",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-02-10 12:30:00",
+    "created_at": "2020-02-03 18:13:07",
+    "updated_at": "2020-02-10 12:30:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11047",
+        "material_title": "0212_kudo_s.jpg",
+        "material_file": "70b57dd8d03e16038c4db1a48bc6a6e319ee722281c839e19957e89c37f9fe3d11047.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13004",
+    "content_title": "晴天の空",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-02-10 12:30:00",
+    "created_at": "2020-02-03 18:13:07",
+    "updated_at": "2020-02-10 12:30:09",
+    "content_text": "0212_kudo_s.jpg\r\n初めてのDVDマガジンの撮影の日は晴天で綺麗な空でした( ´ー｀ )♡",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11047",
+        "material_title": "0212_kudo_s.jpg",
+        "material_file": "7ad1992dc01894ce84c5f5e554bfed45e01c2d7a8fded1bfbbebedd1e595fb8111047.jpeg"
+      }
+    ],
+    "previous_id": "13005",
+    "next_id": "12915",
+    "saved_materials": [
+      "assets/13004_11047_0212_kudo_s.jpg"
+    ]
+  }
+}

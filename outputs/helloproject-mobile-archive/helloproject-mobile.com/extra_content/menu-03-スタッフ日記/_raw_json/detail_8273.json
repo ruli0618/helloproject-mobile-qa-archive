@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 541,
+    "content_id": "8273",
+    "content_title": "宣伝会議 議事録#21",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-25 18:20:00",
+    "created_at": "2017-12-25 18:19:41",
+    "updated_at": "2017-12-25 18:20:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7260",
+        "material_title": "17122501_s.jpg",
+        "material_file": "92817eaa1cf25f6a33037bd15936f85314fc912461a39ec0231e9000a099475f7260.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7261",
+        "material_title": "17122502_s.jpg",
+        "material_file": "d53fbed01afb952625a160308b90781b7b5edb1ceee35a10da762cc3247d07997261.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7263",
+        "material_title": "17122503_s.jpg",
+        "material_file": "5ee214e5e0bafbdd0d54d55c0c9db6387f1ab2ce975763dac6f27efd20a173fc7263.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8273",
+    "content_title": "宣伝会議 議事録#21",
+    "content_sub_title": "",
+    "release_date": "2017-12-25 18:20:00",
+    "created_at": "2017-12-25 18:19:41",
+    "updated_at": "2017-12-25 18:20:38",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美による21回目の宣伝会議が行われました！\r\n\r\n工藤顧問がモーニング娘。を卒業して、3人で初めての宣伝会議。\r\n尾形部長は不安でいっぱいだったようでしたが、しっかりと進行を務めてくれました。\r\n\r\n17122501_s.jpg\r\n\r\n番組内では2017年を振り返りましたが、\r\n改めて振り返ってみると「コレって今年だっけ？」みたいな事がたくさんあって\r\nとても濃い1年だったんじゃないかなと思います。\r\n\r\n17122502_s.jpg\r\n\r\n今回の書記のメモはこちら！\r\n\r\n17122503_s.jpg\r\n\r\n今回の配信で2017年の宣伝会議の配信は最後になります。\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n2018年の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7260",
+        "material_title": "17122501_s.jpg",
+        "material_file": "4c672079949d4ab765748c4fe602fee5944ecc25f50a4d295367cf0dc53a89967260.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7261",
+        "material_title": "17122502_s.jpg",
+        "material_file": "4bea91158fe8201817a0b25f167bfd4443d0909c278f625d931d5649ef4f0f8d7261.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7263",
+        "material_title": "17122503_s.jpg",
+        "material_file": "883f52f6fb27c9b19b5f2461c516337c4f7c51cd50fd891fc12221c88f25eb0c7263.jpeg"
+      }
+    ],
+    "previous_id": "8300",
+    "next_id": "8270",
+    "saved_materials": [
+      "assets/8273_7260_17122501_s.jpg",
+      "assets/8273_7261_17122502_s.jpg",
+      "assets/8273_7263_17122503_s.jpg"
+    ]
+  }
+}

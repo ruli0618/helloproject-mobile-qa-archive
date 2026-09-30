@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 435,
+    "content_id": "16795",
+    "content_title": "眼鏡",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-09-21 20:17:00",
+    "created_at": "2021-09-21 20:33:26",
+    "updated_at": "2021-09-21 20:33:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14006",
+        "material_title": "210921_kudo_s.jpg",
+        "material_file": "cfe28fde958290543137c49310d5e56d0f75879eccee7a7f73cda2cea200dbfe14006.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16795",
+    "content_title": "眼鏡",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-09-21 20:17:00",
+    "created_at": "2021-09-21 20:33:26",
+    "updated_at": "2021-09-21 20:33:26",
+    "content_text": "210921_kudo_s.jpg\r\n最近はこのメガネばかりつけてます！",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "14006",
+        "material_title": "210921_kudo_s.jpg",
+        "material_file": "bc2fd2e8c841a85da023bc4f912a99ce398be391243a2aa6696308c361138ea014006.jpeg"
+      }
+    ],
+    "previous_id": "16796",
+    "next_id": "16627",
+    "saved_materials": [
+      "assets/16795_14006_210921_kudo_s.jpg"
+    ]
+  }
+}

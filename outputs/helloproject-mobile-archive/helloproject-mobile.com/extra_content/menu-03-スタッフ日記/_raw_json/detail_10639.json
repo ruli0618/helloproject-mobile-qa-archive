@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 447,
+    "content_id": "10639",
+    "content_title": "お楽しみポイント(再掲)",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-17 22:00:00",
+    "created_at": "2019-01-17 21:58:25",
+    "updated_at": "2019-01-17 21:58:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10639",
+    "content_title": "お楽しみポイント(再掲)",
+    "content_sub_title": "",
+    "release_date": "2019-01-17 22:00:00",
+    "created_at": "2019-01-17 21:58:25",
+    "updated_at": "2019-01-17 21:58:25",
+    "content_text": "こんばんは！スタッフ番号2番です。\r\n\r\nこの機会に新しく会員登録して下さった方も多いと思いますので、ちょっと見落としがちなハロ！モバお楽しみポイントをご紹介します。\r\n\r\n<b>★メール登録すべし！</b>\r\n平日毎日メンバーから届くメールは、ハロ！モバ人気サービスの一つ！\r\nまるで、メンバーと友達や恋人になった気分が味わえます。\r\nメールを送るメンバーはランダムですが、宣伝部員や一部メンバーは多く送ってくれるので宣伝部員のファンの方は特に要チェックです！\r\n\r\n<メルマガ登録方法>\r\n「<a href=\"http://helloproject-mobile.com/mypage/manage\">マイページ</a>」からアドレスを入力すると仮登録が完了しメールが送信されるので、そのメールから登録に進んで下さい。\r\n本登録後「<a href=\"http://helloproject-mobile.com/mail/magazine?menu_id=8\">ハロー！メルマガ</a>」から、チェックを入れてメルマガ登録完了です。\r\n\r\n※毎日送られる大量なメールがちょっと迷惑…という方は、受信メールのフォルダ分け設定をおすすめします。\r\n\r\n<b>★期間限定コンテンツはお早めに！</b>\r\n「<a href=\"http://helloproject-mobile.com/info/special?menu_id=11\">スペシャル</a>」に表示される特設ページは、イラスト漫画リレーを除いて期間限定コンテンツになります。\r\nリリース特設に掲載されるインタビューや、直筆プレゼントもある季節もの特設は、一定の期間しか表示されないのでぜひ定期的にチェックしてみてください！\r\n\r\n人気コンテンツの「<a href=\"http://helloproject-mobile.com/dialy/tour?menu_id=2\">ツアー日記</a>」も、新しいツアーが始まって少ししたら、前のツアー日記は見れなくなりますのでご注意を。\r\n\r\n<b>★ラジオは番組だけじゃない！</b>\r\n700円会員が聴くことの出来る「<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>」。\r\n各メンバーがMCを務めるオリジナルラジオ番組が人気ですが、「ハロー！ラジオ」はラジオ番組だけではありません。\r\n\r\nラジオページを下までスクロールすると、ハロプロ楽曲がランダムで再生されるプレイリストコーナーがあります。\r\n700円会員であればいつでも楽曲を聴き放題！\r\nメンバーの選曲も個性が出て楽しいですよ。\r\n\r\nプレイリストコーナーは、毎週金曜に更新されますので、こちらもチェックお願いします！\r\n\r\n<b>★メンバーに質問出来る！</b>\r\n十人十色な回答が魅力的な「<a href=\"http://helloproject-mobile.com/content/qa?menu_id=6\">Q&A</a>」コーナー。\r\n実は、「Q&A」の質問はリクエストが出来ます！\r\nメンバーに聞いてみたい事がある方は、ぜひ「<a href=\"http://helloproject-mobile.com/content/qa/ask\">リクエストフォーム</a>」から質問を送信してみてくださいね。\r\n\r\n\r\n等など…\r\n一部ですが、ハロ！モバについてご紹介させていただきました！\r\nいかがでしょうか。\r\n\r\nサイトを利用するうえでお困りの事やご不明な点があれば、お気軽に「<a href=\"http://helloproject-mobile.com/info/faq/form\">お問い合わせフォーム</a>」からご質問くださいね。\r\n\r\nそれでは、よいハロ！モバライフをお送り下さい。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10651",
+    "next_id": "10636",
+    "saved_materials": []
+  }
+}

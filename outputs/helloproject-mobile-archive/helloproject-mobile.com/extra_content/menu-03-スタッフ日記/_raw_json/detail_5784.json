@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 629,
+    "content_id": "5784",
+    "content_title": "宣伝会議 議事録#8",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-11-28 16:43:00",
+    "created_at": "2016-11-28 16:44:09",
+    "updated_at": "2016-11-28 16:45:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5171",
+        "material_title": "161128_3.jpg",
+        "material_file": "2d691564ed9f867c994a96779d87423597796bd7cbaf4a906f91248689672c9f5171.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5172",
+        "material_title": "161128_1.jpg",
+        "material_file": "8685c44f77862e9907e79579240b5147202d62fc2e681d763f8a17573c4badeb5172.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5173",
+        "material_title": "161128_2.jpg",
+        "material_file": "f6afeaa49e97749a9c009af8aebebda6f6f4066e98d1c0a2ddf71639b341d8ea5173.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5784",
+    "content_title": "宣伝会議 議事録#8",
+    "content_sub_title": "",
+    "release_date": "2016-11-28 16:43:00",
+    "created_at": "2016-11-28 16:44:09",
+    "updated_at": "2016-11-28 16:45:35",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と副部長の尾形春水・書記の野中美希・梁川奈々美による8回目の宣伝会議が行われました！\r\n\r\nみなさん聞いて頂けましたか？\r\n宣伝部副部長に就任して初の宣伝会議でした！！\r\n\r\n副部長の新コーナーは果たして！？ \r\n\r\n161128_1.jpg\r\n\r\n書記が野中美希に引き継がれ、役職がないのは梁川奈々美だけ。\r\n今回の配信でついに梁川にも役職が、、、？\r\n\r\n161128_2.jpg\r\n\r\n妄想動画の撮影に対する、工藤監督のこだわりも聞けちゃいます！\r\n\r\n今回の書記のメモはこちら！\r\n\r\n161128_3.jpg\r\n\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5171",
+        "material_title": "161128_3.jpg",
+        "material_file": "30472e47c2bef4b9d836b28f38e46c23d0ad6706cd9fa6d5d082ca1b9fe293615171.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5172",
+        "material_title": "161128_1.jpg",
+        "material_file": "e269b52874338a052fa1477ec28f0fa814cdbeee19247b182961bcd2fa1d44265172.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5173",
+        "material_title": "161128_2.jpg",
+        "material_file": "9438f0743e01a167449ab03b859c30c74626d70515444409aa12b1e1e8a9dccf5173.jpeg"
+      }
+    ],
+    "previous_id": "5821",
+    "next_id": "5777",
+    "saved_materials": [
+      "assets/5784_5171_161128_3.jpg",
+      "assets/5784_5172_161128_1.jpg",
+      "assets/5784_5173_161128_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 70,
+    "content_id": "25198",
+    "content_title": "ぴんく♡",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-11-12 10:00:00",
+    "created_at": "2025-10-28 23:06:46",
+    "updated_at": "2025-10-28 23:06:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20607",
+        "material_title": "251112_okamura_s.jpg",
+        "material_file": "14e7e28c1aaba765cea1754b83fd823aede608060ad1caa50f9e9074fc09f63d20607.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25198",
+    "content_title": "ぴんく♡",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-11-12 10:00:00",
+    "created_at": "2025-10-28 23:06:46",
+    "updated_at": "2025-10-28 23:06:46",
+    "content_text": "251112_okamura_s.jpg\r\nみんなピンクが可愛くて大好きな集合写真です♡\r\n\r\n【47周目お題：集合写真】",
+    "materials": [
+      {
+        "secretKey": "64f08a4ecbe46eeb75f6e68add04b33c",
+        "material_id": "20607",
+        "material_title": "251112_okamura_s.jpg",
+        "material_file": "828641f30c63871832e527cb6931a9322ad5c171e156d4bff4cd644d508c0ac220607.jpeg"
+      }
+    ],
+    "previous_id": "25199",
+    "next_id": "25197",
+    "saved_materials": [
+      "assets/25198_20607_251112_okamura_s.jpg"
+    ]
+  }
+}

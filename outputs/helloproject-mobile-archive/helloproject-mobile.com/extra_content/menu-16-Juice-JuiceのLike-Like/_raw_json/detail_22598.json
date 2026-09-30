@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 154,
+    "content_id": "22598",
+    "content_title": "夏！ツインテール♡",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2024-07-11 10:00:00",
+    "created_at": "2024-07-10 19:05:35",
+    "updated_at": "2024-07-10 19:05:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18490",
+        "material_title": "0711_endo_s.jpg",
+        "material_file": "b5322d5c9993660e418efce89d829c09cbae82d29855b9627139f41ff06fa13118490.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22598",
+    "content_title": "夏！ツインテール♡",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2024-07-11 10:00:00",
+    "created_at": "2024-07-10 19:05:35",
+    "updated_at": "2024-07-10 19:05:35",
+    "content_text": "0711_endo_s.jpg\r\n遠藤彩加里です♪\r\n夏は暑いので髪を結ぶ機会も多くなりそうですね！\r\nツインテール大好き♡♡",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18490",
+        "material_title": "0711_endo_s.jpg",
+        "material_file": "362f27350b47a2f35a69eedf2ea4abf86c574c19b182ffaa4f26c3f535c855c518490.jpeg"
+      }
+    ],
+    "previous_id": "22602",
+    "next_id": "22532",
+    "saved_materials": [
+      "assets/22598_18490_0711_endo_s.jpg"
+    ]
+  }
+}

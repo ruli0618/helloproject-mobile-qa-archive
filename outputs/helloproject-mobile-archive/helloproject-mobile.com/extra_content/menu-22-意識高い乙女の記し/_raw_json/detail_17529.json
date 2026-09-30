@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 75,
+    "content_id": "17529",
+    "content_title": "オトナカワイイ",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2022-01-21 19:47:00",
+    "created_at": "2022-01-21 19:47:30",
+    "updated_at": "2022-01-21 19:47:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14626",
+        "material_title": "0121_onoda_s.jpg",
+        "material_file": "5053381b1c810c3b5120ac7e789c5ef4b05459d176356ae06fef6bf3f93c6caa14626.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17529",
+    "content_title": "オトナカワイイ",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2022-01-21 19:47:00",
+    "created_at": "2022-01-21 19:47:30",
+    "updated_at": "2022-01-21 19:47:30",
+    "content_text": "最近よく、ピアノを弾くさおりです♪\r\n\r\nこの間、前髪を上げてハロコンをしてみたんです！\r\n\r\nデコ出しでライブをするのは初だったのでドキドキでいっぱいでした！！！\r\n\r\n視界が良すぎてびっくり！\r\n\r\nあとね、想像以上に好評だったのでうれしくなった！\r\n\r\nもっといろんなヘアアレンジをして「オトナカワイイ」を極めたいとおもいますっ。\r\n\r\n\r\n今日も、さおりの写真です♪\r\n\r\n0121_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14626",
+        "material_title": "0121_onoda_s.jpg",
+        "material_file": "0a1d660799a5e81a06666a76769420b24ed6235108954fdd7356d7d38f4cb0d714626.jpeg"
+      }
+    ],
+    "previous_id": "17555",
+    "next_id": "17446",
+    "saved_materials": [
+      "assets/17529_14626_0121_onoda_s.jpg"
+    ]
+  }
+}

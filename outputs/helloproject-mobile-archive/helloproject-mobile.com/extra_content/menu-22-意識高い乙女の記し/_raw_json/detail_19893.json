@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 12,
+    "content_id": "19893",
+    "content_title": "猫と散歩",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2023-03-24 10:00:00",
+    "created_at": "2023-03-20 22:16:49",
+    "updated_at": "2023-03-20 22:16:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16485",
+        "material_title": "0324_kasai_s.jpg",
+        "material_file": "06886fbcff4342bbf069acdcb468dcbce44285f43dc002c93a453eae91a12dfa16485.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19893",
+    "content_title": "猫と散歩",
+    "content_sub_title": "河西結心",
+    "release_date": "2023-03-24 10:00:00",
+    "created_at": "2023-03-20 22:16:49",
+    "updated_at": "2023-03-20 22:16:49",
+    "content_text": "0324_kasai_s.jpg\r\n最近ポカポカしてきたから\r\n愛猫みみちゃんお散歩したんだ〜\r\n散歩って健康にもいいし、景色も自然も感じられるからリフレッシュされます\r\nまたみみちゃんと散歩したいな！！写真はうまく撮れなかったので寝る前の写真",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16485",
+        "material_title": "0324_kasai_s.jpg",
+        "material_file": "e69b13dadb07ad6a7642a1ae9f5464aca47cddf88d8f4c6f4ea5f171983c9ab116485.jpeg"
+      }
+    ],
+    "previous_id": "19898",
+    "next_id": "19766",
+    "saved_materials": [
+      "assets/19893_16485_0324_kasai_s.jpg"
+    ]
+  }
+}

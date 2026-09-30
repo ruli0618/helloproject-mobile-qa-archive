@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 28,
+    "content_id": "26389",
+    "content_title": "かわいい！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2026-06-28 10:00:00",
+    "created_at": "2026-06-12 10:47:31",
+    "updated_at": "2026-06-12 10:47:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21561",
+        "material_title": "0628_fukuda_s.jpg",
+        "material_file": "25b59395a6bd389c70eced7a25901c8f242514882874bca11a113dc3bcb568ab21561.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26389",
+    "content_title": "かわいい！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2026-06-28 10:00:00",
+    "created_at": "2026-06-12 10:47:31",
+    "updated_at": "2026-06-12 10:47:31",
+    "content_text": "0628_fukuda_s.jpg\r\n\r\n春ツアーの黒衣装！！\r\n\r\n春ツアーの水色衣装とはテイストが違う、かっこいいお衣装！！\r\n\r\n\r\n一つのツアーで、\r\n全く違う雰囲気のお衣装を二つ着れて、スキップしちゃうくらい嬉しかったです！\r\n\r\nじつは、この衣装、\r\nメンバーカラーのロイヤルブルーが入ってます！！\r\n\r\nみんな気づいたかな？",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21561",
+        "material_title": "0628_fukuda_s.jpg",
+        "material_file": "51c99916ee7ce559119bfe0b6f1cd9156105fdb657e1c43559b6827b0583deb421561.jpeg"
+      }
+    ],
+    "previous_id": "26390",
+    "next_id": "26388",
+    "saved_materials": [
+      "assets/26389_21561_0628_fukuda_s.jpg"
+    ]
+  }
+}

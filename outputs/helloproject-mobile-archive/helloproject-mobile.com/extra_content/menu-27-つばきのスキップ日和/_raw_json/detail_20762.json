@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 129,
+    "content_id": "20762",
+    "content_title": "明太子！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2023-08-25 13:16:00",
+    "created_at": "2023-08-25 13:17:36",
+    "updated_at": "2023-08-25 13:17:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17093",
+        "material_title": "0825_fukuda_s.jpg",
+        "material_file": "bae706e36a64e43afa8f39b0ed23fae967f53539f7d910c4363b3ed1d841d4b117093.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20762",
+    "content_title": "明太子！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2023-08-25 13:16:00",
+    "created_at": "2023-08-25 13:17:36",
+    "updated_at": "2023-08-25 13:17:36",
+    "content_text": "0825_fukuda_s.jpg\r\n最近明太子パスタを食べました〜！\r\n和風な味がとっても美味しくてスキップするぐらい幸せでしたー！\r\n自分でも明太子パスタを作ったことがあるのですが、あまりうまくいかなかったので、\r\n\r\n自分でも美味しい明太子パスタを作れるように頑張りワラビーします！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17093",
+        "material_title": "0825_fukuda_s.jpg",
+        "material_file": "4d80bb092ae2073d3c6750f9795798156d5f5be56717fb7d6511dfd0e73e57db17093.jpeg"
+      }
+    ],
+    "previous_id": "20816",
+    "next_id": "20677",
+    "saved_materials": [
+      "assets/20762_17093_0825_fukuda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 613,
+    "content_id": "11672",
+    "content_title": "6月17日",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-06-28 10:00:00",
+    "created_at": "2019-06-26 16:27:08",
+    "updated_at": "2019-06-26 16:27:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9960",
+        "material_title": "0628_inaba_s.jpg",
+        "material_file": "b308246379956c7d515ce57445878b422f1a6049ecb22e30de154ce1bc9379c09960.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11672",
+    "content_title": "6月17日",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-06-28 10:00:00",
+    "created_at": "2019-06-26 16:27:08",
+    "updated_at": "2019-06-26 16:27:08",
+    "content_text": "今日は、日本武道館にてJuice Full!!!!!!!の千秋楽でした〜！宮崎由加さんの卒業スペシャル。寂しさもありましたが、とっても楽しい時間になりました。来てくださったみなさん、そして宮崎さん、本当にありがとうございました！終演後には、みんなでおうどんを食べました♡\r\n\r\n0628_inaba_s.jpg\r\nおいしかった〜♪\r\n色々なお話をしながら噛み締めて過ごせました！",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9960",
+        "material_title": "0628_inaba_s.jpg",
+        "material_file": "ef25c234780298eab7db6e3b44ba61c45fb09bb10b3d4e4978443b3b553de6e49960.jpeg"
+      }
+    ],
+    "previous_id": "11690",
+    "next_id": "11618",
+    "saved_materials": [
+      "assets/11672_9960_0628_inaba_s.jpg"
+    ]
+  }
+}

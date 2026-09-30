@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 347,
+    "content_id": "17417",
+    "content_title": "トナカイ",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2022-01-05 10:00:00",
+    "created_at": "2021-12-31 19:48:19",
+    "updated_at": "2022-01-17 14:44:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14529",
+        "material_title": "220105_kobayashi_s.jpg",
+        "material_file": "2297636baf2a1d3f905c899cb998e1f73ce8670a1bb2e811a4072b9696c1f81214529.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17417",
+    "content_title": "トナカイ",
+    "content_sub_title": "小林萌花",
+    "release_date": "2022-01-05 10:00:00",
+    "created_at": "2021-12-31 19:48:19",
+    "updated_at": "2022-01-17 14:44:14",
+    "content_text": "220105_kobayashi_s.jpg\nクリスマスイベントでトナカイだった2人でツーショット！ツノはお揃いでつけました♪\n\n【16周目お題：ツーショット】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14529",
+        "material_title": "220105_kobayashi_s.jpg",
+        "material_file": "0e3ec04b5f6e4689094148e379ae709e65b34898fc7d4356f77f30b152a1798214529.jpeg"
+      }
+    ],
+    "previous_id": "17419",
+    "next_id": "17415",
+    "saved_materials": [
+      "assets/17417_14529_220105_kobayashi_s.jpg"
+    ]
+  }
+}

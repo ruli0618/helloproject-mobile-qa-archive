@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 180,
+    "content_id": "23365",
+    "content_title": "宣伝会議#81",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-15 00:00:00",
+    "created_at": "2024-11-28 04:51:13",
+    "updated_at": "2024-11-28 04:51:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19159",
+        "material_title": "81.jpg",
+        "material_file": "c231fd2f930105d4fa1a750385e1a276257ec7781e935780c659802deeb855d119159.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23365",
+    "content_title": "宣伝会議#81",
+    "content_sub_title": "",
+    "release_date": "2022-12-15 00:00:00",
+    "created_at": "2024-11-28 04:51:13",
+    "updated_at": "2024-11-28 04:51:13",
+    "content_text": "宣伝会議第81回は、野中美希部長・川村文乃副部長の二人でお届け！\r\n\r\n前編では、\r\n・アー写よくするポーズ\r\n・秋ツアー成長した点\r\n・COUNTDOWN JAPAN\r\n・ハロウィン、ピンクのかば\r\n・地元を離れた時の思い\r\n・四季のイベント\r\nについてトーク！\r\n\r\n後編では、\r\n・ハロコンで気になる子\r\n・最高に美味しかったもの\r\n・2022年印象的な出来事\r\n・1年ふりかえって\r\n・最高何時間寝た？\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「八木栞」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n81.jpg",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "19159",
+        "material_title": "81.jpg",
+        "material_file": "d41bb5bb7fbcfa2956142326c1813c2a78893a0ada44ece60127e907e96d906319159.jpeg"
+      }
+    ],
+    "previous_id": "21230",
+    "next_id": "20676",
+    "saved_materials": [
+      "assets/23365_19159_81.jpg"
+    ]
+  }
+}

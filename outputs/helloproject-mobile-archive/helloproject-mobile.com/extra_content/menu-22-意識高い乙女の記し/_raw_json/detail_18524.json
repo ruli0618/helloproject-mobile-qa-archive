@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 43,
+    "content_id": "18524",
+    "content_title": "夏服",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2022-08-03 10:00:00",
+    "created_at": "2022-07-15 15:01:59",
+    "updated_at": "2022-07-15 15:02:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15423",
+        "material_title": "0803_akiyama_s.jpg",
+        "material_file": "58f1a28ecd497edd69851f06fc7671d5a057a81148139f2951278541d4a81b9115423.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18524",
+    "content_title": "夏服",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2022-08-03 10:00:00",
+    "created_at": "2022-07-15 15:01:59",
+    "updated_at": "2022-07-15 15:02:39",
+    "content_text": "0803_akiyama_s.jpg\n暑い日が続きますがやっぱりファッションは楽しみたい(^^)\nワンピースもたくさんあるのでこれから着るのがたのしみ♡\n\nわたしの大好きな季節、夏！\n今年も楽しみたいな<img src=\"/emoji/emoji-images/f3a1.gif\"/>\n\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15423",
+        "material_title": "0803_akiyama_s.jpg",
+        "material_file": "bbd6b49c8a40a646e924434004575325446fa2637abfca2ebd1b888ab2c8352f15423.jpeg"
+      }
+    ],
+    "previous_id": "18594",
+    "next_id": "18523",
+    "saved_materials": [
+      "assets/18524_15423_0803_akiyama_s.jpg"
+    ]
+  }
+}

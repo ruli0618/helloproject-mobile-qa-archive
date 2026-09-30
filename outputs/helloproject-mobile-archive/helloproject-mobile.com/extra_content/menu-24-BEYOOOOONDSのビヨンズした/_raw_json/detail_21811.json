@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 202,
+    "content_id": "21811",
+    "content_title": "ロールキャベツ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2024-03-06 10:00:00",
+    "created_at": "2024-02-28 12:08:39",
+    "updated_at": "2024-02-28 12:08:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17916",
+        "material_title": "0306_eguchi_s.jpg",
+        "material_file": "d8c1189f9b97c166d2655777f12315c1e3a2497ef2a60c88db20b5616730b2ff17916.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21811",
+    "content_title": "ロールキャベツ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2024-03-06 10:00:00",
+    "created_at": "2024-02-28 12:08:39",
+    "updated_at": "2024-02-28 12:08:39",
+    "content_text": "0306_eguchi_s.jpg\r\nゆはがずっと食べたいって言ってたロールキャベツを作った時の写真！\r\n喜んでくれて嬉しかった〜♡\r\n\r\n【32周目お題：食事】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17916",
+        "material_title": "0306_eguchi_s.jpg",
+        "material_file": "f5b7e0250c5873e7579c11b9c1025d67ad719aa443fb73e18d0b0908ba50db6917916.jpeg"
+      }
+    ],
+    "previous_id": "21813",
+    "next_id": "21810",
+    "saved_materials": [
+      "assets/21811_17916_0306_eguchi_s.jpg"
+    ]
+  }
+}

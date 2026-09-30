@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 322,
+    "content_id": "14460",
+    "content_title": "宣伝会議 議事録#54",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-09-25 18:00:00",
+    "created_at": "2020-09-15 21:00:22",
+    "updated_at": "2020-09-15 21:00:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12031",
+        "material_title": "0925_03_s.jpg",
+        "material_file": "2315d67ccf4daffbe7bdf234aa9f945e2c078d636aeb8a8a4e879c534f42a16112031.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12032",
+        "material_title": "0925_02_s.jpg",
+        "material_file": "5ea764b59c9d5db0986fee4c0dff3a75e7e717e3042ed57bb1d3b4813b76aed712032.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12033",
+        "material_title": "0925_01_s.jpg",
+        "material_file": "b50d61eb95e4524ee94c82f9f5bc52686c6408be78fb83d951e1b1488f714e7c12033.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14460",
+    "content_title": "宣伝会議 議事録#54",
+    "content_sub_title": "",
+    "release_date": "2020-09-25 18:00:00",
+    "created_at": "2020-09-15 21:00:22",
+    "updated_at": "2020-09-15 21:00:22",
+    "content_text": "会議室からお届けする宣伝会議ラジオ第54回。\r\n本日より配信開始しました！\r\n\r\n今回は野中美希部長、川村文乃広報の2人でお送りしております。\r\n\r\nとうふちゃんスペシャルと言っても過言ではない程、\r\n野中部長の愛犬とうふちゃんに関する話題が盛りだくさん！\r\n\r\n0925_01_s.jpg\r\n\r\nハロコン楽曲やチームでのエピソード、\r\n秋の夜にしたい事や百均でつい買っちゃうもの、\r\n行きたい海外や、大好きなハンバーグについてetc…\r\n\r\n少数制となった「Hello! Project 2020 〜The Ballad〜」では、歌を歌うよりも○○の方が緊張すると話されていました。\r\n\r\n0925_02_s.jpg\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「名台詞・決め台詞」\r\n\r\n楽曲や舞台中の台詞から、ブログでお馴染みのワードまで！\r\n沢山の投稿ありがとうございました！\r\n\r\n↓議事録はこちら！\r\n\r\n0925_03_s.jpg\r\n今回も書記は、川村広報が。\r\n警備は、野中部長が担当してくれました！\r\n\r\n※今回も換気のため窓を開けて収録しているので、外で車が走る音等の環境音が聞こえる事があります。ご了承ください。\r\n\r\n「励ましのメール」「ハロー！ペディア」メールを大募集！\r\n次回「ハロー！ペディア」のお題は、\r\n「<b>ハロプロ・コア情報</b>」です！\r\n\r\nファンの皆様だから知っている、ハロー！プロジェクトのコアな情報を教えて下さい！\r\nマニアックだと思えるものなら何でもOK！\r\n\r\nメールはこちらまで。\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※コーナーメールは「ハロー！ペディア」と記入してください。",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12031",
+        "material_title": "0925_03_s.jpg",
+        "material_file": "f440ca3169ade325dd7c7fa187094443a69e988dbb988119e4692d928154b9fc12031.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12032",
+        "material_title": "0925_02_s.jpg",
+        "material_file": "9364fbfa885b03a92ab92f1d32e67fbd97ac2347e940b69264c5792bb46c234012032.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12033",
+        "material_title": "0925_01_s.jpg",
+        "material_file": "576798e92d9f69fda0a4e9ed8a8a821fe1747459cf884f7df244eed2c992115e12033.jpeg"
+      }
+    ],
+    "previous_id": "14658",
+    "next_id": "14407",
+    "saved_materials": [
+      "assets/14460_12031_0925_03_s.jpg",
+      "assets/14460_12032_0925_02_s.jpg",
+      "assets/14460_12033_0925_01_s.jpg"
+    ]
+  }
+}

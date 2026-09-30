@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 133,
+    "content_id": "21248",
+    "content_title": "工藤の家の屋根裏部屋#139～井上春華・弓桁朱琴～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-08-22 00:00:00",
+    "created_at": "2023-11-14 20:32:44",
+    "updated_at": "2023-11-14 20:33:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17456",
+        "material_title": "230822_s.jpg",
+        "material_file": "d4cd677a2454512fd28632d971c88629ffe8389bef00637f4ed2683b12d2484317456.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21248",
+    "content_title": "工藤の家の屋根裏部屋#139～井上春華・弓桁朱琴～",
+    "content_sub_title": "",
+    "release_date": "2023-08-22 00:00:00",
+    "created_at": "2023-11-14 20:32:44",
+    "updated_at": "2023-11-14 20:33:08",
+    "content_text": "ふくむらの部屋 第139回は、モーニング娘。'23の17期メンバー、井上春華さん弓桁朱琴さんが登場！\r\n\r\n・ハロー！プロジェクトを知ったきっかけ\r\n・実は苦労しているところ\r\n・バスツアーどこ行きたい？\r\nのお話からスタート！\r\n\r\n「ふくむらの部屋100の質問」のコーナーでは、\r\n計10問の質問に答えました！\r\n50問達成！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・アルバムレコーディング裏話\r\n・出身地\r\n・ボイトレ\r\nを語りました！\r\n\r\n230822_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "17456",
+        "material_title": "230822_s.jpg",
+        "material_file": "0802c7b0ccfce6634cd26ab639fa782cdaf2990523c6ae36737b69cafe02b82717456.jpeg"
+      }
+    ],
+    "previous_id": "20753",
+    "next_id": "21247",
+    "saved_materials": [
+      "assets/21248_17456_230822_s.jpg"
+    ]
+  }
+}

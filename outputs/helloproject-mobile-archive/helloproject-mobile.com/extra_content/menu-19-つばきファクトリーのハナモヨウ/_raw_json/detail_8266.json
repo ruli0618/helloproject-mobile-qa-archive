@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 128,
+    "content_id": "8266",
+    "content_title": "キレイでしょ～",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2017-12-21 11:00:00",
+    "created_at": "2017-12-19 14:16:52",
+    "updated_at": "2017-12-19 14:16:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7256",
+        "material_title": "171221_yamagishi_s.jpg",
+        "material_file": "d462665887edff92883f850c860c8b549282b748c90e0273d504ef3aa4b0646d7256.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8266",
+    "content_title": "キレイでしょ～",
+    "content_sub_title": "山岸理子",
+    "release_date": "2017-12-21 11:00:00",
+    "created_at": "2017-12-19 14:16:52",
+    "updated_at": "2017-12-19 14:16:52",
+    "content_text": "こんにちはー\r\n\r\nつばきファクトリーの山岸理子です！\r\n\r\n今日は、前に鎌倉行った時に咲いてた\r\n赤い小さなお花です♡\r\n\r\n171221_yamagishi_s.jpg\r\n\r\n私は、持ってないけど一眼レフで撮りました！早くカメラ欲しいな笑",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7256",
+        "material_title": "171221_yamagishi_s.jpg",
+        "material_file": "7f9ed8fff6af891ef6b54f395821cf30f06d1470aec597e3f5a2ec8e8ea3b7597256.jpeg"
+      }
+    ],
+    "previous_id": "8307",
+    "next_id": "8261",
+    "saved_materials": [
+      "assets/8266_7256_171221_yamagishi_s.jpg"
+    ]
+  }
+}

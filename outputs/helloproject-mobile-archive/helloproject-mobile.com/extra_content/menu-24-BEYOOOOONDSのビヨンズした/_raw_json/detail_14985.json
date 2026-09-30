@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 425,
+    "content_id": "14985",
+    "content_title": "私たち…",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2020-12-16 10:00:00",
+    "created_at": "2020-11-27 21:33:35",
+    "updated_at": "2022-01-17 14:38:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "12486",
+        "material_title": "1216_okamura_s.jpg",
+        "material_file": "908a1d910a3371cdef80ce3336fc4429a9cf37c9d2ec9628fb6a46b519ab2aa012486.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14985",
+    "content_title": "私たち…",
+    "content_sub_title": "岡村美波",
+    "release_date": "2020-12-16 10:00:00",
+    "created_at": "2020-11-27 21:33:35",
+    "updated_at": "2022-01-17 14:38:04",
+    "content_text": "1216_okamura_s.jpg\nみいももでぇぇす！！！\n\n【7周目お題：笑顔】",
+    "materials": [
+      {
+        "secretKey": "648bb2ed2a46b27e91baa7c83e2e8ff3",
+        "material_id": "12486",
+        "material_title": "1216_okamura_s.jpg",
+        "material_file": "c1573ec7fbcf2faf53d983961412435f9d0232b9c1e556be411a5b331a80734b12486.jpeg"
+      }
+    ],
+    "previous_id": "14986",
+    "next_id": "14984",
+    "saved_materials": [
+      "assets/14985_12486_1216_okamura_s.jpg"
+    ]
+  }
+}

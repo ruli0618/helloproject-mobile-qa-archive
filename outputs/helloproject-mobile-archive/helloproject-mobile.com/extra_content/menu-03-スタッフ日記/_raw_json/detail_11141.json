@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 428,
+    "content_id": "11141",
+    "content_title": "新入部員？",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-03-22 20:00:00",
+    "created_at": "2019-03-22 19:58:56",
+    "updated_at": "2019-03-22 20:02:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9514",
+        "material_title": "0322_02.jpg",
+        "material_file": "a1aff02a36ba36a9ea06f17ad3b5514db76325d53fd98d2663f4a0ec19b94ced9514.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9515",
+        "material_title": "0322_01.jpg",
+        "material_file": "f064d785652f21fac49d6deb3a9fba1e0db03ad7a8b62ad3107352104e6d68779515.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11141",
+    "content_title": "新入部員？",
+    "content_sub_title": "",
+    "release_date": "2019-03-22 20:00:00",
+    "created_at": "2019-03-22 19:58:56",
+    "updated_at": "2019-03-22 20:02:48",
+    "content_text": "こんばんは！\nスタッフ番号2番です。\n\n3/30(土)31(日)幕張メッセにて開催される「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMI へ行こう2019」ですが、先日<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">公式サイト</a>にてイベント詳細が発表になりましたね！\n\nもうサイトをご覧になった方はご存知かと思いますが、今年の春もハロ！モバブースの展示が決定しました！！\n\nブースの場所は、幕張メッセ国際展示場2ホールのサブステージ横になりますので、ぜひ皆さん遊びに来てくださいね。\n\n0322_01.jpg\n\nそしてサブステージでは、ハロ！モバPRイベントの開催も決定！\n3月30日(土)15:30～\n3月31日(日)14:00～\n\n0322_02.jpg\n\nお気づきになりましたでしょうか…？\n\nそう！\nハロ！モバ宣伝部に新入部員が入ります！\n\n気になる新入部員のメンバーは、\n3月25日(月)17:00頃から配信予定のハロー！ラジオ「宣伝会議」第36回の番組内にて発表！\n\n皆さん、要チェックです！",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9514",
+        "material_title": "0322_02.jpg",
+        "material_file": "74dece5cadace7048c65a72484d178f32a142a1ed5c02af94b0e22be1b712b469514.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9515",
+        "material_title": "0322_01.jpg",
+        "material_file": "94121c35add5765503c3547c452913c5318d90fb973568f81a2d337b367d6ae39515.jpeg"
+      }
+    ],
+    "previous_id": "11142",
+    "next_id": "11055",
+    "saved_materials": [
+      "assets/11141_9514_0322_02.jpg",
+      "assets/11141_9515_0322_01.jpg"
+    ]
+  }
+}

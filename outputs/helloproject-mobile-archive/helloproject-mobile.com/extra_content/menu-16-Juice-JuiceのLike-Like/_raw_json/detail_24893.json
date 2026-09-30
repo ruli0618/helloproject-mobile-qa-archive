@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 61,
+    "content_id": "24893",
+    "content_title": "髪の毛",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-09-11 10:00:00",
+    "created_at": "2025-09-02 19:04:15",
+    "updated_at": "2025-09-02 19:04:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20336",
+        "material_title": "0911_ebata_s.jpg",
+        "material_file": "b6944240509d1d07bbec679051eaf80e8a67f806471efed5dc6acdf640628bb720336.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24893",
+    "content_title": "髪の毛",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-09-11 10:00:00",
+    "created_at": "2025-09-02 19:04:15",
+    "updated_at": "2025-09-02 19:04:15",
+    "content_text": "やっほー\r\n\r\nえばです\r\n\r\n\r\nこの前しれっと髪の毛が短くなったんだけど\r\n（笑）\r\n\r\nその時にトリートメントもして頂いて、合う髪の毛がめちゃくちゃ巻きやすくなった( ･o･)︎︎︎︎︎<img src=\"/emoji/emoji-images/f3a1.gif\"/><img src=\"/emoji/emoji-images/f3a1.gif\"/> ！\r\n\r\nそれでみふちゃんがいっぱい写真撮ってくれたから、その中から1枚お届けします✩.*˚\r\n\r\nじゃあねえ\r\n\r\n0911_ebata_s.jpg",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20336",
+        "material_title": "0911_ebata_s.jpg",
+        "material_file": "da59c776e4ba30becbfbf2b7b1a05ec026fce4aafef4a6ebc456928e15ece77720336.jpeg"
+      }
+    ],
+    "previous_id": "24972",
+    "next_id": "24892",
+    "saved_materials": [
+      "assets/24893_20336_0911_ebata_s.jpg"
+    ]
+  }
+}

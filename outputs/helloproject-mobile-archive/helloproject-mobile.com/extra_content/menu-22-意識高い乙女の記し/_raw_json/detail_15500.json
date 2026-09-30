@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 134,
+    "content_id": "15500",
+    "content_title": "pastel ...",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-02-19 18:12:00",
+    "created_at": "2021-02-19 18:13:05",
+    "updated_at": "2021-02-19 18:13:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12895",
+        "material_title": "210219_akiyama_s.jpg",
+        "material_file": "b73452ec3709b80b8ee8614b00621ef43e0b454def0f23f7d230cc26b1f8b82712895.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15500",
+    "content_title": "pastel ...",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-02-19 18:12:00",
+    "created_at": "2021-02-19 18:13:05",
+    "updated_at": "2021-02-19 18:13:05",
+    "content_text": "210219_akiyama_s.jpg\r\n普段私服では淡い色味だったりパステルカラーをあまりたくさんもってなくて、、\r\nだから衣装で着ると新鮮〜\r\n\r\nどんな色味のお洋服も似合う女性になりたいですね<img src=\"/emoji/emoji-images/f7c3.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "12895",
+        "material_title": "210219_akiyama_s.jpg",
+        "material_file": "9c2cec4ebeef435b323c07b4649cad28439d63a25abde12bee6310a20ba8243e12895.jpeg"
+      }
+    ],
+    "previous_id": "15517",
+    "next_id": "15476",
+    "saved_materials": [
+      "assets/15500_12895_210219_akiyama_s.jpg"
+    ]
+  }
+}

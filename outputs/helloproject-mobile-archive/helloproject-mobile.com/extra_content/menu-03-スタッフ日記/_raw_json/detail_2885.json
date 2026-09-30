@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 722,
+    "content_id": "2885",
+    "content_title": "正解は…",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-13 12:00:00",
+    "created_at": "2015-08-11 19:00:09",
+    "updated_at": "2015-08-13 12:12:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2740",
+        "material_title": "image3.jpg",
+        "material_file": "ff3b1a4996152aed59c0c418448ea3208ce498720c202d14d8620735d4fc268a2740.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2885",
+    "content_title": "正解は…",
+    "content_sub_title": "",
+    "release_date": "2015-08-13 12:00:00",
+    "created_at": "2015-08-11 19:00:09",
+    "updated_at": "2015-08-13 12:12:37",
+    "content_text": "みなさん、こんにちは！\n \n昨日8月12日に更新された「ハロ！ステ」＃130はご覧いただけましたでしょうか？\n \n一昨日のスタッフ日記に書いた\n工藤遥のコメント収録とは、\n \nこの「ハロー！プロジェクトモバイル」\n略して「ハロ！モバ」のコメント収録でした～！！\n \n一体何のコメント収録だろうかと、モヤモヤしていた方！\nスカッと！していただけましたか？\n \n \nポケモー。をご覧いただいていた方はきっとご存知だと思いますが、\nコメントでも本人が言っていた通り、\n工藤はツアー日記更新数No.1なのです。\n \nちなみに、現在開催中の\n「Hello！Project 2015 SUMMER」のツアー日記も毎公演分、更新してくれています！\n \nそして、平日毎日配信のメルマガですが、本日の担当は、工藤遥！\nメルマガ登録がお済みでない方は、今すぐメルマガ登録画面へ飛び込んでくださいね！\n \n \nimage3.jpg\n \n台本通りに全て読み終えて、無事コメント収録終了♪",
+    "materials": [
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2740",
+        "material_title": "image3.jpg",
+        "material_file": "0b4837288b07ca019190ebc928bc15cecc4b35e82033866cb3c16a01f3f8033e2740.jpeg"
+      }
+    ],
+    "previous_id": "2996",
+    "next_id": "2884",
+    "saved_materials": [
+      "assets/2885_2740_image3.jpg"
+    ]
+  }
+}

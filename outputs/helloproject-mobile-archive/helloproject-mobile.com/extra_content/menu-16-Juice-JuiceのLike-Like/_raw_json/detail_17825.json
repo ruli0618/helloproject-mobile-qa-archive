@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 384,
+    "content_id": "17825",
+    "content_title": "桜",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2022-03-24 10:00:00",
+    "created_at": "2022-03-22 21:23:54",
+    "updated_at": "2022-03-22 21:23:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14909",
+        "material_title": "0324_dambara_s.jpg",
+        "material_file": "d1447c2f34d712b398f80a3bb575bec953cd0483e8849c7b08ccb2068f11834414909.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17825",
+    "content_title": "桜",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2022-03-24 10:00:00",
+    "created_at": "2022-03-22 21:23:54",
+    "updated_at": "2022-03-22 21:23:54",
+    "content_text": "0324_dambara_s.jpg\r\n工藤由愛ちゃんからの差し入れドーナツ！\r\n桜味好きです<img src=\"/emoji/emoji-images/f649.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14909",
+        "material_title": "0324_dambara_s.jpg",
+        "material_file": "58b7d54dc60020162f67665f0d524510a6709c2764063e2f8ebffef5f5d6c71414909.jpeg"
+      }
+    ],
+    "previous_id": "17826",
+    "next_id": "17793",
+    "saved_materials": [
+      "assets/17825_14909_0324_dambara_s.jpg"
+    ]
+  }
+}

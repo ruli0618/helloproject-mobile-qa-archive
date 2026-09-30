@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 20,
+    "content_id": "26691",
+    "content_title": "楽しみがいっぱいな夏！",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2026-08-02 10:00:00",
+    "created_at": "2026-07-26 01:33:10",
+    "updated_at": "2026-07-26 01:33:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21807",
+        "material_title": "0802_ishii_s.jpg",
+        "material_file": "d275262e8145c2553b573cb23f73b9d7042abda61e1b02f237176ce85200d26621807.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26691",
+    "content_title": "楽しみがいっぱいな夏！",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2026-08-02 10:00:00",
+    "created_at": "2026-07-26 01:33:10",
+    "updated_at": "2026-07-26 01:33:10",
+    "content_text": "0802_ishii_s.jpg\r\nみはみは〜！\r\n石井 泉羽(いしい みはね)です！\r\n\r\n夏ですっとても暑い毎日が続いていますが、みなさん夏満喫していますか？？\r\n\r\n夏、暑いですがフェスだったり灼熱だったりイベントたくさんなので楽しみです( >u<)\r\n\r\nみなさんと会えるイベントは楽しいし大好きです(*^ω^*)\r\n\r\n大好きと言えばオニオンリング食べました、美味しいです(*^ω^*)\r\n\r\nそれと、前回のスキップ日和でゆで卵の殻が上手に剥けなかったので次回はちゃんと冷やしたいと書かせていただいたんですがー\r\n\r\n相変わらずちゃんと冷やさず綺麗に剥けません(*'ω'*)いつかちゃんと冷やして食べたいと思います！\r\n\r\n今日も一日おつかレッサーレッサーです",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21807",
+        "material_title": "0802_ishii_s.jpg",
+        "material_file": "63251d891e422176237f2964fc8aa490443d37663a811ecb12363f2411d4896c21807.jpeg"
+      }
+    ],
+    "previous_id": "26692",
+    "next_id": "26690",
+    "saved_materials": [
+      "assets/26691_21807_0802_ishii_s.jpg"
+    ]
+  }
+}

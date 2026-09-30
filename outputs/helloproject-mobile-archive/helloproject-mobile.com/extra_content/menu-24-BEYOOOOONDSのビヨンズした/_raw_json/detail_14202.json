@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 456,
+    "content_id": "14202",
+    "content_title": "東京駅",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2020-07-27 10:00:00",
+    "created_at": "2020-07-22 19:25:54",
+    "updated_at": "2022-01-17 14:34:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11822",
+        "material_title": "0727_kobayashi_s.jpg",
+        "material_file": "c029e0668832199902e29a88c39d50ea63b5da3b88074335545240ebe955b4bd11822.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14202",
+    "content_title": "東京駅",
+    "content_sub_title": "小林萌花",
+    "release_date": "2020-07-27 10:00:00",
+    "created_at": "2020-07-22 19:25:54",
+    "updated_at": "2022-01-17 14:34:27",
+    "content_text": "0727_kobayashi_s.jpg\n先日お仕事の際に、東京駅を外から見る機会がありました！今まで沢山東京駅に来ていますが、外を見たのは初めて。立派な外観が素敵でした！\n\n【4周目お題：素敵】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11822",
+        "material_title": "0727_kobayashi_s.jpg",
+        "material_file": "bec3b320c9f7a6f047683606d0792358a107059c88bd43bcdb2d11b660162f5f11822.jpeg"
+      }
+    ],
+    "previous_id": "14203",
+    "next_id": "13967",
+    "saved_materials": [
+      "assets/14202_11822_0727_kobayashi_s.jpg"
+    ]
+  }
+}

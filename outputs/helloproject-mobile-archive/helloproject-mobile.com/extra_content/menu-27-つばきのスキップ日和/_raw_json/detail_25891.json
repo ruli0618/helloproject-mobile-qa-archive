@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 41,
+    "content_id": "25891",
+    "content_title": "新",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2026-03-27 10:00:00",
+    "created_at": "2026-03-13 23:52:48",
+    "updated_at": "2026-03-13 23:52:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21214",
+        "material_title": "0327_akiyama_s.jpg",
+        "material_file": "bda983cc4712b5883f7dcfc18e9ec03db125b5b76e43bb40fefb5bbd40aa6d5521214.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25891",
+    "content_title": "新",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2026-03-27 10:00:00",
+    "created_at": "2026-03-13 23:52:48",
+    "updated_at": "2026-03-13 23:52:48",
+    "content_text": "0327_akiyama_s.jpg\r\nこんにちは、秋山眞緒です<img src=\"/emoji/emoji-images/4f24.gif\"/>\r\n最近つばきファクトリーを卒業することを発表させて頂いてまた新しい人生になっていってると感じてます★\r\n\r\n卒業するって言うと周りから見てもらえる目線が変わったり、ファンのみなさんがかけてくれる言葉が前とはまた違ったり、、不思議な感覚<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nでも正直まだまだ実感はないの！だし実感したくないまである<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nこれを読んでるあなたはどんな気持ちでいるんだろう\r\n\r\nあなたの心の支えでいられたら私は嬉しい♡\r\nつばきに色々なものを残していきたいしたくさん愛を伝えたい。\r\n\r\nあなたに愛も感謝の気持ちも伝えたい！今しかない毎日のようにすぎていくこの尊い時間をどうか忘れないで★\r\n\r\n\r\nあなたはひとりじゃない♡",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21214",
+        "material_title": "0327_akiyama_s.jpg",
+        "material_file": "367f224e13ffbcf535bce512ee8c59cac018afda4b78264760e63af56b768f2c21214.jpeg"
+      }
+    ],
+    "previous_id": "25892",
+    "next_id": "25890",
+    "saved_materials": [
+      "assets/25891_21214_0327_akiyama_s.jpg"
+    ]
+  }
+}

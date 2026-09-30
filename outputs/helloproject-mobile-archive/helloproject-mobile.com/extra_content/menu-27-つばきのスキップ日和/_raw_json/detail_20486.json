@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 135,
+    "content_id": "20486",
+    "content_title": "パンケーキ",
+    "content_sub_title": "山岸理子",
+    "category_id": "155",
+    "release_date": "2023-07-21 10:00:00",
+    "created_at": "2023-07-14 10:49:58",
+    "updated_at": "2023-07-14 10:49:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "16896",
+        "material_title": "0721_yamagishi_s.jpg",
+        "material_file": "fde41907d7ed515d7db5d5334e6447246227a75d17c4a8b63ad90045d8dbd18016896.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20486",
+    "content_title": "パンケーキ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2023-07-21 10:00:00",
+    "created_at": "2023-07-14 10:49:58",
+    "updated_at": "2023-07-14 10:49:58",
+    "content_text": "0721_yamagishi_s.jpg\r\n友達と桃のパンケーキ食べた、、♡\r\nスフレのパンケーキ\r\nふわふわすぎたぁぁぁぁ\r\n\r\n至福のひととき、、\r\n\r\n甘いものらぶ> < ♡\r\n\r\n\r\nつばきファクトリー山岸理子",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16896",
+        "material_title": "0721_yamagishi_s.jpg",
+        "material_file": "4739949dbee4936b24572c4b5a1ac0a2100ff9bb2a3abd6a734fe7c767d3b5fb16896.jpeg"
+      }
+    ],
+    "previous_id": "20592",
+    "next_id": "20485",
+    "saved_materials": [
+      "assets/20486_16896_0721_yamagishi_s.jpg"
+    ]
+  }
+}

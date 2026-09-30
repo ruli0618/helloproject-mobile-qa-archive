@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 310,
+    "content_id": "18513",
+    "content_title": "トレンド",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2022-07-27 10:00:00",
+    "created_at": "2022-07-14 17:27:45",
+    "updated_at": "2022-07-14 17:29:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15413",
+        "material_title": "0727_eguchi_s.jpg",
+        "material_file": "a5d0b102a3cae2234192c2dbe9a8a8f4ef042382ef6acec50ed3fa2230b4ce7815413.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18513",
+    "content_title": "トレンド",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2022-07-27 10:00:00",
+    "created_at": "2022-07-14 17:27:45",
+    "updated_at": "2022-07-14 17:29:31",
+    "content_text": "0727_eguchi_s.jpg\r\n今流行りのアームウォーマーをつけてお洒落を楽しんでます！\r\n\r\n【20周目お題：オシャレ】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15413",
+        "material_title": "0727_eguchi_s.jpg",
+        "material_file": "a6acbb9a2f05fba2c4bbc15e2303b85174602a253d61451126c188a65d7ab3c715413.jpeg"
+      }
+    ],
+    "previous_id": "18515",
+    "next_id": "18512",
+    "saved_materials": [
+      "assets/18513_15413_0727_eguchi_s.jpg"
+    ]
+  }
+}

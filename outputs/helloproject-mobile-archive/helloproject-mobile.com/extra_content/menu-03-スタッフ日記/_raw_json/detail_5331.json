@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 646,
+    "content_id": "5331",
+    "content_title": "抽選結果公開！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-14 23:58:00",
+    "created_at": "2016-09-14 23:57:04",
+    "updated_at": "2016-09-14 23:58:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5331",
+    "content_title": "抽選結果公開！",
+    "content_sub_title": "",
+    "release_date": "2016-09-14 23:58:00",
+    "created_at": "2016-09-14 23:57:04",
+    "updated_at": "2016-09-14 23:58:13",
+    "content_text": "こんばんは。\r\nハロ！モバスタッフ番号2番です。\r\n\r\n本日より、ハロ！プロモバイル会員限定イベント「ハロ！モバPresents 矢島舞美＆鈴木愛理 アコースティックライブ2016 〜コロンの娘。ふたたび〜」の先行応募抽選結果を公開しました！\r\n\r\n<a href=\"https://helloproject-mobile.com/info/special/content?page=yajisuzu_sp_event/index\"><font color=\"#0000ff\"><u>特設ページ</u></font></a>より確認出来ますので、先行応募申し込みをされた方は必ずご確認くださいね。\r\n\r\n※当選された方は、郵便振替での入金となります。\r\n締切は9/21(水)と、日数がわずかですのでご注意下さい。\r\n\r\n先行応募ができなかった方も、ハロ！モバ会員であれば10/3(月)18:00～から応募が可能ですので、ぜひ諦めずにご応募お待ちしております！\r\n\r\nまた、この度は抽選結果の表示に不具合が出てしまい、大変申し訳ございませんでした。\r\n17:30頃～18:10頃の間に抽選結果を確認し\"応募履歴が無い\"と表示されました方は、お手数ですが再度のご確認をお願いいたします。\r\n\r\nお客様にご不安とご心配をお掛けしました事、重ねてお詫び申し上げます。\r\n\r\n今後このようなことの無いように徹底し、ハロ！モバとして初のイベントを成功させるよう万全の体制で取り組んで参ります。\r\n\r\nぜひ皆さんもご参加下さい！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5362",
+    "next_id": "5274",
+    "saved_materials": []
+  }
+}

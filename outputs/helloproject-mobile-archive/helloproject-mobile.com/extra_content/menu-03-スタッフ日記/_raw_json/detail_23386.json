@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 96,
+    "content_id": "23386",
+    "content_title": "宣伝会議#99",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-06-20 00:00:00",
+    "created_at": "2024-11-28 16:02:44",
+    "updated_at": "2024-11-28 17:37:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19215",
+        "material_title": "99_01_s.jpg",
+        "material_file": "36fce2ffc410041183d31faef15295a47a1f67dbf036f1d90e5213b723a62aa219215.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19216",
+        "material_title": "99.jpg",
+        "material_file": "8d09038e56e47b6781fff914ec18e03e3051b3c98bca18fbe70b3a2497fac80019216.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19217",
+        "material_title": "99_02_s.jpg",
+        "material_file": "84b52bb4d2b5540d950032647ba7eec14e6d8db4c2e222886089e5803529602319217.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23386",
+    "content_title": "宣伝会議#99",
+    "content_sub_title": "",
+    "release_date": "2024-06-20 00:00:00",
+    "created_at": "2024-11-28 16:02:44",
+    "updated_at": "2024-11-28 17:37:24",
+    "content_text": "宣伝会議第99回は、野中美希部長・前田こころ警備兼広報の二人でお届け！\n\n99_01_s.jpg\n\nまずは宣伝会議配信第100回を迎えるにあたって、次回行う企画を話し合いました！\n\nそこで、こちら↓の企画が決まりました！\n・PR用動画を作る\n・宣伝部員が皆さんからの質問100個答える\n\n前編では、\n・新曲ラップパート\n・バースデーイベント\nについてトーク！\n\n「きのこたけのこ大討論」のコーナーでは、\n「過去と未来、どちらに行きたい？」についてディベート！\n\n後編では、\n・BEYOOOOONDSの新曲\n・武道館公演で空調管理担当\n・JAPAN JAM\n・楽曲会議\n・ざわめくイントロ\n・ファーストピッチ\n・沖縄\n・寝坊や遅刻\nについてトーク！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\n「上國料萌衣」さんについて紹介！\n\n↓議事録はこちら！\n99.jpg\n\n99_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19215",
+        "material_title": "99_01_s.jpg",
+        "material_file": "0d340b152db4a29d98915a3aec1f9939883b1276c99b1fe5689eb743b784492d19215.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19216",
+        "material_title": "99.jpg",
+        "material_file": "0fb1dda5649be952eef37c706ea4b6d25da8794a65b94153537893c37536bdb219216.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19217",
+        "material_title": "99_02_s.jpg",
+        "material_file": "7d1a4488b50a91fcbacdd85c3fb8230f2824df847ffee146cf5a4661051e585119217.jpeg"
+      }
+    ],
+    "previous_id": "22939",
+    "next_id": "22945",
+    "saved_materials": [
+      "assets/23386_19215_99_01_s.jpg",
+      "assets/23386_19216_99.jpg",
+      "assets/23386_19217_99_02_s.jpg"
+    ]
+  }
+}

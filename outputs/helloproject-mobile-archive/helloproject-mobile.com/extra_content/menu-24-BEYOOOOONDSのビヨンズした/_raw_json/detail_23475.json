@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 141,
+    "content_id": "23475",
+    "content_title": "いつかのリリイベ！",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2024-12-16 11:58:00",
+    "created_at": "2024-12-16 11:58:39",
+    "updated_at": "2024-12-16 11:58:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19309",
+        "material_title": "1216_shimakura_s.jpg",
+        "material_file": "280bc0dc3fcea804cd06cdf4f61b7d9136dbb6eadac9ea50863ed43edb72a48a19309.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23475",
+    "content_title": "いつかのリリイベ！",
+    "content_sub_title": "島倉りか",
+    "release_date": "2024-12-16 11:58:00",
+    "created_at": "2024-12-16 11:58:39",
+    "updated_at": "2024-12-16 11:58:39",
+    "content_text": "1216_shimakura_s.jpg\r\n懐かしい写真が出てきました…！\r\nお嬢様コンビ♡\r\n\r\n【39周目お題：イベント】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "19309",
+        "material_title": "1216_shimakura_s.jpg",
+        "material_file": "ea8026330306880b7f07a4c3a1b8c90dc60ac0228465a9715e47baf1bd36723119309.jpeg"
+      }
+    ],
+    "previous_id": "23476",
+    "next_id": "23250",
+    "saved_materials": [
+      "assets/23475_19309_1216_shimakura_s.jpg"
+    ]
+  }
+}

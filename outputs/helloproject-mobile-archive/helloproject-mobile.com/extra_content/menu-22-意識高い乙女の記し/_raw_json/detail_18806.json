@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 35,
+    "content_id": "18806",
+    "content_title": "青",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2022-09-19 10:00:00",
+    "created_at": "2022-09-09 15:09:01",
+    "updated_at": "2022-09-09 15:09:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15658",
+        "material_title": "0919_akiyama_s.jpg",
+        "material_file": "a67f1a902c3c22ed870df29482f6d38d134a43541179c163b576b3317ee7146015658.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18806",
+    "content_title": "青",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2022-09-19 10:00:00",
+    "created_at": "2022-09-09 15:09:01",
+    "updated_at": "2022-09-09 15:09:01",
+    "content_text": "0919_akiyama_s.jpg\r\n今年の夏は色んな色のお洋服を着れました(^^)夏服も大好きなのでクローゼットの中はパンパン、、！\r\n\r\n秋もたくさんおしゃれして楽しみたいな♡\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15658",
+        "material_title": "0919_akiyama_s.jpg",
+        "material_file": "2669efa4ac226a1928680d6d080720488d619f21a55967be37c1cf49017f8cec15658.jpeg"
+      }
+    ],
+    "previous_id": "18876",
+    "next_id": "18805",
+    "saved_materials": [
+      "assets/18806_15658_0919_akiyama_s.jpg"
+    ]
+  }
+}

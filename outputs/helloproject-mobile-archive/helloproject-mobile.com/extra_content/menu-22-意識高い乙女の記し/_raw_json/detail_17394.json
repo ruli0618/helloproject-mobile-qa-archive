@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 78,
+    "content_id": "17394",
+    "content_title": "ふわふわ",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2021-12-28 10:00:00",
+    "created_at": "2021-12-24 12:50:29",
+    "updated_at": "2021-12-24 12:50:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14521",
+        "material_title": "211228_yofu_s.jpg",
+        "material_file": "59fb7281e4cf5ece09528055a64542682e5c4e451d9e561704232004f0a1102414521.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17394",
+    "content_title": "ふわふわ",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2021-12-28 10:00:00",
+    "created_at": "2021-12-24 12:50:29",
+    "updated_at": "2021-12-24 12:50:29",
+    "content_text": "211228_yofu_s.jpg\r\nよっふぅ〜\r\nメイクして、オシャレーなふわふわスフレ卵を食べたよ〜！\r\nラクレットチーズをかけて食べるとより美味しい！！\r\nふっわふっわで最高！",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14521",
+        "material_title": "211228_yofu_s.jpg",
+        "material_file": "07a18b864646320131f234e6c330c6079f1e182407be401e8d7e0bc8f434c47e14521.jpeg"
+      }
+    ],
+    "previous_id": "17395",
+    "next_id": "17393",
+    "saved_materials": [
+      "assets/17394_14521_211228_yofu_s.jpg"
+    ]
+  }
+}

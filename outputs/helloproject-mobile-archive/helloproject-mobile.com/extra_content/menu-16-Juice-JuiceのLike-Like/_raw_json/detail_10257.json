@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 664,
+    "content_id": "10257",
+    "content_title": "初の武道館",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2018-11-30 11:00:00",
+    "created_at": "2018-11-08 20:05:38",
+    "updated_at": "2018-11-08 20:05:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8889",
+        "material_title": "1130_inaba_s.jpg",
+        "material_file": "8159fdc86ada082121d132e9340b22b6b10b59b4cc38fa499ae698deada8b08c8889.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10257",
+    "content_title": "初の武道館",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2018-11-30 11:00:00",
+    "created_at": "2018-11-08 20:05:38",
+    "updated_at": "2018-11-08 20:05:38",
+    "content_text": "1130_inaba_s.jpg\r\n10月29日にJuice=Juiceの日本武道館公演がありました！\r\n私にとっては初の武道館公演。\r\n7人の先輩たちとJuice=Juice Familyの皆様、今まで私に関わって下さった全ての皆様に感謝の気持ちで一杯になりました。\r\n一生の思い出となる素晴らしい時間を、本当にありがとうございました。。！♡",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "8889",
+        "material_title": "1130_inaba_s.jpg",
+        "material_file": "bdaac0a76976ef060e281902997f86da19a530aa34a916f30daf965c40430ea78889.jpeg"
+      }
+    ],
+    "previous_id": "10259",
+    "next_id": "10256",
+    "saved_materials": [
+      "assets/10257_8889_1130_inaba_s.jpg"
+    ]
+  }
+}

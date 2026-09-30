@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 344,
+    "content_id": "18633",
+    "content_title": "ローストビーフ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2022-08-16 15:00:00",
+    "created_at": "2022-08-16 15:03:15",
+    "updated_at": "2022-08-16 15:03:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15530",
+        "material_title": "0816_ebata_s.jpg",
+        "material_file": "97130a3b2f0142d8a1857b087d619c2d8c335a5b6e2028b349eb04fe40c68d8315530.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18633",
+    "content_title": "ローストビーフ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2022-08-16 15:00:00",
+    "created_at": "2022-08-16 15:03:15",
+    "updated_at": "2022-08-16 15:03:15",
+    "content_text": "やっほ〜えば〜\r\n\r\n\r\n\r\nどうですか！新しい挨拶！\r\n\r\n\r\nフォーエバーとかけてみました！\r\n\r\nやっほ〜えば〜\r\n\r\n\r\n早速だけど気に入りました(⋈◍＞◡＜◍)。✧♡\r\n\r\n\r\n\r\nあと今日はローストビーフを食べたんだよჱ̒ ｰ̀֊ｰ́ )\r\n\r\n元気もりもりになった！！\r\n\r\n\r\nみんなもいっぱいお肉たべよおおう‪( ᷇࿀ ᷆ )\r\n\r\n0816_ebata_s.jpg",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15530",
+        "material_title": "0816_ebata_s.jpg",
+        "material_file": "dd9468fc7a8a91c36265ca14852490852a02feb0de8bc81296aa32a658b9fce715530.jpeg"
+      }
+    ],
+    "previous_id": "18634",
+    "next_id": "18602",
+    "saved_materials": [
+      "assets/18633_15530_0816_ebata_s.jpg"
+    ]
+  }
+}

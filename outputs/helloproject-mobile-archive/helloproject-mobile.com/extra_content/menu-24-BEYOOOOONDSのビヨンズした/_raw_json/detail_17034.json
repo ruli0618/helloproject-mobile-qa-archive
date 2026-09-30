@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 353,
+    "content_id": "17034",
+    "content_title": "秋先取り！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-12-01 10:00:00",
+    "created_at": "2021-11-04 17:27:54",
+    "updated_at": "2022-01-17 14:43:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14230",
+        "material_title": "1201_satoyoshi_s.jpg",
+        "material_file": "c4608428453a6a712cdf662832fa2981ef5fa8d0a027ed9ee730ab08bf91e2ec14230.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17034",
+    "content_title": "秋先取り！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-12-01 10:00:00",
+    "created_at": "2021-11-04 17:27:54",
+    "updated_at": "2022-01-17 14:43:44",
+    "content_text": "1201_satoyoshi_s.jpg\n秋先取りなミディアムブルーの千鳥柄セットアップ！！\nネオンピンクなピアスとリップと組み合わせるのが、\nかわいすぎてお気に入りです♡\n\n【15周目お題：メンバーカラー】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14230",
+        "material_title": "1201_satoyoshi_s.jpg",
+        "material_file": "8fc11853a8eb0cd1d9f9bba83cad6891696741dec315c09ee2eeb95813f5fad914230.jpeg"
+      }
+    ],
+    "previous_id": "17035",
+    "next_id": "17032",
+    "saved_materials": [
+      "assets/17034_14230_1201_satoyoshi_s.jpg"
+    ]
+  }
+}

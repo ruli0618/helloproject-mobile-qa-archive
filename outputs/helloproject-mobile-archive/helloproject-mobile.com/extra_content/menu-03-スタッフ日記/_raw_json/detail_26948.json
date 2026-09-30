@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 67,
+    "content_id": "26948",
+    "content_title": "宣伝会議#105",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-12-26 00:00:00",
+    "created_at": "2026-09-28 15:36:52",
+    "updated_at": "2026-09-28 15:36:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22007",
+        "material_title": "105.jpg",
+        "material_file": "1abb0decd24e6d59b40c62ebec129e24dfc58e322c4612180c10dea4cbbdd8b122007.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22008",
+        "material_title": "105_01.jpg",
+        "material_file": "ac7892e46f54e45d495c7ed533c1f12286ea98d2a437c041ce8927479905069822008.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26948",
+    "content_title": "宣伝会議#105",
+    "content_sub_title": "",
+    "release_date": "2024-12-26 00:00:00",
+    "created_at": "2026-09-28 15:36:52",
+    "updated_at": "2026-09-28 15:36:52",
+    "content_text": "105_01.jpg\r\n\r\n宣伝会議第105回は、前田こころ副部長と、今回より入部してくれた新入部員、ロージークロニクル小野田華凜さんの二人でお届け！\r\n\r\n前編では、\r\n・BEYOOOOONDS幕間映像の寸劇\r\n・過去Q＆Aからの質問\r\n・Juice=Juiceバックダンサーの感想\r\n・川村文乃卒業コンサート\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「お弁当は、お肉派？お魚派？」についてディベート！\r\n\r\n後編では、\r\n・小学校の休憩時間の過ごし方\r\n・BEYOOOOONDS武道館公演\r\n・フェスの意気込み\r\n・メジャーデビュー\r\n・今年の漢字\r\n・来年こそ始めたいこと\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「中山夏月姫」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n105.jpg",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22007",
+        "material_title": "105.jpg",
+        "material_file": "7d213174549ccdd279c4e4eddf4767b8ce8622ac27fd74d16a0a882d55f0db4022007.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22008",
+        "material_title": "105_01.jpg",
+        "material_file": "5b29c20a5e6cf3398bbbf4da3d5443611d6baaf6d80dfad9511ab5a581509ae222008.jpeg"
+      }
+    ],
+    "previous_id": "26977",
+    "next_id": "26976",
+    "saved_materials": [
+      "assets/26948_22007_105.jpg",
+      "assets/26948_22008_105_01.jpg"
+    ]
+  }
+}

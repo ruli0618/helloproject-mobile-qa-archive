@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 203,
+    "content_id": "21221",
+    "content_title": "工藤の家の屋根裏部屋#114～平山遊季～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-16 00:00:00",
+    "created_at": "2023-11-14 14:00:46",
+    "updated_at": "2023-11-14 14:00:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17426",
+        "material_title": "220912_01_s.jpg",
+        "material_file": "25f673ffff44f8e1197aead6eb7b696e3a02746d57638da1114c777672cad56317426.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17427",
+        "material_title": "220912_02_s.jpg",
+        "material_file": "e4c4a1de00f3e12d0cfc495db00be0bc335891523d616e220b7e00bfe89cb68a17427.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21221",
+    "content_title": "工藤の家の屋根裏部屋#114～平山遊季～",
+    "content_sub_title": "",
+    "release_date": "2022-08-16 00:00:00",
+    "created_at": "2023-11-14 14:00:46",
+    "updated_at": "2023-11-14 14:00:46",
+    "content_text": "ふくむらの部屋 第114回は、アンジュルム平山遊季さんが登場！\r\n\r\n220912_01_s.jpg\r\n\r\n・美味しかったフェス飯\r\n・お互いの印象\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nメンバーを加入時の年齢が低い順に並べるクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ONE PLUS ONE\r\n・アドバイスから成長したこと\r\nを語りました！\r\n\r\n後半では、\r\n・自慢のコレクション\r\n・朝起きる良い方法\r\nについてトーク！\r\n\r\n220912_02_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "17426",
+        "material_title": "220912_01_s.jpg",
+        "material_file": "34e784d6e60caa0c815e13bf203e4e58648351c4a99098b72c903069325aa74517426.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "17427",
+        "material_title": "220912_02_s.jpg",
+        "material_file": "2429a94f925797f1f3f7417c58b5d8164d3dccde0f870220b86d22fc89d8ef0b17427.jpeg"
+      }
+    ],
+    "previous_id": "21220",
+    "next_id": "18632",
+    "saved_materials": [
+      "assets/21221_17426_220912_01_s.jpg",
+      "assets/21221_17427_220912_02_s.jpg"
+    ]
+  }
+}

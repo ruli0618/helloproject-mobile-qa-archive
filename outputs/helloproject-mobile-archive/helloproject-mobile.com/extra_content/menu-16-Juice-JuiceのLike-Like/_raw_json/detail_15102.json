@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 500,
+    "content_id": "15102",
+    "content_title": "バッグ",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2020-12-10 10:00:00",
+    "created_at": "2020-12-08 12:36:31",
+    "updated_at": "2020-12-08 12:36:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12572",
+        "material_title": "1210_miyamoto_s.jpg",
+        "material_file": "85a3fe87e7315336e30da105c3f89fcbffe3c4c51e41a712f8b4097929cf71be12572.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15102",
+    "content_title": "バッグ",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2020-12-10 10:00:00",
+    "created_at": "2020-12-08 12:36:31",
+    "updated_at": "2020-12-08 12:36:31",
+    "content_text": "1210_miyamoto_s.jpg\r\nハロー！プロジェクトのメンバーのみんなへのお菓子とお手紙を、このバッグに詰めて渡しました。このバッグで配りました。",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12572",
+        "material_title": "1210_miyamoto_s.jpg",
+        "material_file": "fe1f1fa4b9f6062f0a274f0a62d9a8b5334f58b3c52f0936cd13788d74eb2fd412572.jpeg"
+      }
+    ],
+    "previous_id": "15190",
+    "next_id": "14995",
+    "saved_materials": [
+      "assets/15102_12572_1210_miyamoto_s.jpg"
+    ]
+  }
+}

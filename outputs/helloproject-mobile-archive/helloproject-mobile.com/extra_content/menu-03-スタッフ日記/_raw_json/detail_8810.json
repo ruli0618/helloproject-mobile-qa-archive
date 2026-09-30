@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 518,
+    "content_id": "8810",
+    "content_title": "かるた受付中！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-04-02 19:16:00",
+    "created_at": "2018-04-02 19:16:25",
+    "updated_at": "2018-04-02 19:17:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8810",
+    "content_title": "かるた受付中！",
+    "content_sub_title": "",
+    "release_date": "2018-04-02 19:16:00",
+    "created_at": "2018-04-02 19:16:25",
+    "updated_at": "2018-04-02 19:17:30",
+    "content_text": "こんばんは！\r\nスタッフ番号2番です。\r\n\r\n土日「SATOYAMA＆SATOUMI」イベントでは、ハロ！モバブースにも沢山のご来場ありがとうございました！\r\nサブステージでのイベントも大盛況で終了する事が出来ました。\r\n目安箱に投書されたご意見は全て確認させていただきます。\r\n\r\nそして、イベントでも販売しておりました「ハロー！プロジェクトモバイルオリジナルかるた2018」は、通販サイト「e-LineUP!Mall」で只今受注受付中です！\r\n今回イベントに来られなかった、買い逃してしまった…という方は、ぜひチェックお願いします♪\r\n\r\n★お申込みは<a href=\"https://www.elineupmall.com/c182/c1074/hello-project-2018-2018-ja/\" target=\"_blank\">こちら</a>から！\r\n\r\n【期間限定受注】 \r\n2018年4月15日(日)23:59まで\r\n商品発送予定日：2018年5月下旬予定\r\n\r\n期間限定の受付ですので、お忘れなく！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8820",
+    "next_id": "8805",
+    "saved_materials": []
+  }
+}

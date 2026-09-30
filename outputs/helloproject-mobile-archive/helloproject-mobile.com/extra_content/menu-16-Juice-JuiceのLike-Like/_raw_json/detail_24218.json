@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 84,
+    "content_id": "24218",
+    "content_title": "わーい",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2025-04-29 10:00:00",
+    "created_at": "2025-04-29 00:23:16",
+    "updated_at": "2025-04-29 00:23:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19846",
+        "material_title": "0429_arisawa_s.jpg",
+        "material_file": "b34e45836095d893db705447e381bc6781752064ad594f41e8fb0e9979c699bb19846.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24218",
+    "content_title": "わーい",
+    "content_sub_title": "有澤一華",
+    "release_date": "2025-04-29 10:00:00",
+    "created_at": "2025-04-29 00:23:16",
+    "updated_at": "2025-04-29 00:23:16",
+    "content_text": "0429_arisawa_s.jpg\r\n最近、人との縁を感じることが増えました！！！！\r\n\r\nすごいのよ、、怖いくらいに！！！\r\n\r\n\r\nだから常に初心を忘れず、調子に乗らず、謙虚に影を薄ーく生きていきたいなと思います！\r\n\r\n\r\nいつもありがとうございます！",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "19846",
+        "material_title": "0429_arisawa_s.jpg",
+        "material_file": "a86814f2ed48df9c1d94cb79b5c16d9f2146e271ac845643c47ad7ee081721df19846.jpeg"
+      }
+    ],
+    "previous_id": "24242",
+    "next_id": "24213",
+    "saved_materials": [
+      "assets/24218_19846_0429_arisawa_s.jpg"
+    ]
+  }
+}

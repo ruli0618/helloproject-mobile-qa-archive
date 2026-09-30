@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 103,
+    "content_id": "23808",
+    "content_title": "アンパンマン",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2025-02-18 10:00:00",
+    "created_at": "2025-02-17 20:50:11",
+    "updated_at": "2025-02-17 20:50:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19562",
+        "material_title": "0218_arisawa_s.jpg",
+        "material_file": "1859562cfef4f3098985bc2548e166232212dd4fab046042df888e82d68268d019562.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23808",
+    "content_title": "アンパンマン",
+    "content_sub_title": "有澤一華",
+    "release_date": "2025-02-18 10:00:00",
+    "created_at": "2025-02-17 20:50:11",
+    "updated_at": "2025-02-17 20:50:11",
+    "content_text": "0218_arisawa_s.jpg\r\n有澤一華です！\r\n\r\nアンパンマンだいすき！！！\r\n\r\nアンパンマンの作品、音楽、歌詞全てだいすき！\r\n\r\n最近は、起きて準備しながらアンパンマン、メイクしながらアンパンマン、寝る前にアンパンマン。\r\n\r\n\r\nうふふ、おすすめです！\r\n\r\n\r\nでは！",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19562",
+        "material_title": "0218_arisawa_s.jpg",
+        "material_file": "1b53df254026d2eb2881525d97301aae26c4ce9227a63b51112fa0123ef75cf019562.jpeg"
+      }
+    ],
+    "previous_id": "23860",
+    "next_id": "23771",
+    "saved_materials": [
+      "assets/23808_19562_0218_arisawa_s.jpg"
+    ]
+  }
+}

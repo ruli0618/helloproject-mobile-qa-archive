@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 59,
+    "content_id": "25114",
+    "content_title": "足跡",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2025-11-14 10:00:00",
+    "created_at": "2025-10-08 19:39:55",
+    "updated_at": "2025-11-14 12:36:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20513",
+        "material_title": "1114_tanimoto_s.jpg",
+        "material_file": "d1bfaf7f990db5504f5ee8af7486920291b51046c20e50a7f13a4f486569aec820513.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25114",
+    "content_title": "足跡",
+    "content_sub_title": "谷本安美",
+    "release_date": "2025-11-14 10:00:00",
+    "created_at": "2025-10-08 19:39:55",
+    "updated_at": "2025-11-14 12:36:14",
+    "content_text": "1114_tanimoto_s.jpg\n雨上がって愛犬めるちゃんとお散歩！\nまだ地面が濡れているところがあったから地面にめるちゃんの足跡が！かわいいな〜",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20513",
+        "material_title": "1114_tanimoto_s.jpg",
+        "material_file": "7db4ca514da1ca4eed78d09de602f1a0a4aaa33fb45a6764560a9b479589e65520513.jpeg"
+      }
+    ],
+    "previous_id": "25115",
+    "next_id": "25047",
+    "saved_materials": [
+      "assets/25114_20513_1114_tanimoto_s.jpg"
+    ]
+  }
+}

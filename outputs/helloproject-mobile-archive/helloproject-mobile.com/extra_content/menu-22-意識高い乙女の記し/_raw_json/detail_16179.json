@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "16179",
+    "content_title": "100%ジュース",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-06-11 19:30:00",
+    "created_at": "2021-06-11 19:34:01",
+    "updated_at": "2021-06-11 19:34:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13509",
+        "material_title": "210611_akiyama_s.jpg",
+        "material_file": "1d75c72f89d80173ad0a9800cf84332c9a8debcf987f564dbd10f3ddbba6804b13509.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16179",
+    "content_title": "100%ジュース",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-06-11 19:30:00",
+    "created_at": "2021-06-11 19:34:01",
+    "updated_at": "2021-06-11 19:34:01",
+    "content_text": "210611_akiyama_s.jpg\r\nわたしは100%のジュースがすごくすきです！\r\nこの間は新沼希空ちゃんが買ってくれてめちゃめちゃうれしかったなぁ<img src=\"/emoji/emoji-images/f39f.gif\"/><img src=\"/emoji/emoji-images/f485.gif\"/>\r\n\r\n健康にも一緒に気をつけて\r\n過ごしましょうね(^^)",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13509",
+        "material_title": "210611_akiyama_s.jpg",
+        "material_file": "cb3bffd75ea73fb090ed3ea929406a0453e0ece4b9c612aef492c193432d1b2613509.jpeg"
+      }
+    ],
+    "previous_id": "16181",
+    "next_id": "16176",
+    "saved_materials": [
+      "assets/16179_13509_210611_akiyama_s.jpg"
+    ]
+  }
+}

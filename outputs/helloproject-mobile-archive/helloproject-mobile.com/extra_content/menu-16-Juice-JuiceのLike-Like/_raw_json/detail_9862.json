@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 688,
+    "content_id": "9862",
+    "content_title": "スイートポテト",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-09-14 23:30:00",
+    "created_at": "2018-09-14 23:33:33",
+    "updated_at": "2018-09-14 23:33:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8590",
+        "material_title": "0914_dambara_s.jpg",
+        "material_file": "5487740adde43f38421f6ce64843cad58da9b54577dc879da568415b6a8f22fc8590.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9862",
+    "content_title": "スイートポテト",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-09-14 23:30:00",
+    "created_at": "2018-09-14 23:33:33",
+    "updated_at": "2018-09-14 23:33:33",
+    "content_text": "0914_dambara_s.jpg\r\nハロプロ研修生の中山夏月姫ちゃんに、石川県のお土産いただきました♥\r\n衣装はアップトゥボーイさんの撮影の時の制服♪",
+    "materials": [
+      {
+        "secretKey": "803ef0d6118194a3e2d09c97203cf8dd",
+        "material_id": "8590",
+        "material_title": "0914_dambara_s.jpg",
+        "material_file": "455248c8d433d96aa786610abd7322a2e6261a4f847d8c590d746a85a82f97798590.jpeg"
+      }
+    ],
+    "previous_id": "9864",
+    "next_id": "9668",
+    "saved_materials": [
+      "assets/9862_8590_0914_dambara_s.jpg"
+    ]
+  }
+}

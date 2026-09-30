@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 166,
+    "content_id": "21330",
+    "content_title": "みよちゃん家の縁側の猫#21 山﨑愛生",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-02-21 00:00:00",
+    "created_at": "2023-12-01 17:00:15",
+    "updated_at": "2023-12-01 17:00:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17536",
+        "material_title": "231201_01.jpg",
+        "material_file": "91a978c1f5741cc0fad354e79154bccec84a461d604a5d187b6e733127cd22eb17536.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17537",
+        "material_title": "231201_02.jpg",
+        "material_file": "3f5282fe8cdc1c5b5594726ff7275356d3d2ff00aea75b13fda991b2b563c43117537.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17538",
+        "material_title": "231201_03.jpg",
+        "material_file": "f027d0a9d21cd36694ed680d8c78a7b2f8a402c0066b4229738653840022c90c17538.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21330",
+    "content_title": "みよちゃん家の縁側の猫#21 山﨑愛生",
+    "content_sub_title": "",
+    "release_date": "2023-02-21 00:00:00",
+    "created_at": "2023-12-01 17:00:15",
+    "updated_at": "2023-12-01 17:00:15",
+    "content_text": "「みよちゃん家の縁側」#21配信中です！\r\n\r\n第21回ゲストは、モーニング娘。'23の山﨑愛生さん！<img src=\"/emoji/emoji-images/f44a.gif\"/>\r\n\r\n231201_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①ハッピーバレンタイン\r\n②パンダさんパワー\r\n③Miyo/Mei world MAX\r\n④パンダフル\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「元気がないときは…」、「パンダさん？」の2本をお届けしました。\r\n\r\n山﨑さんが大好きなパンダさんに関するお題や台本が今回たくさん届きました<img src=\"/emoji/emoji-images/f44a.gif\"/>\r\n\r\n231201_03.jpg\r\n\r\nその他、加賀さん振付「セクシーキャットの演説」振り入れの裏話、コンサートの舞台袖で何してる？、パフォーマンス中の表情管理についてや最近のお互いの印象などなどたくさんのお便りを紹介しています！\r\n\r\n231201_02.jpg\r\n\r\n\r\n収録後、グッと距離が縮まった気がしたお二人でした♡\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n\r\n次回のゲストは、OCHA NORMAの田代すみれさんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17536",
+        "material_title": "231201_01.jpg",
+        "material_file": "7355fda3f1b2a52a7b381520821ac34c7c7e87ac7f449643ea3e38219739f49617536.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17537",
+        "material_title": "231201_02.jpg",
+        "material_file": "0eb5fd9caf40e614019c52363ce253afdb694ec4fb70a7b8116a3c2dacb9f8c917537.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17538",
+        "material_title": "231201_03.jpg",
+        "material_file": "1dc5813f112a4d4dee82b1a51b4607b6b3040dc4c02b9455e1693e1cef26bc8d17538.jpeg"
+      }
+    ],
+    "previous_id": "23367",
+    "next_id": "21234",
+    "saved_materials": [
+      "assets/21330_17536_231201_01.jpg",
+      "assets/21330_17537_231201_02.jpg",
+      "assets/21330_17538_231201_03.jpg"
+    ]
+  }
+}

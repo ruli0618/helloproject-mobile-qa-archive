@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 115,
+    "content_id": "23404",
+    "content_title": "忘れ物",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2024-12-05 10:00:00",
+    "created_at": "2024-12-03 17:40:41",
+    "updated_at": "2024-12-03 17:40:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19265",
+        "material_title": "1205_inoue_s.jpg",
+        "material_file": "4369e46879552e97dd0ae259845e1c05b9dcbea9cc63fa27fac3c9607bdd330519265.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23404",
+    "content_title": "忘れ物",
+    "content_sub_title": "井上玲音",
+    "release_date": "2024-12-05 10:00:00",
+    "created_at": "2024-12-03 17:40:41",
+    "updated_at": "2024-12-03 17:40:41",
+    "content_text": "1205_inoue_s.jpg\r\n10月に作ったイヤーマフ渡しそびれて12月入ってしまった。",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19265",
+        "material_title": "1205_inoue_s.jpg",
+        "material_file": "daee09d588b45d4244e00f03ee15914d172f8a5ea99fa97088f5d4c1dafae99819265.jpeg"
+      }
+    ],
+    "previous_id": "23465",
+    "next_id": "23403",
+    "saved_materials": [
+      "assets/23404_19265_1205_inoue_s.jpg"
+    ]
+  }
+}

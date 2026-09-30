@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 52,
+    "content_id": "26953",
+    "content_title": "宣伝会議#110",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-05-22 00:00:00",
+    "created_at": "2026-09-28 15:36:56",
+    "updated_at": "2026-09-28 15:36:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22023",
+        "material_title": "110.jpg",
+        "material_file": "51727be23f5ce33b209094db8c2894340de34bdeecb4cdf02121481b4fe8710022023.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22024",
+        "material_title": "110_01.jpg",
+        "material_file": "6d5044a7f29973e4c76fc7170ea9ee0bc801bf8d62532e6427fee77e7be1fb3522024.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26953",
+    "content_title": "宣伝会議#110",
+    "content_sub_title": "",
+    "release_date": "2025-05-22 00:00:00",
+    "created_at": "2026-09-28 15:36:56",
+    "updated_at": "2026-09-28 15:36:56",
+    "content_text": "110_01.jpg\r\n\r\n宣伝会議第110回は、野中美希部長・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・ライブ会場でゾンビが襲ってきたら？\r\n・メンバーが可愛かったエピソード\r\n・コンビニでよく買うもの\r\n・盛り沢山会\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「手から花びらを出せる能力、帽子からハトを出せる能力」についてディベート！\r\n\r\n後編では、\r\n・勘違いしていたこと\r\n・北海道のお土産\r\n・ライブ中のファンの服装\r\n・海外公演の思い出\r\n・子供の頃欲しかったけど手に入らなかったもの\r\n・おすすめしたい書籍\r\n・推しメンバーにプレゼントするなら\r\n・ハッシュタグ\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「後藤花」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n110.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22023",
+        "material_title": "110.jpg",
+        "material_file": "da04721ea2d9b9525c1ca52106b1b4c8b2d142a8372dbaea43755369ba191c6022023.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22024",
+        "material_title": "110_01.jpg",
+        "material_file": "e68a4e5cf187315bcc8d8b18f86e752f4e79b1c097099542bbce5a4a8c89800022024.jpeg"
+      }
+    ],
+    "previous_id": "26987",
+    "next_id": "26986",
+    "saved_materials": [
+      "assets/26953_22023_110.jpg",
+      "assets/26953_22024_110_01.jpg"
+    ]
+  }
+}

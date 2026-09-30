@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 68,
+    "content_id": "17751",
+    "content_title": "フルーツ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2022-03-02 10:00:00",
+    "created_at": "2022-02-28 22:56:23",
+    "updated_at": "2022-02-28 22:56:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14838",
+        "material_title": "0302_ono_s.jpg",
+        "material_file": "3eab154770f3a148393d3fed1cd6a62165c3611747ca42a18b9a43700c5e272a14838.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17751",
+    "content_title": "フルーツ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2022-03-02 10:00:00",
+    "created_at": "2022-02-28 22:56:23",
+    "updated_at": "2022-02-28 22:56:23",
+    "content_text": "0302_ono_s.jpg\r\n朝にフルーツを食べるのが好きです♡\r\n\r\n季節によって\r\nフルーツの種類を変えたりするけど\r\n今の時期はいちごを\r\n食べることが多いよ〜！\r\n\r\nスイカの季節が待ち遠しいです〜！\r\nスイカも夏も大好きなので<img src=\"/emoji/emoji-images/f3a2.gif\"/>\r\n\r\nあなたの好きなフルーツは\r\nなんですか？？\r\n\r\nいつか教えてねん\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14838",
+        "material_title": "0302_ono_s.jpg",
+        "material_file": "8b338ed076144ed2b8b85949b4e528fa6e9921c46d9e980e1166519ce8cfb54814838.jpeg"
+      }
+    ],
+    "previous_id": "17762",
+    "next_id": "17684",
+    "saved_materials": [
+      "assets/17751_14838_0302_ono_s.jpg"
+    ]
+  }
+}

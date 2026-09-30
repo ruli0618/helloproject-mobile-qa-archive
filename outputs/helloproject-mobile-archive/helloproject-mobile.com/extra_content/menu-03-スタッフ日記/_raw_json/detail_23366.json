@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 172,
+    "content_id": "23366",
+    "content_title": "宣伝会議#82",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-01-26 00:00:00",
+    "created_at": "2024-11-28 04:57:50",
+    "updated_at": "2024-11-28 04:57:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19160",
+        "material_title": "82_02_s.jpg",
+        "material_file": "160b4076f56c7dffefd7d951d5227a8c9e70ebe9eb9f4003cf4bfca1ad4e91f119160.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19161",
+        "material_title": "82.jpg",
+        "material_file": "bffa207f4ba5490eccb4946d99ecef5141e0751c31853e8ceb93c31edb9a5a2119161.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19162",
+        "material_title": "82_03_s.jpg",
+        "material_file": "53270dcfc2a3782f715a3a3dc7cce7f3b5aad2434b7aba3985f7559f94ebf98019162.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23366",
+    "content_title": "宣伝会議#82",
+    "content_sub_title": "",
+    "release_date": "2023-01-26 00:00:00",
+    "created_at": "2024-11-28 04:57:50",
+    "updated_at": "2024-11-28 04:57:50",
+    "content_text": "宣伝会議第82回は、宣伝部員が全員集合！\r\n\r\n82_02_s.jpg\r\n\r\n前編では、2023年の活動理念を話し合って決定！\r\n\r\n\"妄想動画を頑張るぴょん！！！\"\r\nうさぎ年にちなんだ活動理念になりました。\r\n\r\n活動理念も決まったところで早速、妄想動画を撮影しました！\r\n入江里咲書記は初めての妄想動画！\r\nぜひご覧になってください♬\r\n\r\n後編では、\r\n・プレゼント交換\r\n・中野サンプラザの思い出\r\n・印象的な衣装\r\n・初夢\r\n・ハロコンの見どころ\r\n・仲良くなりたいメンバー\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「里吉うたの」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n82.jpg\r\n\r\n82_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19160",
+        "material_title": "82_02_s.jpg",
+        "material_file": "450caeffbc0040404d7782c9f632cc0f6d58b8a5bd30fb45ff5b1a30ed41d29319160.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19161",
+        "material_title": "82.jpg",
+        "material_file": "59334df468d8984f24cca9957f1ae85a9f1d86af0da41b39f1b82835393dd96719161.jpeg"
+      },
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "19162",
+        "material_title": "82_03_s.jpg",
+        "material_file": "459393644d759371861db08b975d50c80dbe1db67cd0c15556b1a17a3de2eede19162.jpeg"
+      }
+    ],
+    "previous_id": "19570",
+    "next_id": "21312",
+    "saved_materials": [
+      "assets/23366_19160_82_02_s.jpg",
+      "assets/23366_19161_82.jpg",
+      "assets/23366_19162_82_03_s.jpg"
+    ]
+  }
+}

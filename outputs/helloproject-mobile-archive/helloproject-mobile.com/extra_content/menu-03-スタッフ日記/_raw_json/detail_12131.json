@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 391,
+    "content_id": "12131",
+    "content_title": "隣のやじまん家の塀の裏#56 秋山眞緒",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-09-20 13:00:00",
+    "created_at": "2019-09-20 13:13:35",
+    "updated_at": "2019-09-20 13:21:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10337",
+        "material_title": "190920_1.jpg",
+        "material_file": "9c9b7f2076257c040d32fb7495b0579af375a26be9fad1297f24e15b9dcb1eb610337.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10338",
+        "material_title": "190920_2.jpg",
+        "material_file": "765c18f6de9f31c866681f4876242b103341a5ea078ab446c417433bfcad7b9810338.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12131",
+    "content_title": "隣のやじまん家の塀の裏#56 秋山眞緒",
+    "content_sub_title": "",
+    "release_date": "2019-09-20 13:00:00",
+    "created_at": "2019-09-20 13:13:35",
+    "updated_at": "2019-09-20 13:21:18",
+    "content_text": "「隣のやじまん家」#56聴いていただけましたでしょうか？\n\n今回のゲストはつばきファクトリーから 秋山眞緒さん！\n\n\n握手会エピソードやハロプロダンス部について、\n秋山さんの℃-uteコンサート帯同時のお話などたっぷりトークしています♪\n\n夏ハロー！でのハロプロダンス部決めポーズでぱしゃり<img src=\"/emoji/emoji-images/f8e2.gif\"/>\n\n190920_1.jpg\n\n\n「矢島パイセンの○○チェック」では、\n秋山さんはお泊りする時に、一人部屋が嫌だ…！とだだをこねるとか。(かわいい)\nトークをしているとその他にも甘えん坊エピソードがたくさんでてきました！笑\n秋山さんにデレデレの矢島パイセンでしたが、アリ…？それともナシ…？\n\n\n「VS矢島」のコーナーでは、こちらの2つで対決！\n\n①お願い・おねだり対決♡\n②正直者対決！\n\nお願い・おねだり対決では3つのお題で対決しました！\nスタッフのおすすめは「食べている物を一口もらいたい時のおねだり」です♡\nみなさんの感想も #隣のやじまん家 を付けて是非SNSに投稿してくださいね♪\n\n正直者対決はお2人の「言っていなかったけど、実は○○でした！」なエピソードを披露していただきました！\n気になる続きは、ぜひ配信をお聴きください♪\n\n190920_2.jpg\n\n10月テーマトークのお題は\n「学校行事の思い出」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は10月1日(火)、ゲストはアンジュルム/カントリー・ガールズの船木結さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10337",
+        "material_title": "190920_1.jpg",
+        "material_file": "11fe54929e0181a5c04c2134c9761f40f72e37adf997a3b2239d9269c370b8de10337.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10338",
+        "material_title": "190920_2.jpg",
+        "material_file": "6a510d60cf61e1c493f56e7e56d6f3a2f71809c286c90800e8330751210bd5a210338.jpeg"
+      }
+    ],
+    "previous_id": "12222",
+    "next_id": "12099",
+    "saved_materials": [
+      "assets/12131_10337_190920_1.jpg",
+      "assets/12131_10338_190920_2.jpg"
+    ]
+  }
+}

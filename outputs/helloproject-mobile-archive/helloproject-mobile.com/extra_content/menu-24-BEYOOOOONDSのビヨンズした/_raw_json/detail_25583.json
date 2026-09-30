@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 55,
+    "content_id": "25583",
+    "content_title": "衣装",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2026-02-02 10:00:00",
+    "created_at": "2026-01-13 21:30:06",
+    "updated_at": "2026-01-13 21:30:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20925",
+        "material_title": "0202_hirai_s.jpg",
+        "material_file": "87135803c430f994a0d39d012529a14ea68512d95f48d1bb3dce01183845304620925.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25583",
+    "content_title": "衣装",
+    "content_sub_title": "平井美葉",
+    "release_date": "2026-02-02 10:00:00",
+    "created_at": "2026-01-13 21:30:06",
+    "updated_at": "2026-01-13 21:30:06",
+    "content_text": "0202_hirai_s.jpg\r\nかわちい薄ピンク色♡\r\n\r\n【49周目お題：色】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "20925",
+        "material_title": "0202_hirai_s.jpg",
+        "material_file": "8ee322438fbc576264cc42dae9aa2daacf1b81c61f3f20b6ed1b7f1b5b6484d320925.jpeg"
+      }
+    ],
+    "previous_id": "25584",
+    "next_id": "25582",
+    "saved_materials": [
+      "assets/25583_20925_0202_hirai_s.jpg"
+    ]
+  }
+}

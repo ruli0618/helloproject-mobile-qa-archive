@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 643,
+    "content_id": "5392",
+    "content_title": "しめきり！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-29 23:59:00",
+    "created_at": "2016-09-29 23:59:45",
+    "updated_at": "2016-09-30 00:05:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5392",
+    "content_title": "しめきり！",
+    "content_sub_title": "",
+    "release_date": "2016-09-29 23:59:00",
+    "created_at": "2016-09-29 23:59:45",
+    "updated_at": "2016-09-30 00:05:06",
+    "content_text": "こんばんは。\nハロ！モバスタッフ番号2番です。\n\n現在、「<a href=\"https://helloproject-mobile.com/info/special/content?page=160926_senden_mission/index\"><font color=\"#0000ff\"><u>ハロ！モバ宣伝部 副部長争奪戦！</u></font></a>」が開催中です！もうご覧になられましたか？\n副部長候補の3人が撮影してきた動画は、どれもクオリティが高くて甲乙つけがたいですよね。\n\nそれでも、副部長決定のため、ぜひぜひ期間中に投票をお願いします！\n投票締切は、10月6日の18:00までです！\n\nなぜ締切日が10月6日までなのか、小耳に挟んだ情報によると…\n\n締切はいつにしよう？長く期間を設けても仕方ないし…\n↓\n野中の誕生日がもうすぐ！誕生日までにしよう！\n↓\nそれだと野中が有利になるかも！誕生日前日の10月6日までにしよう！\n\nと、いうような部員によるやりとりの末、締切日が決定したそうです。\n（又聞きのため、ディティールはご容赦下さい。）\n\n締切といえば…、\n会員限定イベント「ハロ！モバPresents 矢島舞美＆鈴木愛理 アコースティックライブ2016 ～コロンの娘。ふたたび～」の<a href=\"https://helloproject-mobile.com/info/special/content?page=yajisuzu_sp_event/index\"><font color=\"#0000ff\"><u>楽曲リクエスト受付</u></font></a>が、9月30日(金)18:00までとなります。\n\nまだリクエストしていない！\nという方は、ぜひぜひこちらもチェックをお願いします！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "5422",
+    "next_id": "5386",
+    "saved_materials": []
+  }
+}

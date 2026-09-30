@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 603,
+    "content_id": "11902",
+    "content_title": "私の右手",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2019-08-14 10:00:00",
+    "created_at": "2019-08-13 13:13:16",
+    "updated_at": "2019-08-13 13:13:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10168",
+        "material_title": "0813_kudo_s.jpg",
+        "material_file": "0f5a67a50b5d68e00fe4d405fc5608e171041fd53edf476d869912ecbd6d849410168.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11902",
+    "content_title": "私の右手",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2019-08-14 10:00:00",
+    "created_at": "2019-08-13 13:13:16",
+    "updated_at": "2019-08-13 13:13:16",
+    "content_text": "0813_kudo_s.jpg\r\n\r\n私の手は特徴的です！\r\n手の平が広くて、ホクロがあって、手相が沢山あるんです！！！",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10168",
+        "material_title": "0813_kudo_s.jpg",
+        "material_file": "c65085ed1d25cae54b74144a73d0d98a6ecb553c18932bf34a33da81d08bbf4910168.jpeg"
+      }
+    ],
+    "previous_id": "11931",
+    "next_id": "11838",
+    "saved_materials": [
+      "assets/11902_10168_0813_kudo_s.jpg"
+    ]
+  }
+}

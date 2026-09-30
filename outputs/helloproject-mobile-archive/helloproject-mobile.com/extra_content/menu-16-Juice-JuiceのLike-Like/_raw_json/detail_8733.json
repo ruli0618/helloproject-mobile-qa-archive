@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 735,
+    "content_id": "8733",
+    "content_title": "手比べ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-03-23 11:00:00",
+    "created_at": "2018-03-02 23:38:10",
+    "updated_at": "2018-03-02 23:38:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7633",
+        "material_title": "0323_uemura_s.jpg",
+        "material_file": "73a02b401a575456d9e7ef76838eb89efd6386e80bab51b91d58ef0dc46dcfb67633.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8733",
+    "content_title": "手比べ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-03-23 11:00:00",
+    "created_at": "2018-03-02 23:38:10",
+    "updated_at": "2018-03-02 23:38:10",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\n朋子が、「うちの手の始めここだから！」と手の大きさ比べをしてくれました。\r\n\r\n0323_uemura_s.jpg\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7633",
+        "material_title": "0323_uemura_s.jpg",
+        "material_file": "e787eadf0e3953f3d8103c99aa548c0d9753a88663bc6719a730bd958a6090097633.jpeg"
+      }
+    ],
+    "previous_id": "8734",
+    "next_id": "8731",
+    "saved_materials": [
+      "assets/8733_7633_0323_uemura_s.jpg"
+    ]
+  }
+}

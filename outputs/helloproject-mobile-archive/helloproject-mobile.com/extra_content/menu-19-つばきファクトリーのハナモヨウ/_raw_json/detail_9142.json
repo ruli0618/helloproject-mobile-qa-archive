@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 108,
+    "content_id": "9142",
+    "content_title": "頑張って咲いてるよ",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-05-09 11:00:00",
+    "created_at": "2018-05-08 19:11:42",
+    "updated_at": "2018-05-08 19:11:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8040",
+        "material_title": "0509_yamagishi_s.jpg",
+        "material_file": "546d6a582abca3c83d7128447734966e2113fde5219af2fed17bf567e65a748e8040.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9142",
+    "content_title": "頑張って咲いてるよ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-05-09 11:00:00",
+    "created_at": "2018-05-08 19:11:42",
+    "updated_at": "2018-05-08 19:11:42",
+    "content_text": "歩いていたら、ふと目に止まった、\r\nたんぽぽの綿毛。\r\n他の子は、白い綿毛が飛んでいってるのに\r\nこの子だけ綺麗に咲いてました！\r\nよし、今日もがんばろう。\r\n\r\n0509_yamagishi_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8040",
+        "material_title": "0509_yamagishi_s.jpg",
+        "material_file": "d644a29efbba462dc30a8bedd0f4a08fccaf4a57d92587854c0484172aad5f628040.jpeg"
+      }
+    ],
+    "previous_id": "9182",
+    "next_id": "9101",
+    "saved_materials": [
+      "assets/9142_8040_0509_yamagishi_s.jpg"
+    ]
+  }
+}

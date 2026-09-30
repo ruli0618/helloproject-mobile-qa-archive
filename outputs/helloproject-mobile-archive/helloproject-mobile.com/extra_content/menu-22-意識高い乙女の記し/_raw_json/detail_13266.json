@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 191,
+    "content_id": "13266",
+    "content_title": "おやつ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-03-17 15:51:00",
+    "created_at": "2020-03-17 15:51:08",
+    "updated_at": "2020-03-17 15:51:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11273",
+        "material_title": "IMG_0280_s.jpg",
+        "material_file": "e6bf465c0537ae6f9868be9c038e0d779ec825c90a6b081f9202e483d670ef8811273.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13266",
+    "content_title": "おやつ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-03-17 15:51:00",
+    "created_at": "2020-03-17 15:51:08",
+    "updated_at": "2020-03-17 15:51:08",
+    "content_text": "この前、\r\nおやつに\r\nぶどうを持って行きました！\r\n美味しかった〜！！\r\n\r\nIMG_0280_s.jpg\r\nおやつへの\r\n意識が一つ上がった<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "1110e1605584fdbd99d19058cda436d2",
+        "material_id": "11273",
+        "material_title": "IMG_0280_s.jpg",
+        "material_file": "6fcaecd0cf307dec3c9d931abf454becca482617e43d5d437d3593c59ef3011811273.jpeg"
+      }
+    ],
+    "previous_id": "13322",
+    "next_id": "13233",
+    "saved_materials": [
+      "assets/13266_11273_IMG_0280_s.jpg"
+    ]
+  }
+}

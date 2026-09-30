@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 151,
+    "content_id": "22617",
+    "content_title": "ウェーブ",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2024-07-23 10:00:00",
+    "created_at": "2024-07-22 16:02:40",
+    "updated_at": "2024-07-22 16:02:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18512",
+        "material_title": "0723_inoue_s.jpg",
+        "material_file": "b7a90070158ce6cf6020e01f166de442c4da7df6fd8c9decc4ea442b17dd9d2418512.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22617",
+    "content_title": "ウェーブ",
+    "content_sub_title": "井上玲音",
+    "release_date": "2024-07-23 10:00:00",
+    "created_at": "2024-07-22 16:02:40",
+    "updated_at": "2024-07-22 16:02:40",
+    "content_text": "0723_inoue_s.jpg\r\n今日は顔周りの髪もウェーブかけてみたよ〜\r\nまた雰囲気変わってこれもいいな、、♡",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18512",
+        "material_title": "0723_inoue_s.jpg",
+        "material_file": "b50dd1ab28ce9f77720386ce406c29268f7948ecde05b018f9c6d100726ec1b918512.jpeg"
+      }
+    ],
+    "previous_id": "22649",
+    "next_id": "22610",
+    "saved_materials": [
+      "assets/22617_18512_0723_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 180,
+    "content_id": "22233",
+    "content_title": "初日！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2024-06-12 10:00:00",
+    "created_at": "2024-05-16 15:22:14",
+    "updated_at": "2024-05-16 15:22:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18210",
+        "material_title": "0612_satoyoshi_s.jpg",
+        "material_file": "a1d401428700a29cf947dcb4263b154a1129dc255bebe15a7e1ab80530c8c22018210.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22233",
+    "content_title": "初日！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2024-06-12 10:00:00",
+    "created_at": "2024-05-16 15:22:14",
+    "updated_at": "2024-05-16 15:22:14",
+    "content_text": "0612_satoyoshi_s.jpg\r\nツアー初日、広島公演のオフショットです<img src=\"/emoji/emoji-images/4538.gif\"/>\r\nみんなかわいいよー！<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "2f531f5d86a8224ad1c65137d0cc4dd2",
+        "material_id": "18210",
+        "material_title": "0612_satoyoshi_s.jpg",
+        "material_file": "80b4ad5182b7b84c28cac50b85e8bec8734f86f8c3cb5545f4a43ad087b375f618210.jpeg"
+      }
+    ],
+    "previous_id": "22234",
+    "next_id": "22232",
+    "saved_materials": [
+      "assets/22233_18210_0612_satoyoshi_s.jpg"
+    ]
+  }
+}

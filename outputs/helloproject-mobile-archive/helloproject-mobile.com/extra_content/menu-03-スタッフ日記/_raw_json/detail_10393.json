@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 457,
+    "content_id": "10393",
+    "content_title": "宣伝会議 議事録#32",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-30 21:04:00",
+    "created_at": "2018-11-30 21:04:42",
+    "updated_at": "2018-11-30 21:04:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9019",
+        "material_title": "181130_02_s.jpg",
+        "material_file": "171be4952b90e4f39ee7f1d04785b2c3c0be4c66637c44fcb43263544f509eea9019.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9020",
+        "material_title": "181130_01_s.jpg",
+        "material_file": "145c9e84fbf8da85fcfa493c65ff6d4d88998b0cb862db604948a1fe970e96a39020.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9021",
+        "material_title": "181130_04_s.jpg",
+        "material_file": "be96ee7f92eefa153b94f3467566a25db6748c285c41996e1898942299b792449021.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9022",
+        "material_title": "181130_03_s.jpg",
+        "material_file": "cfacd345d65cab882eb724141d7da05cf25e8c34213844d723873e0a425fc0fb9022.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10393",
+    "content_title": "宣伝会議 議事録#32",
+    "content_sub_title": "",
+    "release_date": "2018-11-30 21:04:00",
+    "created_at": "2018-11-30 21:04:42",
+    "updated_at": "2018-11-30 21:04:42",
+    "content_text": "ハロ！モバ宣伝会議\r\n記念すべき32回目チェックしていただけましたでしょうか？\r\n\r\n181130_01_s.jpg\r\n\r\n部長が海外出張中でしたので\r\n梁川秘書、小片書記の2人でおこないました。\r\n\r\n梁川秘書がカントリー・ガールズ／Juice=Juice\r\nHello! Project卒業発表後初の宣伝会議。\r\n\r\n181130_02_s.jpg\r\n\r\n新メンバー(!?)や宣伝部イベントへの野望！\r\nこれからの宣伝部について話し合いました！\r\n\r\n181130_03_s.jpg\r\n\r\n#1の終わりには宣伝部からHello! Projectメンバーへのお知らせも！\r\nメンバーの皆さんは必ずチェックするように！\r\n\r\n181130_04_s.jpg\r\n\r\n引き続き「励ましのメール」お待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "9019",
+        "material_title": "181130_02_s.jpg",
+        "material_file": "fcbdd968e7d3eaea0e7c9687543becb9bb24965e94c1bfdf1f867b256f211e7a9019.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "9020",
+        "material_title": "181130_01_s.jpg",
+        "material_file": "5271e0d1d3b23dd743724838cf835eb68beafbaf82f10c4f678352a58e7ec8f79020.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "9021",
+        "material_title": "181130_04_s.jpg",
+        "material_file": "7c21aec699e170cb793e9308a2f34430790ced3c8fdb5b6ca29070b857c699699021.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "9022",
+        "material_title": "181130_03_s.jpg",
+        "material_file": "b3da5a7331006c9057dd565037b8d4f7db00c17cc9b218e58d85d08a22e287f19022.jpeg"
+      }
+    ],
+    "previous_id": "10425",
+    "next_id": "10391",
+    "saved_materials": [
+      "assets/10393_9019_181130_02_s.jpg",
+      "assets/10393_9020_181130_01_s.jpg",
+      "assets/10393_9021_181130_04_s.jpg",
+      "assets/10393_9022_181130_03_s.jpg"
+    ]
+  }
+}

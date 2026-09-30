@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 72,
+    "content_id": "24293",
+    "content_title": "久しぶり！",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2025-05-09 10:00:00",
+    "created_at": "2025-05-08 21:24:10",
+    "updated_at": "2025-05-08 21:24:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19880",
+        "material_title": "0509_tanimoto_s.jpg",
+        "material_file": "178c82ff9993ecde136811b5e71a5eb53ba96da68a0a325a8dcf1b3ada3d5c3919880.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24293",
+    "content_title": "久しぶり！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2025-05-09 10:00:00",
+    "created_at": "2025-05-08 21:24:10",
+    "updated_at": "2025-05-08 21:24:10",
+    "content_text": "0509_tanimoto_s.jpg\r\n久しぶりにインディーズ時代に着ていた衣装きたよ！\r\nシュシュつけてたみた<img src=\"/emoji/emoji-images/f649.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19880",
+        "material_title": "0509_tanimoto_s.jpg",
+        "material_file": "677a1982d6192e4ee3dc0dfd2cbdb234f62538613aa129e97f817de9b5698b8c19880.jpeg"
+      }
+    ],
+    "previous_id": "24423",
+    "next_id": "24216",
+    "saved_materials": [
+      "assets/24293_19880_0509_tanimoto_s.jpg"
+    ]
+  }
+}

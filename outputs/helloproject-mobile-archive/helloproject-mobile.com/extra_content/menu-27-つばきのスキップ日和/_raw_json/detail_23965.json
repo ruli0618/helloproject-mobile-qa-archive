@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 77,
+    "content_id": "23965",
+    "content_title": "ブルーブラック！！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2025-03-07 22:12:00",
+    "created_at": "2025-03-07 22:14:26",
+    "updated_at": "2025-03-07 22:14:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19665",
+        "material_title": "0307_fukuda_s.jpg",
+        "material_file": "7a851efc4760125ea031673fa4f1ba09bf89ec7f6aae5c651487dd11418c51bb19665.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23965",
+    "content_title": "ブルーブラック！！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2025-03-07 22:12:00",
+    "created_at": "2025-03-07 22:14:26",
+    "updated_at": "2025-03-07 22:14:26",
+    "content_text": "0307_fukuda_s.jpg\r\n最近髪を染めました！\r\nブルーブラックに染めました〜！\r\n\r\n生まれて初めてカラーで緊張したのですが、\r\n周りの方々がたくさん褒めてくださってとっても嬉しかったです！\r\n\r\nまた機会があれば違う色にも染めてみたいな！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19665",
+        "material_title": "0307_fukuda_s.jpg",
+        "material_file": "cd99a77a5522320515b45e251bdb612c3e8425846c2bc605496ed7fad419a5a019665.jpeg"
+      }
+    ],
+    "previous_id": "24084",
+    "next_id": "23741",
+    "saved_materials": [
+      "assets/23965_19665_0307_fukuda_s.jpg"
+    ]
+  }
+}

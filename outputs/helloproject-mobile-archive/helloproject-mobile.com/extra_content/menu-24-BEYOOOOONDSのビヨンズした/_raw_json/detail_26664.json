@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 15,
+    "content_id": "26664",
+    "content_title": "さやちゃんと♡",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2026-08-19 10:00:00",
+    "created_at": "2026-07-23 15:30:32",
+    "updated_at": "2026-07-23 15:30:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21780",
+        "material_title": "0819_satoyoshi_s.jpg",
+        "material_file": "4138faa1ff223046536bfa6a226ade25fa607c19992aed1489e9e0ccdc0074cf21780.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26664",
+    "content_title": "さやちゃんと♡",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2026-08-19 10:00:00",
+    "created_at": "2026-07-23 15:30:32",
+    "updated_at": "2026-07-23 15:30:32",
+    "content_text": "0819_satoyoshi_s.jpg\r\nハロコン開演前に上から撮りました～！\r\n\r\n【54周目お題：上から or 下から】",
+    "materials": [
+      {
+        "secretKey": "c5a6789b3b32872d586ed8ce2c0ddeef",
+        "material_id": "21780",
+        "material_title": "0819_satoyoshi_s.jpg",
+        "material_file": "f27f48da9ee79a653043cc41f0c10b836b8ecfbe72d99e020a3c31ceedb7064621780.jpeg"
+      }
+    ],
+    "previous_id": "26665",
+    "next_id": "26663",
+    "saved_materials": [
+      "assets/26664_21780_0819_satoyoshi_s.jpg"
+    ]
+  }
+}

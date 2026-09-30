@@ -1,0 +1,487 @@
+{
+  "menu_id": 21,
+  "label": "野中部長の小説コーナー",
+  "generated_at": "2026-09-30T06:40:55.332Z",
+  "categories": [
+    {
+      "idx": 1,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": "0"
+    }
+  ],
+  "entries": [
+    {
+      "idx": 1,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "12143",
+      "content_title": "ラスト！",
+      "content_sub_title": "",
+      "release_date": "2019-09-25 16:00:00",
+      "created_at": "2019-09-25 16:01:25",
+      "updated_at": "2019-09-25 16:19:55",
+      "content_text": "話していくうちに仲良くなって仲直りしたのでした！そして街は平和になりました。めでたしめでたし。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "-1",
+      "next_id": "11570",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "11570",
+      "content_title": "食事",
+      "content_sub_title": "",
+      "release_date": "2019-06-13 17:00:00",
+      "created_at": "2019-06-13 12:23:34",
+      "updated_at": "2019-06-13 16:50:01",
+      "content_text": "なんと私達は鬼たちと食事にいくことになった！焼肉屋に入り喋りはじめた。話していくうちに…。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "12143",
+      "next_id": "11557",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "11557",
+      "content_title": "鬼たちがいったこと",
+      "content_sub_title": "",
+      "release_date": "2019-06-04 13:00:00",
+      "created_at": "2019-06-04 11:08:29",
+      "updated_at": "2019-06-04 13:04:12",
+      "content_text": "鬼たちが私たちにいったこととは…\r\n\r\nやっほー！！！一緒にごはんでもいこーよ！\r\n\r\n？！",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "11570",
+      "next_id": "11369",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "11369",
+      "content_title": "鬼と出会う",
+      "content_sub_title": "",
+      "release_date": "2019-05-21 12:10:00",
+      "created_at": "2019-05-21 12:09:46",
+      "updated_at": "2019-05-21 12:17:20",
+      "content_text": "その場から逃げようとしたが、なんと鬼たちにみつかってしまった！！\r\n鬼たちが私たちに言ったこととは……",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "11557",
+      "next_id": "9876",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "9876",
+      "content_title": "見てしまったものとは",
+      "content_sub_title": "",
+      "release_date": "2018-09-17 23:41:00",
+      "created_at": "2018-09-17 23:41:25",
+      "updated_at": "2018-09-17 23:44:14",
+      "content_text": "鬼退治に向かい始めた私たち。\r\n\r\n歩き始めて10分…。\r\n\r\n私たちが来ることを勘づいた鬼たちが、岩場で作戦会議をしているところに通りかかってしまった！\r\n\r\nこちらは同じ岩場できびだんご休憩をしようと思っていたところだったのに…！\r\n\r\nこれはいけない…\r\nあまりに予定より出会うタイミングがはやすぎる！",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "11369",
+      "next_id": "9492",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "9492",
+      "content_title": "この時",
+      "content_sub_title": "",
+      "release_date": "2018-07-09 15:53:00",
+      "created_at": "2018-07-09 15:53:50",
+      "updated_at": "2018-07-09 15:54:46",
+      "content_text": "あんな波乱の幕開けになるなんて…\r\n\r\nこの時は思ってもいなかった。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "9876",
+      "next_id": "9330",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "9330",
+      "content_title": "答えは",
+      "content_sub_title": "",
+      "release_date": "2018-07-01 16:05:00",
+      "created_at": "2018-06-25 16:06:03",
+      "updated_at": "2018-07-01 21:44:25",
+      "content_text": "生田衣梨奈さんに声をかけたところ…\r\n\r\n『 いーよ！』と言ってくださった。\r\n\r\n芋子さん、ぶたこさん、生田衣梨奈さん、そして私は鬼退治をするために鬼ヶ島へ向かい始めた。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "9492",
+      "next_id": "9185",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "9185",
+      "content_title": "悩みに悩んで",
+      "content_sub_title": "",
+      "release_date": "2018-05-16 16:07:00",
+      "created_at": "2018-05-16 16:08:05",
+      "updated_at": "2018-05-16 16:09:20",
+      "content_text": "悩みに悩んだ結果、助っ人として、生田衣梨奈さんを呼ぶことに！！！！\n\nすぐ、生田さんの家へ行き、\n｢ぜひ私たちと一緒に鬼退治をしてくれませんか？｣と声をかけたところ…\n\n\n\n(スペシャルゲスト羽賀朱音・著)",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "9330",
+      "next_id": "8821",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8821",
+      "content_title": "作戦",
+      "content_sub_title": "",
+      "release_date": "2018-04-05 11:05:00",
+      "created_at": "2018-04-05 11:06:21",
+      "updated_at": "2018-04-05 11:06:21",
+      "content_text": "芋子さん、ぶたこさんとともに鬼退治に行くことになった私。\r\n\r\nまずは3人で作戦を立てることにした。\r\n\r\nただ、どう考えても3人では力が足りない。そこで私たちは…。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "9185",
+      "next_id": "8741",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8741",
+      "content_title": "鬼退治",
+      "content_sub_title": "",
+      "release_date": "2018-03-06 20:34:00",
+      "created_at": "2018-03-06 20:35:02",
+      "updated_at": "2018-03-06 20:35:02",
+      "content_text": "芋子さんから聞かされた、\r\n衝撃の事実とは…。\r\n\r\n最近この街に怖い鬼が出現しているということ！\r\n\r\nその鬼をみんなで協力して退治するために、私やぶたこさんが集められたらしい。\r\n\r\nそして鬼退治の旅がはじまるのであったー…。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8821",
+      "next_id": "8520",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8520",
+      "content_title": "まさかの",
+      "content_sub_title": "",
+      "release_date": "2018-02-05 19:28:00",
+      "created_at": "2018-02-05 19:28:45",
+      "updated_at": "2018-02-05 19:28:45",
+      "content_text": "芋子さんとぶたこさんとカフェに入ってお茶をした。\r\n\r\nその後。。\r\n\r\n私とぶたこさんは、まさかの衝撃の事実を芋子さんから知らされた！",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8741",
+      "next_id": "8457",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8457",
+      "content_title": "先には",
+      "content_sub_title": "",
+      "release_date": "2018-01-26 19:06:00",
+      "created_at": "2018-01-26 19:07:05",
+      "updated_at": "2018-01-26 19:07:53",
+      "content_text": "行列の先頭には、芋子さんがいたが、\r\nそのさらに先には街が広がっていた。カラフルな色使いの建物がたくさんあって、まるで遊園地のような空間。\r\n\r\n芋子さんはこの街出身だそうで、あるカフェへ私とぶたこさんを連れて行ってくれた。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8520",
+      "next_id": "8366",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8366",
+      "content_title": "ついに",
+      "content_sub_title": "",
+      "release_date": "2018-01-18 16:54:00",
+      "created_at": "2018-01-18 16:53:17",
+      "updated_at": "2018-01-18 16:54:15",
+      "content_text": "ついに列の先頭になったぶたこさんと私。\r\n\r\nそこにいたのは…\r\n\r\n\r\n\r\n｢芋子さん｣と名乗るしゃべるさつまいも。\r\n\r\nなんだかハロモバでみたことがあるような…。気のせいか。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8457",
+      "next_id": "8345",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8345",
+      "content_title": "ぶたこ",
+      "content_sub_title": "",
+      "release_date": "2018-01-10 18:22:00",
+      "created_at": "2018-01-10 18:23:03",
+      "updated_at": "2018-01-10 18:23:55",
+      "content_text": "並ぶこと3時間…。\r\nまだまだこぶたの行列は続く…。\r\nそして行列に並んでいるうちに、\r\nこぶたの内の一人と友だちになった。\r\n彼女の名前はぶたこさん。\r\nなんと、ぶたこさんもハロモバに入っているという。\r\n一緒にハロー！プロジェクトの曲を口ずさんだり、ハロモバについてお話をしていたら、あっという間に時間が過ぎていった。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8366",
+      "next_id": "8269",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8269",
+      "content_title": "すると…。",
+      "content_sub_title": "",
+      "release_date": "2017-12-22 19:11:00",
+      "created_at": "2017-12-22 19:12:20",
+      "updated_at": "2017-12-22 19:15:42",
+      "content_text": "すると画面に吸い込まれた！\r\n吸い込まれた世界の中には\r\n何かわからないこぶたの行列ができていて\r\n言われるがままに並んだ。\r\n並ぶこと3時間…。\r\n\r\n\r\n(スペシャルゲスト尾形春水さん考案)",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8345",
+      "next_id": "8215",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8215",
+      "content_title": "ボタン",
+      "content_sub_title": "",
+      "release_date": "2017-12-12 20:50:00",
+      "created_at": "2017-12-12 20:50:50",
+      "updated_at": "2017-12-12 20:50:50",
+      "content_text": "スマホの画面に現れた謎のページ。\r\n謎のFANTASY WORLD。\r\nへんてこすぎる！\r\nこれは何なんだ…！\r\n\r\n「FANTASY WORLDへ行ってみる」\r\nそのボタンを押してみた私。\r\n\r\nページが切り替わった。\r\n\r\n「Thank you♡」\r\nと表示される…、そして…。\r\n？！！！",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8269",
+      "next_id": "8046",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8046",
+      "content_title": "メッセージ",
+      "content_sub_title": "",
+      "release_date": "2017-12-03 00:00:00",
+      "created_at": "2017-12-03 00:14:15",
+      "updated_at": "2017-12-03 00:14:15",
+      "content_text": "「おめでとう！あなたをFANTASY WORLDへご招待します♡」\r\n\r\nこんなメッセージが出てきたものの、\r\nとりあえず意味不明なので放って置いた。\r\n\r\nでもやっぱり…少し気になったので\r\nもう一度そのページを開いてみる。\r\n\r\nページの下の方にスクロールすると\r\n\r\n「FANTASY WORLDへ行ってみる」\r\nというボタンがあった。\r\n\r\nちょっと怖いけどそのボタンを押してみた。",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8215",
+      "next_id": "8002",
+      "saved_materials": [],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "80",
+      "category_title": "野中部長の小説コーナー",
+      "category_content": "",
+      "category_color": "#FFFFFF",
+      "menu_id": "21",
+      "is_new": 0,
+      "content_id": "8002",
+      "content_title": "ある日…。",
+      "content_sub_title": "",
+      "release_date": "2017-11-27 14:01:00",
+      "created_at": "2017-11-27 12:17:20",
+      "updated_at": "2017-11-27 14:03:46",
+      "content_text": "ある日、私がスマホでハロモバを開くと…。\r\n\r\nみたこともないページが急に現れた！\r\n\r\n \r\n\r\nそこにはかわいい子ブタが1匹。\r\n\r\n \r\n\r\n「おめでとう！あなたをFANTASY WORLDへご招待します♡」\r\n\r\n \r\n\r\nなっ\r\n\r\nなんだこれは…？！",
+      "materials": [
+        {
+          "material_id": "",
+          "material_file": ""
+        }
+      ],
+      "previous_id": "8046",
+      "next_id": "-1",
+      "saved_materials": [],
+      "unavailable_materials": []
+    }
+  ],
+  "errors": []
+}

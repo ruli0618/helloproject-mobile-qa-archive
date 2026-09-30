@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 270,
+    "content_id": "16763",
+    "content_title": "工藤の家の屋根裏部屋#91前後編～加賀楓×前田こころ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-17 17:55:00",
+    "created_at": "2021-09-17 18:03:47",
+    "updated_at": "2021-09-17 18:56:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13969",
+        "material_title": "210824_01_s.jpg",
+        "material_file": "95767e6c2612331653115c58ce8c747ae7b53b95e23f7a226b14881fcb54d19813969.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13970",
+        "material_title": "210824_02_s.jpg",
+        "material_file": "7529fb96d2d9983930015e8193ee4d7ba254fff1c1473e108ac38cf9e966c42813970.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16763",
+    "content_title": "工藤の家の屋根裏部屋#91前後編～加賀楓×前田こころ～",
+    "content_sub_title": "",
+    "release_date": "2021-09-17 17:55:00",
+    "created_at": "2021-09-17 18:03:47",
+    "updated_at": "2021-09-17 18:56:05",
+    "content_text": "ふくむらの部屋 第91回は、譜久村聖さんがお休みのため代役MCとしてモーニング娘。'21加賀楓さんが来てくれて、今回だけの特別編「かがの部屋」をお送りしました！\r\n\r\nゲストは、加賀さんともハロプロ研修生時代を長く共にしたBEYOOOOONDS雨ノ森 川海 前田こころさんが登場！\r\n\r\n℃-uteツアー帯同時代の思い出、今ステージで披露してみたいハロプロ研修生曲に関する話題からスタート！\r\n懐かしく微笑ましいお話も沢山出てきましたね。\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\n推しているからこその誤字メール、会場まで直感でついていったら…、後方席でダンス、ペンライトのリズム感について、送っていただきました。\r\n\r\n210824_01_s.jpg\r\n\r\n後編の「みずき先生のハロプロ講座」のコーナーでは、\r\n舞台での男役について、「眼鏡の男の子」を改めて配役するなら…というテーマで語って頂きました！\r\n\r\nほかにも、前田さんの料理上手な父ちゃん、ハロプロ研修生時代の加賀さんのイメージ、チーム風についてもトーク！\r\n怖かった夢の内容や、アイドルにならずファンのままだったら…というifのお話も。\r\n加賀さんが前田さんにおすすめした楽曲も要チェックですね！\r\n\r\n前田さん考案の締めの挨拶まで、ぜひ聞いてくださいね。\r\n\r\n210824_02_s.jpg\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13969",
+        "material_title": "210824_01_s.jpg",
+        "material_file": "4ce20d0188065f5077d2a9cb3eba439f3ac573d79862783b32fa01b5edb3ee6813969.jpeg"
+      },
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13970",
+        "material_title": "210824_02_s.jpg",
+        "material_file": "ab2f406fc689617047b0c3ab704aa9adce9af9f4601bfe3eaf158d4d87d9cdbf13970.jpeg"
+      }
+    ],
+    "previous_id": "16765",
+    "next_id": "16762",
+    "saved_materials": [
+      "assets/16763_13969_210824_01_s.jpg",
+      "assets/16763_13970_210824_02_s.jpg"
+    ]
+  }
+}

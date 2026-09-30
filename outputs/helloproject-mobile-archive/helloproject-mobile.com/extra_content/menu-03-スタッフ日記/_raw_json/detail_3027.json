@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 718,
+    "content_id": "3027",
+    "content_title": "今日のMC大公開！！！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-26 00:00:00",
+    "created_at": "2015-08-26 11:47:58",
+    "updated_at": "2015-11-19 11:05:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2875",
+        "material_title": "IMG_2215.jpg",
+        "material_file": "bfd761793d76cc75f394d506fc743f60e854579a97eabf5dfc848868b911b4c12875.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3027",
+    "content_title": "今日のMC大公開！！！",
+    "content_sub_title": "",
+    "release_date": "2015-08-26 00:00:00",
+    "created_at": "2015-08-26 11:47:58",
+    "updated_at": "2015-11-19 11:05:47",
+    "content_text": "みなさん、こんにちは！\n \n今日はハロ！ステ#132の更新日です！\n21時にこちらをご覧ください。\n\n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/user/helloprojectstation\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/user/helloprojectstation</u></font></a>\n</span>\n\nここだけの話ですが、今日のMCの一人をお知らせしちゃいます。\nこの方です！！\n \nIMG_2215.jpg\n \n \n誰だか分かった方も、\n全然誰かわかんねーって方も\n詳しくは番組で！！！",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2875",
+        "material_title": "IMG_2215.jpg",
+        "material_file": "61c54b25d9aff351aae12bab5a2f793a7b82ef4186d9dff8afb80a1ea6436c7c2875.jpeg"
+      }
+    ],
+    "previous_id": "3112",
+    "next_id": "3025",
+    "saved_materials": [
+      "assets/3027_2875_IMG_2215.jpg"
+    ]
+  }
+}

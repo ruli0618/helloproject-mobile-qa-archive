@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 734,
+    "content_id": "8734",
+    "content_title": "オシャなランチ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-03-25 11:00:00",
+    "created_at": "2018-03-02 23:38:13",
+    "updated_at": "2018-03-02 23:38:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7634",
+        "material_title": "0325_danbara_s.jpg",
+        "material_file": "0d070629cc8372705c887e6be26e373e251c5d78e5be9163d2c492b17ac941bf7634.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8734",
+    "content_title": "オシャなランチ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-03-25 11:00:00",
+    "created_at": "2018-03-02 23:38:13",
+    "updated_at": "2018-03-02 23:38:13",
+    "content_text": "0325_danbara_s.jpg\r\nオシャレなカフェで食べたフレンチトーストが、すごくおいしかったです(*´ч`*)",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7634",
+        "material_title": "0325_danbara_s.jpg",
+        "material_file": "70a1b365d44ba5730b4fd21d332692b52e09964113fd47833d51c5075fa61e1c7634.jpeg"
+      }
+    ],
+    "previous_id": "8735",
+    "next_id": "8733",
+    "saved_materials": [
+      "assets/8734_7634_0325_danbara_s.jpg"
+    ]
+  }
+}

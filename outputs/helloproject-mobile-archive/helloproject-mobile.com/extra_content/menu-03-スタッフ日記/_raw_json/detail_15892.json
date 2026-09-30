@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 290,
+    "content_id": "15892",
+    "content_title": "宣伝会議ラジオ公開延期に関して",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-04-26 09:00:00",
+    "created_at": "2021-04-26 09:01:11",
+    "updated_at": "2021-04-26 09:02:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15892",
+    "content_title": "宣伝会議ラジオ公開延期に関して",
+    "content_sub_title": "",
+    "release_date": "2021-04-26 09:00:00",
+    "created_at": "2021-04-26 09:01:11",
+    "updated_at": "2021-04-26 09:02:13",
+    "content_text": "今月更新予定のハロ！モバ宣伝会議ラジオは、編集上の問題があり配信を延期させていただきます。\n\n楽しみにお待ち頂いている皆様には、誠に申し訳ございません。\n\n次回の配信は、5月10日以降を予定しております。\n\n配信公開時期が決まりましたら、改めてお知らせさせていただきます。\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "16130",
+    "next_id": "15799",
+    "saved_materials": []
+  }
+}

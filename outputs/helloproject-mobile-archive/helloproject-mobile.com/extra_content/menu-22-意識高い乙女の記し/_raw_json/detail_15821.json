@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 124,
+    "content_id": "15821",
+    "content_title": "green",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-04-15 16:04:00",
+    "created_at": "2021-04-15 16:05:06",
+    "updated_at": "2021-04-15 16:05:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13193",
+        "material_title": "210415_akiyama_s.jpg",
+        "material_file": "58f78ca00df920100b55158701730712855e077ce396b0fbe5291741297c64ef13193.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15821",
+    "content_title": "green",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-04-15 16:04:00",
+    "created_at": "2021-04-15 16:05:06",
+    "updated_at": "2021-04-15 16:05:06",
+    "content_text": "210415_akiyama_s.jpg\r\nこの日は髪の毛の調子が良かった〜\r\nもっともっと女の子を楽しみたいから色々なヘアスタイルしてみたいなぁ(^^)",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13193",
+        "material_title": "210415_akiyama_s.jpg",
+        "material_file": "db2f6f8f6f07ea506d0816d319e741a18af26540c807b04f90beb7ace6f45df213193.jpeg"
+      }
+    ],
+    "previous_id": "15833",
+    "next_id": "15807",
+    "saved_materials": [
+      "assets/15821_13193_210415_akiyama_s.jpg"
+    ]
+  }
+}

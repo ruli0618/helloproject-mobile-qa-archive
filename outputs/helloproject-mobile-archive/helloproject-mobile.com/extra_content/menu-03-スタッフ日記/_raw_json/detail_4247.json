@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 672,
+    "content_id": "4247",
+    "content_title": "驚かしてすみません",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-03-09 21:35:00",
+    "created_at": "2016-03-09 21:34:38",
+    "updated_at": "2016-03-09 21:35:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4247",
+    "content_title": "驚かしてすみません",
+    "content_sub_title": "",
+    "release_date": "2016-03-09 21:35:00",
+    "created_at": "2016-03-09 21:34:38",
+    "updated_at": "2016-03-09 21:35:45",
+    "content_text": "ハロ！モバスタッフ番号4番♂です。\r\n今日、廊下で偶然尾形さんに会ったので、「ハロモバメールのことなんだけど…」ここまで言った時に「ゴメンナサイ！多すぎますよね！」と。\r\n\r\nいやいや違います。\r\n「毎日お疲れさまね。ありがとう。」と言うと「あー良かった。ビックリしたー」と。\r\n驚かしてすみません。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "4272",
+    "next_id": "4216",
+    "saved_materials": []
+  }
+}

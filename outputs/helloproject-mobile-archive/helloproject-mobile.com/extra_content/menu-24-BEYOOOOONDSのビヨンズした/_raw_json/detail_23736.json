@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 131,
+    "content_id": "23736",
+    "content_title": "小さい頃のお気に入り",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2025-01-29 13:35:00",
+    "created_at": "2025-01-29 13:37:54",
+    "updated_at": "2025-01-29 13:37:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19496",
+        "material_title": "0129_nishida_s.jpg",
+        "material_file": "d942d47a23149eb20c7beac104e32708616148356b585c16911b071f3647d14919496.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23736",
+    "content_title": "小さい頃のお気に入り",
+    "content_sub_title": "西田汐里",
+    "release_date": "2025-01-29 13:35:00",
+    "created_at": "2025-01-29 13:37:54",
+    "updated_at": "2025-01-29 13:37:54",
+    "content_text": "0129_nishida_s.jpg\r\nヘアスタイルもアクセサリーも爆イケです\r\n\r\n【40周目お題：イケてる】",
+    "materials": [
+      {
+        "secretKey": "eb591b537d7ab956e6f5de307aa7f773",
+        "material_id": "19496",
+        "material_title": "0129_nishida_s.jpg",
+        "material_file": "4b14c9605284cee39379a5beb279130da557c3312e4e7b3d93153132a6ff40a419496.jpeg"
+      }
+    ],
+    "previous_id": "23745",
+    "next_id": "23719",
+    "saved_materials": [
+      "assets/23736_19496_0129_nishida_s.jpg"
+    ]
+  }
+}

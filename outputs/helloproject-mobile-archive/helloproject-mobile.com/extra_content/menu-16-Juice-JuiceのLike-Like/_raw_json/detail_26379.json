@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 21,
+    "content_id": "26379",
+    "content_title": "この衣装可愛くてすき！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2026-06-11 10:00:00",
+    "created_at": "2026-06-11 10:21:03",
+    "updated_at": "2026-06-11 10:23:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21551",
+        "material_title": "0611_ishiyama_s.jpg",
+        "material_file": "2a3aa3ebcc0a3b63c36198806ffb4e3df2d9be9ab9d0fbfc953c619f31bbf48221551.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26379",
+    "content_title": "この衣装可愛くてすき！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2026-06-11 10:00:00",
+    "created_at": "2026-06-11 10:21:03",
+    "updated_at": "2026-06-11 10:23:42",
+    "content_text": "0611_ishiyama_s.jpg\nこの衣装キラキラで好き〜\nみんな一緒に見えて一人一人違う部分があるんだよ！！\n探してみてね",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21551",
+        "material_title": "0611_ishiyama_s.jpg",
+        "material_file": "3cc87fa7fd0ba8186859fb3cbde8d210b563dd751f33115ced60d51e22d4ac3321551.jpeg"
+      }
+    ],
+    "previous_id": "26380",
+    "next_id": "26034",
+    "saved_materials": [
+      "assets/26379_21551_0611_ishiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 570,
+    "content_id": "12914",
+    "content_title": "しゅわしゅわ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-01-29 10:00:00",
+    "created_at": "2020-01-24 19:19:34",
+    "updated_at": "2020-01-24 19:19:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10928",
+        "material_title": "0129_dambara_s.jpg",
+        "material_file": "37603f42178f8223b2b6312c80c74d6e5d4850f466e7332928b875c83287edcb10928.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12914",
+    "content_title": "しゅわしゅわ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-01-29 10:00:00",
+    "created_at": "2020-01-24 19:19:34",
+    "updated_at": "2020-01-24 19:19:34",
+    "content_text": "0129_dambara_s.jpg\r\nベリーソーダとうさるる。\r\n撮影：まなか",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "10928",
+        "material_title": "0129_dambara_s.jpg",
+        "material_file": "f1829a13d1a97500f9ec1b31ba62dc8a026b5b1ffb4e73ac9cdb86b19c190adb10928.jpeg"
+      }
+    ],
+    "previous_id": "12915",
+    "next_id": "12897",
+    "saved_materials": [
+      "assets/12914_10928_0129_dambara_s.jpg"
+    ]
+  }
+}

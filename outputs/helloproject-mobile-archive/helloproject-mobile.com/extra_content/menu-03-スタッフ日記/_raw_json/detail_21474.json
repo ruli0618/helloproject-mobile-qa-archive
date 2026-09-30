@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 119,
+    "content_id": "21474",
+    "content_title": "工藤の家の屋根裏部屋#146～羽賀朱音～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-12-20 22:34:00",
+    "created_at": "2023-12-20 22:34:31",
+    "updated_at": "2023-12-20 22:34:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17622",
+        "material_title": "1220_fukumura_01_s.jpg",
+        "material_file": "6a53b758936a076be5d465e8cb4cd5767a8abc77b8b97b273be5b40eb9136dc317622.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17623",
+        "material_title": "1220_fukumura_02_s.jpg",
+        "material_file": "56c2c31942745e13f8e7c867825db477eb91776b25509f4004fe63b9545ee20b17623.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21474",
+    "content_title": "工藤の家の屋根裏部屋#146～羽賀朱音～",
+    "content_sub_title": "",
+    "release_date": "2023-12-20 22:34:00",
+    "created_at": "2023-12-20 22:34:31",
+    "updated_at": "2023-12-20 22:34:31",
+    "content_text": "ふくむらの部屋最終回！\r\n第146回は、譜久村さんのご指名で羽賀朱音さんが出演してくれました！\r\n\r\n1220_fukumura_01_s.jpg\r\n\r\n・秋ツアー「Neverending Shine Show」\r\n・植村あかりさんを交えた3人の旅行\r\nのお話からスタート！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n中止となってしまった幻のツアー「モーニング娘。'20コンサートツアー春 ～MOMM～」について語りました。\r\nここでしか聞けない、初出し情報も満載です！\r\n\r\n番組内でラジオ枠を引き継ぐ、新MCの発表も行いました！\r\nOCHA NORMAの筒井澪心がMCをつとめる新番組「ろこの部屋」も、よろしくお願いします！\r\nここで発表を知った、2人の反応も要チェックです！\r\n\r\n後半では、最終回ということでケーキが登場！\r\n\r\nそれぞれ好きに選んだケーキを食べながら\r\n・はーとはーとのきっかけ\r\nについてトーク！\r\n\r\nそして沢山のお便りを頂きました、最終回記念「ありがとう！ふくむらの部屋」コーナー！\r\n時間が許す限り紹介させて頂きましたが、番組内で読めなかった分もすべて譜久村さんは一通一通読んでいました。\r\n\r\n2017年6月からスタートした「ふくむらの部屋」\r\n約6年と5ヶ月、本当にありがとうございました。\r\n\r\n「ふくむらの部屋」は最終回を迎えましたが、ハロー！ラジオからアーカイブとしていつでもお聴き頂けます。\r\nぜひお聴きください♫\r\n\r\n1220_fukumura_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17622",
+        "material_title": "1220_fukumura_01_s.jpg",
+        "material_file": "4d189c2b8b7bdf6b5a84c6dc1f633d051514da7f0d120c58d6c698ac541c591017622.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17623",
+        "material_title": "1220_fukumura_02_s.jpg",
+        "material_file": "484630f2f7d46b5b1b8d56c98d10b226d76ea43bd9547789597e37e6edb55ddb17623.jpeg"
+      }
+    ],
+    "previous_id": "23377",
+    "next_id": "21306",
+    "saved_materials": [
+      "assets/21474_17622_1220_fukumura_01_s.jpg",
+      "assets/21474_17623_1220_fukumura_02_s.jpg"
+    ]
+  }
+}

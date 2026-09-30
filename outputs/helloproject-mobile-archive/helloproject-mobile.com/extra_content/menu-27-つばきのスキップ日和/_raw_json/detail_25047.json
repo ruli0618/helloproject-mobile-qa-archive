@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 60,
+    "content_id": "25047",
+    "content_title": "パスタ！",
+    "content_sub_title": "西村乙輝",
+    "category_id": "155",
+    "release_date": "2025-11-07 10:00:00",
+    "created_at": "2025-09-30 23:36:34",
+    "updated_at": "2025-09-30 23:36:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20471",
+        "material_title": "1107_nishimura_s.jpg",
+        "material_file": "ca1b23e54a6c070cbe9a306438cf417bc9aee12bc74eb1ef09142f04f4b5823920471.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25047",
+    "content_title": "パスタ！",
+    "content_sub_title": "西村乙輝",
+    "release_date": "2025-11-07 10:00:00",
+    "created_at": "2025-09-30 23:36:34",
+    "updated_at": "2025-09-30 23:36:34",
+    "content_text": "1107_nishimura_s.jpg\r\n長野桃羽ちゃんとパスタを食べにいきましたー！！\r\nいっぱいお話しした！",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20471",
+        "material_title": "1107_nishimura_s.jpg",
+        "material_file": "5e46a9b3b834bf10d58879b9c94e2dcfad9a68c7dc5cd1310aebf77a244f27f420471.jpeg"
+      }
+    ],
+    "previous_id": "25114",
+    "next_id": "25046",
+    "saved_materials": [
+      "assets/25047_20471_1107_nishimura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 404,
+    "content_id": "15511",
+    "content_title": "蝶々！",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2021-03-29 10:00:00",
+    "created_at": "2021-02-19 22:22:53",
+    "updated_at": "2022-01-17 14:52:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12906",
+        "material_title": "0329_hirai_s.jpg",
+        "material_file": "b00bc8e15c0c1e8d8eac93f793c2f0254b06c17cc1b5419d83fba06a47b9a28b12906.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15511",
+    "content_title": "蝶々！",
+    "content_sub_title": "平井美葉",
+    "release_date": "2021-03-29 10:00:00",
+    "created_at": "2021-02-19 22:22:53",
+    "updated_at": "2022-01-17 14:52:10",
+    "content_text": "0329_hirai_s.jpg\nこのお衣装のカチューシャは実は蝶々がいるんです！可愛くてお気に入りです！\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "12906",
+        "material_title": "0329_hirai_s.jpg",
+        "material_file": "07437852151eafc49a0e7c25a67d3fb3a23b5a3faa270647a5269f8a8c08377e12906.jpeg"
+      }
+    ],
+    "previous_id": "15512",
+    "next_id": "15510",
+    "saved_materials": [
+      "assets/15511_12906_0329_hirai_s.jpg"
+    ]
+  }
+}

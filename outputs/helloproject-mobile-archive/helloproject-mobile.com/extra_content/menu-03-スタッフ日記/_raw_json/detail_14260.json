@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 331,
+    "content_id": "14260",
+    "content_title": "宣伝会議 議事録#52",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-08-04 16:00:00",
+    "created_at": "2020-08-04 14:57:26",
+    "updated_at": "2020-08-04 16:01:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11861",
+        "material_title": "0804sendenkaigi_s.jpg",
+        "material_file": "b7fcc530247b3444cdb6fe70811ad78a0e0c8b6e12411c1ae194019d840eefdd11861.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14260",
+    "content_title": "宣伝会議 議事録#52",
+    "content_sub_title": "",
+    "release_date": "2020-08-04 16:00:00",
+    "created_at": "2020-08-04 14:57:26",
+    "updated_at": "2020-08-04 16:01:01",
+    "content_text": "配信中の宣伝会議ラジオ第52回は、もうお聴き頂けましたでしょうか。\r\n\r\n前回に引き続き、リモート会議でお送りしました！\r\n\r\n今回は特別にお便りの多かったソロフェス、ハロコンに関してトーク！\r\n舞台の裏側や、ここだけの話もたっぷりお届けしています。\r\n\r\n普通のお便りでは、\r\n夏といえば、父の日何をしたか、\r\n映画を撮るとしたらどんなジャンル？\r\nスニーカーを選ぶ基準…etc\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「川村文乃」\r\n宣伝部員メンバー全員出揃いました！\r\nぜひご覧ください。\r\n\r\n↓議事録はこちら！\r\n\r\n0804sendenkaigi_s.jpg\r\n\r\n「励ましのメール」「ハロー！ペディア」メールを大募集！\r\n次回「ハロー！ペディア」のお題は、\r\n「<b>ハロプロ用語</b>」です！\r\n\r\nハロー！プロジェクトでしか聞かないようなワードや専門用語等など…皆さんだからこそ知っているようなハロー！プロジェクトに関する言葉をお待ちしています！\r\n\r\nメールはこちらまで。\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※コーナーメールは「ハロー！ペディア」と記入してください。\r\n\r\n次回の収録は、リモートではなく会議室に戻ってきます。\r\n出演は、小片リサ、川村文乃の2名が担当！\r\n\r\n8/18(火)15:00まで受け付けていますので、沢山のお便りお待ちしています！",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11861",
+        "material_title": "0804sendenkaigi_s.jpg",
+        "material_file": "1d8cfd1ed77fa7c0794341fcee8b2f8b37a5f6ee1e49c01ea9daae0c6d9c634e11861.jpeg"
+      }
+    ],
+    "previous_id": "14263",
+    "next_id": "14249",
+    "saved_materials": [
+      "assets/14260_11861_0804sendenkaigi_s.jpg"
+    ]
+  }
+}

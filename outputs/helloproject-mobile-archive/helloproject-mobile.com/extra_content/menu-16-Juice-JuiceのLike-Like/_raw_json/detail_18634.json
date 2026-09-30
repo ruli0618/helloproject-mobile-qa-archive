@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 343,
+    "content_id": "18634",
+    "content_title": "おみくじ",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2022-08-18 10:00:00",
+    "created_at": "2022-08-16 15:17:09",
+    "updated_at": "2022-08-16 15:17:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15529",
+        "material_title": "0818_ishiyama_s.jpg",
+        "material_file": "24bf401bf16f3b0b6988461cc29cab1b00bf9866f25fdaea7587c37b1c3370ad15529.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18634",
+    "content_title": "おみくじ",
+    "content_sub_title": "石山咲良",
+    "release_date": "2022-08-18 10:00:00",
+    "created_at": "2022-08-16 15:17:09",
+    "updated_at": "2022-08-16 15:17:09",
+    "content_text": "0818_ishiyama_s.jpg\r\n少し前にまゆ玉おみくじを初めてしました！\r\n末吉だったよ〜",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15529",
+        "material_title": "0818_ishiyama_s.jpg",
+        "material_file": "0a2913c75a5bd4d80c7ebe4d294c5c796a3fff5a230c01966fa126e37ba4917715529.jpeg"
+      }
+    ],
+    "previous_id": "18635",
+    "next_id": "18633",
+    "saved_materials": [
+      "assets/18634_15529_0818_ishiyama_s.jpg"
+    ]
+  }
+}

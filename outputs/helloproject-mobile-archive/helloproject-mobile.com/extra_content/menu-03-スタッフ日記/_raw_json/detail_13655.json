@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 344,
+    "content_id": "13655",
+    "content_title": "宣伝会議 議事録#49",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-05-01 18:50:00",
+    "created_at": "2020-04-17 19:50:05",
+    "updated_at": "2020-05-01 18:50:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11408",
+        "material_title": "20200424_03_s.jpg",
+        "material_file": "6d50e33c9b645900c1a388e4a1f5c8183ee776cce74d4e4e07eb83a20342a3d611408.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11409",
+        "material_title": "20200424_01_s.jpg",
+        "material_file": "da53e387e6cb8d1c5ae8575cfd4bd3f26201e99ae1ce393b0959529598d30f7211409.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11410",
+        "material_title": "20200424_02_s.jpg",
+        "material_file": "248518cfaa3e0d58d0f6fc112814985456957039f63d1d9f3a9f0dcf33373d9311410.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11411",
+        "material_title": "20200424.jpg",
+        "material_file": "6d5354de500da9cbfebe1c1ec2eafe0127ffa5dbee4475e2af5a4e35e944459c11411.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11412",
+        "material_title": "20200414_04_s.jpg",
+        "material_file": "97e800ee1083f5065e94389ac8e8461ba91315b06912e19c4a8be80153f5f18511412.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13655",
+    "content_title": "宣伝会議 議事録#49",
+    "content_sub_title": "",
+    "release_date": "2020-05-01 18:50:00",
+    "created_at": "2020-04-17 19:50:05",
+    "updated_at": "2020-05-01 18:50:26",
+    "content_text": "宣伝会議49回配信中！\n\n20200424_01_s.jpg\n\n野中部長、前田書記兼警備はじめての2人収録。\n\nいつもより離れた距離に驚きつつも、徐々にいつもの会議の雰囲気に♬\n\n20200424_02_s.jpg\n\n短い収録時間でしたが、野中部長の進行のもと、沢山のお便りを読むことが出来ました！\n\n20200424_03_s.jpg\n\n今回の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「野中美希」！\n\n↓議事録はこちら！\n\n20200424.jpg\n\n↓コラボ企画で答えた質問はこちら！\n\n20200414_04_s.jpg\n\n「励ましのメール」「ハロー！ペディア」のお便りお待ちしています！\n次回「ハロー！ペディア」のお題は、\n「<b>前田こころ</b>」です！\n\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\nメールはいつでも募集中です！\n\n次回の配信もお楽しみに♪",
+    "materials": [
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11408",
+        "material_title": "20200424_03_s.jpg",
+        "material_file": "96cd704a2b43e47c72c346818956e33baff976b885d26109f572b33f875201b811408.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11409",
+        "material_title": "20200424_01_s.jpg",
+        "material_file": "348da18deb1c5e72747406c9e3a92ef4715000d5dd7ba93c89a41d57d7390c0911409.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11410",
+        "material_title": "20200424_02_s.jpg",
+        "material_file": "411a24f7fb7b7b3a149884fa931eb23c8581169b6c1c572598867cfefe359f1e11410.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11411",
+        "material_title": "20200424.jpg",
+        "material_file": "d675a61252ce7ea516d77cc215b9110cb647f8f3a931e8a2ee6bd7bd4f6bb1fb11411.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11412",
+        "material_title": "20200414_04_s.jpg",
+        "material_file": "f5f00078c6f54dbc7513a017713ab9970af6bdac4d28fd975f6ab6e717556d9911412.jpeg"
+      }
+    ],
+    "previous_id": "13773",
+    "next_id": "13656",
+    "saved_materials": [
+      "assets/13655_11408_20200424_03_s.jpg",
+      "assets/13655_11409_20200424_01_s.jpg",
+      "assets/13655_11410_20200424_02_s.jpg",
+      "assets/13655_11411_20200424.jpg",
+      "assets/13655_11412_20200414_04_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 50,
+    "content_id": "25174",
+    "content_title": "Juice=Juiceの日",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2025-10-23 10:00:00",
+    "created_at": "2025-10-27 20:16:17",
+    "updated_at": "2025-10-27 20:16:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20568",
+        "material_title": "1023_kawashima_s.jpg",
+        "material_file": "83f5f1c4d8aaeb7277f042d4bf12ed25ed7161771a898d30bb6a23f4aafb69b820568.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25174",
+    "content_title": "Juice=Juiceの日",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2025-10-23 10:00:00",
+    "created_at": "2025-10-27 20:16:17",
+    "updated_at": "2025-10-27 20:16:17",
+    "content_text": "1023_kawashima_s.jpg\r\nこんにちはーーー<img src=\"/emoji/emoji-images/4f67.gif\"/>★\r\n\r\nJuice=Juiceの日の写真★\r\n楽しかったよーー︎；；\r\n\r\nこの日の髪型はツイン玉ねぎヘアーにしていただきました！\r\n\r\nJuice=Juiceの日みんなでお祝いできて嬉しかった♡！\r\n\r\n来年もずっとずっとみんなでお祝いしたいなー！！\r\n\r\nそれでは！\r\n川嶋美楓",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20568",
+        "material_title": "1023_kawashima_s.jpg",
+        "material_file": "0e886804aadb52d53b5f2c0224c3cff85bf88010bebcc53eafeb964894251c0e20568.jpeg"
+      }
+    ],
+    "previous_id": "25175",
+    "next_id": "25173",
+    "saved_materials": [
+      "assets/25174_20568_1023_kawashima_s.jpg"
+    ]
+  }
+}

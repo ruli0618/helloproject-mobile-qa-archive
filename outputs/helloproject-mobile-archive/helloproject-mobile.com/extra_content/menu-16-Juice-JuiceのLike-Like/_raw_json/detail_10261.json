@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 662,
+    "content_id": "10261",
+    "content_title": "おでん",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-12-08 11:00:00",
+    "created_at": "2018-11-08 20:05:46",
+    "updated_at": "2018-11-08 20:05:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8893",
+        "material_title": "1208_dambara_s.jpg",
+        "material_file": "eb78327c8457e30d8fca9e1b3f6d4a7eee20e1f00750717fda8dceeaafba01c68893.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10261",
+    "content_title": "おでん",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-12-08 11:00:00",
+    "created_at": "2018-11-08 20:05:46",
+    "updated_at": "2018-11-08 20:05:46",
+    "content_text": "1208_dambara_s.jpg\r\nおでんが美味しい季節。\r\n味噌おでん大好き！",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "8893",
+        "material_title": "1208_dambara_s.jpg",
+        "material_file": "1cc4b98380f404c85c9c8696e02a6e92796f992327d1c1d4e2d44d9973386fe68893.jpeg"
+      }
+    ],
+    "previous_id": "10263",
+    "next_id": "10259",
+    "saved_materials": [
+      "assets/10261_8893_1208_dambara_s.jpg"
+    ]
+  }
+}

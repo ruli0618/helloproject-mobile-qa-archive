@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 206,
+    "content_id": "21481",
+    "content_title": "ふゆ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-12-26 10:00:00",
+    "created_at": "2023-12-22 15:42:21",
+    "updated_at": "2023-12-22 15:42:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17626",
+        "material_title": "1226_ebata_s.jpg",
+        "material_file": "e1c76e8cdf49939445b16f1c0783f928b483182ae69525e5aa1fb89c11103d7c17626.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21481",
+    "content_title": "ふゆ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-12-26 10:00:00",
+    "created_at": "2023-12-22 15:42:21",
+    "updated_at": "2023-12-22 15:42:21",
+    "content_text": "1226_ebata_s.jpg\r\n冬楽しもう＾＾\r\nどきどきーーーーん",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17626",
+        "material_title": "1226_ebata_s.jpg",
+        "material_file": "ff2cf793bc6b410927c0ed2bdf46f0e1e0e25edea6eea13e42afbf8a2d49537117626.jpeg"
+      }
+    ],
+    "previous_id": "21507",
+    "next_id": "21471",
+    "saved_materials": [
+      "assets/21481_17626_1226_ebata_s.jpg"
+    ]
+  }
+}

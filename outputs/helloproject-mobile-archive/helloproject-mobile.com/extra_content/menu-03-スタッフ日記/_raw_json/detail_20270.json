@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 183,
+    "content_id": "20270",
+    "content_title": "みよちゃん家の縁側の猫#15 井上玲音",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-11-22 00:00:00",
+    "created_at": "2023-05-25 17:06:40",
+    "updated_at": "2023-05-25 17:06:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16743",
+        "material_title": "20230525_02.jpg",
+        "material_file": "9669264c9c6d2db416663188630b54a1bfa7d5010bae573f190b8407460c7f1516743.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16744",
+        "material_title": "20230525_01.jpg",
+        "material_file": "0d2552b8b8c9118305f9162e7b89709bdadd4635f21d4e844c053e61f899af9416744.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20270",
+    "content_title": "みよちゃん家の縁側の猫#15 井上玲音",
+    "content_sub_title": "",
+    "release_date": "2022-11-22 00:00:00",
+    "created_at": "2023-05-25 17:06:40",
+    "updated_at": "2023-05-25 17:06:40",
+    "content_text": "「みよちゃん家の縁側」#15配信中です！\r\n\r\n第14回ゲストは、Juice=Juiceの井上玲音さん！\r\n\r\n20230525_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①イニミニマニモ\r\n②Mon Amour(モナムール)\r\n③トリックオアトリート\r\n④顔面国宝\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「ラジオ収録前の2人」、「井上玲音の個別握手会に来た平井美葉」の2本をお届けしました。\r\n\r\n\r\nこぶしファクトリー時代のお話や\r\n2人が共演した「リボーン～13人の魂は神様の夢を見る」の思い出\r\nお互いの趣味でもあるカメラについても<img src=\"/emoji/emoji-images/f8e2.gif\"/>\r\nJuice=Juice、こぶしファクトリーどちらについても熱く語ってくれました！\r\n\r\n20230525_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第16回ゲストは、モーニング娘。'22横山玲奈さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16743",
+        "material_title": "20230525_02.jpg",
+        "material_file": "bee6c9050a0dda6c21a3502925970b3b7062855ee3e8bf8b019bff76e56a2fcb16743.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "16744",
+        "material_title": "20230525_01.jpg",
+        "material_file": "8d2f70d1a9f9c3cb5ad2bafb042af7d46040af267d84c8815420a7b187a8e3d116744.jpeg"
+      }
+    ],
+    "previous_id": "21229",
+    "next_id": "21227",
+    "saved_materials": [
+      "assets/20270_16743_20230525_02.jpg",
+      "assets/20270_16744_20230525_01.jpg"
+    ]
+  }
+}

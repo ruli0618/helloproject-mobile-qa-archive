@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 837,
+    "content_id": "5766",
+    "content_title": "苦くない／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-11-24 12:58:00",
+    "created_at": "2016-11-21 23:13:49",
+    "updated_at": "2016-11-24 12:58:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5156",
+        "material_title": "5208421571141_s.jpg",
+        "material_file": "0368cc6031b23318b727f5b73c943839b589fada2258b30d009a5b58e58d4a625156.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 822,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5766",
+    "content_title": "苦くない／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-11-24 12:58:00",
+    "created_at": "2016-11-21 23:13:49",
+    "updated_at": "2016-11-24 12:58:41",
+    "content_text": "5208421571141_s.jpg\r\nコーヒーをすんなり飲める日が近づいてきました、、。美味しい<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "64a2006aa24ad0a56239eb29cde82457",
+        "material_id": "5156",
+        "material_title": "5208421571141_s.jpg",
+        "material_file": "ae8bc4b04aaded6771dc061243954a766341293eab95fe5452cfc57af9d0907b5156.jpeg"
+      }
+    ],
+    "previous_id": "5786",
+    "next_id": "5672",
+    "saved_materials": [
+      "assets/5766_5156_5208421571141_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 543,
+    "content_id": "8268",
+    "content_title": "隣のやじまん家の塀の裏#12",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-20 18:45:00",
+    "created_at": "2017-12-20 18:45:06",
+    "updated_at": "2017-12-20 18:47:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7257",
+        "material_title": "171220_s.jpg",
+        "material_file": "374dd70fef45b820ef66b797c705952081154c6eacc4482a9020007564cfad9b7257.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8268",
+    "content_title": "隣のやじまん家の塀の裏#12",
+    "content_sub_title": "",
+    "release_date": "2017-12-20 18:45:00",
+    "created_at": "2017-12-20 18:45:06",
+    "updated_at": "2017-12-20 18:47:14",
+    "content_text": "只今配信中の「隣のやじまん家」第12回は、お聴きになりましたか？\n\n今回もゲスト無しでお送りしましたが、矢島さんの一人喋りの回では番組の過去再長時間を記録！\n\n矢島さんのお話をたっぷり堪能出来る回となりました。\nメールも沢山読ませていただきましたよ。\n\n舞台「一枚のチケット〜ビートルズがやって来る〜」や、ドラマ「大江戸ロボコン」の感想・裏話も盛り沢山！\n\nそして、何と言っても今回の聴きどころは、\n「矢島舞美の10大ニュース！」\n\n2017年の1年間を振り返って、矢島さんが10のトピックスについてランキング形式で発表！\n\nぜひぜひ、チェックしてみてくださいね♪\n\n今回の写真はこちら！\n\n171220_s.jpg\n\nこの手に持っている書籍は、皆さんもうご存知ですよね。\n\nキュート？本当は体育会系！\n矢島舞美のリーダー論\n「のんびり、さりげなく、ふんわりと。」\n\n2017年12月22日(金)発売！\n\n<a href=\"http://www.ody-books.com/news/detail/102.php\" target=\"_blank\">★詳しくはこちら</a>\n※ショップごとにオリジナル特典生写真付き！要チェックです！\n\n次回「今月のハッピーバースデー♪」は、1月にお誕生日を迎える方からのお便りを大募集！\n「くじ引きトーク」・「普通のお便り」メールもお待ちしています。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回はゲストが現れるのでしょうか？\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7257",
+        "material_title": "171220_s.jpg",
+        "material_file": "b59c3cc0dc664273c6b63c1cf855c6026e0f8ad8cef7b7bb3b60348c0b1903a67257.jpeg"
+      }
+    ],
+    "previous_id": "8270",
+    "next_id": "8264",
+    "saved_materials": [
+      "assets/8268_7257_171220_s.jpg"
+    ]
+  }
+}

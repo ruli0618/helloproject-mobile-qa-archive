@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 286,
+    "content_id": "19028",
+    "content_title": "最近撮ったおもちくんの1枚です！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2022-12-05 10:00:00",
+    "created_at": "2022-10-26 15:03:02",
+    "updated_at": "2022-10-26 15:03:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15834",
+        "material_title": "1205_satoyoshi_s.jpg",
+        "material_file": "4ac71ea432115f7842ab5ae463ed65fb877f7730780b66e15de5f22b0f02f19a15834.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19028",
+    "content_title": "最近撮ったおもちくんの1枚です！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2022-12-05 10:00:00",
+    "created_at": "2022-10-26 15:03:02",
+    "updated_at": "2022-10-26 15:03:02",
+    "content_text": "1205_satoyoshi_s.jpg\r\nふわふわの足、楽しいと持ち上がるお耳、キラキラのおめめ、ピンクの舌、小さい歯、首の角度、ふぁさふぁさのしっぽ、おもちの可愛いところが全部1枚に収まりました。我ながら完璧だと思います。\r\n\r\n【22周目お題：自分のベストショット】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "15834",
+        "material_title": "1205_satoyoshi_s.jpg",
+        "material_file": "f449d0cc602e1d38a5e5f5273827074d3a5f5ddde7f8a8bae954bb17506a00e115834.jpeg"
+      }
+    ],
+    "previous_id": "19337",
+    "next_id": "19027",
+    "saved_materials": [
+      "assets/19028_15834_1205_satoyoshi_s.jpg"
+    ]
+  }
+}

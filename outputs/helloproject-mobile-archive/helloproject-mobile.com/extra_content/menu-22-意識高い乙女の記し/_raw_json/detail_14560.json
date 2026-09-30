@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 160,
+    "content_id": "14560",
+    "content_title": "秋",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2020-09-25 16:27:00",
+    "created_at": "2020-09-25 16:27:55",
+    "updated_at": "2020-09-25 16:27:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12120",
+        "material_title": "0925_onoda_s.jpg",
+        "material_file": "7018b7d71fff6c7557302a55fe8ef4b341424281dcf4c6d8f7710dd1d2363cab12120.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14560",
+    "content_title": "秋",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2020-09-25 16:27:00",
+    "created_at": "2020-09-25 16:27:55",
+    "updated_at": "2020-09-25 16:27:55",
+    "content_text": "最近、秋になってきて嬉しいさおりです♪\r\n\r\n今日、秋らしい飲み物を見つけたので買ってみました！！\r\n\r\n季節限定だとすぐ買ってしまいます、、、笑\r\n\r\nおすすめです！！\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n0925_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12120",
+        "material_title": "0925_onoda_s.jpg",
+        "material_file": "54282a367181c075a58f3177e66258b573751d9c30ea2fdf375680f4cf839dce12120.jpeg"
+      }
+    ],
+    "previous_id": "14593",
+    "next_id": "14480",
+    "saved_materials": [
+      "assets/14560_12120_0925_onoda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 438,
+    "content_id": "16619",
+    "content_title": "アヒージョ",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-09-09 10:00:00",
+    "created_at": "2021-08-31 16:37:56",
+    "updated_at": "2021-08-31 16:37:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13884",
+        "material_title": "210909_inaba_s.jpg",
+        "material_file": "1e28c2a2cf2dba96edd32959df9683e5c6056619c662c8f3e1d46aa186981bcb13884.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16619",
+    "content_title": "アヒージョ",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-09-09 10:00:00",
+    "created_at": "2021-08-31 16:37:56",
+    "updated_at": "2021-08-31 16:37:56",
+    "content_text": "210909_inaba_s.jpg\r\n最近アヒージョにハマっています！おうちでも食べたいなと思って、たこ焼き器で挑戦してみました！1度タコが弾けて危なかったけど笑 味はすごく美味しくて大成功でした♪写真は具材の1部だけど、これに更にオリーブオイルもお皿に入れてパンを付けたら最高でした♡みんなもやってみて〜",
+    "materials": [
+      {
+        "secretKey": "5fdad867d32d68aa160e42ab9759a98d",
+        "material_id": "13884",
+        "material_title": "210909_inaba_s.jpg",
+        "material_file": "2856120f721ee52a9e303a96c187298c44ab735248e4488c743089875ef3770513884.jpeg"
+      }
+    ],
+    "previous_id": "16620",
+    "next_id": "16595",
+    "saved_materials": [
+      "assets/16619_13884_210909_inaba_s.jpg"
+    ]
+  }
+}

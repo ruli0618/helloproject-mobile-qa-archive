@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 572,
+    "content_id": "12896",
+    "content_title": "これ！",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2020-01-20 10:00:00",
+    "created_at": "2020-01-17 20:28:31",
+    "updated_at": "2020-01-17 20:28:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10907",
+        "material_title": "0120_miyamoto_s.jpg",
+        "material_file": "8253e20b3cfd44929c826c30724c9941bf7f67660ca516c757d979697972ca7110907.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12896",
+    "content_title": "これ！",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2020-01-20 10:00:00",
+    "created_at": "2020-01-17 20:28:31",
+    "updated_at": "2020-01-17 20:28:31",
+    "content_text": "0120_miyamoto_s.jpg\r\nあたりよな！",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "10907",
+        "material_title": "0120_miyamoto_s.jpg",
+        "material_file": "cfedd2f540e94760ee0363335a27d622499da7e4f4d44a3f017815849669ba9510907.jpeg"
+      }
+    ],
+    "previous_id": "12897",
+    "next_id": "12833",
+    "saved_materials": [
+      "assets/12896_10907_0120_miyamoto_s.jpg"
+    ]
+  }
+}

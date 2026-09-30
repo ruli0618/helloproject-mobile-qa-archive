@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 589,
+    "content_id": "7076",
+    "content_title": "要チェック！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-07-26 18:46:00",
+    "created_at": "2017-07-26 18:45:19",
+    "updated_at": "2017-07-26 18:48:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6227",
+        "material_title": "170726_s.jpg",
+        "material_file": "3ae9a9f973fd6a723024fc98075e920877b5a87fcf0dec0b0d112702dedb429d6227.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6228",
+        "material_title": "170726_2_s.jpg",
+        "material_file": "9c5979edd2b2a3ed7ac418bc0c4b30f14bd0630d1126a484158df16077e1a8e36228.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7076",
+    "content_title": "要チェック！",
+    "content_sub_title": "",
+    "release_date": "2017-07-26 18:46:00",
+    "created_at": "2017-07-26 18:45:19",
+    "updated_at": "2017-07-26 18:48:54",
+    "content_text": "お久しぶりです！\nスタッフ番号2番です。\n\n今日は、つばきファクトリー2ndシングル「就活センセーション／笑って／ハナモヨウ」発売日！\n\nハロ！モバでは、<a href=\"http://helloproject-mobile.com/info/special/content?page=170726_tsubaki_sg/index\">リリース特設ページ</a>を公開中！\nおすすめのメンバー楽曲紹介はここでしか見れない内容になっています。\n\n170726_s.jpg\n\n社内にもポスターが貼られました☆\nこのポスターは山手線各駅ホームの駅貼り広告として掲示中ですので、お近くにお越しの際はぜひ探してみてください。\n\nそして現在、<a href=\"http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2017/index\">暑中お見舞いプレゼント応募</a>を受付中！\n\n170726_2_s.jpg\n\n世界に一枚しかないメンバー直筆の暑中お見舞いハガキが、各1名様当選された方のお家にお届けされます！\n\nまだ応募していない！というそこのあなたは、ぜひチェックしてみてくださいね。\n応募締切は、8月3日17:59までです！\n\nそれでは、まだまだ暑いですが、よいハロー！プロジェクトの夏をお過ごしください♪",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6227",
+        "material_title": "170726_s.jpg",
+        "material_file": "a5e704e7107b405af10b3c5e01df468c4625aec30b69034d12de06631d0eaeb86227.jpeg"
+      },
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6228",
+        "material_title": "170726_2_s.jpg",
+        "material_file": "1b82a08535b1029b7f74ad84703d4ae6d827e2d1280b6b2415f5b0751b6c09a36228.jpeg"
+      }
+    ],
+    "previous_id": "7192",
+    "next_id": "7074",
+    "saved_materials": [
+      "assets/7076_6227_170726_s.jpg",
+      "assets/7076_6228_170726_2_s.jpg"
+    ]
+  }
+}

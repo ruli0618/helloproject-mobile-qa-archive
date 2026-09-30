@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 84,
+    "content_id": "22949",
+    "content_title": "工藤の家の軒下#21～北原もも～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-09-24 17:00:00",
+    "created_at": "2024-09-24 15:14:18",
+    "updated_at": "2024-09-24 15:14:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18807",
+        "material_title": "240924_s.jpg",
+        "material_file": "8146ca5f9c3059a7dce68e774c58284f900c353e8805a788be7db8e06d811f9a18807.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22949",
+    "content_title": "工藤の家の軒下#21～北原もも～",
+    "content_sub_title": "",
+    "release_date": "2024-09-24 17:00:00",
+    "created_at": "2024-09-24 15:14:18",
+    "updated_at": "2024-09-24 15:14:18",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第21回は、OCHA NORMA北原ももさんがゲストに来てくれました！\r\n\r\n240924_s.jpg\r\n\r\n・自己紹介ブーム\r\n・秋ツアー\r\n・MC中2人で話していること\r\n・疲れをとるためしていること\r\n・お互いの良いところ\r\n・シングル販促期間\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・ZDO\r\n・好きなお芋スイーツ\r\nについて語りました！\r\n\r\n今回から新コーナーがスタート！\r\n「ゲストをもっと知ろーコーナー」では2問のクイズを出題！\r\nぜひ皆さんもクイズにチャレンジしてみてください♬\r\n\r\n後半では、\r\n・松永里愛\r\n・友達天体図の衣装\r\n・ハロコンで学んだこと\r\nについてトーク！\r\n\r\n次回は、モーニング娘。'24山﨑愛生さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "c7640e75018855a4c8b60e5dab979a07",
+        "material_id": "18807",
+        "material_title": "240924_s.jpg",
+        "material_file": "874dda0900c59235c3a9081a3b10ef9e1ba945ae6bc7e1f3a2b39e78c0c4be6018807.jpeg"
+      }
+    ],
+    "previous_id": "23010",
+    "next_id": "22947",
+    "saved_materials": [
+      "assets/22949_18807_240924_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 705,
+    "content_id": "3331",
+    "content_title": "コーラスに挑戦！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-28 12:00:00",
+    "created_at": "2015-10-28 11:23:44",
+    "updated_at": "2015-11-19 10:36:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3331",
+    "content_title": "コーラスに挑戦！",
+    "content_sub_title": "",
+    "release_date": "2015-10-28 12:00:00",
+    "created_at": "2015-10-28 11:23:44",
+    "updated_at": "2015-11-19 10:36:45",
+    "content_text": "みなさん、こんにちは！\n「MUSIC+（ミュージックプラス）」の制作担当スタッフです。\n\n「MUSIC+」はいつもご覧頂いていますか？\n「MUSIC+」は、ジャンルや世代を超える音楽に、新たな喜びをプラスして、アナタにお届けしていく番組です。\n\n今や「MUSIC+」の名物コーナーともなりつつあるのが「アナタのための音楽用語講座」です。\n \n講師であるシャ乱Qのたいせいさんに\n現在生徒のカントリー・ガールズのメンバーが様々な音楽用語を学ぶ、こちらのコーナー。\n\n最近はコーラスについて学んでいまして、\n「MUSIC+」の＃74～76配信分では、実践編として「ためらい サマータイム」のコーラスレコーディングに挑戦しました！\n\n\n当初は、講義でおぼえた1コーラスのみレコーディングに挑戦する予定でしたが、\n講師のたいせいさん、ディレクター魂が炸裂して、レコーディングのマジモードに突入!!\n気合いが入り、気がつけば…\n\nなんとフルコーラス丸々レコーディングしていました!!\n\n\n番組内でも「ためらい サマータイム（カントリー・ガールズ コーラスVer.）」として、\nレコーディング風景と一緒に配信してはいますが、音源はラフミックス。\nこの「ハロ！プロモバイル」内の「ハローラジオ」では、ミックス済みの完成した音源をお聴き頂くことが出来ます！\n（もちろんフルコーラス!!）\n \nコーラスの練習風景やレコーディング風景を「MUSIC+」で見て、\n完成品を「ハローラジオ」で聴く。\nなんてステキなコラボレーション＼(^o^)／\n \n「ためらい サマータイム（カントリー・ガールズ コーラスVer.）」\n是非一度！いや、何度も！\nお楽しみください！！\n \n<u><a href=\"https://helloproject-mobile.com/info/music?menu_id=10\"><font color=\"#0000ff\">ハローラジオはこちら</font></a></u>\n\n<u><a href=\"https://www.youtube.com/user/theuflicks\"><font color=\"#0000ff\">「MUSIC+」はコチラ</font></a></u>\n「MUSIC+」では、メッセージも受け付けております！\n<u><a href=\"http://www.up-front-works.jp/musicplus/\"><font color=\"#0000ff\">メッセージはコチラから</font></a></u>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3334",
+    "next_id": "3285",
+    "saved_materials": []
+  }
+}

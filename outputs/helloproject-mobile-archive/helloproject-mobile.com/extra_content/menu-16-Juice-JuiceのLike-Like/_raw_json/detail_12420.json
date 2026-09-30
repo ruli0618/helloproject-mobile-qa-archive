@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 588,
+    "content_id": "12420",
+    "content_title": "聴いてくださいね！",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2019-10-31 10:00:00",
+    "created_at": "2019-10-28 13:41:35",
+    "updated_at": "2019-10-28 13:41:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10532",
+        "material_title": "1031_uemura_s.jpg",
+        "material_file": "9e88082f3f1306e5100233e16007f52b116c7877fec3cb479a386027a3eb6d0210532.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12420",
+    "content_title": "聴いてくださいね！",
+    "content_sub_title": "植村あかり",
+    "release_date": "2019-10-31 10:00:00",
+    "created_at": "2019-10-28 13:41:35",
+    "updated_at": "2019-10-28 13:41:35",
+    "content_text": "植村あかりです！\r\n\r\nアキナさん！\r\n\r\n1031_uemura_s.jpg\r\n\r\n週刊ヤングフライデー聴いてくださいね！\r\n\r\n\r\n以上、植村あかりでした！\r\n",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10532",
+        "material_title": "1031_uemura_s.jpg",
+        "material_file": "fdb5aabdb708e8f82a6d58ceda1b7188492b635eb5d56f619272a0173d651ca710532.jpeg"
+      }
+    ],
+    "previous_id": "12442",
+    "next_id": "12419",
+    "saved_materials": [
+      "assets/12420_10532_1031_uemura_s.jpg"
+    ]
+  }
+}

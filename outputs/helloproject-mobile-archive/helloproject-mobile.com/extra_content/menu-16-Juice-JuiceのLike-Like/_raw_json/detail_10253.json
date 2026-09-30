@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 667,
+    "content_id": "10253",
+    "content_title": "きしもんと",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2018-11-22 11:00:00",
+    "created_at": "2018-11-08 19:59:38",
+    "updated_at": "2018-11-08 19:59:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8885",
+        "material_title": "1122_miyamoto_s.jpg",
+        "material_file": "57951e8e992603215fea9a8fde54924f159b24646660be5dd05da65462bab8528885.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10253",
+    "content_title": "きしもんと",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2018-11-22 11:00:00",
+    "created_at": "2018-11-08 19:59:38",
+    "updated_at": "2018-11-08 19:59:38",
+    "content_text": "1122_miyamoto_s.jpg\r\n塗り絵した～❣",
+    "materials": [
+      {
+        "secretKey": "889bd9f30b4e72735da67c26359e6e2a",
+        "material_id": "8885",
+        "material_title": "1122_miyamoto_s.jpg",
+        "material_file": "7629739423e5f92c04c30f20097a519044f0a6a075b94eabc8eb34fe47783df98885.jpeg"
+      }
+    ],
+    "previous_id": "10255",
+    "next_id": "10252",
+    "saved_materials": [
+      "assets/10253_8885_1122_miyamoto_s.jpg"
+    ]
+  }
+}

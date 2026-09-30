@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 627,
+    "content_id": "5882",
+    "content_title": "工藤の家の天井裏#24　～店子と大家～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-12-16 22:10:00",
+    "created_at": "2016-12-16 22:10:22",
+    "updated_at": "2016-12-16 22:13:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5262",
+        "material_title": "161216_s.jpg",
+        "material_file": "7d588945a8b406f5c20c0ee0aa80a2bed6b7f3ce8b16e148c17a80b943019a815262.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5882",
+    "content_title": "工藤の家の天井裏#24　～店子と大家～",
+    "content_sub_title": "",
+    "release_date": "2016-12-16 22:10:00",
+    "created_at": "2016-12-16 22:10:22",
+    "updated_at": "2016-12-16 22:13:15",
+    "content_text": "やじまの部屋#24公開！\nゲストは#1から2度目の出演、\nハロ！モバ宣伝部の部長、工藤遥！\n\nハロー！プロジェクト各グループからベスト・オブ・男前を選出！\n2人が選ぶハロプロのヒロインも！\n\nそして、リスナーの方からのリクエストにより、ラジオ内であの名曲を歌っちゃいます。\n\nヒントはこちら↓\n161216_s.jpg\n\n新コーナーも決定しました！\n\n「ハロプロ大喜利」\n\n初回のお題は\n「こんなコンサートは嫌だ」\n\n皆さんからの投稿をお待ちしています！\n\nベスト大喜利に選ばれた方には、\n大喜利の回答と出演者のサインを書いた画像をプレゼントします。\n\nそして、同時に次回のお題も募集します！\nどしどしお送り下さいね！\n\n次の配信もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5262",
+        "material_title": "161216_s.jpg",
+        "material_file": "f5b22dd6f9c1161703491851de2bfd4ea82b4d21dc497f9c9acd75be3007d1c05262.jpeg"
+      }
+    ],
+    "previous_id": "5908",
+    "next_id": "5821",
+    "saved_materials": [
+      "assets/5882_5262_161216_s.jpg"
+    ]
+  }
+}

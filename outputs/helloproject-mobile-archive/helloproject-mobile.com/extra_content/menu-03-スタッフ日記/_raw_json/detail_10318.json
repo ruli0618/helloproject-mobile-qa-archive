@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 460,
+    "content_id": "10318",
+    "content_title": "隣のやじまん家の塀の裏#36 宮本佳林",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-27 17:34:00",
+    "created_at": "2018-11-27 17:33:51",
+    "updated_at": "2018-11-28 12:53:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8943",
+        "material_title": "181127_s.jpg",
+        "material_file": "1ea36eaaccb45134105e07f862d6ef848fcda2fb6e9c6868f4c768185378c83e8943.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10318",
+    "content_title": "隣のやじまん家の塀の裏#36 宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2018-11-27 17:34:00",
+    "created_at": "2018-11-27 17:33:51",
+    "updated_at": "2018-11-28 12:53:08",
+    "content_text": "隣のやじまん家#36本日より公開しました！\n\n今回のゲストは、Juice=Juice宮本佳林さん！\nこの2人の組み合わせは、最近見た方も多いのではないでしょうか。\n\nそう、先日行われた「さわやか五郎バースデーイベント」で共にゲスト出演したお二人、イベントの裏話が盛り沢山！\n\n6年前、宮本さんがハロプロ研修生時代に共演した舞台「シュガースポット」での出来事や、宮本さんが新年予定している成人式の話などなど！\n\n二人のささやき声も聴けちゃいます♪\n\n181127_s.jpg\nこの写真の意味は「目指せアクトレス矢島」を聴けば分かるかも…？\n矢島くんと宮本くんの掛け合いもお楽しみに！\n\n(きちんと正面を向いた宮本さんとの2shotは、矢島さんの<a href=\"https://www.instagram.com/p/BqrF6dNBQjj/\" target=\"_blank\">Instagram</a>をチェック！)\n\n「隣のやじまん家」へのメールを大募集！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、12月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n次回ゲスト、メール締切は決まり次第、\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n沢山のお便りお待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8943",
+        "material_title": "181127_s.jpg",
+        "material_file": "853cc22395bade3d5195f4757f6a4bfdad5a8311462989eeb5e22b3ed99cff198943.jpeg"
+      }
+    ],
+    "previous_id": "10364",
+    "next_id": "10314",
+    "saved_materials": [
+      "assets/10318_8943_181127_s.jpg"
+    ]
+  }
+}

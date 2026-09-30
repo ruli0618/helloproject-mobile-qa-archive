@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 205,
+    "content_id": "18631",
+    "content_title": "工藤の家の屋根裏部屋#109～河西結心～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-15 19:19:00",
+    "created_at": "2022-08-15 19:21:06",
+    "updated_at": "2022-08-15 19:21:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15524",
+        "material_title": "220621_01_s.jpg",
+        "material_file": "e416c2d6358b511c2e9a8dd86b82308845aeb3f5ffc476341eb797487ecd548315524.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15525",
+        "material_title": "220621_02_s.jpg",
+        "material_file": "bca53d21fc92c7fd78c7c76e3bfbd0370f7f09d2923e8fafe7b7af1a228e769a15525.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18631",
+    "content_title": "工藤の家の屋根裏部屋#109～河西結心～",
+    "content_sub_title": "",
+    "release_date": "2022-08-15 19:19:00",
+    "created_at": "2022-08-15 19:21:06",
+    "updated_at": "2022-08-15 19:21:06",
+    "content_text": "スタッフ日記の更新が遅れていて申し訳ありません！\r\n\r\nふくむらの部屋 第109回のゲストは、つばきファクトリー河西結心さんが初登場！\r\n\r\n220621_02_s.jpg\r\n\r\nハロー！ラジオ連動の質問企画では、\r\n荷物が多いか少ないか、\r\n好きなお祭りの屋台を教えてくれました。\r\n\r\nまずは、二人の印象から、\r\n飼っているペット事情についてトーク！\r\n\r\n220621_01_s.jpg\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nお姉ちゃん・妹にしたいランキングの\r\n穴埋めクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・武道館のリハーサル\r\n・単独ツアーの魅力\r\nに関して、語って頂きました。\r\n\r\n開催前だった河西さんのバースデーイベントについてもトーク！\r\n\r\nぜひお聴きくださいね♫\r\n",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15524",
+        "material_title": "220621_01_s.jpg",
+        "material_file": "91c03ba66c44a1252554d8933a16bf77607c02413a56d0c9ed3259dbff76118215524.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15525",
+        "material_title": "220621_02_s.jpg",
+        "material_file": "cc40fbf2efdc4154993687f1ccf1b7cd6d08cf9081a5941b4cdad30ef6d40b7015525.jpeg"
+      }
+    ],
+    "previous_id": "18632",
+    "next_id": "18606",
+    "saved_materials": [
+      "assets/18631_15524_220621_01_s.jpg",
+      "assets/18631_15525_220621_02_s.jpg"
+    ]
+  }
+}

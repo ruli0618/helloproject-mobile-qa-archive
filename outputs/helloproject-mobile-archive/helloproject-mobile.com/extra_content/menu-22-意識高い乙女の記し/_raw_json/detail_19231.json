@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 23,
+    "content_id": "19231",
+    "content_title": "北海道",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2022-12-09 10:00:00",
+    "created_at": "2022-11-24 21:10:41",
+    "updated_at": "2022-11-24 21:10:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15982",
+        "material_title": "1209_tanimoto_s.jpg",
+        "material_file": "26fe3b3ff5012aeb737877027932a91920f1c4f539d4d34049f04ec174eb09ca15982.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19231",
+    "content_title": "北海道",
+    "content_sub_title": "谷本安美",
+    "release_date": "2022-12-09 10:00:00",
+    "created_at": "2022-11-24 21:10:41",
+    "updated_at": "2022-11-24 21:10:41",
+    "content_text": "1209_tanimoto_s.jpg\r\n北海道行った時に大好きなウニ丼\r\n食べたよ～！！",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "15982",
+        "material_title": "1209_tanimoto_s.jpg",
+        "material_file": "f745e377b8bb5217a79a65b75e0fe9c428d9a437c200be637ea62114ca232f4e15982.jpeg"
+      }
+    ],
+    "previous_id": "19450",
+    "next_id": "19229",
+    "saved_materials": [
+      "assets/19231_15982_1209_tanimoto_s.jpg"
+    ]
+  }
+}

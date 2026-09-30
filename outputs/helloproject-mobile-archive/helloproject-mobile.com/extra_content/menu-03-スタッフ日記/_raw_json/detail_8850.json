@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 515,
+    "content_id": "8850",
+    "content_title": "工藤の家の屋根裏部屋#21～浜浦彩乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-04-10 19:45:00",
+    "created_at": "2018-04-10 19:47:27",
+    "updated_at": "2018-04-10 19:49:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7760",
+        "material_title": "180410_01_s.jpg",
+        "material_file": "23b50fe48a12df038a1dbefc09d76f415eea7bdc00687dd04915742af02f4ced7760.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7761",
+        "material_title": "180410_02_s.jpg",
+        "material_file": "4a5775440e9f705312c089e52cacff64bee4f7c3c7030bd4b193895874448ddb7761.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7762",
+        "material_title": "180410_03_s.jpg",
+        "material_file": "e213bc25d2b592e30a9840fb3d6e89a8046c9e9bab520788b547af90e9dc1a017762.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8850",
+    "content_title": "工藤の家の屋根裏部屋#21～浜浦彩乃～",
+    "content_sub_title": "",
+    "release_date": "2018-04-10 19:45:00",
+    "created_at": "2018-04-10 19:47:27",
+    "updated_at": "2018-04-10 19:49:13",
+    "content_text": "「ふくむらの部屋」21回目の配信開始しました！\n\n今回のゲストはこぶしファクトリーの浜浦彩乃さんが登場！！\n\n\n180410_01_s.jpg\n\n\n譜久村さん、浜浦さんの2名が揃ったということは・・・\n\n\nお二人が大好きな”あの先輩”についてたくさん語っています！\n\n\n180410_02_s.jpg\n\n\nやっぱり大好きな先輩のことを話し出すと止まらない譜久村さんに\nなんと浜浦さんのダメ出し発言が飛び出す!?\n\n\nそして！\nたくさんの「新コーナー案」メールありがとうございます！\n\n次回より「みずきファンの行動あるある大辞典」コーナーがお試しでスタート！\nあなたの好きなハロプロメンバーにまつわる「ついついやってしまう行動」を大募集します！\nライブ以外でもメンバーカラーのものをついつい身につけてしまう\n名前や誕生日にまつわるものや数字が気になってしまう！\nなどなど、譜久村さんファンのみならずあなたのエピソードをお送りください！\n\nちなみに嗣永さんが大好きなお二人は「いももち」というメニューに目がいってしまうとか・・・\n\n\n180410_03_s.jpg\n\n\n「みずき先生のハロプロ講座」「みずきファンの行動あるある大辞典」\n「普通のお便り」\n\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7760",
+        "material_title": "180410_01_s.jpg",
+        "material_file": "3b9b9c915d9c67a6cba674327fd7a17208ed18d339a48482ec24622bca74d4b17760.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7761",
+        "material_title": "180410_02_s.jpg",
+        "material_file": "7c512d76f45a113d96680218f2d1a20bb93b45258fb6101ab64d014751a9a7927761.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7762",
+        "material_title": "180410_03_s.jpg",
+        "material_file": "5106f43d5b05f5c50cf0752b62df59ade506d4ba687cda3bea2c01e1e43ed2ff7762.jpeg"
+      }
+    ],
+    "previous_id": "8926",
+    "next_id": "8846",
+    "saved_materials": [
+      "assets/8850_7760_180410_01_s.jpg",
+      "assets/8850_7761_180410_02_s.jpg",
+      "assets/8850_7762_180410_03_s.jpg"
+    ]
+  }
+}

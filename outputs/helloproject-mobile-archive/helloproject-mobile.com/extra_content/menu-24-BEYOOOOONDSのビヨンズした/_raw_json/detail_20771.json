@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 234,
+    "content_id": "20771",
+    "content_title": "存在が映え",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2023-09-20 10:00:00",
+    "created_at": "2023-08-29 18:23:55",
+    "updated_at": "2023-08-29 18:23:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17101",
+        "material_title": "0920_hirai_s.jpg",
+        "material_file": "0a45bf65577f796f63cc5d657f70f76bdd04059ec32852e3d66634507ae215f417101.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20771",
+    "content_title": "存在が映え",
+    "content_sub_title": "平井美葉",
+    "release_date": "2023-09-20 10:00:00",
+    "created_at": "2023-08-29 18:23:55",
+    "updated_at": "2023-08-29 18:23:55",
+    "content_text": "0920_hirai_s.jpg\r\n3人でUSJに行ったときの写真！\r\n2人とも可愛すぎる♡\r\n\r\n【28周目お題：映え 】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "17101",
+        "material_title": "0920_hirai_s.jpg",
+        "material_file": "695f5150432bceeb36cc846cb52f6597d2eef55a695d5429c68d6fd4f1c6802317101.jpeg"
+      }
+    ],
+    "previous_id": "20772",
+    "next_id": "20770",
+    "saved_materials": [
+      "assets/20771_17101_0920_hirai_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 210,
+    "content_id": "23360",
+    "content_title": "宣伝会議#76",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-07-21 00:00:00",
+    "created_at": "2024-11-28 04:28:09",
+    "updated_at": "2024-11-28 04:30:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19142",
+        "material_title": "76_05_s.jpg",
+        "material_file": "119ba34617675f141d80074a521734ab51f290611a95f38d164a5f3ede00083619142.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19144",
+        "material_title": "76_01_s.jpg",
+        "material_file": "d5ee7623be532d3ecb03de80a0927ab14f45555af267234d062afd9e5d6c48dd19144.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19143",
+        "material_title": "76.jpg",
+        "material_file": "86e777189b53111ff9173a64e37d9abb764a2cf88e415d9c4ed88279eac73c0a19143.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19145",
+        "material_title": "76_02_s.jpg",
+        "material_file": "30b8679eea378d03a0ee88b54489ae697ed0be211ceda3de38881dcaafcc882919145.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19146",
+        "material_title": "76_03_s.jpg",
+        "material_file": "c1b13c6ca79274bed26d552c02dad1366bb3e0a0dfa40bfffe35e8aadbbc59dd19146.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19147",
+        "material_title": "76_04_s.jpg",
+        "material_file": "9b6708340f063c68791c9e859ff8ed6b5e77c6b53c9409671796fb7c907780ad19147.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23360",
+    "content_title": "宣伝会議#76",
+    "content_sub_title": "",
+    "release_date": "2022-07-21 00:00:00",
+    "created_at": "2024-11-28 04:28:09",
+    "updated_at": "2024-11-28 04:30:57",
+    "content_text": "宣伝会議第76回は、川村文乃副部長・入江里咲書記の二人でお届け！\n\n76_01_s.jpg\n\n連動質問企画では、\n・メイクのこだわり\n・小学生の時の休み時間\nのお話からスタート！\n\n前編では、\n・誕生日記念日\n・新メンバー\n・好きな歌\n・一人◯◯\n・メンバーカラー\n・お互いのライブの感想\nについてトーク！\n\n後編では、\n・石山咲良\n・ライブ中のヘアスタイル\n・セリフのREC\n・言ってみたいセリフ\nについてトーク！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\n「小野瑞歩」さんについて紹介！\n\n76_02_s.jpg\n\n↓議事録はこちら！\n76.jpg\n\n76_03_s.jpg\n\n76_04_s.jpg\n\n76_05_s.jpg",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19142",
+        "material_title": "76_05_s.jpg",
+        "material_file": "b93b2ac85a9c219533d739ea1a2b322264df9b75fe2d140ec641bba7debf9cb419142.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19144",
+        "material_title": "76_01_s.jpg",
+        "material_file": "24120da4b7b169bf1d939736f6e9019c51a2c65aa90b1634405b9f4595edad4719144.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19143",
+        "material_title": "76.jpg",
+        "material_file": "45be3b8b374c5510c1ceff106f89b1c27ec9bf24f5799be36af33e50b6ff596b19143.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19145",
+        "material_title": "76_02_s.jpg",
+        "material_file": "59638ff1eb25827730f369a071d66d2e57b29c581d74e12bc0244ad76647e22f19145.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19146",
+        "material_title": "76_03_s.jpg",
+        "material_file": "104f88bc53e52acfa6316989f8013001430764075703ed4a86cf16c3a61028bb19146.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "19147",
+        "material_title": "76_04_s.jpg",
+        "material_file": "23dc21b904237e1db8583e8d93c36d9d0f223f45ef04b2ad6ca5e44894e20f6919147.jpeg"
+      }
+    ],
+    "previous_id": "19455",
+    "next_id": "19350",
+    "saved_materials": [
+      "assets/23360_19142_76_05_s.jpg",
+      "assets/23360_19144_76_01_s.jpg",
+      "assets/23360_19143_76.jpg",
+      "assets/23360_19145_76_02_s.jpg",
+      "assets/23360_19146_76_03_s.jpg",
+      "assets/23360_19147_76_04_s.jpg"
+    ]
+  }
+}

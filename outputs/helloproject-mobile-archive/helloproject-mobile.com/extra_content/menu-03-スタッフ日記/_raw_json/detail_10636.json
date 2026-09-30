@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 448,
+    "content_id": "10636",
+    "content_title": "「イベント開催希望」メール締切間近！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-17 16:34:00",
+    "created_at": "2019-01-17 16:34:43",
+    "updated_at": "2019-01-17 17:47:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9172",
+        "material_title": "senden_staff.jpg",
+        "material_file": "e4e1050671ece4749a2f9bee763c0de327e0615676dae849732d32c161643e949172.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10636",
+    "content_title": "「イベント開催希望」メール締切間近！",
+    "content_sub_title": "",
+    "release_date": "2019-01-17 16:34:00",
+    "created_at": "2019-01-17 16:34:43",
+    "updated_at": "2019-01-17 17:47:22",
+    "content_text": "こんにちは！スタッフ番号2番です。\n\n現在ハロ！モバ宣伝部イベント開催をかけて、「イベント開催希望」メールを受付中！\n締切の日曜日まであとわずか！\n\n<b>▼このリンクをポチッと押して、送信するだけ！</b>\n→<a href=\"mailto:halomoba@gmail.com?subject=イベント開催希望\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n<font color=\"red\"><b>締切：1/20(日)23時</b></font>\n\n873通集まらないと、イベント開催出来ません！\n会員の皆さんのお力が必要です！\n\n<font size=\"5\"><b>梁川奈々美にとって\n最後の宣伝部イベント！</b></font>\n\n<b>イベントには行けないな～という方も、ぜひメール送信だけでもご協力頂けますと幸いです。</b>\n\n※ハロ！モバの<a href=\"http://helloproject-mobile.com/mypage/manage\">マイページ</a>に登録しているアドレスからの受付になります。\n※件名に「イベント開催希望」と記入してお送りください。\n※本文はあっても無くてもどちらでも構いません。\n※お一人の方が複数通メールを送って頂いても、カウントは1となります。\n※会員種別は関係ありません。会員であれば対象となります。\n\n<font color=\"red\">※会員ではない、またはマイページに登録されていないアドレスからの送信が多くあります。\n既にメール送信済みの方も、今一度マイページアドレスのご確認をお願いいたします。</font>\n\n宣伝部イベント出演：\n[部長] 野中美希 (モーニング娘。'19)\n[秘書] 梁川奈々美 (Juice=Juice/カントリー・ガールズ)\n[書記] 小片リサ (つばきファクトリー)\n\nsenden_staff.jpg",
+    "materials": [
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9172",
+        "material_title": "senden_staff.jpg",
+        "material_file": "5f9d85be3a036178ee817f6a99981ed05f88fecf8c6af20fd31504968c99adbf9172.jpeg"
+      }
+    ],
+    "previous_id": "10639",
+    "next_id": "10635",
+    "saved_materials": [
+      "assets/10636_9172_senden_staff.jpg"
+    ]
+  }
+}

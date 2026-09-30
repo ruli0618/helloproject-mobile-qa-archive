@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 191,
+    "content_id": "19633",
+    "content_title": "みよちゃん家の縁側の猫#12 山﨑夢羽",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-10-11 00:00:00",
+    "created_at": "2023-02-02 18:02:19",
+    "updated_at": "2023-02-02 18:02:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16290",
+        "material_title": "230202_01.jpg",
+        "material_file": "844317bb8f39278d5169e1980453a2e9252895789fea27bd9d36c4aff8601f7f16290.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "16291",
+        "material_title": "230202_02.jpg",
+        "material_file": "cc457055b42f9c56a036787b5b1a9c9b4e764eabccd7ebd2b97a743b39c2fced16291.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "19633",
+    "content_title": "みよちゃん家の縁側の猫#12 山﨑夢羽",
+    "content_sub_title": "",
+    "release_date": "2022-10-11 00:00:00",
+    "created_at": "2023-02-02 18:02:19",
+    "updated_at": "2023-02-02 18:02:19",
+    "content_text": "「みよちゃん家の縁側」#12配信中です！\r\n\r\n第12回ゲストは、BEYOOOOONDS/雨ノ森 川海の山﨑夢羽さん！\r\nいつも以上にリラックスした雰囲気の収録となりました♡\r\n\r\n230202_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①カスタネット\r\n②ただいまんもすごーりら！\r\n③あいちあいちてる！\r\n④つけてみそ かけてみそ\r\n\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「平井くんと夢羽ちゃん」、「ネコ型ロボットミヨえもん」の2本をお送りしました。\r\n王道胸キュンストーリー<img src=\"/emoji/emoji-images/f7b2.gif\"/>とすこし不思議な世界観の台本でした！\r\n\r\n\r\nメジャーデビュー3周年記念ライブの裏話から島倉さんと2人の関係性も<img src=\"/emoji/emoji-images/4f4d.gif\"/>\r\nその他たくさんのお便りを紹介しています！\r\n\r\n230202_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第13回ゲストは、モーニング娘。'22加賀楓さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16290",
+        "material_title": "230202_01.jpg",
+        "material_file": "950429dd83ba128e95a9a96ce9bf88021f5dcb47c14412d68c353f623ec3a0fa16290.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "16291",
+        "material_title": "230202_02.jpg",
+        "material_file": "910da3980d0b4062c2bb2ae6154bd66ea997ce86794eab0436b1b589f137029216291.jpeg"
+      }
+    ],
+    "previous_id": "23363",
+    "next_id": "21224",
+    "saved_materials": [
+      "assets/19633_16290_230202_01.jpg",
+      "assets/19633_16291_230202_02.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 77,
+    "content_id": "25035",
+    "content_title": "家族で♡",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-10-13 10:00:00",
+    "created_at": "2025-09-26 19:17:15",
+    "updated_at": "2025-10-13 21:29:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20522",
+        "material_title": "1013_okamura_s.jpg",
+        "material_file": "0aff82f4254cd69b0fa3099053ee99940cd251ceb652ee1af0829816863f174220522.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25035",
+    "content_title": "家族で♡",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-10-13 10:00:00",
+    "created_at": "2025-09-26 19:17:15",
+    "updated_at": "2025-10-13 21:29:39",
+    "content_text": "1013_okamura_s.jpg\n両親が連れて行ってくれた花火とっても綺麗でした！\n\n【46周目お題：綺麗】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20522",
+        "material_title": "1013_okamura_s.jpg",
+        "material_file": "de9dd629a5e7ea8086d4dca761ccf070e13aaac5f80e6762caa66b800fdb6d9820522.jpeg"
+      }
+    ],
+    "previous_id": "25036",
+    "next_id": "25034",
+    "saved_materials": [
+      "assets/25035_20522_1013_okamura_s.jpg"
+    ]
+  }
+}

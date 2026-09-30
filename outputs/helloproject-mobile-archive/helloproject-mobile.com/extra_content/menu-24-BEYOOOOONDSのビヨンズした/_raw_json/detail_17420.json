@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 345,
+    "content_id": "17420",
+    "content_title": "みいみよ",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2022-01-17 10:00:00",
+    "created_at": "2021-12-31 19:48:22",
+    "updated_at": "2022-01-17 14:44:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14532",
+        "material_title": "220117_hirai_s.jpg",
+        "material_file": "cec1cf4936f577adb0a2d735046fcfc81188050ffd5d0f864e339cc34259453c14532.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17420",
+    "content_title": "みいみよ",
+    "content_sub_title": "平井美葉",
+    "release_date": "2022-01-17 10:00:00",
+    "created_at": "2021-12-31 19:48:22",
+    "updated_at": "2022-01-17 14:44:26",
+    "content_text": "220117_hirai_s.jpg\nもうみいみがかんわいくて仕方がない_(:3♡z)_\n\n【16周目お題：ツーショット】",
+    "materials": [
+      {
+        "secretKey": "8e3edf715758ffd9f78ebd7048850653",
+        "material_id": "14532",
+        "material_title": "220117_hirai_s.jpg",
+        "material_file": "f629ddfd1381ee020245669e245ef790f4b48719c067cc4b060e612ded241b4914532.jpeg"
+      }
+    ],
+    "previous_id": "17421",
+    "next_id": "17419",
+    "saved_materials": [
+      "assets/17420_14532_220117_hirai_s.jpg"
+    ]
+  }
+}

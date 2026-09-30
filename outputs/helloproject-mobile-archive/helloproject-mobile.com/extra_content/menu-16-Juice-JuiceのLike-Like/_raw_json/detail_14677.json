@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 514,
+    "content_id": "14677",
+    "content_title": "いえーい",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2020-10-20 10:00:00",
+    "created_at": "2020-10-14 21:53:47",
+    "updated_at": "2020-10-14 21:53:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12190",
+        "material_title": "1020_miyamoto_s.jpg",
+        "material_file": "ff931ccb0ca51b9f255ff9268bffc2c937d538c4120a9d0cd6612bc648abef3212190.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14677",
+    "content_title": "いえーい",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2020-10-20 10:00:00",
+    "created_at": "2020-10-14 21:53:47",
+    "updated_at": "2020-10-14 21:53:47",
+    "content_text": "1020_miyamoto_s.jpg\r\nこれ、なんの時のかわかる人ー！",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12190",
+        "material_title": "1020_miyamoto_s.jpg",
+        "material_file": "c4d46017ea33a26c776f4f1b4ff06bd9283846983a91a7e49ed0e4ea1f5c3c2d12190.jpeg"
+      }
+    ],
+    "previous_id": "14678",
+    "next_id": "14647",
+    "saved_materials": [
+      "assets/14677_12190_1020_miyamoto_s.jpg"
+    ]
+  }
+}

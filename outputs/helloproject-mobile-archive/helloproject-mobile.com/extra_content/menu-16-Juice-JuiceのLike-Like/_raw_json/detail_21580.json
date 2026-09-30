@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 199,
+    "content_id": "21580",
+    "content_title": "交換会",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-01-25 10:00:00",
+    "created_at": "2024-01-16 18:23:55",
+    "updated_at": "2024-01-16 18:23:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17725",
+        "material_title": "0125_matsunaga_s.jpg",
+        "material_file": "caba3cb96772a77ef61ea50a9ae39c9875c76e28bc2c10803e78a1ffd8aa1ae517725.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21580",
+    "content_title": "交換会",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-01-25 10:00:00",
+    "created_at": "2024-01-16 18:23:55",
+    "updated_at": "2024-01-16 18:23:55",
+    "content_text": "みんなでプレゼント交換会をしておいしのプレゼントのマフラーが当たったるるさん<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n0125_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17725",
+        "material_title": "0125_matsunaga_s.jpg",
+        "material_file": "f507dbdf677b0167630c36ca7890a3c1f603fffbf31ce73ae7937aedd2a94b2917725.jpeg"
+      }
+    ],
+    "previous_id": "21644",
+    "next_id": "21579",
+    "saved_materials": [
+      "assets/21580_17725_0125_matsunaga_s.jpg"
+    ]
+  }
+}

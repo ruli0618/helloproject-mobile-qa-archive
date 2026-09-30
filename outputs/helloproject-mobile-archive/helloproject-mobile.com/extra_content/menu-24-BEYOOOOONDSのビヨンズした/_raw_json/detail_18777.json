@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 302,
+    "content_id": "18777",
+    "content_title": "CHICA#TETSU",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2022-09-12 10:00:00",
+    "created_at": "2022-09-05 13:53:46",
+    "updated_at": "2022-09-05 13:53:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15645",
+        "material_title": "0912_nishida_s.jpg",
+        "material_file": "e0ed799006cf6262a55c184b7b06172e277420766f4198f304aac1d5b9308ab715645.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18777",
+    "content_title": "CHICA#TETSU",
+    "content_sub_title": "西田汐里",
+    "release_date": "2022-09-12 10:00:00",
+    "created_at": "2022-09-05 13:53:46",
+    "updated_at": "2022-09-05 13:53:46",
+    "content_text": "0912_nishida_s.jpg\r\n4人でいると笑いが絶えません！\r\n\r\n【21周目お題：楽しい】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15645",
+        "material_title": "0912_nishida_s.jpg",
+        "material_file": "87e19d4dd2e4269ae9cc57c8dd5cf21699151699f9d4a87cc67c989d53e5b77a15645.jpeg"
+      }
+    ],
+    "previous_id": "18778",
+    "next_id": "18776",
+    "saved_materials": [
+      "assets/18777_15645_0912_nishida_s.jpg"
+    ]
+  }
+}

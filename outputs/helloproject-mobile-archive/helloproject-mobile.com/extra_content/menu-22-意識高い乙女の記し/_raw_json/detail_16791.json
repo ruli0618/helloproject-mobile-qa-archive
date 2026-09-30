@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 96,
+    "content_id": "16791",
+    "content_title": "パンを食べたよ",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2021-09-21 20:04:00",
+    "created_at": "2021-09-21 20:05:05",
+    "updated_at": "2021-09-21 20:05:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14002",
+        "material_title": "210921_kasai_s.jpg",
+        "material_file": "8df4ca5951de8f7521c68f92af80edab304d51e447cb266132b353f0b7684a3a14002.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16791",
+    "content_title": "パンを食べたよ",
+    "content_sub_title": "河西結心",
+    "release_date": "2021-09-21 20:04:00",
+    "created_at": "2021-09-21 20:05:05",
+    "updated_at": "2021-09-21 20:05:05",
+    "content_text": "210921_kasai_s.jpg\r\n前に食べたパンがものすごく美味しくて、また食べにいきたいな〜って思ってます！！\r\n食べることが好きだからその分体も動かして健康に気をつけます！！\r\n皆さんも気をつけてください〜！！",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14002",
+        "material_title": "210921_kasai_s.jpg",
+        "material_file": "33933c2148fc6ed9a2abf5a21ed0d41addbc9e72a0cfd730b58a557c91b4099d14002.jpeg"
+      }
+    ],
+    "previous_id": "16828",
+    "next_id": "16758",
+    "saved_materials": [
+      "assets/16791_14002_210921_kasai_s.jpg"
+    ]
+  }
+}

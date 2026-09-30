@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 45,
+    "content_id": "26955",
+    "content_title": "宣伝会議#112",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-07-24 00:00:00",
+    "created_at": "2026-09-28 15:36:57",
+    "updated_at": "2026-09-28 15:36:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22027",
+        "material_title": "112.jpg",
+        "material_file": "3eda9dd739693c3d54393d2352d3790676b3814698e0a01075d4f5406d98d35a22027.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26955",
+    "content_title": "宣伝会議#112",
+    "content_sub_title": "",
+    "release_date": "2025-07-24 00:00:00",
+    "created_at": "2026-09-28 15:36:57",
+    "updated_at": "2026-09-28 15:36:57",
+    "content_text": "宣伝会議第112回は、前田こころ副部長・小野田華凜保健係の二人でお届け！\r\n\r\n前編では、\r\n・誕生日0時の過ごし方\r\n・誕生日最初にお祝いしたメンバー\r\n・甘えたい？甘えられたい？\r\n・結成1年を振り返って\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「一年中、夏の国。一年中、冬の国」についてディベート！\r\n\r\n後編では、\r\n・BEYOOOOONDS武道館公演\r\n・個別イベントで着てみたい服装\r\n・結成1年記念イベントソロ曲\r\n・夜によく見る夢\r\n・バースデーイベント\r\n・野外イベント\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「谷本安美」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n112.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22027",
+        "material_title": "112.jpg",
+        "material_file": "426a977c7e416fffd5e4222a8016d75e2c769010b256ae0a6e7c15079ec176c622027.jpeg"
+      }
+    ],
+    "previous_id": "26992",
+    "next_id": "26991",
+    "saved_materials": [
+      "assets/26955_22027_112.jpg"
+    ]
+  }
+}

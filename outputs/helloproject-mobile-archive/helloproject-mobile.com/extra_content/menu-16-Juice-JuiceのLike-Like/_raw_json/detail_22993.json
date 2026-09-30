@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 132,
+    "content_id": "22993",
+    "content_title": "抑えてみた",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-10-01 10:00:00",
+    "created_at": "2024-09-26 22:49:55",
+    "updated_at": "2024-09-26 22:49:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18833",
+        "material_title": "1001_kudo_s.jpg",
+        "material_file": "019a0f3e623d4dfb10527a2c49635bf8641b248ad91c19a2e8ecda4c514003bd18833.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22993",
+    "content_title": "抑えてみた",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-10-01 10:00:00",
+    "created_at": "2024-09-26 22:49:55",
+    "updated_at": "2024-09-26 22:49:55",
+    "content_text": "1001_kudo_s.jpg\r\nたまには手であほ毛を抑えてみたり。。\r\n相変わらず元気です！",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18833",
+        "material_title": "1001_kudo_s.jpg",
+        "material_file": "d50bf8a9926c65f63888ab77158f30aadc5c06970701c1feb1be7353cded90c318833.jpeg"
+      }
+    ],
+    "previous_id": "22994",
+    "next_id": "22992",
+    "saved_materials": [
+      "assets/22993_18833_1001_kudo_s.jpg"
+    ]
+  }
+}

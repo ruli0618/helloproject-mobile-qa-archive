@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 668,
+    "content_id": "4416",
+    "content_title": "女子会の二次会#3",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-04-13 15:13:00",
+    "created_at": "2016-04-13 13:39:22",
+    "updated_at": "2016-04-13 15:17:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4029",
+        "material_title": "160413_1_s.jpg",
+        "material_file": "540058eb64a796431a124213bff513b23fec7ee285c345e817a07beb9e29091d4029.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4030",
+        "material_title": "160413_2_s.jpg",
+        "material_file": "59e09fdc1e14809a7935d4d47dec42340bffe8a13939ce9759dff256d5c8c1d54030.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4416",
+    "content_title": "女子会の二次会#3",
+    "content_sub_title": "",
+    "release_date": "2016-04-13 15:13:00",
+    "created_at": "2016-04-13 13:39:22",
+    "updated_at": "2016-04-13 15:17:22",
+    "content_text": "４月１４日更新の女子会番組『Girls Night Out#12』では、前回に引き続き、アンジュルムの和田彩花と相川茉穂が、和田の出身地、群馬をゆる～くハングアウト！\n\n160413_1_s.jpg\nあのキャラクターも登場でおもわずテンションがあがる２人（この写真の表情では伝わりませんが・・）。\n\n160413_2_s.jpg\n最後は群馬県産の食材のみでつくられたご馳走に舌鼓！\n\nスタジオではアンジュルム勝田＆田村と一緒に、まったりお食事タイム、そして女子ならではのファッショントークなどたっぷりお届け。\n\nモーニング娘。'16の飯窪・野中は、前回とった“だし”で料理に挑戦。\nこちらもお見逃しなく！\n\n<u><a href=\"https://www.youtube.com/channel/UC6h6mpswy924vIBBeB0N3wQ\"><font color=\"#0000ff\">「Girls Night Out」はコチラ</font></a></u>",
+    "materials": [
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4029",
+        "material_title": "160413_1_s.jpg",
+        "material_file": "f918c84d1627e2daa5101ebfa7d93eeeae98fa69d834150812c679c8d234f0d94029.jpeg"
+      },
+      {
+        "secretKey": "1a341cbd5aae49321fbf11debcff9f79",
+        "material_id": "4030",
+        "material_title": "160413_2_s.jpg",
+        "material_file": "450ce1b8f56f7ebd250d1a40fe08eb8e9b4cb8187ac31b4a72483b5be72fdbbd4030.jpeg"
+      }
+    ],
+    "previous_id": "4434",
+    "next_id": "4392",
+    "saved_materials": [
+      "assets/4416_4029_160413_1_s.jpg",
+      "assets/4416_4030_160413_2_s.jpg"
+    ]
+  }
+}

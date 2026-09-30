@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "23465",
+    "content_title": "パン",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-12-10 21:16:00",
+    "created_at": "2024-12-10 21:17:33",
+    "updated_at": "2024-12-10 21:17:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19300",
+        "material_title": "1210_kudo_s.jpg",
+        "material_file": "bf2f03f11c7f4d6e46b54a9a7432a222cbabcf3e04aaf405c5c09b0a168937a219300.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23465",
+    "content_title": "パン",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-12-10 21:16:00",
+    "created_at": "2024-12-10 21:17:33",
+    "updated_at": "2024-12-10 21:17:33",
+    "content_text": "1210_kudo_s.jpg\r\nお米美味しいなぁ、お米派かも！っと思いきや、パンも美味しくって。。。選べないです！\r\nきさきちゃんが最近手作りのパンやお菓子を沢山くれます泣\r\n常に腹ぺこマンの私にとってはきさきちゃんがヒーローです泣",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19300",
+        "material_title": "1210_kudo_s.jpg",
+        "material_file": "e670ccf0b6c282a30a337e2f3210e935509d838f71d3df3d95f274fb5938d09c19300.jpeg"
+      }
+    ],
+    "previous_id": "23487",
+    "next_id": "23404",
+    "saved_materials": [
+      "assets/23465_19300_1210_kudo_s.jpg"
+    ]
+  }
+}

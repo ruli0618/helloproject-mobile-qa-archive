@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 36,
+    "content_id": "11854",
+    "content_title": "大きな花びら",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-08-09 16:00:00",
+    "created_at": "2019-08-09 16:03:59",
+    "updated_at": "2019-08-09 16:05:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10114",
+        "material_title": "0809_ono_s.jpg",
+        "material_file": "dd2e76cfbd588977c458ad5858d36448b8a03361374f25ff20da1d96487c904710114.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11854",
+    "content_title": "大きな花びら",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-08-09 16:00:00",
+    "created_at": "2019-08-09 16:03:59",
+    "updated_at": "2019-08-09 16:05:22",
+    "content_text": "0809_ono_s.jpg\nロドデンドロン コノリ(ツツジ科)\n大きな花びらが\nとっても可愛い<img src=\"/emoji/emoji-images/f9ed.gif\"/>\n\nとってもいい匂いがしたよ！\n\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10114",
+        "material_title": "0809_ono_s.jpg",
+        "material_file": "ffb6bb7de1f7a0b354fb1287aa25d8ed17a7c86800898e97e27bfd98b2f14e9410114.jpeg"
+      }
+    ],
+    "previous_id": "11901",
+    "next_id": "11830",
+    "saved_materials": [
+      "assets/11854_10114_0809_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 317,
+    "content_id": "14853",
+    "content_title": "ケーキ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-11-05 18:14:00",
+    "created_at": "2020-11-05 18:26:31",
+    "updated_at": "2020-11-05 18:28:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12371",
+        "material_title": "201105_02.jpg",
+        "material_file": "b3713638f8b0abfa33ac6fb2e510ffe4ff05dc7f7e0dcc48d33a01d3f4b2237f12371.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12372",
+        "material_title": "201105_03.jpg",
+        "material_file": "1b5f75d9cdc0b981ebb09dfee4fe1faf1a9bcdd9e82dd6b8922caa0f8a696bb712372.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12373",
+        "material_title": "201105_01.jpg",
+        "material_file": "ea96a08686fba623f3ea43066a0aacd89457011180531c7d365f15594ae393f612373.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14853",
+    "content_title": "ケーキ",
+    "content_sub_title": "",
+    "release_date": "2020-11-05 18:14:00",
+    "created_at": "2020-11-05 18:26:31",
+    "updated_at": "2020-11-05 18:28:42",
+    "content_text": "こんにちは！スタッフ番号2番です。\n\n本日は、蔵出し画像を大公開！\n\n2019年12月25日配信のハロ！モバ宣伝会議#45クリスマス・スペシャル回(川村文乃広報欠席)にて、ラジオ収録中にクリスマスケーキを選ぶ一コマです。\n\n201105_01.jpg\n\n201105_02.jpg\n\n201105_03.jpg\n\n以前は誕生日やクリスマスにはよく収録中のケーキパーティが行われていましたが、昨今の事情もあり収録中の甘い物は控えております…が、また皆でケーキが食べれるようになるといいですね！\n\nこの模様の音声は<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>でそのまま流していますので、まだ聴いていないよという方はぜひ聴いてみて下さい♫\n\nケーキを使った「妄想動画」も<a href=\"http://helloproject-mobile.com/info/movie/list?menu_id=17&page=4&category_id=46&category_title=%E5%A6%84%E6%83%B3%E5%8B%95%E7%94%BB&category_color=ff0000\">ハロー！ムービー</a>にて公開中です。",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12371",
+        "material_title": "201105_02.jpg",
+        "material_file": "f3f5d989f5ef1894069cd40a8f0e894a2fd5ef3a4be2dc55056ed6487c4d60b612371.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12372",
+        "material_title": "201105_03.jpg",
+        "material_file": "2310565152bfe5b112731acfd0c0912da2561d9b018d09cbfeca1b0262a5e19212372.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12373",
+        "material_title": "201105_01.jpg",
+        "material_file": "acbbfa192c677997e78397be71aeff5144eee993955ccc5372f1f5cff3fbebde12373.jpeg"
+      }
+    ],
+    "previous_id": "14680",
+    "next_id": "14754",
+    "saved_materials": [
+      "assets/14853_12371_201105_02.jpg",
+      "assets/14853_12372_201105_03.jpg",
+      "assets/14853_12373_201105_01.jpg"
+    ]
+  }
+}

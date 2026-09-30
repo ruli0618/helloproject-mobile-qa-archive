@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 112,
+    "content_id": "16303",
+    "content_title": "トマト",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-07-02 19:18:00",
+    "created_at": "2021-07-02 19:18:50",
+    "updated_at": "2021-07-02 19:18:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13632",
+        "material_title": "210702_ono_s.jpg",
+        "material_file": "ea9883a286e0bf21be2644836a0863b0d0729c51932bf399b668711120ce2c3b13632.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16303",
+    "content_title": "トマト",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-07-02 19:18:00",
+    "created_at": "2021-07-02 19:18:50",
+    "updated_at": "2021-07-02 19:18:50",
+    "content_text": "210702_ono_s.jpg\r\n毎朝トマトジュース飲んでます<img src=\"/emoji/emoji-images/f38f.gif\"/>\r\n\r\n箱買いしてるので冷蔵庫の\r\n一角はトマトジュースで埋まってます<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\n美肌効果やむくみ防止になるらしい！\r\nそして何より美味しい♡\r\n\r\nみんなものんでみて<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nいつかお話しできるとき\r\nおすすめのトマトジュース\r\n教えてあげる<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nききにきてね！笑",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13632",
+        "material_title": "210702_ono_s.jpg",
+        "material_file": "38463369d504ffb7b2cca11db55dd7fff5d0bdeb6c4cbd6aa6a4fe31eb11b3d913632.jpeg"
+      }
+    ],
+    "previous_id": "16304",
+    "next_id": "16181",
+    "saved_materials": [
+      "assets/16303_13632_210702_ono_s.jpg"
+    ]
+  }
+}

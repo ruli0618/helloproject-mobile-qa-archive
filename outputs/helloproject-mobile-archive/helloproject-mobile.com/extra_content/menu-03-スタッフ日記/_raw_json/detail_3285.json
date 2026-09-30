@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 706,
+    "content_id": "3285",
+    "content_title": "Greeting～山木梨沙～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-21 21:00:00",
+    "created_at": "2015-10-21 22:51:49",
+    "updated_at": "2015-11-18 18:53:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3073",
+        "material_title": "small_IMG_7535.jpg",
+        "material_file": "050e5164efd8b474bf5c21893c19f4a01310d7447d00b7f67cb071f0032108463073.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3285",
+    "content_title": "Greeting～山木梨沙～",
+    "content_sub_title": "",
+    "release_date": "2015-10-21 21:00:00",
+    "created_at": "2015-10-21 22:51:49",
+    "updated_at": "2015-11-18 18:53:36",
+    "content_text": "みなさん、こんにちは！\n\n山木梨沙はじめてのイメージBlu-ray Disc「Greeting～山木梨沙～」のリリース決定はご存知でしょうか？\n\n先日18歳の誕生日を迎えたばかりの彼女の魅力たっぷりの内容になってます！\n制服を着ての通学シーンや、カジュアル衣装でリラックスした表情にも注目です！\n\n特技の一つでもある乗馬にチャレンジしたシーンは一見の価値有りですよ！！\n\n\nダイジェスト映像が既に公開されてます！\n<u><a href=\"https://www.youtube.com/watch?v=DKIciQ9DPqA\"><font color=\"#0000ff\">ダイジェスト映像はコチラ</font></a></u>\n\nダイジェストには入りきらない、\n才色兼備な彼女の魅力溢れるシーンはまだまだたっぷりとございますので、本編もご期待ください！！\n\n\n商品の発送は、12月中旬を予定してますので、\n1年間がんばった自分へのご褒美に！\nクリスマスプレゼントに！\n最適ですね(^^)\n\n\n受注期間は11月3日（火）までです！\nぜひお買い求めください！\n\n<u><a href=\"http://www.e-lineup.com/\"><font color=\"#0000ff\">e-LineUP!はコチラ</font></a></u>\n\nsmall_IMG_7535.jpg\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3073",
+        "material_title": "small_IMG_7535.jpg",
+        "material_file": "cf7c8a8a03504704e62d7a8f69d4102b4fec5ae0ad7c9b5c3848bef60bd46f703073.jpeg"
+      }
+    ],
+    "previous_id": "3331",
+    "next_id": "3275",
+    "saved_materials": [
+      "assets/3285_3073_small_IMG_7535.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 198,
+    "content_id": "13154",
+    "content_title": "水",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-02-25 11:00:00",
+    "created_at": "2020-02-21 12:59:19",
+    "updated_at": "2020-02-21 19:14:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11149",
+        "material_title": "0221_yamagishi_s.jpg",
+        "material_file": "185b4ac48c22ae1a112b8cbebabe2d66bde955e74814e37b7197daf356019e7511149.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13154",
+    "content_title": "水",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-02-25 11:00:00",
+    "created_at": "2020-02-21 12:59:19",
+    "updated_at": "2020-02-21 19:14:46",
+    "content_text": "こんばんは！\r\nつばきファクトリーの山岸理子です！\r\n\r\n早速新しいコーナー始まりました！\r\n「意識高い乙女の記し」です！\r\n\r\n意識高い私の○○についてお話していくコーナーです！\r\n私は最近お水を飲んでいます！\r\nお水は体に良いとよく聞くので！\r\nお水をよく飲むことで、血流を良くして体に潤いを与えてたり、老廃物が排出されたり、代謝がアップするらしいので、みなさんもぜひ～！\r\n\r\n0221_yamagishi_s.jpg",
+    "materials": [
+      {
+        "secretKey": "1110e1605584fdbd99d19058cda436d2",
+        "material_id": "11149",
+        "material_title": "0221_yamagishi_s.jpg",
+        "material_file": "b45e9561a8926a5b5306c4cefd8a5f581f5258c173ed2586a0fa3593b9a6195411149.jpeg"
+      }
+    ],
+    "previous_id": "13157",
+    "next_id": "-1",
+    "saved_materials": [
+      "assets/13154_11149_0221_yamagishi_s.jpg"
+    ]
+  }
+}

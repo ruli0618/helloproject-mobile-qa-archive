@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 698,
+    "content_id": "3457",
+    "content_title": "牧野真莉愛 ミニ写真集『Greeting-Photobook-』",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-21 15:00:00",
+    "created_at": "2015-11-20 20:22:48",
+    "updated_at": "2015-11-20 20:27:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3211",
+        "material_title": "6145_2.jpg",
+        "material_file": "8981f4e795f481b466a23635d44994847adc8e5128408f6195f600479b18e2f73211.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3457",
+    "content_title": "牧野真莉愛 ミニ写真集『Greeting-Photobook-』",
+    "content_sub_title": "",
+    "release_date": "2015-11-21 15:00:00",
+    "created_at": "2015-11-20 20:22:48",
+    "updated_at": "2015-11-20 20:27:18",
+    "content_text": "みなさん、こんにちは！\n\n11月14日に発売された\n牧野真莉愛（モーニング娘。'15）ミニ写真集『Greeting-Photobook-』は、ご覧いただけましたか？\n\nこちらは、2015年3月に発売したBlu-ray Disc「Greeting～牧野真莉愛～」のスチール写真を使用したミニ写真集です！\n\n牧野真莉愛にとっては初めての写真集！\n\nそして、ミニ写真集自体も初の発売です！\n\n\nこちらの写真集の制作風景を激写！\nたくさんある写真の中から、より良いショットを選びます。\n\n6145_2.jpg\n\n表紙にも使用された、リボンの可愛い制服姿のショットです♪\nこの写真が使用されているかどうかは、みなさんの目でお確かめください！\n\n\n今後もミニ写真集、続くかもしれません！！\n是非ご期待ください！\n",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3211",
+        "material_title": "6145_2.jpg",
+        "material_file": "7c69393c506b3155a53cc326f6c241ec04ccdb603f2d9daac3c6323458bd19f23211.jpeg"
+      }
+    ],
+    "previous_id": "3465",
+    "next_id": "3456",
+    "saved_materials": [
+      "assets/3457_3211_6145_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 352,
+    "content_id": "13340",
+    "content_title": "工藤の家の屋根裏部屋#70～稲場愛香～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-03-25 22:53:00",
+    "created_at": "2020-03-25 22:53:01",
+    "updated_at": "2020-03-25 22:54:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11333",
+        "material_title": "20200317_05_s.jpg",
+        "material_file": "5af128adc46eef8ae889bdfa842b21ca06fa9cfc8ef0d39110b13c78bd8687eb11333.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11334",
+        "material_title": "20200317_01_s.jpg",
+        "material_file": "18fc354dff3567e39cbdf57eaa360c42c865895b621be8dea2ed69abe404c24011334.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11335",
+        "material_title": "20200317_03_s.jpg",
+        "material_file": "414a04b505562ba660b29b104240684a5019b1fb7664ddcdb197cd998a615d4611335.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11336",
+        "material_title": "20200317_02_s.jpg",
+        "material_file": "de334160e322ff161e5c1746384e34903946bd0e16fa3ee18c9749d5e4482a2111336.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11337",
+        "material_title": "20200317_04_s.jpg",
+        "material_file": "ba27c5910adc60e058a5620b18b88dd9146b5fd2f31191f81ca56b00238f231b11337.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13340",
+    "content_title": "工藤の家の屋根裏部屋#70～稲場愛香～",
+    "content_sub_title": "",
+    "release_date": "2020-03-25 22:53:00",
+    "created_at": "2020-03-25 22:53:01",
+    "updated_at": "2020-03-25 22:54:34",
+    "content_text": "ふくむらの部屋 第70回配信中♪\n\nJuice=Juice稲場愛香さんが初出演！\n\n20200317_01_s.jpg\n\nお二人のソースライフに関する話題から、\nトレーニングと食事アドバイス、\nホワイトデーのお返しに関して等など…\n\n季節柄の静電気やメイクのお話もして頂きました！\n\n20200317_02_s.jpg\n\nハロプロ講座では、\n共通点の恋ピンクから始まり\nハロプロ北海道研修生やダンスについて、\nFSKのお話ではまさかの恐怖体験！？も！\n\n20200317_03_s.jpg\n\n「みんなに伝えたいハロプロ名場面」のコーナーでは、主に稲場愛香さんに関する名場面を沢山紹介！\n小関舞さんの名場面もありましたね。\n\n20200317_04_s.jpg\n\nコラボ企画では、こちら↓の質問に回答！\n\n20200317_05_s.jpg\n\n次回は、3/31(火)の配信♪\nゲストはつばきファクトリーの山岸理子さんです！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11333",
+        "material_title": "20200317_05_s.jpg",
+        "material_file": "94fd45054c33239f63788ab9595e046275c7bcdbd8fd4dab87ea34b1e0e73d1311333.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11334",
+        "material_title": "20200317_01_s.jpg",
+        "material_file": "855e4bee4495051db4f050a3bacb3499fa7e82243cdb6a3b0591d7d21cc81c9c11334.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11335",
+        "material_title": "20200317_03_s.jpg",
+        "material_file": "39c44b5465b54a8758764225451fa66e9615a96cdb766b81c4ef05f2f985c54411335.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11336",
+        "material_title": "20200317_02_s.jpg",
+        "material_file": "6b3fed18a31e6ca682abf0d01dd9055085b5a8d99fd0d9161fc026b9fd66082711336.jpeg"
+      },
+      {
+        "secretKey": "2343280f0063f55f1466505cb0625e14",
+        "material_id": "11337",
+        "material_title": "20200317_04_s.jpg",
+        "material_file": "0cc1958dcdb8d2ab01ff551eca82ea9d5e9bb7e876467b24210398273ba4c95a11337.jpeg"
+      }
+    ],
+    "previous_id": "13287",
+    "next_id": "13623",
+    "saved_materials": [
+      "assets/13340_11333_20200317_05_s.jpg",
+      "assets/13340_11334_20200317_01_s.jpg",
+      "assets/13340_11335_20200317_03_s.jpg",
+      "assets/13340_11336_20200317_02_s.jpg",
+      "assets/13340_11337_20200317_04_s.jpg"
+    ]
+  }
+}

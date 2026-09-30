@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 454,
+    "content_id": "16241",
+    "content_title": "夏色",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2021-07-06 10:00:00",
+    "created_at": "2021-06-22 15:50:07",
+    "updated_at": "2021-06-22 15:50:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13571",
+        "material_title": "210706_dambara_s.jpg",
+        "material_file": "c0a9b61946189861e85c6ac6e11cb21c97ef257a730a788b59cad4bb59a2978413571.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16241",
+    "content_title": "夏色",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2021-07-06 10:00:00",
+    "created_at": "2021-06-22 15:50:07",
+    "updated_at": "2021-06-22 15:50:07",
+    "content_text": "210706_dambara_s.jpg\r\n最近、青とか水色とか好きです<img src=\"/emoji/emoji-images/f37a.gif\"/>\r\n爽やかで夏っぽい〜",
+    "materials": [
+      {
+        "secretKey": "ef280e548a1849486df7990d214b1ec1",
+        "material_id": "13571",
+        "material_title": "210706_dambara_s.jpg",
+        "material_file": "277067012edf4397a0a3260ac7fe7b10f3c00af763c34df1bcd6eb2a621def5813571.jpeg"
+      }
+    ],
+    "previous_id": "16298",
+    "next_id": "16227",
+    "saved_materials": [
+      "assets/16241_13571_210706_dambara_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 73,
+    "content_id": "17595",
+    "content_title": "りんごパイを作ったよ",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2022-02-01 11:42:00",
+    "created_at": "2022-02-01 11:42:34",
+    "updated_at": "2022-02-01 11:42:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14666",
+        "material_title": "0201_kasai_s.jpg",
+        "material_file": "63522bb77cfc6244d9c7fb47fdb186094f4cfd0478f0804eaeb0d4cf44ee757714666.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17595",
+    "content_title": "りんごパイを作ったよ",
+    "content_sub_title": "河西結心",
+    "release_date": "2022-02-01 11:42:00",
+    "created_at": "2022-02-01 11:42:34",
+    "updated_at": "2022-02-01 11:42:34",
+    "content_text": "0201_kasai_s.jpg\r\nこの前おばあちゃんとお家で\r\nアップルパイを作ったんです！\r\n\r\n久しぶりにアップルパイを作りました！\r\n一緒に作れて嬉しかったです<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nおばあちゃんと美味しく\r\nアップルパイを食べました！\r\n\r\n二人ともフルーツが大好きだから\r\n今度はまた別のフルーツの\r\nお菓子作りたいです！",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14666",
+        "material_title": "0201_kasai_s.jpg",
+        "material_file": "0595eca4cc8b3723035f251752043fc49de963165fb7d99d959b9b62c2e6ebf314666.jpeg"
+      }
+    ],
+    "previous_id": "17653",
+    "next_id": "17555",
+    "saved_materials": [
+      "assets/17595_14666_0201_kasai_s.jpg"
+    ]
+  }
+}

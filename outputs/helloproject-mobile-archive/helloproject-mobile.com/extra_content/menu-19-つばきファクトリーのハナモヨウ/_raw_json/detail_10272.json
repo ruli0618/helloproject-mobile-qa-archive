@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 78,
+    "content_id": "10272",
+    "content_title": "珍しい！！",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-11-13 13:22:00",
+    "created_at": "2018-11-13 13:22:37",
+    "updated_at": "2018-11-13 13:22:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8903",
+        "material_title": "1113_yamagishi_s.jpg",
+        "material_file": "74bb912c1a2470e1d35d3522ed3636985575fc701f849ac073c00a54c5b70c438903.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10272",
+    "content_title": "珍しい！！",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-11-13 13:22:00",
+    "created_at": "2018-11-13 13:22:37",
+    "updated_at": "2018-11-13 13:22:37",
+    "content_text": "つばきファクトリーの山岸理子です！\r\n最近どんどん寒くなってきましたね！\r\nお散歩してたら、\r\n見たこともないお花が咲いてました！\r\n\r\n1113_yamagishi_s.jpg\r\nちょっとラズベリーに似てるね！\r\n可愛いね！！\r\nでは、また(^_^)/~~\r\nお花みつける旅に出よう～♪",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8903",
+        "material_title": "1113_yamagishi_s.jpg",
+        "material_file": "c42692e7c8baae6c03f1551c3982568b9082cae9ba7d2733db356c87af08cdef8903.jpeg"
+      }
+    ],
+    "previous_id": "10316",
+    "next_id": "10266",
+    "saved_materials": [
+      "assets/10272_8903_1113_yamagishi_s.jpg"
+    ]
+  }
+}

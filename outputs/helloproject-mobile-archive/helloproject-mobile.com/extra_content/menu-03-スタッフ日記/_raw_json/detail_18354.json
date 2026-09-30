@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 216,
+    "content_id": "18354",
+    "content_title": "工藤の家の屋根裏部屋#107～松本わかな～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-06-17 20:46:00",
+    "created_at": "2022-06-17 22:00:08",
+    "updated_at": "2022-06-17 22:03:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15281",
+        "material_title": "220601_s.jpg",
+        "material_file": "2709a89f8438231de2ab55d1f45c2c4034792e1a28effc72c6f1ae56d0be33ae15281.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18354",
+    "content_title": "工藤の家の屋根裏部屋#107～松本わかな～",
+    "content_sub_title": "",
+    "release_date": "2022-06-17 20:46:00",
+    "created_at": "2022-06-17 22:00:08",
+    "updated_at": "2022-06-17 22:03:20",
+    "content_text": "ふくむらの部屋 第107回は、初出演！\r\nアンジュルム松本わかなさんが来てくれました！\r\n\r\n外部イベントで驚いたこと、\r\nお二人の手作り料理事情についてトーク！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n譜久村聖さんを筆頭に名前がすべて漢字一文字のメンバー、\r\n松本わかなさんを筆頭に名前がすべてひらがなのメンバー、\r\nの書き出しクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・同期について\r\n・ファン時代のお話\r\nに関して教えていただきました。\r\n\r\n後半では、松本さんが大好きな食パンを語ってくれました！\r\nいろんな種類のオススメ食パンが紹介されましたので、ぜひチェックしてみてくださいね♫\r\n\r\n220601_s.jpg\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15281",
+        "material_title": "220601_s.jpg",
+        "material_file": "ec2602788334acf0d885d8a9fb65b5c7c7cf5e48288bc86a0c1969d5dfa5c62e15281.jpeg"
+      }
+    ],
+    "previous_id": "18355",
+    "next_id": "23359",
+    "saved_materials": [
+      "assets/18354_15281_220601_s.jpg"
+    ]
+  }
+}

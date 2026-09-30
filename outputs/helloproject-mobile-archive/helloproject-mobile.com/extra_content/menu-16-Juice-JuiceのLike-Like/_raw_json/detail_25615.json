@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 35,
+    "content_id": "25615",
+    "content_title": "絵馬",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2026-01-27 10:00:00",
+    "created_at": "2026-01-20 16:45:43",
+    "updated_at": "2026-01-20 16:45:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20939",
+        "material_title": "0127_matsunaga_s.jpg",
+        "material_file": "8a9a051815ccf6379316bc32fa51aa9347af67e23b27ea600c81a60dde6cf4dd20939.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25615",
+    "content_title": "絵馬",
+    "content_sub_title": "松永里愛",
+    "release_date": "2026-01-27 10:00:00",
+    "created_at": "2026-01-20 16:45:43",
+    "updated_at": "2026-01-20 16:45:43",
+    "content_text": "0127_matsunaga_s.jpg\r\n年明けたね！\r\n今年はいろーんなことに挑戦したいんだ〜〜\r\n絵馬にも書いてはっぴー☆",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20939",
+        "material_title": "0127_matsunaga_s.jpg",
+        "material_file": "1a02002adf1a4455cfe90da397c8d3fe5650e93d4024130f1e4a924a2ab26e7220939.jpeg"
+      }
+    ],
+    "previous_id": "25616",
+    "next_id": "25614",
+    "saved_materials": [
+      "assets/25615_20939_0127_matsunaga_s.jpg"
+    ]
+  }
+}

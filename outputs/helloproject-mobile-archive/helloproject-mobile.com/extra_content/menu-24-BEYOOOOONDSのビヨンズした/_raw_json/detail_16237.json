@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 377,
+    "content_id": "16237",
+    "content_title": "ひょっこりくるみん",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2021-07-28 10:00:00",
+    "created_at": "2021-06-21 17:26:13",
+    "updated_at": "2022-01-17 14:46:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13567",
+        "material_title": "210728_kobayashi_s.jpg",
+        "material_file": "cc03819025dbe4be24ae333233ce803909a03fd21d3bdda2ed2ebfdd7e95929713567.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16237",
+    "content_title": "ひょっこりくるみん",
+    "content_sub_title": "小林萌花",
+    "release_date": "2021-07-28 10:00:00",
+    "created_at": "2021-06-21 17:26:13",
+    "updated_at": "2022-01-17 14:46:03",
+    "content_text": "210728_kobayashi_s.jpg\n自撮りをしているときに、高瀬くるみちゃんが後ろからひょっこり顔を出してくれました！可愛い！！！\n\n【12周目お題：かわいい】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13567",
+        "material_title": "210728_kobayashi_s.jpg",
+        "material_file": "616d3bebd273bc2505152a168ad46acfa1a94e4f49344e746ad9df4bd0ec904913567.jpeg"
+      }
+    ],
+    "previous_id": "16239",
+    "next_id": "16236",
+    "saved_materials": [
+      "assets/16237_13567_210728_kobayashi_s.jpg"
+    ]
+  }
+}

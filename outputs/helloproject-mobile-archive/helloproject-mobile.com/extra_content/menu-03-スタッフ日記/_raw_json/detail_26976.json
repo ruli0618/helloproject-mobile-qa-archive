@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 68,
+    "content_id": "26976",
+    "content_title": "工藤の家の軒下#27～川名凜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-12-17 00:00:00",
+    "created_at": "2026-09-28 22:53:01",
+    "updated_at": "2026-09-28 22:53:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22063",
+        "material_title": "241218_027.jpg",
+        "material_file": "dec9260b20764eaf8abad3a2e5b19da234c4ae502a825616f78c22afd4121b1d22063.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26976",
+    "content_title": "工藤の家の軒下#27～川名凜～",
+    "content_sub_title": "",
+    "release_date": "2024-12-17 00:00:00",
+    "created_at": "2026-09-28 22:53:01",
+    "updated_at": "2026-09-28 22:53:01",
+    "content_text": "241218_027.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第27回はゲストは、川名凜！\r\n\r\n・卒業ライブのメドレー\r\n・伊勢旅\r\n・THE FIRST TAKEで歌ってみたい曲\r\n・ハロプロ好きの家族\r\n・カエル\r\n・クリスマスソング\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・川村文乃卒業公演\r\n・店内で曲がかかったこと\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・好きな動物の傾向\r\n・一人称\r\n・ケロへ改名\r\n・リープフロッグ現象\r\n・イントロクイズ\r\n・バースデーイベント\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22063",
+        "material_title": "241218_027.jpg",
+        "material_file": "061d7dd92619a0cf6567ec68836744ea99e232a853320fccc1fabe6329b6cc0122063.jpeg"
+      }
+    ],
+    "previous_id": "26948",
+    "next_id": "26975",
+    "saved_materials": [
+      "assets/26976_22063_241218_027.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 10,
+    "content_id": "27015",
+    "content_title": "工藤の家の軒下#66～西村乙輝～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-06-30 00:00:00",
+    "created_at": "2026-09-28 23:52:40",
+    "updated_at": "2026-09-28 23:54:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22087",
+        "material_title": "260702_066_02.jpg",
+        "material_file": "85e765e46746c25e4913f565da3628639a9ccfdd24951a6fd993ef7499c51e4e22087.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22088",
+        "material_title": "260702_066.jpg",
+        "material_file": "08f00735e6f490db39e94a11d69a9122893a7928f5bca1284c67c665786dc1a622088.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27015",
+    "content_title": "工藤の家の軒下#66～西村乙輝～",
+    "content_sub_title": "",
+    "release_date": "2026-06-30 00:00:00",
+    "created_at": "2026-09-28 23:52:40",
+    "updated_at": "2026-09-28 23:54:05",
+    "content_text": "260702_066_02.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第66回はゲストは、西村乙輝！\r\n\r\n・「また、あなたに恋焦がれているんだ」MV撮影\r\n・「また、あなたに恋焦がれているんだ」パフォーマンス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・ハロプロ楽曲歌うコツ\r\n・休み時間の過ごし方\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・新メンバー加入発表\r\n・BEYOOOOONDS横浜アリーナ公演感想\r\n・春ツアー\r\n・灼熱ライブ\r\nについてトーク！\r\n\r\n260702_066.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22087",
+        "material_title": "260702_066_02.jpg",
+        "material_file": "9db82c295d66f6271f4c15561b629ace3fdaa48045e596199d532ff40c79c4dc22087.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22088",
+        "material_title": "260702_066.jpg",
+        "material_file": "d10d47fb98a610884f12f2669564ff791ceddc1745079b032f31d5eba89279df22088.jpeg"
+      }
+    ],
+    "previous_id": "27016",
+    "next_id": "26966",
+    "saved_materials": [
+      "assets/27015_22087_260702_066_02.jpg",
+      "assets/27015_22088_260702_066.jpg"
+    ]
+  }
+}

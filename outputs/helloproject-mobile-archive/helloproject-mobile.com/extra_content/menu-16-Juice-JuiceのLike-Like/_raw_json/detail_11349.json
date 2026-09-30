@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 622,
+    "content_id": "11349",
+    "content_title": "美味しかった～",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-05-20 10:00:00",
+    "created_at": "2019-05-10 11:31:03",
+    "updated_at": "2019-05-10 11:31:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9725",
+        "material_title": "0520_miyamoto_s.jpg",
+        "material_file": "18bcf3de67b5635f0c85e3d8f89dcfe271276c96be14cddf71226438e04e8c9c9725.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11349",
+    "content_title": "美味しかった～",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-05-20 10:00:00",
+    "created_at": "2019-05-10 11:31:03",
+    "updated_at": "2019-05-10 11:31:03",
+    "content_text": "0520_miyamoto_s.jpg\r\nタルト<img src=\"/emoji/emoji-images/f7b2.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9725",
+        "material_title": "0520_miyamoto_s.jpg",
+        "material_file": "0866150aa0b854e43016a6d12a61ac8c43ebbd7a50227ecb8076ddf21f2c34529725.jpeg"
+      }
+    ],
+    "previous_id": "11388",
+    "next_id": "11338",
+    "saved_materials": [
+      "assets/11349_9725_0520_miyamoto_s.jpg"
+    ]
+  }
+}

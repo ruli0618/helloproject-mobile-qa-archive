@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 195,
+    "content_id": "21720",
+    "content_title": "植村さんの！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-02-08 12:54:00",
+    "created_at": "2024-02-08 12:54:37",
+    "updated_at": "2024-02-08 12:54:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17835",
+        "material_title": "0208-ishiyama-s.jpg",
+        "material_file": "a0e4fccbd50c26d4d0f15d5dc83da905e03a40a1f1ac031523feece493e4821a17835.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21720",
+    "content_title": "植村さんの！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-02-08 12:54:00",
+    "created_at": "2024-02-08 12:54:37",
+    "updated_at": "2024-02-08 12:54:37",
+    "content_text": "0208-ishiyama-s.jpg\r\n植村さんのバースデーイベントを見学させていただきました！\r\nすごく楽しかったです！",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17835",
+        "material_title": "0208-ishiyama-s.jpg",
+        "material_file": "90636e2dfdc3be19abf2746214c00bf7dc345355646b02760a4f4ce53910b6ff17835.jpeg"
+      }
+    ],
+    "previous_id": "21724",
+    "next_id": "21646",
+    "saved_materials": [
+      "assets/21720_17835_0208-ishiyama-s.jpg"
+    ]
+  }
+}

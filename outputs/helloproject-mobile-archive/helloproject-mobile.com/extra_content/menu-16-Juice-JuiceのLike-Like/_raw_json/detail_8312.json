@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 754,
+    "content_id": "8312",
+    "content_title": "フォルタレザのトカゲ／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-01-10 11:00:00",
+    "created_at": "2018-01-01 06:33:09",
+    "updated_at": "2018-01-01 06:43:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7299",
+        "material_title": "0110_miyamoto_s.jpg",
+        "material_file": "ed02c1bfdebc4144f169f8c3fab546c18543975381327a852e291c0f295204627299.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8312",
+    "content_title": "フォルタレザのトカゲ／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2018-01-10 11:00:00",
+    "created_at": "2018-01-01 06:33:09",
+    "updated_at": "2018-01-01 06:43:46",
+    "content_text": "0110_miyamoto_s.jpg\r\n見えるかな？",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7299",
+        "material_title": "0110_miyamoto_s.jpg",
+        "material_file": "41b2859f74afdf81da8573f60f651ecdcc0b27a7a29f5ede354e72b1c0121b4e7299.jpeg"
+      }
+    ],
+    "previous_id": "8341",
+    "next_id": "8311",
+    "saved_materials": [
+      "assets/8312_7299_0110_miyamoto_s.jpg"
+    ]
+  }
+}

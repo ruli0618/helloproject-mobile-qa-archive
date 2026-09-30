@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 10,
+    "content_id": "8741",
+    "content_title": "鬼退治",
+    "content_sub_title": "",
+    "category_id": "80",
+    "release_date": "2018-03-06 20:34:00",
+    "created_at": "2018-03-06 20:35:02",
+    "updated_at": "2018-03-06 20:35:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": 0,
+    "content_id": "8741",
+    "content_title": "鬼退治",
+    "content_sub_title": "",
+    "release_date": "2018-03-06 20:34:00",
+    "created_at": "2018-03-06 20:35:02",
+    "updated_at": "2018-03-06 20:35:02",
+    "content_text": "芋子さんから聞かされた、\r\n衝撃の事実とは…。\r\n\r\n最近この街に怖い鬼が出現しているということ！\r\n\r\nその鬼をみんなで協力して退治するために、私やぶたこさんが集められたらしい。\r\n\r\nそして鬼退治の旅がはじまるのであったー…。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8821",
+    "next_id": "8520",
+    "saved_materials": []
+  }
+}

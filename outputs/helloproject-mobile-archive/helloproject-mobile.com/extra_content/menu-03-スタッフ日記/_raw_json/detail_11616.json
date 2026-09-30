@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 411,
+    "content_id": "11616",
+    "content_title": "リスナー選曲プレイリスト",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-06-20 11:00:00",
+    "created_at": "2019-06-19 22:28:00",
+    "updated_at": "2019-06-19 22:30:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11616",
+    "content_title": "リスナー選曲プレイリスト",
+    "content_sub_title": "",
+    "release_date": "2019-06-20 11:00:00",
+    "created_at": "2019-06-19 22:28:00",
+    "updated_at": "2019-06-19 22:30:04",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>にて先日公開になりました、ふくむらの部屋リスナーセレクション「モーニング娘。の好きな楽曲ベスト12」プレイリストは、もうチェックしてくれましたか？\n\n実はこれ、「ふくむらの部屋 第47回」番組内で募集した「ハロプロなんでもベスト3」コーナーのお題「モーニング娘。の好きな楽曲ベスト3」に寄せられたメールから、順位ごとポイント化して出された上位12曲なんです！\n\n※番組では読まれていないお便りも含めて、送って頂いた全てのメールから集計しています。\n\nここでは、その順位を大発表！\n\nふくむらの部屋リスナーセレクション\n「モーニング娘。の好きな楽曲ベスト12」\n<b><span style=\"color:#C3A600;\">第1位</span> Happy 大作戦</b>\n<b><span style=\"color:#C3A600;\">第1位</span> Only you</b>\n<b><span style=\"color:#797F7C;\">第3位</span> I WISH</b>\n<b><span style=\"color:#797F7C;\">第3位</span> 時を超え 宇宙を超え</b>\n<b><span style=\"color:#797F7C;\">第3位</span> 大好き100万点</b>\n<b><span style=\"color:#C75A2A;\">第6位</span> まじですかスカ！</b>\n<b><span style=\"color:#C75A2A;\">第6位</span> みかん</b>\n<b><span style=\"color:#378E8F;\">第8位</span> One･Two・Three</b>\n<b><span style=\"color:#378E8F;\">第8位</span> リゾナントブルー</b>\n<b><span style=\"color:#378E8F;\">第8位</span> 元気+</b>\n<b><span style=\"color:#378E8F;\">第8位</span> 青空がいつまでも続くような未来であれ！</b>\n<b><span style=\"color:#378E8F;\">第8位</span> 恋してみたくて</b>\n\n※同じ順位のものは、同率になります。\n\nどれも人気曲ばかりですね。\n意外な曲はありましたか？\n\nこのプレイリストは、<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>で配信中！\nぜひお聴き下さいね♪",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "11668",
+    "next_id": "11615",
+    "saved_materials": []
+  }
+}

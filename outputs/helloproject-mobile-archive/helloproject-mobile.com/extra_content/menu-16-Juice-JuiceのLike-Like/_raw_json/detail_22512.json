@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 156,
+    "content_id": "22512",
+    "content_title": "ぼさぼさ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2024-07-04 13:17:00",
+    "created_at": "2024-07-04 13:17:11",
+    "updated_at": "2024-07-04 13:17:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18464",
+        "material_title": "0704_ebata_s.jpg",
+        "material_file": "58413ffa0bfed5476970ee73f253b368761ad40c0734382b9a8d110eec56653018464.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22512",
+    "content_title": "ぼさぼさ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2024-07-04 13:17:00",
+    "created_at": "2024-07-04 13:17:11",
+    "updated_at": "2024-07-04 13:17:11",
+    "content_text": "0704_ebata_s.jpg\r\nえばです\r\n\r\nみふちゃんとアイス食べた時の₍ᐢ‥ᐢ₎ ♡\r\n\r\nみふちゃん1人でこのサイズ食べてて、しかも私より先に食べ終わっててびっくりしました！笑笑",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18464",
+        "material_title": "0704_ebata_s.jpg",
+        "material_file": "0aa179641d554fae6e491d81f1946c46bac000b153cd544a22c72a402533794b18464.jpeg"
+      }
+    ],
+    "previous_id": "22532",
+    "next_id": "22439",
+    "saved_materials": [
+      "assets/22512_18464_0704_ebata_s.jpg"
+    ]
+  }
+}

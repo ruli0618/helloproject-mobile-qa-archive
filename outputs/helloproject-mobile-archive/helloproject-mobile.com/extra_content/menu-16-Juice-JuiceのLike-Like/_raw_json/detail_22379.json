@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 162,
+    "content_id": "22379",
+    "content_title": "明日はSmile",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2024-06-13 19:00:00",
+    "created_at": "2024-06-12 00:11:58",
+    "updated_at": "2024-06-12 11:39:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18354",
+        "material_title": "0613_uemura_s.jpg",
+        "material_file": "8dd139be0dba235240ab81d7a4a4d59e7b377b3b73551a7f2ab57a714260287818354.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22379",
+    "content_title": "明日はSmile",
+    "content_sub_title": "植村あかり",
+    "release_date": "2024-06-13 19:00:00",
+    "created_at": "2024-06-12 00:11:58",
+    "updated_at": "2024-06-12 11:39:25",
+    "content_text": "0613_uemura_s.jpg\r\n\r\n今日寝たら、ついに日本武道館公演ですね。。\r\n\r\n見送られる側の卒業公演は初めてだああ\r\n\r\n一瞬で終わってしまうので、ライブを楽しみ尽くすぞーー\r\n\r\n1=LINEが完成するのが楽しみです♡\r\n\r\nそれでは、おやすみなさい\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18354",
+        "material_title": "0613_uemura_s.jpg",
+        "material_file": "0cc5cb691d38e6cea43a6ea50ac4a0337867373bbf9dba1652c4ce0d5183fe0918354.jpeg"
+      }
+    ],
+    "previous_id": "22390",
+    "next_id": "22365",
+    "saved_materials": [
+      "assets/22379_18354_0613_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 30,
+    "content_id": "26960",
+    "content_title": "宣伝会議#117",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-12-18 00:00:00",
+    "created_at": "2026-09-28 15:37:01",
+    "updated_at": "2026-09-28 15:37:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22035",
+        "material_title": "117.jpg",
+        "material_file": "1c78155e0d42167bae6306cf4b6f4a92038817cd01e5fea8943195c343a1081522035.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22036",
+        "material_title": "117_01.jpg",
+        "material_file": "6ad1dcda4421a834b06afbd0bb2e3845132d852c1589f5990e6909acf3d8db2322036.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26960",
+    "content_title": "宣伝会議#117",
+    "content_sub_title": "",
+    "release_date": "2025-12-18 00:00:00",
+    "created_at": "2026-09-28 15:37:01",
+    "updated_at": "2026-09-28 15:37:01",
+    "content_text": "117_01.jpg\r\n\r\n宣伝会議第117回は、前田こころ副部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・THE FIRST TAKE\r\n・BEYOOOOOPERETTA\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「時間とお金、どちらが大切？」についてディベート！\r\n\r\n後編では、\r\n・日本武道館公演\r\n・生演奏でのパフォーマンス\r\n・フェス出演\r\n・今年の個人的重大ニュース\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「相馬優芽」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n117.jpg",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22035",
+        "material_title": "117.jpg",
+        "material_file": "da76f5e66f3487a79ee510fc0d39366decc38062c71d7646cb2acddd4fff3e1822035.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22036",
+        "material_title": "117_01.jpg",
+        "material_file": "8c7167ce8cc9994285c107fd87d7502ea3f1d24790326ed8b424cc5ead1fab2822036.jpeg"
+      }
+    ],
+    "previous_id": "27002",
+    "next_id": "27001",
+    "saved_materials": [
+      "assets/26960_22035_117.jpg",
+      "assets/26960_22036_117_01.jpg"
+    ]
+  }
+}

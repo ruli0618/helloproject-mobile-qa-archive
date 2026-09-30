@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 285,
+    "content_id": "19778",
+    "content_title": "日本武道館公演",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-03-09 10:00:00",
+    "created_at": "2023-03-07 08:38:46",
+    "updated_at": "2023-03-07 08:38:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16403",
+        "material_title": "0309_irie_s.jpg",
+        "material_file": "96e18d035c8733b0b7620f91fae073eea51f7741671e64b3fa61c00053b3811d16403.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19778",
+    "content_title": "日本武道館公演",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-03-09 10:00:00",
+    "created_at": "2023-03-07 08:38:46",
+    "updated_at": "2023-03-07 08:38:46",
+    "content_text": "Juice=Juice CONCERT TOUR ～final: nouvelle vague～\r\n\r\n無事にメンバー全員で秋ツアーの千穐楽を迎えることができました！\r\n\r\n本当に幸せいっぱいの空間で、ずーっと口角が上がりっぱなしだった気がします（≧∇≦）\r\n\r\nたくさんの方が観に来てくださって嬉しかったなぁ\r\n\r\n\r\n0309_irie_s.jpg\r\n\r\n\r\n\r\nJuice=Juice最高〜！！",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16403",
+        "material_title": "0309_irie_s.jpg",
+        "material_file": "947c1dc339ab50b2661b8c55553887829ac61e1a3d90d4257dd33f86e39bb85a16403.jpeg"
+      }
+    ],
+    "previous_id": "19779",
+    "next_id": "19763",
+    "saved_materials": [
+      "assets/19778_16403_0309_irie_s.jpg"
+    ]
+  }
+}

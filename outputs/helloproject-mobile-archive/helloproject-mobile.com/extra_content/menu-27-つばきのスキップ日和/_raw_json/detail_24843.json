@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 67,
+    "content_id": "24843",
+    "content_title": "素敵なお衣装",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2025-08-22 18:55:00",
+    "created_at": "2025-08-22 18:55:41",
+    "updated_at": "2025-08-22 18:55:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20315",
+        "material_title": "0822_fukuda_s.jpg",
+        "material_file": "5e3adc7be54e13cc4e96cbafea5f436f5522819a1ac32c23d6d2a0551bf30b2320315.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24843",
+    "content_title": "素敵なお衣装",
+    "content_sub_title": "福田真琳",
+    "release_date": "2025-08-22 18:55:00",
+    "created_at": "2025-08-22 18:55:41",
+    "updated_at": "2025-08-22 18:55:41",
+    "content_text": "0822_fukuda_s.jpg\r\nやっほーワラビー！\r\nまりんです！！\r\n\r\n最近撮影でバレエっぽいお衣装を着れました〜！\r\n\r\nとっても可愛くてめちゃテンション上がりました〜！\r\n\r\nかまあげあげー！\r\n\r\n\r\nとくに首元の薔薇がお気に入りでした<img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n\r\nまたこういうお衣装着れたらいいなぁ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20315",
+        "material_title": "0822_fukuda_s.jpg",
+        "material_file": "48a33544e135bf9cc62a1a9c503d2d507c55f767b1113d604583757117f1b7d720315.jpeg"
+      }
+    ],
+    "previous_id": "24949",
+    "next_id": "24784",
+    "saved_materials": [
+      "assets/24843_20315_0822_fukuda_s.jpg"
+    ]
+  }
+}

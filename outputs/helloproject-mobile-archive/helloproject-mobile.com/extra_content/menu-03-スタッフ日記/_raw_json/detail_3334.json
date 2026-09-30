@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 704,
+    "content_id": "3334",
+    "content_title": "℃an't STOP!!",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-29 18:00:00",
+    "created_at": "2015-10-29 18:06:26",
+    "updated_at": "2015-10-29 18:54:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3112",
+        "material_title": "S__14671879.jpg",
+        "material_file": "0c6571d9c491b39fbb76cabafb40f0d815c31a0e7ef63dba554baf4e7a6562213112.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3113",
+        "material_title": "S__14671878.jpg",
+        "material_file": "ecf23e7e061bca690e42d62c57be256e8c674839330ec24fbeebf9107d30669b3113.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3114",
+        "material_title": "image4.jpg",
+        "material_file": "a0d388f54ac60d9300324a44d9692f97112c9f13ac9d5b22ccc45f9af8a2007f3114.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3334",
+    "content_title": "℃an't STOP!!",
+    "content_sub_title": "",
+    "release_date": "2015-10-29 18:00:00",
+    "created_at": "2015-10-29 18:06:26",
+    "updated_at": "2015-10-29 18:54:01",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n\n「℃-uteコンサートツアー2015秋 ～℃an't STOP!!～」が、\n10月17日のハーモニーホール座間より、開幕しました！\n\n待ちに待った秋ツアー！\nその名の通り、℃an't STOP!!なLIVEとなっておりますので、皆さま是非お越しください！！\n\nそして、\n先日行われた、埼玉県の川口公演でのオフショットが届きましたので、掲載しちゃいます！！\n\nS__14671878.jpg\n\nS__14671879.jpg\n\n\nさらに、10月28日（昨日！）に℃-ute 28thシングル「ありがとう～無限のエール～／嵐を起こすんだ Exciting Fight！」も発売されました！\n\nコンサートでももちろん披露している、この2曲ですが\n共に、日本レスリング協会公認の選手団讃歌と応援ソングになっています！\n\n渋谷の駅前には、大きな看板も設置されております！\n渋谷にお越しの際は、頭上にご注目ください！！\n\nimage4.jpg\nこちらの画像はスタッフが見つけて慌てて撮影した為、少々見づらくなってしまったので、皆さんの目で、きれいな現物をしっかりとご確認くださいね♪\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3112",
+        "material_title": "S__14671879.jpg",
+        "material_file": "dd0ee5a389a9a2e8e0472268214abefee886887d75350545387abb77b34437ca3112.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3113",
+        "material_title": "S__14671878.jpg",
+        "material_file": "c3cec0bf18e05b711adbdc94dcea6a087a21cf7b7f102c3ae176dd87c197efb93113.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3114",
+        "material_title": "image4.jpg",
+        "material_file": "6d1f56deeadcfb74426a0266f69bf429c345bae5e6b03d5718e2a9d189b8c7d23114.jpeg"
+      }
+    ],
+    "previous_id": "3401",
+    "next_id": "3331",
+    "saved_materials": [
+      "assets/3334_3112_S__14671879.jpg",
+      "assets/3334_3113_S__14671878.jpg",
+      "assets/3334_3114_image4.jpg"
+    ]
+  }
+}

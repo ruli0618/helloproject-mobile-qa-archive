@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 691,
+    "content_id": "3660",
+    "content_title": "スタッフ会議",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-12-22 16:45:00",
+    "created_at": "2015-12-22 16:44:43",
+    "updated_at": "2015-12-22 16:45:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3660",
+    "content_title": "スタッフ会議",
+    "content_sub_title": "",
+    "release_date": "2015-12-22 16:45:00",
+    "created_at": "2015-12-22 16:44:43",
+    "updated_at": "2015-12-22 16:45:12",
+    "content_text": "こんにちは。\r\nハロ！モバスタッフ番号4番♂です。\r\n\r\n今日はハロ！モバのスタッフ会議がありました。\r\n来年に向けて新企画のアイデア出しです。\r\n僕が提出した企画は・・・\r\n\r\n・こぶしvsつばき　早咲き勝負\r\n・やなふなのシクヨロパイセン\r\n・嗣永桃子の嗣永憲法改正案\r\n・岡井千聖の℃-uteじゃない写真館\r\n・竹内朱莉の全国ご当地おでん紹介\r\n・金澤朋子のローズクォーツを探せ！\r\n・光井愛佳の夜の英会話\r\n\r\n\r\n一つも採用されませんでした・・・\r\n次は頑張ります！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3661",
+    "next_id": "3580",
+    "saved_materials": []
+  }
+}

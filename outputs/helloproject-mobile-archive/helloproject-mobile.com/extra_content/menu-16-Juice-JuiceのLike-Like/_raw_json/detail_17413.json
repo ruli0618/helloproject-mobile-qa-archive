@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 407,
+    "content_id": "17413",
+    "content_title": "みかん剥くの得意ですか？",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-01-04 10:00:00",
+    "created_at": "2021-12-31 19:12:28",
+    "updated_at": "2021-12-31 19:12:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14524",
+        "material_title": "220104_arisawa_s.jpg",
+        "material_file": "c4f63ef2b23df26b828d61de362a1a4277b5881f4c1ab3fc120c08e49bded8be14524.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17413",
+    "content_title": "みかん剥くの得意ですか？",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-01-04 10:00:00",
+    "created_at": "2021-12-31 19:12:28",
+    "updated_at": "2021-12-31 19:12:28",
+    "content_text": "220104_arisawa_s.jpg\r\n最近、朝におっきいみかんを食べることにハマっています！\r\n私はみかんの皮を剥くのが上手ではありません。いつも散乱させてしまいます。。\r\n江端妃咲ちゃんは、上手にみかんを食べるので羨ましいです笑笑\r\n\r\n有澤一華",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14524",
+        "material_title": "220104_arisawa_s.jpg",
+        "material_file": "48a01c353d74f2ffb78d78d4cbffd5fe52baba89de92ddb88a13df9c0d3059e414524.jpeg"
+      }
+    ],
+    "previous_id": "17414",
+    "next_id": "17412",
+    "saved_materials": [
+      "assets/17413_14524_220104_arisawa_s.jpg"
+    ]
+  }
+}

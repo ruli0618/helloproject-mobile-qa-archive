@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 418,
+    "content_id": "17130",
+    "content_title": "熱い",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-11-22 10:00:00",
+    "created_at": "2021-11-23 01:12:11",
+    "updated_at": "2021-11-23 01:12:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14271",
+        "material_title": "211122_kudo_s.jpg",
+        "material_file": "f2ca3540b91981ad9c6c84a14ef805971abdb0acf06285d440e322b7941c6bd714271.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17130",
+    "content_title": "熱い",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-11-22 10:00:00",
+    "created_at": "2021-11-23 01:12:11",
+    "updated_at": "2021-11-23 01:12:11",
+    "content_text": "211122_kudo_s.jpg\r\n笠原さんご卒業おめでとうございます！\r\n今とっても心が熱いです\r\n燃えてます！！",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14271",
+        "material_title": "211122_kudo_s.jpg",
+        "material_file": "1358c78e3dee6917fdadaf9c798d9536f28aa308bbca006f78a5194b3194707514271.jpeg"
+      }
+    ],
+    "previous_id": "17132",
+    "next_id": "17121",
+    "saved_materials": [
+      "assets/17130_14271_211122_kudo_s.jpg"
+    ]
+  }
+}

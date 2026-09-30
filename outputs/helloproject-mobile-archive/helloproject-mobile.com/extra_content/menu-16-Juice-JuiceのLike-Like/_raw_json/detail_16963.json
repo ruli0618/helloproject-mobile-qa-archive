@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 426,
+    "content_id": "16963",
+    "content_title": "11月号！",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2021-10-21 10:00:00",
+    "created_at": "2021-10-26 14:16:09",
+    "updated_at": "2021-10-26 14:16:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14165",
+        "material_title": "211021_kudo_s.jpg",
+        "material_file": "f05f4104aca50609b136473ea72288fe6dfa7248632f83d364779a2f5f7b204f14165.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16963",
+    "content_title": "11月号！",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2021-10-21 10:00:00",
+    "created_at": "2021-10-26 14:16:09",
+    "updated_at": "2021-10-26 14:16:09",
+    "content_text": "211021_kudo_s.jpg\r\n月刊アクアライフさんの11月号ではサンシャイン水族館にお邪魔させて頂きました！\r\n\r\nミズダコを近くでずっと見ていられるのは幸せな時間でした\r\n\r\n是非チェック宜しくお願い致します(*´∀｀)",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14165",
+        "material_title": "211021_kudo_s.jpg",
+        "material_file": "ee3f9e26516b424682bfb99f5db36cf53504d742b67ac617f7c2484582587dbd14165.jpeg"
+      }
+    ],
+    "previous_id": "16964",
+    "next_id": "16909",
+    "saved_materials": [
+      "assets/16963_14165_211021_kudo_s.jpg"
+    ]
+  }
+}

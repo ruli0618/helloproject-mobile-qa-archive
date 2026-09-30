@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 364,
+    "content_id": "16805",
+    "content_title": "全身(ほぼ)",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2021-10-11 10:00:00",
+    "created_at": "2021-09-21 20:54:12",
+    "updated_at": "2022-01-17 14:41:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14016",
+        "material_title": "1006_nishida_s.jpg",
+        "material_file": "9ad0f66cbb78f7256ec0d7274fa697530522f52237382917d7827530dea6495714016.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16805",
+    "content_title": "全身(ほぼ)",
+    "content_sub_title": "西田汐里",
+    "release_date": "2021-10-11 10:00:00",
+    "created_at": "2021-09-21 20:54:12",
+    "updated_at": "2022-01-17 14:41:06",
+    "content_text": "1006_nishida_s.jpg\nもうちょっと後ろに下がって撮ってたら全身だったのに、、惜しい！\n\n【14周目お題：全身】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "14016",
+        "material_title": "1006_nishida_s.jpg",
+        "material_file": "e141d1fd736252492de0ddcc42691ae293c67ead20bc29a9caf5dfac49ecfb3614016.jpeg"
+      }
+    ],
+    "previous_id": "16806",
+    "next_id": "16803",
+    "saved_materials": [
+      "assets/16805_14016_1006_nishida_s.jpg"
+    ]
+  }
+}

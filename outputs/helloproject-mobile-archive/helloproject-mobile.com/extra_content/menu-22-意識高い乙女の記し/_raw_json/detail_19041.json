@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 30,
+    "content_id": "19041",
+    "content_title": "おとななお花",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2022-11-07 10:00:00",
+    "created_at": "2022-10-27 17:45:58",
+    "updated_at": "2022-10-27 17:45:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15845",
+        "material_title": "1107_ono_s.jpg",
+        "material_file": "6e4f5a057e2993a13f7fd88d81326274bf434c7e08a8877c8dac4f986e4a814515845.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19041",
+    "content_title": "おとななお花",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2022-11-07 10:00:00",
+    "created_at": "2022-10-27 17:45:58",
+    "updated_at": "2022-10-27 17:45:58",
+    "content_text": "1107_ono_s.jpg\r\n秋山眞緒ちゃんから\r\nお誕生日にお花を貰いました<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nちょっぴり大人な感じで\r\nとってもかわいい〜\r\nうれしい！！！\r\n\r\nお花がお部屋にあると\r\n幸せ気分になれる気がする！！\r\nまおぴんありがと♡\r\n\r\nまたねん( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15845",
+        "material_title": "1107_ono_s.jpg",
+        "material_file": "18a93ed6a9dcec3549e820d576ba2349700af5dc5be437e8beceda409cafd01b15845.jpeg"
+      }
+    ],
+    "previous_id": "19042",
+    "next_id": "18917",
+    "saved_materials": [
+      "assets/19041_15845_1107_ono_s.jpg"
+    ]
+  }
+}

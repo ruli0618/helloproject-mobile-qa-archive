@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 299,
+    "content_id": "19525",
+    "content_title": "ガラス越しの",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2023-01-24 10:00:00",
+    "created_at": "2023-01-20 19:14:32",
+    "updated_at": "2023-01-20 19:14:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16183",
+        "material_title": "0124_inoue_s.jpg",
+        "material_file": "a846697584e8accfdc49a6e7f7240e4aa9a6129c409fc9b5ed4b0d61b24cf89b16183.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19525",
+    "content_title": "ガラス越しの",
+    "content_sub_title": "井上玲音",
+    "release_date": "2023-01-24 10:00:00",
+    "created_at": "2023-01-20 19:14:32",
+    "updated_at": "2023-01-20 19:14:32",
+    "content_text": "0124_inoue_s.jpg\r\nあちら、ガラス越しに見えます、カーテンの間の方が、Juice=Juiceの有澤一華氏でございます〜",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16183",
+        "material_title": "0124_inoue_s.jpg",
+        "material_file": "ae77e3a5d57da2fd5de5a62def58423063c690eb7e98f34ad4b675f16362bfb116183.jpeg"
+      }
+    ],
+    "previous_id": "19526",
+    "next_id": "19497",
+    "saved_materials": [
+      "assets/19525_16183_0124_inoue_s.jpg"
+    ]
+  }
+}

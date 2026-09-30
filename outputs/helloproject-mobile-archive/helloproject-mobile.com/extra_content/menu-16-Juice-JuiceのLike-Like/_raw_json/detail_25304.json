@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 46,
+    "content_id": "25304",
+    "content_title": "赤",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2025-11-25 10:00:00",
+    "created_at": "2025-11-17 23:00:23",
+    "updated_at": "2025-11-17 23:00:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20690",
+        "material_title": "1125_matsunaga_s.jpg",
+        "material_file": "1bfa77b2b838f54407efb305991b243d939901eef9681bdfc4fc4c326dce51a820690.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25304",
+    "content_title": "赤",
+    "content_sub_title": "松永里愛",
+    "release_date": "2025-11-25 10:00:00",
+    "created_at": "2025-11-17 23:00:23",
+    "updated_at": "2025-11-17 23:00:23",
+    "content_text": "1125_matsunaga_s.jpg\r\n赤衣装！\r\nJuice=Juiceは多いよね〜\r\n私、赤色って大好き！♡",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20690",
+        "material_title": "1125_matsunaga_s.jpg",
+        "material_file": "79319b9b5a8a76a29773fd6e5cc20c4741459a43edac9803fc674c813310563420690.jpeg"
+      }
+    ],
+    "previous_id": "25305",
+    "next_id": "25303",
+    "saved_materials": [
+      "assets/25304_20690_1125_matsunaga_s.jpg"
+    ]
+  }
+}

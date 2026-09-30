@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 6,
+    "content_id": "27018",
+    "content_title": "工藤の家の軒下#69～北原もも～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-08-12 00:00:00",
+    "created_at": "2026-09-28 23:52:44",
+    "updated_at": "2026-09-28 23:54:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22089",
+        "material_title": "260812_069.jpg",
+        "material_file": "f56e0097a078bd5799365492305b11e49fc2f2c9e3d6df706e8181dcef251a1322089.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27018",
+    "content_title": "工藤の家の軒下#69～北原もも～",
+    "content_sub_title": "",
+    "release_date": "2026-08-12 00:00:00",
+    "created_at": "2026-09-28 23:52:44",
+    "updated_at": "2026-09-28 23:54:18",
+    "content_text": "260812_069.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第69回はゲストは、北原もも！\r\n\r\n・誕生日前日から当日にかけての過ごし方\r\n・香港の部屋割り\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・アリーナの場位置\r\n・質問BOX\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・秋ツアー\r\n・ハロコン\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22089",
+        "material_title": "260812_069.jpg",
+        "material_file": "662a0c4267bca2baa6b90b09f6dd8e5af42f3e8028a738ed4b3b85fb0c27000b22089.jpeg"
+      }
+    ],
+    "previous_id": "27019",
+    "next_id": "27017",
+    "saved_materials": [
+      "assets/27018_22089_260812_069.jpg"
+    ]
+  }
+}

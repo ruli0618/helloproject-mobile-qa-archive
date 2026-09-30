@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 651,
+    "content_id": "5213",
+    "content_title": "工藤の家の天井裏#16　～ご飯派～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-22 21:30:00",
+    "created_at": "2016-08-22 21:30:07",
+    "updated_at": "2016-08-22 21:32:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4704",
+        "material_title": "160822_s.jpg",
+        "material_file": "d81f696d507fd2d8043ea27aeac9e66a3cdc0779daf7a676364fe6c67a670b2f4704.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4705",
+        "material_title": "160816_03.jpg",
+        "material_file": "b3df52e071254125571dda6cabd318f56f1297051bf385455b360cc2e77e0d944705.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5213",
+    "content_title": "工藤の家の天井裏#16　～ご飯派～",
+    "content_sub_title": "",
+    "release_date": "2016-08-22 21:30:00",
+    "created_at": "2016-08-22 21:30:07",
+    "updated_at": "2016-08-22 21:32:43",
+    "content_text": "皆さん\nやじまの森やな#16は、お聴きになりましたか？ \n\n今回のゲストはJuice=Juiceから宮本佳林さん！\n美容・健康に詳しい事は知っていましたが、ここまでとは…\n朝食のGI値から全粒粉、お風呂あがりのケア方法まで\n宮本さんのストイックな生活模様も垣間見えます。\n\n矢島さんと同じく、ぜひ本を出して欲しいと願っています。\n\n160822_s.jpg\nそんな宮本さんは最近、UKロックをよく聴くそうです。\n\n2人が謝りたおしていた、\n「犯人を追え！」コーナーの似顔絵はこちら。 \n\n160816_03.jpg\n\n次回、今度こそあのイベントの詳細が発表！？ \n次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4704",
+        "material_title": "160822_s.jpg",
+        "material_file": "d3618cd7ee8ef460635f066b46eda1b89b7ca2f794e996ed124b3d4c5a0410404704.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4705",
+        "material_title": "160816_03.jpg",
+        "material_file": "fd3d55230615e7c79b5e9bfd568a37ff11c8f8f2fb793be93c068b6baf6f79d84705.jpeg"
+      }
+    ],
+    "previous_id": "5240",
+    "next_id": "5082",
+    "saved_materials": [
+      "assets/5213_4704_160822_s.jpg",
+      "assets/5213_4705_160816_03.jpg"
+    ]
+  }
+}

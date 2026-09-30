@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 758,
+    "content_id": "8064",
+    "content_title": "高い位置／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-26 11:00:00",
+    "created_at": "2017-12-04 17:28:59",
+    "updated_at": "2017-12-04 17:28:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7116",
+        "material_title": "7057838026339_s.jpg",
+        "material_file": "d8d05189fadaa5f8f457899434690a603e7020a3d0fd2ae2a88edb6c84ea6ff97116.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8064",
+    "content_title": "高い位置／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-12-26 11:00:00",
+    "created_at": "2017-12-04 17:28:59",
+    "updated_at": "2017-12-04 17:28:59",
+    "content_text": "7057838026339_s.jpg\r\n最近あまりやってないけど一つに結ぶなら高い位置がやっぱり好きです。この衣装もお気に入りでした<img src=\"/emoji/emoji-images/f479.gif\"/>\r\n",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7116",
+        "material_title": "7057838026339_s.jpg",
+        "material_file": "5b3c3e34bf30c32160e3ba7b4b5ec6ea114e37c3d29085a0fb3cc05f22635ba17116.jpeg"
+      }
+    ],
+    "previous_id": "8066",
+    "next_id": "8063",
+    "saved_materials": [
+      "assets/8064_7116_7057838026339_s.jpg"
+    ]
+  }
+}

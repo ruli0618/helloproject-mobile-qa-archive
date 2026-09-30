@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 746,
+    "content_id": "8424",
+    "content_title": "空気感／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-02-05 11:00:00",
+    "created_at": "2018-01-23 14:20:51",
+    "updated_at": "2018-01-23 14:20:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7404",
+        "material_title": "0205_miyazaki_s.jpg",
+        "material_file": "0528196bff8a7d57e73d9dcc71955259f105b2de2d20a6aa8007b6a3a89562d07404.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8424",
+    "content_title": "空気感／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2018-02-05 11:00:00",
+    "created_at": "2018-01-23 14:20:51",
+    "updated_at": "2018-01-23 14:20:51",
+    "content_text": "0205_miyazaki_s.jpg\r\nリーダーでお仕事する機会がちょくちょくありますが、空気感がとっても好きです♩",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7404",
+        "material_title": "0205_miyazaki_s.jpg",
+        "material_file": "c73f7d91463c95f4f3a208d8762f40ffcb419af381d38048494e627d31921d867404.jpeg"
+      }
+    ],
+    "previous_id": "8454",
+    "next_id": "8423",
+    "saved_materials": [
+      "assets/8424_7404_0205_miyazaki_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 98,
+    "content_id": "22441",
+    "content_title": "家族",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2024-06-28 10:00:00",
+    "created_at": "2024-06-26 12:04:24",
+    "updated_at": "2024-06-26 12:04:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18416",
+        "material_title": "0628_akiyama_s.jpg",
+        "material_file": "9c44e8a064798bbded954b84f46b0126498360e71b80c850bca162c9651f011f18416.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22441",
+    "content_title": "家族",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2024-06-28 10:00:00",
+    "created_at": "2024-06-26 12:04:24",
+    "updated_at": "2024-06-26 12:04:24",
+    "content_text": "0628_akiyama_s.jpg\r\nこの間家族全員集まって車に乗っておでかけしたんですけど改めて、\r\n家族の事だいすきだなあって感じてました♡\r\n大人になっても集まれる場所があるってすごく嬉しくて幸せな事だと私自身は感じてるのでとっても幸せな気持ちで１日を過ごしてました(^^)\r\n\r\n今の私を作ってくれたのも家族なので家族のみんなには感謝です<img src=\"/emoji/emoji-images/f6bc.gif\"/>\r\n\r\n私の嬉しかった事共有させてくれてありがとうございました(^^)\r\n\r\n\r\nみんなも幸せでいてください♡\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18416",
+        "material_title": "0628_akiyama_s.jpg",
+        "material_file": "a2682bd380bf833d87c7981c679c557e8f1aceb30c908063b4fe654a9a115ad218416.jpeg"
+      }
+    ],
+    "previous_id": "22515",
+    "next_id": "22440",
+    "saved_materials": [
+      "assets/22441_18416_0628_akiyama_s.jpg"
+    ]
+  }
+}

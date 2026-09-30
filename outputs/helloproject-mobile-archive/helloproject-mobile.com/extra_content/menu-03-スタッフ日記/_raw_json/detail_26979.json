@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 63,
+    "content_id": "26979",
+    "content_title": "工藤の家の軒下#30～福田真琳～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-02-04 00:00:00",
+    "created_at": "2026-09-28 22:53:06",
+    "updated_at": "2026-09-28 22:53:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22066",
+        "material_title": "250204_030.jpg",
+        "material_file": "d66cc1b55005f1ffe3a4bf8a720601637f779c8362125642bffbc0b6adf5dd9122066.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26979",
+    "content_title": "工藤の家の軒下#30～福田真琳～",
+    "content_sub_title": "",
+    "release_date": "2025-02-04 00:00:00",
+    "created_at": "2026-09-28 22:53:06",
+    "updated_at": "2026-09-28 22:53:06",
+    "content_text": "250204_030.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第30回はゲストは、福田真琳！\r\n\r\n・九州トーク\r\n・お互いのことを意識\r\n・地方民あるある\r\n・楽器の達人になれるなら\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・地元で有名な場所\r\n・2人はどっち派？\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・アプカミREC\r\n・未読貯めちゃう？\r\n・期間限定でメンバーカラー変えれるなら？\r\n・斉藤円香\r\n・欠席のあったハロコン\r\n・上京して驚いたこと\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22066",
+        "material_title": "250204_030.jpg",
+        "material_file": "f705e57a5e54e0ef5b1b22ae7b4783e2293af5c45463442196a3cbe8f7499cf222066.jpeg"
+      }
+    ],
+    "previous_id": "26980",
+    "next_id": "26949",
+    "saved_materials": [
+      "assets/26979_22066_250204_030.jpg"
+    ]
+  }
+}

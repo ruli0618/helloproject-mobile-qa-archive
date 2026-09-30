@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 708,
+    "content_id": "3272",
+    "content_title": "カントリー・ガールズ DVD Magazine Vol.1",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-10-15 18:00:00",
+    "created_at": "2015-10-15 18:33:53",
+    "updated_at": "2015-11-19 10:45:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3064",
+        "material_title": "CG_M2_2279.jpg",
+        "material_file": "e1f6e5dce6632ccfee8622f5ac726530e9f19dc9e7151f4ca1743538c5f5c2c83064.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3272",
+    "content_title": "カントリー・ガールズ DVD Magazine Vol.1",
+    "content_sub_title": "",
+    "release_date": "2015-10-15 18:00:00",
+    "created_at": "2015-10-15 18:33:53",
+    "updated_at": "2015-11-19 10:45:46",
+    "content_text": "みなさん、こんにちは！\nグッズ制作担当スタッフです。\n\n10月13日からスタートした「カントリー・ガールズ ライブツアー2015秋冬」にて、\n“カントリー・ガールズ DVD Magazine Vol.1”が発売されました。\n\n今作は、カントリー・ガールズにとって、初めてのDVDマガジンです！\n\n撮影当日、何も知らず、バスに揺られ連れて来られたのは、 富士急ハイランド！！\n大はしゃぎのメンバーの様子を収録しました！\n\n\n稲場愛香はなんと、遊園地初体験！\nもちろん絶叫マシーンも初めての体験でした。\n\n\nボーリング対決では、\n嗣永桃子に負けたら、お化け屋敷行き！\nというルールに、楽しみながらも、みんな真剣にボーリングをplay！\n\n日本一長いお化け屋敷へ挑戦することになってしまったのは、一体誰なのか？\n\n“カントリー・ガールズ DVD Magazine Vol.1”は、ライブ会場はもちろん、通販サイト「e-LineUP!」にて販売中です。\n\n皆さん、ぜひご覧ください！！\n\nCG_M2_2279.jpg\n<a href=\"https://www.youtube.com/watch?v=Xg5ZB8pLBME\"><u><font color=\"#0000ff\">CM動画はコチラ</font></u></a>\n<a href=\"http://www.e-lineup.com/\"><u><font color=\"#0000ff\">e-LineUP!はコチラ</font></u></a>\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "3064",
+        "material_title": "CG_M2_2279.jpg",
+        "material_file": "f72b65cc9466dc8763db10a83ecf008d0ebca121d6370ec36efdd7813ecafc363064.jpeg"
+      }
+    ],
+    "previous_id": "3275",
+    "next_id": "3224",
+    "saved_materials": [
+      "assets/3272_3064_CG_M2_2279.jpg"
+    ]
+  }
+}

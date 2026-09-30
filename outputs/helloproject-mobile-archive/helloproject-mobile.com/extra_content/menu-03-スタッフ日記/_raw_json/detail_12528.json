@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 379,
+    "content_id": "12528",
+    "content_title": "ふくむらの部屋プレイリスト配信！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-27 17:30:00",
+    "created_at": "2019-11-19 18:27:48",
+    "updated_at": "2019-11-19 18:27:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12528",
+    "content_title": "ふくむらの部屋プレイリスト配信！",
+    "content_sub_title": "",
+    "release_date": "2019-11-27 17:30:00",
+    "created_at": "2019-11-19 18:27:48",
+    "updated_at": "2019-11-19 18:27:48",
+    "content_text": "こんにちは。スタッフ番号2番です。\r\n\r\n本日、通常の更新日ではありませんが特別に、ハロー！ラジオプレイリストを更新しました！\r\nその名も「ふくむらの部屋#62おすすめハロプロソング」\r\n\r\n配信中のハロー！ラジオ「ふくむらの部屋#62」小片リサさんゲスト回では、コアな選曲に関する話題がありました。\r\n\r\n曲名だけではピンとこない方もいらっしゃるかと思いますので\r\nバースデーイベントで歌った曲、\r\nバースデーイベントで歌おうか迷った曲、\r\n譜久村さんが小片さんに歌ってほしいと思う曲、\r\n等など、数々の楽曲が話される中から10曲をピックアップしてプレイリストにしました！\r\n\r\n電話待っています／メロン記念日\r\nふわり、恋時計／つばきファクトリー\r\nだって 生きてかなくちゃ／安倍なつみ\r\nそうじゃない／モーニング娘。'16\r\n告白の噴水広場／Berryz工房\r\n女神～Mousseな優しさ～／モーニング娘。\r\nふわふわふー／メロン記念日\r\nカリスマ・綺麗／メロン記念日\r\n三角関係／稲葉貴子・大谷雅恵・柴田あゆみ・松浦亜弥\r\n秘密のウ・タ・ヒ・メ／Berryz工房\r\n\r\nぜひ、「<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>」をチェックしてみてください！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "12620",
+    "next_id": "12527",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 133,
+    "content_id": "15517",
+    "content_title": "コロコロ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-02-22 19:17:00",
+    "created_at": "2021-02-22 19:16:47",
+    "updated_at": "2021-02-22 19:16:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12910",
+        "material_title": "210222_yamagishi_s.jpg",
+        "material_file": "ca8bc71ae968eb89db9cf2d7dc9339a3aeb81922ae951e326cf7798c95b1a8c612910.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15517",
+    "content_title": "コロコロ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-02-22 19:17:00",
+    "created_at": "2021-02-22 19:16:47",
+    "updated_at": "2021-02-22 19:16:47",
+    "content_text": "210222_yamagishi_s.jpg\r\nコンサート前や寝る前には、\r\nこのコロコロをします。\r\n\r\nむくみやすいので、これやると\r\nだいぶ浮腫みがとれます。\r\n\r\n効果あり◎！",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "12910",
+        "material_title": "210222_yamagishi_s.jpg",
+        "material_file": "ecabba55dc17e1985f3760b9ca16c954965c0aef46c4aa17d77c0c329839c61b12910.jpeg"
+      }
+    ],
+    "previous_id": "15597",
+    "next_id": "15500",
+    "saved_materials": [
+      "assets/15517_12910_210222_yamagishi_s.jpg"
+    ]
+  }
+}

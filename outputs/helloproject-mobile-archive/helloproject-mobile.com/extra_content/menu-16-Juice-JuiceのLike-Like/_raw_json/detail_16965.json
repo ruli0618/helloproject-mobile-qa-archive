@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 424,
+    "content_id": "16965",
+    "content_title": "寒くなってきましたね！",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2021-10-28 10:00:00",
+    "created_at": "2021-10-26 14:16:12",
+    "updated_at": "2021-10-26 14:16:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14167",
+        "material_title": "211028_arisawa_s.jpg",
+        "material_file": "77964e6af59368d405b119de0a7337622e793ead0e4f1257f39333cae0b41cba14167.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16965",
+    "content_title": "寒くなってきましたね！",
+    "content_sub_title": "有澤一華",
+    "release_date": "2021-10-28 10:00:00",
+    "created_at": "2021-10-26 14:16:12",
+    "updated_at": "2021-10-26 14:16:12",
+    "content_text": "211028_arisawa_s.jpg\r\n今日、外を歩いていたらものすごく寒く感じました。\r\n\r\nもう冬に向かっていってますね〜！\r\n温かい格好をして、寒い日を乗り越えましょうね！\r\n私は昨日、半袖で外に出てしまい、、\r\n私みたいな間違いはしないように！\r\n\r\nまたねん♫",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14167",
+        "material_title": "211028_arisawa_s.jpg",
+        "material_file": "b420636797b1cdaa8a7c92f9ab6c2a72e3b441d3f015ec9d4818208243282ae114167.jpeg"
+      }
+    ],
+    "previous_id": "16966",
+    "next_id": "16964",
+    "saved_materials": [
+      "assets/16965_14167_211028_arisawa_s.jpg"
+    ]
+  }
+}

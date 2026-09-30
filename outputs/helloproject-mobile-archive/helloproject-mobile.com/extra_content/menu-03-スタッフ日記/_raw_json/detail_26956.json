@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 42,
+    "content_id": "26956",
+    "content_title": "宣伝会議#113",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-08-28 00:00:00",
+    "created_at": "2026-09-28 15:36:58",
+    "updated_at": "2026-09-28 15:36:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22028",
+        "material_title": "113.jpg",
+        "material_file": "dbc55c81e14b8ddaea70e7f7daefff77cb398d86348023ad4127a1ba19da862c22028.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22029",
+        "material_title": "113_02.jpg",
+        "material_file": "273ccf35c8e1669d5d69c6b080e83e3a031d89bfda8e54e1707945173cb9435c22029.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22030",
+        "material_title": "113_01.jpg",
+        "material_file": "2a8f480b4d088efea30f48fefa65f91f469887e4b8c693803d961189d1b7e98522030.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26956",
+    "content_title": "宣伝会議#113",
+    "content_sub_title": "",
+    "release_date": "2025-08-28 00:00:00",
+    "created_at": "2026-09-28 15:36:58",
+    "updated_at": "2026-09-28 15:36:58",
+    "content_text": "113_01.jpg\r\n\r\n宣伝会議第113回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・林仁愛\r\n・SNSの頑張り\r\n・キャリアによって出来るようになること\r\n・わがままリクエスト\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「孤独なお金持ち、貧乏な人気者」についてディベート！\r\n\r\n後編では、\r\n・バースデーイベント\r\n・林仁愛どう呼ばれている？\r\n・再加入\r\n・フェス、海外公演の心構え\r\n・ハロコン交流エピソード\r\n・シャッフルユニット\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「遠藤彩加里」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n113.jpg\r\n\r\n113_02.jpg",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22028",
+        "material_title": "113.jpg",
+        "material_file": "459d62f1b363b8fcff896cf54d653df607a3f33380ba26839640ede3aeacedd322028.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22029",
+        "material_title": "113_02.jpg",
+        "material_file": "1b05a43fe8bb3c6ddff21643fedd9cc3e2f9186ab83e522146194d6e9f96045a22029.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22030",
+        "material_title": "113_01.jpg",
+        "material_file": "79e397a4e50a948bacebc914eabcbce6fc4399620724a6e6f36be14c0c624cce22030.jpeg"
+      }
+    ],
+    "previous_id": "26994",
+    "next_id": "26993",
+    "saved_materials": [
+      "assets/26956_22028_113.jpg",
+      "assets/26956_22029_113_02.jpg",
+      "assets/26956_22030_113_01.jpg"
+    ]
+  }
+}

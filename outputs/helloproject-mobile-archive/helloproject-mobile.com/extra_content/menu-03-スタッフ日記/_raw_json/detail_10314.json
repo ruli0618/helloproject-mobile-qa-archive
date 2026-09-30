@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 461,
+    "content_id": "10314",
+    "content_title": "工藤の家の屋根裏部屋#37～小田さくら～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-26 16:04:00",
+    "created_at": "2018-11-26 16:04:39",
+    "updated_at": "2018-11-26 16:04:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8938",
+        "material_title": "181126_01_s.jpg",
+        "material_file": "a4a18f212c0f12e9af725ebe127a67a779c9ac88cacfca99bfa63c8cbd176bfe8938.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8939",
+        "material_title": "181126_02_s.jpg",
+        "material_file": "1d52061ee1be44aca3e7de98d96c22950592062b17086bde5535386fe6a10bc98939.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8940",
+        "material_title": "181126_03_s.jpg",
+        "material_file": "07418ae6235e1607e76648ab23a0d5d0b0e7eb777d2f764ed44eac22ecb2c4458940.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8941",
+        "material_title": "181126_04_s.jpg",
+        "material_file": "544f4c5894241aae719e697aa7b2c28a1fd618f0ffe0663f855aa1943c72bbd38941.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10314",
+    "content_title": "工藤の家の屋根裏部屋#37～小田さくら～",
+    "content_sub_title": "",
+    "release_date": "2018-11-26 16:04:00",
+    "created_at": "2018-11-26 16:04:39",
+    "updated_at": "2018-11-26 16:04:39",
+    "content_text": "スタッフ日記遅くなりまして申し訳ございません。\r\n\r\n「ふくむらの部屋」37回目の配信が開始しました！\r\n\r\n今回のゲストは小田さくらさん\r\n冒頭から「ある飴ちゃん」をめぐって2人がプチバトル??\r\n\r\n181126_01_s.jpg\r\n\r\n譜久村さんバースデーイベントの選曲について詳しく解説！\r\nその流れで小田さんが考えている来年のバースデーイベントに向けた\r\n企画もラジオ内で特別に話しています！\r\n\r\n181126_02_s.jpg\r\n\r\nハロプロ講座のコーナーでは\r\n「恋と愛の違い」、「自由」、「平和」などなど…今回の話のテーマは奥が深いです。\r\n\r\n181126_03_s.jpg\r\n\r\n181126_04_s.jpg\r\n\r\nレコーディングの話題ではコーラスの収録について詳しく語っています！\r\n\r\n番組の最後には2人でスペシャルなことをしていますので\r\nお聞き逃しなく！\r\n\r\n\r\n次回のメドレーセレクションのテーマは\r\n「急いでいる時に効率が良くなるメドレー」です。\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8938",
+        "material_title": "181126_01_s.jpg",
+        "material_file": "0b0cd013c7f334a9b342c12cae5f422dc5e890439b2e04eaa4a05ae7b5fd382c8938.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8939",
+        "material_title": "181126_02_s.jpg",
+        "material_file": "3a80d0a5ace30df928533c92e48cff77597e444065c9ba0d2fb039ae1a03d8a48939.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8940",
+        "material_title": "181126_03_s.jpg",
+        "material_file": "32f300673a612664d5c4c07213204ba7de771f31414bdbeb3b8bf34280bcaaa58940.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8941",
+        "material_title": "181126_04_s.jpg",
+        "material_file": "7ccddec3f6cd5c18206e8043255a94793488b15720e79b344112636a5db4be898941.jpeg"
+      }
+    ],
+    "previous_id": "10318",
+    "next_id": "10288",
+    "saved_materials": [
+      "assets/10314_8938_181126_01_s.jpg",
+      "assets/10314_8939_181126_02_s.jpg",
+      "assets/10314_8940_181126_03_s.jpg",
+      "assets/10314_8941_181126_04_s.jpg"
+    ]
+  }
+}

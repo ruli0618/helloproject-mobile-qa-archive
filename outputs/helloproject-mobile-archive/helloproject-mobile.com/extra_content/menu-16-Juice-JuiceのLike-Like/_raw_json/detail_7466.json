@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 784,
+    "content_id": "7466",
+    "content_title": "ツインテール／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-09-29 15:25:00",
+    "created_at": "2017-09-07 17:12:47",
+    "updated_at": "2017-09-29 15:25:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6578",
+        "material_title": "6565816586289_s.jpg",
+        "material_file": "3b9c3fbc2d54b9124ddcacad0f752c1ff5d8d20be1a39ff483bc8529fbe0514a6578.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7466",
+    "content_title": "ツインテール／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-09-29 15:25:00",
+    "created_at": "2017-09-07 17:12:47",
+    "updated_at": "2017-09-29 15:25:44",
+    "content_text": "6565816586289_s.jpg\r\nやなちゃんが自分でツインテールにチャレンジしてました。ストレートと巻きヘアーどっちがいいかなって考えたけどどっちもかわいいです。笑",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6578",
+        "material_title": "6565816586289_s.jpg",
+        "material_file": "d12ba0424d24d17d2612d9d78d542e61572a17759a4259b98dc0cfcac0af170e6578.jpeg"
+      }
+    ],
+    "previous_id": "7467",
+    "next_id": "7464",
+    "saved_materials": [
+      "assets/7466_6578_6565816586289_s.jpg"
+    ]
+  }
+}

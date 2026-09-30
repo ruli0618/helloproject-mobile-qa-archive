@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 139,
+    "content_id": "22859",
+    "content_title": "タピオカ",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2024-09-05 12:29:00",
+    "created_at": "2024-09-05 12:29:18",
+    "updated_at": "2024-09-05 12:29:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18710",
+        "material_title": "0905_arisawa_s.jpg",
+        "material_file": "1dffe2e7a98593c16c8b33ec234fc268123ab9dcaa627f4bc314a98e627279a018710.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22859",
+    "content_title": "タピオカ",
+    "content_sub_title": "有澤一華",
+    "release_date": "2024-09-05 12:29:00",
+    "created_at": "2024-09-05 12:29:18",
+    "updated_at": "2024-09-05 12:29:18",
+    "content_text": "0905_arisawa_s.jpg\r\n今日はタピオカ抜きのウーロンミルクティーを飲みました!\r\n\r\n私はタピオカ屋さんのウーロンミルクティーが大好きで、、\r\n\r\n\r\n今日久々に飲めて超happyな気分でした！！\r\n\r\n昨日は過去のライブ映像を見返して、植村さんの偉大さを痛感して焦ってます。\r\n\r\nがんばる",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18710",
+        "material_title": "0905_arisawa_s.jpg",
+        "material_file": "bc8b49f433b7b1e2d0ed927cae7b43fb2eda828dc7e8d8e3d348eddf057c0e4c18710.jpeg"
+      }
+    ],
+    "previous_id": "22862",
+    "next_id": "22843",
+    "saved_materials": [
+      "assets/22859_18710_0905_arisawa_s.jpg"
+    ]
+  }
+}

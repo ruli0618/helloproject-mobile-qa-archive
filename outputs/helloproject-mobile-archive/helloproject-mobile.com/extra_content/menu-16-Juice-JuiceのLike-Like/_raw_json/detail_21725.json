@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 193,
+    "content_id": "21725",
+    "content_title": "リメイク",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2024-02-15 10:00:00",
+    "created_at": "2024-02-13 12:30:16",
+    "updated_at": "2024-02-13 12:30:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17837",
+        "material_title": "0215_uemura_s.jpg",
+        "material_file": "9299fd04f256951face257b0fd9ed42e1ef55888cab7967341ec145cecfc069117837.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21725",
+    "content_title": "リメイク",
+    "content_sub_title": "植村あかり",
+    "release_date": "2024-02-15 10:00:00",
+    "created_at": "2024-02-13 12:30:16",
+    "updated_at": "2024-02-13 12:30:16",
+    "content_text": "0215_uemura_s.jpg\r\n植村あかりです\r\n\r\n\r\n25歳のグッズTリメイクの完成度が凄くてお気に入り！\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17837",
+        "material_title": "0215_uemura_s.jpg",
+        "material_file": "5fc3d5edc9d7486a55cd35dc9350fc1c100ef955151f816b3b19f3180ff81acf17837.jpeg"
+      }
+    ],
+    "previous_id": "21726",
+    "next_id": "21724",
+    "saved_materials": [
+      "assets/21725_17837_0215_uemura_s.jpg"
+    ]
+  }
+}

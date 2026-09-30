@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 296,
+    "content_id": "19527",
+    "content_title": "景色！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-01-31 10:00:00",
+    "created_at": "2023-01-20 19:14:36",
+    "updated_at": "2023-01-20 19:14:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16181",
+        "material_title": "0131_matsunaga_s.jpg",
+        "material_file": "fe48822949ec545e99e796af4f53784794d9ae2c1485e1d5da473eddfe15844416181.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19527",
+    "content_title": "景色！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-01-31 10:00:00",
+    "created_at": "2023-01-20 19:14:36",
+    "updated_at": "2023-01-20 19:14:36",
+    "content_text": "0131_matsunaga_s.jpg\r\n綺麗な景色大好きで夜景を友達と30分くらい眺めてました。\r\n薄着しすぎて寒かったです。",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16181",
+        "material_title": "0131_matsunaga_s.jpg",
+        "material_file": "7f460c36919d18eb48764c14f90c43b111e8f8582f654dac0d75628a6f5cc29f16181.jpeg"
+      }
+    ],
+    "previous_id": "19588",
+    "next_id": "19584",
+    "saved_materials": [
+      "assets/19527_16181_0131_matsunaga_s.jpg"
+    ]
+  }
+}

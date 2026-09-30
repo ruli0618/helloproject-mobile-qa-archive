@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 472,
+    "content_id": "10092",
+    "content_title": "SATOYAMAイベント出展！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-12 21:45:00",
+    "created_at": "2018-10-12 21:41:58",
+    "updated_at": "2018-10-12 21:44:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8812",
+        "material_title": "181012.jpg",
+        "material_file": "02819ad9ff0ab36645c608b59cd5efe4e274d5aa91ddff322f97f100b8007fd78812.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10092",
+    "content_title": "SATOYAMAイベント出展！",
+    "content_sub_title": "",
+    "release_date": "2018-10-12 21:45:00",
+    "created_at": "2018-10-12 21:41:58",
+    "updated_at": "2018-10-12 21:44:50",
+    "content_text": "こんばんは。\nスタッフ番号2番です。\n\nハロ！モバ宣伝部ラジオ、スタッフ日記をご覧の方はもうご存知かと思いますが、10/20(土)21(日)彩の国くまがやドームにて開催する「<a href=\"http://satoyamamovement.com/event.html\" target=\"_blank\">SATOYAMA & SATOUMI with ニャオざねまつり in 熊谷</a>」に、ハロ！モバブースが出展します！！\n\nブースの詳細は月曜に発表しますが、\n3行で簡単にお知らせすると…\n\n<b>★ハロ！モバ宣伝部Tシャツ第二弾を販売！\n\n★ハロ！モバ宣伝部メンバー考案＆直筆のチラシを配布！\n\n★ハロ！モバ会員限定！会員証を配布！</b>\n\nという豪華な内容になっています！\n\n今回のイベントでは、サブステージでのハロ！モバイベントは残念ながらありませんが…、宣伝部員メンバー(野中美希・梁川奈々美・小片リサ)のファンの方は特に、ぜひぜひお越し下さいね♪\n\n試作品の写真をチラ見せ\n\n181012.jpg\n\n諸々のデザインは週明け月曜に公開します。\nTシャツは、なかなかオシャレな出来に仕上がりましたのでお楽しみに！\n\nP.S.今回のイベントハロ！モバブースに関してつぶやく時は…\n#HMAutumn\n↑のハッシュタグでお願いします♪",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8812",
+        "material_title": "181012.jpg",
+        "material_file": "db5bf8a6f130ed09af776d3d8162b53088c3bb0c9efc9ddd525230b41e09b5ec8812.jpeg"
+      }
+    ],
+    "previous_id": "10102",
+    "next_id": "10089",
+    "saved_materials": [
+      "assets/10092_8812_181012.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 135,
+    "content_id": "20653",
+    "content_title": "暑中お見舞い",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-08-04 10:07:00",
+    "created_at": "2023-08-04 10:07:22",
+    "updated_at": "2023-08-04 10:07:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17008",
+        "material_title": "230804.jpg",
+        "material_file": "be4ced21d61716ba88aec7f41d70017481106d6a080c78a59fccfd809234bde117008.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20653",
+    "content_title": "暑中お見舞い",
+    "content_sub_title": "",
+    "release_date": "2023-08-04 10:07:00",
+    "created_at": "2023-08-04 10:07:22",
+    "updated_at": "2023-08-04 10:07:22",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\nみなさん、暑い夏いかがお過ごしですか？\r\n\r\n現在<a href=\"http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2023/index\" target=\"_blank\">暑中見舞い特設ページ</a>にて、メンバーが描く暑中見舞いを公開中！\r\n\r\n直筆暑中見舞いプレゼント企画では、沢山のご応募ありがとうございました！\r\n\r\n230804.jpg\r\n\r\n先日、当選分の暑中見舞いを発送してきましたので、早ければ本日から当選者の方のもとへお届けされるかと思います。\r\n\r\nポストの中をチェックしてみてくださいね！\r\n\r\nもしプレゼントが届いた方は、ぜひハガキの写真を撮って、ハッシュタグ「<a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a>」をつけて、SNSへの画像アップをお願いします！\r\n\r\n<a href=\"http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2023/index\" target=\"_blank\">暑中見舞い特設ページ</a>は、8月いっぱいの公開予定です。\r\n\r\nまだ全員分の絵柄を見ていない…という方は、お見逃しなく！\r\nご覧になってくださいね！\r\n",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "17008",
+        "material_title": "230804.jpg",
+        "material_file": "8577e6024595fb0320454c76b5f528b30a2ab6e6adb291a891390c3ebc81aa0717008.jpeg"
+      }
+    ],
+    "previous_id": "21247",
+    "next_id": "21246",
+    "saved_materials": [
+      "assets/20653_17008_230804.jpg"
+    ]
+  }
+}

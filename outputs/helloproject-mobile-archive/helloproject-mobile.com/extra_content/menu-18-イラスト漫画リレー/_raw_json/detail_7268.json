@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 15,
+    "content_id": "7268",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "高木紗友希",
+    "category_id": "55",
+    "release_date": "2017-08-15 14:40:00",
+    "created_at": "2017-08-15 13:07:53",
+    "updated_at": "2017-08-15 14:44:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "6395",
+        "material_title": "008_takagi.jpg",
+        "material_file": "959bb8d09ad06350bc1742b559f2499be4d94f3fecaccd79061a333488c013716395.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "7268",
+    "content_title": "Juice=Juice",
+    "content_sub_title": "高木紗友希",
+    "release_date": "2017-08-15 14:40:00",
+    "created_at": "2017-08-15 13:07:53",
+    "updated_at": "2017-08-15 14:44:35",
+    "content_text": "008_takagi.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "6395",
+        "material_title": "008_takagi.jpg",
+        "material_file": "959bb8d09ad06350bc1742b559f2499be4d94f3fecaccd79061a333488c013716395.jpeg"
+      }
+    ],
+    "previous_id": "7351",
+    "next_id": "6751",
+    "saved_materials": [
+      "assets/7268_6395_008_takagi.jpg"
+    ]
+  }
+}

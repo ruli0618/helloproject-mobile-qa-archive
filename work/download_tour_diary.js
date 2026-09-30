@@ -96,7 +96,7 @@ async function main() {
   const previous = fs.existsSync(path.join(OUT, '_tour_diary_archive.json'))
     ? JSON.parse(fs.readFileSync(path.join(OUT, '_tour_diary_archive.json'), 'utf8'))
     : { categories: [], entries: [], errors: [] };
-  const knownCategoryIds = new Set((previous.categories || []).map((item) => String(item.category_id)));
+  const knownEntryIds = new Set((previous.entries || []).map((entry) => String(entry.list?.content_id || entry.detail?.content_id || '')).filter(Boolean));
   const categories = [];
   const entries = [...(previous.entries || [])];
   const errors = [...(previous.errors || [])];
@@ -111,7 +111,7 @@ async function main() {
     if (!data.hasNext) break;
   }
 
-  for (const category of categories.filter((item) => !knownCategoryIds.has(String(item.category_id)))) {
+  for (const category of categories) {
     const listItems = [];
     for (let page = 1; page < 300; page++) {
       const url = `http://helloproject-mobile.com/api/contents?category_id=${encodeURIComponent(category.category_id)}&page=${page}`;
@@ -125,6 +125,7 @@ async function main() {
 
     for (let i = 0; i < listItems.length; i++) {
       const item = listItems[i];
+      if (knownEntryIds.has(String(item.content_id))) continue;
       const idx = item.idx || i + 1;
       const page = Math.floor((idx - 1) / 20) + 1;
       const url = `http://helloproject-mobile.com/api/contents/${encodeURIComponent(item.content_id)}?idx=${idx}&page=${page}&category_id=${encodeURIComponent(category.category_id)}`;
@@ -144,10 +145,12 @@ async function main() {
           }
         }
         entries.push({ category, list: item, detail: detail ? { ...detail, materials } : null });
+        knownEntryIds.add(String(item.content_id));
         console.log(`detail ${category.idx}/${categories.length} ${idx}/${listItems.length}: ${item.content_title}`);
       } catch (err) {
         errors.push({ type: 'detail', category, item, url, error: String(err.message || err) });
         entries.push({ category, list: item, detail: null });
+        knownEntryIds.add(String(item.content_id));
         console.warn(`detail error ${item.content_id}: ${err.message || err}`);
       }
     }

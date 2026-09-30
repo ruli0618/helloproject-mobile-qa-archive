@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 534,
+    "content_id": "8430",
+    "content_title": "隣のやじまん家の塀の裏#14 小片リサ",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-23 19:08:00",
+    "created_at": "2018-01-23 19:05:59",
+    "updated_at": "2018-01-23 19:08:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7410",
+        "material_title": "0123_01_s.jpg",
+        "material_file": "620d5141151601dbd127b28b3de45e03417ebb79400be2c44ba64f08aaa196517410.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7411",
+        "material_title": "0123_02_s.jpg",
+        "material_file": "22a8f8d4827a25852c480fc4179a454c9ed2fbafb880ac1f450483e5c1d51f9a7411.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8430",
+    "content_title": "隣のやじまん家の塀の裏#14 小片リサ",
+    "content_sub_title": "",
+    "release_date": "2018-01-23 19:08:00",
+    "created_at": "2018-01-23 19:05:59",
+    "updated_at": "2018-01-23 19:08:24",
+    "content_text": "「隣のやじまん家」#14、本日より配信中！\nもうお聴きいただいていますか？\n\n今回のゲストはこの方！\n\n0123_01_s.jpg\n\nつばきファクトリーから、サブリーダーの小片リサさんが登場！\n\n小片さんの人柄を詳しく知らないという方も、今回の放送でだいぶ知ることができたんじゃないでしょうか。\n\n2人の共通点である旅行についてのエピソードや、レコ大最優秀新人賞を受賞した時の裏話、成人式の晴れ着選び等など…\n\n\"あかねちん\"こと羽賀朱音さんの妹力に関する話は、羽賀さんファンも必聴です。\n\n小片面接官が矢島就活生を面接するシーンも！？\n\n0123_02_s.jpg\n\n↑小片さんが今年購入したばかりの一眼レフを壊してしまわないよう、恐る恐る撮影する矢島さん。\n\n「今月のハッピーバースデー♪」は、2月にお誕生日を迎える方からのお便りを募集します！\n「くじ引きトーク」で話してほしいテーマや、「普通のお便り」メールもお待ちしています。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回はまた2週間後！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7410",
+        "material_title": "0123_01_s.jpg",
+        "material_file": "87b05e2d4bee9e49cf15930b2f2c61f7743d28aa69667ff31776659259ed0dfd7410.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7411",
+        "material_title": "0123_02_s.jpg",
+        "material_file": "6d272635b82872ee7c7ca936ec2383c8894146dc33ec9cbb25e3d64e9c58955e7411.jpeg"
+      }
+    ],
+    "previous_id": "8466",
+    "next_id": "8418",
+    "saved_materials": [
+      "assets/8430_7410_0123_01_s.jpg",
+      "assets/8430_7411_0123_02_s.jpg"
+    ]
+  }
+}

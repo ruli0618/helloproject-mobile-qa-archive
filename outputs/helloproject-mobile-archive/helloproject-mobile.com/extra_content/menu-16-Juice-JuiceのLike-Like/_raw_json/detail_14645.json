@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 517,
+    "content_id": "14645",
+    "content_title": "キッチン",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-10-01 17:43:00",
+    "created_at": "2020-10-01 17:45:55",
+    "updated_at": "2020-10-01 17:45:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12162",
+        "material_title": "1001_dambara_s.jpg",
+        "material_file": "97184ee4acfda3fb97eac14ab27527d47702e4833c3a0b795cb39c4ab6a4b08612162.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14645",
+    "content_title": "キッチン",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-10-01 17:43:00",
+    "created_at": "2020-10-01 17:45:55",
+    "updated_at": "2020-10-01 17:45:55",
+    "content_text": "1001_dambara_s.jpg\r\nキッチンは、お家の中でも好きな場所のひとつです。",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12162",
+        "material_title": "1001_dambara_s.jpg",
+        "material_file": "6d1137cdfbbed9e5ad2d8bbd2714b8489826f573cb24ea8852fd51f3350de80b12162.jpeg"
+      }
+    ],
+    "previous_id": "14646",
+    "next_id": "14462",
+    "saved_materials": [
+      "assets/14645_12162_1001_dambara_s.jpg"
+    ]
+  }
+}

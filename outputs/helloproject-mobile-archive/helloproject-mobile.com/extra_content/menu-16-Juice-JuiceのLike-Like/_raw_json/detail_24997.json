@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 58,
+    "content_id": "24997",
+    "content_title": "ドーナツ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2025-09-25 10:00:00",
+    "created_at": "2025-09-24 14:10:47",
+    "updated_at": "2025-09-24 14:10:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20427",
+        "material_title": "0925_dambara_s.jpg",
+        "material_file": "08881e660863901a8cec9fe1ddea90ac890e51faf60f7172d20fcd5b11d71fd420427.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24997",
+    "content_title": "ドーナツ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2025-09-25 10:00:00",
+    "created_at": "2025-09-24 14:10:47",
+    "updated_at": "2025-09-24 14:10:47",
+    "content_text": "0925_dambara_s.jpg\r\n爆夜の収録で、元爆さんからいただいたドーナツ<img src=\"/emoji/emoji-images/f44f.gif\"/>\r\nこの日は青がラッキーカラーだったみたい<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20427",
+        "material_title": "0925_dambara_s.jpg",
+        "material_file": "720498c20d82961b4a229b924bde55d8a01592a8e7865c8c746fd6d12397662320427.jpeg"
+      }
+    ],
+    "previous_id": "24998",
+    "next_id": "24973",
+    "saved_materials": [
+      "assets/24997_20427_0925_dambara_s.jpg"
+    ]
+  }
+}

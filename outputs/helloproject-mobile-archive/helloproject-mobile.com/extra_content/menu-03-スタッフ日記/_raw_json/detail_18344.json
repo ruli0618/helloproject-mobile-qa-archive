@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 226,
+    "content_id": "18344",
+    "content_title": "平井美葉の新番組(仮) スタート！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-04-26 00:00:00",
+    "created_at": "2022-06-13 13:17:37",
+    "updated_at": "2022-06-13 13:19:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15269",
+        "material_title": "220613_1.jpg",
+        "material_file": "2c0cc757da5f9a902720890816d89e6f7403c0295518a9534b2c125fa9d8feb315269.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15270",
+        "material_title": "220613_2.jpg",
+        "material_file": "dd73b316699b337a8ed71f9012d3c3426ede11dfac8d11c8f5fe462151fbbb0715270.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18344",
+    "content_title": "平井美葉の新番組(仮) スタート！",
+    "content_sub_title": "",
+    "release_date": "2022-04-26 00:00:00",
+    "created_at": "2022-06-13 13:17:37",
+    "updated_at": "2022-06-13 13:19:41",
+    "content_text": "「平井美葉の新番組(仮)」配信中です！\n\nついにハロー！ラジオの新番組がスタート<img src=\"/emoji/emoji-images/f6de.gif\"/>\n初回は平井さん1人でお届けしています。\n\n220613_1.jpg\n\n第1回目はリスナーのみなさんから番組名と新コーナー案を募集しました！\n本当にたくさんのお便りありがとうございます！\n平井さんもどれを採用するかとっても悩んでいましたが、無事にどちらも決まりましたので紹介します♪\n\n番組名「みよちゃん家の縁側」\n新コーナー\n①逆再生チャレンジコーナー (平井さん持ち込みコーナー)\n②平井ん家の踊り場\n③演技してみよ～！\n④今月のハッピーバースデー\n\n\n詳しいコーナー内容はぜひ配信を聴いてご確認ください♡\n上記以外にも「平井がゲストと一緒に聴きたい1曲」「ハロー！ラジオコラボ企画」「ふつうのお便り」も！\n「隣のやじまん家」に引き続き、たくさんのコーナー内容でお送りしていきたいと思います！\n\nそしてなんと！この初回収録の様子をOMAKE CHANNELに密着していただきました…<img src=\"/emoji/emoji-images/f3a7.gif\"/>\n\n▼ハロー！ラジオ オリジナル番組「平井美葉の新番組(仮)」初回収録に密着！\n<a href=\"https://youtu.be/NnnASXZ9_eY\" target=\"_blank\">https://youtu.be/NnnASXZ9_eY</a>\n\n220613_2.jpg\n\n是非、こちらもチェックよろしくお願いします！\n\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n第2回記念すべき最初のゲストはBEYOOOOONDS 里吉うたのさんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15269",
+        "material_title": "220613_1.jpg",
+        "material_file": "af2e73da146b2216030f4a5225aacf59496354251c2ff9c0f0652e1dbf3d3d8815269.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15270",
+        "material_title": "220613_2.jpg",
+        "material_file": "7286be39eb379bb1e9721ed2731b1ef46e6dcd9063ae1653561e3ec45784e0dc15270.jpeg"
+      }
+    ],
+    "previous_id": "18497",
+    "next_id": "18030",
+    "saved_materials": [
+      "assets/18344_15269_220613_1.jpg",
+      "assets/18344_15270_220613_2.jpg"
+    ]
+  }
+}

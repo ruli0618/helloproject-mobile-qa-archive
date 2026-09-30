@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 761,
+    "content_id": "8059",
+    "content_title": "衣装／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-17 11:00:00",
+    "created_at": "2017-12-04 17:22:35",
+    "updated_at": "2017-12-04 17:22:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7111",
+        "material_title": "7075912725323_s.jpg",
+        "material_file": "e5eaf3fc2ea8bae7735d68661b2b391171ae5f16c474cf8b2a8551d07b0db5e07111.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8059",
+    "content_title": "衣装／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-12-17 11:00:00",
+    "created_at": "2017-12-04 17:22:35",
+    "updated_at": "2017-12-04 17:22:35",
+    "content_text": "Juice＝Juice植村あかりです！\r\n\r\n\r\nこの衣装すき〜\r\n\r\n7075912725323_s.jpg\r\n\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "7111",
+        "material_title": "7075912725323_s.jpg",
+        "material_file": "68d00c6e1fa7ae464ecb0f89d2c46cbd2a183274ccc80189780364f39260a4827111.jpeg"
+      }
+    ],
+    "previous_id": "8060",
+    "next_id": "8057",
+    "saved_materials": [
+      "assets/8059_7111_7075912725323_s.jpg"
+    ]
+  }
+}

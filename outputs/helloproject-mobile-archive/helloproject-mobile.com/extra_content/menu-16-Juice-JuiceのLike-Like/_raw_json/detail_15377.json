@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 490,
+    "content_id": "15377",
+    "content_title": "ぎょうざ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2021-01-28 10:00:00",
+    "created_at": "2021-01-22 13:36:14",
+    "updated_at": "2021-01-22 13:36:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12808",
+        "material_title": "210128_dambara_s.jpg",
+        "material_file": "3afe6cbc073ac79e81ff22fe96499ca54a73e6cfbff597418844520a8e818c7012808.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15377",
+    "content_title": "ぎょうざ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2021-01-28 10:00:00",
+    "created_at": "2021-01-22 13:36:14",
+    "updated_at": "2021-01-22 13:36:14",
+    "content_text": "210128_dambara_s.jpg\r\n餃子パーティーしました！\r\nちょっと焦げちゃったけど！笑",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12808",
+        "material_title": "210128_dambara_s.jpg",
+        "material_file": "afaff648430e0eeb1f7daf444309d1be0d06b67c72f00dbba1da63298b07412e12808.jpeg"
+      }
+    ],
+    "previous_id": "15394",
+    "next_id": "15376",
+    "saved_materials": [
+      "assets/15377_12808_210128_dambara_s.jpg"
+    ]
+  }
+}

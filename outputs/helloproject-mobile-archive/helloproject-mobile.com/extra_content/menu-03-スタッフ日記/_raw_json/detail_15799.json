@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 291,
+    "content_id": "15799",
+    "content_title": "工藤の家の屋根裏部屋#85～秋山眞緒～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-04-20 17:00:00",
+    "created_at": "2021-04-09 18:20:03",
+    "updated_at": "2021-05-11 19:17:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13169",
+        "material_title": "210420_2_s.jpg",
+        "material_file": "df867427ee3891fd5c96d73ca352872d88a26af1f112857b4e51cf781d6d3afa13169.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13170",
+        "material_title": "210420_1_s.jpg",
+        "material_file": "dc80acfd0c655968daa84ad12b8673b8743b1c554f07981efc69a5a89f6cd03f13170.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15799",
+    "content_title": "工藤の家の屋根裏部屋#85～秋山眞緒～",
+    "content_sub_title": "",
+    "release_date": "2021-04-20 17:00:00",
+    "created_at": "2021-04-09 18:20:03",
+    "updated_at": "2021-05-11 19:17:22",
+    "content_text": "今回から前編後編をなくして、長い番組時間でお届け！\n\nゲストは、つばきファクトリーから秋山眞緒さんが出演！\n\n210420_2_s.jpg\n\n番組冒頭の質問コーナーでは、\n夜に見た夢のお話、\n美容室で髪型の伝え方を回答。\n\nひなフェスの印象的な場面、\nアベコベだと思うメンバー、\nお花大臣についてトーク！\n\n秋山さんが新メンバーにどんな子が入って欲しいかも、教えてくれました。\n\n「みずき先生のハロプロ講座」のコーナーでは、\n体の鍛え方、演じてみたい楽曲の主人公、リモートボイトレ、ダンスについて語ってくれました！\n\n「ハロプロファン失敗談」のコーナーでは、\nライブやイベントでのあるある失敗を紹介！\n\nお二人の服装について、買いたいものの決め方、母の日に関するお話も！\n\n譜久村さんがメンバーをウマ娘のキャラクターに例えるなら…？\nぜひお聴き下さい！\n\n210420_1_s.jpg\n\n「ふくむらの部屋」では、メールを募集しています。\n件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>までお送りください♬\n\nコーナー：\n①「みずき先生のハロプロ講座」\nハロー！プロジェクトのこんなところを語ってほしい！\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\n皆さまからお寄せいただいたテーマで譜久村とゲストが熱く語り合います。\n\n②「ハロプロファン失敗談」\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\nハロプロファンなら共感出来る\"あるある話\"や、\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\nMC譜久村聖とゲストが慰めます！\n",
+    "materials": [
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13169",
+        "material_title": "210420_2_s.jpg",
+        "material_file": "6027e6b4d415c1efead238a7186a4c48b0d5ada38ec5f720de241114607a93b613169.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13170",
+        "material_title": "210420_1_s.jpg",
+        "material_file": "d9a2c73352faaaccd7b4a6499f0c4b680fdcd41b211569232d2d5d7852c44a5313170.jpeg"
+      }
+    ],
+    "previous_id": "15892",
+    "next_id": "15967",
+    "saved_materials": [
+      "assets/15799_13169_210420_2_s.jpg",
+      "assets/15799_13170_210420_1_s.jpg"
+    ]
+  }
+}

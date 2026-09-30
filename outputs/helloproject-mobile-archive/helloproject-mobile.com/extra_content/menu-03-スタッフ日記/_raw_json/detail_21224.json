@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 192,
+    "content_id": "21224",
+    "content_title": "工藤の家の屋根裏部屋#117～西田汐里～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-10-11 00:00:00",
+    "created_at": "2023-11-14 14:27:10",
+    "updated_at": "2023-11-14 14:27:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17431",
+        "material_title": "221011_s.jpg",
+        "material_file": "2b3b67353c69ffdba96167181c2ac2ce92898cd68de62cdf4ee408d39304a27517431.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21224",
+    "content_title": "工藤の家の屋根裏部屋#117～西田汐里～",
+    "content_sub_title": "",
+    "release_date": "2022-10-11 00:00:00",
+    "created_at": "2023-11-14 14:27:10",
+    "updated_at": "2023-11-14 14:27:10",
+    "content_text": "ふくむらの部屋 第117回は、BEYOOOOONDS西田汐里さんが登場！\r\n\r\n・花鳥風月で小田さんとの関係\r\n・ファンサ\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nピンクのメンバーカラークイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ライバル\r\n・すごいと感じる後輩\r\nを語りました！\r\n\r\n後半では、\r\n・魚卵\r\nについてトーク！\r\n\r\n221011_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "17431",
+        "material_title": "221011_s.jpg",
+        "material_file": "76ab497e0fa6fa1fd626759d66b6acb17dde85469ffcbf4d35c98c06e840c20217431.jpeg"
+      }
+    ],
+    "previous_id": "19633",
+    "next_id": "19529",
+    "saved_materials": [
+      "assets/21224_17431_221011_s.jpg"
+    ]
+  }
+}

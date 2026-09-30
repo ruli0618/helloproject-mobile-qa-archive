@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 115,
+    "content_id": "21468",
+    "content_title": "ラーメン",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2023-12-22 10:00:00",
+    "created_at": "2023-12-14 22:04:08",
+    "updated_at": "2023-12-14 22:04:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17619",
+        "material_title": "1222_akiyama_s.jpg",
+        "material_file": "af970fd6f794316bf7d4f8b77e883fab7fe056221cf00b6d96fa975e816e556e17619.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21468",
+    "content_title": "ラーメン",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2023-12-22 10:00:00",
+    "created_at": "2023-12-14 22:04:08",
+    "updated_at": "2023-12-14 22:04:08",
+    "content_text": "1222_akiyama_s.jpg\r\n最近ままとぱぱとお昼にラーメンを食べに行きました。\r\n初めて行ったラーメン屋さんでしたがすごく美味しくまた行きたくなりましたよ♡\r\n\r\nこの世界にはたくさんの美味しいラーメン屋さんがあると思うので色んなお店に行って、お気に入りのお店とか見つけたいなぁ〜なんて最近思っております☺︎♡\r\n\r\n美味しいものを食べると元気出るね(^^)\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17619",
+        "material_title": "1222_akiyama_s.jpg",
+        "material_file": "f986824bded5a79e99addcea2cae5c4572d7869f0b78c4fbcbc1f680e44a326a17619.jpeg"
+      }
+    ],
+    "previous_id": "21581",
+    "next_id": "21467",
+    "saved_materials": [
+      "assets/21468_17619_1222_akiyama_s.jpg"
+    ]
+  }
+}

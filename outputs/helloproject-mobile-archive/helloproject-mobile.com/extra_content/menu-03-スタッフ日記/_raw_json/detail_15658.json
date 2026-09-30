@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 297,
+    "content_id": "15658",
+    "content_title": "工藤の家の屋根裏部屋#83後編～川村文乃～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-03-19 19:32:00",
+    "created_at": "2021-03-19 19:46:58",
+    "updated_at": "2021-03-19 19:47:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13038",
+        "material_title": "20210309_01_s.jpg",
+        "material_file": "70ee84c465c785bf386bd10387c1fd929f269f991526d77acbfa5c5004a4822c13038.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13039",
+        "material_title": "20210309_02_s.jpg",
+        "material_file": "b785c7b2f60b34ce82f718dddcb8d2c745f5b2182850bbaaf8dbb1c3636a346c13039.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15658",
+    "content_title": "工藤の家の屋根裏部屋#83後編～川村文乃～",
+    "content_sub_title": "",
+    "release_date": "2021-03-19 19:32:00",
+    "created_at": "2021-03-19 19:46:58",
+    "updated_at": "2021-03-19 19:47:55",
+    "content_text": "ふくむらの部屋 第83回後編、配信中！\n\n前回に引き続き、アンジュルム川村文乃さんが出演！\n\n20210309_01_s.jpg\n\n「みずき先生のハロプロ講座」のコーナーでは、\nメロン記念日「赤いフリージア」の歌詞についてと、\nメンバー間の私服やアクセサリーのおさがりについて、\n語って頂きました。\n\n20210309_02_s.jpg\n\n冬のコンサートで仲良くなったメンバーや、新たな発見についてもトーク！\n\nハロー！ラジオの譜久村さん選曲プレイリストから、おすすめ曲のお話に。\n今回話題に上がった楽曲をプレイリストにまとめて、<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>にて配信中♬\n\"ふくむらの部屋#83セレクション「聴いて欲しいハロプロソング」\"を要チェックです！\n\n次回は、Juice=Juice工藤由愛さんが出演！\n3/23(火)の配信になります。\n\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13038",
+        "material_title": "20210309_01_s.jpg",
+        "material_file": "584b47acafa63a19c0beafa5b5ca5abe6f3b270b91e74479e2fb88531e20d04013038.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13039",
+        "material_title": "20210309_02_s.jpg",
+        "material_file": "994c58c861b251bffc2196224e3e9a5404f5916686ec51b7d7f867d3e46780b613039.jpeg"
+      }
+    ],
+    "previous_id": "15812",
+    "next_id": "15651",
+    "saved_materials": [
+      "assets/15658_13038_20210309_01_s.jpg",
+      "assets/15658_13039_20210309_02_s.jpg"
+    ]
+  }
+}

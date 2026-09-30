@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 100,
+    "content_id": "16618",
+    "content_title": "チーズ",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-08-31 16:32:00",
+    "created_at": "2021-08-31 16:34:10",
+    "updated_at": "2021-08-31 16:34:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13882",
+        "material_title": "210831_tanimoto_s.jpg",
+        "material_file": "79cf9570d03477418ac8e7d67813155dc4773842e5669d62d6b3a095d2f00e4a13882.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16618",
+    "content_title": "チーズ",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-08-31 16:32:00",
+    "created_at": "2021-08-31 16:34:10",
+    "updated_at": "2021-08-31 16:34:10",
+    "content_text": "210831_tanimoto_s.jpg\r\n最近チーズにハマって\r\n色々食べてるんだ〜\r\nモッツァレラ〜♡♡\r\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "13882",
+        "material_title": "210831_tanimoto_s.jpg",
+        "material_file": "24462fb0628289961fa3724e4a444e43ceaca147129eb2ee02c25788888b1a5513882.jpeg"
+      }
+    ],
+    "previous_id": "16662",
+    "next_id": "16587",
+    "saved_materials": [
+      "assets/16618_13882_210831_tanimoto_s.jpg"
+    ]
+  }
+}

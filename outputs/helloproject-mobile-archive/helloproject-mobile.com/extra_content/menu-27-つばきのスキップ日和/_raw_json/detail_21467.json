@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 116,
+    "content_id": "21467",
+    "content_title": "きらあ♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "155",
+    "release_date": "2023-12-15 10:00:00",
+    "created_at": "2023-12-14 22:04:06",
+    "updated_at": "2023-12-14 22:04:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17618",
+        "material_title": "1215_onoda_s.jpg",
+        "material_file": "8ea660c6a82120504fe5b8dd48aa88e2e3d9f181b0218c316e40309d86c82fc117618.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21467",
+    "content_title": "きらあ♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2023-12-15 10:00:00",
+    "created_at": "2023-12-14 22:04:06",
+    "updated_at": "2023-12-14 22:04:06",
+    "content_text": "最近お布団から出るのに時間がかかる、さおりです♪\r\n\r\nこの間、武道館ライブに向けてネイルしました！\r\n\r\nスキップしたくなるくらい、わくわくしたああー！！\r\n\r\nりこゆめのメンバーカラーをいれてみました！\r\n\r\n想像の何倍もかわいくてしあわせ！\r\n\r\nこういう、楽しみとか幸せがある！と思えると、\r\n\r\nまーーいにち幸せに生きることができます！\r\n\r\nいえい。\r\n\r\n\r\n\r\n今日は、ネイルの写真です♪\r\n\r\n1215_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17618",
+        "material_title": "1215_onoda_s.jpg",
+        "material_file": "854722b0500c942b5d79668c5dab9112ae270a4983fa34fd44832216d5d5f35117618.jpeg"
+      }
+    ],
+    "previous_id": "21468",
+    "next_id": "21332",
+    "saved_materials": [
+      "assets/21467_17618_1215_onoda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 79,
+    "content_id": "25032",
+    "content_title": "ウェーブ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2025-10-01 10:00:00",
+    "created_at": "2025-09-26 19:17:11",
+    "updated_at": "2025-09-26 19:17:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20457",
+        "material_title": "1001_eguchi_s.jpg",
+        "material_file": "1561506149bffe7de7134f7970b83ce8e44c897e3d1e2291bc518ba2b18c072d20457.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25032",
+    "content_title": "ウェーブ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2025-10-01 10:00:00",
+    "created_at": "2025-09-26 19:17:11",
+    "updated_at": "2025-09-26 19:17:11",
+    "content_text": "1001_eguchi_s.jpg\r\n綺麗にウェーブ巻きができるようになりました！！\r\n\r\n【46周目お題：綺麗】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20457",
+        "material_title": "1001_eguchi_s.jpg",
+        "material_file": "510f0037a4462724283b16e5ba902932cc0144c3c1e6c29c66bf00cc13d1baef20457.jpeg"
+      }
+    ],
+    "previous_id": "25034",
+    "next_id": "25031",
+    "saved_materials": [
+      "assets/25032_20457_1001_eguchi_s.jpg"
+    ]
+  }
+}

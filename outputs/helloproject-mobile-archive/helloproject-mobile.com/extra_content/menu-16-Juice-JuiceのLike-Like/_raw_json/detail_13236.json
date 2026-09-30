@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 562,
+    "content_id": "13236",
+    "content_title": "ちょっとしたHappy",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-03-09 10:00:00",
+    "created_at": "2020-03-09 19:51:44",
+    "updated_at": "2020-03-09 19:51:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11244",
+        "material_title": "0309_kudo_s.jpg",
+        "material_file": "225a5d4f02b86172bd4d438b9ec45aaecb22c38ee4fff712107e67de7f17961511244.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13236",
+    "content_title": "ちょっとしたHappy",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-03-09 10:00:00",
+    "created_at": "2020-03-09 19:51:44",
+    "updated_at": "2020-03-09 19:51:44",
+    "content_text": "0309_kudo_s.jpg\r\n髪の毛を結んでいたらヘアゴムがパンッと切れて、床に落ちて見てみたらハートになっていました(⸝⸝⸝´ω`⸝⸝⸝)",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11244",
+        "material_title": "0309_kudo_s.jpg",
+        "material_file": "f49c741ec8ab40a747e6265d6fbb567101ead950f33eb50e3f3c874f38a9244511244.jpeg"
+      }
+    ],
+    "previous_id": "13237",
+    "next_id": "13198",
+    "saved_materials": [
+      "assets/13236_11244_0309_kudo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 367,
+    "content_id": "16508",
+    "content_title": "エモい？",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2021-09-15 10:00:00",
+    "created_at": "2021-07-28 19:23:20",
+    "updated_at": "2022-01-17 14:40:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13783",
+        "material_title": "0915_okamura_s.jpg",
+        "material_file": "01e2f22f2dedef89df47c677bf11ee3a7268b4209221199c8191e69ae87f449613783.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16508",
+    "content_title": "エモい？",
+    "content_sub_title": "岡村美波",
+    "release_date": "2021-09-15 10:00:00",
+    "created_at": "2021-07-28 19:23:20",
+    "updated_at": "2022-01-17 14:40:42",
+    "content_text": "0915_okamura_s.jpg\n島倉りかちゃんがめっちゃ一生懸命撮ってくれたお写真です♡\n\n【13周目お題：構図を意識】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13783",
+        "material_title": "0915_okamura_s.jpg",
+        "material_file": "8f543dfc324ba6200d0a3ceff5e718e7b57bdf5adee44c930cae3a32564132da13783.jpeg"
+      }
+    ],
+    "previous_id": "16802",
+    "next_id": "16507",
+    "saved_materials": [
+      "assets/16508_13783_0915_okamura_s.jpg"
+    ]
+  }
+}

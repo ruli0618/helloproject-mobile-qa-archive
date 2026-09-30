@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 318,
+    "content_id": "14754",
+    "content_title": "工藤の家の屋根裏部屋#79前編～生田衣梨奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-11-04 20:57:00",
+    "created_at": "2020-10-20 18:42:44",
+    "updated_at": "2020-11-04 21:02:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12263",
+        "material_title": "201102_01_s.jpg",
+        "material_file": "2d3c8c7efc8ac10a4e59f8d2abde55f87197ddcf5ca6d696f952faa9ba8a9b7d12263.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12264",
+        "material_title": "201102_02_s.jpg",
+        "material_file": "4f600a83216602c00ac7f046b238efd7b9d596241aefd9db9e58150dfd98e3fb12264.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14754",
+    "content_title": "工藤の家の屋根裏部屋#79前編～生田衣梨奈～",
+    "content_sub_title": "",
+    "release_date": "2020-11-04 20:57:00",
+    "created_at": "2020-10-20 18:42:44",
+    "updated_at": "2020-11-04 21:02:31",
+    "content_text": "ふくむらの部屋 第77回前編配信中！\n\nゲストは、久しぶりの出演。\nモーニング娘。'20生田衣梨奈さんが来てくれました！\n\n201102_01_s.jpg\n\n今年のバースデーイベントについて話して頂きました！\n\nみずき先生のハロプロ講座のコーナーでは、\n方言と「部屋とYシャツと私」の歌詞の意味を深く掘り下げました。\n\n201102_02_s.jpg\n\n【お詫び】\n今回とっても話が盛り上がり、前編の収録にほとんどの時間を使ってしまいました…。\n後編は駆け足で収録し時間も短くなりますが、内容はとっても面白いので、ぜひお聴き頂ければと思います。\n\n次回は、11/17(火)の配信になります。\nお楽しみに。\n\n※換気のためドア・窓を開けた状態で収録していますので、車の通行音などの音で聞きづらい可能性があります。ご了承ください。",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12263",
+        "material_title": "201102_01_s.jpg",
+        "material_file": "8fb3f001c019a7e4c643f5a7b6526bd7a5ef63a1f54f15fa9d3366b3a29b52fb12263.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12264",
+        "material_title": "201102_02_s.jpg",
+        "material_file": "04000f8a85b5f21ac9b67670c233ae8772d74f0b4353625b54766e0b2dd9fa5512264.jpeg"
+      }
+    ],
+    "previous_id": "14853",
+    "next_id": "14842",
+    "saved_materials": [
+      "assets/14754_12263_201102_01_s.jpg",
+      "assets/14754_12264_201102_02_s.jpg"
+    ]
+  }
+}

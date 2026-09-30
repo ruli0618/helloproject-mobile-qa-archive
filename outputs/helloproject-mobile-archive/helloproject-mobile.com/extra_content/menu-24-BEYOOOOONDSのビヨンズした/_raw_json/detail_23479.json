@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 138,
+    "content_id": "23479",
+    "content_title": "5周年イベント",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2024-12-30 10:00:00",
+    "created_at": "2024-12-16 15:31:33",
+    "updated_at": "2024-12-16 15:31:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19313",
+        "material_title": "1230_maeda_s.jpg",
+        "material_file": "50588c9af5df7d36050a5bdbd9e384217dfd2467b1df5134f561add502ff2bd819313.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23479",
+    "content_title": "5周年イベント",
+    "content_sub_title": "前田こころ",
+    "release_date": "2024-12-30 10:00:00",
+    "created_at": "2024-12-16 15:31:33",
+    "updated_at": "2024-12-16 15:31:33",
+    "content_text": "1230_maeda_s.jpg\r\nとってもお気入りの衣装！\r\n\r\n【39周目お題：イベント】",
+    "materials": [
+      {
+        "secretKey": "eb591b537d7ab956e6f5de307aa7f773",
+        "material_id": "19313",
+        "material_title": "1230_maeda_s.jpg",
+        "material_file": "794760c0ef39935f6f966d87ab4b74bb9160a2a88acc046840eeafaee812402b19313.jpeg"
+      }
+    ],
+    "previous_id": "23480",
+    "next_id": "23477",
+    "saved_materials": [
+      "assets/23479_19313_1230_maeda_s.jpg"
+    ]
+  }
+}

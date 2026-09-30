@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 277,
+    "content_id": "16524",
+    "content_title": "暑中見舞いお届け開始！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-08-05 17:57:00",
+    "created_at": "2021-08-05 18:00:17",
+    "updated_at": "2021-08-05 18:02:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13794",
+        "material_title": "210805.jpg",
+        "material_file": "30868960b8b9280e43395fb2def7cd88a9eaa32755ae45502d4bdcf6e4a2524413794.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16524",
+    "content_title": "暑中見舞いお届け開始！",
+    "content_sub_title": "",
+    "release_date": "2021-08-05 17:57:00",
+    "created_at": "2021-08-05 18:00:17",
+    "updated_at": "2021-08-05 18:02:19",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n暑中見舞いプレゼント企画に沢山のご応募ありがとうございました！\n\n本日、当選分の暑中見舞いハガキをポストに投函しましたので、早ければ明日から当選者様のお宅へ届けられるかと思います。\n\nもし暑中見舞いが届いた方は、ぜひハガキの写真を撮って、ハッシュタグ「<a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a>」をつけて、SNSに画像をアップしてくださいね♪\n\n<a href=\"http://helloproject-mobile.com/info/special/content?page=syotyuumimai_2021/index\" target=\"_blank\">暑中見舞い特設ページ</a>は、8/31(火)まで公開中！\nまだ見ていない方は、ぜひご覧ください。\n\n210805.jpg",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13794",
+        "material_title": "210805.jpg",
+        "material_file": "8b9e35a8a0143305e4c12420af1712a77fde5e5a339d56b9138146d61ef6016713794.jpeg"
+      }
+    ],
+    "previous_id": "16526",
+    "next_id": "16414",
+    "saved_materials": [
+      "assets/16524_13794_210805.jpg"
+    ]
+  }
+}

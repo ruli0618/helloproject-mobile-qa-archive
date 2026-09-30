@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 742,
+    "content_id": "8428",
+    "content_title": "青と緑／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-02-19 11:00:00",
+    "created_at": "2018-01-23 14:23:56",
+    "updated_at": "2018-01-23 14:23:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7408",
+        "material_title": "0219_miyazaki_s.jpg",
+        "material_file": "5c6b0cc3ee421ea4d8d754c1a8e26ac7eac008bfab9b5e8f85bafdbafab74a247408.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8428",
+    "content_title": "青と緑／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2018-02-19 11:00:00",
+    "created_at": "2018-01-23 14:23:56",
+    "updated_at": "2018-01-23 14:23:56",
+    "content_text": "0219_miyazaki_s.jpg\r\nこの青と緑の衣装の色が好きです。意外と柔らかい生地なのでそこも好きです！",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7408",
+        "material_title": "0219_miyazaki_s.jpg",
+        "material_file": "7305f1b2ed6769644a66122b0e173f324d5d96f88339b17214d05f8687d95a1e7408.jpeg"
+      }
+    ],
+    "previous_id": "8455",
+    "next_id": "8427",
+    "saved_materials": [
+      "assets/8428_7408_0219_miyazaki_s.jpg"
+    ]
+  }
+}

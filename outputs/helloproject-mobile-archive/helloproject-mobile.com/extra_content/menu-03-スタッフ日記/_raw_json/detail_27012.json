@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 15,
+    "content_id": "27012",
+    "content_title": "工藤の家の軒下#63～弓桁朱琴～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-05-20 00:00:00",
+    "created_at": "2026-09-28 23:52:36",
+    "updated_at": "2026-09-28 23:53:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27012",
+    "content_title": "工藤の家の軒下#63～弓桁朱琴～",
+    "content_sub_title": "",
+    "release_date": "2026-05-20 00:00:00",
+    "created_at": "2026-09-28 23:52:36",
+    "updated_at": "2026-09-28 23:53:51",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第63回はゲストは、弓桁朱琴！\r\n\r\n・マクドナルドCM裏話\r\n・筋トレ事情\r\n・応援席\r\n・フェス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・げったー活動\r\n・自分かっこいいと思う時\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・どんな先輩になる？\r\n・長身メンバーのダンスパフォーマンス\r\n・ブログ\r\n・絶叫マシーン\r\n・卒業メンバーから学ぶこと\r\nについてトーク！\r\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "26965",
+    "next_id": "27011",
+    "saved_materials": []
+  }
+}

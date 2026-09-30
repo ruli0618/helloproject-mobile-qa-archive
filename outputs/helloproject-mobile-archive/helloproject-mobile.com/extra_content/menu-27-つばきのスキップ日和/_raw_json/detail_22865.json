@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 88,
+    "content_id": "22865",
+    "content_title": "雨",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2024-09-20 10:00:00",
+    "created_at": "2024-09-09 18:24:56",
+    "updated_at": "2024-09-09 18:24:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18714",
+        "material_title": "0920_akiyama_s.jpg",
+        "material_file": "1243add11b9582509f2e06412ab4ac369e7f2efd547b11c14e46026040f097d918714.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22865",
+    "content_title": "雨",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2024-09-20 10:00:00",
+    "created_at": "2024-09-09 18:24:56",
+    "updated_at": "2024-09-09 18:24:56",
+    "content_text": "0920_akiyama_s.jpg\r\n灼熱LIVEの時、雨が降っていたけどそんな事1つも気にしなかったくらい楽しかったなぁ♡\r\n\r\n雨でもつばきのみんながいれば心がワクワクするんだあ〜\r\n\r\n\r\n\r\n私は自分の好きなお洋服着て外に出かけるのが大好き<img src=\"/emoji/emoji-images/f3a1.gif\"/><img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nこれから先何歳になってもどんな時でもオシャレを楽しみたい！！最近はそんな事を思って生きております<img src=\"/emoji/emoji-images/f6bc.gif\"/>\r\n\r\n人生楽しんだもん勝ちだね\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "18714",
+        "material_title": "0920_akiyama_s.jpg",
+        "material_file": "517988afe382ac925fe17da0a24ace7de7725bcd6be5ad118194d638c0aabb3a18714.jpeg"
+      }
+    ],
+    "previous_id": "23012",
+    "next_id": "22864",
+    "saved_materials": [
+      "assets/22865_18714_0920_akiyama_s.jpg"
+    ]
+  }
+}

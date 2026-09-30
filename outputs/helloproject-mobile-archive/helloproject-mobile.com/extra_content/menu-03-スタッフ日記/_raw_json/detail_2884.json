@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 723,
+    "content_id": "2884",
+    "content_title": "コメント収録に潜入！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-11 18:45:00",
+    "created_at": "2015-08-11 18:47:21",
+    "updated_at": "2015-11-19 11:10:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2736",
+        "material_title": "image1 (1).jpg",
+        "material_file": "a03e09c9ce605fd7465d85178fcd5ab0df3acf547212fb16046fa363fd49a9962736.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2737",
+        "material_title": "image2 (1).jpg",
+        "material_file": "39c7d7ad4407c4f0a7c28cfa056dc8b077df02ec70640bc465375210159f06d32737.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2738",
+        "material_title": "150811image2.jpg",
+        "material_file": "32fc6a3184fee3a64d7c10fc8e4682166e009a5a83fb8fc7edc3e979b342637f2738.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2739",
+        "material_title": "150811image1.jpg",
+        "material_file": "912a4d3d82b941b5d85351dd8b95bfbc6ee2619245d136070d130406b865f5d82739.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2884",
+    "content_title": "コメント収録に潜入！",
+    "content_sub_title": "",
+    "release_date": "2015-08-11 18:45:00",
+    "created_at": "2015-08-11 18:47:21",
+    "updated_at": "2015-11-19 11:10:57",
+    "content_text": "みなさん、こんにちは！\n \n先日、モーニング娘。‘15の工藤遥によるコメント収録が行われました！\n150811image1.jpg\n \n何のコメント収録かは、\n明日8月12日（水）21時更新の「ハロ！ステ」＃130をご覧ください♪\n \n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/user/helloprojectstation/\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/user/helloprojectstation/</u></font></a>\n</span>\n \n \n150811image2.jpg\n \n \nアナタが見てくれることが、Oh my wish! です！\n\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2736",
+        "material_title": "image1 (1).jpg",
+        "material_file": "9f900be7abc7be7cc1b3a07a647adcf174c1d89ac030266eb19ef94da51af58f2736.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2737",
+        "material_title": "image2 (1).jpg",
+        "material_file": "06778734bcfa0e26acac8d27211fa45e0749d13437594ed75be5dcf2e881f7cb2737.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2738",
+        "material_title": "150811image2.jpg",
+        "material_file": "3f0d909617cc1f084b6fcf92d785e2aa90f2c77bebcb517b25641848f544970c2738.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2739",
+        "material_title": "150811image1.jpg",
+        "material_file": "8d227d1889412fc10aaba4bd9e7097d92c8825d5751b448b79f91ade218ce7e92739.jpeg"
+      }
+    ],
+    "previous_id": "2885",
+    "next_id": "2850",
+    "saved_materials": [
+      "assets/2884_2736_image1 (1).jpg",
+      "assets/2884_2737_image2 (1).jpg",
+      "assets/2884_2738_150811image2.jpg",
+      "assets/2884_2739_150811image1.jpg"
+    ]
+  }
+}

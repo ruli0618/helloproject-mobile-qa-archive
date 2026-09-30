@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 156,
+    "content_id": "14767",
+    "content_title": "おはな",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2020-10-22 19:40:00",
+    "created_at": "2020-10-22 19:42:10",
+    "updated_at": "2020-10-22 19:42:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12278",
+        "material_title": "1022_ono_s.jpg",
+        "material_file": "5e4d018e175e35785f402e867c00f1e2b1165de32bfe18c9cba46e135871ed5912278.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14767",
+    "content_title": "おはな",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-10-22 19:40:00",
+    "created_at": "2020-10-22 19:42:10",
+    "updated_at": "2020-10-22 19:42:10",
+    "content_text": "家族で私のはたちの\r\nお誕生日会をした時に\r\n飾ったお花です\r\n\r\n1022_ono_s.jpg\r\n\r\nいい香りと可愛さで\r\n女子力アップした気分になれた☆",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12278",
+        "material_title": "1022_ono_s.jpg",
+        "material_file": "71e2dd6e5e94c3f7cd74bf2086c930f54d27a8b4afdeb6f91b982e5ce73b3a5812278.jpeg"
+      }
+    ],
+    "previous_id": "14786",
+    "next_id": "14674",
+    "saved_materials": [
+      "assets/14767_12278_1022_ono_s.jpg"
+    ]
+  }
+}

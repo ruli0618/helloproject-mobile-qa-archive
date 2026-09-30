@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 789,
+    "content_id": "7230",
+    "content_title": "ピクニック／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-09-06 11:00:00",
+    "created_at": "2017-08-04 12:21:29",
+    "updated_at": "2017-08-04 12:56:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6360",
+        "material_title": "6474627401614_s.jpg",
+        "material_file": "0d99d8f63da585c41e9797561cdbd3b306f7abdf192a14cbdc31a28d4ca8ebb36360.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7230",
+    "content_title": "ピクニック／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-09-06 11:00:00",
+    "created_at": "2017-08-04 12:21:29",
+    "updated_at": "2017-08-04 12:56:21",
+    "content_text": "6474627401614_s.jpg\r\n撮影でピクニックに行きました♪\r\nいつかみんなで行きたいなっ",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6360",
+        "material_title": "6474627401614_s.jpg",
+        "material_file": "048cac27dc44943d5800e217e00c9b727bd1d87f038525dedf6b8341e89027fc6360.jpeg"
+      }
+    ],
+    "previous_id": "7459",
+    "next_id": "7228",
+    "saved_materials": [
+      "assets/7230_6360_6474627401614_s.jpg"
+    ]
+  }
+}

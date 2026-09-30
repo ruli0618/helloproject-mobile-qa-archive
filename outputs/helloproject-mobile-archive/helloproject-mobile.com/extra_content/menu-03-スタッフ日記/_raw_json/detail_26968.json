@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 4,
+    "content_id": "26968",
+    "content_title": "宣伝会議#125",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-08-27 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22050",
+        "material_title": "125.jpg",
+        "material_file": "306405997283df1017e4f5d3fc21c8e3533f622244bcda51f72063e068866fc022050.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22051",
+        "material_title": "125_01.jpg",
+        "material_file": "1f0ba4d354c9270447932204f63afded50ca85c8eb7b4d6f0ec36fee0241d56322051.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26968",
+    "content_title": "宣伝会議#125",
+    "content_sub_title": "",
+    "release_date": "2026-08-27 00:00:00",
+    "created_at": "2026-09-28 15:37:08",
+    "updated_at": "2026-09-28 15:37:08",
+    "content_text": "125_01.jpg\r\n\r\n宣伝会議第125回は、前田こころ副部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・BEYOOOOONDS横浜アリーナ公演\r\n・夏の定番\r\n・ハロコン\r\n・好きなアイスフレーバー\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「動物園の動物と、野生の動物。どちらが幸せ？」についてディベート！\r\n\r\n後編では、\r\n・コラボパフォーマンス\r\n・新メンバー、後輩メンバー\r\n・秋ツアー、舞台の意気込み\r\n・小島はな\r\n・今褒めたいグループ\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「江端妃咲」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n125.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22050",
+        "material_title": "125.jpg",
+        "material_file": "a537c8940b584a10130e3e3d770e94bc82d374a9b92e24033cf60afd54f6e51b22050.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22051",
+        "material_title": "125_01.jpg",
+        "material_file": "759181ade10d7a1da3b6d22e7e78440e34b788eac74f987fc658bfc4937890a822051.jpeg"
+      }
+    ],
+    "previous_id": "27020",
+    "next_id": "27019",
+    "saved_materials": [
+      "assets/26968_22050_125.jpg",
+      "assets/26968_22051_125_01.jpg"
+    ]
+  }
+}

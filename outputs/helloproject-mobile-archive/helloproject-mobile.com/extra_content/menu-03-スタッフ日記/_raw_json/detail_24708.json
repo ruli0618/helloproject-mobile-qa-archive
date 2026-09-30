@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 149,
+    "content_id": "24708",
+    "content_title": "みよちゃん家の縁側の猫#28 野中美希",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-05-23 00:00:00",
+    "created_at": "2025-07-24 16:04:08",
+    "updated_at": "2025-07-24 16:06:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20182",
+        "material_title": "250724_01.jpg",
+        "material_file": "3c62bd23b229afbe0fc08905b08839e223aed66f89ff34b048ef028fecec429720182.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20183",
+        "material_title": "250724_02.jpg",
+        "material_file": "820e779fb1ce47116bf4d65fbb8ad17572ad11432fb1c7404121d15a6dd6ed8920183.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24708",
+    "content_title": "みよちゃん家の縁側の猫#28 野中美希",
+    "content_sub_title": "",
+    "release_date": "2023-05-23 00:00:00",
+    "created_at": "2025-07-24 16:04:08",
+    "updated_at": "2025-07-24 16:06:52",
+    "content_text": "「みよちゃん家の縁側」#28配信中です！\n第28回ゲストは、ハロモバ宣伝部長！モーニング娘。'23の野中美希さん！\n\n250724_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①ハロモバ最高！\n②ぼくのなえもん/ぼくみよえもん\n③お気に入りの英単語\n\n初声真似をしながらの逆再生チャレンジ<img src=\"/emoji/emoji-images/f651.gif\"/>\nのなえもんはもちろん、みよえもんも結構似ていましたよ！笑\n\n「演技してみよ～！」のコーナーでは、\n「のなえもんとみよび太くん」、「大人の別れ話」の2本をお届けしました。\n\n\nBEYOOOOONDS武道館公演直後の収録でしたので、たくさん感想のお便りをいただきました<img src=\"/emoji/emoji-images/f9bc.gif\"/>\n野中さん目線の感想やリハーサルの様子など裏話もお話しています！\n\nその他にもたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250724_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、つばきファクトリー 豫風瑠乃さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20182",
+        "material_title": "250724_01.jpg",
+        "material_file": "2d5b747b73a9b3cca96d2fb78a1eaabcc58f951c232624994c85f32522283ed220182.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20183",
+        "material_title": "250724_02.jpg",
+        "material_file": "63b5f04e43c1712495cc3ce0d4625553c98c30f9cef9c6e7ef68f1426e41397920183.jpeg"
+      }
+    ],
+    "previous_id": "23370",
+    "next_id": "21240",
+    "saved_materials": [
+      "assets/24708_20182_250724_01.jpg",
+      "assets/24708_20183_250724_02.jpg"
+    ]
+  }
+}

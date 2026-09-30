@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 642,
+    "content_id": "5422",
+    "content_title": "工藤の家の天井裏#19　～天然～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-10-03 22:23:00",
+    "created_at": "2016-10-03 22:21:25",
+    "updated_at": "2016-10-03 22:23:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4884",
+        "material_title": "161003_s.jpg",
+        "material_file": "200a17a1d4df62102744d154d81415b1282c58b5c541ebddaf10baa5e7c9df074884.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4885",
+        "material_title": "161003_2_s.jpg",
+        "material_file": "c9b95a16b111e74f243e52048274e2543ee2d26dc5366a84e3db7bb9fabddb244885.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5422",
+    "content_title": "工藤の家の天井裏#19　～天然～",
+    "content_sub_title": "",
+    "release_date": "2016-10-03 22:23:00",
+    "created_at": "2016-10-03 22:21:25",
+    "updated_at": "2016-10-03 22:23:42",
+    "content_text": "やじまの森やな#19公開しました！\n\n今回のゲストは、\nこぶしファクトリーから小川麗奈さんです。\n\nかつて、こんなにふわふわした回があったでしょうか。\n天然×天然（本人曰くおばか）が交わると、こんな雰囲気になるんですね。\n天然やクラッシャーエピソード、2人の兄妹事情も明らかに。\n\nそして、クイーンの称号を得た矢島さん。\n\n161003_s.jpg\n\n2人が描いた似顔絵はこちら。 \n\n161003_2_s.jpg\n\n次回ゲストは、アンジュルムから登場！\n次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4884",
+        "material_title": "161003_s.jpg",
+        "material_file": "9b3aa60592e2b121b56a650ddb7954f7401584581b5e94a01fb90a8de72e58934884.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4885",
+        "material_title": "161003_2_s.jpg",
+        "material_file": "ac544a476bfd5f48a3ad2968fdc847798a78663e17633fcda432608ab84e6ff54885.jpeg"
+      }
+    ],
+    "previous_id": "5461",
+    "next_id": "5392",
+    "saved_materials": [
+      "assets/5422_4884_161003_s.jpg",
+      "assets/5422_4885_161003_2_s.jpg"
+    ]
+  }
+}

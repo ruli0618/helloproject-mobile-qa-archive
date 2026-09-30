@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 241,
+    "content_id": "20668",
+    "content_title": "夏フェス",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2023-08-15 10:00:00",
+    "created_at": "2023-08-14 19:16:31",
+    "updated_at": "2023-08-14 19:17:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17020",
+        "material_title": "0815_dambara_s.jpg",
+        "material_file": "7bed5472f8bf39c4d5b4bf070ac68811a5678793ef78d3d3144b54f08633c81b17020.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20668",
+    "content_title": "夏フェス",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2023-08-15 10:00:00",
+    "created_at": "2023-08-14 19:16:31",
+    "updated_at": "2023-08-14 19:17:05",
+    "content_text": "0815_dambara_s.jpg\n夏ですねー！\n今年の夏も最後まで楽しもうねぇ<img src=\"/emoji/emoji-images/4730.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17020",
+        "material_title": "0815_dambara_s.jpg",
+        "material_file": "e77dfda7b0dcb58b9f84a3d06111ee095db5f3693dac3d458bfeb846c2ef882b17020.jpeg"
+      }
+    ],
+    "previous_id": "20748",
+    "next_id": "20665",
+    "saved_materials": [
+      "assets/20668_17020_0815_dambara_s.jpg"
+    ]
+  }
+}

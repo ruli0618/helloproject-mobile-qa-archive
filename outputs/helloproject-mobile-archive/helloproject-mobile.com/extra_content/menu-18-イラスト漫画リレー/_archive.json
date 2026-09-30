@@ -1,0 +1,718 @@
+{
+  "menu_id": 18,
+  "label": "イラスト漫画リレー",
+  "generated_at": "2026-09-30T06:40:45.845Z",
+  "categories": [
+    {
+      "idx": 1,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": "0"
+    },
+    {
+      "idx": 2,
+      "category_id": "111",
+      "category_title": "シーズン2",
+      "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": "0"
+    }
+  ],
+  "entries": [
+    {
+      "idx": 1,
+      "category_id": "111",
+      "category_title": "シーズン2",
+      "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "13071",
+      "content_title": "Juice=Juice",
+      "content_sub_title": "工藤由愛",
+      "release_date": "2020-02-13 16:00:00",
+      "created_at": "2020-02-13 16:47:25",
+      "updated_at": "2020-02-13 17:13:22",
+      "content_text": "04_kudo.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "11111",
+          "material_title": "04_kudo.jpg",
+          "material_file": "03cce8a2ba415fb5ccdbe023c3b458d1dd2535921d07dc45dae73cc3500df2bc11111.jpeg"
+        }
+      ],
+      "previous_id": "-1",
+      "next_id": "12911",
+      "saved_materials": [
+        "assets/13071_11111_04_kudo.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "111",
+      "category_title": "シーズン2",
+      "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12911",
+      "content_title": "BEYOOOOONDS",
+      "content_sub_title": "清野桃々姫",
+      "release_date": "2020-01-23 12:00:00",
+      "created_at": "2020-01-23 10:18:40",
+      "updated_at": "2020-01-23 12:03:19",
+      "content_text": "03_kiyono.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10926",
+          "material_title": "03_kiyono.jpg",
+          "material_file": "589da632313f9d8cfb0b2804d1a377c4ebb87e74d59976d2cfcf734eae03dceb10926.jpeg"
+        }
+      ],
+      "previous_id": "13071",
+      "next_id": "12535",
+      "saved_materials": [
+        "assets/12911_10926_03_kiyono.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "111",
+      "category_title": "シーズン2",
+      "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12535",
+      "content_title": "アンジュルム",
+      "content_sub_title": "笠原桃奈",
+      "release_date": "2019-12-09 15:00:00",
+      "created_at": "2019-11-22 14:41:49",
+      "updated_at": "2019-12-09 15:03:10",
+      "content_text": "02_kasahara.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10630",
+          "material_title": "02_kasahara.jpg",
+          "material_file": "08e5ad4ec232d2eaa5cda41213ad73522d1587bb20d12555dc0a9946be69041510630.jpeg"
+        }
+      ],
+      "previous_id": "12911",
+      "next_id": "12534",
+      "saved_materials": [
+        "assets/12535_10630_02_kasahara.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "111",
+      "category_title": "シーズン2",
+      "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12534",
+      "content_title": "モーニング娘。'19",
+      "content_sub_title": "野中美希",
+      "release_date": "2019-11-28 15:00:00",
+      "created_at": "2019-11-22 14:37:03",
+      "updated_at": "2019-11-28 15:18:57",
+      "content_text": "01_nonaka.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10629",
+          "material_title": "01_nonaka.jpg",
+          "material_file": "cf3ab1a150df541c45a66b22010d6a1015547f5c5e83a0ae3a9f9a2ebbdb42e610629.jpeg"
+        }
+      ],
+      "previous_id": "12535",
+      "next_id": "-1",
+      "saved_materials": [
+        "assets/12534_10629_01_nonaka.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 1,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12411",
+      "content_title": "つばきファクトリー",
+      "content_sub_title": "小片リサ",
+      "release_date": "2019-11-14 13:00:00",
+      "created_at": "2019-10-24 13:54:52",
+      "updated_at": "2020-12-25 12:23:53",
+      "content_text": "31_ogata.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10527",
+          "material_title": "31_ogata.jpg",
+          "material_file": "263b9ec0905a517e6e50a13aa948dbb37821dd06f4657e7fbfc27e090323cf6a10527.jpeg"
+        }
+      ],
+      "previous_id": "-1",
+      "next_id": "12410",
+      "saved_materials": [
+        "assets/12411_10527_31_ogata.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12410",
+      "content_title": "BEYOOOOONDS",
+      "content_sub_title": "平井美葉",
+      "release_date": "2019-10-24 17:00:00",
+      "created_at": "2019-10-24 13:49:25",
+      "updated_at": "2019-10-24 16:50:44",
+      "content_text": "30_hirai.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10526",
+          "material_title": "30_hirai.jpg",
+          "material_file": "1ca4168ea7a6630b4eddcc3020bcff03f52df77973c7bad8ee7931aad56a932b10526.jpeg"
+        }
+      ],
+      "previous_id": "12411",
+      "next_id": "12002",
+      "saved_materials": [
+        "assets/12410_10526_30_hirai.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "12002",
+      "content_title": "Juice=Juice",
+      "content_sub_title": "稲場愛香",
+      "release_date": "2019-08-22 15:00:00",
+      "created_at": "2019-08-22 14:05:56",
+      "updated_at": "2019-08-22 14:43:07",
+      "content_text": "28_inaba.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10206",
+          "material_title": "28_inaba.jpg",
+          "material_file": "bda3f489eca645f2c9f52995ce242e56fd6c2cd7ce113232dc59a921181eb75410206.jpeg"
+        }
+      ],
+      "previous_id": "12410",
+      "next_id": "11747",
+      "saved_materials": [
+        "assets/12002_10206_28_inaba.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "11747",
+      "content_title": "カントリー・ガールズ",
+      "content_sub_title": "山木梨沙",
+      "release_date": "2019-07-16 18:00:00",
+      "created_at": "2019-07-16 17:36:33",
+      "updated_at": "2019-07-16 17:52:10",
+      "content_text": "27_yamaki.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "10022",
+          "material_title": "27_yamaki.jpg",
+          "material_file": "d7b30b9527b1e03a90bad46f2de2ea1316693a7e9d829fc4e764d7ad1732f52d10022.jpeg"
+        }
+      ],
+      "previous_id": "12002",
+      "next_id": "11504",
+      "saved_materials": [
+        "assets/11747_10022_27_yamaki.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "11504",
+      "content_title": "モーニング娘。'19",
+      "content_sub_title": "野中美希",
+      "release_date": "2019-06-03 17:00:00",
+      "created_at": "2019-05-27 17:47:53",
+      "updated_at": "2019-06-03 16:46:59",
+      "content_text": "26_nonaka.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "9816",
+          "material_title": "26_nonaka.jpg",
+          "material_file": "f3742ec77afe99422503718eccfdf732c66f847159c678b17bbe21111ff707769816.jpeg"
+        }
+      ],
+      "previous_id": "11747",
+      "next_id": "11362",
+      "saved_materials": [
+        "assets/11504_9816_26_nonaka.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "11362",
+      "content_title": "BEYOOOOONDS",
+      "content_sub_title": "前田こころ",
+      "release_date": "2019-05-20 13:20:00",
+      "created_at": "2019-05-20 12:14:45",
+      "updated_at": "2019-05-20 13:22:51",
+      "content_text": "24_maeda.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "9734",
+          "material_title": "24_maeda.jpg",
+          "material_file": "f7d966d22272320b954173557ae90d7c598c073508bf9a9fc013ba006b6eaad19734.jpeg"
+        }
+      ],
+      "previous_id": "11504",
+      "next_id": "10975",
+      "saved_materials": [
+        "assets/11362_9734_24_maeda.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "10975",
+      "content_title": "モーニング娘。'19",
+      "content_sub_title": "小田さくら",
+      "release_date": "2019-03-14 19:00:00",
+      "created_at": "2019-03-14 17:03:31",
+      "updated_at": "2019-03-14 19:17:36",
+      "content_text": "22_oda.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "9417",
+          "material_title": "22_oda.jpg",
+          "material_file": "6c64ab161f2f5e4b18f960b55283c3a555696a6c38d5bc5f64ce7d057d93e22f9417.jpeg"
+        }
+      ],
+      "previous_id": "11362",
+      "next_id": "10877",
+      "saved_materials": [
+        "assets/10975_9417_22_oda.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "10877",
+      "content_title": "BEYOOOOONDS",
+      "content_sub_title": "島倉りか",
+      "release_date": "2019-02-20 18:00:00",
+      "created_at": "2019-02-20 16:53:08",
+      "updated_at": "2019-02-21 10:03:03",
+      "content_text": "21_shimakura.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "9342",
+          "material_title": "21_shimakura.jpg",
+          "material_file": "0d3457354929414df40d8d72a7b5850310debe097346c4ae3fc72204a64233849342.jpeg"
+        }
+      ],
+      "previous_id": "10975",
+      "next_id": "10717",
+      "saved_materials": [
+        "assets/10877_9342_21_shimakura.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "10717",
+      "content_title": "アンジュルム",
+      "content_sub_title": "佐々木莉佳子",
+      "release_date": "2019-01-28 17:00:00",
+      "created_at": "2019-01-28 13:48:33",
+      "updated_at": "2019-01-28 17:03:51",
+      "content_text": "20_sasaki.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "9249",
+          "material_title": "20_sasaki.jpg",
+          "material_file": "b63addfa742a747c4fea1f6200d4f9e95ea04e1c01ebd82679be8d9f2e87c4f09249.jpeg"
+        }
+      ],
+      "previous_id": "10877",
+      "next_id": "9368",
+      "saved_materials": [
+        "assets/10717_9249_20_sasaki.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "9368",
+      "content_title": "つばきファクトリー",
+      "content_sub_title": "山岸理子",
+      "release_date": "2018-06-28 18:00:00",
+      "created_at": "2018-06-28 16:50:18",
+      "updated_at": "2019-01-28 15:39:52",
+      "content_text": "19_yamagishi.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "8209",
+          "material_title": "19_yamagishi.jpg",
+          "material_file": "8b1857158a8a8ecc1a3a1a2768d48af5b949a44179a81df8d267c942584eec628209.jpeg"
+        }
+      ],
+      "previous_id": "10717",
+      "next_id": "8515",
+      "saved_materials": [
+        "assets/9368_8209_19_yamagishi.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "8515",
+      "content_title": "モーニング娘。'18",
+      "content_sub_title": "石田亜佑美",
+      "release_date": "2018-02-02 18:00:00",
+      "created_at": "2018-02-02 19:25:36",
+      "updated_at": "2018-05-31 17:45:45",
+      "content_text": "15_ishida_02.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "7468",
+          "material_title": "15_ishida_02.jpg",
+          "material_file": "a4459c0e921d1394efee3cc7236d6f10ee0c318bc4921659220d5887e1e860347468.jpeg"
+        }
+      ],
+      "previous_id": "9368",
+      "next_id": "6651",
+      "saved_materials": [
+        "assets/8515_7468_15_ishida_02.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "6651",
+      "content_title": "つばきファクトリー",
+      "content_sub_title": "谷本安美",
+      "release_date": "2017-12-18 16:00:00",
+      "created_at": "2017-05-02 14:18:17",
+      "updated_at": "2017-12-18 15:43:07",
+      "content_text": "14_tanimoto.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "7255",
+          "material_title": "14_tanimoto.jpg",
+          "material_file": "303d1fc1ebfb53ca44589deeb9594186c5c4a1ff0832554f428218d25ea527ed7255.jpeg"
+        }
+      ],
+      "previous_id": "8515",
+      "next_id": "8163",
+      "saved_materials": [
+        "assets/6651_7255_14_tanimoto.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "8163",
+      "content_title": "カントリー・ガールズ",
+      "content_sub_title": "小関舞",
+      "release_date": "2017-12-11 11:00:00",
+      "created_at": "2017-12-11 10:21:27",
+      "updated_at": "2017-12-11 10:42:30",
+      "content_text": "13_ozeki.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "7194",
+          "material_title": "13_ozeki.jpg",
+          "material_file": "f88721614bfd011c7c2409c605181bf9abcb05305fb677ca2aca1577f4453a317194.jpeg"
+        }
+      ],
+      "previous_id": "6651",
+      "next_id": "7351",
+      "saved_materials": [
+        "assets/8163_7194_13_ozeki.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "7351",
+      "content_title": "アンジュルム",
+      "content_sub_title": "上國料萌衣",
+      "release_date": "2017-08-28 17:20:00",
+      "created_at": "2017-08-28 16:08:29",
+      "updated_at": "2017-08-28 17:20:16",
+      "content_text": "010_kamiko.jpg",
+      "materials": [
+        {
+          "secretKey": "b839d95b522f633fc449b149d15838ba",
+          "material_id": "6489",
+          "material_title": "010_kamiko.jpg",
+          "material_file": "e9bd45c6900e0d8c4e35123c120f4b2151ea4788fe795dd4b3a2400017d837276489.jpeg"
+        }
+      ],
+      "previous_id": "8163",
+      "next_id": "7268",
+      "saved_materials": [
+        "assets/7351_6489_010_kamiko.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "7268",
+      "content_title": "Juice=Juice",
+      "content_sub_title": "高木紗友希",
+      "release_date": "2017-08-15 14:40:00",
+      "created_at": "2017-08-15 13:07:53",
+      "updated_at": "2017-08-15 14:44:35",
+      "content_text": "008_takagi.jpg",
+      "materials": [
+        {
+          "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+          "material_id": "6395",
+          "material_title": "008_takagi.jpg",
+          "material_file": "959bb8d09ad06350bc1742b559f2499be4d94f3fecaccd79061a333488c013716395.jpeg"
+        }
+      ],
+      "previous_id": "7351",
+      "next_id": "6751",
+      "saved_materials": [
+        "assets/7268_6395_008_takagi.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "6751",
+      "content_title": "カントリー・ガールズ",
+      "content_sub_title": "船木結",
+      "release_date": "2017-05-29 15:00:00",
+      "created_at": "2017-05-29 15:52:07",
+      "updated_at": "2017-05-29 18:16:05",
+      "content_text": "006_funaki.jpg",
+      "materials": [
+        {
+          "secretKey": "b839d95b522f633fc449b149d15838ba",
+          "material_id": "5948",
+          "material_title": "006_funaki.jpg",
+          "material_file": "10dde55835a3487116a1aeaa432969cb04d3d7c8b1162d21d3ec269ae8fe34a65948.jpeg"
+        }
+      ],
+      "previous_id": "7268",
+      "next_id": "6521",
+      "saved_materials": [
+        "assets/6751_5948_006_funaki.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "6521",
+      "content_title": "アンジュルム",
+      "content_sub_title": "中西香菜",
+      "release_date": "2017-04-19 13:00:00",
+      "created_at": "2017-04-18 17:20:17",
+      "updated_at": "2017-04-19 12:23:26",
+      "content_text": "003_nakanishi.jpg",
+      "materials": [
+        {
+          "secretKey": "b839d95b522f633fc449b149d15838ba",
+          "material_id": "5776",
+          "material_title": "003_nakanishi.jpg",
+          "material_file": "cff906084658b2e26b2774ff91a764c9af750500be9d3530ed33d87874b162045776.jpeg"
+        }
+      ],
+      "previous_id": "6751",
+      "next_id": "5823",
+      "saved_materials": [
+        "assets/6521_5776_003_nakanishi.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "5823",
+      "content_title": "Juice=Juice",
+      "content_sub_title": "金澤朋子",
+      "release_date": "2017-04-03 18:09:00",
+      "created_at": "2016-12-06 10:18:42",
+      "updated_at": "2017-04-03 18:09:22",
+      "content_text": "002_kanazawa.jpg",
+      "materials": [
+        {
+          "secretKey": "b839d95b522f633fc449b149d15838ba",
+          "material_id": "5215",
+          "material_title": "002_kanazawa.jpg",
+          "material_file": "7d17c47149b79ad850ccc6fbbf785e05e0b18f31d6a5ceabee29b4928e88ae335215.jpeg"
+        }
+      ],
+      "previous_id": "6521",
+      "next_id": "5822",
+      "saved_materials": [
+        "assets/5823_5215_002_kanazawa.jpg"
+      ],
+      "unavailable_materials": []
+    },
+    {
+      "idx": 2,
+      "category_id": "55",
+      "category_title": "シーズン1",
+      "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+      "category_color": "#FFFFFF",
+      "menu_id": "18",
+      "is_new": 0,
+      "content_id": "5822",
+      "content_title": "モーニング娘。'17",
+      "content_sub_title": "野中美希",
+      "release_date": "2017-04-03 18:00:00",
+      "created_at": "2016-12-06 10:09:28",
+      "updated_at": "2019-04-24 13:23:16",
+      "content_text": "001_nonaka.jpg",
+      "materials": [
+        {
+          "secretKey": "b839d95b522f633fc449b149d15838ba",
+          "material_id": "5214",
+          "material_title": "001_nonaka.jpg",
+          "material_file": "9419399dcf618dc03b1761c0a23a7b312f3e13ac78a92e9294f0c5e2e137f3555214.jpeg"
+        }
+      ],
+      "previous_id": "5823",
+      "next_id": "-1",
+      "saved_materials": [
+        "assets/5822_5214_001_nonaka.jpg"
+      ],
+      "unavailable_materials": []
+    }
+  ],
+  "errors": []
+}

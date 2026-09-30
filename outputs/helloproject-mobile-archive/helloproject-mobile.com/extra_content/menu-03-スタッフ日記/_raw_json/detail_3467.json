@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 696,
+    "content_id": "3467",
+    "content_title": "「アナタのための音楽用語講座」ギター編!!",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-27 22:00:00",
+    "created_at": "2015-11-26 19:45:09",
+    "updated_at": "2015-11-26 19:47:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3222",
+        "material_title": "IMG_1461_small.jpg",
+        "material_file": "26e658dd5c56fd5b7ce6d7a6600a34b48a99961b498b05dbe3e52fc2e3666c823222.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3467",
+    "content_title": "「アナタのための音楽用語講座」ギター編!!",
+    "content_sub_title": "",
+    "release_date": "2015-11-27 22:00:00",
+    "created_at": "2015-11-26 19:45:09",
+    "updated_at": "2015-11-26 19:47:03",
+    "content_text": "みなさん、こんにちは！\n「MUSIC+（ミュージックプラス）」の制作担当スタッフです。\n\n「MUSIC+」はいつもご覧頂いてますか？\n「MUSIC+」は、ジャンルや世代を超える音楽に、新たな喜びをプラスして、アナタにお届けしていく番組です。\n \n今や「MUSIC+」の名物コーナーともなりつつあるのが「アナタのための音楽用語講座」。\n \n講師であるシャ乱Qのたいせいさんに\n現在生徒のカントリー・ガールズのメンバーが様々な音楽用語を学ぶ、こちらのコーナー。\n \n\n#79-81は、特別講師にLoVendoЯの魚住有希を迎えて、ギターについて学びました！\n\nカントリー・ガールズのメンバーはギターの種類、パーツやエフェクターでの音の違いを勉強しましたが、\n特に「ワウ」というエフェクターがお気に入りでした。\n\n撮影終了後には、実際にギターを弾かせてもらって、\n山木梨沙は「これは楽しくなっちゃうよ～」とご満悦でした。\n\n是非、ご覧ください！！\n\nIMG_1461_small.jpg\n \n<u><a href=\"https://www.youtube.com/user/theuflicks\"><font color=\"#0000ff\">「MUSIC+」はコチラ</font></a></u>\n「MUSIC+」では、メッセージも受け付けております！\n<u><a href=\"http://www.up-front-works.jp/musicplus/\"><font color=\"#0000ff\">メッセージはコチラから</font></a></u>\n",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3222",
+        "material_title": "IMG_1461_small.jpg",
+        "material_file": "d7bb80d514441eb193da9c562e38a5bed00dfb284ac01f1d2b130541495387043222.jpeg"
+      }
+    ],
+    "previous_id": "3513",
+    "next_id": "3465",
+    "saved_materials": [
+      "assets/3467_3222_IMG_1461_small.jpg"
+    ]
+  }
+}

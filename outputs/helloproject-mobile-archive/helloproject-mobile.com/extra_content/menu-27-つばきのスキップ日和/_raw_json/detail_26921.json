@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 4,
+    "content_id": "26921",
+    "content_title": "かわいい衣装のゆう",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2026-09-27 10:00:00",
+    "created_at": "2026-09-24 17:51:11",
+    "updated_at": "2026-09-24 17:51:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21979",
+        "material_title": "0927_murata_s.jpg",
+        "material_file": "7d3f1f551475732e9f8ab7b51eb41cd1feed48e5976ef813b6d0dd67fec9e61221979.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26921",
+    "content_title": "かわいい衣装のゆう",
+    "content_sub_title": "村田結生",
+    "release_date": "2026-09-27 10:00:00",
+    "created_at": "2026-09-24 17:51:11",
+    "updated_at": "2026-09-24 17:51:11",
+    "content_text": "0927_murata_s.jpg\r\nやっほー！村田結生です！\r\n\r\nハロコンの衣装どうだったー？？\r\nゆうはかわちいオレンジ衣装を着たよー！\r\nなかなか着ない系統すぎて似合ってるかな、、？って感じだったけど想像以上にたくさんの方が褒めてくださってめっちゃ嬉しかった♡\r\nみんなありがとう！！\r\n\r\nかわいい系の衣装もたくさん挑戦してみたくなったー！\r\nみんなー！ゆうのどんな衣装姿みてみたいー？\r\n\r\nyouとyuuがスキップしちゃうくらいルンルンで日々過ごせますようにっ",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21979",
+        "material_title": "0927_murata_s.jpg",
+        "material_file": "025aace21bbddc7754dee691dfc254d9ae4bd3971caf7fb0a04627c1a153248021979.jpeg"
+      }
+    ],
+    "previous_id": "26922",
+    "next_id": "26920",
+    "saved_materials": [
+      "assets/26921_21979_0927_murata_s.jpg"
+    ]
+  }
+}

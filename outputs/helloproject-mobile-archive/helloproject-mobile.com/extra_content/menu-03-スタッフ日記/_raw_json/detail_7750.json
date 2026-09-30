@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 569,
+    "content_id": "7750",
+    "content_title": "隣のやじまん家の塀の裏#7",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-10-10 21:43:00",
+    "created_at": "2017-10-10 21:36:05",
+    "updated_at": "2017-10-10 21:43:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6801",
+        "material_title": "171010_1_s.jpg",
+        "material_file": "5051913d073bc1ce0852de6c19d80e78e2210552aa31430a7fc3431d42ac42096801.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6802",
+        "material_title": "171010_2_s.jpg",
+        "material_file": "8b92e61cf7cf3658d49b6ad54ea241c76c01e8c280da77e44a0bea6e83227b956802.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7750",
+    "content_title": "隣のやじまん家の塀の裏#7",
+    "content_sub_title": "",
+    "release_date": "2017-10-10 21:43:00",
+    "created_at": "2017-10-10 21:36:05",
+    "updated_at": "2017-10-10 21:43:53",
+    "content_text": "「隣のやじまん家」第7回配信！\r\n\r\n番組始まってから何度目かの1人喋り配信はいかがでしたでしょうか。\r\n\r\n皆さんから届いたお便りメールをもとに、番組をお送りしました！\r\n\r\n171010_1_s.jpg\r\n\r\n171010_2_s.jpg\r\n\r\n写真集を持っている理由は、番組をチェック！\r\n\r\nそして今回、矢島さんがあるクイズを出題！\r\n答えは次の回で発表しますので、ぜひ皆さん考えてみてくださいね。\r\n\r\n「今月のハッピーバースデー♪」は、引き続き10月にお誕生日を迎える方からのお便りをお待ちしています！\r\nMCの矢島さんが番組内でお祝いさせていただきます。\r\n\r\n「くじ引きトーク」の話題テーマ、「普通のお便り」メールも随時募集中！\r\n番組内で流す楽曲のリクエストや、番組の感想もお送り頂ければ\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n次回配信は、10月24日！\r\n毎回、17時頃の公開予定です。お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6801",
+        "material_title": "171010_1_s.jpg",
+        "material_file": "6e964764fbbba5f146dd5d3b216188924e52e0eb08901991580a9fb0d6c3580b6801.jpeg"
+      },
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6802",
+        "material_title": "171010_2_s.jpg",
+        "material_file": "389f8c49d9642abee63154a58d50c53780e0574a444167d9eebefd96dc0206d06802.jpeg"
+      }
+    ],
+    "previous_id": "7791",
+    "next_id": "7713",
+    "saved_materials": [
+      "assets/7750_6801_171010_1_s.jpg",
+      "assets/7750_6802_171010_2_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 604,
+    "content_id": "11838",
+    "content_title": "夏満喫",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-08-08 10:00:00",
+    "created_at": "2019-08-05 16:09:17",
+    "updated_at": "2019-08-05 16:09:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10104",
+        "material_title": "0808_dambara_s.jpg",
+        "material_file": "13dc5766ae419999844dfa0a9dc1ad3746e0440b8d7731bec18624cb922bdba510104.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11838",
+    "content_title": "夏満喫",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-08-08 10:00:00",
+    "created_at": "2019-08-05 16:09:17",
+    "updated_at": "2019-08-05 16:09:17",
+    "content_text": "0808_dambara_s.jpg\r\n浴衣着て花火大会行きました！\r\nイヤリングもお気に入り。",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10104",
+        "material_title": "0808_dambara_s.jpg",
+        "material_file": "b5666d0afbc2b16025daaf9d4360a7e109c459deb9d23ad6e6fdf6e5a6426dac10104.jpeg"
+      }
+    ],
+    "previous_id": "11902",
+    "next_id": "11837",
+    "saved_materials": [
+      "assets/11838_10104_0808_dambara_s.jpg"
+    ]
+  }
+}

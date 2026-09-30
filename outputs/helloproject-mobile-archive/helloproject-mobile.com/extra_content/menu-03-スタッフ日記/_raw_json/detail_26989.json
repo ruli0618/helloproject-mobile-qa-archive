@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 49,
+    "content_id": "26989",
+    "content_title": "工藤の家の軒下#40～平井美葉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-06-24 00:00:00",
+    "created_at": "2026-09-28 22:59:28",
+    "updated_at": "2026-09-28 22:59:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22075",
+        "material_title": "250626_040.jpg",
+        "material_file": "3eaaa12b1840d45177f0cedb7239579f2b8073c5c6c878d867faa93ec998593e22075.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22076",
+        "material_title": "250626_040_02.jpg",
+        "material_file": "a7e2aadb7b72d500c8e2ff9cf54e23a7e73437e2bd3e992ba740e2eddca8019422076.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26989",
+    "content_title": "工藤の家の軒下#40～平井美葉～",
+    "content_sub_title": "",
+    "release_date": "2025-06-24 00:00:00",
+    "created_at": "2026-09-28 22:59:28",
+    "updated_at": "2026-09-28 22:59:28",
+    "content_text": "250626_040.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第40回はゲストは、平井美葉！\r\n\r\n・新曲のコール\r\n・島倉りか卒業公演\r\n・音楽性の変化\r\n・歌声の成長\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・質問BOX\r\n・思い出の写真\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・節目の日\r\n・打ち上げ事情\r\n・オーディションからの加入\r\n・春ツアーで見つけた課題\r\nについてトーク！\r\n\r\n250626_040_02.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22075",
+        "material_title": "250626_040.jpg",
+        "material_file": "394fd82613b71f92c785d9a11828870ac0798e909739857016719176a102707922075.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22076",
+        "material_title": "250626_040_02.jpg",
+        "material_file": "3eb2c8be7ad24b878eb27ae1959ad5fde80e3c9aa8bfd02e0211641fc9b1d98322076.jpeg"
+      }
+    ],
+    "previous_id": "26954",
+    "next_id": "26988",
+    "saved_materials": [
+      "assets/26989_22075_250626_040.jpg",
+      "assets/26989_22076_250626_040_02.jpg"
+    ]
+  }
+}

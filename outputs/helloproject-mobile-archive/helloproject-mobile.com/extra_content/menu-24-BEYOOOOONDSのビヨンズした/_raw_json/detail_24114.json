@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 114,
+    "content_id": "24114",
+    "content_title": "クセになる！",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2025-04-14 10:00:00",
+    "created_at": "2025-04-09 21:55:45",
+    "updated_at": "2025-04-09 21:58:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19755",
+        "material_title": "0414_shimakura_s.jpg",
+        "material_file": "4eca5697ff984bb193d7672dd17aed59a92f1ecc107ae2f47e737029e1b8450a19755.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24114",
+    "content_title": "クセになる！",
+    "content_sub_title": "島倉りか",
+    "release_date": "2025-04-14 10:00:00",
+    "created_at": "2025-04-09 21:55:45",
+    "updated_at": "2025-04-09 21:58:08",
+    "content_text": "0414_shimakura_s.jpg\n三島で食べたワサビアイス！\nしっかりワサビの味でした！オススメ！\n\n【42周目お題：オススメ！】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19755",
+        "material_title": "0414_shimakura_s.jpg",
+        "material_file": "c30162885483bf8e4c452cd2f34ab6b474b3a3fd825fc61e3a4a6ee734fe2f5919755.jpeg"
+      }
+    ],
+    "previous_id": "24115",
+    "next_id": "23964",
+    "saved_materials": [
+      "assets/24114_19755_0414_shimakura_s.jpg"
+    ]
+  }
+}

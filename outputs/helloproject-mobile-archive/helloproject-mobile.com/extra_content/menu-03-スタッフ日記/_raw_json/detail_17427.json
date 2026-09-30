@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 256,
+    "content_id": "17427",
+    "content_title": "工藤の家の屋根裏部屋#93～松永里愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 20:55:00",
+    "created_at": "2021-12-31 21:08:48",
+    "updated_at": "2021-12-31 22:36:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14542",
+        "material_title": "221231_f93_03_s.jpg",
+        "material_file": "7758dbb30e3a28ce3bd26bee6d98d67fc453eb1f0760a888cfc098122d4aea3214542.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14543",
+        "material_title": "221231_f93_01_s.jpg",
+        "material_file": "44fadf55222b5efea033858d892ba840ed7f40648410975a9962a839eddccd1814543.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14544",
+        "material_title": "221231_f93_02_s.jpg",
+        "material_file": "cd5ec23fd19531a56b6a48a0b0a299ad0fad15cfb51aac6122076ac030f1f89a14544.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14545",
+        "material_title": "221231_f93_04_s.jpg",
+        "material_file": "51d2622fa51179746518e0c3c8820d13bdfd9dae9730487531a7f3c7062a185014545.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17427",
+    "content_title": "工藤の家の屋根裏部屋#93～松永里愛～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 20:55:00",
+    "created_at": "2021-12-31 21:08:48",
+    "updated_at": "2021-12-31 22:36:33",
+    "content_text": "ふくむらの部屋 第93回のゲストは、Juice=Juice松永里愛さん！\n\n※今回から前後編の形態をもとに戻しての配信となります。\n\n集合時間に少々遅れてしまった松永さん。(収録には間に合いました！)\nエレベーターを使わず階段を走って登ってきてくれました。\n\n221231_f93_02_s.jpg\n\n質問きんちゃくでは、\n・好きな○○焼き？\n・余裕を持つ方？ギリギリな方？\nという質問に回答！\n\n新メンバー加入後の心境の変化から、\n公園の魅力や松永さんがデートしたい相手を教えてくれました！\n続・花鳥風月で覚えるのが大変な曲についてもトーク！\n\n221231_f93_01_s.jpg\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・シャッフルで披露した印象的な曲\n・金澤朋子\n・ブログやSNSの写真のこだわり\n・同期の存在\nに関して、語って頂きました。\n\n「ハロプロファン失敗談」のコーナーでは、\n現場かぶりでの失敗、財布をなくしてエピソードを紹介。\n\n221231_f93_04_s.jpg\n\nその他にも、実は仲が良い・もっと話したいと思っているメンバー、\n姉妹になれるとしたら誰となりたいか、\nビジュアルフォトブックをプロデュースするならどんな風に作るか、\n新メンバーが入った時の感想も聞かせてくれました。\n\n221231_f93_03_s.jpg\n\nぜひ、お聴き下さいね♪",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14542",
+        "material_title": "221231_f93_03_s.jpg",
+        "material_file": "b1b36e244f7ffae8d9a5c65110b39f189d865273f9ecece2c9d30e9ebe8d8f2714542.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14543",
+        "material_title": "221231_f93_01_s.jpg",
+        "material_file": "046dd2f6031c51a818e93503a10d7e10a62a7176870114be43375d15ef799fbf14543.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14544",
+        "material_title": "221231_f93_02_s.jpg",
+        "material_file": "024ea62696e671d7c3522b05974c3e01e39e598b5dfe2af84e412d8b37915a9514544.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14545",
+        "material_title": "221231_f93_04_s.jpg",
+        "material_file": "8796245f16d58f9cf83c601426da924e8611d0f4d2d9a83c38a56a7a542178f114545.jpeg"
+      }
+    ],
+    "previous_id": "17428",
+    "next_id": "17426",
+    "saved_materials": [
+      "assets/17427_14542_221231_f93_03_s.jpg",
+      "assets/17427_14543_221231_f93_01_s.jpg",
+      "assets/17427_14544_221231_f93_02_s.jpg",
+      "assets/17427_14545_221231_f93_04_s.jpg"
+    ]
+  }
+}

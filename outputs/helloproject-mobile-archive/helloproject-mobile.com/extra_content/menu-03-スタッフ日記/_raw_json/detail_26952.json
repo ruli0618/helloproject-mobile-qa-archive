@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 55,
+    "content_id": "26952",
+    "content_title": "宣伝会議#109",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-04-24 00:00:00",
+    "created_at": "2026-09-28 15:36:55",
+    "updated_at": "2026-09-28 15:36:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22022",
+        "material_title": "109.jpg",
+        "material_file": "40f17809186ed2092ba22f64d9ff88fb31b96c4724df326299afb260547aff4f22022.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26952",
+    "content_title": "宣伝会議#109",
+    "content_sub_title": "",
+    "release_date": "2025-04-24 00:00:00",
+    "created_at": "2026-09-28 15:36:55",
+    "updated_at": "2026-09-28 15:36:55",
+    "content_text": "宣伝会議第109回は、野中美希部長・前田こころ副部長の二人でお届け！\r\n\r\n前編では、\r\n・夢、目標\r\n・ひなフェスカバーの裏話\r\n・ワクワクドキドキしたこと\r\n・SATOYAMA & SATOUMIイベント裏話\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「一生着るなら、タンクトップ？セーター？」についてディベート！\r\n\r\n後編では、\r\n・ひなフェス メロン記念日\r\n・ひなフェス リハの工夫\r\n・ハロコン シャッフル\r\n・ちぇるここ\r\n・梅干し\r\n・渡韓\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「植村葉純」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n109.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22022",
+        "material_title": "109.jpg",
+        "material_file": "c2486a407b1fd0b1fe6828acd27c8e93c7d48f3b8ed0bfef7ced1208cb9ec49522022.jpeg"
+      }
+    ],
+    "previous_id": "26985",
+    "next_id": "26984",
+    "saved_materials": [
+      "assets/26952_22022_109.jpg"
+    ]
+  }
+}

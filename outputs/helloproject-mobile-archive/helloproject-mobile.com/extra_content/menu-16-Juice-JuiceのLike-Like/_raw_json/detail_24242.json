@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 83,
+    "content_id": "24242",
+    "content_title": "爆笑",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2025-05-01 20:27:00",
+    "created_at": "2025-05-01 20:37:08",
+    "updated_at": "2025-05-01 20:37:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19871",
+        "material_title": "0501_irie_s.jpg",
+        "material_file": "343869706fe6db9b0c0f47c16a18e43fab4cf1e6a5148946df2a650717aeda5819871.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24242",
+    "content_title": "爆笑",
+    "content_sub_title": "入江里咲",
+    "release_date": "2025-05-01 20:27:00",
+    "created_at": "2025-05-01 20:37:08",
+    "updated_at": "2025-05-01 20:37:08",
+    "content_text": "0501_irie_s.jpg\r\n\r\nこの前の盛りだくさん会の写真<img src=\"/emoji/emoji-images/4728.gif\"/>\r\n\r\n楽しそうでしょ<img src=\"/emoji/emoji-images/f649.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "19871",
+        "material_title": "0501_irie_s.jpg",
+        "material_file": "337f72ab75d32d6bff3dffce9fbca0171b0fa3b0b28a9665cbd3d50aa6eadce519871.jpeg"
+      }
+    ],
+    "previous_id": "24320",
+    "next_id": "24218",
+    "saved_materials": [
+      "assets/24242_19871_0501_irie_s.jpg"
+    ]
+  }
+}

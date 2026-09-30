@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 654,
+    "content_id": "10493",
+    "content_title": "夢の",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-01-01 11:00:00",
+    "created_at": "2018-12-11 15:32:01",
+    "updated_at": "2018-12-11 15:32:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9068",
+        "material_title": "0101_miyamoto_s.jpg",
+        "material_file": "7984da6a70e0c1c35e6431ba5eb71080e37723c76e21e017d9cfd5f756409a409068.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10493",
+    "content_title": "夢の",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-01-01 11:00:00",
+    "created_at": "2018-12-11 15:32:01",
+    "updated_at": "2018-12-11 15:32:01",
+    "content_text": "0101_miyamoto_s.jpg\r\n景色だよ。笑",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9068",
+        "material_title": "0101_miyamoto_s.jpg",
+        "material_file": "8ca19edb3c8b3f828770af545a0634009adcc8091d2afab7cda464519f95951a9068.jpeg"
+      }
+    ],
+    "previous_id": "10495",
+    "next_id": "10492",
+    "saved_materials": [
+      "assets/10493_9068_0101_miyamoto_s.jpg"
+    ]
+  }
+}

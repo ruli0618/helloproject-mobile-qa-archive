@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 614,
+    "content_id": "11618",
+    "content_title": "イヤリング",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-06-24 10:00:00",
+    "created_at": "2019-06-19 22:46:40",
+    "updated_at": "2019-06-19 22:46:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9904",
+        "material_title": "0624_dambara_s.jpg",
+        "material_file": "23cb6d1379a8175b60a223edf52b182754b9431cef14bf8fcbdd7761aa15236b9904.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11618",
+    "content_title": "イヤリング",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-06-24 10:00:00",
+    "created_at": "2019-06-19 22:46:40",
+    "updated_at": "2019-06-19 22:46:40",
+    "content_text": "0624_dambara_s.jpg\r\nちょっと変わったイヤリング〜\r\nお気に入りです♪",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9904",
+        "material_title": "0624_dambara_s.jpg",
+        "material_file": "5cdb794910bc7628ec0ef58138b9dffd04018fb7e61f52249a490588c8be65c79904.jpeg"
+      }
+    ],
+    "previous_id": "11672",
+    "next_id": "11603",
+    "saved_materials": [
+      "assets/11618_9904_0624_dambara_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 183,
+    "content_id": "21925",
+    "content_title": "バスツアー",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2024-03-21 10:00:00",
+    "created_at": "2024-03-18 19:22:04",
+    "updated_at": "2024-03-18 19:22:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17989",
+        "material_title": "0321_uemura_s.jpg",
+        "material_file": "a2206942d7ed8e158bb9fa49115e87333b47b867321b43d137ab06b5715a09a817989.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21925",
+    "content_title": "バスツアー",
+    "content_sub_title": "植村あかり",
+    "release_date": "2024-03-21 10:00:00",
+    "created_at": "2024-03-18 19:22:04",
+    "updated_at": "2024-03-18 19:22:04",
+    "content_text": "0321_uemura_s.jpg\r\n植村あかりです！\r\n\r\n\r\nバスツアーの余韻から抜け出せましたか？\r\n\r\n本当に楽しかったねー！\r\n\r\nオフショットの量が物語っています\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "17989",
+        "material_title": "0321_uemura_s.jpg",
+        "material_file": "cd23ddeb48b670e03d7dd98cc57281e954572eda0277a38f1b20cdb74435bf0a17989.jpeg"
+      }
+    ],
+    "previous_id": "21926",
+    "next_id": "21924",
+    "saved_materials": [
+      "assets/21925_17989_0321_uemura_s.jpg"
+    ]
+  }
+}

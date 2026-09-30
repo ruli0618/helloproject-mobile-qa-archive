@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 628,
+    "content_id": "11230",
+    "content_title": "山に雪",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2019-04-16 16:44:00",
+    "created_at": "2019-04-16 16:45:02",
+    "updated_at": "2019-04-16 16:45:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9606",
+        "material_title": "0416_miyazaki_s.jpg",
+        "material_file": "70cd8e138d5248d311c64693026e8e3d32c18da87ac668ff803be4ab5ad33e9e9606.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11230",
+    "content_title": "山に雪",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2019-04-16 16:44:00",
+    "created_at": "2019-04-16 16:45:02",
+    "updated_at": "2019-04-16 16:45:02",
+    "content_text": "0416_miyazaki_s.jpg\r\n4月もまだ山には雪が。いいね。",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9606",
+        "material_title": "0416_miyazaki_s.jpg",
+        "material_file": "2bdacd7dd545cb9bca61c5303be2d1e8f8b4164008c422faf1cd6c9fb2773fcc9606.jpeg"
+      }
+    ],
+    "previous_id": "11233",
+    "next_id": "11180",
+    "saved_materials": [
+      "assets/11230_9606_0416_miyazaki_s.jpg"
+    ]
+  }
+}

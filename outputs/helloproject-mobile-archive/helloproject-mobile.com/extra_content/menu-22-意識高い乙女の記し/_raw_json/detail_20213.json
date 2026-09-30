@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 4,
+    "content_id": "20213",
+    "content_title": "初ネイル",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2023-05-28 10:00:00",
+    "created_at": "2023-05-16 15:48:08",
+    "updated_at": "2023-05-16 15:48:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16697",
+        "material_title": "0528_kasai_s.jpg",
+        "material_file": "a99b009073c4849018f0ed6d81f161133e34146a906857afb3fed78f71890d5016697.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20213",
+    "content_title": "初ネイル",
+    "content_sub_title": "河西結心",
+    "release_date": "2023-05-28 10:00:00",
+    "created_at": "2023-05-16 15:48:08",
+    "updated_at": "2023-05-16 15:48:08",
+    "content_text": "先日、まりんと初ジェルネイルをしてきました<img src=\"/emoji/emoji-images/f3a1.gif\"/>初ジェルネイルで気分も上がりました！美意識高くなった気分＾＾いろんなデザインも今度やってみたいな〜\r\nネイルしてウキウキな写真です♪\r\n\r\n0528_kasai_s.jpg",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16697",
+        "material_title": "0528_kasai_s.jpg",
+        "material_file": "2bb3e645812ad51d3b441962ba4c8d50e92d4bd63ed93f674bdefec43b22ff0116697.jpeg"
+      }
+    ],
+    "previous_id": "20259",
+    "next_id": "20179",
+    "saved_materials": [
+      "assets/20213_16697_0528_kasai_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 345,
+    "content_id": "18602",
+    "content_title": "8月スタート！",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-08-11 10:00:00",
+    "created_at": "2022-08-01 16:40:16",
+    "updated_at": "2022-08-01 16:40:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15498",
+        "material_title": "0811_irie_s.jpg",
+        "material_file": "2938dfaca81551c65b29e255bb42a01cb7741a1dcf1fc319e2f758b4bde07b6815498.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18602",
+    "content_title": "8月スタート！",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-08-11 10:00:00",
+    "created_at": "2022-08-01 16:40:16",
+    "updated_at": "2022-08-01 16:40:16",
+    "content_text": "もう8月ってあっという間すぎますね、、(´⊙ω⊙`)\r\n\r\n\r\n今年は、夏らしいことがたくさんできている気がして嬉しいです〜♪\r\n\r\n\r\n花火もやったしかき氷も食べたし！！\r\n\r\n\r\n0811_irie_s.jpg\r\n\r\n\r\n今月末にあるファンクラブイベントもとっても楽しみ(๑˃̵ᴗ˂̵)\r\n\r\n\r\n毎日暑いですが、体調に気をつけて楽しく過ごしましょう〜〜\r\n\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15498",
+        "material_title": "0811_irie_s.jpg",
+        "material_file": "345c36e90115dc1eaae09829494b980a36ddd18eac6edae8a23c38d9a3d3346215498.jpeg"
+      }
+    ],
+    "previous_id": "18633",
+    "next_id": "18601",
+    "saved_materials": [
+      "assets/18602_15498_0811_irie_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 647,
+    "content_id": "10599",
+    "content_title": "会社に",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2019-01-21 10:00:00",
+    "created_at": "2019-01-08 12:51:56",
+    "updated_at": "2019-01-08 12:51:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9142",
+        "material_title": "0121_miyazaki_s.jpg",
+        "material_file": "fe29c156e0c368da14053b75d3ea90e8360466d8fd4d230bbd1a9c9abf2fbf209142.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10599",
+    "content_title": "会社に",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2019-01-21 10:00:00",
+    "created_at": "2019-01-08 12:51:56",
+    "updated_at": "2019-01-08 12:51:56",
+    "content_text": "0121_miyazaki_s.jpg\r\n会社にクリスマスツリーがあってテンションが上がってたこの子たちが写真撮ってと言ってきました。撮りました。面白かった～～。",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9142",
+        "material_title": "0121_miyazaki_s.jpg",
+        "material_file": "576cedb9ff4e6ec4af8ed23b99ce8bc6740ec7e7fd565885a0248b7b9bbdbdab9142.jpeg"
+      }
+    ],
+    "previous_id": "10601",
+    "next_id": "10598",
+    "saved_materials": [
+      "assets/10599_9142_0121_miyazaki_s.jpg"
+    ]
+  }
+}

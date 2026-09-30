@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 462,
+    "content_id": "16145",
+    "content_title": "和食☆",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-06-03 10:00:00",
+    "created_at": "2021-05-28 19:11:11",
+    "updated_at": "2021-05-28 19:11:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13463",
+        "material_title": "210603_inaba_s.jpg",
+        "material_file": "e649bb5160bcc3697a92d72b048b1cd7c56ddec9828d0db79af3f5c01c53e9b913463.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "16145",
+    "content_title": "和食☆",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-06-03 10:00:00",
+    "created_at": "2021-05-28 19:11:11",
+    "updated_at": "2021-05-28 19:11:11",
+    "content_text": "210603_inaba_s.jpg\r\n和食作った日の〜！\r\nポートレートで適当に撮ったから奥ボヤけてるし配置とか変だけど！笑\r\n肉じゃがは定期的に食べたくなります♪\r\n食のことだけを考えて無になれる料理をしている時間は結構好きなんです♡ブログとかでは紹介するほどでもないかなと写真あんまりあげないから、レアですね(*´ο`*)",
+    "materials": [
+      {
+        "secretKey": "41d77d4701bf8053be3d52bbc7478dfe",
+        "material_id": "13463",
+        "material_title": "210603_inaba_s.jpg",
+        "material_file": "c75f244d70e9d001a224cdde75c9b9e42ee3651dcc4fa6b6444554b3da65b88313463.jpeg"
+      }
+    ],
+    "previous_id": "16146",
+    "next_id": "16070",
+    "saved_materials": [
+      "assets/16145_13463_210603_inaba_s.jpg"
+    ]
+  }
+}

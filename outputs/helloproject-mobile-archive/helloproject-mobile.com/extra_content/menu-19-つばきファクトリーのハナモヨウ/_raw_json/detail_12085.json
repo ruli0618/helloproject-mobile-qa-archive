@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 31,
+    "content_id": "12085",
+    "content_title": "白いお花",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-09-06 15:35:00",
+    "created_at": "2019-09-06 15:36:34",
+    "updated_at": "2019-09-06 15:36:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10292",
+        "material_title": "0906_ono_s.jpg",
+        "material_file": "c0835fc9d8b88d76937ddfc6c48825183c2905308c26c0f1ec8f77d4a718b9f310292.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12085",
+    "content_title": "白いお花",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-09-06 15:35:00",
+    "created_at": "2019-09-06 15:36:34",
+    "updated_at": "2019-09-06 15:36:34",
+    "content_text": "0906_ono_s.jpg\r\n白いお花を見つけたよ<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\nちっちゃなお花、\r\nたくさん集まると可愛さが増すね<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10292",
+        "material_title": "0906_ono_s.jpg",
+        "material_file": "5d57e31af40de3bab822fd5b75e5d0b055418153bfc7725bc6b2126f3d7b9df510292.jpeg"
+      }
+    ],
+    "previous_id": "12094",
+    "next_id": "12068",
+    "saved_materials": [
+      "assets/12085_10292_0906_ono_s.jpg"
+    ]
+  }
+}

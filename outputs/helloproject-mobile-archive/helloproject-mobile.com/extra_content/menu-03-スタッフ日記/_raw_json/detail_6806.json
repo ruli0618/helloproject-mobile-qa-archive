@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 597,
+    "content_id": "6806",
+    "content_title": "ふくむらの部屋",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-06-07 23:45:00",
+    "created_at": "2017-06-07 23:35:26",
+    "updated_at": "2017-06-07 23:47:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5997",
+        "material_title": "fukumura_500.jpg",
+        "material_file": "f1f0c960c9d263e0352e2f3730cb0895543b4718da7c32341751db499d2cecb25997.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6806",
+    "content_title": "ふくむらの部屋",
+    "content_sub_title": "",
+    "release_date": "2017-06-07 23:45:00",
+    "created_at": "2017-06-07 23:35:26",
+    "updated_at": "2017-06-07 23:47:25",
+    "content_text": "こんばんは。\nスタッフ番号2番です！\n\nもうご存知の方も多いと思いますが、前回の配信で最終回を迎えた「やじまの部屋」の後任パーソナリティが決まりました！「やじまの部屋」を受け継ぐのは、モーニング娘。'17リーダー譜久村聖！題して「ふくむらの部屋」がスタート！\n\nfukumura_500.jpg\n(譜久村さん写真集の発売決定、おめでとうございます！)\n\n初回配信に向けて、早速メールを募集中です。(締切が短くすみません。)\n出演者への質問、ご意見ご要望等など…普通のお便りもOK！番組でこれから始まる新コーナー案も募集しちゃいます！どしどしメールをお送り下さい！\n\n締切：6/8(木)20:00\n宛先：<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\">halomoba@gmail.com</a>\n対象：ラジオ会員登録アドレス\n\n【注意事項】（※必ずお読みください。）\n※メール件名に番組名・コーナー名、本文にはラジオネームを明記の上お送り下さい。\n※募集は、700円会員に登録している方が対象となります。\n400円会員の方、ハロー！プロジェクトモバイルに登録していない方のメールは採用されませんので、あらかじめご了承下さい。\n※お便りメールは、マイページのユーザー情報に登録しているメールアドレスからお送りください。\nまだメールアドレスのご登録がお済みでない方は、マイページ/ユーザー情報から登録をお願い致します。\n\nそして、7月からスタート予定の矢島舞美MC新番組ラジオは、只今番組名を募集中！\nこちらもお送り下さいね！\nメール件名に「矢島新ラジオタイトル」と記入し、<a href=\"mailto:halomoba@gmail.com?subject=矢島新ラジオタイトル\">halomoba@gmail.com</a>まで！\n\nそしてそして、只今ハロ！モバ宣伝部イベント開催に向けて、メールを募集中！\n開催希望メールが1000通集まらなければ、イベントは開催されません！(去年の秋に募集した際は残念な結果に…)\n部長・工藤遥、副部長・尾形春水、書記・野中美希、秘書・梁川奈々美の悲願達成のため、ご協力下さい！(ゲストも来るかも！？)\n\nメール件名に「次こそは宣伝部イベント開催希望」と記入し、<a href=\"mailto:halomoba@gmail.com?subject=次こそは宣伝部イベント開催希望\">halomoba@gmail.com</a>までメールを送るだけ！※締切：6/25(日)\n\n本文は空欄のままでも、思いの丈を綴って頂いても構いません。\nこの記事を見ていて、まだメールを送ってなかった！という方はぜひ一通のメール送信をお願いします♪\n\n毎月25日頃配信のラジオ番組「宣伝会議」の励ましメールも引き続き募集中！\n宣伝部員メンバーへの質問・励まし・感想・企画案等など何でもお気軽にどうぞ！\n書記・野中美希がレギュラーコーナーを持つなら、どんなコーナーが見たいのかおすすめコーナー案もお待ちしています♪\n※締切：6/20(火)11時\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオはこちらから</a>",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "5997",
+        "material_title": "fukumura_500.jpg",
+        "material_file": "f1cf10da30eaddd1d5682c596b3bc41db6b7ece56f8237d0ac31f4fffa3568655997.jpeg"
+      }
+    ],
+    "previous_id": "6859",
+    "next_id": "6803",
+    "saved_materials": [
+      "assets/6806_5997_fukumura_500.jpg"
+    ]
+  }
+}

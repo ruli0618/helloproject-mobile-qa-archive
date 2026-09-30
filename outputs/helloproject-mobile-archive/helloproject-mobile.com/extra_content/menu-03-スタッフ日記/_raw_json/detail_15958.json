@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 288,
+    "content_id": "15958",
+    "content_title": "宣伝会議ラジオ本日公開！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-05-10 16:20:00",
+    "created_at": "2021-05-10 16:30:47",
+    "updated_at": "2021-05-10 16:30:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15958",
+    "content_title": "宣伝会議ラジオ本日公開！",
+    "content_sub_title": "",
+    "release_date": "2021-05-10 16:20:00",
+    "created_at": "2021-05-10 16:30:47",
+    "updated_at": "2021-05-10 16:30:47",
+    "content_text": "配信を延期しておりました「ハロ！モバ宣伝会議ラジオ」第61回は、本日夜公開予定です。\r\n\r\n楽しみにお待ちいただきました皆さん、大変お待たせしました。\r\n\r\n約1年ぶりに部員全員が会議室に集まって収録した今回、ハロ！モバ宣伝部としてもお知らせがございます。\r\n\r\nぜひお聴き下さい！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "15968",
+    "next_id": "16130",
+    "saved_materials": []
+  }
+}

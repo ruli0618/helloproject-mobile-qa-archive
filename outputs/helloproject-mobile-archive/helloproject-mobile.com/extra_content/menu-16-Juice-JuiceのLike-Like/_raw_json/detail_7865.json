@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 766,
+    "content_id": "7865",
+    "content_title": "女神／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-03 11:00:00",
+    "created_at": "2017-10-31 23:17:06",
+    "updated_at": "2017-11-27 11:53:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6923",
+        "material_title": "6905349064035_s.jpg",
+        "material_file": "66216b1d26694a7a94bc466bb8cab72698ce07c5d924653c8aab5242c3cb94996923.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7865",
+    "content_title": "女神／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-12-03 11:00:00",
+    "created_at": "2017-10-31 23:17:06",
+    "updated_at": "2017-11-27 11:53:22",
+    "content_text": "6905349064035_s.jpg\r\n大好きな°C-uteの矢島舞美さんにパリのお土産を渡せました！矢島さんは女神です<img src=\"/emoji/emoji-images/4f4e.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6923",
+        "material_title": "6905349064035_s.jpg",
+        "material_file": "752f1171ab0d10fc0e1074978f05a96d73c4d9688ece5c433f332935711290336923.jpeg"
+      }
+    ],
+    "previous_id": "7866",
+    "next_id": "7861",
+    "saved_materials": [
+      "assets/7865_6923_6905349064035_s.jpg"
+    ]
+  }
+}

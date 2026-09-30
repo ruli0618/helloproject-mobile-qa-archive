@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 64,
+    "content_id": "17827",
+    "content_title": "写真！",
+    "content_sub_title": "福田真琳",
+    "category_id": "115",
+    "release_date": "2022-03-23 10:00:00",
+    "created_at": "2022-03-22 21:23:57",
+    "updated_at": "2022-03-22 21:23:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14908",
+        "material_title": "220323_fukuda_s.jpg",
+        "material_file": "5920564641ba7ed8621dfea2a23fd5af54c0ae878a5e2b0ff0d29034381b933b14908.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17827",
+    "content_title": "写真！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2022-03-23 10:00:00",
+    "created_at": "2022-03-22 21:23:57",
+    "updated_at": "2022-03-22 21:23:57",
+    "content_text": "220323_fukuda_s.jpg\r\n先日やぎちゃんとたくさん\r\n写真を撮りました!\r\n\r\nきれいな写真を\r\nたくさん撮ることができて\r\n気分は、\r\n釜揚げあげでした〜！！！\r\n\r\nこれからもたくさん\r\n素敵な写真を撮っていきたいです！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14908",
+        "material_title": "220323_fukuda_s.jpg",
+        "material_file": "d82403f6fd0dc8b3064d61f424c9ddd7c3a870eb2e568289d63e9951c1348cb514908.jpeg"
+      }
+    ],
+    "previous_id": "17831",
+    "next_id": "17794",
+    "saved_materials": [
+      "assets/17827_14908_220323_fukuda_s.jpg"
+    ]
+  }
+}

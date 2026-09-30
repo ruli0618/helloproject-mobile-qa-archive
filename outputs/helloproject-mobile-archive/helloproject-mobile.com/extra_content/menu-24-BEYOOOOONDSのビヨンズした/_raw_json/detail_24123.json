@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 106,
+    "content_id": "24123",
+    "content_title": "魚推し",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2025-05-14 10:00:00",
+    "created_at": "2025-04-09 21:56:30",
+    "updated_at": "2025-04-09 21:59:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19764",
+        "material_title": "0514_satoyoshi_s.jpg",
+        "material_file": "a9e084d0e0c8de39bea6fa2987f19bd4bc68955531bdc79c85850782ff736fb819764.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24123",
+    "content_title": "魚推し",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2025-05-14 10:00:00",
+    "created_at": "2025-04-09 21:56:30",
+    "updated_at": "2025-04-09 21:59:16",
+    "content_text": "0514_satoyoshi_s.jpg\n肉より魚派！\n最近食べたサーモンレアカツ、美味しいのでオススメです\n\n【42周目お題：オススメ！】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19764",
+        "material_title": "0514_satoyoshi_s.jpg",
+        "material_file": "f360d5ffa534e948b03ed1a9308e3ae299566fbd757227721761181127b26cad19764.jpeg"
+      }
+    ],
+    "previous_id": "24394",
+    "next_id": "24122",
+    "saved_materials": [
+      "assets/24123_19764_0514_satoyoshi_s.jpg"
+    ]
+  }
+}

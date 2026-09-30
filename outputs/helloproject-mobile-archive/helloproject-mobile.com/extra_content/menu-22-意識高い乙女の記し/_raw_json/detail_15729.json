@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 127,
+    "content_id": "15729",
+    "content_title": "めがね",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2021-03-30 19:55:00",
+    "created_at": "2021-03-30 19:56:52",
+    "updated_at": "2021-03-30 19:56:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13095",
+        "material_title": "210330_tanimoto_s.jpg",
+        "material_file": "57a5e543fb15ca72e2224eadf543ff26401063e3812985a8e982b396df06e6a613095.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15729",
+    "content_title": "めがね",
+    "content_sub_title": "谷本安美",
+    "release_date": "2021-03-30 19:55:00",
+    "created_at": "2021-03-30 19:56:52",
+    "updated_at": "2021-03-30 19:56:52",
+    "content_text": "210330_tanimoto_s.jpg\r\n花粉症なので\r\n花粉対策メガネして\r\n頑張ってるよ<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n❤︎ami❤︎",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13095",
+        "material_title": "210330_tanimoto_s.jpg",
+        "material_file": "3a42aaea8699b3b198fe30fa317843f191d9582467a515b68726e8a8cc2ac79113095.jpeg"
+      }
+    ],
+    "previous_id": "15797",
+    "next_id": "15679",
+    "saved_materials": [
+      "assets/15729_13095_210330_tanimoto_s.jpg"
+    ]
+  }
+}

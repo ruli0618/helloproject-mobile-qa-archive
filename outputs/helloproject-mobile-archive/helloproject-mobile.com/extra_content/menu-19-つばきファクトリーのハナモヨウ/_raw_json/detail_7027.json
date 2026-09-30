@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 153,
+    "content_id": "7027",
+    "content_title": "空と花",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2017-07-19 11:42:00",
+    "created_at": "2017-07-19 11:42:30",
+    "updated_at": "2017-07-19 11:43:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6180",
+        "material_title": "170714_yamagishi.JPG",
+        "material_file": "63fa5c02ff7421b7ddfea03d2ab5b062451f4dafc7032f7ef9b4b6eb6a68b1f06180.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7027",
+    "content_title": "空と花",
+    "content_sub_title": "山岸理子",
+    "release_date": "2017-07-19 11:42:00",
+    "created_at": "2017-07-19 11:42:30",
+    "updated_at": "2017-07-19 11:43:53",
+    "content_text": "こんにちはー(♡´∀`♡)\r\n\r\n\r\nつばきファクトリーの山岸理子です！\r\n\r\n\r\n今日の空、みましたか？\r\n\r\n青く澄み渡った綺麗な青空に、\r\n真っ白な雲がちょこちょこある空。\r\n\r\n\r\nなんか、今日の空を見ると\r\n嫌なことも忘れますね～\r\n\r\n\r\n嫌なことないけど！笑\r\n\r\n\r\n今日の空は、\r\n\"ぼくのなつやすみ\"というゲームに\r\n出てくる空に似ていて、\r\nとても好きです。\r\n\r\n\r\nよく、小さい頃\r\n夏になるとそのゲームをやってました！\r\n\r\n\r\nあの昭和な雰囲気大好きなんです♡\r\n\r\n\r\n\r\nさて、今日のお花は、\r\n\r\nこちら。\r\n\r\n\r\n\r\n170714_yamagishi.JPG\r\n\r\n\r\n\r\n今日も一生懸命、生きてます。\r\n\r\n\r\nこれから、お花がたくさん\r\nあるであろう所に行ってきます。\r\n\r\n\r\nでわ、今日も１日がんばりこりこ～！\r\n",
+    "materials": [
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6180",
+        "material_title": "170714_yamagishi.JPG",
+        "material_file": "0a4ee448aab74cb89bd6f04d3774ce9b20e230c1355ee4926b91bdff35a29c996180.jpeg"
+      }
+    ],
+    "previous_id": "7069",
+    "next_id": "7001",
+    "saved_materials": [
+      "assets/7027_6180_170714_yamagishi.JPG"
+    ]
+  }
+}

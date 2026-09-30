@@ -1,0 +1,254 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 70,
+    "content_id": "23401",
+    "content_title": "アン10ルム日記！ 日本武道館編",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-12-02 18:21:00",
+    "created_at": "2024-11-30 16:25:42",
+    "updated_at": "2024-12-03 00:17:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19248",
+        "material_title": "1130_05_s.jpg",
+        "material_file": "c3c167e95062fd8f236d8f9edadadc18abcf476c0d46dd772ff770465d8ffe8419248.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19249",
+        "material_title": "1130_02_s.jpg",
+        "material_file": "e2765fdd4143518bca5e97d4bc171309c8d88c815318d41dd1102b0331fb22f319249.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19250",
+        "material_title": "1130_01_s.jpg",
+        "material_file": "842548069c52aa5075966a55d2f15ed23a8fe8f927130cebe1900253775a2be119250.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19251",
+        "material_title": "1130_04_s.jpg",
+        "material_file": "2f6ac193ac3cd6f0f16c557df6ae5244af1f594b026d9ef166a394a387c5e47119251.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19252",
+        "material_title": "1130_03_s.jpg",
+        "material_file": "22c48defe854a78999ddf91b132ed983962fdfbaa0209fb89d79a18c690055b319252.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19253",
+        "material_title": "1130_07_s.jpg",
+        "material_file": "635af6f8e0a131fd72f36e3654fe1ae82b26e631b37a67ed0368e6f67864e98319253.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19254",
+        "material_title": "1130_06_s.jpg",
+        "material_file": "26b9c172641e3db6d923254f2bf5243ed2d5e366424618089c9e33625245d64519254.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19255",
+        "material_title": "1130_08_s.jpg",
+        "material_file": "24208ba3c1ea00f8dca478ebd8b96ba3c2d2497ece9e6434b70947a72e28482719255.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19256",
+        "material_title": "1130_10_s.jpg",
+        "material_file": "363e149a81551a0087d7de35434eda7e6920f91dcde00b2e8193700f0014ebd519256.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19257",
+        "material_title": "1130_09_s.jpg",
+        "material_file": "05b36ad8fcc49341924ee38bc2a0ee08cda283c3efa34d097f4fcd5a4fe9b1dd19257.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19258",
+        "material_title": "1130_11_s.jpg",
+        "material_file": "9ab635964957b2dacc3a8a0c1f1a055091b5ce877ea6c6efd523d0700418527e19258.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19259",
+        "material_title": "1130_12_s.jpg",
+        "material_file": "fed945bcfbebb57bd8b78bbaf750352dfd3adad0978c91db621353ea2ce9e74219259.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19260",
+        "material_title": "1130_13_s.jpg",
+        "material_file": "cb72a62b1279c4ac52253431f6cdd63bb7f533f7dfe6898cd888cf3dfdfcfdf419260.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19261",
+        "material_title": "1130_15_s.jpg",
+        "material_file": "0a9cddfbd557767061e15c8ed9c6e3ba375c3c5c6b548c1129b2597f002c456a19261.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19262",
+        "material_title": "1130_14_s.jpg",
+        "material_file": "3f14ba07d7eb9990c3af815fac35f6140d1e16a108a958c76174d7b1c7c1e88419262.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19263",
+        "material_title": "1130_16_s.jpg",
+        "material_file": "5a6a43ad55c73b9b8dd659babcdfe1917c495f87625c1a29db3f25544a58721119263.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23401",
+    "content_title": "アン10ルム日記！ 日本武道館編",
+    "content_sub_title": "",
+    "release_date": "2024-12-02 18:21:00",
+    "created_at": "2024-11-30 16:25:42",
+    "updated_at": "2024-12-03 00:17:53",
+    "content_text": "ハロ！モバ会員の皆様おはようございますこんにちはこんばんは！\nアンジュルムマネージャーです。\n\nアンジュルムは今年で10周年！\n今回、秋ツアーの裏側や日常の様子をハロ！モバスタッフ日記でお届けしていきます。\nハロ！モバでしか見られない写真や動画も載せていきますのでチェックよろしくお願いします！\n※スタッフ日記に掲載する写真や動画はハロ！モバ限定コンテンツになります。転載等はご遠慮ください。\n\n<img src=\"/emoji/emoji-images/f7d0.gif\"/>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nアンジュルム秋ツアー\nANGERME 10th ANNIVERSARY TOUR 2024 AUTUMN「ROOTS」\n川村文乃 FINAL ☆KIRAKIRA☆\n11月28日(木)日本武道館\nありがとうございました！\n\n9月から始まった今ツアー、メンバーのROOTSや皆さんのROOTSは感じていただけましたか？<img src=\"/emoji/emoji-images/4f55.gif\"/>\nそして日本武道館での川村文乃 FINAL。\n川村のこだわりが詰まった、<img src=\"/emoji/emoji-images/4f4f.gif\"/>KIRAKIRA<img src=\"/emoji/emoji-images/4f4f.gif\"/>しちゅー1日になりましたね<img src=\"/emoji/emoji-images/f3a1.gif\"/><img src=\"/emoji/emoji-images/4f4e.gif\"/>！\n\n1130_02_s.jpg\n\n日本武道館の楽屋では上國料が流行りの歌を大合唱…いつも通りでした<img src=\"/emoji/emoji-images/f3a1.gif\"/><img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\n\n<img src=\"/emoji/emoji-images/4f4f.gif\"/>KIRAKIRA<img src=\"/emoji/emoji-images/4f4f.gif\"/>マイク<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n名前の横にあるパーツも川村が選んでくれました<img src=\"/emoji/emoji-images/4f4e.gif\"/>\nモニターにうつるとキラキラ光ってとっても可愛かったですね！\n\n1130_01_s.jpg\n\nそして、アンコール明けのドレス<img src=\"/emoji/emoji-images/f46f.gif\"/>\ntanaka daisukeさんに手掛けていただきました。ありがとうございます！\n魚<img src=\"/emoji/emoji-images/4739.gif\"/>\n\n1130_04_s.jpg\n\n鱗<img src=\"/emoji/emoji-images/4739.gif\"/>\n\n1130_03_s.jpg\n\n川村だからこそ着ることのできる、素敵なライトパープルのドレスでした<img src=\"/emoji/emoji-images/f46f.gif\"/>\n\nリハーサルの風景を少しお届け<img src=\"/emoji/emoji-images/4522.gif\"/>\n\n1130_05_s.jpg\n\n1130_06_s.jpg\n\n1130_08_s.jpg\n\n1130_07_s.jpg\n\n1130_10_s.jpg\n\n1130_09_s.jpg\n\nそしていよいよ本番！\n今回も、放出ー！！！！！\n\n1130_11_s.jpg\n\n1130_12_s.jpg\nしんみりしてたら勿体ないですよー！の練習をしていました<img src=\"/emoji/emoji-images/475c.gif\"/>\n\n1130_14_s.jpg\n\n袖にて、この時の掛け声はkeep your ☆KIRAKIRA☆〜！\n\n1130_13_s.jpg\n\n1130_15_s.jpg\n\nみんな、本当によく頑張りました！\nそして川村、今まで本当にお疲れ様<img src=\"/emoji/emoji-images/f649.gif\"/>\n\n日本武道館の帰り道、星がとっても綺麗でした<img src=\"/emoji/emoji-images/4f4f.gif\"/>\n川村の言っていた通りでしたね<img src=\"/emoji/emoji-images/f3a1.gif\"/>\n\n1130_16_s.jpg\n\nこれからもアンジュルムの応援をよろしくお願いします！\n\n---------------------------------------------\n<img src=\"/emoji/emoji-images/f6e5.gif\"/>11/13(水)発売！\n「初恋、花冷え/悠々閑々 gonna be alright!!」\n<img src=\"/emoji/emoji-images/f9d5.gif\"/><a href=\"https://youtu.be/DanyiY9-wQU\" target=\"_blank\"><u>https://youtu.be/DanyiY9-wQU</u></a>\n<img src=\"/emoji/emoji-images/f9d5.gif\"/><a href=\"https://youtu.be/9E-lCkYw9ak\" target=\"_blank\"><u>https://youtu.be/9E-lCkYw9ak</u></a>\n\n「うれしいのにね、泣けちゃうわ」\n初回生産限定盤SPに収録！\n<img src=\"/emoji/emoji-images/f9d5.gif\"/><a href=\"https://youtu.be/sHkk7liR7Rk\" target=\"_blank\"><u>https://youtu.be/sHkk7liR7Rk</u></a>\nリリースイベントにて撮影しました<img src=\"/emoji/emoji-images/475d.gif\"/>\n\n<img src=\"/emoji/emoji-images/f6e5.gif\"/>川村文乃(アンジュルム) 卒業記念「Graduation Memorial CD」\n「夢見た15年 ☆キラキラver.☆」\n川村文乃からのメッセージが収録。\n<img src=\"/emoji/emoji-images/f9d5.gif\"/><a href=\"https://www.elineupmall.com/c671/angerme-kawamura-gmcd/\" target=\"_blank\"><u>https://www.elineupmall.com/c671/angerme-kawamura-gmcd/</u></a>\n\n<img src=\"/emoji/emoji-images/f368.gif\"/> Hello! Project 研修生発表会 2024 12月「カトレア」\n12/7(土)　Zepp DiverCity (東京)\n12/14(土)　Zepp Namba (大阪)\nアンジュルムゲスト出演<img src=\"/emoji/emoji-images/4f4e.gif\"/> チケット一般発売中！\n<img src=\"/emoji/emoji-images/f9d5.gif\"/><a href=\"https://eplus.jp/sf/detail/0189140001\" target=\"_blank\"><u>https://eplus.jp/sf/detail/0189140001</u></a>\n\n\nアン10ルム日記ROOTS編、これにて終了！\n最後まで読んでいただき、ありがとうございました！\nアンジュルムマネージャーより",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19248",
+        "material_title": "1130_05_s.jpg",
+        "material_file": "f380e4ee35a279052ed38212d1e58f410588947808d75930a8e0b6c0e472218f19248.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19249",
+        "material_title": "1130_02_s.jpg",
+        "material_file": "a1937732c824f3afbfeb8b3ad2e3a4795f1cf25b76bcc014cbe65665fb0a7b2019249.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19250",
+        "material_title": "1130_01_s.jpg",
+        "material_file": "1702b8bea40b24702d31fa91d660f1e025a2f6ebf1ab3c24886eb9c127bb7f3519250.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19251",
+        "material_title": "1130_04_s.jpg",
+        "material_file": "9c18d3a52699432c458fd4a53a8f07b96c137142468257bf59f235e9aa134d4b19251.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19252",
+        "material_title": "1130_03_s.jpg",
+        "material_file": "5e74063b36567d8eec36338de2ce669349d9fd89ae328ac982394d6771eb83bc19252.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19253",
+        "material_title": "1130_07_s.jpg",
+        "material_file": "983d1f2af75b07f8d2e8e586219a94eccc94ab417a81bc8260116f5f85a8901e19253.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19254",
+        "material_title": "1130_06_s.jpg",
+        "material_file": "0e307ec80479c79ca9e26e07f2eea9d55c2444eb37461fb820ffc5435770616519254.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19255",
+        "material_title": "1130_08_s.jpg",
+        "material_file": "1de8ae9e47488534a9482384457f31e41f93e0723edaa88023a5915d7253bfb219255.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19256",
+        "material_title": "1130_10_s.jpg",
+        "material_file": "99577a8466008617b96a41ac20e1ddf6d416e76ca5ba61925fc3cc68a1da15cc19256.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19257",
+        "material_title": "1130_09_s.jpg",
+        "material_file": "245bfe37795b91d0b278310ee480f4997628bd081a4d0faafd5fbe6756c1044b19257.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19258",
+        "material_title": "1130_11_s.jpg",
+        "material_file": "50bea245a7beb08f0b61a61be2518bafc494b5fcc6ffe04817d1538872d885dd19258.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19259",
+        "material_title": "1130_12_s.jpg",
+        "material_file": "ea8b656b1dd9e7e115744e527a036afe245c427a59a901b14386f8502eadb8d119259.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19260",
+        "material_title": "1130_13_s.jpg",
+        "material_file": "657fca810415c6c804c4b58a5a67a8aa369c5be25e48902ff2228746deb9ea1d19260.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19261",
+        "material_title": "1130_15_s.jpg",
+        "material_file": "75e35ff964fcac1743697a0549e08ed2b8ecd3801f842cf952dc7ceb30436bf719261.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19262",
+        "material_title": "1130_14_s.jpg",
+        "material_file": "b12ccf933842b1f5c86cce28e508c65aed13e54f1118410c8ddf6b55673221ac19262.jpeg"
+      },
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "19263",
+        "material_title": "1130_16_s.jpg",
+        "material_file": "60cd20ba8671a8b9686e8d17d0b4c60a5fc56b1d5bc188db0e72975600c0e69619263.jpeg"
+      }
+    ],
+    "previous_id": "26975",
+    "next_id": "23352",
+    "saved_materials": [
+      "assets/23401_19248_1130_05_s.jpg",
+      "assets/23401_19249_1130_02_s.jpg",
+      "assets/23401_19250_1130_01_s.jpg",
+      "assets/23401_19251_1130_04_s.jpg",
+      "assets/23401_19252_1130_03_s.jpg",
+      "assets/23401_19253_1130_07_s.jpg",
+      "assets/23401_19254_1130_06_s.jpg",
+      "assets/23401_19255_1130_08_s.jpg",
+      "assets/23401_19256_1130_10_s.jpg",
+      "assets/23401_19257_1130_09_s.jpg",
+      "assets/23401_19258_1130_11_s.jpg",
+      "assets/23401_19259_1130_12_s.jpg",
+      "assets/23401_19260_1130_13_s.jpg",
+      "assets/23401_19261_1130_15_s.jpg",
+      "assets/23401_19262_1130_14_s.jpg",
+      "assets/23401_19263_1130_16_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 342,
+    "content_id": "18635",
+    "content_title": "初めての",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2022-08-23 10:00:00",
+    "created_at": "2022-08-16 15:17:39",
+    "updated_at": "2022-08-16 15:17:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15528",
+        "material_title": "0823_endo_s.jpg",
+        "material_file": "eb62d87f1b0c9bc99fa74ec88971b26bc68bf05328d827d9b2855113489d2b1315528.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18635",
+    "content_title": "初めての",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2022-08-23 10:00:00",
+    "created_at": "2022-08-16 15:17:39",
+    "updated_at": "2022-08-16 15:17:39",
+    "content_text": "0823_endo_s.jpg\r\n初めての『Juice=JuiceのLike=Like』更新です！！\r\nこれから、よろしくお願いします！\r\nアイス大好き♡",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15528",
+        "material_title": "0823_endo_s.jpg",
+        "material_file": "362f669e50e62a1007fdf525b8d680e4c97db5438245106aea2a2ef843130ecc15528.jpeg"
+      }
+    ],
+    "previous_id": "18636",
+    "next_id": "18634",
+    "saved_materials": [
+      "assets/18635_15528_0823_endo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 129,
+    "content_id": "21249",
+    "content_title": "工藤の家の屋根裏部屋#141～櫻井梨央～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-09-19 00:00:00",
+    "created_at": "2023-11-14 20:49:58",
+    "updated_at": "2023-11-14 20:55:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17459",
+        "material_title": "230919_02_s.jpg",
+        "material_file": "5bb409de5b18a68a2343080938338138467445437a09f73ce2ea4c03f763241517459.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17460",
+        "material_title": "230919_01_s.jpg",
+        "material_file": "77f16f3b6395476abc1fa1c198168794d5c58d875440e51098eb756407ceaf9017460.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21249",
+    "content_title": "工藤の家の屋根裏部屋#141～櫻井梨央～",
+    "content_sub_title": "",
+    "release_date": "2023-09-19 00:00:00",
+    "created_at": "2023-11-14 20:49:58",
+    "updated_at": "2023-11-14 20:55:04",
+    "content_text": "ふくむらの部屋 第141回は、櫻井梨央さんが登場！\r\n\r\n230919_01_s.jpg\r\n\r\n・ツアーを終えた心境\r\n・代々木25周年ライブ\r\nのお話からスタート！\r\n\r\n「ふくむらの部屋100の質問」のコーナーでは、\r\n5問ずつ10問の質問に答えました！\r\n70問達成！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・覚えること\r\n・ツアーのお気に入りポイント\r\nを語りました！\r\n\r\n後半では、\r\n・「non-no web」インタビュー\r\n・同期\r\nについてトーク！\r\n\r\n230919_02_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17459",
+        "material_title": "230919_02_s.jpg",
+        "material_file": "72d0c0cf2874e89d39b8f487783eb83733c3604e1cccce2860dcdfdafb44dc7d17459.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17460",
+        "material_title": "230919_01_s.jpg",
+        "material_file": "fcf300b623c9b1cdd954043a193d7a2549626ba7da3c6739eac42762d00e569817460.jpeg"
+      }
+    ],
+    "previous_id": "23374",
+    "next_id": "21251",
+    "saved_materials": [
+      "assets/21249_17459_230919_02_s.jpg",
+      "assets/21249_17460_230919_01_s.jpg"
+    ]
+  }
+}

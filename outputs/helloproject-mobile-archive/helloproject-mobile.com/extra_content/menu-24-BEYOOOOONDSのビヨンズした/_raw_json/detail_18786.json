@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 295,
+    "content_id": "18786",
+    "content_title": "野外イベント！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2022-10-12 10:00:00",
+    "created_at": "2022-09-05 13:53:54",
+    "updated_at": "2022-09-05 13:53:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15654",
+        "material_title": "1012_satoyoshi_s.jpg",
+        "material_file": "511a9fbe9b03321384465d770d731c50e01c4282defbe051a6b7e4b92aa2536315654.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18786",
+    "content_title": "野外イベント！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2022-10-12 10:00:00",
+    "created_at": "2022-09-05 13:53:54",
+    "updated_at": "2022-09-05 13:53:54",
+    "content_text": "1012_satoyoshi_s.jpg\r\n西田汐里ちゃんに撮ってもらった今年の夏の野外イベントでの1枚！\r\n野外イベントは普段と全く違う環境で暖かい時期ならではなので毎回ワクワクしますし、楽しみながら挑んでいます！\r\n\r\n【21周目お題：楽しい】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15654",
+        "material_title": "1012_satoyoshi_s.jpg",
+        "material_file": "d5fd75adfa9297f6af3c25a33310c0055f7ae455377f4ecad0864c5e54e89f6e15654.jpeg"
+      }
+    ],
+    "previous_id": "19018",
+    "next_id": "18785",
+    "saved_materials": [
+      "assets/18786_15654_1012_satoyoshi_s.jpg"
+    ]
+  }
+}

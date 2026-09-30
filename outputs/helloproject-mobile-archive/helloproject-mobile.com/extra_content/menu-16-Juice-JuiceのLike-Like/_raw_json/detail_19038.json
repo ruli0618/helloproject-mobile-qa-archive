@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 321,
+    "content_id": "19038",
+    "content_title": "23",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-11-03 10:00:00",
+    "created_at": "2022-10-27 17:13:22",
+    "updated_at": "2022-10-27 17:13:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15842",
+        "material_title": "1103_uemura_s.jpg",
+        "material_file": "f5b1c1e47e898a0e06d161849d3c81acad40b2af2514aebed4f7ca7cebf5ef6915842.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19038",
+    "content_title": "23",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-11-03 10:00:00",
+    "created_at": "2022-10-27 17:13:22",
+    "updated_at": "2022-10-27 17:13:22",
+    "content_text": "1103_uemura_s.jpg\r\n植村あかりです！\r\n\r\n\r\n23を見つけたので撮ってみた！！\r\nネイルも可愛くてお気に入り！\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "4f6aad380ad19b8cf75a12e6c45b25e3",
+        "material_id": "15842",
+        "material_title": "1103_uemura_s.jpg",
+        "material_file": "6ea578225539daf101f2034a91f47a090d2abedfc376945b7d6fa53538aca6b715842.jpeg"
+      }
+    ],
+    "previous_id": "19078",
+    "next_id": "19037",
+    "saved_materials": [
+      "assets/19038_15842_1103_uemura_s.jpg"
+    ]
+  }
+}

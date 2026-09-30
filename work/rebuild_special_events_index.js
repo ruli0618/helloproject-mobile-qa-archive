@@ -142,7 +142,7 @@ function eventImages(key) {
     .map(file => ({ src: relFromOut(file), title: imageTitle(file) }));
 }
 
-const events = [
+const curatedEvents = [
   { key: 'countdown2026', title: 'カウントダウン特設 2026', date: '2026', href: 'pages/countdown2026/index.html', color: '#d15f2f' },
   { key: 'syotyuumimai_2026', title: '暑中見舞い 2026', date: '2026', href: 'pages/syotyuumimai_2026/index.html', color: '#0b7fab' },
   { key: 'syotyuumimai_2025', title: '暑中見舞い 2025', date: '2025', href: 'pages/syotyuumimai_2025/index.html', color: '#0b7fab' },
@@ -150,7 +150,24 @@ const events = [
   { key: 'nenmatsu_2025', title: '年末特集 2025', date: '2025', href: 'pages/nenmatsu_2025/index.html', color: '#6b63b5' },
   { key: 'nenshi_2026', title: '年始特集 2026', date: '2026', href: 'pages/nenshi_2026/index.html', color: '#f1881a' },
   { key: 'maeda_word', title: '前田こころ 今月の一言', date: '', href: 'pages/maeda_word/index.html', color: '#20a239' },
-]
+];
+
+const reportPath = path.join(OUT, '_special_events_report.json');
+const report = fs.existsSync(reportPath) ? JSON.parse(fs.readFileSync(reportPath, 'utf8')) : { eventSeeds: [] };
+const knownKeys = new Set(curatedEvents.map(item => item.key));
+const discoveredEvents = (report.eventSeeds || []).flatMap((seed, index) => {
+  const source = String(seed.content_sub_title || '').replace(/^\/+/, '');
+  const key = source.split(/[/?#]/)[0];
+  if (!key || knownKeys.has(key)) return [];
+  knownKeys.add(key);
+  const pathname = source.replace(/\?.*$/, '');
+  const page = pathname.endsWith('/index') ? `${pathname}.html` : (/\.html?$/i.test(pathname) ? pathname : `${pathname}.html`);
+  const dateMatch = String(seed.release_date || '').match(/\d{4}/);
+  const palette = ['#1689a7', '#c04a56', '#4b8b55', '#8a6cbb', '#d17932', '#378a82'];
+  return [{ key, title: seed.content_title || key, date: dateMatch?.[0] || '', href: `pages/${page}`, color: palette[index % palette.length] }];
+});
+
+const events = [...curatedEvents, ...discoveredEvents]
   .filter(item => fs.existsSync(path.join(OUT, item.href)) || eventImages(item.key).length)
   .map(item => ({ ...item, images: eventImages(item.key) }));
 
@@ -176,6 +193,7 @@ const archiveLinks = `<div class="nav-title">他のアーカイブ</div>
 <a class="archive-link-row" style="--cat:#127e97" href="../hello_pedia/index.html"><span></span><strong>ハローペディア</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#4a88c7" href="../hello_pedia/media.html"><span></span><strong>妄想動画</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#d15f2f" href="../tour_diary/index.html"><span></span><strong>ツアー日記</strong><b>開く</b></a>
+<a class="archive-link-row" style="--cat:#198878" href="../extra_content/index.html"><span></span><strong>追加コンテンツ</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#0b7fab" href="../mail/index.html"><span></span><strong>メール</strong><b>開く</b></a>
 <a class="archive-link-row" style="--cat:#2b8a5f" href="../radio/index.html"><span></span><strong>ハローラジオ</strong><b>開く</b></a>`;
 

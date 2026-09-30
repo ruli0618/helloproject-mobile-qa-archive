@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 351,
+    "content_id": "18506",
+    "content_title": "ネイル",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-07-21 10:00:00",
+    "created_at": "2022-07-14 17:08:03",
+    "updated_at": "2022-07-14 17:08:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15406",
+        "material_title": "0721_uemura_s.jpg",
+        "material_file": "3cd7874c7cdd53fffda98f8b1b39de595eeba0f92f65338c186600180b8648f015406.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 342,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18506",
+    "content_title": "ネイル",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-07-21 10:00:00",
+    "created_at": "2022-07-14 17:08:03",
+    "updated_at": "2022-07-14 17:08:03",
+    "content_text": "植村あかりです！\r\n\r\nいまの人差し指のネイルが枝豆食べてる時にややこしいことに気がつきました\r\n\r\n0721_uemura_s.jpg\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "7f61bcaa840a4921ab9fbafa1839bec8",
+        "material_id": "15406",
+        "material_title": "0721_uemura_s.jpg",
+        "material_file": "4ff9d5b527e64dec5080567602aa1221850fa13a9c4dceb273c5b266d2c2c14d15406.jpeg"
+      }
+    ],
+    "previous_id": "18522",
+    "next_id": "18505",
+    "saved_materials": [
+      "assets/18506_15406_0721_uemura_s.jpg"
+    ]
+  }
+}

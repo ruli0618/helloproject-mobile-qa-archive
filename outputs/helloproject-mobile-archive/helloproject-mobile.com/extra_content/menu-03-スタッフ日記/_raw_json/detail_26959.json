@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 32,
+    "content_id": "26959",
+    "content_title": "宣伝会議#116",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-11-27 00:00:00",
+    "created_at": "2026-09-28 15:37:01",
+    "updated_at": "2026-09-28 15:37:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22034",
+        "material_title": "116_01.jpg",
+        "material_file": "2af1012b5102dbd30ed8b0b00c5a0fd164511e85159d611d4babceac91ecb57b22034.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22053",
+        "material_title": "116.jpg",
+        "material_file": "5b3fed7a8703776a141f0402da971b1ed02cf5566e712b7e373150665130bf7722053.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26959",
+    "content_title": "宣伝会議#116",
+    "content_sub_title": "",
+    "release_date": "2025-11-27 00:00:00",
+    "created_at": "2026-09-28 15:37:01",
+    "updated_at": "2026-09-28 15:37:01",
+    "content_text": "116_01.jpg\r\n\r\n宣伝会議第116回は、前田こころ副部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・バースデーイベント\r\n・BEYOOOOOPERETTAの感想\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「一生使えなくなるとしたら、使えないものはどちらを選ぶ？冷凍機能？冷蔵機能？」についてディベート！\r\n\r\n後編では、\r\n・撮影可能イベント\r\n・盛れ！ミ・アモーレ\r\n・気になる系統の服装\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「上村麗菜」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n116.jpg",
+    "materials": [
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22034",
+        "material_title": "116_01.jpg",
+        "material_file": "2ceb7c9447a6d43e5f1e876d6eaa991c491f4bce08462afc50b4925d978e59c522034.jpeg"
+      },
+      {
+        "secretKey": "8b49a0fd96e63a6c45d461f1ee66c025",
+        "material_id": "22053",
+        "material_title": "116.jpg",
+        "material_file": "71ca349bf58d6e095f4db2d16b6b8154dfb15497030fafa76d8bffc6f258193422053.jpeg"
+      }
+    ],
+    "previous_id": "27001",
+    "next_id": "27000",
+    "saved_materials": [
+      "assets/26959_22034_116_01.jpg",
+      "assets/26959_22053_116.jpg"
+    ]
+  }
+}

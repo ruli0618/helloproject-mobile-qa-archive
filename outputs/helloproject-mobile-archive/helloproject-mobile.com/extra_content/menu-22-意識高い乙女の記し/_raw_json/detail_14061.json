@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 173,
+    "content_id": "14061",
+    "content_title": "髪",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-06-30 18:47:00",
+    "created_at": "2020-06-30 18:48:46",
+    "updated_at": "2020-06-30 18:48:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11735",
+        "material_title": "0630_yamagishi_s.jpg",
+        "material_file": "a0930e6b369d926e2b28d9c983899799d724c344781fc2213cb85e910a7e318511735.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14061",
+    "content_title": "髪",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-06-30 18:47:00",
+    "created_at": "2020-06-30 18:48:46",
+    "updated_at": "2020-06-30 18:48:46",
+    "content_text": "お元気ですか？\r\n山岸理子です！\r\n数ヶ月ぶりに髪の毛カットしました！軽くなってスッキリしたよー\r\n髪は女の命ってどっかで聞いたことある！\r\n髪のケアは大事だね！\r\n\r\n0630_yamagishi_s.jpg\r\n\r\n今日もがんばりこりこー",
+    "materials": [
+      {
+        "secretKey": "cb9e80efd985934f7f31942b780854c9",
+        "material_id": "11735",
+        "material_title": "0630_yamagishi_s.jpg",
+        "material_file": "c087917d4eb6c2433dafaaab92d5ae40e09f4d5a6a2039698709d42f9d46b85311735.jpeg"
+      }
+    ],
+    "previous_id": "14077",
+    "next_id": "14058",
+    "saved_materials": [
+      "assets/14061_11735_0630_yamagishi_s.jpg"
+    ]
+  }
+}

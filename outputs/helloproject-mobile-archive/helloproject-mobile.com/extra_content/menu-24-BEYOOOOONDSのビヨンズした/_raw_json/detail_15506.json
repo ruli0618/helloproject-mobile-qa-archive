@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 406,
+    "content_id": "15506",
+    "content_title": "お気に入りの！",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2021-03-10 10:00:00",
+    "created_at": "2021-02-19 22:22:47",
+    "updated_at": "2022-01-17 14:51:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12901",
+        "material_title": "0310_kiyono_s.jpg",
+        "material_file": "c8723a83046fa492825252afc8a83c4051716825afbe4bdb282d25fa5616209012901.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15506",
+    "content_title": "お気に入りの！",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2021-03-10 10:00:00",
+    "created_at": "2021-02-19 22:22:47",
+    "updated_at": "2022-01-17 14:51:50",
+    "content_text": "0310_kiyono_s.jpg\nどんぐり！（島倉りかにもらいました）\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12901",
+        "material_title": "0310_kiyono_s.jpg",
+        "material_file": "e887aa2d575102fd8aa92bef2801a66b2c30a666c88461afcbcae26144bf8b8012901.jpeg"
+      }
+    ],
+    "previous_id": "15510",
+    "next_id": "15505",
+    "saved_materials": [
+      "assets/15506_12901_0310_kiyono_s.jpg"
+    ]
+  }
+}

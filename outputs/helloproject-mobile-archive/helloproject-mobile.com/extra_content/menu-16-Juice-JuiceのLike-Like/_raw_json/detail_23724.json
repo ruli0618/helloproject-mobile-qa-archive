@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 108,
+    "content_id": "23724",
+    "content_title": "スカート",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2025-01-28 00:00:00",
+    "created_at": "2025-01-28 12:31:37",
+    "updated_at": "2025-01-28 12:35:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19485",
+        "material_title": "1738032459838.jpg",
+        "material_file": "07f682cdd165d7eee2856e0be500d79f16b0b32f6d3b55efa98e6ae2eee532e319485.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23724",
+    "content_title": "スカート",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2025-01-28 00:00:00",
+    "created_at": "2025-01-28 12:31:37",
+    "updated_at": "2025-01-28 12:35:13",
+    "content_text": "1738032459838.jpg\nこんにちは！\nかわしまみふです！\n段原さんがくださったスカートを最近よくはきます<img src=\"/emoji/emoji-images/f650.gif\"/><img src=\"/emoji/emoji-images/f650.gif\"/>\nちょー〜可愛くて凄いお気に入りです<img src=\"/emoji/emoji-images/4526.gif\"/>\n段原さんだいすきです！！\nそれでは！",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19485",
+        "material_title": "1738032459838.jpg",
+        "material_file": "3365e287f1b0991f161a625c334085c494e20b90f4e21592ecd9bd4992390df119485.jpeg"
+      }
+    ],
+    "previous_id": "23738",
+    "next_id": "23671",
+    "saved_materials": [
+      "assets/23724_19485_1738032459838.jpg"
+    ]
+  }
+}

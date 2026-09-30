@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 219,
+    "content_id": "21320",
+    "content_title": "お月様",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2023-12-20 10:00:00",
+    "created_at": "2023-11-30 18:56:35",
+    "updated_at": "2023-11-30 18:56:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17529",
+        "material_title": "1220_maeda_s.jpg",
+        "material_file": "f685f162041de074561dbb956c2f6e52a06c4efa5343721558fb3cb298d64bd117529.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21320",
+    "content_title": "お月様",
+    "content_sub_title": "前田こころ",
+    "release_date": "2023-12-20 10:00:00",
+    "created_at": "2023-11-30 18:56:35",
+    "updated_at": "2023-11-30 18:56:35",
+    "content_text": "1220_maeda_s.jpg\r\n空が大好き！月を見つけると必ず写真撮ります！こんなに綺麗に写るのすごいよね〜スマホの機能すごすぎる…。\r\n\r\n【30周目お題：好き！】",
+    "materials": [
+      {
+        "secretKey": "4f33116813b24bdb1df518f3397096cf",
+        "material_id": "17529",
+        "material_title": "1220_maeda_s.jpg",
+        "material_file": "ba06d08afa8a06e8f287c268f0a868ead3ce5d673baf2016138cefae21f25af817529.jpeg"
+      }
+    ],
+    "previous_id": "21322",
+    "next_id": "21318",
+    "saved_materials": [
+      "assets/21320_17529_1220_maeda_s.jpg"
+    ]
+  }
+}

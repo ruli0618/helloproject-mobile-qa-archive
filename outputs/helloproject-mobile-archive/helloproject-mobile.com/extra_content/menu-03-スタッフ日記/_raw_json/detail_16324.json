@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 279,
+    "content_id": "16324",
+    "content_title": "宣伝会議#63",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-07-08 21:56:00",
+    "created_at": "2021-07-08 21:56:58",
+    "updated_at": "2021-07-08 21:56:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13637",
+        "material_title": "210625_03_s.jpg",
+        "material_file": "fe26943e085272b4b20d1e689333c1774ce78d405e60203382bb22ece8edcc9c13637.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13636",
+        "material_title": "210625_01_s.jpg",
+        "material_file": "8ca1d809aab7df15554a2c9352783649667ef82fa0f297a23697a4230569728f13636.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13638",
+        "material_title": "210625_02_s.jpg",
+        "material_file": "312c4020b30461c6cb955b363f618dfb1833dd58e83b1160966bbed65ee9ed2713638.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16324",
+    "content_title": "宣伝会議#63",
+    "content_sub_title": "",
+    "release_date": "2021-07-08 21:56:00",
+    "created_at": "2021-07-08 21:56:58",
+    "updated_at": "2021-07-08 21:56:58",
+    "content_text": "宣伝会議第63回は、野中美希部長、川村文乃広報の二人でお届け！\r\n\r\n210625_01_s.jpg\r\n\r\n質問コーナーでは、\r\n過去に戻れるならいつに戻るか、\r\n仲良くなりたいメンバーを教えてもらいました！\r\n\r\n駄菓子のお話から、\r\n野中部長「むらさきふりふり」の真相、\r\n花鳥風月ツアーで思い出に残った曲、\r\nスマホバキバキ事情まで！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「オススメしたい公式YouTube動画」について募集！\r\nハロー！ペディアページに動画リンクも掲載中ですので、ぜひご覧くださいね♬\r\n\r\n210625_02_s.jpg\r\n\r\n毎日食べているもの、\r\nユニゾンに関するエピソード、\r\n野中部長の愛犬とうふちゃんのお祝い、\r\n印象に残っているツアーグッズ、\r\nソロフェスや、\r\nメールの送り間違えについてトーク！\r\n\r\n↓議事録はこちら！\r\n\r\n210625_03_s.jpg\r\n\r\n「励ましのメール」「ハロー！ペディア」メールを大募集！\r\n\r\n次回「ハロー！ペディア」のお題は、\r\n「<b>夏に聴きたいハロー！プロジェクト楽曲</b>」です！\r\n\r\nメール宛先はこちら。\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※コーナーメールは「ハロー！ペディア」と記入してください。\r\n\r\n次回は野中美希部長、川村文乃広報、前田こころ書記兼警備の部員3名が集合！\r\n7/9(金)17:00までメール募集中！\r\n\r\n収録中に副部長を発表します！お楽しみに♬",
+    "materials": [
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13637",
+        "material_title": "210625_03_s.jpg",
+        "material_file": "9c4dde1f5e81907df18a29593d59f2b7ff392d6418933fd9c54dd43e6228726713637.jpeg"
+      },
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13636",
+        "material_title": "210625_01_s.jpg",
+        "material_file": "36a0bdd278afba283d20dae08c453ef8784eddf1c0a4cac4d2d6ce96fdc1293113636.jpeg"
+      },
+      {
+        "secretKey": "d587eafdd01aa8f6a3e6f0a8f7f5847e",
+        "material_id": "13638",
+        "material_title": "210625_02_s.jpg",
+        "material_file": "0efd9a8649c1d4ec7cdd2dc898c869538070a4c0914d217110588d954751dd9213638.jpeg"
+      }
+    ],
+    "previous_id": "16414",
+    "next_id": "16302",
+    "saved_materials": [
+      "assets/16324_13637_210625_03_s.jpg",
+      "assets/16324_13636_210625_01_s.jpg",
+      "assets/16324_13638_210625_02_s.jpg"
+    ]
+  }
+}

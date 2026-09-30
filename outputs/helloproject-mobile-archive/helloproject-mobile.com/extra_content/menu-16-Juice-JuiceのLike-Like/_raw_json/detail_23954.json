@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 98,
+    "content_id": "23954",
+    "content_title": "春だねぇ",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2025-03-06 19:50:00",
+    "created_at": "2025-03-06 19:52:37",
+    "updated_at": "2025-03-06 19:52:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19654",
+        "material_title": "0306_kawashima_s.jpg",
+        "material_file": "5bfbfc181d5e120099acee58bd0b31e7e9c4a2ab3ab22c6d91a6c351f9f2c00419654.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23954",
+    "content_title": "春だねぇ",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2025-03-06 19:50:00",
+    "created_at": "2025-03-06 19:52:37",
+    "updated_at": "2025-03-06 19:52:37",
+    "content_text": "0306_kawashima_s.jpg\r\nこんにちは！\r\n寒さも少しずつ落ち着いて暖かい日が多くなってきましたね！\r\n春はひなフェスにツアーにたくさん皆さんと会える機会がありますね！\r\n楽しみにしてます( *´ω`* )\r\n皆さんは春の楽しみなんですかー？？\r\nまた教えてくださいね！！\r\nではでは\r\nミフ:)",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19654",
+        "material_title": "0306_kawashima_s.jpg",
+        "material_file": "09332d065b24c90f7e8e806153826d057a2033d44070e31c6132ac0d8c44ca5219654.jpeg"
+      }
+    ],
+    "previous_id": "23967",
+    "next_id": "23952",
+    "saved_materials": [
+      "assets/23954_19654_0306_kawashima_s.jpg"
+    ]
+  }
+}

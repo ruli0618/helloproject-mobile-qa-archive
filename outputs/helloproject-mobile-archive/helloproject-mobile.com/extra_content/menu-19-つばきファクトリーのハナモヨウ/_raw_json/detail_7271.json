@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 148,
+    "content_id": "7271",
+    "content_title": "かき氷食べたいな～",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2017-08-15 16:00:00",
+    "created_at": "2017-08-15 16:11:40",
+    "updated_at": "2017-08-15 16:12:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6399",
+        "material_title": "170815_yamagishi_s.jpg",
+        "material_file": "98ae9c022e8f3c57f10b45f78d45e79126ce5772f9a6d3a4921b3fe3b4802cb26399.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7271",
+    "content_title": "かき氷食べたいな～",
+    "content_sub_title": "山岸理子",
+    "release_date": "2017-08-15 16:00:00",
+    "created_at": "2017-08-15 16:11:40",
+    "updated_at": "2017-08-15 16:12:42",
+    "content_text": "こんにちはー( *˙˙*)\n\n\nつばきファクトリーの山岸理子です！\n\n\n最近暑いですねーーー！！\n\nこの夏になにかしましたー？？\n\n\nもう8月も半ばですよ！\n\n早いですよね～～\n\nかき氷食べたいな！！！！！\n\nでは、今日のお花です❀* ❀。. ✿ * ❀ ｡* ❀ ❀ * .❀ ｡ ✿ * ❀ ❀ ｡ ✿ * 。 ° 。 ❀ 。 ° ﾟ ° 。\n\n170815_yamagishi_s.jpg\n\nこの写真は、\n江ノ島に行った時に撮った写真です！！\n\n\n\nお花は、癒させますね～(´ー｀*)\n\n明日もがんばりこりこー！\nでわ'٩(๑˃́ワ˂̀๑)バイバイ( * ́ω`*)ﾉ))\n",
+    "materials": [
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6399",
+        "material_title": "170815_yamagishi_s.jpg",
+        "material_file": "f870db8949bab4c7f3471e07e3d9208c68e1ab33c5636a4a688bbe9b789173646399.jpeg"
+      }
+    ],
+    "previous_id": "7326",
+    "next_id": "7246",
+    "saved_materials": [
+      "assets/7271_6399_170815_yamagishi_s.jpg"
+    ]
+  }
+}

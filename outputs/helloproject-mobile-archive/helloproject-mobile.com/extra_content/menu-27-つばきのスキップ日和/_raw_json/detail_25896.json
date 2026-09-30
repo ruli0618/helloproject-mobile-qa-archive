@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 36,
+    "content_id": "25896",
+    "content_title": "カフェタイム♡",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "155",
+    "release_date": "2026-05-01 10:00:00",
+    "created_at": "2026-03-13 23:53:06",
+    "updated_at": "2026-03-13 23:53:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21219",
+        "material_title": "0501_ono_s.jpg",
+        "material_file": "89d048ed28d3d6c6737a548ce327d2af502a1c2f4bcbc1a142e2edb24c0f58de21219.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25896",
+    "content_title": "カフェタイム♡",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2026-05-01 10:00:00",
+    "created_at": "2026-03-13 23:53:06",
+    "updated_at": "2026-03-13 23:53:06",
+    "content_text": "0501_ono_s.jpg\r\n母と食べたケーキとコーヒー♩\r\n\r\n母も私も甘いものとコーヒーの組み合わせが大好きで、出かけると必ずカフェタイムしちゃう！！\r\n\r\nそれが幸せなんなだあ\r\n\r\nお皿もケーキも可愛くて\r\nテンションあがったよっ\r\n\r\n今年もいっぱいカフェタイムしたいっっ\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21219",
+        "material_title": "0501_ono_s.jpg",
+        "material_file": "d8939a7d3fb52d8bc8ce1cd85e13509babc595610ca83c4dbcec5149ce264ba821219.jpeg"
+      }
+    ],
+    "previous_id": "25897",
+    "next_id": "25895",
+    "saved_materials": [
+      "assets/25896_21219_0501_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 11,
+    "content_id": "26875",
+    "content_title": "嬉しい！！",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2026-09-06 10:00:00",
+    "created_at": "2026-09-04 20:52:12",
+    "updated_at": "2026-09-04 20:52:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21936",
+        "material_title": "260906_tanimoto_s.jpg",
+        "material_file": "a183f74436bdedb8ae80ef6c78677046ada1680cea35fcdb08c35679f7e177e921936.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26875",
+    "content_title": "嬉しい！！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2026-09-06 10:00:00",
+    "created_at": "2026-09-04 20:52:12",
+    "updated_at": "2026-09-04 20:52:12",
+    "content_text": "260906_tanimoto_s.jpg\r\nアンジュルムの為永幸音ちゃんと一緒に\r\n夏らしい事できたのーー！<img src=\"/emoji/emoji-images/505f.gif\"/>\r\n他グループの子とプライベートで遊ぶのレアすぎて嬉しすぎました！誘ってくれてありがとう<img src=\"/emoji/emoji-images/f468.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21936",
+        "material_title": "260906_tanimoto_s.jpg",
+        "material_file": "f47adaf1d729e9b6d57c731b0a749f8e27dd883b038e871f254537f1747fda7621936.jpeg"
+      }
+    ],
+    "previous_id": "26876",
+    "next_id": "26874",
+    "saved_materials": [
+      "assets/26875_21936_260906_tanimoto_s.jpg"
+    ]
+  }
+}

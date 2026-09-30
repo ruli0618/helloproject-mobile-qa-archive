@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 311,
+    "content_id": "15065",
+    "content_title": "工藤の家の屋根裏部屋#80前編～竹内朱莉～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-12-04 14:54:00",
+    "created_at": "2020-12-04 13:42:22",
+    "updated_at": "2020-12-04 14:54:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12541",
+        "material_title": "1204_fukumuraroom_01_s.jpg",
+        "material_file": "2f4c3b464f3ff113d088002b384ac958733714e7e243f999fcfd2ccffb23bad912541.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12542",
+        "material_title": "1204_fukumuraroom_02_s.jpg",
+        "material_file": "f5f43a3251b0ce6079cb4145850779c57a15a6bd563a1dc6052585c1d8e31cad12542.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12543",
+        "material_title": "1204_fukumuraroom_03_s.jpg",
+        "material_file": "290874f9e473c13520d0fc9b35f2df1165ca83b9825f162c4813e402e846595712543.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15065",
+    "content_title": "工藤の家の屋根裏部屋#80前編～竹内朱莉～",
+    "content_sub_title": "",
+    "release_date": "2020-12-04 14:54:00",
+    "created_at": "2020-12-04 13:42:22",
+    "updated_at": "2020-12-04 14:54:29",
+    "content_text": "ふくむらの部屋 第80回前編配信中！\n\nゲストは、アンジュルム竹内朱莉さんが出演！\n今回もとっても盛り上がった回になりました！\n\n1204_fukumuraroom_01_s.jpg\n\n竹内さんがいつか書道の個展を開いた時のために手帳に沢山メモした事、\nスケジュールをもらった時の竹内さんと譜久村さんの違い、\n\n二人がサンタさんにお願いした事は？\n\n1204_fukumuraroom_02_s.jpg\n\n「ハロプロファン失敗談」のコーナーでは、盛り沢山会の券を紛失してしまった方、ライブ中の掛け声タイミングの入り間違いを紹介！\n\n失敗談から思い出された、\n竹内さんの愛犬メロンに起きた奇跡エピソードも！\n\nお二人の好きな掛け声や、コールに関して竹内さんが疑問に感じる事、譜久村さんのお願いも要チェックです。\n\n1204_fukumuraroom_03_s.jpg\n\n次回は、12/15(火)の配信になります。\n\n引き続き竹内朱莉さんが出演する後編も、ぜひお聴き下さい♪\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12541",
+        "material_title": "1204_fukumuraroom_01_s.jpg",
+        "material_file": "e3a4137c8d15e4b7af2e8af901f3709d36e032e205d150728a2926968184309012541.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12542",
+        "material_title": "1204_fukumuraroom_02_s.jpg",
+        "material_file": "b9a9262a1b92429de3bac548105bf3ba91bb89c746a88c56c5ff4c1ed20f87f512542.jpeg"
+      },
+      {
+        "secretKey": "bee80ce06c7ca4fd34041a45ab3ee2db",
+        "material_id": "12543",
+        "material_title": "1204_fukumuraroom_03_s.jpg",
+        "material_file": "d1804e577abdbbf1e04c4f74ba5571a7da1a0ceccfc69ae7b6fef5dd3dbdccd512543.jpeg"
+      }
+    ],
+    "previous_id": "15252",
+    "next_id": "15067",
+    "saved_materials": [
+      "assets/15065_12541_1204_fukumuraroom_01_s.jpg",
+      "assets/15065_12542_1204_fukumuraroom_02_s.jpg",
+      "assets/15065_12543_1204_fukumuraroom_03_s.jpg"
+    ]
+  }
+}

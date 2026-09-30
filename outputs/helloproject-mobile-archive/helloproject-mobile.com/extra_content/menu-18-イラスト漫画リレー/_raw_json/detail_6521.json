@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 17,
+    "content_id": "6521",
+    "content_title": "アンジュルム",
+    "content_sub_title": "中西香菜",
+    "category_id": "55",
+    "release_date": "2017-04-19 13:00:00",
+    "created_at": "2017-04-18 17:20:17",
+    "updated_at": "2017-04-19 12:23:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "5776",
+        "material_title": "003_nakanishi.jpg",
+        "material_file": "6c79ba6cf408309a3259b131e3be4b261903115574357d5c07128c22ebca54995776.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "6521",
+    "content_title": "アンジュルム",
+    "content_sub_title": "中西香菜",
+    "release_date": "2017-04-19 13:00:00",
+    "created_at": "2017-04-18 17:20:17",
+    "updated_at": "2017-04-19 12:23:26",
+    "content_text": "003_nakanishi.jpg",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "5776",
+        "material_title": "003_nakanishi.jpg",
+        "material_file": "cff906084658b2e26b2774ff91a764c9af750500be9d3530ed33d87874b162045776.jpeg"
+      }
+    ],
+    "previous_id": "6751",
+    "next_id": "5823",
+    "saved_materials": [
+      "assets/6521_5776_003_nakanishi.jpg"
+    ]
+  }
+}

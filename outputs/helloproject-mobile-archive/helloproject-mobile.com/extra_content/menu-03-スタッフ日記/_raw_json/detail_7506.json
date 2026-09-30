@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 576,
+    "content_id": "7506",
+    "content_title": "隣のやじまん家の塀の裏#5 中島早貴",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-09-13 21:08:00",
+    "created_at": "2017-09-13 21:05:03",
+    "updated_at": "2017-09-14 21:28:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6613",
+        "material_title": "1709132_s.jpg",
+        "material_file": "cd67b83bdb99b87e63f71e0c574fc79c2589fe3220939b5ce6909228cdc6689c6613.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6614",
+        "material_title": "1709131_s.jpg",
+        "material_file": "701d18df640e9d9d3b36c542cdc809d8ff66a4e5de11fb1a52bc99ce5b8b6e366614.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7506",
+    "content_title": "隣のやじまん家の塀の裏#5 中島早貴",
+    "content_sub_title": "",
+    "release_date": "2017-09-13 21:08:00",
+    "created_at": "2017-09-13 21:05:03",
+    "updated_at": "2017-09-14 21:28:15",
+    "content_text": "皆さん、お待たせいたしました！\n「隣のやじまん家」第5回が配信中です。\n\n※9月からは「ふくむらの部屋」と交互に、隔週火曜日更新となります。\n\nゲストは、中島早貴さんが登場！\n\n℃-ute解散後もよく一緒に居るというお二人、\n会話もとっても盛り上がりました！\n\n1709131_s.jpg\n\n中身をチラ見せ♪\n\n1709132_s.jpg\n\n9月10日℃-uteの日に発売しました！\n℃-ute写真集『Brilliant - 光り輝く』\nぜひチェックよろしくお願いします♪\n\n<a href=\"http://www.ody-books.com/books/detail/082.php\" target=\"_blank\">★写真集の詳細はコチラ！</a>\n\nダイビングのお話の最中、中島さんがとあるお魚を「検索してみて～」「スマホで聴いてるから検索出来ないか」と話されていましたが…\nハロ！モバのラジオはバックグラウンド再生可能です！\n※一部ブラウザ除く\n\nぜひ試してみてくださいね。\n\n「今月のハッピーバースデー♪」・「くじ引きトーク」・「普通のお便り」メールはいつでも大募集です！！\nぜひ送り逃しの無いよう、お便りの送信お願いします！\n\n皆さんのお便りで、この番組が成り立っています…！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回は9月26日配信予定です。(変更になる可能性もあります。)\nゲストが誰になるのか、お楽しみに！\n\n\n\n「隣のやじまん家」を聴いてくれるメンバーが現れますように。",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6613",
+        "material_title": "1709132_s.jpg",
+        "material_file": "27b6e5a446016ab0b3f4e5983b2ee46f6c840ffea80a52537d810dfc4b2f125f6613.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6614",
+        "material_title": "1709131_s.jpg",
+        "material_file": "e3ac8ce375f34dd22beee74141f1bac77750a11813d7e464da29d8e5e7e4e9156614.jpeg"
+      }
+    ],
+    "previous_id": "7507",
+    "next_id": "7457",
+    "saved_materials": [
+      "assets/7506_6613_1709132_s.jpg",
+      "assets/7506_6614_1709131_s.jpg"
+    ]
+  }
+}

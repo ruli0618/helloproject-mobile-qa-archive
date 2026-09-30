@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 385,
+    "content_id": "17793",
+    "content_title": "パワー！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2022-03-22 10:00:00",
+    "created_at": "2022-03-14 22:51:50",
+    "updated_at": "2022-03-14 22:51:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14876",
+        "material_title": "0322_inaba_s.jpg",
+        "material_file": "8912fd242da431ab3a645481e80650e34c1bebe530f9e30238c34d1b94fd647d14876.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17793",
+    "content_title": "パワー！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2022-03-22 10:00:00",
+    "created_at": "2022-03-14 22:51:50",
+    "updated_at": "2022-03-14 22:51:50",
+    "content_text": "0322_inaba_s.jpg\r\n私の大好物、プルダックンポックンミョンのカルボ味にチーズと韓国海苔をトッピングするやつ…！たまらないんです。。\r\n食欲がすごい時に、どうしてもって時はご褒美に食べます！鍋のまま食べちゃう。。笑\r\n辛いものは力が漲りますね！",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14876",
+        "material_title": "0322_inaba_s.jpg",
+        "material_file": "0217cbc918d72b0952be7b0254286f6a98a2659e4502e27ca7a8d868d988a00c14876.jpeg"
+      }
+    ],
+    "previous_id": "17825",
+    "next_id": "17792",
+    "saved_materials": [
+      "assets/17793_14876_0322_inaba_s.jpg"
+    ]
+  }
+}

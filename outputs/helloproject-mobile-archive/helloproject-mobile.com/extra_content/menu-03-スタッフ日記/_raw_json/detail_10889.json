@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 434,
+    "content_id": "10889",
+    "content_title": "宣伝会議 議事録#35",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-25 18:52:00",
+    "created_at": "2019-02-25 18:52:54",
+    "updated_at": "2019-02-25 18:52:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9350",
+        "material_title": "0225_03_s.jpg",
+        "material_file": "455c4e5038ed2c196e5f71e483e43f570ef3d21cce4380f9d7c9ef0708a09ef39350.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9351",
+        "material_title": "0225_04_s.jpg",
+        "material_file": "16d01c75b9d0b0108300bfcb0e0ff91d37d2b44c31376b38c97cab0e1d0788d19351.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9352",
+        "material_title": "0225_01_s.jpg",
+        "material_file": "69c00b72ae9e67b62e2a07db2d6274ff9124faed1d528f0904f9a789b765ce4c9352.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9353",
+        "material_title": "0225_02_s.jpg",
+        "material_file": "0f7a87030ae104db3b8b171d5f8c51051b41f3bc0c056f2023920245d878877d9353.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10889",
+    "content_title": "宣伝会議 議事録#35",
+    "content_sub_title": "",
+    "release_date": "2019-02-25 18:52:00",
+    "created_at": "2019-02-25 18:52:54",
+    "updated_at": "2019-02-25 18:52:54",
+    "content_text": "ハロ！モバ宣伝会議\r\n35回目の配信開始しました！\r\n\r\n\r\n今回は先日おこなわれた宣伝部イベントからお届け！\r\n\r\n0225_01_s.jpg\r\n\r\nこのメンバーでの宣伝部イベントは最初で最後！\r\n笑いあり、驚きあり、ちょっぴり涙あり（!?）の様子をたっぷり収録！\r\n\r\n0225_02_s.jpg\r\n\r\n今回のラジオ収録内容は\r\n・オープニング（2公演目より）\r\n・妄想動画撮影（2公演目より）\r\n・ハロモバ卒業式\r\n（1公演目より～野中部長の手紙・梁川秘書の手紙）\r\n・ハロモバ卒業式\r\n（2公演目より～小片書記の手紙・梁川秘書の手紙省略）\r\n・工藤顧問からのサプライズお手紙\r\n・エンディング（1公演目より）\r\n\r\n0225_03_s.jpg\r\n\r\n宣伝部の大きな活動としては今回が最後の梁川秘書。\r\n撮影された妄想動画は要チェックです！！\r\n\r\nイベントの様子もハロー！ムービーのコーナーで順次更新予定！\r\nお楽しみに！！\r\n\r\n\r\n小片書記が書いた今回の議事録はこちら↓\r\n\r\n0225_04_s.jpg\r\n\r\n\r\n「励ましのメール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。",
+    "materials": [
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9350",
+        "material_title": "0225_03_s.jpg",
+        "material_file": "7310380cdb6eea5bbd3cfcfcf20aac544405c3562f85bcfbf996a119c9f3c1aa9350.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9351",
+        "material_title": "0225_04_s.jpg",
+        "material_file": "d544ea70f9db213fc6174072e9c8068e03828a5489424036f7f2c61ca27c19cd9351.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9352",
+        "material_title": "0225_01_s.jpg",
+        "material_file": "b8cf856fdbea2bf52dc86420b658c5a0ad69696aaf2af152110fac87a48d21399352.jpeg"
+      },
+      {
+        "secretKey": "b640c279bef2ab5103628a112d57145b",
+        "material_id": "9353",
+        "material_title": "0225_02_s.jpg",
+        "material_file": "e6afa06b91065703df529d974756f0807304053654b4f9719197052ee4768eb29353.jpeg"
+      }
+    ],
+    "previous_id": "10890",
+    "next_id": "10885",
+    "saved_materials": [
+      "assets/10889_9350_0225_03_s.jpg",
+      "assets/10889_9351_0225_04_s.jpg",
+      "assets/10889_9352_0225_01_s.jpg",
+      "assets/10889_9353_0225_02_s.jpg"
+    ]
+  }
+}

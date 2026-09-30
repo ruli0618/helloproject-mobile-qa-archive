@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 14,
+    "content_id": "7351",
+    "content_title": "アンジュルム",
+    "content_sub_title": "上國料萌衣",
+    "category_id": "55",
+    "release_date": "2017-08-28 17:20:00",
+    "created_at": "2017-08-28 16:08:29",
+    "updated_at": "2017-08-28 17:20:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "6489",
+        "material_title": "010_kamiko.jpg",
+        "material_file": "db53949d2b5206ead13aad36ebb8628058b302628efe8de269c1431d53a9d4e86489.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "7351",
+    "content_title": "アンジュルム",
+    "content_sub_title": "上國料萌衣",
+    "release_date": "2017-08-28 17:20:00",
+    "created_at": "2017-08-28 16:08:29",
+    "updated_at": "2017-08-28 17:20:16",
+    "content_text": "010_kamiko.jpg",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "6489",
+        "material_title": "010_kamiko.jpg",
+        "material_file": "e9bd45c6900e0d8c4e35123c120f4b2151ea4788fe795dd4b3a2400017d837276489.jpeg"
+      }
+    ],
+    "previous_id": "8163",
+    "next_id": "7268",
+    "saved_materials": [
+      "assets/7351_6489_010_kamiko.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 804,
+    "content_id": "6858",
+    "content_title": "写真集／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-06-19 12:13:00",
+    "created_at": "2017-06-16 17:36:35",
+    "updated_at": "2017-06-19 12:13:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6048",
+        "material_title": "6124730535483_s.jpg",
+        "material_file": "b212a114336ba97f5419ce0a9c9a9ceb3de0efddd198a591d5e3d59b2fae385c6048.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6858",
+    "content_title": "写真集／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-06-19 12:13:00",
+    "created_at": "2017-06-16 17:36:35",
+    "updated_at": "2017-06-19 12:13:56",
+    "content_text": "Juice＝Juiceの植村あかりです！\n\n\n室田の写真集を見せてもらいました～\n\n好きなページ本人に伝えましたよ～\n\n6124730535483_s.jpg\n\n皆さんも見てねっ！！",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "6048",
+        "material_title": "6124730535483_s.jpg",
+        "material_file": "6ff9ac008d4db357f4f8497e69358a9d7994a7174ea58579674be877414e5a0c6048.jpeg"
+      }
+    ],
+    "previous_id": "6926",
+    "next_id": "6832",
+    "saved_materials": [
+      "assets/6858_6048_6124730535483_s.jpg"
+    ]
+  }
+}

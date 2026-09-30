@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 75,
+    "content_id": "25037",
+    "content_title": "綺麗にできない",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-10-20 10:00:00",
+    "created_at": "2025-09-26 19:17:18",
+    "updated_at": "2025-09-26 19:17:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20462",
+        "material_title": "1015_kobayashi_s.jpg",
+        "material_file": "7831014c2b1d6b49281c3b69e41ae1c8853403b8a7ac1209d6c02f60eabdb1bc20462.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25037",
+    "content_title": "綺麗にできない",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-10-20 10:00:00",
+    "created_at": "2025-09-26 19:17:18",
+    "updated_at": "2025-09-26 19:17:18",
+    "content_text": "1015_kobayashi_s.jpg\r\nビーズでブローチを作ろうとしたのですが、全然綺麗にできませんでした。ビーズは綺麗なのに！\r\n\r\n【46周目お題：綺麗】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20462",
+        "material_title": "1015_kobayashi_s.jpg",
+        "material_file": "36a52a4e4bd4e3cbb2f5a68fcd7fd8668b860ad9cb7c599f41bdb8978569490c20462.jpeg"
+      }
+    ],
+    "previous_id": "25038",
+    "next_id": "25036",
+    "saved_materials": [
+      "assets/25037_20462_1015_kobayashi_s.jpg"
+    ]
+  }
+}

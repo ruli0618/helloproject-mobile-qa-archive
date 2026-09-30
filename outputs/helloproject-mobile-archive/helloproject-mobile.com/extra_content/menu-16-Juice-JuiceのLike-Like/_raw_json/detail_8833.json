@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 727,
+    "content_id": "8833",
+    "content_title": "室田と",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-04-23 11:00:00",
+    "created_at": "2018-04-06 14:17:48",
+    "updated_at": "2018-04-06 14:17:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7746",
+        "material_title": "0423_uemura_s.jpg",
+        "material_file": "4fa71e47072079d9c7451203bbf45e5902277d6decbd3a2a6f4d38c478ceef237746.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8833",
+    "content_title": "室田と",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-04-23 11:00:00",
+    "created_at": "2018-04-06 14:17:48",
+    "updated_at": "2018-04-06 14:17:48",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n好きなカフェに\r\n室田といってきたよ〜\r\n\r\n\r\n0423_uemura_s.jpg\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7746",
+        "material_title": "0423_uemura_s.jpg",
+        "material_file": "56e7b6917f0175275cc4a4e8ab17580a5c430e317785e4439f46c41662770c8a7746.jpeg"
+      }
+    ],
+    "previous_id": "8835",
+    "next_id": "8831",
+    "saved_materials": [
+      "assets/8833_7746_0423_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 269,
+    "content_id": "16765",
+    "content_title": "宣伝会議#64",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-17 18:30:00",
+    "created_at": "2021-09-17 18:44:36",
+    "updated_at": "2021-09-17 18:56:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13971",
+        "material_title": "210725_02_s.jpg",
+        "material_file": "f5cf412b4f0c05932a39e737bee9edd170d81069011c4dc515457a2e7180ef8613971.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13972",
+        "material_title": "210725_01_s.jpg",
+        "material_file": "f4cbcf49f5d80a3c3e5b45b93559a65c794c6335abbe51dd8874d3596da05f5013972.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13977",
+        "material_title": "210725_s.jpg",
+        "material_file": "489f2283262244e34333101fc678549318cd7641b097ddc0f4ea11b314801a3313977.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16765",
+    "content_title": "宣伝会議#64",
+    "content_sub_title": "",
+    "release_date": "2021-09-17 18:30:00",
+    "created_at": "2021-09-17 18:44:36",
+    "updated_at": "2021-09-17 18:56:09",
+    "content_text": "宣伝会議第64回は、宣伝部員全員揃っての収録でした！\r\n\r\nまずは、新メンバーの気になる子から、屋内外MV撮影事情を話して貰いました！\r\nいっぱい食べれるもののお話では、川村さんの大食いエピソードに二人も驚き。\r\n嬉しかったエピソード、歌割り、夏といえば思い浮かべるものについてもトーク！\r\n\r\n「副部長を決めよう」という議題では、以前より行われていた動画の投票集計が済み、ついに新・副部長が発表！\r\n\r\n二人が撮影した動画を改めて皆で鑑賞した後、ドキドキの発表は、結果を知らない野中部長が封筒から名前が書かれた紙を取り出して読み上げる形で行われました。\r\n\r\n210725_02_s.jpg\r\n\r\nハロ！モバ宣伝部の副部長は、\r\n川村文乃さんに決定しました！！\r\n\r\nこれからも川村副部長をよろしくお願いいたします。\r\n\r\n尚、副部長の決定に伴い、前田こころさんは書記兼警備兼広報になりました。\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「夏に聴きたいハロー！プロジェクト楽曲」について募集！\r\nここで選ばれた楽曲は、「<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\" >ハロー！ラジオ</a>」のプレイリストとしても配信しているので、ぜひチェックしてくださいね！\r\n\r\n↓議事録はこちら！\r\n210725_s.jpg\r\n\r\n210725_01_s.jpg\r\n\r\n次回もお楽しみに♬",
+    "materials": [
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13971",
+        "material_title": "210725_02_s.jpg",
+        "material_file": "d615a28f3cfe81bf0f450d14e08f5efaa85c59e2760553292e394d020c685cf913971.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13972",
+        "material_title": "210725_01_s.jpg",
+        "material_file": "4beca71439cace05fb2bdd2848dff352025b13c7d3ca8baf803c721452ef748813972.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13977",
+        "material_title": "210725_s.jpg",
+        "material_file": "79cd6bf2fe69463b6425c6c9d1e8faa83e36973a7c38d6e03525a3e905c8325513977.jpeg"
+      }
+    ],
+    "previous_id": "16766",
+    "next_id": "16763",
+    "saved_materials": [
+      "assets/16765_13971_210725_02_s.jpg",
+      "assets/16765_13972_210725_01_s.jpg",
+      "assets/16765_13977_210725_s.jpg"
+    ]
+  }
+}

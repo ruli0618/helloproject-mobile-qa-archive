@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 503,
+    "content_id": "9267",
+    "content_title": "宣伝会議 議事録#26",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-06-07 18:00:00",
+    "created_at": "2018-06-07 17:13:13",
+    "updated_at": "2018-06-07 20:00:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8129",
+        "material_title": "180607_s.jpg",
+        "material_file": "1a3ad8972810ab56e38c2a0e762e5190cad8a855f459fd33e250a2972db8ae1a8129.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8130",
+        "material_title": "180607_02_s.jpg",
+        "material_file": "aead885e56d59a44941d24e9835608343f30e6175c9232e2b335c29f964bae7a8130.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9267",
+    "content_title": "宣伝会議 議事録#26",
+    "content_sub_title": "",
+    "release_date": "2018-06-07 18:00:00",
+    "created_at": "2018-06-07 17:13:13",
+    "updated_at": "2018-06-07 20:00:26",
+    "content_text": "公開中のハロ！モバ宣伝会議#26は、もうお聴きになりましたか？\n\n番組では、新部長を発表！\n投票の結果、野中美希が新部長に決定しました！\n\n皆さま、妄想動画への沢山の投票ありがとうございました！\n今後は、野中美希が務めていた書記が小片リサに引き継がれ、梁川奈々美は役職変わらず秘書を努めます。\n\n新体制のハロ！モバ宣伝部も応援よろしくお願いいたします♪\n\n180607_s.jpg\n\nそして、尾形春水のモーニング娘。'18卒業前ラスト配信となった今回。\n\n尾形部長の作る宣伝部らしく、普段通り笑顔の絶えない収録となりました。\n\n野中美希の書記として最後の議事録メモはこちら！\n\n180607_02_s.jpg\n\n今後も引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n\nP.S.「部長の座争奪戦」でアップされた野中・梁川の動画は果たして妄想動画なのか…？という物言いが内外からあったため、ペナルティとして野中美希・梁川奈々美の2人は妄想動画の新作を3本撮影する、という課題が与えられました。\n\nそして、きちんと妄想動画を撮ってきた小片リサには、尾形春水のコーナー「オガタの動画コーナー」をプレゼント！\n\n新しい動画の更新を楽しみにお待ち下さい♪",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8129",
+        "material_title": "180607_s.jpg",
+        "material_file": "5262deb3c51994db44351fd941cea0632ec21c53ce3a38423654541b757536118129.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "8130",
+        "material_title": "180607_02_s.jpg",
+        "material_file": "d0be147fec26d16632eb0b836a45bd0c09ca0041993716daf5c2ddebeb6e9a038130.jpeg"
+      }
+    ],
+    "previous_id": "9282",
+    "next_id": "9266",
+    "saved_materials": [
+      "assets/9267_8129_180607_s.jpg",
+      "assets/9267_8130_180607_02_s.jpg"
+    ]
+  }
+}

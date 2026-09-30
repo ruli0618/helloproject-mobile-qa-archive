@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 188,
+    "content_id": "13341",
+    "content_title": "ネイル",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-03-27 12:09:00",
+    "created_at": "2020-03-27 12:09:16",
+    "updated_at": "2020-03-27 12:09:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11338",
+        "material_title": "0327_yamagishi_s.jpg",
+        "material_file": "0411dd6ca127682386fb994c1ed6751bc212bfc389da288dc8651d9d04da248b11338.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13341",
+    "content_title": "ネイル",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-03-27 12:09:00",
+    "created_at": "2020-03-27 12:09:16",
+    "updated_at": "2020-03-27 12:09:16",
+    "content_text": "こんにちは！みんな元気ー？\r\nつばきファクトリーの山岸理子です！春色カラーのネイルをしてみたよっ\r\n何色だろ。ピスタチオ？\r\nネイルをするだけで気分上がります♪春きたね！！！\r\n\r\n0327_yamagishi_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "1110e1605584fdbd99d19058cda436d2",
+        "material_id": "11338",
+        "material_title": "0327_yamagishi_s.jpg",
+        "material_file": "93add9266d39bad68e1dcd694e35e40fdb3bb66df6fe3dbd8e87a39260a341de11338.jpeg"
+      }
+    ],
+    "previous_id": "13628",
+    "next_id": "13339",
+    "saved_materials": [
+      "assets/13341_11338_0327_yamagishi_s.jpg"
+    ]
+  }
+}

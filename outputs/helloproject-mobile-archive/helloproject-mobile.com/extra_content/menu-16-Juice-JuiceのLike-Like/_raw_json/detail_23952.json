@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 99,
+    "content_id": "23952",
+    "content_title": "コラボ",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2025-03-04 16:26:00",
+    "created_at": "2025-03-04 16:26:12",
+    "updated_at": "2025-03-04 16:26:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19653",
+        "material_title": "0304_endo_s.jpg",
+        "material_file": "84618f3a7ae5e4f3f9460a68a38d02a31e9c6a138ba113087e8cc3ca9dbd081719653.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23952",
+    "content_title": "コラボ",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2025-03-04 16:26:00",
+    "created_at": "2025-03-04 16:26:12",
+    "updated_at": "2025-03-04 16:26:12",
+    "content_text": "0304_endo_s.jpg\r\n遠藤彩加里です♪\r\nJuice=Juiceがスイーツパラダイスさんとコラボさせていただいています！\r\n私も試食させていただいたのですが、どれもめちゃめちゃ美味しかったです！みんなそれぞれ大好きなものを詰め込んでますので、是非皆さんも食べてみてくださいね♡",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19653",
+        "material_title": "0304_endo_s.jpg",
+        "material_file": "102136b63c3bb549c371a232113e7b3e4a9417a3ff8fc78bf50510ad7379f04f19653.jpeg"
+      }
+    ],
+    "previous_id": "23954",
+    "next_id": "23937",
+    "saved_materials": [
+      "assets/23952_19653_0304_endo_s.jpg"
+    ]
+  }
+}

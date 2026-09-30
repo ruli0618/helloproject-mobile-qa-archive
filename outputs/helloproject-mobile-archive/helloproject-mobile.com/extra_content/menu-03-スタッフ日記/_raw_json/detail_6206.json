@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 616,
+    "content_id": "6206",
+    "content_title": "工藤の家の天井裏#28　～ほわほわリーダー～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-02-16 22:51:00",
+    "created_at": "2017-02-16 22:50:01",
+    "updated_at": "2017-02-16 22:52:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5526",
+        "material_title": "170216_s.jpg",
+        "material_file": "8804df8e507832c613cb4bd4a5821d319a8b15915ba0dd0061fc02ae208931cf5526.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6206",
+    "content_title": "工藤の家の天井裏#28　～ほわほわリーダー～",
+    "content_sub_title": "",
+    "release_date": "2017-02-16 22:51:00",
+    "created_at": "2017-02-16 22:50:01",
+    "updated_at": "2017-02-16 22:52:33",
+    "content_text": "やじまの部屋#28が公開されました！\n皆さん、聴いて頂けましたか？\n\n今回のゲストは、つばきファクトリーから1人目の出演！リーダーの山岸理子さんです！\n\n似ているところも多いという2人、\n映画を観に行く約束をぜひ、果たしてもらいたいですね。\n\n山岸さんの幼少の頃の夢、\nハロプロ研修生になるきっかけや、\nこぶしファクトリー結成発表当時の心境など、\n少々突っ込んだお話も聞けちゃいます！\n\nつばきファクトリーメンバー、それぞれのエピソードも話されました。\n実はまだつばきファクトリーをよく知らない…というあなたは、ぜひ「やじまの部屋#28」配信を聞いてみて下さい！\n\nこれは何のポーズでしょうか？\n\n170216_s.jpg\n\nハロプロ大喜利のお題は\n「矢島舞美初主演映画決定！！そのタイトルは？」\nでした！\n\n次回お題は\n「矢島舞美がグレた！精一杯やった悪い事は？」\nです！\n\n沢山の面白回答、お待ちしています！\nお題の投稿も募集中！\n\n次回は3月の配信です。\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5526",
+        "material_title": "170216_s.jpg",
+        "material_file": "f40d18e6e0a7a9326ff35b12f9a9f5cc0dbe9fb00b25d9188541aa3f2b5839525526.jpeg"
+      }
+    ],
+    "previous_id": "6227",
+    "next_id": "6204",
+    "saved_materials": [
+      "assets/6206_5526_170216_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 26,
+    "content_id": "19227",
+    "content_title": "仮装",
+    "content_sub_title": "福田真琳",
+    "category_id": "115",
+    "release_date": "2022-11-25 10:00:00",
+    "created_at": "2022-11-24 21:10:36",
+    "updated_at": "2022-11-24 21:10:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15978",
+        "material_title": "1125_fukuda_s.jpg",
+        "material_file": "590952a262413b2f7ab5ca53515c8f3927a7e5ded420325e4bb4c88054df98e315978.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19227",
+    "content_title": "仮装",
+    "content_sub_title": "福田真琳",
+    "release_date": "2022-11-25 10:00:00",
+    "created_at": "2022-11-24 21:10:36",
+    "updated_at": "2022-11-24 21:10:36",
+    "content_text": "1125_fukuda_s.jpg\r\n今年のハロウィンは、\r\n久しぶりに仮装をしました！\r\n\r\n仮装をするとテンションも上がるので来年もしたいです！",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "15978",
+        "material_title": "1125_fukuda_s.jpg",
+        "material_file": "f232a970595ffb48953c8080e54aa42b68e9f1745face77d07d15641b4c9aa0f15978.jpeg"
+      }
+    ],
+    "previous_id": "19228",
+    "next_id": "19076",
+    "saved_materials": [
+      "assets/19227_15978_1125_fukuda_s.jpg"
+    ]
+  }
+}

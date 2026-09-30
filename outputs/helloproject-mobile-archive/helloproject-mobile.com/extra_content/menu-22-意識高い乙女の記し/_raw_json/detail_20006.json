@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 8,
+    "content_id": "20006",
+    "content_title": "リップ",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2023-04-28 10:00:00",
+    "created_at": "2023-04-17 19:01:15",
+    "updated_at": "2023-04-17 19:01:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16546",
+        "material_title": "0428_tanimoto_s.jpg",
+        "material_file": "818af7b04dc33b8cb7da41cacc50d94c1936dadac016934754cc1bb1dc2ab40516546.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20006",
+    "content_title": "リップ",
+    "content_sub_title": "谷本安美",
+    "release_date": "2023-04-28 10:00:00",
+    "created_at": "2023-04-17 19:01:15",
+    "updated_at": "2023-04-17 19:01:15",
+    "content_text": "0428_tanimoto_s.jpg\r\nききの卒業公演の時、ききからプレゼントでもらったリップつけてたんだ～<img src=\"/emoji/emoji-images/f3a2.gif\"/><img src=\"/emoji/emoji-images/f3a2.gif\"/><img src=\"/emoji/emoji-images/f479.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16546",
+        "material_title": "0428_tanimoto_s.jpg",
+        "material_file": "6fa83d1f5fc53119e36dc46a3fc80a956009f18117e8560ffc4dc5eccd5b075c16546.jpeg"
+      }
+    ],
+    "previous_id": "20177",
+    "next_id": "19993",
+    "saved_materials": [
+      "assets/20006_16546_0428_tanimoto_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 294,
+    "content_id": "15783",
+    "content_title": "工藤の家の屋根裏部屋#84前編～工藤由愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-04-07 17:15:00",
+    "created_at": "2021-04-07 17:16:59",
+    "updated_at": "2021-04-07 17:17:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13152",
+        "material_title": "210407_01_s.jpg",
+        "material_file": "03c6fea882e27012d4d7e8df00536cc080a54c48bf61c086f15d24d9bc2a1d0e13152.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13153",
+        "material_title": "210407_03_s.jpg",
+        "material_file": "8a26dfed10cb4a55cc0655aa96856204446873496dc53102f0a114807158928e13153.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15783",
+    "content_title": "工藤の家の屋根裏部屋#84前編～工藤由愛～",
+    "content_sub_title": "",
+    "release_date": "2021-04-07 17:15:00",
+    "created_at": "2021-04-07 17:16:59",
+    "updated_at": "2021-04-07 17:17:49",
+    "content_text": "ふくむらの部屋 第84回前編配信中！\n\nJuice=Juice工藤由愛さんが出演！\n\n新グループ結成を発表されたハロプロ研修生について、\n花鳥風月同じチームメンバーの印象は？\n\n210407_01_s.jpg\n\n「ハロプロファン失敗談」のコーナーでは、\nブログコメントにおすすめなテキスト保存方法や、\n工藤さんが思わず笑顔になってしまった失敗も！\n\n引き続き、後編もお楽しみ下さい！\n\n210407_03_s.jpg\n(タコポーズ)",
+    "materials": [
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13152",
+        "material_title": "210407_01_s.jpg",
+        "material_file": "295befaa0eb97f070570e87d8f2f337146e56109ef67f3ae200e1f64acd996c613152.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13153",
+        "material_title": "210407_03_s.jpg",
+        "material_file": "dbd0407e03140a06844fb8e0d7fe6070d13c1c81243c03149842ed6c90d0712413153.jpeg"
+      }
+    ],
+    "previous_id": "15784",
+    "next_id": "15686",
+    "saved_materials": [
+      "assets/15783_13152_210407_01_s.jpg",
+      "assets/15783_13153_210407_03_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 662,
+    "content_id": "4723",
+    "content_title": "工藤の家の天井裏#10　～リーダー×リーダー～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-05-17 00:00:00",
+    "created_at": "2016-05-30 20:42:43",
+    "updated_at": "2016-05-30 20:44:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4285",
+        "material_title": "160516_3.jpg",
+        "material_file": "bb0c72bd3dcc34542fd7a171300bfc66de3973089d94782e17b964aefa3728e14285.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4286",
+        "material_title": "160516_2.jpg",
+        "material_file": "e3a6cd645fb1daac8b74c644b74a4577a4b46f4309abc3f3f53c1349e5fc9b594286.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4287",
+        "material_title": "160516_1.jpg",
+        "material_file": "22f8ddfac5c30ff07662dc79ba24371d5bc830fd33892b8d13e7f00d0ec536c64287.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4723",
+    "content_title": "工藤の家の天井裏#10　～リーダー×リーダー～",
+    "content_sub_title": "",
+    "release_date": "2016-05-17 00:00:00",
+    "created_at": "2016-05-30 20:42:43",
+    "updated_at": "2016-05-30 20:44:44",
+    "content_text": "やじまの部屋やな#10公開中です！\r\n\r\nゲストはこの方。\r\n\r\n160516_1.jpg\r\n\r\n宇宙大好きJuice=Juiceリーダー宮崎由加！\r\n\r\nメールのお便りから始まった2人のあざかわ対決\r\nお互い向かい合いながらあざかわセリフを言う2人は、恥ずかしがりながらも持ち前の負けず嫌いが炸裂！？\r\n\r\n勝敗は番組を聞いて下さい。 \r\n\r\n160516_2.jpg\r\n\r\n筋肉自慢…？\r\n\r\n宮崎が平謝りしていた\r\n「犯人を追え！」コーナーの似顔絵はこちら。 \r\n\r\n160516_3.jpg\r\n\r\n次回ゲストは、\r\n同じグループの℃-uteからあの人が登場！\r\n次の配信をお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4285",
+        "material_title": "160516_3.jpg",
+        "material_file": "cc60e75dbb46c379d9860db6af477b77e9cfb6ba2da11414d47bc58d8bbac03d4285.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4286",
+        "material_title": "160516_2.jpg",
+        "material_file": "d3a337e471ce4b45cb7b53ea6646d3a72261e0c0f0a4ad0c7bbde9b74ed7b4a64286.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4287",
+        "material_title": "160516_1.jpg",
+        "material_file": "a24e2f58d622d3fd1a0808de41f9bab79d3934780f5f32085b87c714441e26354287.jpeg"
+      }
+    ],
+    "previous_id": "4724",
+    "next_id": "4524",
+    "saved_materials": [
+      "assets/4723_4285_160516_3.jpg",
+      "assets/4723_4286_160516_2.jpg",
+      "assets/4723_4287_160516_1.jpg"
+    ]
+  }
+}

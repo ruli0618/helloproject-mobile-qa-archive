@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 555,
+    "content_id": "7958",
+    "content_title": "あと2日！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-18 11:00:00",
+    "created_at": "2017-11-17 18:46:58",
+    "updated_at": "2017-11-17 18:46:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7014",
+        "material_title": "171118_1.jpg",
+        "material_file": "73a74f351fcf32941f2875c30c1d5db8988172117371f4aa7a4b84945d0182c87014.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7016",
+        "material_title": "171118_3.jpg",
+        "material_file": "dd65fe835aee2517d97db25e90ae7e36ca800fa101b1337a838d5716e363ac5f7016.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7015",
+        "material_title": "171118_2.jpg",
+        "material_file": "16f66e944eec21088459037f210e72e098a1db22b48613c098867f01a1d881757015.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7958",
+    "content_title": "あと2日！",
+    "content_sub_title": "",
+    "release_date": "2017-11-18 11:00:00",
+    "created_at": "2017-11-17 18:46:58",
+    "updated_at": "2017-11-17 18:46:58",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です！\r\n\r\nこの辺で昨年開催されたJuice=Juice日本武道館公演のライブ映像をおさらいしてみませんか？\r\n\r\n<a href=\"https://www.youtube.com/watch?v=Y2wJ5kqwqQk&t=42s\" target=\"_blank\">KEEP ON 上昇志向！！\r\n171118_1.jpg</a>\r\n<a href=\"https://www.youtube.com/watch?v=v4rfNYe55WA&t=1190s\" target=\"_blank\">選ばれし私達\r\n171118_3.jpg</a>\r\n<a href=\"https://youtu.be/Y2wJ5kqwqQk?t=6m32s\" target=\"_blank\">続いていくSTORY\r\n171118_2.jpg</a>\r\n\r\nJuice=Juiceが目標として掲げていた日本武道館に初めて立ったこの日から1年、更にパワーアップしたJuice=Juiceをぜひ見届けて下さい。\r\n\r\n<a href=\"http://www.helloproject.com/juicejuice/event/detail/c3e43baecef5f178af85bd284c02751f96be3e1f/\" target=\"_blank\">★7人で初となる日本武道館\r\n11/20(月)開催！詳細はこちら。</a>",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7014",
+        "material_title": "171118_1.jpg",
+        "material_file": "fdf23ee6f80c49ee65f6a42ea1b59a1e9d281facbb26f9c4ad4148837cff78137014.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7016",
+        "material_title": "171118_3.jpg",
+        "material_file": "e3f1a8a143c7a32457f7ed563556cd8fa4556f2dc71a97fbfa64a68d40bb8a117016.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7015",
+        "material_title": "171118_2.jpg",
+        "material_file": "37750902f32c8111296849b6a08c48a322c9416f1b61f387e6044f4284be85ec7015.jpeg"
+      }
+    ],
+    "previous_id": "7959",
+    "next_id": "7957",
+    "saved_materials": [
+      "assets/7958_7014_171118_1.jpg",
+      "assets/7958_7016_171118_3.jpg",
+      "assets/7958_7015_171118_2.jpg"
+    ]
+  }
+}

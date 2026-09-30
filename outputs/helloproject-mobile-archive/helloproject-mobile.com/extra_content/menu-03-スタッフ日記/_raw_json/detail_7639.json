@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 572,
+    "content_id": "7639",
+    "content_title": "宣伝会議 議事録#18",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-09-25 23:37:00",
+    "created_at": "2017-09-25 23:37:52",
+    "updated_at": "2017-09-25 23:40:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6730",
+        "material_title": "syasin1.JPG",
+        "material_file": "112a4dbb70716d8b9e837f89208d7d5be67dd132dbf0fe0c70c112ba9903d4126730.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6731",
+        "material_title": "syasin2.JPG",
+        "material_file": "192c86131ee558b97791e77c56701775a9693a1fde97ae0e694ce5316879cd286731.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6732",
+        "material_title": "SCAN4015.jpg",
+        "material_file": "a4daaa0c322172da10882feafd3a128682963a47dba619d1913d262f21d804316732.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7639",
+    "content_title": "宣伝会議 議事録#18",
+    "content_sub_title": "",
+    "release_date": "2017-09-25 23:37:00",
+    "created_at": "2017-09-25 23:37:52",
+    "updated_at": "2017-09-25 23:40:20",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美・顧問の工藤遥による18回目の宣伝会議が行われました！\n\n前回の配信では梁川がお休みさせていただきましたが、今回は4人でのラジオ！\nやはり4人揃って宣伝部員。この4人本当に仲が良いんですよ。\n\n打ち合わせをしていても、皆さんからのメールを読んでも、4人の会話は脱線に次ぐ、脱線・・・。\n\nsyasin1.JPG\n\n今回はハロ！モバ内のコンテンツ「イラスト漫画リレー」について話合いが行われました。\n果たして物語の軌道修正はできたのか？\n\nイラストの続きも書きましたので、更新お楽しみに！\n\nそして、ハロモバ宣伝部イベントの日程が発表になりました！\n\nsyasin2.JPG\n\n詳細はハロモバサイトの更新をお待ちください！\n\n今回の書記のメモはこちら！\n\nSCAN4015.jpg\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6730",
+        "material_title": "syasin1.JPG",
+        "material_file": "64dcbb83f10e858f865b34b3a39b464a13658a34add6a9d9e49f7c620abb178f6730.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6731",
+        "material_title": "syasin2.JPG",
+        "material_file": "9463cf66b015e0a90f2a1acaf6d44fd8b3b6925caf952d665def81466b46dc1b6731.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6732",
+        "material_title": "SCAN4015.jpg",
+        "material_file": "1a7673161ce283b22500bfa5df879acc023fc446c9dd81b367689f21deea56eb6732.jpeg"
+      }
+    ],
+    "previous_id": "7646",
+    "next_id": "7627",
+    "saved_materials": [
+      "assets/7639_6730_syasin1.JPG",
+      "assets/7639_6731_syasin2.JPG",
+      "assets/7639_6732_SCAN4015.jpg"
+    ]
+  }
+}

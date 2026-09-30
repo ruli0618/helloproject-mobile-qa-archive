@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 686,
+    "content_id": "3722",
+    "content_title": "ハロプロまるわかりBOOK 2016 WINTER",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-12-30 11:00:00",
+    "created_at": "2015-12-29 02:11:35",
+    "updated_at": "2015-12-29 02:27:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3452",
+        "material_title": "kamikoku2.jpg",
+        "material_file": "3448f609a1723df449c9a099d3d43139e0b7b3da3692173b5c1cb927af1943033452.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3453",
+        "material_title": "funaki.jpg",
+        "material_file": "fdc2661fc826232fd42f7e473cffc195cd0eb98649bce8c7676d824d9d28cfc33453.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3454",
+        "material_title": "yanagawa.jpg",
+        "material_file": "ab83024802fd299a35ce017b659f1e89fe1c92c1ef92ffe80ea8d68ce18cf3673454.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3722",
+    "content_title": "ハロプロまるわかりBOOK 2016 WINTER",
+    "content_sub_title": "",
+    "release_date": "2015-12-30 11:00:00",
+    "created_at": "2015-12-29 02:11:35",
+    "updated_at": "2015-12-29 02:27:54",
+    "content_text": "みなさん、こんにちは！\n\n1月2日に「ハロプロまるわかりBOOK 2016 WINTER」が発売されます！\n\n\nアンジュルム 上國料萌衣\n\nkamikoku2.jpg\n\n\nカントリー・ガールズ 梁川奈々美\n\nyanagawa.jpg\n\n\n同じく、カントリー・ガールズ 船木結\n\nfunaki.jpg\n\n\nこちらのニューカマー3名を加えた史上最多の総勢52人が登場します！！\n\n\nメンバー1人1人に付けられた、キャッチフレーズにも注目です！\n\n\nご購入はコチラから↓↓\n\n「Hello! Project 2016 WINTER ～DANCING！SINGING！EXCITING！～」各コンサート会場物販\ne-LineUP！：<a href=\"http://www.e-lineup.com/\"><u><font color=\"#0000ff\">http://www.e-lineup.com/</font></u></a>\n\nハロー！プロジェクト オフィシャルショップ各店：<a href=\"http://www.shop.helloproject.com/officialshop/\"><u><font color=\"#0000ff\">http://www.shop.helloproject.com/officialshop/</font></u></a>\nハロー！プロジェクト オフィシャルショップWeb Store：<a href=\"http://helloshop.jp/\"><u><font color=\"#0000ff\">http://helloshop.jp/</font></u></a>\n",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3452",
+        "material_title": "kamikoku2.jpg",
+        "material_file": "92a864bc4707cb81a7c43e62e435612e1c540c2d62ffa33430d47aa532c8afee3452.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3453",
+        "material_title": "funaki.jpg",
+        "material_file": "89fd553bafc28af2123b2329b6443e794814cf7ea9bdd59ba7492c2bf205e11c3453.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3454",
+        "material_title": "yanagawa.jpg",
+        "material_file": "b3828ba72cf0d1d301b6772dd6d2664af6374c721e547337fcb48a2b6b21a7303454.jpeg"
+      }
+    ],
+    "previous_id": "3808",
+    "next_id": "3717",
+    "saved_materials": [
+      "assets/3722_3452_kamikoku2.jpg",
+      "assets/3722_3453_funaki.jpg",
+      "assets/3722_3454_yanagawa.jpg"
+    ]
+  }
+}

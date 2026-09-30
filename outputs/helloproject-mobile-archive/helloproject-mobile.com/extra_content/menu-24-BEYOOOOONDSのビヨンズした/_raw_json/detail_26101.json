@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 36,
+    "content_id": "26101",
+    "content_title": "大好きな海",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2026-05-04 10:00:00",
+    "created_at": "2026-04-21 23:01:55",
+    "updated_at": "2026-04-28 21:56:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6aaf4666980828ae7fa1dbf0ad345402",
+        "material_id": "21347",
+        "material_title": "0506_maeda_s.jpg",
+        "material_file": "45c527ec932dd2db5af1df24730941b078ea8c8ec499cf7cd2f82cf472cf221e21347.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "26101",
+    "content_title": "大好きな海",
+    "content_sub_title": "前田こころ",
+    "release_date": "2026-05-04 10:00:00",
+    "created_at": "2026-04-21 23:01:55",
+    "updated_at": "2026-04-28 21:56:34",
+    "content_text": "0506_maeda_s.jpg\r\n波の音が聞こえてきそうな写真！海からパワーたくさんもらった！\r\n\r\n【52周目お題：音が聞こえそう】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21347",
+        "material_title": "0506_maeda_s.jpg",
+        "material_file": "94741522ef8524c2230f6b3c0cda1edd12d8df894ba883165b8abeb333d5ea1e21347.jpeg"
+      }
+    ],
+    "previous_id": "26102",
+    "next_id": "26099",
+    "saved_materials": [
+      "assets/26101_21347_0506_maeda_s.jpg"
+    ]
+  }
+}

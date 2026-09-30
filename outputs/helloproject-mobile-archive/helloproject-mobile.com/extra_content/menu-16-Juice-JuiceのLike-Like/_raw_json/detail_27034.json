@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 2,
+    "content_id": "27034",
+    "content_title": "秋ツアー",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2026-09-29 00:00:00",
+    "created_at": "2026-09-29 18:37:17",
+    "updated_at": "2026-09-29 18:37:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "22108",
+        "material_title": "S__566648948.jpg",
+        "material_file": "4b837cad21277e75c2adf5328edaaf60fb5422d48d30fbb5f9093c6b698c588822108.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "27034",
+    "content_title": "秋ツアー",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2026-09-29 00:00:00",
+    "created_at": "2026-09-29 18:37:17",
+    "updated_at": "2026-09-29 18:37:17",
+    "content_text": "えばです！\r\n\r\n秋ツアー、初日を迎えてからあっという間に色んな地方を巡ってきました！！\r\n\r\n今回は神奈川県で始まってから、さっそくメンバーの地元に行ったから、なんか始まって早々ツアー後半戦みたいな気持ちになった！笑\r\n\r\n今回のツアーは、5ROOMSということで、今までとは全然違う演出を取り入れてるんですよね>  <\r\n\r\n苦戦もありますが、楽しい気持ちでいっぱい！\r\n\r\nこの調子で千秋楽まで駆け抜けます♡♡\r\n\r\n\r\nハロモバを見てくださった皆さん、これまでありがとうございました！！！\r\n\r\nまたどこかでお会いしましょう✮*｡ﾟ\r\n\r\nS__566648948.jpg\r\n\r\nほなね〜\r\n江端妃咲",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "22108",
+        "material_title": "S__566648948.jpg",
+        "material_file": "ae18154d27a493e4ac340639e6a5fe13d7d542ec624c9bb4516a9c804414953e22108.jpeg"
+      }
+    ],
+    "previous_id": "26918",
+    "next_id": "26917",
+    "saved_materials": [
+      "assets/27034_22108_S__566648948.jpg"
+    ]
+  }
+}

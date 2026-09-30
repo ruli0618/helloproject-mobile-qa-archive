@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 557,
+    "content_id": "13325",
+    "content_title": "自炊のはなし",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-03-31 10:00:00",
+    "created_at": "2020-03-19 22:41:24",
+    "updated_at": "2020-03-19 22:50:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11316",
+        "material_title": "0330_inaba_s.jpg",
+        "material_file": "6d0135bc665a260c35a923abe6300a3e22e002e80d53ea3e675b28000e7e324811316.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13325",
+    "content_title": "自炊のはなし",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-03-31 10:00:00",
+    "created_at": "2020-03-19 22:41:24",
+    "updated_at": "2020-03-19 22:50:58",
+    "content_text": "0330_inaba_s.jpg\r\n稲場愛香です！これはある日のご飯。ナスとピーマンと鶏肉の味噌炒めは味付けが美味しくできて最高でした〜♪ぺろっとたべちゃいました。でもね、カットわかめを横着してサササって入れたらドバーー！って入っちゃって、ワカメもりもりスープになっちゃいました。笑\r\nそんなこともあるよね〜",
+    "materials": [
+      {
+        "secretKey": "cba28c20c6185f68fff9b9feb00ca7f8",
+        "material_id": "11316",
+        "material_title": "0330_inaba_s.jpg",
+        "material_file": "1b607d8c6d24b2ac13a6ba6e80152feef22effb95090c3832cbfd98655d5ef9211316.jpeg"
+      }
+    ],
+    "previous_id": "13582",
+    "next_id": "13324",
+    "saved_materials": [
+      "assets/13325_11316_0330_inaba_s.jpg"
+    ]
+  }
+}

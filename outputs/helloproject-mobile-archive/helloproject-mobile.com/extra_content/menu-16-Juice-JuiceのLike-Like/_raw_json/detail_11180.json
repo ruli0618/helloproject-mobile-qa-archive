@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 629,
+    "content_id": "11180",
+    "content_title": "食べもの特集",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2019-04-08 10:00:00",
+    "created_at": "2019-04-02 13:45:26",
+    "updated_at": "2019-04-02 13:45:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9559",
+        "material_title": "0408_inaba_s.jpg",
+        "material_file": "4edd5c05212e2bd16b84308155f2f7be39781a6ff2eeeb28ddc0ce5ec8571df19559.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11180",
+    "content_title": "食べもの特集",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2019-04-08 10:00:00",
+    "created_at": "2019-04-02 13:45:26",
+    "updated_at": "2019-04-02 13:45:26",
+    "content_text": "0408_inaba_s.jpg\r\n4月からLike＝Likeは食べもの特集にしていこうかなと思っているまなかです(*^^)v\r\nこの写真は、3月にみんなで香港に行かせて頂いた際に現地のスタッフさんが手作りして下さったお菓子です♡他にもクッキーを沢山焼いてきて下さったり、優しい方々に囲まれていました♪このお菓子も本当に美味しかった〜♡また香港にお邪魔できるように頑張ります！",
+    "materials": [
+      {
+        "secretKey": "40b6b183b55c19e3f4259389637e15ff",
+        "material_id": "9559",
+        "material_title": "0408_inaba_s.jpg",
+        "material_file": "f0d1784590e4843fec7f60f5784ab19967fa797c2aa2673d3977e8a92a402a6a9559.jpeg"
+      }
+    ],
+    "previous_id": "11230",
+    "next_id": "11179",
+    "saved_materials": [
+      "assets/11180_9559_0408_inaba_s.jpg"
+    ]
+  }
+}

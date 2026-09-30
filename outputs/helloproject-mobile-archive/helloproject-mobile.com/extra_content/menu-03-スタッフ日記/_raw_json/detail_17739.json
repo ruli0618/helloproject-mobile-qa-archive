@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 239,
+    "content_id": "17739",
+    "content_title": "宣伝会議#71",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-02-25 19:14:00",
+    "created_at": "2022-02-25 19:43:14",
+    "updated_at": "2022-02-25 19:43:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14825",
+        "material_title": "220225_01_s.jpg",
+        "material_file": "4f3ab406cab0e667fcf74bef225fb50d0f46ccd37cf2dddb2cc4a68d29e4615114825.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14826",
+        "material_title": "220225_02_s.jpg",
+        "material_file": "00059d37143c347c84f19ff839c03492f245b532c90b3c609ba7425e0a72c57014826.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14827",
+        "material_title": "220225_03_s.jpg",
+        "material_file": "abd7c7177b7230c70f6a7bb9ee59f32d35823ba4dfc500b7ade3c4b8a9fef98914827.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14828",
+        "material_title": "220225_04_s.jpg",
+        "material_file": "1ba4c74554c96efd0444bfa9971db65b6d6d717df9d128888ec790c145ce894714828.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17739",
+    "content_title": "宣伝会議#71",
+    "content_sub_title": "",
+    "release_date": "2022-02-25 19:14:00",
+    "created_at": "2022-02-25 19:43:14",
+    "updated_at": "2022-02-25 19:43:14",
+    "content_text": "宣伝会議第71回は、野中美希部長、川村文乃副部長の二人でお届け！\r\n\r\n220225_01_s.jpg\r\n\r\nラジオ連動の質問企画では、\r\n・お気に入りのネイル\r\n・30歳どうなっていたいか\r\nという質問に回答！\r\n\r\nバレンタインチョコをもらいたいメンバー、\r\n気になるチョコ、\r\n愛用のアイテム、\r\nオーディションのエピソードについてトーク！\r\n\r\n220225_02_s.jpg\r\n\r\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「譜久村聖」さんについて紹介！\r\n今回は、譜久村さんならではな有名エピソードが多かったですね。\r\n次回のお題は「岸本ゆめの」さんです。\r\n\r\nほかにも、二人のオススメの本や、\r\n寝る前の時間をどう過ごすか、\r\nヘアスタイルについて、\r\n今まで歌った場所で印象的な場所を教えていただきました！\r\n\r\n※野中さんの髪型が印象的な2月1日のブログは<a href=\"https://ameblo.jp/mm-12ki/entry-12724519732.html\" target=\"_blank\">こちら</a>。\r\n\r\n↓議事録はこちら！\r\n220225_04_s.jpg\r\n\r\n次回は、川村文乃副部長と前田こころ書記兼警備兼広報が登場します！\r\nお楽しみに！\r\n\r\n220225_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14825",
+        "material_title": "220225_01_s.jpg",
+        "material_file": "8efa9dfaf0516da6f9a6712437871ad74f3818eec7f23a310dbe3790f1cdec1b14825.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14826",
+        "material_title": "220225_02_s.jpg",
+        "material_file": "823a0ae651037eed851501d664d78a13d3e691ea3af013abdf13b8c92d396f1814826.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14827",
+        "material_title": "220225_03_s.jpg",
+        "material_file": "f8181b9d06ce54b90bdf4ab0c56a359430c4302dca22f8e6d0511a0310e8d8a314827.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14828",
+        "material_title": "220225_04_s.jpg",
+        "material_file": "81a030a037e07d73eade7a213b45ede2d18d816eb990f891703ddddfba442df914828.jpeg"
+      }
+    ],
+    "previous_id": "17746",
+    "next_id": "17686",
+    "saved_materials": [
+      "assets/17739_14825_220225_01_s.jpg",
+      "assets/17739_14826_220225_02_s.jpg",
+      "assets/17739_14827_220225_03_s.jpg",
+      "assets/17739_14828_220225_04_s.jpg"
+    ]
+  }
+}

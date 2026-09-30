@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 678,
+    "content_id": "3989",
+    "content_title": "NEXT YOU/Juice=Juice",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-02-03 12:00:00",
+    "created_at": "2016-02-03 12:48:44",
+    "updated_at": "2016-02-03 12:52:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3661",
+        "material_title": "S__75481121.jpg",
+        "material_file": "0e56ce3f163b2bd0bb1dfe0a7967ff9f061d72a691fc962804008bffeeee7fb53661.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3662",
+        "material_title": "S__75481122.jpg",
+        "material_file": "03f9a60c428b0f5d909af4ba50d86b49bc38d2dbd5978807eaee6d6f42321e963662.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "3663",
+        "material_title": "8089.jpg",
+        "material_file": "2f03a30a9655d72c0d123119af07d1e7644fe63a2400bbdeb1c57a3327e56f4e3663.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3989",
+    "content_title": "NEXT YOU/Juice=Juice",
+    "content_sub_title": "",
+    "release_date": "2016-02-03 12:00:00",
+    "created_at": "2016-02-03 12:48:44",
+    "updated_at": "2016-02-03 12:52:57",
+    "content_text": "みなさん、こんにちは！\n\n本日、2月3日は\nNEXT YOU/Juice=Juice「Next is you!／カラダだけが大人になったんじゃない」の発売日です！\n\n8089.jpg\n\n各所で発売イベントを開催しておりますので、お近くの方は是非お越しください！！\n\n詳しくはコチラ↓↓\n<a href=\"http://www.helloproject.com/event/detail/ea3c74d58c46fdeb12774a1c0fa62f3c16741374\"><font color=\"#0000ff\"><u>http://www.helloproject.com/event/detail/ea3c74d58c46fdeb12774a1c0fa62f3c16741374</u></font></a>\n\nそして、週末に行ったイベントの様子を～♪\n\nS__75481121.jpg\nS__75481122.jpg\n\nNEXT YOU/Juice=Juice「Next is you!／カラダだけが大人になったんじゃない」\n是非チェックお願いいたします！\n",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3661",
+        "material_title": "S__75481121.jpg",
+        "material_file": "415576da82916ceaf983c760cf67b3167c0e1d229ba889588437d8fef277d3dd3661.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3662",
+        "material_title": "S__75481122.jpg",
+        "material_file": "b51dceb04c1b38bf310265a65065cee2cb26af7fb09120180fdfc863261758ca3662.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3663",
+        "material_title": "8089.jpg",
+        "material_file": "ff1b88812da0da710dcf220ecc02a531e75bb228bf3878bb5da0021f235acaf33663.jpeg"
+      }
+    ],
+    "previous_id": "3993",
+    "next_id": "3985",
+    "saved_materials": [
+      "assets/3989_3661_S__75481121.jpg",
+      "assets/3989_3662_S__75481122.jpg",
+      "assets/3989_3663_8089.jpg"
+    ]
+  }
+}

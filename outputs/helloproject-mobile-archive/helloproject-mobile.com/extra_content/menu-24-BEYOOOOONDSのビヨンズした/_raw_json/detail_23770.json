@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 128,
+    "content_id": "23770",
+    "content_title": "転生",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-02-12 12:10:00",
+    "created_at": "2025-02-12 12:12:36",
+    "updated_at": "2025-02-12 12:12:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19523",
+        "material_title": "0212_okamura_s.jpg",
+        "material_file": "a4b888d594cca21469a13e69afdfbe0e6bc88ba6816fa5a2c2bcfdea14b4708819523.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23770",
+    "content_title": "転生",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-02-12 12:10:00",
+    "created_at": "2025-02-12 12:12:36",
+    "updated_at": "2025-02-12 12:12:36",
+    "content_text": "0212_okamura_s.jpg\r\nブラックみいみもイケてますか？\r\n\r\n【40周目お題：イケてる】",
+    "materials": [
+      {
+        "secretKey": "eb591b537d7ab956e6f5de307aa7f773",
+        "material_id": "19523",
+        "material_title": "0212_okamura_s.jpg",
+        "material_file": "1b8eb572c6c19830cfc43fab113a9878062c400e197120798f991dc085e895e919523.jpeg"
+      }
+    ],
+    "previous_id": "23804",
+    "next_id": "23754",
+    "saved_materials": [
+      "assets/23770_19523_0212_okamura_s.jpg"
+    ]
+  }
+}

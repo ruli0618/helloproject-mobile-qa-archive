@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 268,
+    "content_id": "16766",
+    "content_title": "宣伝会議#65",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-17 18:47:00",
+    "created_at": "2021-09-17 18:54:26",
+    "updated_at": "2021-09-29 16:01:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13974",
+        "material_title": "210825_s.jpg",
+        "material_file": "9a4b5e9be8b25656b4a3d519933b6b7aaf6da6fe0b286fa6cc786f3954dc1f0513974.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13975",
+        "material_title": "210825_02_s.jpg",
+        "material_file": "b5f924d61f8d20d5f4fd994f18bfdaa4adc8e8b79911d18be86c92254a2254a713975.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13976",
+        "material_title": "210825_01_s.jpg",
+        "material_file": "4a003436a5d367850216349e2c37b25cd9f680d4298c737075a8bda51d0c8ab613976.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16766",
+    "content_title": "宣伝会議#65",
+    "content_sub_title": "",
+    "release_date": "2021-09-17 18:47:00",
+    "created_at": "2021-09-17 18:54:26",
+    "updated_at": "2021-09-29 16:01:39",
+    "content_text": "宣伝会議第65回は、野中美希部長、川村文乃副部長の二人でお届け！\n\n210825_01_s.jpg\n\n好きなペットや、覚え方について、\nチャレンジしたい髪型、衣装の買い取りに関して教えて頂きました！\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「好きなユニゾンの組み合わせ」について募集！\n沢山の組み合わせが紹介されました。\n\n楽屋で驚いたメンバーの行動や、\n鞘師里保さんのライブ、Tシャツを選ぶポイントについてトーク！\n推しメンの推し方とファンとの関係に関して、野中部長の持論も！\n\n昨年、今年にお二人が揃ってMVPを受賞した「ソロフェス！2」に関する話題も必聴です！\n\n210825_02_s.jpg\n\n↓議事録はこちら！\n210825_s.jpg\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13974",
+        "material_title": "210825_s.jpg",
+        "material_file": "42161a43eb3d2446d0b478df7d808ca4d95e6ddc7cef36e05e15f01a03101a6313974.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13975",
+        "material_title": "210825_02_s.jpg",
+        "material_file": "31a4b32f3d5f5a419ffa57d3603fb3116bc4e5703cde512628c3298305da4f8713975.jpeg"
+      },
+      {
+        "secretKey": "cc75e93e57f6aabd5927a2668f6239f0",
+        "material_id": "13976",
+        "material_title": "210825_01_s.jpg",
+        "material_file": "cc983968f86806f768d3c6867eabad347403904fc48a448178c5db86a48a1f4e13976.jpeg"
+      }
+    ],
+    "previous_id": "16852",
+    "next_id": "16765",
+    "saved_materials": [
+      "assets/16766_13974_210825_s.jpg",
+      "assets/16766_13975_210825_02_s.jpg",
+      "assets/16766_13976_210825_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 126,
+    "content_id": "23805",
+    "content_title": "5周年イベ",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2025-02-19 11:00:00",
+    "created_at": "2025-02-17 13:03:50",
+    "updated_at": "2025-02-17 13:03:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19559",
+        "material_title": "0219_hirai_s.jpg",
+        "material_file": "882fcb53012f7b80c17c74b3cb198a72f5d511fc5419fcf9fcfb6f56f233dc1719559.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23805",
+    "content_title": "5周年イベ",
+    "content_sub_title": "平井美葉",
+    "release_date": "2025-02-19 11:00:00",
+    "created_at": "2025-02-17 13:03:50",
+    "updated_at": "2025-02-17 13:03:50",
+    "content_text": "0219_hirai_s.jpg\r\nこの衣装はまじでイケてる…！！！\r\n\r\n【40周目お題：イケてる】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19559",
+        "material_title": "0219_hirai_s.jpg",
+        "material_file": "01bcc9c46057f557794b314956dc22b9496e10bef5868bf73e61d7a5d515a96f19559.jpeg"
+      }
+    ],
+    "previous_id": "23806",
+    "next_id": "23804",
+    "saved_materials": [
+      "assets/23805_19559_0219_hirai_s.jpg"
+    ]
+  }
+}

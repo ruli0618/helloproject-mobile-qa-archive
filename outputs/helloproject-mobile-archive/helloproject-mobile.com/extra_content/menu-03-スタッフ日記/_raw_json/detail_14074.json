@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 336,
+    "content_id": "14074",
+    "content_title": "宣伝会議 議事録#51",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-07-07 12:45:00",
+    "created_at": "2020-07-07 12:48:04",
+    "updated_at": "2020-07-07 12:48:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11743",
+        "material_title": "20200707_s.jpg",
+        "material_file": "49f87715946405440e2053ebc9a25609d39587aa87701e517248451fc391319b11743.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14074",
+    "content_title": "宣伝会議 議事録#51",
+    "content_sub_title": "",
+    "release_date": "2020-07-07 12:45:00",
+    "created_at": "2020-07-07 12:48:04",
+    "updated_at": "2020-07-07 12:48:04",
+    "content_text": "宣伝会議、第51回配信中！\r\n\r\n2回めのリモート会議はなかなかスムーズに進行し、沢山お便りを読ませて頂きました。\r\n\r\n徐々にお仕事が再開されている事についてや、ファンの方とオンラインでトークした感想、一人称、行きたい場所や無人島での役割等など。\r\n\r\n議題では「ハロモバ宣伝会議 振り返りトーク！」と題して、これまでの活動や懐かしい出来事を振り返りました！\r\nここで明らかになった悲報！？も…。\r\n\r\n今回の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、「小片リサ」\r\n↑ぜひご覧ください。\r\n\r\n↓議事録はこちら！\r\n\r\n20200707_s.jpg\r\n\r\nぜひ次回、父の日何やったか報告確認メールと、\r\nリモート解消の際には、あっち向いてホイ対決メールをお待ちしていますね♬\r\n\r\n「励ましのメール」「ハロー！ペディア」メールを大募集！\r\n次回「ハロー！ペディア」のお題は宣伝部員ラスト！\r\n「<b>川村文乃</b>」です！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。\r\n※コーナーメールは「ハロー！ペディア」と記入してください。\r\n\r\n沢山のお便り、お待ちしています！",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11743",
+        "material_title": "20200707_s.jpg",
+        "material_file": "ed4e1d5538543c2dcb35c4ae1255e4463362e99e7400bc6b06c4a0e47844faee11743.jpeg"
+      }
+    ],
+    "previous_id": "14076",
+    "next_id": "13893",
+    "saved_materials": [
+      "assets/14074_11743_20200707_s.jpg"
+    ]
+  }
+}

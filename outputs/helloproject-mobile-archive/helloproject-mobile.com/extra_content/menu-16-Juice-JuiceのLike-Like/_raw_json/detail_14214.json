@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 532,
+    "content_id": "14214",
+    "content_title": "空",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-07-28 10:00:00",
+    "created_at": "2020-07-22 20:30:23",
+    "updated_at": "2020-07-22 20:30:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11835",
+        "material_title": "0728_inoue_s.jpg",
+        "material_file": "bd87a5d96fe0797d2a2696bd1f4c556c26a2076c9888874f8d67a0b43716fe4511835.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14214",
+    "content_title": "空",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-07-28 10:00:00",
+    "created_at": "2020-07-22 20:30:23",
+    "updated_at": "2020-07-22 20:30:23",
+    "content_text": "0728_inoue_s.jpg\r\n晴れた日はつい空の写真を撮りたくなりますよね！\r\n夕焼けとかも綺麗だよね〜\r\n風景も沢山撮っていきたいです♥",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11835",
+        "material_title": "0728_inoue_s.jpg",
+        "material_file": "bab867fa374980f8e110e24d00c53392386fae62af7ae5c06cc39728c9934fbe11835.jpeg"
+      }
+    ],
+    "previous_id": "14215",
+    "next_id": "14213",
+    "saved_materials": [
+      "assets/14214_11835_0728_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 142,
+    "content_id": "20347",
+    "content_title": "可愛い",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2023-06-14 10:00:00",
+    "created_at": "2023-06-13 21:05:58",
+    "updated_at": "2023-06-13 21:05:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "16783",
+        "material_title": "0614_tanimoto_s.jpg",
+        "material_file": "d9bddc57941a4e58e1c81a9992c5b41953f6ca901966af33f9105886e2c7196e16783.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20347",
+    "content_title": "可愛い",
+    "content_sub_title": "谷本安美",
+    "release_date": "2023-06-14 10:00:00",
+    "created_at": "2023-06-13 21:05:58",
+    "updated_at": "2023-06-13 21:05:58",
+    "content_text": "0614_tanimoto_s.jpg\r\nツアーできそちの可愛いベッドドレスつけれて嬉しかったよ！",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16783",
+        "material_title": "0614_tanimoto_s.jpg",
+        "material_file": "c2d1cfee0b921f1d835bbfb6f0d9dea77c0207ea642661ffc72fcacf69dd6eca16783.jpeg"
+      }
+    ],
+    "previous_id": "20390",
+    "next_id": "-1",
+    "saved_materials": [
+      "assets/20347_16783_0614_tanimoto_s.jpg"
+    ]
+  }
+}

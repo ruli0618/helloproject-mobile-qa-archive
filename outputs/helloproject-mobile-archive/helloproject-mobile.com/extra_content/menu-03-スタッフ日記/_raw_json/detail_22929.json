@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 111,
+    "content_id": "22929",
+    "content_title": "工藤の家の軒下#4～松本わかな～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-01-30 00:00:00",
+    "created_at": "2024-09-21 05:24:35",
+    "updated_at": "2024-09-21 06:40:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18777",
+        "material_title": "240130_s.jpg",
+        "material_file": "98f2ac6219c3d3cd9934a52ae89b565163a4571d8ffacc9365af7b00d911357718777.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22929",
+    "content_title": "工藤の家の軒下#4～松本わかな～",
+    "content_sub_title": "",
+    "release_date": "2024-01-30 00:00:00",
+    "created_at": "2024-09-21 05:24:35",
+    "updated_at": "2024-09-21 06:40:58",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第4回は、同い年メンバーアンジュルム松本わかなさんがゲストに来てくれました！\r\n\r\n240130_s.jpg\r\n\r\n・夢の国お出かけ\r\n・オーディション\r\n・仲良くなりたいメンバー\r\n・デビュー前行ったイベント\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・私の考えたペン\r\n・バスケ＆テニス\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\n気持ちの奮い立たせ方や、会社のSNS更新について紹介しました！\r\n\r\n後半では、\r\n・MV撮影裏話\r\n・大変だったイベント\r\n・グループ加入の違い\r\n・コロナ禍中のデビュー\r\n・竹内朱莉卒業ライブ\r\n・お互いの印象\r\nについてトーク！\r\n\r\n次回は、Juice=Juice段原瑠々さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18777",
+        "material_title": "240130_s.jpg",
+        "material_file": "5876e65a86e84d32cd6f40289715ff5ccc9c3d22517cc79e6bf7bf8c05b90ce718777.jpeg"
+      }
+    ],
+    "previous_id": "22930",
+    "next_id": "21614",
+    "saved_materials": [
+      "assets/22929_18777_240130_s.jpg"
+    ]
+  }
+}

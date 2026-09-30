@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 51,
+    "content_id": "18390",
+    "content_title": "リップ",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2022-06-24 10:00:00",
+    "created_at": "2022-06-24 13:27:36",
+    "updated_at": "2022-06-24 13:27:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15312",
+        "material_title": "0624_akiyama_s.jpg",
+        "material_file": "9df84f46d7968a417e1187db07f55efef9f2be9f9c977548f277f062207a7c3a15312.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18390",
+    "content_title": "リップ",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2022-06-24 10:00:00",
+    "created_at": "2022-06-24 13:27:36",
+    "updated_at": "2022-06-24 13:27:36",
+    "content_text": "0624_akiyama_s.jpg\r\n最近は新しいリップをつけるのが楽しい♡色々なリップ持ってるけど何を塗ろう？って選ぶ時間もすきです\r\n夏は明るい色塗りたいな(^^)",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15312",
+        "material_title": "0624_akiyama_s.jpg",
+        "material_file": "be7e18d31c2792c7fd7fba1406d69272792c24b8c404aca794882ccbc35e0e7e15312.jpeg"
+      }
+    ],
+    "previous_id": "18391",
+    "next_id": "18292",
+    "saved_materials": [
+      "assets/18390_15312_0624_akiyama_s.jpg"
+    ]
+  }
+}

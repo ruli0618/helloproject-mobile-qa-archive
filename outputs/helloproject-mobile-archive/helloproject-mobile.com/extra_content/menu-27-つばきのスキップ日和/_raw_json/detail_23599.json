@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 80,
+    "content_id": "23599",
+    "content_title": "プリンセス",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "155",
+    "release_date": "2024-12-27 17:16:00",
+    "created_at": "2024-12-27 17:17:51",
+    "updated_at": "2024-12-27 17:17:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19391",
+        "material_title": "1227_ono_s.jpg",
+        "material_file": "a0fdfd6815e7c0b5ec4488fc9e4ec280b8aa72bbaea573cb5892fa571a9ff1db19391.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23599",
+    "content_title": "プリンセス",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2024-12-27 17:16:00",
+    "created_at": "2024-12-27 17:17:51",
+    "updated_at": "2024-12-27 17:17:51",
+    "content_text": "1227_ono_s.jpg\r\n先日のクリスマスイベントで\r\n黄色いドレスを着たよ〜っ\r\n\r\n大好きなプリンセスが着てる\r\n色のドレスを着られて\r\n自分もプリンセス気分を味わえました♡\r\n\r\nスキップしたくなっちゃうくらい\r\nうきうきした〜！\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19391",
+        "material_title": "1227_ono_s.jpg",
+        "material_file": "ed7b8450aa645e32d85fc1ff6fc5d91bd0f557eb0b30ca87572d2ff0e39e965e19391.jpeg"
+      }
+    ],
+    "previous_id": "23638",
+    "next_id": "23485",
+    "saved_materials": [
+      "assets/23599_19391_1227_ono_s.jpg"
+    ]
+  }
+}

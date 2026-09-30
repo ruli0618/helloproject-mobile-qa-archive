@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 639,
+    "content_id": "5519",
+    "content_title": "工藤の家の天井裏#20　～宇宙～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-10-17 22:31:00",
+    "created_at": "2016-10-17 22:28:45",
+    "updated_at": "2016-10-17 22:31:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4963",
+        "material_title": "161017_2.jpg",
+        "material_file": "fbfd7f48b4266469733ee2f4450e5a375f63953710a641bef666453f77d024b84963.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4964",
+        "material_title": "161017_1_s.jpg",
+        "material_file": "4c5421872e58ffbe6adb816732b17abf9d149ccb4abc523b5905a275a360a5394964.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5519",
+    "content_title": "工藤の家の天井裏#20　～宇宙～",
+    "content_sub_title": "",
+    "release_date": "2016-10-17 22:31:00",
+    "created_at": "2016-10-17 22:28:45",
+    "updated_at": "2016-10-17 22:31:33",
+    "content_text": "やじまの森やな#20公開中！\nゲストは、前回に続き天然？なメンバー\nアンジュルム相川茉穂さんが登場！\n\n161017_1_s.jpg\n\n月を観測する楽しさ、\n未確認飛行物体の目撃情報、\n宇宙人から見た人間はどう見える？…など\n宇宙の話から、カラアゲニスト取得方法まで、独特なあいあいワールドが繰り広げられました。\n\nそしてアンジュルムのニューシングル「愛のため今日まで進化してきた人間　愛のためすべて退化してきた人間」の略称は、「あいあい」に決定！\nぜひ今後は「あいあい」と呼んであげてください！\n\n「犯人を追え」コーナーで、2人が描いた似顔絵はこちら。 \n\n161017_2.jpg\n\nエンディングの最後の最後まで、お聴きくださいね♪\n\nそれでは、次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4963",
+        "material_title": "161017_2.jpg",
+        "material_file": "bfa7a265ae04e4f40e16eecbd06f57d44da300ac61d0d7a2447a9ac7091e51df4963.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4964",
+        "material_title": "161017_1_s.jpg",
+        "material_file": "26381f3253d544d693ea064f45aee62a6b37ec6c91fbf32db42cd0d016451cb04964.jpeg"
+      }
+    ],
+    "previous_id": "5530",
+    "next_id": "5477",
+    "saved_materials": [
+      "assets/5519_4963_161017_2.jpg",
+      "assets/5519_4964_161017_1_s.jpg"
+    ]
+  }
+}

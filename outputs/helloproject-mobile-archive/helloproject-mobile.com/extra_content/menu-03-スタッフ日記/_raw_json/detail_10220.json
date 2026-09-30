@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 465,
+    "content_id": "10220",
+    "content_title": "隣のやじまん家の塀の裏#34 小野田紗栞",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-02 21:05:00",
+    "created_at": "2018-11-02 21:08:52",
+    "updated_at": "2018-11-02 21:09:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8865",
+        "material_title": "181102_02_01_s.jpg",
+        "material_file": "02b55fd44c6c00cee2b503a74ee73de9d35a2f494df324f2b9c7f077f24f90a98865.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10220",
+    "content_title": "隣のやじまん家の塀の裏#34 小野田紗栞",
+    "content_sub_title": "",
+    "release_date": "2018-11-02 21:05:00",
+    "created_at": "2018-11-02 21:08:52",
+    "updated_at": "2018-11-02 21:09:52",
+    "content_text": "隣のやじまん家#34公開しております♪\n\n今回のゲストはこの方！\n\n181102_02_01_s.jpg\n\nつばきファクトリーの小野田紗栞さんが登場！\n\nあざかわになりたい…という小野田さんのキャラクターを、今回の収録でよく理解したと話す矢島さん。\n握力が強いと話題の握手を試した時は、思わず声を上げていました。\n\n2人の自撮り対決、腕相撲対決の勝敗は…！？\n結果は番組をチェック！\n\n「目指せアクトレス矢島」では、\n演技経験がほとんど無いという小野田さんのレアな演技がお聴き頂けます！\n\n「隣のやじまん家」は、皆さんのメールが頼りです。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、11月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n次回はモーニング娘。'18、牧野真莉愛さんが出演！\n11/6(火)19:00まで、メール受付中♪\n\n沢山のお便りお待ちしています！\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8865",
+        "material_title": "181102_02_01_s.jpg",
+        "material_file": "99150c3aaeb95d120af3809a570422dcd27dfad66dcaa0eb1506215fbd62c8208865.jpeg"
+      }
+    ],
+    "previous_id": "10246",
+    "next_id": "10219",
+    "saved_materials": [
+      "assets/10220_8865_181102_02_01_s.jpg"
+    ]
+  }
+}

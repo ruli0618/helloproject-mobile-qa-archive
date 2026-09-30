@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 431,
+    "content_id": "14765",
+    "content_title": "美味しそうに食べるなぁ",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2020-11-23 10:00:00",
+    "created_at": "2020-10-21 17:57:16",
+    "updated_at": "2022-01-17 14:37:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "12276",
+        "material_title": "1123_shimakura_s.jpg",
+        "material_file": "4ebdf4edc3237e8549f1d40583b68be58cb95b192125bf186b90cf1bdc0c7e6312276.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14765",
+    "content_title": "美味しそうに食べるなぁ",
+    "content_sub_title": "島倉りか",
+    "release_date": "2020-11-23 10:00:00",
+    "created_at": "2020-10-21 17:57:16",
+    "updated_at": "2022-01-17 14:37:23",
+    "content_text": "1123_shimakura_s.jpg\nスイーツを食べる江口紗耶ちゃん！幸せそう！笑\n\n【6周目お題：日常のワンシーン】",
+    "materials": [
+      {
+        "secretKey": "648bb2ed2a46b27e91baa7c83e2e8ff3",
+        "material_id": "12276",
+        "material_title": "1123_shimakura_s.jpg",
+        "material_file": "c0549de817219e2f5894e973240643a01cbeaaf7a354c88c809d2905b5f1757a12276.jpeg"
+      }
+    ],
+    "previous_id": "14766",
+    "next_id": "14763",
+    "saved_materials": [
+      "assets/14765_12276_1123_shimakura_s.jpg"
+    ]
+  }
+}

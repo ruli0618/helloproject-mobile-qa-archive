@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 540,
+    "content_id": "14027",
+    "content_title": "ネバネバ丼",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-06-23 10:00:00",
+    "created_at": "2020-06-18 18:32:27",
+    "updated_at": "2020-06-18 18:32:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11709",
+        "material_title": "0623_inaba_s.jpg",
+        "material_file": "31f36aeb1a9aeaed0f631a66ed8c7ba04e3c0179b321604c020910482d4a0be711709.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14027",
+    "content_title": "ネバネバ丼",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-06-23 10:00:00",
+    "created_at": "2020-06-18 18:32:27",
+    "updated_at": "2020-06-18 18:32:27",
+    "content_text": "0623_inaba_s.jpg\r\n最近ハマっている、ネバネバ丼！\r\n暑くなってきてご飯は食べたいけどサッパリしたい！という時に作ります。\r\n納豆.キムチ.キュウリとめかぶの酢の物.卵黄などをご飯に乗せるだけ♪簡単なのに美味しくて、お腹にもたまるので皆さんも是非やってみて下さいね♡",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11709",
+        "material_title": "0623_inaba_s.jpg",
+        "material_file": "57c8757fde9636bb764cd06d96bc0378eb0554d10d2dfbef0c8f4f78fac27f3311709.jpeg"
+      }
+    ],
+    "previous_id": "14028",
+    "next_id": "14026",
+    "saved_materials": [
+      "assets/14027_11709_0623_inaba_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 261,
+    "content_id": "17272",
+    "content_title": "隣のやじまん家の塀の裏#93 生田衣梨奈",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-01 00:00:00",
+    "created_at": "2021-12-07 19:56:48",
+    "updated_at": "2021-12-07 19:56:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14358",
+        "material_title": "211207_3.jpg",
+        "material_file": "42023e0806ebe61c519abc4b9f33f49aa9125dca8dfa60b90d77f58d8e49676a14358.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14359",
+        "material_title": "211207_4.jpg",
+        "material_file": "a4755e45027532fe2ebfd36f5d18c645b0d5e9c8e64b8fafa5a063cf290cf02c14359.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17272",
+    "content_title": "隣のやじまん家の塀の裏#93 生田衣梨奈",
+    "content_sub_title": "",
+    "release_date": "2021-12-01 00:00:00",
+    "created_at": "2021-12-07 19:56:48",
+    "updated_at": "2021-12-07 19:56:48",
+    "content_text": "「隣のやじまん家」第93回配信中！\r\n\r\n今回ゲストはモーニング娘。'21生田衣梨奈さん！\r\n\r\n211207_3.jpg\r\n\r\n矢島とゲストの「その頃。と近頃。」コーナーでは、髪色についてやモーニング娘。・コンサート自体のその頃。と近頃。をお話しました。\r\n生田さんがピンクの髪色にしたきっかけも教えてくれましたよ♪\r\n\r\n矢島パイセンの○○チェックでのタレコミは\r\n生田さんのギャップと同期で仲が良すぎる！とのタレコミ！\r\n9期の関係性について矢島パイセンはアリ？それともナシ？！\r\n\r\n\r\n今回の「VS矢島」はこちら！\r\n\r\nカタカナ禁止ゲーム！\r\n\r\nスタッフが考えた10個のカタカナ単語をカタカナを使わずに説明し、当ててもらうというという簡単なゲームです。\r\nカタカナを使って説明してしまったら-1ポイント！\r\nどちらがうまく説明し、正解できたのかぜひチェックしてくださいね。\r\n\r\nその他この10年を振り返ったり、自分がサブスクを提供するならこんなことをやりたい！！なども！\r\n\r\n211207_4.jpg\r\n\r\n今回のハロー！ラジオ連動企画は、「ふくむらの部屋」から譜久村さんと前回の「隣のやじまん家」から矢島さんの質問に答えました！\r\nおふたりの質問はどの番組で読まれるのか、\r\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\r\n\r\n矢島とゲストの「その頃。と近頃。」コーナー、「矢島パイセンの○○チェック」「今月のハッピーバースデー＆記念日♪」「楽曲リクエスト」「普通のお便り」も、メールお待ちしています！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回ゲストはBEYOOOOONDS/SeasoningS 小林萌花さんです！\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f6025e718c972f7ec4d3d4ffba3b82bf",
+        "material_id": "14358",
+        "material_title": "211207_3.jpg",
+        "material_file": "18c9aa617122476db394d3a45aca0ffe7f087b8c1fbc2ffcc4ab0925f06f0fbc14358.jpeg"
+      },
+      {
+        "secretKey": "f6025e718c972f7ec4d3d4ffba3b82bf",
+        "material_id": "14359",
+        "material_title": "211207_4.jpg",
+        "material_file": "8428a173a9af1d294c1b306498fd4ac629844c19bac2c8f80f0fd6fbdfdf53e014359.jpeg"
+      }
+    ],
+    "previous_id": "17560",
+    "next_id": "17267",
+    "saved_materials": [
+      "assets/17272_14358_211207_3.jpg",
+      "assets/17272_14359_211207_4.jpg"
+    ]
+  }
+}

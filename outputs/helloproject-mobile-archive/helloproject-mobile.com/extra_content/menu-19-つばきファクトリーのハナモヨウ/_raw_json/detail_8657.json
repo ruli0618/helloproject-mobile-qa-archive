@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 120,
+    "content_id": "8657",
+    "content_title": "綺麗なお花",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2018-02-23 15:07:00",
+    "created_at": "2018-02-23 15:07:21",
+    "updated_at": "2018-02-23 15:07:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7563",
+        "material_title": "0223_onoda_s.jpg",
+        "material_file": "3cab2d2e82a60204969c6c0da1eaddb043f89025fdb2da5bd39bb64e1dec91087563.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8657",
+    "content_title": "綺麗なお花",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2018-02-23 15:07:00",
+    "created_at": "2018-02-23 15:07:21",
+    "updated_at": "2018-02-23 15:07:21",
+    "content_text": "♪最近、寝起きが悪いさおりです♪\r\n\r\n\r\nもう２月ですね！ \r\n\r\n\r\n時間が過ぎるのが早い、、、\r\n\r\n\r\nあと2カ月したら、４月になります！\r\n\r\n\r\n４月になったら、桜が綺麗に咲くので早く４月になってほしい(*´꒳`*)\r\n\r\n\r\nでーもー\r\n\r\n\r\n２月には、こんな綺麗なお花が咲いていました♪\r\n\r\n0223_onoda_s.jpg\r\n\r\nお花を見ると、心が落ち着きますっ。\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7563",
+        "material_title": "0223_onoda_s.jpg",
+        "material_file": "7c8aa43a924ac23db4677b1f210b54a9e71833ea0f071d25e2226533de8c3fc57563.jpeg"
+      }
+    ],
+    "previous_id": "8704",
+    "next_id": "8581",
+    "saved_materials": [
+      "assets/8657_7563_0223_onoda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 90,
+    "content_id": "24664",
+    "content_title": "ギザ十",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2025-07-30 10:00:00",
+    "created_at": "2025-07-14 21:44:29",
+    "updated_at": "2025-07-14 21:44:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20143",
+        "material_title": "0730_kobayashi_s.jpg",
+        "material_file": "11e807a6a3d7c12b3ec5bbdb751da6624d9d250517b4fe2b0d5dc29fdf748f9120143.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24664",
+    "content_title": "ギザ十",
+    "content_sub_title": "小林萌花",
+    "release_date": "2025-07-30 10:00:00",
+    "created_at": "2025-07-14 21:44:29",
+    "updated_at": "2025-07-14 21:44:29",
+    "content_text": "0730_kobayashi_s.jpg\r\n久々にこの前、ギザ十見つけたの！小さい頃集めてたな～懐かしい。\r\n\r\n【44周目お題：懐かしい】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20143",
+        "material_title": "0730_kobayashi_s.jpg",
+        "material_file": "167b83c00104b5375ff76aaa9bd0d18b741c09bcc55decb278293c05453a704920143.jpeg"
+      }
+    ],
+    "previous_id": "24665",
+    "next_id": "24663",
+    "saved_materials": [
+      "assets/24664_20143_0730_kobayashi_s.jpg"
+    ]
+  }
+}

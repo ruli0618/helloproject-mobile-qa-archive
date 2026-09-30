@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 462,
+    "content_id": "10288",
+    "content_title": "小片監督",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-21 14:36:00",
+    "created_at": "2018-11-21 14:36:18",
+    "updated_at": "2018-11-21 14:37:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10288",
+    "content_title": "小片監督",
+    "content_sub_title": "",
+    "release_date": "2018-11-21 14:36:00",
+    "created_at": "2018-11-21 14:36:18",
+    "updated_at": "2018-11-21 14:37:51",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n11月に入り更新された、<a href=\"http://helloproject-mobile.com/info/movie/list?menu_id=17&category_id=46&category_title=%E5%A6%84%E6%83%B3%E5%8B%95%E7%94%BB&category_color=ff0000\">ハロー！ムービー「妄想動画」</a>はご覧になっていますか？\n\n牧野真莉愛「まりあんLOVEりん」\n野村みな美「あなたの大好きな」\n\nこの2つの映像は、ハロ！モバ宣伝部書記でもある小片リサさんが撮ってきてくれました！\n\nそして小片さん監督動画のもう1つ、\n\n竹内朱莉「明日の試合」\n\nを、11月末に公開予定！\n\nアンジュルムファンの皆さん、お楽しみに！\n\n\n\n",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "10314",
+    "next_id": "10284",
+    "saved_materials": []
+  }
+}

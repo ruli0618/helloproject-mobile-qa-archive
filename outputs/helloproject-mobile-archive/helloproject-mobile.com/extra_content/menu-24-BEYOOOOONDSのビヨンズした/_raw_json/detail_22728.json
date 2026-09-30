@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 168,
+    "content_id": "22728",
+    "content_title": "不意打ち",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2024-08-14 11:54:00",
+    "created_at": "2024-08-14 11:54:12",
+    "updated_at": "2024-08-14 11:54:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18603",
+        "material_title": "0814_shimakura_s.jpg",
+        "material_file": "edcb0babd4b1353f6a8452d0883bec296ab52841192e15a73902e0513ba7917d18603.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22728",
+    "content_title": "不意打ち",
+    "content_sub_title": "島倉りか",
+    "release_date": "2024-08-14 11:54:00",
+    "created_at": "2024-08-14 11:54:12",
+    "updated_at": "2024-08-14 11:54:12",
+    "content_text": "0814_shimakura_s.jpg\r\n自撮りアプリ使ってる人なら分かる、なんとも言えない不意打ちの顔。\r\n\r\n【36周目お題：ふとした瞬間】",
+    "materials": [
+      {
+        "secretKey": "2f531f5d86a8224ad1c65137d0cc4dd2",
+        "material_id": "18603",
+        "material_title": "0814_shimakura_s.jpg",
+        "material_file": "4a3ff89ee66560043bdc67495eb4a188f92fb59851d4b6179de84d7544964e5118603.jpeg"
+      }
+    ],
+    "previous_id": "22729",
+    "next_id": "22540",
+    "saved_materials": [
+      "assets/22728_18603_0814_shimakura_s.jpg"
+    ]
+  }
+}

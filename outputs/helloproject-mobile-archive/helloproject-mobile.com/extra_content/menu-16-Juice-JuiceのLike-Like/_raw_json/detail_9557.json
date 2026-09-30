@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 707,
+    "content_id": "9557",
+    "content_title": "スイカ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-07-18 18:11:00",
+    "created_at": "2018-07-18 18:13:29",
+    "updated_at": "2018-07-18 18:13:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8377",
+        "material_title": "0718_uemura_s.jpg",
+        "material_file": "6455f751c7684ed4ddb2f823109f0335fafd1e82aaf741fcefb563ccb92d1ce38377.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9557",
+    "content_title": "スイカ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-07-18 18:11:00",
+    "created_at": "2018-07-18 18:13:29",
+    "updated_at": "2018-07-18 18:13:29",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\nもう夏ですね〜\r\n\r\nスイカたべたい<img src=\"/emoji/emoji-images/4f68.gif\"/>\r\n\r\n0718_uemura_s.jpg\r\n\r\nblt graph.さんの\r\nオフショットです！\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8377",
+        "material_title": "0718_uemura_s.jpg",
+        "material_file": "0215f63924b40336da731b7a6246500253d2fa345ff133ad1c6465c9a9aeab558377.jpeg"
+      }
+    ],
+    "previous_id": "9584",
+    "next_id": "9510",
+    "saved_materials": [
+      "assets/9557_8377_0718_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 491,
+    "content_id": "15376",
+    "content_title": "段原美容室",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-01-26 10:00:00",
+    "created_at": "2021-01-22 13:36:12",
+    "updated_at": "2021-01-22 13:36:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12807",
+        "material_title": "210126_inoue_s.jpg",
+        "material_file": "9dc03284ddb8dfc3651dd87d412b6a54b9f9ef886612f7053d636c4fdd87815012807.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15376",
+    "content_title": "段原美容室",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-01-26 10:00:00",
+    "created_at": "2021-01-22 13:36:12",
+    "updated_at": "2021-01-22 13:36:12",
+    "content_text": "210126_inoue_s.jpg\r\n段原さんにヘアセットをしてもらった稲場さん！\r\nきゃんわいい〜\r\nやっぱ段原さんって器用だなぁ。",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12807",
+        "material_title": "210126_inoue_s.jpg",
+        "material_file": "c8640f7be29e949dfb78c4e3a7d9836d3e5c1f6cf37cc6ff84cc24de2d4dc63112807.jpeg"
+      }
+    ],
+    "previous_id": "15377",
+    "next_id": "15375",
+    "saved_materials": [
+      "assets/15376_12807_210126_inoue_s.jpg"
+    ]
+  }
+}

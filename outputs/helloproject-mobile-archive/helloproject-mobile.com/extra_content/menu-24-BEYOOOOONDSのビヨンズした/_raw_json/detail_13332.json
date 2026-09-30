@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 478,
+    "content_id": "13332",
+    "content_title": "ももひめ巻",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2020-04-13 10:00:00",
+    "created_at": "2020-03-19 23:04:08",
+    "updated_at": "2020-03-19 23:05:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11326",
+        "material_title": "0413_kiyono_s.jpg",
+        "material_file": "5af09a7be0ec1055cda1d5c8215dced7cae44596c0ff401491d766a206bbbc9211326.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "13332",
+    "content_title": "ももひめ巻",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2020-04-13 10:00:00",
+    "created_at": "2020-03-19 23:04:08",
+    "updated_at": "2020-03-19 23:05:52",
+    "content_text": "0413_kiyono_s.jpg\n実はこの日初めて自分でももひめ巻き出来ました！(ももひめ巻とはグルグルなツインテールのことです)\n\n【1周目お題：自撮り】",
+    "materials": [
+      {
+        "secretKey": "f2592cebaad5f780695cc19702f35053",
+        "material_id": "11326",
+        "material_title": "0413_kiyono_s.jpg",
+        "material_file": "b7c77361341f8d02f903aee929c538726b4cbaf44a63f82b26ed07c04994c16411326.jpeg"
+      }
+    ],
+    "previous_id": "13333",
+    "next_id": "13331",
+    "saved_materials": [
+      "assets/13332_11326_0413_kiyono_s.jpg"
+    ]
+  }
+}

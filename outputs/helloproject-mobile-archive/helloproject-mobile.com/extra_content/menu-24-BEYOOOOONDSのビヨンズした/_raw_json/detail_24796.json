@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 85,
+    "content_id": "24796",
+    "content_title": "でっかいわんこ",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-09-01 10:00:00",
+    "created_at": "2025-08-18 23:01:53",
+    "updated_at": "2025-08-18 23:01:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20266",
+        "material_title": "0901_okamura_s.jpg",
+        "material_file": "97e7b6d565cebeaaaa93f5c94590431f4e60fcf2fca3278cf31160d93591046420266.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24796",
+    "content_title": "でっかいわんこ",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-09-01 10:00:00",
+    "created_at": "2025-08-18 23:01:53",
+    "updated_at": "2025-08-18 23:01:53",
+    "content_text": "0901_okamura_s.jpg\r\nわんちゃんがたくさん甘えてくれるのが大好き♡\r\n\r\n【45周目お題：大好き】",
+    "materials": [
+      {
+        "secretKey": "3eeaf978134951a2b51f94809c5a132d",
+        "material_id": "20266",
+        "material_title": "0901_okamura_s.jpg",
+        "material_file": "01cd3f29f3b5b3be2224351a552779912adebecf0e819feb6d775208662c397c20266.jpeg"
+      }
+    ],
+    "previous_id": "24797",
+    "next_id": "24795",
+    "saved_materials": [
+      "assets/24796_20266_0901_okamura_s.jpg"
+    ]
+  }
+}

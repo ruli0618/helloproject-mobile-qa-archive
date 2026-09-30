@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 52,
+    "content_id": "18292",
+    "content_title": "最近",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2022-06-17 10:00:00",
+    "created_at": "2022-06-02 15:45:18",
+    "updated_at": "2022-06-02 15:45:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15263",
+        "material_title": "0617_onoda_s.jpg",
+        "material_file": "39bc110b32136116fa51f3373dd5cd387c0233ad133a0ccd9776e2f084457ff415263.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18292",
+    "content_title": "最近",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2022-06-17 10:00:00",
+    "created_at": "2022-06-02 15:45:18",
+    "updated_at": "2022-06-02 15:45:18",
+    "content_text": "0617_onoda_s.jpg\r\n最近、パンケーキが食べたいさおりです♪\r\n\r\n最近、ネイルをするのにハマっています！\r\n\r\nかわいいいろ、たくさんあるのよ！！\r\n\r\n夏に向けて、新しい色もとりいれていきたいな！\r\n\r\n女子力アップ目指してがんばるぞー！\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15263",
+        "material_title": "0617_onoda_s.jpg",
+        "material_file": "740bb42ec91c9f79a8500b297c0d90994350d93118f459e459ad284bfd7d87eb15263.jpeg"
+      }
+    ],
+    "previous_id": "18390",
+    "next_id": "18291",
+    "saved_materials": [
+      "assets/18292_15263_0617_onoda_s.jpg"
+    ]
+  }
+}

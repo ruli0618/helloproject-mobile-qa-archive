@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 152,
+    "content_id": "22610",
+    "content_title": "ツインテール",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2024-07-18 10:00:00",
+    "created_at": "2024-07-17 19:12:49",
+    "updated_at": "2024-07-17 19:12:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18501",
+        "material_title": "0718_dambara_s.jpg",
+        "material_file": "6829b3e9c0fa219eb0605b1fb0dc95f6cb1bc662bf28c5a0c5ed6f74c73306e318501.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22610",
+    "content_title": "ツインテール",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2024-07-18 10:00:00",
+    "created_at": "2024-07-17 19:12:49",
+    "updated_at": "2024-07-17 19:12:49",
+    "content_text": "0718_dambara_s.jpg\r\n夏楽しんでますか？<img src=\"/emoji/emoji-images/f6bc.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18501",
+        "material_title": "0718_dambara_s.jpg",
+        "material_file": "87dfe98318da64b5eac3d43d10d423e82b0abf580dd3b6c636119a7aa292293618501.jpeg"
+      }
+    ],
+    "previous_id": "22617",
+    "next_id": "22602",
+    "saved_materials": [
+      "assets/22610_18501_0718_dambara_s.jpg"
+    ]
+  }
+}

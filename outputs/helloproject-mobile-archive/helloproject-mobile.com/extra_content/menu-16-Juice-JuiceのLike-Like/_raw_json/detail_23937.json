@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 100,
+    "content_id": "23937",
+    "content_title": "花粉凄すぎ！！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2025-02-27 18:48:00",
+    "created_at": "2025-02-27 19:06:06",
+    "updated_at": "2025-02-27 19:06:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19639",
+        "material_title": "0227_ishiyama_s.jpg",
+        "material_file": "ebf1a66badb29152881a77a381906f1a7d0984edcfc90f4065251170f9f4947919639.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23937",
+    "content_title": "花粉凄すぎ！！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2025-02-27 18:48:00",
+    "created_at": "2025-02-27 19:06:06",
+    "updated_at": "2025-02-27 19:06:06",
+    "content_text": "0227_ishiyama_s.jpg\r\n最近花粉が凄すぎて電車で10回以上くしゃみしました。。恥ずかしかったです。。。\r\nみんなも花粉症には気をつけてね\r\n写真は結成イベントの写真！",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19639",
+        "material_title": "0227_ishiyama_s.jpg",
+        "material_file": "f0d4d1813b9c37cdd879b8c15aac49e9793f019a607f331ced1c01e12f300be619639.jpeg"
+      }
+    ],
+    "previous_id": "23952",
+    "next_id": "23891",
+    "saved_materials": [
+      "assets/23937_19639_0227_ishiyama_s.jpg"
+    ]
+  }
+}

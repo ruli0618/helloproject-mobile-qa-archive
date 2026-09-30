@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 74,
+    "content_id": "24193",
+    "content_title": "お花見",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2025-04-18 19:12:00",
+    "created_at": "2025-04-18 19:16:00",
+    "updated_at": "2025-04-18 19:16:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19826",
+        "material_title": "0418_murata_s.jpg",
+        "material_file": "10ccd076b0a23ef3de1120b2eb8d2b682cee48f6908d78cddca2ed1970ec381419826.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24193",
+    "content_title": "お花見",
+    "content_sub_title": "村田結生",
+    "release_date": "2025-04-18 19:12:00",
+    "created_at": "2025-04-18 19:16:00",
+    "updated_at": "2025-04-18 19:16:00",
+    "content_text": "0418_murata_s.jpg\r\nやっほー！村田結生です！\r\n\r\nお花見してきたよー\r\n\r\nその日はちょうど満開でもうピンク景色でめちゃめちゃきれいだった！！\r\n\r\n来年はレジャーシート敷いてお花見しながらさくらんぼとか食べちゃったり？？\r\n桜だけにね！\r\n\r\nまだその時期は旬じゃないか笑\r\n\r\nみなさんはお花見しましたー？？\r\n\r\nyouとyuuがスキップするくらい毎日楽しく過ごせますように♡",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19826",
+        "material_title": "0418_murata_s.jpg",
+        "material_file": "d2a9da5f56c182887e6dad6e8a0c4e415c4bf60d8677ef6c1b00ca558b4384da19826.jpeg"
+      }
+    ],
+    "previous_id": "24216",
+    "next_id": "24157",
+    "saved_materials": [
+      "assets/24193_19826_0418_murata_s.jpg"
+    ]
+  }
+}

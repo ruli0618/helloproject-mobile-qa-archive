@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 157,
+    "content_id": "22439",
+    "content_title": "汗",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2024-07-02 10:00:00",
+    "created_at": "2024-06-26 12:01:48",
+    "updated_at": "2024-06-26 12:01:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18414",
+        "material_title": "0702_arisawa_s.jpg",
+        "material_file": "5371507d984ad7e37b5266fbfc9f3046f2a7b4dbd663d3c8f8efe76bcc08ddfb18414.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22439",
+    "content_title": "汗",
+    "content_sub_title": "有澤一華",
+    "release_date": "2024-07-02 10:00:00",
+    "created_at": "2024-06-26 12:01:48",
+    "updated_at": "2024-06-26 12:01:48",
+    "content_text": "0702_arisawa_s.jpg\r\n今日はたくさん汗かきました〜！！！\r\n\r\nてか、私代謝がいいからすぐ汗かくんですよね〜\r\n\r\n一種の才能かも、、笑\r\n\r\n\r\nてことで今日も半身浴するのでもっと汗かきます！！！\r\n\r\nばーい！",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18414",
+        "material_title": "0702_arisawa_s.jpg",
+        "material_file": "6775f509832966017ce3808491d42654bed9bcb18b95a86fbb7689ccedf1033b18414.jpeg"
+      }
+    ],
+    "previous_id": "22512",
+    "next_id": "22438",
+    "saved_materials": [
+      "assets/22439_18414_0702_arisawa_s.jpg"
+    ]
+  }
+}

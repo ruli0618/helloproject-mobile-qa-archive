@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 62,
+    "content_id": "24892",
+    "content_title": "盛れ！ミ・アモーレ",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2025-09-09 10:00:00",
+    "created_at": "2025-09-02 19:04:13",
+    "updated_at": "2025-09-02 19:04:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20338",
+        "material_title": "0909_irie_s.jpg",
+        "material_file": "f0ab66b783dda99da958a7d6a007b5603fd90631ed9695857a7e7265a4864f7020338.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24892",
+    "content_title": "盛れ！ミ・アモーレ",
+    "content_sub_title": "入江里咲",
+    "release_date": "2025-09-09 10:00:00",
+    "created_at": "2025-09-02 19:04:13",
+    "updated_at": "2025-09-02 19:04:13",
+    "content_text": "0909_irie_s.jpg\r\n「盛れ！ミ・アモーレ」のMVが公開されました！\r\n\r\n赤色の衣装を着て、曲調も相まって情熱を表現できているんじゃないかなと思います<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\nとってもカッコいい楽曲になっているので、ぜひ沢山観て聴いてください！！",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20338",
+        "material_title": "0909_irie_s.jpg",
+        "material_file": "19dc97e00c58ade3159bb2f9019c37864059a0f8101190b2819461d06524578520338.jpeg"
+      }
+    ],
+    "previous_id": "24893",
+    "next_id": "24891",
+    "saved_materials": [
+      "assets/24892_20338_0909_irie_s.jpg"
+    ]
+  }
+}

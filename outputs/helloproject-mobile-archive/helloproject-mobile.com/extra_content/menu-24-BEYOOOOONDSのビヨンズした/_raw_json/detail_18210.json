@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 320,
+    "content_id": "18210",
+    "content_title": "いとこに貰ったアザラシ",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2022-05-30 10:00:00",
+    "created_at": "2022-05-25 13:32:57",
+    "updated_at": "2022-05-25 13:32:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15215",
+        "material_title": "0530_nishida_s.jpg",
+        "material_file": "54400f5f96356bd0fad851d722dce8f5af3306b432dd3cda8d279f31f84e5c1b15215.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18210",
+    "content_title": "いとこに貰ったアザラシ",
+    "content_sub_title": "西田汐里",
+    "release_date": "2022-05-30 10:00:00",
+    "created_at": "2022-05-25 13:32:57",
+    "updated_at": "2022-05-25 13:32:57",
+    "content_text": "0530_nishida_s.jpg\r\n一緒に寝てます！\r\n\r\n【19周目お題：好きなもの(こと)】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15215",
+        "material_title": "0530_nishida_s.jpg",
+        "material_file": "755273ec09435ea1886adc882f0b0156d1bf9fedced1a66d34a825c9f59e2c7b15215.jpeg"
+      }
+    ],
+    "previous_id": "18211",
+    "next_id": "18209",
+    "saved_materials": [
+      "assets/18210_15215_0530_nishida_s.jpg"
+    ]
+  }
+}

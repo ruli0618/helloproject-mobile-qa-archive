@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 448,
+    "content_id": "14212",
+    "content_title": "おもちくんも夢中！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2020-08-31 10:00:00",
+    "created_at": "2020-07-22 19:26:27",
+    "updated_at": "2022-01-17 14:35:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11831",
+        "material_title": "0831_satoyoshi_s.jpg",
+        "material_file": "29814ac19204bc8cdccf8ec74ad3ba711ccc0c9bc90afa040a0edd384d0c36b411831.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14212",
+    "content_title": "おもちくんも夢中！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2020-08-31 10:00:00",
+    "created_at": "2020-07-22 19:26:27",
+    "updated_at": "2022-01-17 14:35:44",
+    "content_text": "0831_satoyoshi_s.jpg\n山﨑夢羽ちゃんの1st写真集をゲット！\n素敵なお写真をおもちくんと一緒にじっくり見ました……！\n\n【4周目お題：素敵】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11831",
+        "material_title": "0831_satoyoshi_s.jpg",
+        "material_file": "64796039751aef0e849b33f7cfb4b94193ee0dcfa805af917309870121973bb511831.jpeg"
+      }
+    ],
+    "previous_id": "14417",
+    "next_id": "14211",
+    "saved_materials": [
+      "assets/14212_11831_0831_satoyoshi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 161,
+    "content_id": "21236",
+    "content_title": "工藤の家の屋根裏部屋#128～八木栞～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-20 00:00:00",
+    "created_at": "2023-11-14 15:53:39",
+    "updated_at": "2023-11-14 15:53:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17441",
+        "material_title": "230320_s.jpg",
+        "material_file": "c27dea22acc3ecddecc351ded9700d911ef90dbb02a39e389cbf0d044e37994c17441.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21236",
+    "content_title": "工藤の家の屋根裏部屋#128～八木栞～",
+    "content_sub_title": "",
+    "release_date": "2023-03-20 00:00:00",
+    "created_at": "2023-11-14 15:53:39",
+    "updated_at": "2023-11-14 15:53:39",
+    "content_text": "ふくむらの部屋 第128回は、つばきファクトリー八木栞さんが登場！\r\n\r\n・最近作った自慢の一品\r\n・初心者におすすめミュージカル演目\r\nのお話からスタート！\r\n\r\n「新コーナーを考えよう！」のコーナーでは、\r\n新コーナー候補を紹介！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・新メンバーオーディション\r\n・キャッチコピー\r\nを語りました！\r\n\r\n後半では、\r\n・新しいヘアスタイル\r\nについてトーク！\r\n\r\n230320_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "17441",
+        "material_title": "230320_s.jpg",
+        "material_file": "54bc8f6af154c0e589a658b034afe0617c1c4f0ee0e05625d7861ad5c8e7447717441.jpeg"
+      }
+    ],
+    "previous_id": "23368",
+    "next_id": "24076",
+    "saved_materials": [
+      "assets/21236_17441_230320_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 104,
+    "content_id": "22192",
+    "content_title": "たい焼き！",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2024-05-10 12:20:00",
+    "created_at": "2024-05-10 12:20:58",
+    "updated_at": "2024-05-10 12:20:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18194",
+        "material_title": "0510_ishii_s.jpg",
+        "material_file": "b8932a42a5fe0c6824e5fc7a9a28f64f5d88a65b2192f4ade706cf20651870d618194.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22192",
+    "content_title": "たい焼き！",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2024-05-10 12:20:00",
+    "created_at": "2024-05-10 12:20:58",
+    "updated_at": "2024-05-10 12:20:58",
+    "content_text": "0510_ishii_s.jpg\r\n\r\n石井泉羽です！！\r\n\r\n昨日ね、たい焼き買いました！\r\n\r\n急にたい焼き食べたい！！となって\r\nすーーーごく久しぶりに食べたら\r\nものすごくものすごく美味しかったです！\r\n\r\nまた食べたいな〜！",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18194",
+        "material_title": "0510_ishii_s.jpg",
+        "material_file": "d398e2b65b058665d64a0deeedcab17f04f6e1a08002630b7a388cfe30317bf518194.jpeg"
+      }
+    ],
+    "previous_id": "22238",
+    "next_id": "22096",
+    "saved_materials": [
+      "assets/22192_18194_0510_ishii_s.jpg"
+    ]
+  }
+}

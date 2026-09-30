@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 2,
+    "content_id": "26969",
+    "content_title": "宣伝会議#126",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-09-17 00:00:00",
+    "created_at": "2026-09-28 15:37:09",
+    "updated_at": "2026-09-28 15:37:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22052",
+        "material_title": "126_01.jpg",
+        "material_file": "abbb62448e45541b6ebbed9c76c00b000b2c051bd1ea2f130513adb77b95fd4122052.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22055",
+        "material_title": "126.jpg",
+        "material_file": "941c5809c49f9147514342978f6359f2840c6c863f946fe4efd14e07460baa4f22055.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26969",
+    "content_title": "宣伝会議#126",
+    "content_sub_title": "",
+    "release_date": "2026-09-17 00:00:00",
+    "created_at": "2026-09-28 15:37:09",
+    "updated_at": "2026-09-28 15:37:09",
+    "content_text": "126_01.jpg\r\n\r\n宣伝会議第126回は、野中美希部長・前田こころ副部長・入江里咲書記・小野田華凜保健係の部員全員集合でお届け！\r\n\r\n前編では、\r\n・お化け屋敷一番前と一番後ろどっちが嫌？\r\n・フェスで盛り上がる曲\r\n・お祝いごとの前日の夜の過ごし方\r\n・英語力を上げるには？\r\nについてトーク！\r\n\r\nそして、X公式アカウントに投稿する「今までありがとう」動画を撮影しました！\r\nハロ！モバ(@halomoba)アカウントをぜひご覧ください。\r\n\r\n後編では、「ありがとう！ハロプロモバイル」コーナーにて皆さんから印象に残っている企画や、宣伝会議・ハロ！モバへの想いのお便りを読ませていただきました！\r\n\r\n収録の最後には「戸締まり、よし！」の動画を撮影しました！\r\nハロー！ムービーにて公開中ですので、ぜひご覧ください。\r\n\r\n↓みんなで寄せ書きした議事録はこちら！\r\n\r\n126.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22052",
+        "material_title": "126_01.jpg",
+        "material_file": "1c6c420cb645c3fc13ae307e799808ef7e379b776da236904ee9d6792f8a5cd822052.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22055",
+        "material_title": "126.jpg",
+        "material_file": "3a621bdaf1459a014cb0a9b11e52999db2073c3fe3d0018eec120aed04ca317222055.jpeg"
+      }
+    ],
+    "previous_id": "27021",
+    "next_id": "27020",
+    "saved_materials": [
+      "assets/26969_22052_126_01.jpg",
+      "assets/26969_22055_126.jpg"
+    ]
+  }
+}

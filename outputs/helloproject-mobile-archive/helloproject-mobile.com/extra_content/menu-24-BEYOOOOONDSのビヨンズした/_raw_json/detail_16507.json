@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 368,
+    "content_id": "16507",
+    "content_title": "しおりんをキャッチ",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2021-09-13 10:00:00",
+    "created_at": "2021-07-28 19:23:19",
+    "updated_at": "2022-01-17 14:40:39",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13782",
+        "material_title": "0913_kobayashi_s.jpg",
+        "material_file": "1bcfd4f5ae81f79306f7fdf88b95393d68dfcb45c46785d6c8df1e36828a66c713782.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16507",
+    "content_title": "しおりんをキャッチ",
+    "content_sub_title": "小林萌花",
+    "release_date": "2021-09-13 10:00:00",
+    "created_at": "2021-07-28 19:23:19",
+    "updated_at": "2022-01-17 14:40:39",
+    "content_text": "0913_kobayashi_s.jpg\n遠近法で西田汐里ちゃんをキャッチしてみました。\n\n【13周目お題：構図を意識】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13782",
+        "material_title": "0913_kobayashi_s.jpg",
+        "material_file": "46ba5787edef82c5b7d2bff4be11aac7808df7aa5ec86896405c36382ebabcce13782.jpeg"
+      }
+    ],
+    "previous_id": "16508",
+    "next_id": "16506",
+    "saved_materials": [
+      "assets/16507_13782_0913_kobayashi_s.jpg"
+    ]
+  }
+}

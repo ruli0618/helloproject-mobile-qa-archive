@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 469,
+    "content_id": "10111",
+    "content_title": "ご来場ありがとうございました！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-23 18:38:00",
+    "created_at": "2018-10-23 18:39:48",
+    "updated_at": "2018-10-23 18:43:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8824",
+        "material_title": "181023_01.jpg",
+        "material_file": "898096daa463d7fd23baa2c7d3c6984ba83c2434a85192105f23957ddc3aa18e8824.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8825",
+        "material_title": "181023_02.jpg",
+        "material_file": "4ee5cb7a021502fed55e65b3776833e8d9dc21e91e30986709dcbbe836f6ff688825.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8827",
+        "material_title": "181023_03.jpg",
+        "material_file": "07ae27b2c5e917d2d2b681effb90d3cc7212a11e865812b956c638217d14b2008827.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10111",
+    "content_title": "ご来場ありがとうございました！",
+    "content_sub_title": "",
+    "release_date": "2018-10-23 18:38:00",
+    "created_at": "2018-10-23 18:39:48",
+    "updated_at": "2018-10-23 18:43:56",
+    "content_text": "こんばんは！\nスタッフ番号2番です！\n\n10/20(土)21(日)の2日間、里山イベントありがとうございました！\n\n沢山の方にブースまで足を運んでいただき、おかげ様でTシャツも完売！チラシ・会員証も、多くの方へお渡しする事が出来ました。\n\n181023_01.jpg\n\n次回の里山イベントは、3/30(土)31(日)千葉・幕張メッセで開催。\nまたここでも、ハロ！モバブースで何か出来ないか考えておきますね。\n\n写真に写っているパネルは、現在開催中の「モーニング娘。'18コンサートツアー秋～GET SET, GO！～」各会場にも設置いたしますので、見つけた方はぜひご覧になってください！\n\nそして、今回お渡しした宣伝部員手作りチラシはコチラ！\n\n181023_02.jpg\n181023_03.jpg\n\nまだまだ遅くありませんので、ぜひハッシュタグ「#HMAutumn」でチラシの写真と共につぶやいてみてくださいね！",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8824",
+        "material_title": "181023_01.jpg",
+        "material_file": "a7b7c16e9f1be04a9d78f704afac6fb6ef93e3cb31cdfb9a41281666e2a207ac8824.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8825",
+        "material_title": "181023_02.jpg",
+        "material_file": "97bf8ecee5826296c5b698217ec3fd94c305e2f234004df84ad01e8f3e5760fb8825.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8827",
+        "material_title": "181023_03.jpg",
+        "material_file": "f4b3ea2894e89cc154d54fb3f4a66e13a7af1b6779948d2f7e2b020aeacb29ad8827.jpeg"
+      }
+    ],
+    "previous_id": "10112",
+    "next_id": "10105",
+    "saved_materials": [
+      "assets/10111_8824_181023_01.jpg",
+      "assets/10111_8825_181023_02.jpg",
+      "assets/10111_8827_181023_03.jpg"
+    ]
+  }
+}

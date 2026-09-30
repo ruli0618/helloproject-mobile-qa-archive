@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 150,
+    "content_id": "23226",
+    "content_title": "にしまくらちゃん",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2024-11-06 12:48:00",
+    "created_at": "2024-11-06 12:48:57",
+    "updated_at": "2024-11-06 12:52:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19005",
+        "material_title": "1106_shimakura_s.jpg",
+        "material_file": "9be4e55c837bce392c3a5e382c34376a7e7bfd473640572be39e4f21787c199419005.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "23226",
+    "content_title": "にしまくらちゃん",
+    "content_sub_title": "島倉りか",
+    "release_date": "2024-11-06 12:48:00",
+    "created_at": "2024-11-06 12:48:57",
+    "updated_at": "2024-11-06 12:52:29",
+    "content_text": "1106_shimakura_s.jpg\r\nこころが撮ってくれたよ♪\r\nにしまくらではいチーズ‪☆\r\n\r\n【38周目お題：はいチーズ！】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "19005",
+        "material_title": "1106_shimakura_s.jpg",
+        "material_file": "372c2cfbe68d316c0d0550568c97f4dcbed04ae08aa0586a695bab8b4a0dbcaa19005.jpeg"
+      }
+    ],
+    "previous_id": "23242",
+    "next_id": "22960",
+    "saved_materials": [
+      "assets/23226_19005_1106_shimakura_s.jpg"
+    ]
+  }
+}

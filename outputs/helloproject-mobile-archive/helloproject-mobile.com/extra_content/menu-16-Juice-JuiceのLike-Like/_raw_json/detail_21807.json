@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 187,
+    "content_id": "21807",
+    "content_title": "THREE OF US",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2024-03-07 10:00:00",
+    "created_at": "2024-02-26 19:51:53",
+    "updated_at": "2024-02-26 19:51:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17910",
+        "material_title": "0307_irie_s.jpg",
+        "material_file": "5dda191bc0382b188673048f4ee2931d80b5235d5f5e026b919203266697613117910.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21807",
+    "content_title": "THREE OF US",
+    "content_sub_title": "入江里咲",
+    "release_date": "2024-03-07 10:00:00",
+    "created_at": "2024-02-26 19:51:53",
+    "updated_at": "2024-02-26 19:51:53",
+    "content_text": "0307_irie_s.jpg\r\nお正月から始まったTHREE OF USツアー、全公演終了ましたー！！\r\n千秋楽の写真です(^^)",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17910",
+        "material_title": "0307_irie_s.jpg",
+        "material_file": "88933f3ed2b35bcdacb8c68cd9d2dea306084ef48df016de68643ed92d6b26ba17910.jpeg"
+      }
+    ],
+    "previous_id": "21888",
+    "next_id": "21806",
+    "saved_materials": [
+      "assets/21807_17910_0307_irie_s.jpg"
+    ]
+  }
+}

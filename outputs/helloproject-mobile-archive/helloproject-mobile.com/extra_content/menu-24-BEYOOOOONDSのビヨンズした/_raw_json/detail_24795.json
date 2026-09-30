@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 86,
+    "content_id": "24795",
+    "content_title": "夏の思い出",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2025-08-27 10:00:00",
+    "created_at": "2025-08-18 23:01:52",
+    "updated_at": "2025-08-18 23:01:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20265",
+        "material_title": "0827_maeda_s.jpg",
+        "material_file": "e7d55c80dbec87a413166e7f0a9588ed7dd586372c887b09e2d7602c873c384c20265.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24795",
+    "content_title": "夏の思い出",
+    "content_sub_title": "前田こころ",
+    "release_date": "2025-08-27 10:00:00",
+    "created_at": "2025-08-18 23:01:52",
+    "updated_at": "2025-08-18 23:01:52",
+    "content_text": "0827_maeda_s.jpg\r\n大好きな仲間たちとバーベキューした時の写真！幸せだったな〜！(^^)♡\r\n\r\n【45周目お題：大好き】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20265",
+        "material_title": "0827_maeda_s.jpg",
+        "material_file": "b521e68de40fb905504499c8650afb56537ffe5f20889ff88f7baf1526b0972b20265.jpeg"
+      }
+    ],
+    "previous_id": "24796",
+    "next_id": "24793",
+    "saved_materials": [
+      "assets/24795_20265_0827_maeda_s.jpg"
+    ]
+  }
+}

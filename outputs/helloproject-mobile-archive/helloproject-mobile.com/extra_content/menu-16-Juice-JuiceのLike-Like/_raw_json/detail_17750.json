@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 389,
+    "content_id": "17750",
+    "content_title": "うふふ",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-03-08 10:00:00",
+    "created_at": "2022-02-28 22:51:51",
+    "updated_at": "2022-02-28 22:53:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14835",
+        "material_title": "0308_arisawa_s.jpg",
+        "material_file": "6750b537428251a793d74a6235965c0dab92e6ce0bfe7aaba2c99080cd8ae79014835.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17750",
+    "content_title": "うふふ",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-03-08 10:00:00",
+    "created_at": "2022-02-28 22:51:51",
+    "updated_at": "2022-02-28 22:53:29",
+    "content_text": "0308_arisawa_s.jpg\r\n筋トレブームが私の中で幕を閉じました！\r\n\r\nあらどうしましょ。。\r\n今からやるしか！ということで、書き終わったらトレーニングするからね！！\r\n\r\n今日は、4、5歳？ぐらいの女の子が、電車の席を譲ってくれました笑\r\nお姉ちゃんどうぞって。かわいすぎ\r\nずっと帰るまで「うふふ」状態でした！！\r\n癒されました笑",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14835",
+        "material_title": "0308_arisawa_s.jpg",
+        "material_file": "da9dbb98bd35a17dfcdec1b4447f3d5c814f73872919d58d9aba8370986bbdbb14835.jpeg"
+      }
+    ],
+    "previous_id": "17766",
+    "next_id": "17749",
+    "saved_materials": [
+      "assets/17750_14835_0308_arisawa_s.jpg"
+    ]
+  }
+}

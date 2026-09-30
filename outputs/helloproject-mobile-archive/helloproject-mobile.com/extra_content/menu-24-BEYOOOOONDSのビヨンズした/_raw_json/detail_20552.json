@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 244,
+    "content_id": "20552",
+    "content_title": "あーしとあーし",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2023-08-02 10:00:00",
+    "created_at": "2023-07-20 16:47:59",
+    "updated_at": "2023-07-20 16:47:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16936",
+        "material_title": "0802_kiyono_s.jpg",
+        "material_file": "6275110a761449d7eedddfbfa39344a0450cdd86d686447ad1947069ee373ee716936.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20552",
+    "content_title": "あーしとあーし",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2023-08-02 10:00:00",
+    "created_at": "2023-07-20 16:47:59",
+    "updated_at": "2023-07-20 16:47:59",
+    "content_text": "0802_kiyono_s.jpg\r\n流行りのアプリで撮ったよん\r\n\r\n【27周目お題：私と○○】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "16936",
+        "material_title": "0802_kiyono_s.jpg",
+        "material_file": "2368077cf9226669d4d29ca221fcb6517a834edbcf57b9b8e3cbe31fb2f7f12916936.jpeg"
+      }
+    ],
+    "previous_id": "20553",
+    "next_id": "20551",
+    "saved_materials": [
+      "assets/20552_16936_0802_kiyono_s.jpg"
+    ]
+  }
+}

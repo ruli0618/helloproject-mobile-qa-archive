@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 236,
+    "content_id": "17760",
+    "content_title": "Twitterスタート！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-01 20:00:00",
+    "created_at": "2022-03-01 20:00:23",
+    "updated_at": "2022-03-01 20:00:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17760",
+    "content_title": "Twitterスタート！",
+    "content_sub_title": "",
+    "release_date": "2022-03-01 20:00:00",
+    "created_at": "2022-03-01 20:00:23",
+    "updated_at": "2022-03-01 20:00:23",
+    "content_text": "本日より、ハロ！モバ公式Twitterアカウントがスタートしました！\r\n\r\n今までDC FACTORYのアカウントから日々の更新情報をお知らせしてきましたが、今後はよりタイムリーで詳細な内容をこちらでつぶやいていきます！\r\n\r\n皆さん、ぜひフォローしてくださいね♪\r\n\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">▶ハロ！モバ公式Twitterアカウントはこちらから</a><img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n実は、年始の宣伝会議ラジオで決まりました今年の目標が\"会員マシマシ!!!!!\"という事で、出来る事から始めていこうと…今更ながらではありますが、Twitterアカウントを開設した次第です。\r\n\r\nまずはアカウントのフォロワー数を増やすところから、頑張っていきます<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nぜひ <a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a> の応援よろしくお願いいたします。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17761",
+    "next_id": "17846",
+    "saved_materials": []
+  }
+}

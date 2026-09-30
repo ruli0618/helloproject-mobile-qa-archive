@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 388,
+    "content_id": "17766",
+    "content_title": "ひなまつり",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-03-10 10:00:00",
+    "created_at": "2022-03-09 12:38:51",
+    "updated_at": "2022-03-09 12:38:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14851",
+        "material_title": "0310_irie_s.jpg",
+        "material_file": "40ce166091198a3a6e497a71429ae34eff196fd58a278be9164750c7e595297914851.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17766",
+    "content_title": "ひなまつり",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-03-10 10:00:00",
+    "created_at": "2022-03-09 12:38:51",
+    "updated_at": "2022-03-09 12:38:51",
+    "content_text": "0310_irie_s.jpg\r\n\r\n先日は、桃の節句でしたね！\r\n\r\n\r\n私のお家にある雛人形は、オルゴールがついていて、\r\n\r\n「うれしいひなまつり」が流れるんです♪\r\n\r\n\r\nおひなさんの前を通ると、ついついオルゴールのネジを回してしまいます(￣▽￣)\r\n\r\n\r\nひなあられ食べたいな〜〜",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14851",
+        "material_title": "0310_irie_s.jpg",
+        "material_file": "d42842fbfd240552f1464037c9226db9e92fa7e71bed5f7d4d37c11e2b6dce5114851.jpeg"
+      }
+    ],
+    "previous_id": "17767",
+    "next_id": "17750",
+    "saved_materials": [
+      "assets/17766_14851_0310_irie_s.jpg"
+    ]
+  }
+}

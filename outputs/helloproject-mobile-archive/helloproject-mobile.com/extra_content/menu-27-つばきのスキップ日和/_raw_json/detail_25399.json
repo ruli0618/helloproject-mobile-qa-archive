@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 54,
+    "content_id": "25399",
+    "content_title": "まおちゃんの香港コーディネート",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2025-12-26 10:00:00",
+    "created_at": "2025-12-01 10:54:51",
+    "updated_at": "2025-12-01 10:54:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20748",
+        "material_title": "1226_akiyama_s.jpg",
+        "material_file": "a910ef9b8aec20fd49a01fe859554c6e6c600cdc0d63d4fef50a67915844d5fa20748.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25399",
+    "content_title": "まおちゃんの香港コーディネート",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2025-12-26 10:00:00",
+    "created_at": "2025-12-01 10:54:51",
+    "updated_at": "2025-12-01 10:54:51",
+    "content_text": "1226_akiyama_s.jpg\r\n香港1日目のコーディネートでしゅ\r\n\r\n\r\n飛行機に乗る日は大体パンツにするのが私のマイルーティーン\r\n\r\n\r\nそのルーティーンがあるからこそ毎回コーディネートを組む時により時間がかかるんだぁ、笑\r\n\r\n\r\nトップスのシャツの形の綺麗さ、袖の長さ、隠れて見えないけどボタンもかわいいのがついてたりしてお気に入りのアイテム♡\r\n\r\n最近は時々ネクタイもつけるのでこのトップスはお気に入りの1つですっ\r\n\r\nボトムスは、シンプルなのに強さがある不思議な形に惹かれよく履いております〜\r\n\r\n\r\n個人差は絶対あるけど、私は自分が着るお洋服達みんなすき♡\r\n\r\n\r\n\r\n色々なお洋服が似合うようにわたしも自分磨き頑張ります！！\r\n\r\n\r\n\r\n好きなお洋服を着て自分が笑顔になれる場所に足を運ぶって素敵だなぁ〜⭐︎\r\n\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20748",
+        "material_title": "1226_akiyama_s.jpg",
+        "material_file": "dce1116207781cdf3d1ae59a4b8de2c38ff968051bef820cbcaf61b997d8fac720748.jpeg"
+      }
+    ],
+    "previous_id": "25400",
+    "next_id": "25398",
+    "saved_materials": [
+      "assets/25399_20748_1226_akiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 671,
+    "content_id": "9954",
+    "content_title": "ゆかの家族",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-11-06 11:00:00",
+    "created_at": "2018-10-02 12:03:48",
+    "updated_at": "2018-10-02 12:03:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8675",
+        "material_title": "1106_uemura_s.jpg",
+        "material_file": "db3d40b5814e9c69869b99f83ac2e3baf98cf060de210aa9e506067d88bf4d208675.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9954",
+    "content_title": "ゆかの家族",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-11-06 11:00:00",
+    "created_at": "2018-10-02 12:03:48",
+    "updated_at": "2018-10-02 12:03:48",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n1106_uemura_s.jpg\r\nゆかの家族から\r\n頂きました～♡\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8675",
+        "material_title": "1106_uemura_s.jpg",
+        "material_file": "9ff6d719043a10a995a11d6ad044640e24d302a048fffaf8a33ce0e3c2a353058675.jpeg"
+      }
+    ],
+    "previous_id": "10248",
+    "next_id": "9953",
+    "saved_materials": [
+      "assets/9954_8675_1106_uemura_s.jpg"
+    ]
+  }
+}

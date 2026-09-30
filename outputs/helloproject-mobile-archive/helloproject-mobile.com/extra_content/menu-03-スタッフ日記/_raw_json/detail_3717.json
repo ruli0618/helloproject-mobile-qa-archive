@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 687,
+    "content_id": "3717",
+    "content_title": "宣伝部長！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-12-25 18:30:00",
+    "created_at": "2015-12-25 18:09:51",
+    "updated_at": "2015-12-25 18:15:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3449",
+        "material_title": "6979.jpg",
+        "material_file": "b73fe8707b91e2ad0c530179edcb66d80dd498104b716978317124efe4d3e06d3449.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3717",
+    "content_title": "宣伝部長！",
+    "content_sub_title": "",
+    "release_date": "2015-12-25 18:30:00",
+    "created_at": "2015-12-25 18:09:51",
+    "updated_at": "2015-12-25 18:15:03",
+    "content_text": "こんにちは！\nスタッフ番号3番♀です。\n\n今日はクリスマス！\nみなさん、いかがお過ごしですか？\n\nそんなクリスマス当日、\n我らが宣伝部長、モーニング娘。'15の工藤遥さんにお会いしました～！！\n\n6979.jpg\n\n工藤さんから、\n「今メール書いてるから、待っててくださいね♡」\nと、メッセージいただきましたよ！！！\n\n\nさて、工藤さんからのメールを待っている間に、クリスマス限定の画像をもう1度見返してみるのは、いかがでしょう？\n\nこちらのクリスマス限定画像の公開は今日までです！\nしっかりと目に焼き付けてくださいね。\n\n\nさらに、もう1つ。\nハロ！モバを開くとまず目につく、スライド画像。\n\nハロ！モバツリーに、各グループロゴのオーナメントが可愛い\nこちらの画像も、今日で見納めですよ！\n\n残り時間少なくなってきましたが、クリスマス仕様のハロ！モバもお楽しみください！\n",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3449",
+        "material_title": "6979.jpg",
+        "material_file": "5fda6cf8c4c3bc760e486761b7dd7beccb3d24b51d10bf230250a2cc2fc206473449.jpeg"
+      }
+    ],
+    "previous_id": "3722",
+    "next_id": "3714",
+    "saved_materials": [
+      "assets/3717_3449_6979.jpg"
+    ]
+  }
+}

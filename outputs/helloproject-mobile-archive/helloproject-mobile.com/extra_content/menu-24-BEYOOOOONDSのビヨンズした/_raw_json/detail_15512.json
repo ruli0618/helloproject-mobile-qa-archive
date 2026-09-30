@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 403,
+    "content_id": "15512",
+    "content_title": "頑張れ～！",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2021-03-31 10:00:00",
+    "created_at": "2021-02-19 22:22:54",
+    "updated_at": "2022-01-17 14:52:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12907",
+        "material_title": "0331_shimakura_s.jpg",
+        "material_file": "fd0b13c5d29c63ee8628bc20d37a5546f185df71de5d9e5911356f8692f78dff12907.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15512",
+    "content_title": "頑張れ～！",
+    "content_sub_title": "島倉りか",
+    "release_date": "2021-03-31 10:00:00",
+    "created_at": "2021-02-19 22:22:54",
+    "updated_at": "2022-01-17 14:52:14",
+    "content_text": "0331_shimakura_s.jpg\n頑張ってごまをクルクルしている清野桃々姫ちゃん！\n表情が可愛くてお気に入りの写真です！\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "12907",
+        "material_title": "0331_shimakura_s.jpg",
+        "material_file": "c4e47d7a5aefbb2ac053274cd4898070643272c1d2efdd4b45ed8271cb4b466912907.jpeg"
+      }
+    ],
+    "previous_id": "15786",
+    "next_id": "15511",
+    "saved_materials": [
+      "assets/15512_12907_0331_shimakura_s.jpg"
+    ]
+  }
+}

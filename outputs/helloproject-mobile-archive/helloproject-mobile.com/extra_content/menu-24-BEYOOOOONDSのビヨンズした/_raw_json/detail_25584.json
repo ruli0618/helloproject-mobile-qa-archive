@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 54,
+    "content_id": "25584",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2026-02-04 10:00:00",
+    "created_at": "2026-01-13 21:30:07",
+    "updated_at": "2026-01-13 21:30:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20926",
+        "material_title": "0204_kobayashi_s.jpg",
+        "material_file": "0e528337893f2f2412705971dfc46fb8d854be02a2ed7447ed292380d0abfcf020926.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25584",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "小林萌花",
+    "release_date": "2026-02-04 10:00:00",
+    "created_at": "2026-01-13 21:30:07",
+    "updated_at": "2026-01-13 21:30:07",
+    "content_text": "0204_kobayashi_s.jpg\r\nBEYOOOOONDSの衣装カラーが緑なので、メンバーカラーの衣装着ることができて嬉しい！\r\n\r\n【49周目お題：色】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "20926",
+        "material_title": "0204_kobayashi_s.jpg",
+        "material_file": "6b3e5c749a0f1cc35ebffaa5afc4f45b52a18c514db74babc3fbd592928a380020926.jpeg"
+      }
+    ],
+    "previous_id": "25585",
+    "next_id": "25583",
+    "saved_materials": [
+      "assets/25584_20926_0204_kobayashi_s.jpg"
+    ]
+  }
+}

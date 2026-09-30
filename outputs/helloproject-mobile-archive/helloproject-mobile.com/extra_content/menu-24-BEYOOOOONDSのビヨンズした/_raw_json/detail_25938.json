@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 42,
+    "content_id": "25938",
+    "content_title": "自然光盛れ♡",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2026-04-01 10:00:00",
+    "created_at": "2026-03-23 18:23:20",
+    "updated_at": "2026-03-23 18:23:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21257",
+        "material_title": "0401_okamura_S.jpg",
+        "material_file": "09ae3a3c4394046c5298d4055acdfe45f749f419e5db5dcc5d4358280f140d0821257.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25938",
+    "content_title": "自然光盛れ♡",
+    "content_sub_title": "岡村美波",
+    "release_date": "2026-04-01 10:00:00",
+    "created_at": "2026-03-23 18:23:20",
+    "updated_at": "2026-03-23 18:23:20",
+    "content_text": "0401_okamura_S.jpg\r\n黒目の反射すごくないですか！？\r\n\r\n【51周目お題：どアップ】",
+    "materials": [
+      {
+        "secretKey": "15cc3bb9ffd29a2629c001b30e8f015e",
+        "material_id": "21257",
+        "material_title": "0401_okamura_S.jpg",
+        "material_file": "fd8dc5a4289043218754595313f04dfc62a088c4797d523f53edc058d6f1ca2b21257.jpeg"
+      }
+    ],
+    "previous_id": "25939",
+    "next_id": "25937",
+    "saved_materials": [
+      "assets/25938_21257_0401_okamura_S.jpg"
+    ]
+  }
+}

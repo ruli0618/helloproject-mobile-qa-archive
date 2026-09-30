@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 194,
+    "content_id": "22015",
+    "content_title": "カフェのケーキ",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2024-04-17 10:00:00",
+    "created_at": "2024-04-08 14:19:45",
+    "updated_at": "2024-04-08 14:19:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18072",
+        "material_title": "0417_nishida_s.jpg",
+        "material_file": "1f65ea215017eddd84d3f93b4e9fc8f07fc752475064e59ca0cc7c6ec1321e1718072.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22015",
+    "content_title": "カフェのケーキ",
+    "content_sub_title": "西田汐里",
+    "release_date": "2024-04-17 10:00:00",
+    "created_at": "2024-04-08 14:19:45",
+    "updated_at": "2024-04-08 14:19:45",
+    "content_text": "0417_nishida_s.jpg\r\nこのソースどうやって作ってるのか気になる、、。\r\n\r\n【33周目お題：気になる】\r\n",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18072",
+        "material_title": "0417_nishida_s.jpg",
+        "material_file": "f8bda5957d1953f6f36d83249914f6b2d5da3992fff7b7df2bda5d13410fb8a518072.jpeg"
+      }
+    ],
+    "previous_id": "22016",
+    "next_id": "22013",
+    "saved_materials": [
+      "assets/22015_18072_0417_nishida_s.jpg"
+    ]
+  }
+}

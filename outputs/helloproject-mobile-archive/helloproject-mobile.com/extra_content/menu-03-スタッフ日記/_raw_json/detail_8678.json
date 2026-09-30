@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 528,
+    "content_id": "8678",
+    "content_title": "宣伝会議 議事録#23 前編",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-02-26 17:00:00",
+    "created_at": "2018-02-26 16:50:24",
+    "updated_at": "2018-02-26 16:57:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7573",
+        "material_title": "180226_02.jpg",
+        "material_file": "60ba452824d86a66915805903dd77b5cb9d9d0e186791350f054f3dbd1b1d9bf7573.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7574",
+        "material_title": "180226_01_s.jpg",
+        "material_file": "f0284c83e9ef6a7794093af10abfac2a672cc1cbb1699a9eed5b65b0047dfc1d7574.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8678",
+    "content_title": "宣伝会議 議事録#23 前編",
+    "content_sub_title": "",
+    "release_date": "2018-02-26 17:00:00",
+    "created_at": "2018-02-26 16:50:24",
+    "updated_at": "2018-02-26 16:57:32",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美による23回目の宣伝会議が行われました！\r\n\r\n宣伝部初の緊急会議です！！\r\n野中書記の手も止まってしまうほどのインパクトがあった緊急会議です。\r\n\r\n180226_01_s.jpg\r\n\r\n気になった方はハロ！モバラジオ聞いてくださいね。\r\n\r\n今回の書記のメモはこちら！ \r\n\r\n180226_02.jpg\r\n\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n\r\n\r\n後半へ続く。",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7573",
+        "material_title": "180226_02.jpg",
+        "material_file": "d2d17089b389a6688ca626da2b71802ac4417ec4018cb8ac857f78af71042d287573.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7574",
+        "material_title": "180226_01_s.jpg",
+        "material_file": "ae93eede615eb665cf72b78a2670c6effb322bd6e47ad9c452b61b9230cb31a07574.jpeg"
+      }
+    ],
+    "previous_id": "8679",
+    "next_id": "8593",
+    "saved_materials": [
+      "assets/8678_7573_180226_02.jpg",
+      "assets/8678_7574_180226_01_s.jpg"
+    ]
+  }
+}

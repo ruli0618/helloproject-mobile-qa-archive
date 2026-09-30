@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 394,
+    "content_id": "17668",
+    "content_title": "アレンジ！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2022-02-17 21:56:00",
+    "created_at": "2022-02-17 21:56:35",
+    "updated_at": "2022-02-17 21:56:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14739",
+        "material_title": "0217_inaba_s.jpg",
+        "material_file": "8d81f302187a81c135357f361c0bd80422ed6927418b21601aa10f7bc6ce3cc814739.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17668",
+    "content_title": "アレンジ！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2022-02-17 21:56:00",
+    "created_at": "2022-02-17 21:56:35",
+    "updated_at": "2022-02-17 21:56:35",
+    "content_text": "0217_inaba_s.jpg\r\nやっほー！\r\n寒い時期はやっぱりお鍋がしたくなりますね〜。\r\nキノコたっぷりの豆乳鍋、あったまるし最高に美味しかったよ！\r\n次の日は鍋の余りをアレンジしてうどんでカルボナーラっぽくしました！おいしかった♡おすすめのアレンジレシピがあったら教えてね〜♪",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14739",
+        "material_title": "0217_inaba_s.jpg",
+        "material_file": "b74cce2b4a9fe418d752d61ad91edd978f77a119700dc243f9ab4baab331970a14739.jpeg"
+      }
+    ],
+    "previous_id": "17669",
+    "next_id": "17657",
+    "saved_materials": [
+      "assets/17668_14739_0217_inaba_s.jpg"
+    ]
+  }
+}

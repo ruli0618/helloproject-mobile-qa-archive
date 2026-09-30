@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 269,
+    "content_id": "20158",
+    "content_title": "広島",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-05-09 13:04:00",
+    "created_at": "2023-05-09 13:04:01",
+    "updated_at": "2023-05-09 13:04:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16670",
+        "material_title": "0509_matsunaga_s.jpg",
+        "material_file": "f1dc528f8f0c8f331e6636b8914b473477b348ec6afa5996b73a7c6f5c1a02ab16670.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20158",
+    "content_title": "広島",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-05-09 13:04:00",
+    "created_at": "2023-05-09 13:04:01",
+    "updated_at": "2023-05-09 13:04:01",
+    "content_text": "0509_matsunaga_s.jpg\r\n広島！！るるさん！！\r\nらぶだらけ！！",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16670",
+        "material_title": "0509_matsunaga_s.jpg",
+        "material_file": "d0edbcb30b831e27bd6a2a2717bee8800e485415a551d1e5970901b81fbd7e9516670.jpeg"
+      }
+    ],
+    "previous_id": "20163",
+    "next_id": "20120",
+    "saved_materials": [
+      "assets/20158_16670_0509_matsunaga_s.jpg"
+    ]
+  }
+}

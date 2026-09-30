@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "22943",
+    "content_title": "工藤の家の軒下#19～高瀬くるみ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-08-27 00:00:00",
+    "created_at": "2024-09-21 06:24:35",
+    "updated_at": "2024-09-24 15:08:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18805",
+        "material_title": "240827_s.jpg",
+        "material_file": "5e597334ab6fd8277f7096910ac37b8c4b15d87a2b3ba86641b935b6e2dc45fe18805.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22943",
+    "content_title": "工藤の家の軒下#19～高瀬くるみ～",
+    "content_sub_title": "",
+    "release_date": "2024-08-27 00:00:00",
+    "created_at": "2024-09-21 06:24:35",
+    "updated_at": "2024-09-24 15:08:51",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\n第19回は、BEYOOOOONDS高瀬くるみさんがゲストに来てくれました！\n\n240827_s.jpg\n\n・高音パート\n・声のお仕事\n・プリパラ\n・新メンバーオーディション\n・友達天体図\n・ビヨンズ黙示録\nのお話からスタート！\n\n「6個の部屋」のコーナーでは、\n・リーダーたち\n・休日の過ごし方\nについて語りました！\n\n「ろこと一緒にがんばろこー！」のコーナーでは、\n記憶方法、初心を忘れないことについて紹介しました！\n\n後半では、\n・髪染め\n・ハモるコツ\nについてトーク！\n\n次回は、ロージークロニクル植村葉純さんがゲストに出演！\nぜひお聴き下さい♪\n\nそして実は...「6個の部屋」のコーナーは今回が最終回です！\n次回新コーナーを決めたいと思いますので、\n皆さんから新コーナー案を募集します！\nぜひ沢山の良いアイディアを送って下さいね♬\n\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "18805",
+        "material_title": "240827_s.jpg",
+        "material_file": "b29cc604de1aefd19beb23a70090b82ffb7f51988cfb9ff60224d9acb559c2fd18805.jpeg"
+      }
+    ],
+    "previous_id": "22944",
+    "next_id": "23398",
+    "saved_materials": [
+      "assets/22943_18805_240827_s.jpg"
+    ]
+  }
+}

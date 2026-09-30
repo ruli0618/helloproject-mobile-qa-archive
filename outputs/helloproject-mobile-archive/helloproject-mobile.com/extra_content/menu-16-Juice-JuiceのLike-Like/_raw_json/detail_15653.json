@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 479,
+    "content_id": "15653",
+    "content_title": "スカート",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-03-18 20:20:00",
+    "created_at": "2021-03-18 20:20:45",
+    "updated_at": "2021-03-18 20:20:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "13035",
+        "material_title": "210318_inoue_s.jpg",
+        "material_file": "3573698f13dd37745f4485c445c73efcfc627f633855dda9ab0c1d054fe0423c13035.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15653",
+    "content_title": "スカート",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-03-18 20:20:00",
+    "created_at": "2021-03-18 20:20:45",
+    "updated_at": "2021-03-18 20:20:45",
+    "content_text": "210318_inoue_s.jpg\r\nとっても綺麗に広げられたの！\r\nロングスカート履くと、揺らしたり回ったりしがちな井上です。",
+    "materials": [
+      {
+        "secretKey": "c47624d1accb13eae3a98bf9a35ec088",
+        "material_id": "13035",
+        "material_title": "210318_inoue_s.jpg",
+        "material_file": "afd677ab33ad593b44559a54eb3c98a1777377d9c96e40ee1b9706922034913013035.jpeg"
+      }
+    ],
+    "previous_id": "15654",
+    "next_id": "15637",
+    "saved_materials": [
+      "assets/15653_13035_210318_inoue_s.jpg"
+    ]
+  }
+}

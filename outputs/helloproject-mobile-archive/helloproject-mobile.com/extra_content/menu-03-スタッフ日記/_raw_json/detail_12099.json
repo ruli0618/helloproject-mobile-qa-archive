@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 392,
+    "content_id": "12099",
+    "content_title": "工藤の家の屋根裏部屋#57～高木紗友希～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-09-17 14:21:00",
+    "created_at": "2019-09-17 14:31:27",
+    "updated_at": "2019-09-17 14:33:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10304",
+        "material_title": "190917_02_s.jpg",
+        "material_file": "7cb7457e581689232f288a06e775b819de17bf9a08fcac6053ad55cb470a88c310304.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10305",
+        "material_title": "190917_01_s.jpg",
+        "material_file": "e907b2cb11fce98671c889fd9408f6bac1b66cf9779b704d01351f058b27338110305.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12099",
+    "content_title": "工藤の家の屋根裏部屋#57～高木紗友希～",
+    "content_sub_title": "",
+    "release_date": "2019-09-17 14:21:00",
+    "created_at": "2019-09-17 14:31:27",
+    "updated_at": "2019-09-17 14:33:34",
+    "content_text": "ふくむらの部屋 第57回 配信中！\r\n\r\nゲストは、Juice=Juiceからこの方！\r\n\r\n190917_01_s.jpg\r\n高木紗友希さん！\r\n\r\n只今絶賛発売中！<a href=\"https://www.elineupmall.com/c671/c181/c197/c201/juicejuice-ja-193/\" target=\"_blank\">高木紗友希(Juice=Juice)ファースト写真集「紗友希」</a>をめくりながらトークがスタート！\r\n写真集をお持ちの方は、ぜひご準備のうえお聴き下さい♪\r\n\r\n高木さんのお土産話から、2人が行きたい場所、\r\nそれぞれのグループに加入した新メンバーについてやダンス修正、\r\nコールについての思わぬ発見などなど…。\r\n\r\n190917_02_s.jpg\r\n\r\n懐かしの舞台「リボーン」に関しても話されました！\r\n\r\n11月～上演するこぶしファクトリー・BEYOOOOONDS出演の舞台情報はこちらから！\r\n<a href=\"http://gekijyo.net/performance/reborn13/\" target=\"_blank\">こくみん共済 coop ホール／スペース・ゼロ提携公演 演劇女子部「リボーン～13人の魂は神様の夢を見る～」</a>\r\n\r\n次の回替りコーナーは、「皆に伝えたいハロプロ名場面」です！\r\n名場面を五・七・五の川柳にしてお送り下さい。\r\nお便りお待ちしています♪\r\n\r\n「みずき先生のハロプロ講座」のコーナー、普通のお便りも大募集！\r\n\r\nゲストはBEYOOOOONDSから、西田汐里さんが登場！\r\n次回もお楽しみに！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10304",
+        "material_title": "190917_02_s.jpg",
+        "material_file": "88c5786ca4a7139bae642c62b913b082035021bafe7e1c6234bdace7bfa1a18810304.jpeg"
+      },
+      {
+        "secretKey": "828c31c54a4ff6983cc708dd9e65937b",
+        "material_id": "10305",
+        "material_title": "190917_01_s.jpg",
+        "material_file": "617a3ac9e54342bd62ecfc95cdfdd64e9d719a976170c6c58f255a24fc09c35210305.jpeg"
+      }
+    ],
+    "previous_id": "12131",
+    "next_id": "12078",
+    "saved_materials": [
+      "assets/12099_10304_190917_02_s.jpg",
+      "assets/12099_10305_190917_01_s.jpg"
+    ]
+  }
+}

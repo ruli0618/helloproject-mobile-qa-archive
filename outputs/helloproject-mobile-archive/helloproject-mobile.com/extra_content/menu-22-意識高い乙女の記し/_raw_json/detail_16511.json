@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 107,
+    "content_id": "16511",
+    "content_title": "まゆげちゃん",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-07-30 12:47:00",
+    "created_at": "2021-07-30 12:49:54",
+    "updated_at": "2021-07-30 12:49:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13789",
+        "material_title": "210730_ono_s.jpg",
+        "material_file": "8dc23b221fdedf1759e15c724ef322ca7d534d3a438b9e70fa5173de98c734e413789.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "16511",
+    "content_title": "まゆげちゃん",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-07-30 12:47:00",
+    "created_at": "2021-07-30 12:49:54",
+    "updated_at": "2021-07-30 12:49:54",
+    "content_text": "210730_ono_s.jpg\r\nまゆげはサロンで\r\n整えてもらっています<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nまゆげで印象変わるって言うからねぇ\r\n\r\nもともとは自分で整えてたんだけど\r\n私の技術だと\r\nプロにお願いするのが1番です笑\r\n\r\n似合う形教えてもらえるし\r\nメイクの時間が\r\nめちゃくちゃ縮まってらくちん！\r\n1年以上はおまかせしてます！\r\n\r\nいつもはちょっと書き足して\r\n眉マスカラで薄くしてるんだけど\r\n今日はサロンおわり出来立てほやほやの\r\nありのまままゆげちゃんです♡\r\nれあだよ！！\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "71b8690f9eae6e7af654b3da03a2ca56",
+        "material_id": "13789",
+        "material_title": "210730_ono_s.jpg",
+        "material_file": "d8ca51875b72b5b5377e6eb7e9c2b2882bea6c8fc0ec384e9bb526f7c21deb4913789.jpeg"
+      }
+    ],
+    "previous_id": "16521",
+    "next_id": "16404",
+    "saved_materials": [
+      "assets/16511_13789_210730_ono_s.jpg"
+    ]
+  }
+}

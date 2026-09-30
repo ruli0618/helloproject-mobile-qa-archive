@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 235,
+    "content_id": "17761",
+    "content_title": "工藤の家の屋根裏部屋#101～伊勢鈴蘭～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-03-03 13:00:00",
+    "created_at": "2022-03-03 13:05:36",
+    "updated_at": "2022-03-03 13:06:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14845",
+        "material_title": "220303_01_s.jpg",
+        "material_file": "ec968385a32b046df9004f86e82607bf6347cd54864ab999e39e6019ecd979f114845.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14846",
+        "material_title": "220303_03_s.jpg",
+        "material_file": "1c49927ab9c352e4a276144feaf2ab3d25d1638acde91854f4bb75cc39df62a514846.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "14847",
+        "material_title": "220303_02_s.jpg",
+        "material_file": "ec080f1c68089ebe8ae4cc06fce4349ef653896bbd303a4112952f58bba7f83314847.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17761",
+    "content_title": "工藤の家の屋根裏部屋#101～伊勢鈴蘭～",
+    "content_sub_title": "",
+    "release_date": "2022-03-03 13:00:00",
+    "created_at": "2022-03-03 13:05:36",
+    "updated_at": "2022-03-03 13:06:29",
+    "content_text": "ふくむらの部屋 第101回のゲストは、アンジュルム伊勢鈴蘭さんが登場！\n\n220303_01_s.jpg\n\n番組コラボの質問企画では、お二人の好きな映画、オススメ映画を教えてくれました。\n\nダイエットのモチベーションを保つ秘訣や、\n写真集撮影にあたって準備した事に関してもトーク！\nお二人がかっこいいと言ったBEYOOOOONDS西田汐里さんのエピソードも！\n\n「ハロプロクイズ王」のコーナーでは、\nMV出演者クイズ、出身地クイズにチャレンジ！\nぜひ皆さんも聞きながら挑戦してみてくださいね♪\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・マネージャーさん\n・衣装\nに関して、語って頂きました。\n\n220303_02_s.jpg\n\n今回姉ピ(伊勢さんのお姉さん)のお便りが沢山届き、兄ピ(譜久村さんのお兄さん)のお話も交えて盛りあがりました！\n\nそんな中、突如現れたのが佐藤優樹さん。\n\n譜久村さんに自身のサイン入り写真集を渡して、風のように帰っていきました。\n\n急遽のゲスト出演、ありがとうございました！\n\n220303_03_s.jpg\n\n次回ゲストは、つばきファクトリー小野田紗栞さんです。\n3月3日(木)18:00までお便り募集中！\n\n番組へのメールはこちらまで。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n※コーナー名を件名に記入のうえお送り下さい。\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14845",
+        "material_title": "220303_01_s.jpg",
+        "material_file": "23f6be23b5cfa113d0d10590d1a461704744bf107a84dc2944946f205d25822014845.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14846",
+        "material_title": "220303_03_s.jpg",
+        "material_file": "9ff0d879daf1010c86271a09899aa33d78a8948814d00f55d30f0dc50c30f59214846.jpeg"
+      },
+      {
+        "secretKey": "d2497dff5c745076a91a97d7e047e3c1",
+        "material_id": "14847",
+        "material_title": "220303_02_s.jpg",
+        "material_file": "a662a7dc8c82a8cd73818abb3f55ca7ca1a4d398632883f9ec54c94d0e4f026914847.jpeg"
+      }
+    ],
+    "previous_id": "17913",
+    "next_id": "17760",
+    "saved_materials": [
+      "assets/17761_14845_220303_01_s.jpg",
+      "assets/17761_14846_220303_03_s.jpg",
+      "assets/17761_14847_220303_02_s.jpg"
+    ]
+  }
+}

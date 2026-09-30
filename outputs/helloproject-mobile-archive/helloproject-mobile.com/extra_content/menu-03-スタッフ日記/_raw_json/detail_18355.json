@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 215,
+    "content_id": "18355",
+    "content_title": "工藤の家の屋根裏部屋#108～羽賀朱音～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-06-17 20:52:00",
+    "created_at": "2022-06-17 22:00:10",
+    "updated_at": "2022-06-17 22:03:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15280",
+        "material_title": "220607_s.jpg",
+        "material_file": "89dcc91a70a074337af246a6e52917cd44398a2d53e9c7f87c667bc513b73a9915280.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15282",
+        "material_title": "220607_02.jpg",
+        "material_file": "7fcf38aeda7d10f34214466437608983c5381a30e7deccff49a99b3e3e601d3c15282.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15283",
+        "material_title": "220607_03.jpg",
+        "material_file": "aaf102ce97a56f15a003b4c4b3969751bb573d361257a370b6a48aa0bb57472a15283.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18355",
+    "content_title": "工藤の家の屋根裏部屋#108～羽賀朱音～",
+    "content_sub_title": "",
+    "release_date": "2022-06-17 20:52:00",
+    "created_at": "2022-06-17 22:00:10",
+    "updated_at": "2022-06-17 22:03:27",
+    "content_text": "ふくむらの部屋 第108回のゲストは、羽賀朱音さんが登場！\n\n220607_s.jpg\n\nまずは、最近リリースした新曲の中で気に入っている歌詞ついてトーク！\n好きな色のお話では、イメージカラーならぬイメージガラーも決定！？\n詳しくは、ぜひ番組をお聴き下さい♫\n\n「ハロプロクイズ王」のコーナーでは、\nメンバーのペット名宛クイズに挑戦！\n今回は問題用紙を用意して解いていただきました。\n\n▼譜久村さんの回答はこちら\n220607_02.jpg\n\n▼羽賀さんの回答はこちら\n220607_03.jpg\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・引き継いだ歌割り\n・つばきファクトリー\nに関して、トーク！\n\n深く語っていますので、つばきファクトリーファンの皆さんも要チェックです！\n\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15280",
+        "material_title": "220607_s.jpg",
+        "material_file": "453cf720c35c55952c704a3ab3416ea3449594a771d3620d5c0bb3e611f7ccf015280.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15282",
+        "material_title": "220607_02.jpg",
+        "material_file": "e0df6fb23f85b0bb26875fec4d0364736863c406c9f5adc814418d08262971ca15282.jpeg"
+      },
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "15283",
+        "material_title": "220607_03.jpg",
+        "material_file": "33cee580d4245e8b68d636995a8f97bc0b3b89005140d92e8a613b93a2d177bd15283.jpeg"
+      }
+    ],
+    "previous_id": "18681",
+    "next_id": "18354",
+    "saved_materials": [
+      "assets/18355_15280_220607_s.jpg",
+      "assets/18355_15282_220607_02.jpg",
+      "assets/18355_15283_220607_03.jpg"
+    ]
+  }
+}

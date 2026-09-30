@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 644,
+    "content_id": "10605",
+    "content_title": "クリスマスネイル",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-02-02 10:00:00",
+    "created_at": "2019-01-08 12:57:22",
+    "updated_at": "2019-01-08 12:57:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9148",
+        "material_title": "0202_miyamoto_s.jpg",
+        "material_file": "5a9218b4729457c69e3f5c687ad9dfaa41208f445b6dc59096e6a69c107b78209148.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "10605",
+    "content_title": "クリスマスネイル",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-02-02 10:00:00",
+    "created_at": "2019-01-08 12:57:22",
+    "updated_at": "2019-01-08 12:57:22",
+    "content_text": "0202_miyamoto_s.jpg\r\nだった私です！",
+    "materials": [
+      {
+        "secretKey": "a52f0c899be38d365d70c446293f2e56",
+        "material_id": "9148",
+        "material_title": "0202_miyamoto_s.jpg",
+        "material_file": "571583559d396af30749eecc0691f262290c2da177ffa8db21379a3e2cb59b7c9148.jpeg"
+      }
+    ],
+    "previous_id": "10607",
+    "next_id": "10604",
+    "saved_materials": [
+      "assets/10605_9148_0202_miyamoto_s.jpg"
+    ]
+  }
+}

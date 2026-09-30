@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 386,
+    "content_id": "12405",
+    "content_title": "工藤の家の屋根裏部屋#60～金澤朋子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-10-23 19:00:00",
+    "created_at": "2019-10-23 18:56:42",
+    "updated_at": "2019-10-23 19:06:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10520",
+        "material_title": "191023_F_02_s.jpg",
+        "material_file": "f463ffe5512af25acdd7c4ee4c95e86d32b88dbb8ce1defc5f7bdd03520cb13810520.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10521",
+        "material_title": "191023_F_01_s.jpg",
+        "material_file": "9a250d9a7531eadd14f95359de4f3e93fa896c20a6a804d8733e4eed4570db5a10521.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12405",
+    "content_title": "工藤の家の屋根裏部屋#60～金澤朋子～",
+    "content_sub_title": "",
+    "release_date": "2019-10-23 19:00:00",
+    "created_at": "2019-10-23 18:56:42",
+    "updated_at": "2019-10-23 19:06:22",
+    "content_text": "記念すべき、ふくむらの部屋 第60回！\nゲストは、ついにこの方が来てくれました！\n\nこの番組でも何度も話題に上がっていた、Juice=Juiceリーダー金澤朋子さん！\n\n191023_F_01_s.jpg\n\nアイドルとして、かなともが好き！と言うふくむらさん。\n「きちんとお喋り出来ていますか？」といったお便りも多く届く中、果たして結果は…？番組をチェック！\n\n新メンバー教育に関する深いお話から、メイドカフェの世界観まで…。\n\n先日発売された金澤さんのフォトブック「<a href=\"http://www.helloproject.com/juicejuice/news/11071/\" target=\"_blank\">#いいね三芳町</a>」の、タイトル決定の経緯も！\n\n※譜久村さんの最新写真集「<a href=\"https://www.wani.co.jp/event.php?id=6410\" target=\"_blank\">多謝！</a>」は、10/30(水)発売！\n\n「みんなに伝えたいハロプロ名場面」では、金澤さんに関する名場面を多数紹介！\n研修生同期のお話や、デビューのきっかけ等もお話してくれています。\n\n191023_F_02_s.jpg\n\n次回11/5(火)は、つばきファクトリーの谷本安美さんが出演！\n\n本日収録が行われましたが、谷本さんの○○によって譜久村さんの新たな一面が…！？\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10520",
+        "material_title": "191023_F_02_s.jpg",
+        "material_file": "5f9d95d51f3e48d083398470f88f18ff7daba49ebd496412155b94c25883e42f10520.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10521",
+        "material_title": "191023_F_01_s.jpg",
+        "material_file": "8316d3b9486bcccb569afabeb3d507301f31c80596dd5f4179ca4c2cc95e347010521.jpeg"
+      }
+    ],
+    "previous_id": "12407",
+    "next_id": "12404",
+    "saved_materials": [
+      "assets/12405_10520_191023_F_02_s.jpg",
+      "assets/12405_10521_191023_F_01_s.jpg"
+    ]
+  }
+}

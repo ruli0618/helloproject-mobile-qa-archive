@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 164,
+    "content_id": "14408",
+    "content_title": "おはな",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2020-08-28 13:52:00",
+    "created_at": "2020-08-28 13:53:07",
+    "updated_at": "2020-08-28 13:53:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11990",
+        "material_title": "0828_akiyama_s.jpg",
+        "material_file": "190d098df808d363fa647b82049a744eb2489c8d0b7f640d28adebe73ccdf0c511990.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14408",
+    "content_title": "おはな",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2020-08-28 13:52:00",
+    "created_at": "2020-08-28 13:53:07",
+    "updated_at": "2020-08-28 13:53:07",
+    "content_text": "0828_akiyama_s.jpg\r\n\r\nかわいいお花を小片リサちゃんからもらいました(^^)\r\n\r\nわたしの部屋には常にお花があるのでまた増えたぁぁ\r\n\r\nお花意識は誰よりもたかい気がする",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "11990",
+        "material_title": "0828_akiyama_s.jpg",
+        "material_file": "cb4770e53299fbe12ac0d9c4e594a11080abc8b145d794842b0a9e3cdcea322811990.jpeg"
+      }
+    ],
+    "previous_id": "14431",
+    "next_id": "14400",
+    "saved_materials": [
+      "assets/14408_11990_0828_akiyama_s.jpg"
+    ]
+  }
+}

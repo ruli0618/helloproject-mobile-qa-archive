@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 149,
+    "content_id": "7246",
+    "content_title": "ハナモヨウ〜♬",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2017-08-10 15:06:00",
+    "created_at": "2017-08-10 15:06:49",
+    "updated_at": "2017-08-10 15:09:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6377",
+        "material_title": "170810_akiyama_s.jpg",
+        "material_file": "1fed0893366b4e33ab62ae19d6bee40bbbcea2783b655c231cc880ae80cb16826377.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7246",
+    "content_title": "ハナモヨウ〜♬",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2017-08-10 15:06:00",
+    "created_at": "2017-08-10 15:06:49",
+    "updated_at": "2017-08-10 15:09:02",
+    "content_text": "みなさんこんにちわ* (`∂∀≦´)-♡\r\n\r\n秋山 眞緒でーす！\r\n\r\n170810_akiyama_s.jpg\r\n\r\nこのお花の写真は。。❤︎\r\n\r\nなんとー！！ハナモヨウのミュージックビデオ撮影の時にもらったお花です！！\r\n\r\nたくさんお花をもらったので\r\n嬉しかったです* (❁´∀`❁)\r\n\r\nお花をもらった日にお家で\r\n花瓶にお水をいれて育ててました！\r\n\r\n今は、もう枯れちゃったのですが\r\nとってもお花が綺麗で嬉しかったです♡\r\n\r\nやっぱりお花って綺麗で笑顔になれますよね♡\r\n\r\n普通に外に咲いているお花を最近探すのですが意外と咲いてないですーー！\r\n\r\nまた、お花を見つけたら写真を撮りたいと思います！！*＼(^o^)／*",
+    "materials": [
+      {
+        "secretKey": "063ea2a4088f7aee10fbedefc21c4057",
+        "material_id": "6377",
+        "material_title": "170810_akiyama_s.jpg",
+        "material_file": "c39d43ae2cab2560a1e544d4b5d55942475d89494f27b9661e366291861a026e6377.jpeg"
+      }
+    ],
+    "previous_id": "7271",
+    "next_id": "7216",
+    "saved_materials": [
+      "assets/7246_6377_170810_akiyama_s.jpg"
+    ]
+  }
+}

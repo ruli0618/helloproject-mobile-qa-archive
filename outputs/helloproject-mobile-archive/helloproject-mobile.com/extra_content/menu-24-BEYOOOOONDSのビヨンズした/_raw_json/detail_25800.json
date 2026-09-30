@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 49,
+    "content_id": "25800",
+    "content_title": "ぴーす",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2026-03-04 10:00:00",
+    "created_at": "2026-02-18 15:39:56",
+    "updated_at": "2026-02-18 15:39:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21094",
+        "material_title": "0304_okamura_s.jpg",
+        "material_file": "d277690701779704d807d9e40fbadd7bd8ee18cfb85912ddb20314e364b2911821094.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25800",
+    "content_title": "ぴーす",
+    "content_sub_title": "岡村美波",
+    "release_date": "2026-03-04 10:00:00",
+    "created_at": "2026-02-18 15:39:56",
+    "updated_at": "2026-02-18 15:39:56",
+    "content_text": "0304_okamura_s.jpg\r\nタイでゆるピース。\r\n\r\n【50周目お題：ゆるポーズ】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "21094",
+        "material_title": "0304_okamura_s.jpg",
+        "material_file": "33e3bffb765eedef3249b60b89d5c1bec6097d69bbe8b15b809138204e9d061d21094.jpeg"
+      }
+    ],
+    "previous_id": "25801",
+    "next_id": "25799",
+    "saved_materials": [
+      "assets/25800_21094_0304_okamura_s.jpg"
+    ]
+  }
+}

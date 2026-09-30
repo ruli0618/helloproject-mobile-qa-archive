@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 510,
+    "content_id": "14846",
+    "content_title": "おさんぽ",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2020-11-03 00:00:00",
+    "created_at": "2020-11-05 15:28:48",
+    "updated_at": "2020-11-05 15:58:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12367",
+        "material_title": "1103_dambara_s.jpg",
+        "material_file": "96570a588d2559d358c59c697d420187cbe765fc28c3ecc6147e655a750b798e12367.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14846",
+    "content_title": "おさんぽ",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2020-11-03 00:00:00",
+    "created_at": "2020-11-05 15:28:48",
+    "updated_at": "2020-11-05 15:58:13",
+    "content_text": "1103_dambara_s.jpg\n秋のお散歩好きです<img src=\"/emoji/emoji-images/4538.gif\"/>\n次はどこ歩こうかなぁ",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12367",
+        "material_title": "1103_dambara_s.jpg",
+        "material_file": "ed4ff8ac11ec029774cb6fb2a025706c3888192e9be9004d2117cb61489ca16412367.jpeg"
+      }
+    ],
+    "previous_id": "14847",
+    "next_id": "14787",
+    "saved_materials": [
+      "assets/14846_12367_1103_dambara_s.jpg"
+    ]
+  }
+}

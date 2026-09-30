@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 368,
+    "content_id": "18123",
+    "content_title": "ネイル",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2022-05-19 10:00:00",
+    "created_at": "2022-05-16 22:19:00",
+    "updated_at": "2022-05-16 22:19:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15131",
+        "material_title": "0519_uemura_s.jpg",
+        "material_file": "2ffed5a94f6eb8abb526088b2dc2ce0db3121b67ca1e1c69d66ff0830b9a8cbc15131.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18123",
+    "content_title": "ネイル",
+    "content_sub_title": "植村あかり",
+    "release_date": "2022-05-19 10:00:00",
+    "created_at": "2022-05-16 22:19:00",
+    "updated_at": "2022-05-16 22:19:00",
+    "content_text": "0519_uemura_s.jpg\r\n植村あかりです！\r\n\r\n今のネイルは桜デザイン！\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15131",
+        "material_title": "0519_uemura_s.jpg",
+        "material_file": "d77775c763e507b68f5c5ea171151f18d85438190eb0f3ee15f989b62e39a34415131.jpeg"
+      }
+    ],
+    "previous_id": "18188",
+    "next_id": "18114",
+    "saved_materials": [
+      "assets/18123_15131_0519_uemura_s.jpg"
+    ]
+  }
+}

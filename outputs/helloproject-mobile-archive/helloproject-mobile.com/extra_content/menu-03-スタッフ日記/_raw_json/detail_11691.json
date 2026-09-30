@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 408,
+    "content_id": "11691",
+    "content_title": "隣のやじまん家の塀の裏#50 小野瑞歩",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-07-05 12:15:00",
+    "created_at": "2019-07-05 12:15:15",
+    "updated_at": "2019-07-05 12:19:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9970",
+        "material_title": "190705_01_s.jpg",
+        "material_file": "caecfd5e962a67e113ca98438dded6a905fbe42e7e8fc936a11d571a1c1828239970.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9971",
+        "material_title": "190705_02_s.jpg",
+        "material_file": "4df785e6f5fdb5c73f655d07752a13982ebc5dd122c7eb394bfa8ec8ad5e87b69971.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11691",
+    "content_title": "隣のやじまん家の塀の裏#50 小野瑞歩",
+    "content_sub_title": "",
+    "release_date": "2019-07-05 12:15:00",
+    "created_at": "2019-07-05 12:15:15",
+    "updated_at": "2019-07-05 12:19:05",
+    "content_text": "「隣のやじまん家」#50 配信中！\r\n\r\n190705_02_s.jpg\r\n\r\nつばきファクトリーの小野瑞歩さんがゲストに来てくれました！\r\n\r\n収録日は、つばきファクトリーが主演を務めた舞台、演劇女子部「遙かなる時空の中で6 外伝 ～黄昏ノ仮面～」の東京公演が終わり大阪公演を迎える前の期間中！\r\n\r\n小野さんの配役が決まった時の心境や稽古が進むに連れての心構え、裏話を沢山話してくれました。\r\n\r\n190705_01_s.jpg\r\n\r\nヘアケアの相談では、矢島さんが綺麗な髪を保つ秘訣！？が知れちゃいます！\r\n\r\n小野さんがお父さんに困っている事、夏の思い出、\r\n和田彩花さん、宮崎由加さんの卒業について等など。\r\n\r\n佐藤優樹さんと遭遇した時どんな話をしたか、\r\nブログでは語られていないエピソードも要チェックです！\r\n\r\nVSやじまでは、\r\n男役になりきってのキュンセリフ対決！\r\n\r\nお試し新コーナーでは、若者の流行語で会話！\r\n若者になりきった二人の会話は笑いに溢れていました♪\r\n\r\n次回、ついに新コーナーを発表します！\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\nそして現在、7月23日(火)配信回のメールを募集中！\r\nゲストはアンジュルムの勝田里奈さん！\r\n\r\n7月テーマトークのお題は\r\n「夏の思い出」\r\n「VS矢島」対決するお題も募集！\r\n\r\n「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！ \r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\r\n\r\n次回配信は7月9日(火)、ゲストはJuice=Juiceの高木紗友希さんです！\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9970",
+        "material_title": "190705_01_s.jpg",
+        "material_file": "5fc065cbb5ac283a49e55b1e50c238251111ef1d86488153bd3039ea4507953e9970.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9971",
+        "material_title": "190705_02_s.jpg",
+        "material_file": "90b0a610643c83e88e7d4d2e8ea1459f4106d3b445b4c88ba4c8912e5bb263469971.jpeg"
+      }
+    ],
+    "previous_id": "11692",
+    "next_id": "11675",
+    "saved_materials": [
+      "assets/11691_9970_190705_01_s.jpg",
+      "assets/11691_9971_190705_02_s.jpg"
+    ]
+  }
+}

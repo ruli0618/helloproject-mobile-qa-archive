@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 81,
+    "content_id": "23485",
+    "content_title": "ドーナツ",
+    "content_sub_title": "谷本安美",
+    "category_id": "155",
+    "release_date": "2024-12-20 10:00:00",
+    "created_at": "2024-12-16 16:01:55",
+    "updated_at": "2024-12-16 16:01:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19319",
+        "material_title": "1220_tanimoto_s.jpg",
+        "material_file": "093874e19ef2097760d69066a3b9cd3ded202c4be5a580dde76e8384b5700cee19319.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23485",
+    "content_title": "ドーナツ",
+    "content_sub_title": "谷本安美",
+    "release_date": "2024-12-20 10:00:00",
+    "created_at": "2024-12-16 16:01:55",
+    "updated_at": "2024-12-16 16:01:55",
+    "content_text": "1220_tanimoto_s.jpg\r\n私の大好きなチョコのドーナツ！\r\nライブの時にいただけて\r\nとっても嬉しかった〜！\r\n\r\n谷本安美",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19319",
+        "material_title": "1220_tanimoto_s.jpg",
+        "material_file": "77bb3aac69c578c6031515c9d24baf24c6c27ea28727dccd78a92c16533428a419319.jpeg"
+      }
+    ],
+    "previous_id": "23599",
+    "next_id": "23322",
+    "saved_materials": [
+      "assets/23485_19319_1220_tanimoto_s.jpg"
+    ]
+  }
+}

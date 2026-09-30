@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 51,
+    "content_id": "25797",
+    "content_title": "ピース？",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2026-02-23 10:00:00",
+    "created_at": "2026-02-18 15:39:52",
+    "updated_at": "2026-02-18 15:39:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21091",
+        "material_title": "0223_eguchi_s.jpg",
+        "material_file": "630a789616b90518e5cb199aca59ecb4758158f44f8730493f4e8163114ffaa621091.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25797",
+    "content_title": "ピース？",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2026-02-23 10:00:00",
+    "created_at": "2026-02-18 15:39:52",
+    "updated_at": "2026-02-18 15:39:52",
+    "content_text": "0223_eguchi_s.jpg\r\n多分ピースをしてる写真！\r\n\r\n【50周目お題：ゆるポーズ】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "21091",
+        "material_title": "0223_eguchi_s.jpg",
+        "material_file": "971abe5a6c7ff8ed49b54205b1683c18df39e896cfda1f9158c3401bf66b809521091.jpeg"
+      }
+    ],
+    "previous_id": "25799",
+    "next_id": "25796",
+    "saved_materials": [
+      "assets/25797_21091_0223_eguchi_s.jpg"
+    ]
+  }
+}

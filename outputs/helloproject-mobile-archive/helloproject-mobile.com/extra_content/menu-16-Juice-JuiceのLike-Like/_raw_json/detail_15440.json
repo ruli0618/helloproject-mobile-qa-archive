@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 488,
+    "content_id": "15440",
+    "content_title": "クリスマス",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2021-02-04 10:00:00",
+    "created_at": "2021-02-09 15:08:20",
+    "updated_at": "2021-02-09 15:08:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12862",
+        "material_title": "210204_matsunaga_s.jpg",
+        "material_file": "24c6c6567fbef8d961d43d02f452cfc9ccc1d90f635e27d57eb27a50bb54128b12862.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15440",
+    "content_title": "クリスマス",
+    "content_sub_title": "松永里愛",
+    "release_date": "2021-02-04 10:00:00",
+    "created_at": "2021-02-09 15:08:20",
+    "updated_at": "2021-02-09 15:08:20",
+    "content_text": "私はクリスマスが好きなのですが、昨年はクリスマス感がなくてあっという間に過ぎましたが。\r\n今日になって急に余韻がきてずっとジングルベルを歌ってました！\r\nクリスマス好き！\r\n210204_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12862",
+        "material_title": "210204_matsunaga_s.jpg",
+        "material_file": "0c70ebd4d3d976ebf6530b5f7b7442ec315160e3f29374943301fcc33c0ad1af12862.jpeg"
+      }
+    ],
+    "previous_id": "15443",
+    "next_id": "15394",
+    "saved_materials": [
+      "assets/15440_12862_210204_matsunaga_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 4,
+    "content_id": "12534",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "category_id": "111",
+    "release_date": "2019-11-28 15:00:00",
+    "created_at": "2019-11-22 14:37:03",
+    "updated_at": "2019-11-28 15:18:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "8876d03769f748672962e3abcab4a190",
+        "material_id": "10629",
+        "material_title": "01_nonaka.jpg",
+        "material_file": "d228e64a30ae0803428d2b81dd72ef76a39bfc0381dc1133c5647dd1e5dc97d510629.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "12534",
+    "content_title": "モーニング娘。'19",
+    "content_sub_title": "野中美希",
+    "release_date": "2019-11-28 15:00:00",
+    "created_at": "2019-11-22 14:37:03",
+    "updated_at": "2019-11-28 15:18:57",
+    "content_text": "01_nonaka.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10629",
+        "material_title": "01_nonaka.jpg",
+        "material_file": "cf3ab1a150df541c45a66b22010d6a1015547f5c5e83a0ae3a9f9a2ebbdb42e610629.jpeg"
+      }
+    ],
+    "previous_id": "12535",
+    "next_id": "-1",
+    "saved_materials": [
+      "assets/12534_10629_01_nonaka.jpg"
+    ]
+  }
+}

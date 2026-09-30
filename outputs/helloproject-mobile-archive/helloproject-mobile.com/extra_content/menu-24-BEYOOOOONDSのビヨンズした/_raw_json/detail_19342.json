@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 281,
+    "content_id": "19342",
+    "content_title": "夢が叶った日",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2023-01-11 10:00:00",
+    "created_at": "2022-12-14 19:55:31",
+    "updated_at": "2022-12-14 19:57:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16053",
+        "material_title": "0111_okamura_s.jpg",
+        "material_file": "ea77af56cc554efb9eb9863503de901dae2a180cea18ecb0870003ed0629d57216053.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19342",
+    "content_title": "夢が叶った日",
+    "content_sub_title": "岡村美波",
+    "release_date": "2023-01-11 10:00:00",
+    "created_at": "2022-12-14 19:55:31",
+    "updated_at": "2022-12-14 19:57:14",
+    "content_text": "0111_okamura_s.jpg\n人生で1番幸せな瞬間でした♡\n\n【23周目お題：思い出】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16053",
+        "material_title": "0111_okamura_s.jpg",
+        "material_file": "b39dc35b8af15c1212830b0af466f63815a3c58d795825fdef89ecaeeccfd2d416053.jpeg"
+      }
+    ],
+    "previous_id": "19343",
+    "next_id": "19340",
+    "saved_materials": [
+      "assets/19342_16053_0111_okamura_s.jpg"
+    ]
+  }
+}

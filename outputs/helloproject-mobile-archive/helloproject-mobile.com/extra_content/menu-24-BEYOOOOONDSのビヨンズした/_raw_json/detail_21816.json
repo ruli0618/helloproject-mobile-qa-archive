@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 199,
+    "content_id": "21816",
+    "content_title": "黒木先生が....",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-03-25 10:00:00",
+    "created_at": "2024-02-28 12:08:43",
+    "updated_at": "2024-02-28 12:08:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17921",
+        "material_title": "0325_kiyono_s.jpg",
+        "material_file": "dd57a0c43c418c54595252d3a9c884b1cb0e437560a453afbf2d545abfb9ef7017921.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21816",
+    "content_title": "黒木先生が....",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-03-25 10:00:00",
+    "created_at": "2024-02-28 12:08:43",
+    "updated_at": "2024-02-28 12:08:43",
+    "content_text": "0325_kiyono_s.jpg\r\n撮影終わりにあっためなおして食べなーって言ってくれた^ ^スタッフさんと黒木先生とみんなで美味しく食べました^ ^\r\n\r\n【32周目お題：食事】",
+    "materials": [
+      {
+        "secretKey": "a24261e72d22bfa8a0f36b1ee8305fe8",
+        "material_id": "17921",
+        "material_title": "0325_kiyono_s.jpg",
+        "material_file": "f7c78a3bb9c9b7d005297abe316bd6a9cf706d2c40a993fadcdb39e18abda65617921.jpeg"
+      }
+    ],
+    "previous_id": "21817",
+    "next_id": "21815",
+    "saved_materials": [
+      "assets/21816_17921_0325_kiyono_s.jpg"
+    ]
+  }
+}

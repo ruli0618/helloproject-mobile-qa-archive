@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 30,
+    "content_id": "12094",
+    "content_title": "yellow",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-09-13 12:54:00",
+    "created_at": "2019-09-13 12:55:19",
+    "updated_at": "2019-09-13 12:55:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10300",
+        "material_title": "0913_akiyama_s.jpg",
+        "material_file": "c54de3b91b4a2bfdcb07ab8478a73f4dbc522145a0903c013f2dd65634798fdc10300.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12094",
+    "content_title": "yellow",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-09-13 12:54:00",
+    "created_at": "2019-09-13 12:55:19",
+    "updated_at": "2019-09-13 12:55:19",
+    "content_text": "こんにちわ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n秋山眞緒です\r\n\r\n0913_akiyama_s.jpg\r\n\r\n黄色の小さなお花達を見つけましたよ〜\r\nかわいすぎる、、、、\r\n黄色のお花を見ると元気が出ます！たくさん咲いてて嬉しくなりました(^^)",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10300",
+        "material_title": "0913_akiyama_s.jpg",
+        "material_file": "562b4239b8fdf6a429a8179d7dfd65fd64c3ab3f67b4dae868b013ee56d56d3310300.jpeg"
+      }
+    ],
+    "previous_id": "12101",
+    "next_id": "12085",
+    "saved_materials": [
+      "assets/12094_10300_0913_akiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 101,
+    "content_id": "24411",
+    "content_title": "謎撮影会",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-06-16 10:00:00",
+    "created_at": "2025-06-02 12:04:15",
+    "updated_at": "2025-06-02 12:04:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19980",
+        "material_title": "0616_okamura_s.jpg",
+        "material_file": "00f120e076108460c60a24da031b0b6fa6a1bf9bceb313fa76e30092bf8a0c1b19980.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24411",
+    "content_title": "謎撮影会",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-06-16 10:00:00",
+    "created_at": "2025-06-02 12:04:15",
+    "updated_at": "2025-06-02 12:04:15",
+    "content_text": "0616_okamura_s.jpg\r\nBEYOOOOONDSの楽屋ではよくみる光景です\r\n\r\n【43周目お題：隠し撮り】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "19980",
+        "material_title": "0616_okamura_s.jpg",
+        "material_file": "ef38b45a69c0a28f48d3f900350a8d412fb03fafb6d0a0fe9f533e0a5dc9f0a019980.jpeg"
+      }
+    ],
+    "previous_id": "24412",
+    "next_id": "24410",
+    "saved_materials": [
+      "assets/24411_19980_0616_okamura_s.jpg"
+    ]
+  }
+}

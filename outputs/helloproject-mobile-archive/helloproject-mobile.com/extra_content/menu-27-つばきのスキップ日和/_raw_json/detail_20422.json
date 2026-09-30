@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 139,
+    "content_id": "20422",
+    "content_title": "スカート",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2023-06-27 10:00:00",
+    "created_at": "2023-06-26 23:04:48",
+    "updated_at": "2023-06-26 23:04:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "16852",
+        "material_title": "0627_akiyama_s.jpg",
+        "material_file": "d229ff312ca17083f68cb19a54243b0ba52076297e66c7f60ade3c97522343e216852.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20422",
+    "content_title": "スカート",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2023-06-27 10:00:00",
+    "created_at": "2023-06-26 23:04:48",
+    "updated_at": "2023-06-26 23:04:48",
+    "content_text": "0627_akiyama_s.jpg\r\nこの日はお仕事が早く終わったので家に帰って母にたくさん写真撮ってもらったんですぅ\r\n\r\nどんどん撮るのが上手くなってて嬉しい笑　\r\n\r\nお天気が良いといっぱい写真撮りたくなっちゃうね♡",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16852",
+        "material_title": "0627_akiyama_s.jpg",
+        "material_file": "001134204444f9497f32ae2c44e19e84bfae4edd99c825d3e6c5c32942f821c716852.jpeg"
+      }
+    ],
+    "previous_id": "20442",
+    "next_id": "20396",
+    "saved_materials": [
+      "assets/20422_16852_0627_akiyama_s.jpg"
+    ]
+  }
+}

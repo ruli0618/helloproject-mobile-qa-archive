@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 720,
+    "content_id": "3022",
+    "content_title": "矢島舞美写真集『Nobody knows23』発売記念握手会",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-24 00:00:00",
+    "created_at": "2015-08-24 19:59:56",
+    "updated_at": "2015-08-25 10:04:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2866",
+        "material_title": "image3.jpg",
+        "material_file": "87418bf73ad6b70d5db16abd4ad85c106cbf9912177ae8ec049314ffb131e9dd2866.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2867",
+        "material_title": "image1.jpg",
+        "material_file": "eeb4c47b8c4f4247bfc04ed40bed2913f76c35dc60957abd14553abc7a3eee092867.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2868",
+        "material_title": "image2.jpg",
+        "material_file": "ef70174e475fffef90229650f9eefd15c274ecb99e5ee7de7ea17d9fcb1c7b412868.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3022",
+    "content_title": "矢島舞美写真集『Nobody knows23』発売記念握手会",
+    "content_sub_title": "",
+    "release_date": "2015-08-24 00:00:00",
+    "created_at": "2015-08-24 19:59:56",
+    "updated_at": "2015-08-25 10:04:45",
+    "content_text": "こんにちは！スタッフです。\n\n8月21日に福家書店 新宿サブナード店にて\n矢島舞美写真集『Nobody knows23』発売記念握手会が行われました！\n \n \n \n握手会の前にはメイク直しを、入念に。\n \nリップを塗り塗り〜\n \nimage1.jpg\n \nあ、、、あれ？\n油性マジック？\n \n \n気を取り直して、、\n \n髪を巻き巻き〜\n \nimage2.jpg\n \nんっっ？\nよく見ると、、、\n \n \nハンガーに吊られてる！！！\n \nimage3.jpg\n \n \n \n \n『Nobody knows23』には、こんなお茶目なシーンはありませんが、\n新しい矢島舞美の姿を写し出した唯一無二の作品に仕上がっております！\n \nさらに、握手会は8月28日（金）18：00〜\n紀伊國屋書店 福岡本店でも行われますので、お近くの方は是非お越しください！\n \n矢島舞美写真集『Nobody knows23』絶賛発売中です。\n是非ご覧ください♪",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2866",
+        "material_title": "image3.jpg",
+        "material_file": "42115990150ffa2bbfb8b8c7ed339017627a49bcd9acc7fdfdc825561878355b2866.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2867",
+        "material_title": "image1.jpg",
+        "material_file": "fe20657c3a48b7fb5d79f1029c1fa2978fa9fec07e35f33aa0e3a499a57e6c442867.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2868",
+        "material_title": "image2.jpg",
+        "material_file": "1eb89fabef1733c1f049b0ac3cc3b1ba38137d1a12b4597084ab748d181899ae2868.jpeg"
+      }
+    ],
+    "previous_id": "3025",
+    "next_id": "2996",
+    "saved_materials": [
+      "assets/3022_2866_image3.jpg",
+      "assets/3022_2867_image1.jpg",
+      "assets/3022_2868_image2.jpg"
+    ]
+  }
+}

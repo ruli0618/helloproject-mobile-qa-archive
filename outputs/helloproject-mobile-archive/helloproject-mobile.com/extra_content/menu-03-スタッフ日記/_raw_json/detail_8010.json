@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 551,
+    "content_id": "8010",
+    "content_title": "宣伝会議 議事録#20",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-27 20:00:00",
+    "created_at": "2017-11-27 19:58:55",
+    "updated_at": "2017-11-27 20:01:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7058",
+        "material_title": "171127_1.jpg",
+        "material_file": "3958a681369c7349106692a7ebdd3ec14f5a339e7f035c97401456fab780c7c57058.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7059",
+        "material_title": "171127_3.jpg",
+        "material_file": "6ef5116ddea71c56301dcd4050bb9f2a31e0c363914580b824373f2c16b2209f7059.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7060",
+        "material_title": "171127_2.jpg",
+        "material_file": "ed9467f717b72db29bcd91b503b5275ee4be2e566bc8f7bba2799895376d20687060.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8010",
+    "content_title": "宣伝会議 議事録#20",
+    "content_sub_title": "",
+    "release_date": "2017-11-27 20:00:00",
+    "created_at": "2017-11-27 19:58:55",
+    "updated_at": "2017-11-27 20:01:15",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美・顧問の工藤遥による20回目の宣伝会議が行われました！\r\n\r\n20回も続けられたのはいつも聴いて下さるみなさんのおかげです。\r\nありがとうございます！\r\n30回、40回と続けられるように今後も頑張っていきますのでよろしくお願いします！\r\n\r\n171127_1.jpg\r\n\r\nそして、今回で工藤顧問は卒業前ラストの収録でした。\r\nハロ！モバへの想い、工藤顧問から3人への想い、そして3人から工藤顧問への想い・・・。\r\n\r\n笑ったり泣いたり、色々な感情に溢れた回になってしまいましたが、\r\n4人のハロ！モバ愛に満ち溢れた回になってます！！\r\n\r\n171127_2.jpg\r\n\r\n今回の書記のメモはこちら！\r\n\r\n171127_3.jpg\r\n\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7058",
+        "material_title": "171127_1.jpg",
+        "material_file": "0223d611175a02a890ee222846e85b5f7cbea69826eddf6a6d950f2c245579e97058.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7059",
+        "material_title": "171127_3.jpg",
+        "material_file": "cda2ad299c82f1aae21b65f3e7760ad041555cde17648b98edf064d1687660fb7059.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7060",
+        "material_title": "171127_2.jpg",
+        "material_file": "f8ed8af0558ea19796eb2e6a6672766661f2f99ea2effad85dfa4566141085dc7060.jpeg"
+      }
+    ],
+    "previous_id": "8037",
+    "next_id": "7978",
+    "saved_materials": [
+      "assets/8010_7058_171127_1.jpg",
+      "assets/8010_7059_171127_3.jpg",
+      "assets/8010_7060_171127_2.jpg"
+    ]
+  }
+}

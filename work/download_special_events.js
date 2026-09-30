@@ -19,6 +19,7 @@ function ensureDir(filePath) {
 }
 
 function pageToUrl(page) {
+  if (page.startsWith('content/')) return `${ROOT}/${page}?menu_id=18`;
   return `${ROOT}/info/special/content?page=${page}`;
 }
 
@@ -120,7 +121,8 @@ async function main() {
   const all = await getAllSpecialContents();
   const seedByPage = new Map();
 
-  for (const item of all.filter((entry) => EVENT_RE.test(entry.content_title) || EVENT_RE.test(entry.content_sub_title))) {
+  for (const item of all) {
+    if (!item.content_sub_title) continue;
     seedByPage.set(normalizePage(item.content_sub_title), item);
   }
   for (const item of DISCOVERED_SEASONAL_PAGES) {
@@ -170,6 +172,10 @@ async function main() {
           const target = localPagePath(abs.searchParams.get('page'));
           return `${attr}="${path.relative(pageDir, target).replace(/\\/g, '/')}"`;
         }
+        if (abs.pathname === '/content/manga') {
+          const target = localPagePath(abs.pathname + abs.search);
+          return `${attr}="${path.relative(pageDir, target).replace(/\\/g, '/')}"`;
+        }
         if (/\.(?:jpe?g|png|gif|webp|css|js)(?:$|\?)/i.test(abs.pathname + abs.search)) {
           const target = localAssetPath(abs.href);
           const rel = path.relative(pageDir, target).replace(/\\/g, '/');
@@ -211,12 +217,9 @@ async function main() {
     }
   }
 
-  require('./prepare_countdown_archive.js')(OUT);
-
-  fs.writeFileSync(path.join(OUT, 'index.html'), buildIndex(eventSeeds, pages, assets), 'utf8');
   fs.writeFileSync(path.join(OUT, '_special_events_report.json'), JSON.stringify({
     generated_at: new Date().toISOString(),
-    note: 'Seasonal candidates were inferred from the official X account text and probed against /info/special/content?page=.../index.',
+    note: 'All entries returned by the official special-content API were archived, including nested pages and referenced assets.',
     event_seed_count: eventSeeds.length,
     page_count: pages.length,
     asset_count: assets.size,
@@ -225,6 +228,9 @@ async function main() {
     pages,
     errors,
   }, null, 2));
+
+  require('./prepare_countdown_archive.js')(OUT);
+  require('./rebuild_special_events_index.js');
 
   console.log(JSON.stringify({ all_special: all.length, event_seed_count: eventSeeds.length, page_count: pages.length, asset_count: assets.size, downloadedAssets, errors: errors.length }, null, 2));
 }

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 853,
+    "content_id": "5330",
+    "content_title": "筑波♡／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-09-13 20:27:00",
+    "created_at": "2016-09-13 20:30:09",
+    "updated_at": "2016-09-13 20:30:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4802",
+        "material_title": "4873520263282_s.jpg",
+        "material_file": "f89b3db757f62e74b1520277412df06a015a9694511a9b545b020e7010fa6c714802.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5330",
+    "content_title": "筑波♡／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2016-09-13 20:27:00",
+    "created_at": "2016-09-13 20:30:09",
+    "updated_at": "2016-09-13 20:30:09",
+    "content_text": "4873520263282_s.jpg\r\n前に高木紗友希ちゃんと行った筑波山での風景！",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4802",
+        "material_title": "4873520263282_s.jpg",
+        "material_file": "d0d76eaf9a3cb48f5a13eeac496caf0f2c8f5bfe4ecd8ce92fd503e387b99ff64802.jpeg"
+      }
+    ],
+    "previous_id": "5334",
+    "next_id": "5321",
+    "saved_materials": [
+      "assets/5330_4802_4873520263282_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 224,
+    "content_id": "18116",
+    "content_title": "工藤の家の屋根裏部屋#105～斉藤円香～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-12 19:29:00",
+    "created_at": "2022-05-12 19:29:38",
+    "updated_at": "2022-05-12 19:29:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15123",
+        "material_title": "220426_02_s.jpg",
+        "material_file": "f1bb2fd44e36a7f8291248ec8ef91d485046fab38cdec72b6a3600b68a0002b215123.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15124",
+        "material_title": "220426_01_s.jpg",
+        "material_file": "095c6053fa635a28beee8f960a870460c7677e03d74e6ec241f4b9e73a5a438015124.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18116",
+    "content_title": "工藤の家の屋根裏部屋#105～斉藤円香～",
+    "content_sub_title": "",
+    "release_date": "2022-05-12 19:29:00",
+    "created_at": "2022-05-12 19:29:38",
+    "updated_at": "2022-05-12 19:29:38",
+    "content_text": "ふくむらの部屋 第105回は、OCHA NORMAから初登場！\r\nリーダーの斉藤円香さんが来てくれました！\r\n\r\n220426_01_s.jpg\r\n\r\n番組コラボの質問企画では、\r\n朝起きた時に最初にする事、\r\n好きな飲み物を教えてくれました！\r\n\r\nメンバーカラー発表の動画で、とても喜んでいた斉藤さん。\r\nその時の心境・裏話をここではじめて発表！\r\nお互いの第一印象もお話しました！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\nメンバープロフィールに記載のある座右の銘に関する問題に挑戦！\r\nある問題に間違えてしまった斉藤さんは、番組ラストまで恐縮しっぱなしでした。\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ハロプロエッグとハロプロ研修生との違い\r\n・ライブ前の気合い入れ、過ごし方\r\nに関して語って頂きました。\r\n\r\n220426_02_s.jpg\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15123",
+        "material_title": "220426_02_s.jpg",
+        "material_file": "9facf16fc878f9405013fc64b3bc92d8863dc2ca8d93b258b7baf178f760698915123.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15124",
+        "material_title": "220426_01_s.jpg",
+        "material_file": "198ad714791d52d3ff4d98a0878aafde866b91e45ba0c6033b6e960fcc6c8f1815124.jpeg"
+      }
+    ],
+    "previous_id": "18117",
+    "next_id": "18497",
+    "saved_materials": [
+      "assets/18116_15123_220426_02_s.jpg",
+      "assets/18116_15124_220426_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 202,
+    "content_id": "21220",
+    "content_title": "工藤の家の屋根裏部屋#113～福田真琳～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-16 00:00:00",
+    "created_at": "2023-11-14 13:41:55",
+    "updated_at": "2023-11-14 13:57:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17425",
+        "material_title": "220816_s.jpg",
+        "material_file": "dde08eacb514d005b0aa6fe7a92df84b743c8cbf10e4c9089f3d6356cc4a1cc517425.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21220",
+    "content_title": "工藤の家の屋根裏部屋#113～福田真琳～",
+    "content_sub_title": "",
+    "release_date": "2022-08-16 00:00:00",
+    "created_at": "2023-11-14 13:41:55",
+    "updated_at": "2023-11-14 13:57:55",
+    "content_text": "ふくむらの部屋 第113回は、つばきファクトリー福田真琳さんが登場！\n\n・兄姉に影響受けたこと\n・曲の世界観を表す表情\nのお話からスタート！\n\n「ハロプロクイズ王」のコーナーでは、\n一つだけ間違ったメンバー情報を当てるハロプロドボンクイズに挑戦！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・バレエ経験者のダンス\n・場位置\nを語りました！\n\n後半では、\n・福田真琳の魅力\n・食のこだわり\nについてトーク！\n\n220816_s.jpg\n\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "aa23ef4f6232b237f15fc0258faa0929",
+        "material_id": "17425",
+        "material_title": "220816_s.jpg",
+        "material_file": "373ed16d854b3ed2afc27348d29d5a35f26f7b5c3e2547b394d247c34a17040117425.jpeg"
+      }
+    ],
+    "previous_id": "23361",
+    "next_id": "21221",
+    "saved_materials": [
+      "assets/21220_17425_220816_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 657,
+    "content_id": "4920",
+    "content_title": "工藤の家の天井裏#13　～人見知り～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-07-01 21:16:00",
+    "created_at": "2016-07-01 21:14:47",
+    "updated_at": "2016-07-01 21:16:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4449",
+        "material_title": "160701_2_s.jpg",
+        "material_file": "34a2f3c217fa96887a63a0576a8e8698d1a20b21e6dac32a6428b000af341bf24449.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4450",
+        "material_title": "160701_3.jpg",
+        "material_file": "799e7ecb17186019f23de88d713823ad2be7cefb1f2689f646980ede1b8c82a74450.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4920",
+    "content_title": "工藤の家の天井裏#13　～人見知り～",
+    "content_sub_title": "",
+    "release_date": "2016-07-01 21:16:00",
+    "created_at": "2016-07-01 21:14:47",
+    "updated_at": "2016-07-01 21:16:46",
+    "content_text": "事件です。\r\n「やじまの部屋やな」の番組名がまた変更となりました。\r\n詳しくは今日更新の#13をお聞き下さい。\r\n\r\n収録中に顔入れ替えアプリで遊んだ結果の写真はこちら。\r\n\r\n160701_2_s.jpg\r\n注：矢島さんと森戸さんです。\r\n\r\n意外としっくり来る…？\r\n\r\n「犯人を追え！」コーナーの似顔絵はこちら。 \r\n\r\n160701_3.jpg\r\n\r\n次回のゲストは誰が登場するでしょう。\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4449",
+        "material_title": "160701_2_s.jpg",
+        "material_file": "c82a2da0337b9ef83715a6349043fa8b5efdbaab9dfc7dc4f76aeb95e797c1e84449.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4450",
+        "material_title": "160701_3.jpg",
+        "material_file": "c997a691c4a2219ed6b11bf5ea2b7297239e0869dd2cf3c5177035cb3d3a738a4450.jpeg"
+      }
+    ],
+    "previous_id": "4990",
+    "next_id": "4919",
+    "saved_materials": [
+      "assets/4920_4449_160701_2_s.jpg",
+      "assets/4920_4450_160701_3.jpg"
+    ]
+  }
+}

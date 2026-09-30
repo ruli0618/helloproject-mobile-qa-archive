@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 32,
+    "content_id": "18915",
+    "content_title": "自然",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2022-10-14 10:00:00",
+    "created_at": "2022-10-04 20:25:05",
+    "updated_at": "2022-10-04 20:25:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15737",
+        "material_title": "1014_yamagishi_s.jpg",
+        "material_file": "2e557a9dd5e5df5fe4a87e7b559a68395c644e245f2652002edd8278fe9e6e6b15737.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18915",
+    "content_title": "自然",
+    "content_sub_title": "山岸理子",
+    "release_date": "2022-10-14 10:00:00",
+    "created_at": "2022-10-04 20:25:05",
+    "updated_at": "2022-10-04 20:25:05",
+    "content_text": "1014_yamagishi_s.jpg\r\nこの前吹割の滝に行ったときに\r\n撮った写真です！\r\n自然は癒されるので大好きです。\r\n緑と水の音最高でした！^^\r\n\r\n\r\nつばきファクトリー山岸理子",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15737",
+        "material_title": "1014_yamagishi_s.jpg",
+        "material_file": "aa0fc892a8bce7303473950a643c454a5b859c9521a356f36eeb45b63501b32915737.jpeg"
+      }
+    ],
+    "previous_id": "18917",
+    "next_id": "18877",
+    "saved_materials": [
+      "assets/18915_15737_1014_yamagishi_s.jpg"
+    ]
+  }
+}

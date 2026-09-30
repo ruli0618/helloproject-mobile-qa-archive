@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 1,
+    "content_id": "26918",
+    "content_title": "生牡蠣",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2026-09-29 10:00:00",
+    "created_at": "2026-09-24 15:21:49",
+    "updated_at": "2026-09-24 15:21:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21975",
+        "material_title": "0929_arisawa_s.jpg",
+        "material_file": "bce545499c1e40096529e9accbbea321780e54386571d23a60007c12b6bbdf9521975.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26918",
+    "content_title": "生牡蠣",
+    "content_sub_title": "有澤一華",
+    "release_date": "2026-09-29 10:00:00",
+    "created_at": "2026-09-24 15:21:49",
+    "updated_at": "2026-09-24 15:21:49",
+    "content_text": "0929_arisawa_s.jpg\r\n今強烈に生牡蠣食べたい。\r\n話変わるけど、この前眉毛半分どっかいってやばいどうしよ！！！！っていう夢見て\r\n\r\nちょーーー！！！焦って朝起きた瞬間鏡みた笑\r\n\r\nそんな夢ない？怖いやつ笑\r\n\r\n\r\n今日はいい夢見れますように！\r\n\r\n\r\nおやすみ",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21975",
+        "material_title": "0929_arisawa_s.jpg",
+        "material_file": "19d3444a158a307b5266a8e90fd0a3db3b744ac064ac6c062751293bd56429d021975.jpeg"
+      }
+    ],
+    "previous_id": "-1",
+    "next_id": "27034",
+    "saved_materials": [
+      "assets/26918_21975_0929_arisawa_s.jpg"
+    ]
+  }
+}

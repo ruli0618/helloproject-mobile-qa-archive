@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 175,
+    "content_id": "22048",
+    "content_title": "楽しみな人〜？？",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-04-23 10:00:00",
+    "created_at": "2024-04-22 19:25:05",
+    "updated_at": "2024-04-22 19:26:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18097",
+        "material_title": "0423_ishiyama_s.jpg",
+        "material_file": "b67d494ccb53a3110fa4d392ce82e8fc4a1cbe469010d93fde35693ea4ed618218097.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22048",
+    "content_title": "楽しみな人〜？？",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-04-23 10:00:00",
+    "created_at": "2024-04-22 19:25:05",
+    "updated_at": "2024-04-22 19:26:22",
+    "content_text": "0423_ishiyama_s.jpg\r\n春ツアーちょー楽しみ！\r\n皆さん来てくださいますか？？",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18097",
+        "material_title": "0423_ishiyama_s.jpg",
+        "material_file": "a653dcb1f386a52a46238f65fc13a61f111964e54c59f74ebacae6e4afe0b45218097.jpeg"
+      }
+    ],
+    "previous_id": "22049",
+    "next_id": "22040",
+    "saved_materials": [
+      "assets/22048_18097_0423_ishiyama_s.jpg"
+    ]
+  }
+}

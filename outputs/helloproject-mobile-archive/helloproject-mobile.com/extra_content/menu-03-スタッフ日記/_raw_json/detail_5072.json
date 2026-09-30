@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 654,
+    "content_id": "5072",
+    "content_title": "宣伝会議 議事録#4",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-01 20:26:00",
+    "created_at": "2016-08-01 20:28:17",
+    "updated_at": "2016-08-01 20:31:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4591",
+        "material_title": "160801_1_1.jpg",
+        "material_file": "6129496cc44bafea666ca920dbc15dca937642e02a113f5286fe1246e7c97e554591.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4592",
+        "material_title": "160801_1_2.jpg",
+        "material_file": "d898468962eba7d0dfeb0774ff1b13d9316bc4a414271a4a81fa1d8b8d59b5a74592.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4593",
+        "material_title": "160801_1_3.jpg",
+        "material_file": "fcbf194f5ef7eaa701bb11a5955373ff6152b31e9a7e56ee20bb2719ded292894593.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5072",
+    "content_title": "宣伝会議 議事録#4",
+    "content_sub_title": "",
+    "release_date": "2016-08-01 20:26:00",
+    "created_at": "2016-08-01 20:28:17",
+    "updated_at": "2016-08-01 20:31:49",
+    "content_text": "4回目のハロ！モバ宣伝会議が先日行われました！\r\n野中美希がお仕事の為欠席となりましたが、皆さん会議の様子はお楽しみいただけましたでしょうか。\r\n\r\n\r\n今回は尾形春水と梁川奈々美の洋服がボーダーでお揃いになり、工藤部長は仲間はずれ？な状態でしたが、和気あいあいと楽しく会議を行っていました！\r\n\r\n160801_1_1.jpg\r\n\r\nそして、工藤部長自らモーニング娘。’16メンバーによる妄想動画をたくさん撮影してきてくれました！\r\n公開までお楽しみに！！\r\nさらに前回の会議は欠席だった梁川奈々美の妄想動画も撮影しましたので、どんな動画か楽しみにしていて下さい！\r\n\r\n160801_1_2.jpg\r\n\r\n\r\n今回の尾形書記のメモはこちら！\r\n\r\n160801_1_3.jpg\r\n\r\nまだまだハロ！モバを広めるべくみんな頑張っていますので、引き続き応援宜しくお願いします！\r\n\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4591",
+        "material_title": "160801_1_1.jpg",
+        "material_file": "3e96d47edffb3b3278a58eaa819d4f1625f4cf0a8d5549686d17cecf7fc9b2d24591.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4592",
+        "material_title": "160801_1_2.jpg",
+        "material_file": "368c8f8b9b81175adfcb353275f4e13ebb0dd38cad92418e0e651ceda1c4ff344592.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4593",
+        "material_title": "160801_1_3.jpg",
+        "material_file": "af8cbb459f5e5089d793d84fe3af76a6cf9522c41419dbbc9342e33122e6d2154593.jpeg"
+      }
+    ],
+    "previous_id": "5073",
+    "next_id": "5048",
+    "saved_materials": [
+      "assets/5072_4591_160801_1_1.jpg",
+      "assets/5072_4592_160801_1_2.jpg",
+      "assets/5072_4593_160801_1_3.jpg"
+    ]
+  }
+}

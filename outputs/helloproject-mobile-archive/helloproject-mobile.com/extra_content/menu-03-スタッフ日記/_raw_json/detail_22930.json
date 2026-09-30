@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 110,
+    "content_id": "22930",
+    "content_title": "工藤の家の軒下#5～段原瑠々～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-02-13 00:00:00",
+    "created_at": "2024-09-21 05:29:57",
+    "updated_at": "2024-09-21 06:41:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18778",
+        "material_title": "240213_01_s.jpg",
+        "material_file": "46ad788636d2cad1645ae83e6bf2407ce7c5c74e702fcbb484b85c789662881718778.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18779",
+        "material_title": "240213_02_s.jpg",
+        "material_file": "ef59e874f08ab6be40fb774aaa7f7c0297e9670586324e21d9d3debae0bcea0418779.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22930",
+    "content_title": "工藤の家の軒下#5～段原瑠々～",
+    "content_sub_title": "",
+    "release_date": "2024-02-13 00:00:00",
+    "created_at": "2024-09-21 05:29:57",
+    "updated_at": "2024-09-21 06:41:02",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第4回は、あこがれの先輩Juice=Juice段原瑠々さんがゲストに来てくれました！\r\n\r\n240213_02_s.jpg\r\n\r\n・楽屋の過ごし方\r\n・Juice=Juiceベストライブ\r\n・経験してほしいこと\r\n・オーディション\r\n・やってみたいこと\r\n・段原美容室\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・仲良くなってきたメンバー\r\n・花粉症\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\nピアノ、お弁当作り、乗り越えたエピソード、草野球チームについて紹介しました！\r\n\r\n後半では、\r\n・るるごはん\r\n・歌ってほしい曲\r\n・悩み相談\r\n・連絡先交換\r\n・カバーしたいところ\r\n・歌\r\n・段原瑠々の好きなところ\r\n・相棒\r\nについてトーク！\r\n\r\n240213_01_s.jpg\r\n\r\n次回は、つばきファクトリー豫風瑠乃さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18778",
+        "material_title": "240213_01_s.jpg",
+        "material_file": "6a32bdb5c4bac8763eb2343d9dc3a1ab3a2a05591b245579fae97fc1efa7b69118778.jpeg"
+      },
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18779",
+        "material_title": "240213_02_s.jpg",
+        "material_file": "c2cb1317d60890e5b9bdbc7fd5a1770c7097b6cf518cd01fcb36f37f53799dc318779.jpeg"
+      }
+    ],
+    "previous_id": "23379",
+    "next_id": "22929",
+    "saved_materials": [
+      "assets/22930_18778_240213_01_s.jpg",
+      "assets/22930_18779_240213_02_s.jpg"
+    ]
+  }
+}

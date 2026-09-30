@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 550,
+    "content_id": "13718",
+    "content_title": "弟の部屋から！",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2020-04-30 14:00:00",
+    "created_at": "2020-04-30 13:56:41",
+    "updated_at": "2020-04-30 13:56:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11471",
+        "material_title": "0430_kudo_S.jpg",
+        "material_file": "07ad32446de34b2cd1769a3d25d439b4acecca6a4ecb3a61023f8655f18c7d4d11471.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "13718",
+    "content_title": "弟の部屋から！",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2020-04-30 14:00:00",
+    "created_at": "2020-04-30 13:56:41",
+    "updated_at": "2020-04-30 13:56:41",
+    "content_text": "0430_kudo_S.jpg\r\n弟の部屋の片付けをした時に、ぽつんと床に落ちていたカードを裏返したら！！\r\nなんだか運命というか、嬉しい気持ちになりました(∩´∀`∩)",
+    "materials": [
+      {
+        "secretKey": "b197310330babf83d23ee4313b563295",
+        "material_id": "11471",
+        "material_title": "0430_kudo_S.jpg",
+        "material_file": "e4e98a4c4962c047d31b52aa82866f92d2b9e727bc20a8fbd846ee6c7b3b7bb511471.jpeg"
+      }
+    ],
+    "previous_id": "13719",
+    "next_id": "13658",
+    "saved_materials": [
+      "assets/13718_11471_0430_kudo_S.jpg"
+    ]
+  }
+}

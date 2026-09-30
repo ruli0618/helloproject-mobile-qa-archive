@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 131,
+    "content_id": "15638",
+    "content_title": "サラダ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-03-12 12:12:00",
+    "created_at": "2021-03-12 12:14:40",
+    "updated_at": "2021-03-12 12:14:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13021",
+        "material_title": "210312_ono_s.jpg",
+        "material_file": "3ce4fb826a339acccc3b25a993e62316b6f90b0b8b412696298057e66f86d66913021.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15638",
+    "content_title": "サラダ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-03-12 12:12:00",
+    "created_at": "2021-03-12 12:14:40",
+    "updated_at": "2021-03-12 12:14:40",
+    "content_text": "210312_ono_s.jpg\r\n\r\nいつかのお昼ご飯に\r\n食べたサラダ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nおいしかった〜！\r\n\r\n野菜がたっくさんとれて\r\nからだもよろこんでるはずです<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13021",
+        "material_title": "210312_ono_s.jpg",
+        "material_file": "22e0f7a4066e21e234910f085a12cbedffce49afb48f4e98b2bb5d477285baf413021.jpeg"
+      }
+    ],
+    "previous_id": "15643",
+    "next_id": "15597",
+    "saved_materials": [
+      "assets/15638_13021_210312_ono_s.jpg"
+    ]
+  }
+}

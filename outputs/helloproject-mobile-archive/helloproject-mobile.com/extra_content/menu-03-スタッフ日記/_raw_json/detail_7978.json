@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 552,
+    "content_id": "7978",
+    "content_title": "隣のやじまん家の塀の裏#10 清水佐紀",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-22 21:25:00",
+    "created_at": "2017-11-22 21:19:49",
+    "updated_at": "2017-11-22 21:25:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7040",
+        "material_title": "171122_2_s.jpg",
+        "material_file": "b8bbfbf4c9625bb9a7d64d258ea309c22470f6bccb8db5f65d29f9acc3baa3887040.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7041",
+        "material_title": "171122_1_s.jpg",
+        "material_file": "994e28a76c8b49cfda2effea5b2b032030712a1bdea8da375c615d43a31de08a7041.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7978",
+    "content_title": "隣のやじまん家の塀の裏#10 清水佐紀",
+    "content_sub_title": "",
+    "release_date": "2017-11-22 21:25:00",
+    "created_at": "2017-11-22 21:19:49",
+    "updated_at": "2017-11-22 21:25:13",
+    "content_text": "「隣のやじまん家」第10回配信しています！\r\n\r\n今回は「くじ引きトーク」はお休みで、メールを沢山読ませて頂きました。\r\n\r\n夕食にピザを食べながら、リラックスした雰囲気で収録が行われた今回。\r\n\r\n清水さんのアドバイザー時代の話から、\r\n2年半ぶりに活動再開を迎えた裏話、\r\n11月末にスタートする2人が出演する舞台について等など\r\n姉妹である2人の愛犬の話も盛り上がりました。\r\n\r\n171122_1_s.jpg\r\nこのポーズは爆笑が巻き起こったあのシーン…？\r\n\r\n171122_2_s.jpg\r\n小学生時代に矢島さんから手渡された、このお守りを開ける時は…？\r\n\r\n詳しくは、番組をお聴き下さい！\r\n\r\n「今月のハッピーバースデー♪」は、12月お誕生日を迎える方からのお便りを大募集！\r\n「くじ引きトーク」・「普通のお便り」メールもお待ちしています。\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7040",
+        "material_title": "171122_2_s.jpg",
+        "material_file": "4a3eea257ace8ede0fb3dcc880e54b2a3ba2aace433988efab3e3f9580ba81027040.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7041",
+        "material_title": "171122_1_s.jpg",
+        "material_file": "55add9a11f0a193b49f84fde4424d9593975301eaa0f9588e2cee8c89dfa61cb7041.jpeg"
+      }
+    ],
+    "previous_id": "8010",
+    "next_id": "7968",
+    "saved_materials": [
+      "assets/7978_7040_171122_2_s.jpg",
+      "assets/7978_7041_171122_1_s.jpg"
+    ]
+  }
+}

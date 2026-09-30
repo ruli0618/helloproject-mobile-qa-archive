@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 365,
+    "content_id": "16803",
+    "content_title": "ハッピーハロウィーン！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-10-04 10:00:00",
+    "created_at": "2021-09-21 20:54:10",
+    "updated_at": "2022-01-17 14:40:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "14014",
+        "material_title": "0929_satoyoshi_s.jpg",
+        "material_file": "40585e11bc5c1f640dbf6b1b332d3be30e4d67b4e620efc6a534fe0fb447897f14014.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16803",
+    "content_title": "ハッピーハロウィーン！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-10-04 10:00:00",
+    "created_at": "2021-09-21 20:54:10",
+    "updated_at": "2022-01-17 14:40:55",
+    "content_text": "0929_satoyoshi_s.jpg\nハロウィーングッズのお衣装！\n私の中ではとっっても珍しいオレンジメインです！♡\n魔法使いなのでちょっと鮮やかなリップにピンヒールで大人っぽく見えるかなぁ？\n\n【14周目お題：全身】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "14014",
+        "material_title": "0929_satoyoshi_s.jpg",
+        "material_file": "b24fcedd056f3911d736cb551258ecc8024ad5ecdbf16152c1686a7e0191946014014.jpeg"
+      }
+    ],
+    "previous_id": "16805",
+    "next_id": "16802",
+    "saved_materials": [
+      "assets/16803_14014_0929_satoyoshi_s.jpg"
+    ]
+  }
+}

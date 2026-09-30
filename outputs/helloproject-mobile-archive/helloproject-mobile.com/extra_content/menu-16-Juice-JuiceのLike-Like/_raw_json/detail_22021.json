@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 179,
+    "content_id": "22021",
+    "content_title": "さかなの日",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2024-04-04 00:00:00",
+    "created_at": "2024-04-08 18:22:18",
+    "updated_at": "2024-04-08 18:22:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18078",
+        "material_title": "0409_kudo_s.jpg",
+        "material_file": "40364bbf3a35487619ef57c93725d331796bdc322f613a1a41960779b5474d1518078.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22021",
+    "content_title": "さかなの日",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2024-04-04 00:00:00",
+    "created_at": "2024-04-08 18:22:18",
+    "updated_at": "2024-04-08 18:22:18",
+    "content_text": "0409_kudo_s.jpg\r\n毎月3日から7日はさかなの日ということで、皆さんの食卓におさかなが並んでいたらいいなぁと思いながら、\r\n\r\n私はじゃんじゃん、明日食べたいおさかななどなど、候補を上げまくっています！\r\n\r\n3日から7日にその候補が収まりきるはずもないので、嬉し困りしてます♪",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "18078",
+        "material_title": "0409_kudo_s.jpg",
+        "material_file": "21fde17354d74a0bdeb7c63a445e471bd311099c9a8c62b9cecff93fe9f4390d18078.jpeg"
+      }
+    ],
+    "previous_id": "22022",
+    "next_id": "21977",
+    "saved_materials": [
+      "assets/22021_18078_0409_kudo_s.jpg"
+    ]
+  }
+}

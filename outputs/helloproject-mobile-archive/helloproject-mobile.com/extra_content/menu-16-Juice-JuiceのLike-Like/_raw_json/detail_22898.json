@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 135,
+    "content_id": "22898",
+    "content_title": "花と！！",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2024-09-19 21:24:00",
+    "created_at": "2024-09-19 21:24:50",
+    "updated_at": "2024-09-19 21:24:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18741",
+        "material_title": "0919_endo_s.jpg",
+        "material_file": "859fca6257f74884d76a3d1315245e70d9cfef356bf352f904e37d61bc8c2e2d18741.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22898",
+    "content_title": "花と！！",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2024-09-19 21:24:00",
+    "created_at": "2024-09-19 21:24:50",
+    "updated_at": "2024-09-19 21:24:50",
+    "content_text": "0919_endo_s.jpg\r\nこんにちは☼\r\n川嶋美楓です\r\n先日アンジュルムの後藤花ちゃんと遊びました♡⃛\r\n本当にたのしかったです♡\r\n一生口角が上がってました笑\r\n写真は花が撮ってくれた写真です\r\nそれでは\r\nミフ",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18741",
+        "material_title": "0919_endo_s.jpg",
+        "material_file": "3430ae31317e632ed7c2112207c7091485381a7c68206d5447d238ac63933e0318741.jpeg"
+      }
+    ],
+    "previous_id": "22948",
+    "next_id": "22895",
+    "saved_materials": [
+      "assets/22898_18741_0919_endo_s.jpg"
+    ]
+  }
+}

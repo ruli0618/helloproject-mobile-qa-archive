@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 250,
+    "content_id": "17433",
+    "content_title": "宣伝会議#67",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 23:09:00",
+    "created_at": "2021-12-31 23:10:38",
+    "updated_at": "2021-12-31 23:31:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14560",
+        "material_title": "221231_s67_04_s.jpg",
+        "material_file": "65c0edce29eedde3d3c2c2a7c6cfe1ee96c91e403acf11bdbf106bea55680b0214560.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14561",
+        "material_title": "221231_s67_03_s.jpg",
+        "material_file": "426a79c805bb4d691bc6f6c18c580251b41ebeb360dca7a746863496bcc256b414561.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14562",
+        "material_title": "221231_s67_02_s.jpg",
+        "material_file": "297c388d67057f9783b0fc998e17cf7c22fe64df09eeda82d916db3aecb382ba14562.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14563",
+        "material_title": "221231_s67_01_s.jpg",
+        "material_file": "a5d2f64528ed528b280c7ce4b72ec5cd1b05372788321c3de25a228a32dafb1514563.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17433",
+    "content_title": "宣伝会議#67",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 23:09:00",
+    "created_at": "2021-12-31 23:10:38",
+    "updated_at": "2021-12-31 23:31:27",
+    "content_text": "宣伝会議第67回は、宣伝部員3名全員揃っての収録！\n普段の会議室とは違った場所からお送りしております。\n\nそして今回の収録から野中部長の提案により、前編後編の月2回更新に分けてお送りする事となりました。\n\n221231_s67_01_s.jpg\n\nまずは、誕生日に嬉しいことやバースデーイベント、同期の思い、\nソロフェス！2MVP発表時の裏話についてトーク！\n昨年MVPの川村さんの時との違いもありましたね。\n\n川村さんがテレビ番組「アウト×デラックス」に出演した際のお話や、\n続・花鳥風月で見てほしいところ、\nコンビニで買うもの、\n遊園地の思い出、\nシーンごとに聴きたいプレイリストも！\n\n221231_s67_03_s.jpg\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「江口紗耶」さんについて紹介！\n社交的な人柄が感じられる江口さんをより深く知る事ができました！\n\nその他にも、勘違いしてしまったエピソード、\nグループでの発声練習の違い、\n続・花鳥風月での楽屋の過ごし方、\n毎日チェックするもの、\nマルチタスクをこなすコツに関してもトークを繰り広げました。\n\n↓議事録はこちら！\n221231_s67_04_s.jpg\n\n221231_s67_02_s.jpg\n\nぜひ、お聴き下さい♪",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14560",
+        "material_title": "221231_s67_04_s.jpg",
+        "material_file": "96ae8d56f80651f52ad0a01129f71ca6aefb46c19c0a789a41aa03506c93759214560.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14561",
+        "material_title": "221231_s67_03_s.jpg",
+        "material_file": "be25289d24bdfb0e362a5bd79d867ecc7b65c9f5cccfdcb5867623356258504514561.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14562",
+        "material_title": "221231_s67_02_s.jpg",
+        "material_file": "44a1f8ace579fca20c0e5e3ba60aa7dbe71f603fe2df0ffaf1adf6398028ee3c14562.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14563",
+        "material_title": "221231_s67_01_s.jpg",
+        "material_file": "945b62b7c7daee7bcd61310570317b2afa23a051aff2368e7a1ff4505d4ea63414563.jpeg"
+      }
+    ],
+    "previous_id": "17434",
+    "next_id": "17432",
+    "saved_materials": [
+      "assets/17433_14560_221231_s67_04_s.jpg",
+      "assets/17433_14561_221231_s67_03_s.jpg",
+      "assets/17433_14562_221231_s67_02_s.jpg",
+      "assets/17433_14563_221231_s67_01_s.jpg"
+    ]
+  }
+}

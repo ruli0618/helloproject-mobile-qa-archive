@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 29,
+    "content_id": "25830",
+    "content_title": "春だ！！！(#^.^#)",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2026-03-05 10:00:00",
+    "created_at": "2026-02-26 00:07:57",
+    "updated_at": "2026-02-26 00:07:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21123",
+        "material_title": "0306_kawashima_s.jpg",
+        "material_file": "72023994f96839130f330cd95cfc9031722a093be67aa9b832642c883c466d2621123.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25830",
+    "content_title": "春だ！！！(#^.^#)",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2026-03-05 10:00:00",
+    "created_at": "2026-02-26 00:07:57",
+    "updated_at": "2026-02-26 00:07:57",
+    "content_text": "0306_kawashima_s.jpg\r\nやっほほほ\r\nみふです！\r\n最近春を超超感じます！\r\nけっこう暖かいし眠いし、花粉飛んでるし、春の匂いするし、お花がより綺麗だし、街がなんか新しい感覚がするんですよねーー！\r\n\r\n新生活や新学期が始まったりもするよね\r\nずっと全力応援してるよん^ᴗ ̫ ᴗ^♡\r\n\r\n春楽しもうね\r\n\r\nじゃあ！みふより",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21123",
+        "material_title": "0306_kawashima_s.jpg",
+        "material_file": "f6226fd4b4d6290a41eee22b32592353a55c2b7bc2c04658111ac9c12d6ab2d121123.jpeg"
+      }
+    ],
+    "previous_id": "25862",
+    "next_id": "25829",
+    "saved_materials": [
+      "assets/25830_21123_0306_kawashima_s.jpg"
+    ]
+  }
+}

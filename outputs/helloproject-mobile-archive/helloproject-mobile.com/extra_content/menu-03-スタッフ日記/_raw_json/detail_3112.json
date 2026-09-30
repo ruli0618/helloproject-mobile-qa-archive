@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 717,
+    "content_id": "3112",
+    "content_title": "祝！メジャーデビュー",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-03 18:00:00",
+    "created_at": "2015-09-03 17:50:22",
+    "updated_at": "2015-09-03 18:37:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2927",
+        "material_title": "150903_stfdiary_01.jpg",
+        "material_file": "e1e03b26debecbf991ac11664e6e1f6a6d631708c92aea0e0e8153524f788f712927.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2928",
+        "material_title": "150903_stfdiary_02.jpg",
+        "material_file": "380bca6922d1944cb5ae0b9b5d365a42a3e12babfa94d2c6297ffffade557ce82928.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3112",
+    "content_title": "祝！メジャーデビュー",
+    "content_sub_title": "",
+    "release_date": "2015-09-03 18:00:00",
+    "created_at": "2015-09-03 17:50:22",
+    "updated_at": "2015-09-03 18:37:18",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n \n2015年9月2日\nこぶしファクトリーのメジャーデビューシングル「ドスコイ！ケンキョにダイタン／ラーメン大好き小泉さんの唄／念には念（念入りVer.）」が発売されました！\n \nさらに、メジャーデビュー当日の9月2日、\n発売を記念したイベントを東京・ららぽーと豊洲にて行い、たくさんの方にお越しいただきました。\nありがとうございました。\n \n150903_stfdiary_01.jpg\n \n \nリハーサルから思わず感極まってしまったメンバーも居ましたが、\nデビュー曲3曲に、Berryz工房の「愛の弾丸」を加えた、4曲をしっかりと披露。\n \nイベントには、デビュー曲の1つ「ドスコイ！ケンキョにダイタン」にちなみ\n大相撲・鳴戸親方と琴奨菊関にも応援に駆けつけていただき、大盛り上がりとなりました。\n \n \nメジャーデビューと言えども、ここからがまた新しいスタート！\nこぶしファクトリーの応援、よろしくお願いします！！\n \n150903_stfdiary_02.jpg",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2927",
+        "material_title": "150903_stfdiary_01.jpg",
+        "material_file": "9a309092262866230ba78eeb24ed26f59c5e33f6bc133cc3cf05f056d86899e42927.jpeg"
+      },
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2928",
+        "material_title": "150903_stfdiary_02.jpg",
+        "material_file": "e703a5db8b82eabe42da083b4eeb13537071a759fc3a31f6a113c136f4e68f512928.jpeg"
+      }
+    ],
+    "previous_id": "3118",
+    "next_id": "3027",
+    "saved_materials": [
+      "assets/3112_2927_150903_stfdiary_01.jpg",
+      "assets/3112_2928_150903_stfdiary_02.jpg"
+    ]
+  }
+}

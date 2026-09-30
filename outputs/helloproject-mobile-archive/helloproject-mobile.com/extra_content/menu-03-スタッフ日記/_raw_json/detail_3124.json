@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 714,
+    "content_id": "3124",
+    "content_title": "UP-FRONT CHANNEL Recommend #21",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-09-11 19:00:00",
+    "created_at": "2015-09-11 19:03:56",
+    "updated_at": "2015-11-19 11:00:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2940",
+        "material_title": "4406.jpg",
+        "material_file": "0cba2257bc278d53103ce8df60ca4b681ca67328084210c47c9cf27052b9312d2940.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3124",
+    "content_title": "UP-FRONT CHANNEL Recommend #21",
+    "content_sub_title": "",
+    "release_date": "2015-09-11 19:00:00",
+    "created_at": "2015-09-11 19:03:56",
+    "updated_at": "2015-11-19 11:00:56",
+    "content_text": "みなさん、こんにちは！\nハロ！プロモバイルスタッフです。\n\nみなさま、『UP-FRONT CHANNEL Recommend』という番組はご覧いただけておりますでしょうか？\n\nアップフロントグループ内のおすすめ情報をご紹介する、この番組。\n\n月に2回、Youtubeのアップフロントチャンネルにて、更新されています。\n<span style=\"word-break: break-word\">\n<a href=\"https://www.youtube.com/user/upfrontchannel\" target=\"_blank\"><font color=\"#0000ff\"><u>https://www.youtube.com/user/upfrontchannel</u></font></a>\n</span>\n\n\nその#21が本日18時に更新！\n\nこの番組のMCは、各グループのリーダーと、ハロプロ研修生が担当。\n\n\n今回のMCは・・・！\n\nカントリー・ガールズ Playing Manager 嗣永桃子　と、\nハロプロ研修生 加賀楓　です。\n\nハロー！プロジェクトのおすすめ情報もたっぷりとご紹介してますので、お見逃し無く！\n\n\nBreak Timeの前に1枚♪\n\n4406.jpg\n\n～Break Time後の一幕～\n嗣「加賀ちゃんのケーキ一口ちょうだい！」\n加「どうぞ！」\n嗣「ありがとう！加賀ちゃんもこっち食べる？」\n加「大丈夫です。」\n嗣「いいの～？我慢しなくていいんだよ～♪」\n加「だ…だいじょうぶです。」\n\n",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2940",
+        "material_title": "4406.jpg",
+        "material_file": "def9e37a3953482ad4ebe7174c5bd5f9e303fe41e291c72c321de7f0a9f3b60b2940.jpeg"
+      }
+    ],
+    "previous_id": "3150",
+    "next_id": "3119",
+    "saved_materials": [
+      "assets/3124_2940_4406.jpg"
+    ]
+  }
+}

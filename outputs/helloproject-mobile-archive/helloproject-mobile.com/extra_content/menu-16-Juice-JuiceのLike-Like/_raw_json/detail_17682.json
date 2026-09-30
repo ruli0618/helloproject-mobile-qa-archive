@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 392,
+    "content_id": "17682",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2022-02-24 10:00:00",
+    "created_at": "2022-02-17 22:23:15",
+    "updated_at": "2022-02-17 22:23:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14753",
+        "material_title": "0224_dambara_s.jpg",
+        "material_file": "cdccfdef7027b3e7a68ac1afede7264f5b47ebfd67c070874a8a2dd7f4ee219214753.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17682",
+    "content_title": "メンバーカラー",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2022-02-24 10:00:00",
+    "created_at": "2022-02-17 22:23:15",
+    "updated_at": "2022-02-17 22:23:15",
+    "content_text": "0224_dambara_s.jpg\r\nメンバーカラー、みんな似合っててしっくりきます<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\nカラフルかわいい<img src=\"/emoji/emoji-images/f378.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14753",
+        "material_title": "0224_dambara_s.jpg",
+        "material_file": "7c175324ac9cd15fa08517bb998fd50b10e46d4fd513c1f02501da0c91cf3b7814753.jpeg"
+      }
+    ],
+    "previous_id": "17748",
+    "next_id": "17669",
+    "saved_materials": [
+      "assets/17682_14753_0224_dambara_s.jpg"
+    ]
+  }
+}

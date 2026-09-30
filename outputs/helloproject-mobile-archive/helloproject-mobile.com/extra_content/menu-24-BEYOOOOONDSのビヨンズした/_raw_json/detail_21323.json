@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 217,
+    "content_id": "21323",
+    "content_title": "すきな",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-01-01 10:00:00",
+    "created_at": "2023-11-30 18:56:38",
+    "updated_at": "2023-11-30 18:56:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17532",
+        "material_title": "240101_kiyono_s.jpg",
+        "material_file": "33acc6e8c8efd5c17bd06db75ac2c86e3a48c25ada43e7640ad00a932cfa255617532.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21323",
+    "content_title": "すきな",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-01-01 10:00:00",
+    "created_at": "2023-11-30 18:56:38",
+    "updated_at": "2023-11-30 18:56:38",
+    "content_text": "240101_kiyono_s.jpg\r\n長さでした...やばい...また伸ばしたくなってきてしまった....\r\n\r\n【30周目お題：好き！】",
+    "materials": [
+      {
+        "secretKey": "4f33116813b24bdb1df518f3397096cf",
+        "material_id": "17532",
+        "material_title": "240101_kiyono_s.jpg",
+        "material_file": "47a650c3b6d511fc1578d3c1dfe6a09faf98fa7b7249cd638abee191b881aa5217532.jpeg"
+      }
+    ],
+    "previous_id": "21324",
+    "next_id": "21322",
+    "saved_materials": [
+      "assets/21323_17532_240101_kiyono_s.jpg"
+    ]
+  }
+}

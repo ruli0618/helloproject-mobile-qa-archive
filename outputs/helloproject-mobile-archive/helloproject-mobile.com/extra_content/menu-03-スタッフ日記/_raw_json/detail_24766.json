@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 145,
+    "content_id": "24766",
+    "content_title": "みよちゃん家の縁側の猫#29 豫風瑠乃",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-06-06 00:00:00",
+    "created_at": "2025-08-06 15:49:53",
+    "updated_at": "2025-08-06 15:51:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20237",
+        "material_title": "250806_02.jpg",
+        "material_file": "1b5d80d355ad8e751d1acd7f37dcd534d17c21837ac49d8cd36cb5853ac73fcc20237.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20238",
+        "material_title": "250806_01.jpg",
+        "material_file": "e0f3bf7a854af88bef59665f9947b84ea3cb4b91f91ea65fc1334a8f77f7bf6f20238.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24766",
+    "content_title": "みよちゃん家の縁側の猫#29 豫風瑠乃",
+    "content_sub_title": "",
+    "release_date": "2023-06-06 00:00:00",
+    "created_at": "2025-08-06 15:49:53",
+    "updated_at": "2025-08-06 15:51:43",
+    "content_text": "「みよちゃん家の縁側」#29配信中です！\n第29回ゲストは、つばきファクトリー豫風瑠乃さん！\n\n250806_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①よっふぅ～\n②牛タン定食\n③リトルキャメリア\n④黒ひげ危機一髪\n\n\n「演技してみよ～！」のコーナーでは、\n「妖怪ルノルノ」、「女装コンテストさん」の2本をお届けしました。\n\n\n豫風さんから平井さんにダンスの相談、同期に影響を受けたこと、夏フェスへの意気込みも！\n今年のアツイ夏もつばきファクトリー/BEYOOOOONDSと一緒に楽しんでくださいね♪\n\nその他にもたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250806_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、Juice=Juice 入江里咲さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20237",
+        "material_title": "250806_02.jpg",
+        "material_file": "a7fd8677f9e8b22a80f5b2e2b8336795782460e0c503f36c10feff484114d45320237.jpeg"
+      },
+      {
+        "secretKey": "d2f9b62e4f52ebb502871a7f537b3fe0",
+        "material_id": "20238",
+        "material_title": "250806_01.jpg",
+        "material_file": "97738913924a6e4ba871301ee98983e02858ee291ed3bee899b2f077f52d636f20238.jpeg"
+      }
+    ],
+    "previous_id": "21243",
+    "next_id": "21241",
+    "saved_materials": [
+      "assets/24766_20237_250806_02.jpg",
+      "assets/24766_20238_250806_01.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 146,
+    "content_id": "7456",
+    "content_title": "夢の国にて〜！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2017-09-07 16:33:00",
+    "created_at": "2017-09-07 16:32:30",
+    "updated_at": "2017-09-07 16:33:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "6567",
+        "material_title": "170907_ono_s.jpg",
+        "material_file": "a7fe398ffea5456b2908d8568f14fa62f9ca789e1f921b2eb7ce0d3b9ec7703e6567.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "7456",
+    "content_title": "夢の国にて〜！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2017-09-07 16:33:00",
+    "created_at": "2017-09-07 16:32:30",
+    "updated_at": "2017-09-07 16:33:30",
+    "content_text": "みなさんこんにちは<img src=\"/emoji/emoji-images/476a.gif\"/>\r\n\r\n小野瑞歩です<img src=\"/emoji/emoji-images/f6bf.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\n\r\nハナモヨウ3回目〜！\r\n\r\n今日のお花は、、、\r\n\r\n前田こころちゃんと夢の国に行った時に見つけた\r\n\r\nお花の写真です！<img src=\"/emoji/emoji-images/f44d.gif\"/>\r\n\r\n170907_ono_s.jpg\r\n\r\n一緒に手でお花も作りました〜<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nこの日は小さくて可愛いお花をたくさん見つけたよ！\r\n\r\nまた行きたいな〜。\r\n\r\nそれではまた( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "d890e0cb1cb3063a849628cf4d2386fb",
+        "material_id": "6567",
+        "material_title": "170907_ono_s.jpg",
+        "material_file": "32552d1ea36631672ee4421bd5fa6b24aaddd2cb0ccb800c06a6e9c1ffae0cc06567.jpeg"
+      }
+    ],
+    "previous_id": "7498",
+    "next_id": "7326",
+    "saved_materials": [
+      "assets/7456_6567_170907_ono_s.jpg"
+    ]
+  }
+}

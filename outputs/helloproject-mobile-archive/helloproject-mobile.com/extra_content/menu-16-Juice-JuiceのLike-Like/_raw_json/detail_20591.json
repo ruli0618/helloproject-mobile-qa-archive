@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 246,
+    "content_id": "20591",
+    "content_title": "バースデーイベント",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-07-27 10:00:00",
+    "created_at": "2023-07-26 16:44:32",
+    "updated_at": "2023-07-26 16:44:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16972",
+        "material_title": "0727_ebata_s.jpg",
+        "material_file": "3a3def67c26d98582205525f318e2573cbdc789612b0c996dbb839523fe3b08f16972.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20591",
+    "content_title": "バースデーイベント",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-07-27 10:00:00",
+    "created_at": "2023-07-26 16:44:32",
+    "updated_at": "2023-07-26 16:44:32",
+    "content_text": "やほえば\r\n\r\n\r\n江端妃咲だよーーーん\r\n\r\n\r\n\r\n\r\n先日井上さんのバースデーイベントに行きました〜\r\n\r\nかっこうよくて可愛くて、刺激うけまくりでした！！\r\n\r\n\r\n私は来年のバースデーイベントまではあとまだまだ時間あると思うけど\r\n\r\n\r\nもうそろそろ曲決めて練習しようかな〜\r\n\r\n\r\n何歌おう！\r\n\r\n\r\n声出し出来るようになったから、格好良い曲とか盛り上がる曲歌いたいねー！\r\n\r\n\r\n楽しみになってきた！\r\n\r\n\r\n\r\n0727_ebata_s.jpg\r\n\r\n\r\nそういえば久しぶりにタピオカ飲もうと思ったら、タピオカなかったから\r\n\r\n\r\nチョコレートミルク飲んだ！\r\n\r\n\r\n美味しかった〜\r\n\r\n\r\n\r\n\r\n\r\nじゃあね〜",
+    "materials": [
+      {
+        "secretKey": "9ed02a745e9125ff252fa13ebc2a45fe",
+        "material_id": "16972",
+        "material_title": "0727_ebata_s.jpg",
+        "material_file": "9c642db37815aae1b15e474849bf584cad8a90715090398eb6c6a268a8fbbd6816972.jpeg"
+      }
+    ],
+    "previous_id": "20625",
+    "next_id": "20557",
+    "saved_materials": [
+      "assets/20591_16972_0727_ebata_s.jpg"
+    ]
+  }
+}

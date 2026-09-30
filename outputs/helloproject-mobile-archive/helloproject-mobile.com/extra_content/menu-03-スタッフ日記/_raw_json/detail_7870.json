@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 563,
+    "content_id": "7870",
+    "content_title": "工藤の家の屋根裏部屋#10 ～宮本佳林～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-02 17:02:00",
+    "created_at": "2017-11-02 17:07:24",
+    "updated_at": "2017-11-02 17:08:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6928",
+        "material_title": "1711022_s.jpg",
+        "material_file": "8246e64e479a615d04bda64119cd81e80fc36689a00b48263f39055eb994dfdf6928.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6929",
+        "material_title": "1711021_s.jpg",
+        "material_file": "bab403046697ff47d0d66197c13a05f9e98982b4301f10cadabc2a56f0e5e74c6929.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7870",
+    "content_title": "工藤の家の屋根裏部屋#10 ～宮本佳林～",
+    "content_sub_title": "",
+    "release_date": "2017-11-02 17:02:00",
+    "created_at": "2017-11-02 17:07:24",
+    "updated_at": "2017-11-02 17:08:34",
+    "content_text": "「ふくむらの部屋」10回目の配信が開始しました！\r\nお聴きいただけましたでしょうか？\r\n\r\nゲストはJuice=Juiceから宮本佳林さんが登場です！\r\n\r\n\r\n1711021_s.jpg\r\n\r\nこうして2人で話すのは久しぶり！と収録が始まる前から大盛り上がり\r\n思い出話から、譜久村さんも驚きの宮本さんの近況など会話が止まりません！\r\n\r\n\r\n「みずき先生のハロプロ講座」\r\n海外公演で感じたこと、歌うこととは。\r\nこれからのハロー！プロジェクト。\r\nエッグ時代からの付き合いの2人の聞き応えある真面目な内容と思ったら、、\r\nもちろん宮本さんの大好きな“あのメンバー”についても熱ーく語っています！\r\n\r\n\r\n1711022_s.jpg\r\n\r\n\r\n「新企画のコーナー」\r\nたくさんの楽しい新企画案をありがとうございます！\r\n次回は頂いた企画の中からお試しで「みずきのハロプロNo.1」をおこないます。\r\n\r\nこちらはリスナーの方から頂いたお題について\r\n譜久村＆ゲストが一番だと思うハロプロメンバーを選ぶコーナー\r\n\r\n例題\r\n・一緒にユニットを組みたいハロプロメンバーのナンバーワンは？\r\n・カラオケに行ってみたいハロプロメンバーのナンバーワンは？　などなど\r\n\r\nたくさんのお題をお待ちしております！\r\n\r\n\r\nそしてそして、次回のゲストはアンジュルムより竹内朱莉さんがゲストに登場です\r\nお楽しみに！！\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのハロプロNo.1」\r\n普通のお便りも募集中！\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6928",
+        "material_title": "1711022_s.jpg",
+        "material_file": "b7d6a9c445175c9a7c7226541a0469b2e6ee97da8622b0ce1225a02a9b9a0cbe6928.jpeg"
+      },
+      {
+        "secretKey": "e5df718ec61c2c2caf906e7ce32b2946",
+        "material_id": "6929",
+        "material_title": "1711021_s.jpg",
+        "material_file": "97c8fdcf307ce35e6b77f3cc937136324041cdbdbbb2d97bbff940536bf348876929.jpeg"
+      }
+    ],
+    "previous_id": "7915",
+    "next_id": "7827",
+    "saved_materials": [
+      "assets/7870_6928_1711022_s.jpg",
+      "assets/7870_6929_1711021_s.jpg"
+    ]
+  }
+}

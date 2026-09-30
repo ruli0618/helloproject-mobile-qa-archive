@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 471,
+    "content_id": "10102",
+    "content_title": "隣のやじまん家の塀の裏#33 中西香菜",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-17 18:00:00",
+    "created_at": "2018-10-17 17:58:20",
+    "updated_at": "2018-10-17 18:00:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8818",
+        "material_title": "181017_s.jpg",
+        "material_file": "4e0f99cf3602bb895d0ae20e9609578dab6e289769d6b350325e5baf7341ddc58818.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10102",
+    "content_title": "隣のやじまん家の塀の裏#33 中西香菜",
+    "content_sub_title": "",
+    "release_date": "2018-10-17 18:00:00",
+    "created_at": "2018-10-17 17:58:20",
+    "updated_at": "2018-10-17 18:00:03",
+    "content_text": "隣のやじまん家#33公開中！！\r\n\r\n今回は、矢島さんのブログをいつもチェックしているというこの方！\r\nアンジュルムのサブリーダー\r\n中西香菜さんがゲスト出演！\r\n\r\n181017_s.jpg\r\n(番組内でも言及された、あのポーズで撮影♪)\r\n\r\n中西さんの多彩な趣味や仲の良いメンバー、アンジュルムトーク、インパクトに残るハロー！曲タイトル等など。\r\n\r\n可愛い竹内さん話や、\r\n筋トレ話の時は、矢島さん恒例(？)腹筋チェックも！\r\n\r\n今回も皆さんの愛あふれるお便りを沢山頂きました！\r\n\r\n「目指せアクトレス矢島」では、\r\n映画好きの後輩とお化けが苦手な先輩を！\r\n\r\n「妄想スピーチ」では、ちょっと難解なお題を見事な発想でクリア！？\r\n\r\n詳しくは番組をお聴き下さい♪\r\n\r\n「隣のやじまん家」では、メールを募集しています！\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n「今月のハッピーバースデー♪」は、10月に誕生日を迎える方からのお便りを募集！\r\n\r\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\r\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n次回はつばきファクトリーから、小野田紗栞さんが出演！\r\n10/23(火)19:00まで、メール受付中♪\r\n\r\n沢山のお便りお待ちしています！\r\n\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8818",
+        "material_title": "181017_s.jpg",
+        "material_file": "77e5693dff70c78cbd959a0db06bbb85a81ef28b0b7581697ab4236e8f6cf9728818.jpeg"
+      }
+    ],
+    "previous_id": "10105",
+    "next_id": "10092",
+    "saved_materials": [
+      "assets/10102_8818_181017_s.jpg"
+    ]
+  }
+}

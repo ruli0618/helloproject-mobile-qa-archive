@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 658,
+    "content_id": "4919",
+    "content_title": "宣伝会議 議事録#3",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-07-01 17:13:00",
+    "created_at": "2016-07-01 17:12:58",
+    "updated_at": "2016-07-01 17:14:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4446",
+        "material_title": "160630_1_s.jpg",
+        "material_file": "2468bd4f6cd58e934059e30c63a617def7ebecaded4bee82e52532872cf306cc4446.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4447",
+        "material_title": "160630_2_s.jpg",
+        "material_file": "e619fa656848d0adc900fa7acd62760ac7084ad9ce33cdedd99346a65831488b4447.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4448",
+        "material_title": "160630_3.jpg",
+        "material_file": "6bb2b0b1466fcc2c06f391c44dfe390b398d26656e28bd300a6af772b5a91d074448.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4919",
+    "content_title": "宣伝会議 議事録#3",
+    "content_sub_title": "",
+    "release_date": "2016-07-01 17:13:00",
+    "created_at": "2016-07-01 17:12:58",
+    "updated_at": "2016-07-01 17:14:05",
+    "content_text": "ハロ！モバ宣伝会議の3回目が先日行われました！\n今回は梁川奈々美がお仕事の為、会議欠席となりましたが、みなさん聞いていただけましたか？\n\n今回も新たにスタートした動画コンテンツの撮影をみんな楽そうにやっていましたよ！\n\n160630_1_s.jpg\n160630_2_s.jpg\nぜひ動画の方もお楽しみ下さい！\n\n今回の尾形書記のメモはこちら！\n\n160630_3.jpg\nまだまだハロ！モバを広めるべくみんな頑張っていますので、応援宜しくお願いします！\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。\n次回の宣伝会議もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4446",
+        "material_title": "160630_1_s.jpg",
+        "material_file": "8e7eb92a3f40cd83fa15be8c744d3bc462f479dd9c0f6c4bffd60b3567785ba84446.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4447",
+        "material_title": "160630_2_s.jpg",
+        "material_file": "ae1d19d19d512c50a60a4b4b01641934c7ba829406a5cfb2b932ae11779e68b54447.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4448",
+        "material_title": "160630_3.jpg",
+        "material_file": "9d9da3357ca5b40b3ac9c73dbe3569f82ec6fc9f4f9899201f5cfe1c6bed04dd4448.jpeg"
+      }
+    ],
+    "previous_id": "4920",
+    "next_id": "4916",
+    "saved_materials": [
+      "assets/4919_4446_160630_1_s.jpg",
+      "assets/4919_4447_160630_2_s.jpg",
+      "assets/4919_4448_160630_3.jpg"
+    ]
+  }
+}

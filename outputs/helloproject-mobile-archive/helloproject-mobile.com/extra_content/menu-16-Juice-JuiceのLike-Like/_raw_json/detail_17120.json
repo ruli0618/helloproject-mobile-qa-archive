@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 420,
+    "content_id": "17120",
+    "content_title": "フルーツ",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2021-11-16 23:23:00",
+    "created_at": "2021-11-16 23:23:55",
+    "updated_at": "2021-11-16 23:23:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14263",
+        "material_title": "211116_inoue_s.jpg",
+        "material_file": "0ba7ad51221f9746ecbb1376e6ee53162e20100144f676d7e649355116bab65214263.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17120",
+    "content_title": "フルーツ",
+    "content_sub_title": "井上玲音",
+    "release_date": "2021-11-16 23:23:00",
+    "created_at": "2021-11-16 23:23:55",
+    "updated_at": "2021-11-16 23:23:55",
+    "content_text": "211116_inoue_s.jpg\r\nJuice=Juice新メンバーのFCイベントで、スタッフさんがくれたフルーツサンドたちが美味しかった<img src=\"/emoji/emoji-images/f37b.gif\"/><img src=\"/emoji/emoji-images/f37d.gif\"/>\r\nやっぱフルーツっていいよね。",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14263",
+        "material_title": "211116_inoue_s.jpg",
+        "material_file": "8b3d9956b2dd6b10f16570e96b1af3d9175710243c1b0935d0faaf2ea939caf114263.jpeg"
+      }
+    ],
+    "previous_id": "17121",
+    "next_id": "17039",
+    "saved_materials": [
+      "assets/17120_14263_211116_inoue_s.jpg"
+    ]
+  }
+}

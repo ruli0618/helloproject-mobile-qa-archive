@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 750,
+    "content_id": "8317",
+    "content_title": "きれいな夕日／宮本佳林",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2018-01-24 11:00:00",
+    "created_at": "2018-01-01 06:36:53",
+    "updated_at": "2018-01-01 06:44:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7300",
+        "material_title": "0124_miyamoto_s.jpg",
+        "material_file": "49f6ca8871790f3d43f3c8d2efa3bfa9bd36e828883e2ad7427b85a8505d5a9b7300.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8317",
+    "content_title": "きれいな夕日／宮本佳林",
+    "content_sub_title": "",
+    "release_date": "2018-01-24 11:00:00",
+    "created_at": "2018-01-01 06:36:53",
+    "updated_at": "2018-01-01 06:44:27",
+    "content_text": "0124_miyamoto_s.jpg\r\nでしょ？",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7300",
+        "material_title": "0124_miyamoto_s.jpg",
+        "material_file": "7aa91675be42045d266398dbd742208c804cabee84cc91a25132a05220a0def67300.jpeg"
+      }
+    ],
+    "previous_id": "8343",
+    "next_id": "8316",
+    "saved_materials": [
+      "assets/8317_7300_0124_miyamoto_s.jpg"
+    ]
+  }
+}

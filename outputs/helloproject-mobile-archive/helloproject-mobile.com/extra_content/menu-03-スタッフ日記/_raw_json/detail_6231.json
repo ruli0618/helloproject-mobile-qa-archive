@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 614,
+    "content_id": "6231",
+    "content_title": "発売中！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-02-23 22:56:00",
+    "created_at": "2017-02-23 22:56:27",
+    "updated_at": "2017-02-23 22:57:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5548",
+        "material_title": "170222.jpg",
+        "material_file": "ff7dc181f561d46d9303622b8f9447eab4e27519989c110823c4a8319626f8935548.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6231",
+    "content_title": "発売中！",
+    "content_sub_title": "",
+    "release_date": "2017-02-23 22:56:00",
+    "created_at": "2017-02-23 22:56:27",
+    "updated_at": "2017-02-23 22:57:58",
+    "content_text": "こんばんは！スタッフ番号2番です！\n\n巷ではつばきファクトリーのメジャーデビューや、こぶしファクトリー主演舞台の上演開始で賑わっていますが、忘れてはいけないあのイベント！\n\n「ハロ！モバ Presents 矢島舞美＆鈴木愛理 アコースティックライブ2016 ～コロンの娘。ふたたび～」Blu-ray Discが、昨日より販売開始しております！\n\n170222.jpg\n\n行った人も、行けなかった人も、あの感動を再び！\nぜひ、チェックお願いします♪\n\n<a href=\"https://www.amazon.co.jp/dp/B01N2TRDGE\" target=\"_blank\">★ご購入はこちら</a>",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5548",
+        "material_title": "170222.jpg",
+        "material_file": "26a20168a5fdf9c8bec01d2b2b9ca51af4134329d019e1fb2a37023640826ba65548.jpeg"
+      }
+    ],
+    "previous_id": "6290",
+    "next_id": "6227",
+    "saved_materials": [
+      "assets/6231_5548_170222.jpg"
+    ]
+  }
+}

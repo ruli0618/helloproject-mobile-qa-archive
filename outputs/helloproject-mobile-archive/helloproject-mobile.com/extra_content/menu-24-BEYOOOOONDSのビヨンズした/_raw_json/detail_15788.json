@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 400,
+    "content_id": "15788",
+    "content_title": "眠れる森のSeasoningS",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2021-04-19 10:00:00",
+    "created_at": "2021-04-07 19:22:26",
+    "updated_at": "2022-01-17 14:39:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13159",
+        "material_title": "0419_hirai_s.jpg",
+        "material_file": "6eb4246c7315a4b0e8f090a9a2a4bc6279d91d0378d326bca2a541ca9132b70713159.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15788",
+    "content_title": "眠れる森のSeasoningS",
+    "content_sub_title": "平井美葉",
+    "release_date": "2021-04-19 10:00:00",
+    "created_at": "2021-04-07 19:22:26",
+    "updated_at": "2022-01-17 14:39:33",
+    "content_text": "0419_hirai_s.jpg\n私が最初に1人でポーズしていたのですが、気が付いたら、こば→うーたんの順番で増えてました笑\n\n【10周目お題：グループショット(複数人)】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13159",
+        "material_title": "0419_hirai_s.jpg",
+        "material_file": "e7f55281f4e4a7507c7ce887424377be4538b925c73499e9d393582787fd876013159.jpeg"
+      }
+    ],
+    "previous_id": "15789",
+    "next_id": "15787",
+    "saved_materials": [
+      "assets/15788_13159_0419_hirai_s.jpg"
+    ]
+  }
+}

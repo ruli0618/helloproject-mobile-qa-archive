@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 92,
+    "content_id": "14225",
+    "content_title": "お弁当",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2020-07-27 15:09:00",
+    "created_at": "2020-07-27 15:09:33",
+    "updated_at": "2020-07-27 15:09:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "11847",
+        "material_title": "uranonaka_0727.jpg",
+        "material_file": "df02abb380dcd764c046a9d7d931f470e2a6b7041237b26ab96d2fc6dbc498b911847.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "14225",
+    "content_title": "お弁当",
+    "content_sub_title": "",
+    "release_date": "2020-07-27 15:09:00",
+    "created_at": "2020-07-27 15:09:33",
+    "updated_at": "2020-07-27 15:09:33",
+    "content_text": "ちぇるです<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n少しお久しぶりになってしまいましたね。。\r\n\r\n裏日記も習慣にしっかりと\r\nしていきたいところです<img src=\"/emoji/emoji-images/4f4f.gif\"/>\r\n\r\nさて、、\r\n裏日記が始まった当初は\r\n自粛期間で、ずーっと家にいて\r\nおうちエピソードばかりでしたが\r\n\r\nだんだん生活も少しずつですが\r\n戻ってきて\r\nイベント等の話もやっとできます<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n\r\n今年は4連休がありまして。。\r\nあれ？ゴールデンウィークだっけ？！\r\nって思ったけど、ちがいました<img src=\"/emoji/emoji-images/f39e.gif\"/>\r\n\r\n4連休はイベントライブ三昧でした！\r\nメンバーと過ごす時間が長いっていうのも\r\n久々でした<img src=\"/emoji/emoji-images/4772.gif\"/>\r\n\r\nライブは、いつもケータリングのごはん\r\nなのですが\r\n新型コロナの対策として\r\n1人1人分かれたお弁当でした！\r\n(先日放送していただいたニュースでも\r\nありましたね)\r\n\r\nuranonaka_0727.jpg\r\n\r\nこんな感じ〜！\r\nヘルシーめなお弁当です！\r\n\r\n4連休は終わりましたが、\r\nまだまだイベントやライブは続きます！\r\n楽しもう〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nそれでは、、\r\n忘れないうちにまた更新します！",
+    "materials": [
+      {
+        "secretKey": "c0cbdb0d8a3182c862ddb34a2b3e4484",
+        "material_id": "11847",
+        "material_title": "uranonaka_0727.jpg",
+        "material_file": "07510c3b65816a55496c65afe6626fac31e3a310bf76f103e34523c319172a7511847.jpeg"
+      }
+    ],
+    "previous_id": "14344",
+    "next_id": "13790",
+    "saved_materials": [
+      "assets/14225_11847_uranonaka_0727.jpg"
+    ]
+  }
+}

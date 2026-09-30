@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 34,
+    "content_id": "11919",
+    "content_title": "きらきら",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "73",
+    "release_date": "2019-08-16 13:00:00",
+    "created_at": "2019-08-16 13:08:37",
+    "updated_at": "2019-08-16 13:10:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10185",
+        "material_title": "0816_akiyama_s.jpg",
+        "material_file": "64afcd65af63fde2baca14ef79832a9dd74f993e41d215f1bf2c14a3d167ac6c10185.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11919",
+    "content_title": "きらきら",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2019-08-16 13:00:00",
+    "created_at": "2019-08-16 13:08:37",
+    "updated_at": "2019-08-16 13:10:31",
+    "content_text": "こんにちわ\n秋山 眞緒です<img src=\"/emoji/emoji-images/f3a1.gif\"/><img src=\"/emoji/emoji-images/f3a1.gif\"/>\n\n0816_akiyama_s.jpg\n \nオレンジのお花達がたくさん咲いていました\nとてもとてもかわいいい。<img src=\"/emoji/emoji-images/f7b2.gif\"/>\nお花は本当に癒しです\n \n見つけるたびに、可愛いってつい声が出ます(^^)(^^)\n \nオレンジのお花さん達、元気に育ってほしいなーー\n",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "10185",
+        "material_title": "0816_akiyama_s.jpg",
+        "material_file": "5417860e79c05ea27c08584f17da06ac286dd3387e5f70a1b74d535311ec9ce410185.jpeg"
+      }
+    ],
+    "previous_id": "11961",
+    "next_id": "11901",
+    "saved_materials": [
+      "assets/11919_10185_0816_akiyama_s.jpg"
+    ]
+  }
+}

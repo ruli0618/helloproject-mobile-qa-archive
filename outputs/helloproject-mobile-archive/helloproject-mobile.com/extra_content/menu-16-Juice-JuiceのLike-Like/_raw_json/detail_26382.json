@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 18,
+    "content_id": "26382",
+    "content_title": "ぴあアリーナMM最高！",
+    "content_sub_title": "林仁愛",
+    "category_id": "38",
+    "release_date": "2026-06-23 10:00:00",
+    "created_at": "2026-06-11 10:21:58",
+    "updated_at": "2026-06-11 10:24:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21554",
+        "material_title": "0623_hayashi_s.jpg",
+        "material_file": "e5ab026683f438491611abfcfd923b5b138cdf072f7fd2eda0825c30f39b8c9721554.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26382",
+    "content_title": "ぴあアリーナMM最高！",
+    "content_sub_title": "林仁愛",
+    "release_date": "2026-06-23 10:00:00",
+    "created_at": "2026-06-11 10:21:58",
+    "updated_at": "2026-06-11 10:24:19",
+    "content_text": "0623_hayashi_s.jpg\nぴあアリーナMM2daysありがとうございました！\n素敵な景色を見せてくれて本当に感謝しかないです♪\nまたたちたいな！\n\nこころに『GIRLS BE AMBITIOUS』を刻んでこれからも頑張ります！\n\nりんごさんは私が守りますよ！",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21554",
+        "material_title": "0623_hayashi_s.jpg",
+        "material_file": "3ca23bdbaa2e8fe4545a291aae8f10a9d58bb4798c4061912425630f0d78d85521554.jpeg"
+      }
+    ],
+    "previous_id": "26383",
+    "next_id": "26381",
+    "saved_materials": [
+      "assets/26382_21554_0623_hayashi_s.jpg"
+    ]
+  }
+}

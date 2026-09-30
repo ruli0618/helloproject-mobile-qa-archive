@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 480,
+    "content_id": "9799",
+    "content_title": "隣のやじまん家の塀の裏#30 小関舞",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-09-05 19:30:00",
+    "created_at": "2018-09-05 19:41:10",
+    "updated_at": "2018-09-05 19:42:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8576",
+        "material_title": "180905_s.jpg",
+        "material_file": "c622680b55078b7ae22e9f9e25d67a9c13f725848789586960f21808857cae6f8576.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9799",
+    "content_title": "隣のやじまん家の塀の裏#30 小関舞",
+    "content_sub_title": "",
+    "release_date": "2018-09-05 19:30:00",
+    "created_at": "2018-09-05 19:41:10",
+    "updated_at": "2018-09-05 19:42:11",
+    "content_text": "隣のやじまん家#30公開中♪\n\n今回のゲストは、この番組にとっても出たかったというこの方！\n\n180905_s.jpg\n\nカントリー・ガールズ小関舞さんです！\n\n矢島舞美さんの事が好きだという小関さん。\n緊張しながらも和やかにトークは進みました。\n\n野球トークからパパ大好き話、\n両親の馴れ初めエピソードに、\n「16歳の恋なんて」映像収録裏話も！\n\n「目指せアクトレス矢島」では先輩小関と新人矢島の会話を、\n「妄想スピーチ」では花火大会の妄想を繰り広げます！\n\n2人で交わした約束が叶うといいですね♪\n\n「隣のやじまん家」では、メールを募集しています！\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n「今月のハッピーバースデー♪」は、9月に誕生日を迎える方からのお便りを募集！\n\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\n「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n次回ゲストはこぶしファクトリー和田桜子さん！\n\n9/10(月)19時まで、メール受付しています♪\n\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8576",
+        "material_title": "180905_s.jpg",
+        "material_file": "7d856531dc86f06a6dec58f7290f18e9a662573f0d9e2f0cd125196d5a5e21a78576.jpeg"
+      }
+    ],
+    "previous_id": "9861",
+    "next_id": "9785",
+    "saved_materials": [
+      "assets/9799_8576_180905_s.jpg"
+    ]
+  }
+}

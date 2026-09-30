@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 113,
+    "content_id": "21647",
+    "content_title": "いちごタルト！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2024-02-02 10:00:00",
+    "created_at": "2024-01-29 19:46:32",
+    "updated_at": "2024-01-29 19:46:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17791",
+        "material_title": "0202_fukuda_s.jpg",
+        "material_file": "92d0690280950b18b9f828c87b400f4c874ee60bdedfff8fd337e8a4bc2b624717791.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21647",
+    "content_title": "いちごタルト！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2024-02-02 10:00:00",
+    "created_at": "2024-01-29 19:46:32",
+    "updated_at": "2024-01-29 19:46:32",
+    "content_text": "0202_fukuda_s.jpg\r\n最近とっても美味しいいちごタルトを食べました！\r\n\r\n本当に美味しくてあっという間に無くなっちゃいました、、\r\n\r\nケーキの中で一番いちごタルトが好きなのでこれからもいっぱい食べたいな〜！\r\n\r\nまた美味しいいちごタルトと出会えますように〜！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "3a7db0b50d2374c7f7905b2c03c7a8d3",
+        "material_id": "17791",
+        "material_title": "0202_fukuda_s.jpg",
+        "material_file": "8df0c2585e0b7ab6e38abe0a39f3b5ab56f3ec0d7a867a427a0d2b0a13a36e4f17791.jpeg"
+      }
+    ],
+    "previous_id": "21728",
+    "next_id": "21581",
+    "saved_materials": [
+      "assets/21647_17791_0202_fukuda_s.jpg"
+    ]
+  }
+}

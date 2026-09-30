@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 3,
+    "content_id": "13090",
+    "content_title": "最後のお花",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2020-02-18 11:26:00",
+    "created_at": "2020-02-18 11:48:01",
+    "updated_at": "2020-02-18 11:48:01",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11130",
+        "material_title": "ono.jpg",
+        "material_file": "370ab2b22dd3e082454d733306d845de5dee3b03d87815241ec1810027ec7f0411130.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "13090",
+    "content_title": "最後のお花",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2020-02-18 11:26:00",
+    "created_at": "2020-02-18 11:48:01",
+    "updated_at": "2020-02-18 11:48:01",
+    "content_text": "ono.jpg\r\n\r\n最後のお花<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\nハナモヨウのコーナーを通して、\r\nたくさんのお花に出会えたこと、嬉しいな〜<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n\r\nハナモヨウは最後でも、\r\nこれから先もずーっと、\r\nお花と一緒に生活していきたいです<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\nありがとう<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\nハナモヨウ<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n読んでくれたみんな<img src=\"/emoji/emoji-images/f9ed.gif\"/>\r\n\r\nまたね( ´ ▽ ` )ﾉ",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11130",
+        "material_title": "ono.jpg",
+        "material_file": "370ab2b22dd3e082454d733306d845de5dee3b03d87815241ec1810027ec7f0411130.jpeg"
+      }
+    ],
+    "previous_id": "13091",
+    "next_id": "13087",
+    "saved_materials": [
+      "assets/13090_11130_ono.jpg"
+    ]
+  }
+}

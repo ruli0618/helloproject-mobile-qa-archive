@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 121,
+    "content_id": "23376",
+    "content_title": "宣伝会議#92",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-11-16 00:00:00",
+    "created_at": "2024-11-28 05:44:40",
+    "updated_at": "2024-11-28 05:44:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19189",
+        "material_title": "92.jpg",
+        "material_file": "32c9dbec5b504ae81e2bbac71619da49af0746f9d32715fb07367a451258539d19189.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19190",
+        "material_title": "92_01_s.jpg",
+        "material_file": "1f48519cb6fc6ce26c46d4436c05e8653c94c6b4c9fac5a25f1929f661cfdc4819190.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19191",
+        "material_title": "92_04_s.jpg",
+        "material_file": "1dad287f88a5350ecc7b5bab3fc82513196d5494f1a4e15c791c7abdeff832ae19191.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19192",
+        "material_title": "92_02_s.jpg",
+        "material_file": "41e649bbdcca8a10d9889603d4b181c0819742bb5f3100c0524714a505de616d19192.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19193",
+        "material_title": "92_03_s.jpg",
+        "material_file": "fcc6f5b643df0f463fe39e1278917a534ccd4671b266c91464596c2cd806d25219193.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23376",
+    "content_title": "宣伝会議#92",
+    "content_sub_title": "",
+    "release_date": "2023-11-16 00:00:00",
+    "created_at": "2024-11-28 05:44:40",
+    "updated_at": "2024-11-28 05:44:40",
+    "content_text": "宣伝会議第92回は、野中美希部長・入江里咲書記の二人でお届け！\r\n\r\n92_01_s.jpg\r\n\r\n92_02_s.jpg\r\n\r\n前編では、\r\n・10月誕生日\r\n・2人になれたらと思う時\r\n・野外ライブ\r\n・10月生まれで良かった点\r\n・REC時カメラ有る無しの違い\r\n・25周年ライブ中エピソード\r\n・ラジオパーソナリティ\r\n・ZDO\r\nについてトーク！\r\n\r\n後編では、\r\n・人生変わったと思うライブ\r\n・思い出の地方会場\r\n・会場ごとサイズ調整\r\n・秋ツアー舞台裏\r\n・メンバーとのお泊り\r\n・やる気を出させる工夫\r\n・メンバーカラー\r\n・機械は得意？音痴？\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「江口紗耶」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n92.jpg\r\n\r\n92_03_s.jpg\r\n\r\n92_04_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19189",
+        "material_title": "92.jpg",
+        "material_file": "c8d127657faac4124f13e559d461f702662461299ee6e499da9afa73b6edfc6419189.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19190",
+        "material_title": "92_01_s.jpg",
+        "material_file": "e5069f89b174d20761efd4909a7293c94cd150e0b6f02e32e7f74421262fa01219190.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19191",
+        "material_title": "92_04_s.jpg",
+        "material_file": "400be9ce0033de33473e057402c2ce30a12e5a6017e03ef647cd811836a462df19191.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19192",
+        "material_title": "92_02_s.jpg",
+        "material_file": "ab4fcc3edf54579cfe546064b17f8da5e4c92e593586521e82c66f857d711c0f19192.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19193",
+        "material_title": "92_03_s.jpg",
+        "material_file": "f5516de1529e6793f306e6133a2eff29d971674cd7817cc79c9fdac4a2ddabe919193.jpeg"
+      }
+    ],
+    "previous_id": "21306",
+    "next_id": "21254",
+    "saved_materials": [
+      "assets/23376_19189_92.jpg",
+      "assets/23376_19190_92_01_s.jpg",
+      "assets/23376_19191_92_04_s.jpg",
+      "assets/23376_19192_92_02_s.jpg",
+      "assets/23376_19193_92_03_s.jpg"
+    ]
+  }
+}

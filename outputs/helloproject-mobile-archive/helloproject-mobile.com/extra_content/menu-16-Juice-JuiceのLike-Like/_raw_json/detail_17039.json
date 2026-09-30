@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 421,
+    "content_id": "17039",
+    "content_title": "ニット！",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2021-11-11 10:00:00",
+    "created_at": "2021-11-04 21:57:51",
+    "updated_at": "2021-11-04 21:57:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14235",
+        "material_title": "211111_inaba_s.jpg",
+        "material_file": "57c7dd87c330ae4c6ac0e7f83a9d240b6243bd3531d061986d10f3f92275068814235.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17039",
+    "content_title": "ニット！",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2021-11-11 10:00:00",
+    "created_at": "2021-11-04 21:57:51",
+    "updated_at": "2021-11-04 21:57:51",
+    "content_text": "211111_inaba_s.jpg\r\nだんだんと寒くなってきましたねぇ\r\n冬服を少しだけゲットできたんだけど、やっぱりニットが多くなります！\r\n首が詰まった服は自分が着ると顔がパンパンであまり好きじゃないんだけど、形とか雰囲気が可愛くて結局着ちゃいます笑\r\nみんなは冬服どんなのが好き〜？\r\n今回は珍しくご飯じゃないLIKE＝LIKEでしたっ\r\nまたね♡",
+    "materials": [
+      {
+        "secretKey": "98f1cc9a9b1320dd3d0890f22a44245f",
+        "material_id": "14235",
+        "material_title": "211111_inaba_s.jpg",
+        "material_file": "3df24298f57cef2f30686852a564306802bf3cc148e2592300ee107d363b8b8814235.jpeg"
+      }
+    ],
+    "previous_id": "17120",
+    "next_id": "16967",
+    "saved_materials": [
+      "assets/17039_14235_211111_inaba_s.jpg"
+    ]
+  }
+}

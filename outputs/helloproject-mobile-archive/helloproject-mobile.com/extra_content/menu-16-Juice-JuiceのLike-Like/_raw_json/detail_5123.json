@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 858,
+    "content_id": "5123",
+    "content_title": "急いで／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-08-10 22:25:00",
+    "created_at": "2016-08-10 22:25:26",
+    "updated_at": "2016-08-11 15:22:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4625",
+        "material_title": "211101_s.jpg",
+        "material_file": "195a3ed1af0e4cfa41883428e3a06e2b33efd3d90f69ab00f0193fe1388803094625.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5123",
+    "content_title": "急いで／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-08-10 22:25:00",
+    "created_at": "2016-08-10 22:25:26",
+    "updated_at": "2016-08-11 15:22:33",
+    "content_text": "211101_s.jpg\n単独ライブで北海道にいって飛行機までの時間があまりない中どうしても食べたくて入ったラーメン屋さんが最高でした！！",
+    "materials": [
+      {
+        "secretKey": "be6a53c2901c686555241fa142fd29f9",
+        "material_id": "4625",
+        "material_title": "211101_s.jpg",
+        "material_file": "adeb756673f6a5815c08468a20e12474f64258725cc716d6dc619f6669a6d26f4625.jpeg"
+      }
+    ],
+    "previous_id": "5214",
+    "next_id": "5076",
+    "saved_materials": [
+      "assets/5123_4625_211101_s.jpg"
+    ]
+  }
+}

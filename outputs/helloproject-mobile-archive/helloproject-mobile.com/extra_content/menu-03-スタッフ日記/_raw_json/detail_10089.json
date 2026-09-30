@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 473,
+    "content_id": "10089",
+    "content_title": "工藤の家の屋根裏部屋#34～牧野真莉愛～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-10-11 21:15:00",
+    "created_at": "2018-10-11 21:15:13",
+    "updated_at": "2018-10-11 21:16:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8809",
+        "material_title": "181011_02_s.jpg",
+        "material_file": "2031d329bc66545af610d3b0b416ba98c303b451316d870dd6da21a0527a156b8809.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8810",
+        "material_title": "181011_01_s.jpg",
+        "material_file": "1ea1f4a85a8385cb0ffc4fbeb452bee1c1fa4f4bf8cd20f20a7941283a8b7dcb8810.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 462,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10089",
+    "content_title": "工藤の家の屋根裏部屋#34～牧野真莉愛～",
+    "content_sub_title": "",
+    "release_date": "2018-10-11 21:15:00",
+    "created_at": "2018-10-11 21:15:13",
+    "updated_at": "2018-10-11 21:16:10",
+    "content_text": "「ふくむらの部屋」34回目配信開始しました！\r\n\r\n今回はモーニング娘。'18から牧野真莉愛さんが登場！\r\n\r\n181011_01_s.jpg\r\n\r\n\r\n今回は二人が大好きなアニメについて盛りだくさんな内容です！\r\n\r\n「MAJOR」\r\n\r\n「きらりん☆レボリューション」\r\n\r\n話し出したら止まりません！！\r\n\r\n181011_02_s.jpg\r\n\r\nライブでの髪型やキメ顔、始まる前の「ハグ」について、\r\n\r\nグループで高身長で損すること、得することとは!?\r\n\r\nふくむらの部屋“ならでは”の話題もたくさんあります！\r\n\r\nセンターに立ちたいと頑張っていた研修生時代…。\r\n今はどう思っている!?\r\n\r\n\r\nメドレーセレクションのコーナー\r\nスポーツの秋に続いて食欲の秋！\r\n次回のテーマは「おかしを食べている時に聴きたいメドレー」です！\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\r\n「普通のお便り」\r\n\r\nふくむらの部屋でこんな企画をやりたい！「新コーナー案」も引き続き募集中です！\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8809",
+        "material_title": "181011_02_s.jpg",
+        "material_file": "0ae694b4ef0a9341fac1e004ff5c752252579d83f1f8f84c4d2683c0f84a899c8809.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8810",
+        "material_title": "181011_01_s.jpg",
+        "material_file": "67bc939921fcd94031747a23eb78691b859a0d10652dcac5a9d584e71bd26c478810.jpeg"
+      }
+    ],
+    "previous_id": "10092",
+    "next_id": "10029",
+    "saved_materials": [
+      "assets/10089_8809_181011_02_s.jpg",
+      "assets/10089_8810_181011_01_s.jpg"
+    ]
+  }
+}

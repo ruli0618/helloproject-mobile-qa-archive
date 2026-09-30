@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 299,
+    "content_id": "18782",
+    "content_title": "♡みいもも♡",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2022-09-28 10:00:00",
+    "created_at": "2022-09-05 13:53:51",
+    "updated_at": "2022-09-05 13:53:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15650",
+        "material_title": "0928_okamura_s.jpg",
+        "material_file": "ec88eb62bcd76ed53d3352d7b7eeab73618d1867b875ef766fc917bf4fc6d57415650.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18782",
+    "content_title": "♡みいもも♡",
+    "content_sub_title": "岡村美波",
+    "release_date": "2022-09-28 10:00:00",
+    "created_at": "2022-09-05 13:53:51",
+    "updated_at": "2022-09-05 13:53:51",
+    "content_text": "0928_okamura_s.jpg\r\nひめと一緒だとなんでも楽しいっ！！！\r\n\r\n【21周目お題：楽しい】",
+    "materials": [
+      {
+        "secretKey": "a289b1f7d46bb5004cd8d5b959a1fd03",
+        "material_id": "15650",
+        "material_title": "0928_okamura_s.jpg",
+        "material_file": "5df336294dea369afa2a0fb9feddddfedfac2b3bb9bd86a35dbe40b9cee0472415650.jpeg"
+      }
+    ],
+    "previous_id": "18783",
+    "next_id": "18780",
+    "saved_materials": [
+      "assets/18782_15650_0928_okamura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 190,
+    "content_id": "22023",
+    "content_title": "きになってる研修生",
+    "content_sub_title": "清野桃々姫",
+    "category_id": "123",
+    "release_date": "2024-05-01 10:00:00",
+    "created_at": "2024-04-08 20:26:05",
+    "updated_at": "2024-04-08 20:26:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18080",
+        "material_title": "0501_kiyono_s.jpg",
+        "material_file": "595ecbe5f0eb9455bf001c2536478a9137e2ec6d27927b52f5c9f66b741c403518080.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22023",
+    "content_title": "きになってる研修生",
+    "content_sub_title": "清野桃々姫",
+    "release_date": "2024-05-01 10:00:00",
+    "created_at": "2024-04-08 20:26:05",
+    "updated_at": "2024-04-08 20:26:05",
+    "content_text": "0501_kiyono_s.jpg\r\nにいなー！！！林仁愛！！！頑張ってほしー！！\r\n\r\n【33周目お題：気になる】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18080",
+        "material_title": "0501_kiyono_s.jpg",
+        "material_file": "2b1c8e0f9b33316c48ad162128a0a8a9dc345ec16fa6c29948c72cb0a72c2e1e18080.jpeg"
+      }
+    ],
+    "previous_id": "22024",
+    "next_id": "22018",
+    "saved_materials": [
+      "assets/22023_18080_0501_kiyono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 204,
+    "content_id": "21513",
+    "content_title": "Happy New Year！",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2024-01-09 19:41:00",
+    "created_at": "2024-01-09 19:41:30",
+    "updated_at": "2024-01-09 19:41:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17656",
+        "material_title": "0109_endo_s.jpg",
+        "material_file": "abb7e979995a8c522d59f1c140732c701eac0e0e774cde1f9627010a50d39d9217656.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21513",
+    "content_title": "Happy New Year！",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2024-01-09 19:41:00",
+    "created_at": "2024-01-09 19:41:30",
+    "updated_at": "2024-01-09 19:41:30",
+    "content_text": "0109_endo_s.jpg\r\n遠藤彩加里です♪\r\n\r\nHappy New Year！！！\r\n素敵な1年になりますように！\r\n2024年もよろしくお願いします♡♡",
+    "materials": [
+      {
+        "secretKey": "880461d79dade090719b2e980e5b34bd",
+        "material_id": "17656",
+        "material_title": "0109_endo_s.jpg",
+        "material_file": "77d44e881ac8c5cd366282aebfa8f60c351b86c932ad8bfb48d788d9e0ff91d217656.jpeg"
+      }
+    ],
+    "previous_id": "21514",
+    "next_id": "21507",
+    "saved_materials": [
+      "assets/21513_17656_0109_endo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 122,
+    "content_id": "23223",
+    "content_title": "自然ー！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-11-05 10:00:00",
+    "created_at": "2024-11-01 22:13:27",
+    "updated_at": "2024-11-01 22:13:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19003",
+        "material_title": "1105_matsunaga_s.jpg",
+        "material_file": "52b3ccbf6fec590138ff4c2006beb2ca8f117f23678871c711817ce1d8255beb19003.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23223",
+    "content_title": "自然ー！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-11-05 10:00:00",
+    "created_at": "2024-11-01 22:13:27",
+    "updated_at": "2024-11-01 22:13:27",
+    "content_text": "この前1人で旅して\r\n自然を浴びてきました\r\n木の匂いと波の音、大好き〜\r\n1105_matsunaga_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19003",
+        "material_title": "1105_matsunaga_s.jpg",
+        "material_file": "3bdce9735717c7efefe6293c622099ebda598fba220ef40c101865203ce645ee19003.jpeg"
+      }
+    ],
+    "previous_id": "23224",
+    "next_id": "23187",
+    "saved_materials": [
+      "assets/23223_19003_1105_matsunaga_s.jpg"
+    ]
+  }
+}

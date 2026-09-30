@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 481,
+    "content_id": "9785",
+    "content_title": "宣伝会議 議事録#29",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-08-30 21:36:00",
+    "created_at": "2018-08-30 21:38:27",
+    "updated_at": "2018-08-30 21:38:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8562",
+        "material_title": "180830_01_s.jpg",
+        "material_file": "90f66be076c9b866d7c865266f6385611aeaf43d282e8a0f4367e5948f3a32248562.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8564",
+        "material_title": "180830_02_s.jpg",
+        "material_file": "474ddb0d8aa71178112782d695ed6d2ec8f6f9f36ae9c003bb1a8f5850ef29658564.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9785",
+    "content_title": "宣伝会議 議事録#29",
+    "content_sub_title": "",
+    "release_date": "2018-08-30 21:36:00",
+    "created_at": "2018-08-30 21:38:27",
+    "updated_at": "2018-08-30 21:38:27",
+    "content_text": "ハロ！モバ宣伝会議#29配信開始しました！\r\n\r\n今回は3人揃っての会議です！\r\n\r\n180830_01_s.jpg\r\n\r\n平成最後の夏！\r\n\r\nやり残したことはないですか？\r\n\r\n宿題は終わりましたか？\r\n\r\nまたまた暑さが戻ってきたということで\r\n今回は特別にアイスを食べながら配信でした!\r\n\r\nぜひあなたも一緒にアイスを食べながら聴いてみてくださいね。\r\n\r\n\r\n10月に熊谷で行われるSATOYAMA&SATOUMIイベントについても\r\nハロ！モバ宣伝部として何ができるか、話し合いました！\r\n\r\nもしかしたら新グッズが実現するかも？？？\r\n\r\n\r\nさらにハロ！モバの枠を超えてある企画の会議までやっちゃいました。\r\n\r\n\r\n夏休みなので特別にうさこ＆うぱみんが登場している\r\n議事録メモはこちら！\r\n\r\n180830_02_s.jpg\r\n\r\n\r\n引き続き「励ましのメール」お待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください。",
+    "materials": [
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8562",
+        "material_title": "180830_01_s.jpg",
+        "material_file": "689cd09dbfafb4b01c5d4e92d31e7b99d9092d51291a3b878cfa51bcf09e4ca08562.jpeg"
+      },
+      {
+        "secretKey": "c7de8de02668d82538090f323951c530",
+        "material_id": "8564",
+        "material_title": "180830_02_s.jpg",
+        "material_file": "bcba57873afab9fb84b3224cb8219c1554430e2e20599d3f00088d34ecdd35078564.jpeg"
+      }
+    ],
+    "previous_id": "9799",
+    "next_id": "9782",
+    "saved_materials": [
+      "assets/9785_8562_180830_01_s.jpg",
+      "assets/9785_8564_180830_02_s.jpg"
+    ]
+  }
+}

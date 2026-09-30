@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 29,
+    "content_id": "26388",
+    "content_title": "岐阜でホッケー！",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2026-06-26 10:00:00",
+    "created_at": "2026-06-12 10:47:27",
+    "updated_at": "2026-06-12 10:47:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21560",
+        "material_title": "0626_kasai_s.jpg",
+        "material_file": "6d92bcc1488c9e440561a647bd40715a6574fc0c675a1d811588f2e1c96ebe2c21560.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26388",
+    "content_title": "岐阜でホッケー！",
+    "content_sub_title": "河西結心",
+    "release_date": "2026-06-26 10:00:00",
+    "created_at": "2026-06-12 10:47:27",
+    "updated_at": "2026-06-12 10:47:27",
+    "content_text": "0626_kasai_s.jpg\r\n\r\nやっほー！\r\n結心です！！\r\n\r\n\r\n岐阜県の川崎重工ホッケースタジアムに試合を見てたよ～！\r\n\r\nホッケーはスピードが早くて\r\n最後の最後まで結果が分からなくて\r\nドキドキワクワクした～～\r\n\r\nまた試合見に行きたい！\r\n\r\nあと、試合の帰りにお土産沢山買えたの！！お菓子沢山買ってウキウキでした～～\r\n\r\nそれじゃまたね！",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21560",
+        "material_title": "0626_kasai_s.jpg",
+        "material_file": "840efe2fc8305e283c52e7520a98a4eccaf056482bdc1932b75f49ac50c9d5c221560.jpeg"
+      }
+    ],
+    "previous_id": "26389",
+    "next_id": "26387",
+    "saved_materials": [
+      "assets/26388_21560_0626_kasai_s.jpg"
+    ]
+  }
+}

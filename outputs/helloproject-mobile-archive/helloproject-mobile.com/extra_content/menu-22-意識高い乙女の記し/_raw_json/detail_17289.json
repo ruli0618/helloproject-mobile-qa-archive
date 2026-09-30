@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 82,
+    "content_id": "17289",
+    "content_title": "巻き髪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2021-12-15 22:36:00",
+    "created_at": "2021-12-15 22:36:31",
+    "updated_at": "2021-12-15 22:36:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14365",
+        "material_title": "211215_onoda_s.jpg",
+        "material_file": "be0425603f70ce3eb8c325b893dbd660fdf9b882ec1ae9b053f031094ba76bed14365.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17289",
+    "content_title": "巻き髪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2021-12-15 22:36:00",
+    "created_at": "2021-12-15 22:36:31",
+    "updated_at": "2021-12-15 22:36:31",
+    "content_text": "最近、あたたかい飲み物が飲みたくなるさおりです♪\r\n\r\nこの間、巻き髪をしましたー！！\r\n\r\n今の髪の長さになってからあまり巻き髪をしていないのですが、、、\r\n\r\nストレートもいいけど巻き髪も気に入ったのでこれからは、\r\n\r\nたくさん巻き巻きしたいと思います！\r\n\r\nぜひ、たのしみにしていて下さいね♪\r\n\r\n211215_onoda_s.jpg\r\n\r\n今日も、さおりの写真です♪\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14365",
+        "material_title": "211215_onoda_s.jpg",
+        "material_file": "18e12e4817717d25e861a395bd9b1c04da02c3d925dddcaec3c9ad15e9d909fa14365.jpeg"
+      }
+    ],
+    "previous_id": "17288",
+    "next_id": "17274",
+    "saved_materials": [
+      "assets/17289_14365_211215_onoda_s.jpg"
+    ]
+  }
+}

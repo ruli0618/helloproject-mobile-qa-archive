@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 137,
+    "content_id": "22863",
+    "content_title": "夏ハロ！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-09-12 10:00:00",
+    "created_at": "2024-09-09 18:21:14",
+    "updated_at": "2024-09-09 18:21:14",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18712",
+        "material_title": "0912_ishiyama_s.jpg",
+        "material_file": "f892383765843a0c9f92bf3e771625290a5f4c3aa895d93558a769d8d9fb6bbd18712.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22863",
+    "content_title": "夏ハロ！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-09-12 10:00:00",
+    "created_at": "2024-09-09 18:21:14",
+    "updated_at": "2024-09-09 18:21:14",
+    "content_text": "0912_ishiyama_s.jpg\r\nALL OF USとっても楽しかったです！夏の最高の思い出になりました！",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18712",
+        "material_title": "0912_ishiyama_s.jpg",
+        "material_file": "bf680a1b0382434452939f3f5bca0a9dc5a0b973e4f2c486e98120f90305778f18712.jpeg"
+      }
+    ],
+    "previous_id": "22895",
+    "next_id": "22862",
+    "saved_materials": [
+      "assets/22863_18712_0912_ishiyama_s.jpg"
+    ]
+  }
+}

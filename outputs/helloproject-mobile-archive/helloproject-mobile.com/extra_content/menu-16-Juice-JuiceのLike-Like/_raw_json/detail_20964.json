@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 226,
+    "content_id": "20964",
+    "content_title": "秋",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-10-12 10:00:00",
+    "created_at": "2023-10-10 11:26:17",
+    "updated_at": "2023-10-10 11:26:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17258",
+        "material_title": "1012_irie_s.jpg",
+        "material_file": "1f3764bc243d195ce437715582daf2a532f6c8fb5a1d4ba1d7a65e447b470bf917258.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20964",
+    "content_title": "秋",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-10-12 10:00:00",
+    "created_at": "2023-10-10 11:26:17",
+    "updated_at": "2023-10-10 11:26:17",
+    "content_text": "入江里咲です！\r\n\r\n最近かなり涼しくなってきて、秋を感じますね(*´︶`*)\r\n\r\n\r\n私は迫ってきているバースデーイベントの練習を頑張っております！！\r\n\r\n10月17日LANDMARK HALLでお待ちしてます〜♪\r\n\r\n\r\n1012_irie_s.jpg\r\n\r\n\r\n髪の毛切ったみっぷるかわいい！\r\n\r\n\r\n\r\n\r\nそれでは！明日も一緒にがんばりさ〜",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17258",
+        "material_title": "1012_irie_s.jpg",
+        "material_file": "0ea4e53f69b61a8d600a05cde767d8a8ee634d7e9ee55a2ffe5649c93bc7522717258.jpeg"
+      }
+    ],
+    "previous_id": "20965",
+    "next_id": "20963",
+    "saved_materials": [
+      "assets/20964_17258_1012_irie_s.jpg"
+    ]
+  }
+}

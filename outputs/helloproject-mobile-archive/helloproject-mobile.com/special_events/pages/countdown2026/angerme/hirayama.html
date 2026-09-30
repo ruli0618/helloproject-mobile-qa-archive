@@ -48,6 +48,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="wrap">
                 <div class="container">
                     <div class="content">
+    <!--ヘッダー-->
+	<link rel="stylesheet" href="../../../assets/css/special/hp_special_contents.css">
+    <header class="header">
+        <div class="side-menu-btn" id="js__sideMenuBtn">
+            <img src="../../../assets/images/sp_menubtn.png">
+        </div>
+        <a href="/"><img src="../../../assets/images/logo.png"></a>
+    </header>
+    <h1 style="	padding: 10px 0;
+	text-align: center;
+	border-bottom:1px #f39869 solid;
+	background:#f39869;
+	color:#FFF4E4;
+	line-height:140%;
+	font-weight:bold;">スペシャル</h1>
+    <!-- ヘッダー終了-->
     <div class="contentinner">
         <div class="sp_centertitle"><b>平山遊季</b></div>
         <!-- 上文言と画像にスペースを追加しています。別の指定方法でも大丈夫です。-->
@@ -65,11 +81,73 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </span>
         </div>
     </div>
-    <!--フッター--><section class="footer"><div class="btnright_sp"><a href="matsumoto.html">＜ 前へ</a><a class="btn_spaceleft_sp" href="shimoitani.html">次へ ＞</a></div></section>
+    <!--フッター-->
+    <section class="footer">
+        <div class="btnleft_sp"><a href="../index.html">スペシャルトップへ</a></div>
+        <div class="btnright_sp">
+            <a href="shimoitani.html">＜ PREV</a>
+            <a class="btn_spaceleft_sp" href="shimoitani.html">NEXT ＞</a>
+        </div>
+    </section>
     <!--フッター-->
 </div>
 <script src="../../../assets/js/static.js" type="text/javascript" defer="defer"></script>                </div>
             </div><!-- end class=wrap -->
+
+            <div class="overlay" id="js__overlay"></div>
+            <nav class="side-menu" id="js__sideMenu">
+                <ul class="side-menu__ul">
+                    <div class="slidemenu-header"><div>MENU</div></div>
+                    <li id="sidemenu_top" style="background-color:#1e7296;"><span style="color:#fff;">Top</span></li>
+                    <li><a href="/">トップへ</a></li>
+                    <li data-bind="visible: $root.is_login()" style="background-color:#17375a;"><span style="color:#fff;">My Page</span></li>
+                    <li data-bind="visible: $root.is_login()"><a data-bind="click: hlpr.utils.checkIfMember.bind($data, $root.user_status(), $root.is_login(), 2);, attr: {href: '/mypage/manage'}">マイページ</a></li>
+                    <li data-bind="visible: !$root.is_login()" style="background-color:#17375a;"><span style="color:#fff;">ログイン</span></li>
+                    <li data-bind="visible: !$root.is_login()"><a data-bind="attr: {href: '/authorize/select'}">新規会員登録/ログイン</a></li>
+                    <li style="background-color:#17375a;"><span style="color:#fff;">Member's Contents</span></li>
+                    <li><a href="/content/qa?menu_id=6">ハロー！Q&A</a></li>
+                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/photo/hello?menu_id=4', false);">ハロー！ショット</a></li>
+                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/photo/shop?menu_id=5', false);">ショップフォト</a></li>
+                    <li><a href="/content/gacya?menu_id=7">ハロー！ガチャ</a></li>
+                    <li><a href="/info/movie?menu_id=17">ハロー！ムービー</a></li>
+                    <li><a href="/info/music?menu_id=10">ハロー！ラジオ</a></li>
+                    <li><a href="/content/artist10?menu_id=25">ハロー！ペディア</a></li>
+                    <li><a href="/dialy/tour?menu_id=2">ツアー日記</a></li>
+                    <li><a href="/dialy/member?menu_id=3">スタッフ日記</a></li>
+                    <li><a href="/info/special?menu_id=11">スペシャル</a></li>
+                    <li><a href="/content/artist3?menu_id=16">Juice=JuiceのLike=Like</a></li>
+                    <li><a href="/content/artist11?menu_id=27">つばきのスキップ日和</a></li>
+                    <li><a href="/content/artist9?menu_id=24">BEYOOOOONDSのビヨンズした！</a></li>
+                    <li><a href="../../maeda_word/index.html">前田こころの今月の一言！</a></li>
+                    <li><a href="/content/artist8?menu_id=23">野中部長の裏日記</a></li>
+                    <li><a href="/content/artist7?menu_id=22">意識高い乙女の記し</a></li>
+                    <li><a href="/content/artist4?menu_id=19">つばきファクトリーのハナモヨウ</a></li>
+                    <li><a href="/content/artist6?menu_id=21">野中部長の小説コーナー</a></li>
+                    <li><a href="/content/artist?menu_id=13">どぅーでもいい写真館</a></li>
+                    <li><a data-bind="click: hlpr.utils.checkIfMemberForFlick.bind($data, $root.user_status(), $root.is_login(), 2, '/mail/magazine?menu_id=8', false);">ハロー！メルマガ</a></li>
+                    <li><a href="/info/form?menu_id=14">応募フォーム</a></li>
+<!--
+                    <li><a href="/content/sns?menu_id=9">ハロースレッド</a></li>
+-->
+                    <li style="background-color:#38a8ac;"><span style="color:#fff;">Free Contents</span></li>
+                    <li><a href="http://www.helloproject.com/" target="_blank">インフォメーション</a></li>
+                    <li><a href="http://www.helloproject.com/news/" target="_blank">ニュース</a></li>
+                    <li><a href="http://www.helloproject.com/release/" target="_blank">リリース</a></li>
+                    <li><a href="http://www.helloproject.com/media/" target="_blank">メディア</a></li>
+                    <li><a href="http://www.helloproject.com/event/" target="_blank">コンサート&イベント</a></li>
+                    <li><a href="/info/helloproject?link=profile">プロフィール</a></li>
+                    <li><a href="/info/helloproject?link=blog">ブログ</a></li>
+                    <li><a href="/info/helloproject?link=youtube">YouTube</a></li>
+                    <li><a href="/info/og/">OG</a></li>
+                    <li style="background-color:#17375a;"><span style="color:#fff;">Support Menu</span></li>
+                    <li><a href="/info/helloproject/about">このサイトについて</a></li>
+                    <li><a href="/info/helloproject/available_devices">対応機種</a></li>
+                    <li><a href="/info/faq?menu_id=12">お問い合わせ</a></li>
+                    <li><a href="/info/helloproject/use_policy">利用規約</a></li>
+                    <li><a href="/info/helloproject/privacy_policy">プライバシーポリシー</a></li>
+                    <li><a href="/info/helloproject/law">特定商取引法に基づく表示</a></li>
+                </ul>
+            </nav>
         </div>
         <!-- 会員登録モーダルダイアログ -->
         <div id="modal-content" style="margin: 10px;">

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 709,
+    "content_id": "9273",
+    "content_title": "あざとい？",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-06-28 11:00:00",
+    "created_at": "2018-06-07 17:31:28",
+    "updated_at": "2018-06-26 23:05:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8136",
+        "material_title": "0627_dambara_s.jpg",
+        "material_file": "6e72e450b7bc86e20cecb5b701b51db43a1271c7d4d894def9b667800396d2e68136.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9273",
+    "content_title": "あざとい？",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-06-28 11:00:00",
+    "created_at": "2018-06-07 17:31:28",
+    "updated_at": "2018-06-26 23:05:08",
+    "content_text": "0627_dambara_s.jpg\r\n高木紗友希さんにカメラを向けたら、かわいいポーズしてくれました(^^)",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8136",
+        "material_title": "0627_dambara_s.jpg",
+        "material_file": "82e1e46175003174fd30133c7ab88cf183da8c857c989979f626afddd24c42f58136.jpeg"
+      }
+    ],
+    "previous_id": "9510",
+    "next_id": "9271",
+    "saved_materials": [
+      "assets/9273_8136_0627_dambara_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 255,
+    "content_id": "20169",
+    "content_title": "美しいきみ",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2023-06-05 10:00:00",
+    "created_at": "2023-05-10 21:27:48",
+    "updated_at": "2023-05-10 21:27:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16680",
+        "material_title": "0605_maeda_s.jpg",
+        "material_file": "7fa6b3f4606df58dfa9ecca538a34a50236e12dc520d8e96da6e648a6be47c2916680.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20169",
+    "content_title": "美しいきみ",
+    "content_sub_title": "前田こころ",
+    "release_date": "2023-06-05 10:00:00",
+    "created_at": "2023-05-10 21:27:48",
+    "updated_at": "2023-05-10 21:27:48",
+    "content_text": "0605_maeda_s.jpg\r\n卵の黄身が輝いてて、つい写真を撮ってしまうんです。\r\n\r\n【26周目お題：美しい】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16680",
+        "material_title": "0605_maeda_s.jpg",
+        "material_file": "a1f7237200b71508986f12ad1e0e8161a43b86ecf4ecc4868447d872a0ed205516680.jpeg"
+      }
+    ],
+    "previous_id": "20171",
+    "next_id": "20167",
+    "saved_materials": [
+      "assets/20169_16680_0605_maeda_s.jpg"
+    ]
+  }
+}

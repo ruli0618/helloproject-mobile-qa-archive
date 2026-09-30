@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 121,
+    "content_id": "21160",
+    "content_title": "紅茶！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2023-11-03 10:00:00",
+    "created_at": "2023-11-01 15:40:09",
+    "updated_at": "2023-11-01 15:40:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "17371",
+        "material_title": "1103_fukuda_s.jpg",
+        "material_file": "f0c173c0c3ba0b58f05a269500bfd39303b6db0c9ea9f69375d0abe49db025d717371.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "21160",
+    "content_title": "紅茶！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2023-11-03 10:00:00",
+    "created_at": "2023-11-01 15:40:09",
+    "updated_at": "2023-11-01 15:40:09",
+    "content_text": "1103_fukuda_s.jpg\r\nお誕生日にスタッフさんから紅茶をいただきました〜！\r\n\r\nお家で紅茶を飲む時間が大好きなので、\r\nいただいた時はスキップするくらい嬉しかったです！\r\n\r\n頑張った日や特別な日に\r\nご褒美として飲みたいと思います！\r\n\r\n楽しみワラビー！\r\n\r\n福田真琳",
+    "materials": [
+      {
+        "secretKey": "c2f420feb00f360d72b87c6c17ebfa6d",
+        "material_id": "17371",
+        "material_title": "1103_fukuda_s.jpg",
+        "material_file": "f35b96c45a79933ccfcd9dd624d354f314346584313781e7c8d600f85aa5d8d117371.jpeg"
+      }
+    ],
+    "previous_id": "21211",
+    "next_id": "21083",
+    "saved_materials": [
+      "assets/21160_17371_1103_fukuda_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 73,
+    "content_id": "24216",
+    "content_title": "里帰り",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2025-04-25 21:05:00",
+    "created_at": "2025-04-25 21:06:40",
+    "updated_at": "2025-04-25 21:06:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19845",
+        "material_title": "0425_doi_s.jpg",
+        "material_file": "d3f966a46d3eb5e02795e15ddad6f96889bc08326f6805099f437494fc46856919845.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24216",
+    "content_title": "里帰り",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2025-04-25 21:05:00",
+    "created_at": "2025-04-25 21:06:40",
+    "updated_at": "2025-04-25 21:06:40",
+    "content_text": "0425_doi_s.jpg\r\nこんにちは！土居楓奏（どいふうか）です！\r\n\r\nこの前大阪に帰省してきました！！\r\n\r\n久しぶりに家族やお友達、おばあちゃんに会えました！！\r\n\r\nユニバとかお花見にも行くとこが出来てとっても楽しい、里帰りでした♡\r\n\r\nまた大阪帰れたらいいなー\r\n\r\n土居楓奏でした！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19845",
+        "material_title": "0425_doi_s.jpg",
+        "material_file": "e4b130eb8a3d83e089d7a3882c89173e2604c29532ce38c4c74d2084317d243d19845.jpeg"
+      }
+    ],
+    "previous_id": "24293",
+    "next_id": "24193",
+    "saved_materials": [
+      "assets/24216_19845_0425_doi_s.jpg"
+    ]
+  }
+}

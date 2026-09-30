@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 105,
+    "content_id": "23750",
+    "content_title": "13年目",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2025-02-06 12:40:00",
+    "created_at": "2025-02-06 12:41:28",
+    "updated_at": "2025-02-06 12:41:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19506",
+        "material_title": "0206_kudo_s.jpg",
+        "material_file": "386bb0f2b2d33f468508ce91c0f702dc8ff5f499d15a1b2a36ad59672443aa3719506.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23750",
+    "content_title": "13年目",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2025-02-06 12:40:00",
+    "created_at": "2025-02-06 12:41:28",
+    "updated_at": "2025-02-06 12:41:28",
+    "content_text": "0206_kudo_s.jpg\r\n2月3日で結成12周年を迎えました\r\nいつも本当にありがとうございます\r\n13年目のJuice=Juiceもよろしくお願いします！\r\n新しいメンバーカラーの衣装、嬉しいです！\r\n10人メンバーカラーの衣装を着てステージに立てタコとも嬉しかったです",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19506",
+        "material_title": "0206_kudo_s.jpg",
+        "material_file": "cc92d6f238434a7de2f2824535523d2be6b1d18d8c03f7f8b4e885c1b2f756a519506.jpeg"
+      }
+    ],
+    "previous_id": "23771",
+    "next_id": "23746",
+    "saved_materials": [
+      "assets/23750_19506_0206_kudo_s.jpg"
+    ]
+  }
+}

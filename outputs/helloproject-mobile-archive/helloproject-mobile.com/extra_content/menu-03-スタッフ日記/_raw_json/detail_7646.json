@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 571,
+    "content_id": "7646",
+    "content_title": "隣のやじまん家の塀の裏#6 段原瑠々",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-09-28 21:00:00",
+    "created_at": "2017-09-28 21:04:10",
+    "updated_at": "2017-09-28 21:06:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6738",
+        "material_title": "1709261_s.jpg",
+        "material_file": "96e5cfd60855ef482070c45a0f449a30e739a15130a40b051eafa29730ce86376738.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6739",
+        "material_title": "1709262_s.jpg",
+        "material_file": "a7c691bbfba6f9e8bae62e892604411921a0124e07be3828fe9cc60ed7978e7d6739.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 562,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7646",
+    "content_title": "隣のやじまん家の塀の裏#6 段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-09-28 21:00:00",
+    "created_at": "2017-09-28 21:04:10",
+    "updated_at": "2017-09-28 21:06:53",
+    "content_text": "皆さん、火曜日のラジオ番組更新は慣れましたか？\n「隣のやじまん家」第6回配信中！\n\nスタッフ日記が遅れてすみません<img src=\"/emoji/emoji-images/f7ce.gif\"/>\n\n今回のゲストはこの方！\n\n1709261_s.jpg\n\nteam℃-uteはハロプロ研修生時代のコンサート帯同でおなじみ、\nJuice=Juiceから段原瑠々さんが登場！\n\nワールドツアー真っ最中の段原さん、\n海外公演の経験豊富でナッシュビル帰りの矢島さん、\n世界各国のお土産話や、海外でのあるある話で盛り上がりました♪\n\n地元のほんわかトークに、\nJuice=Juiceのお姉さんたち、\n段原さんがポジティブシンキングで心が強いと言われるエピソードも！\n\n1709262_s.jpg\n\n関西弁に続き、矢島さんの広島弁はどうでしたか？\n\n「今月のハッピーバースデー♪」は、10月お誕生日を迎える方からのお便りをお待ちしています！「くじ引きトーク」・「普通のお便り」メールも随時募集中！\n番組内で流す楽曲のリクエストも受付中♬\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n次回も、火曜日の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6738",
+        "material_title": "1709261_s.jpg",
+        "material_file": "9cad60a455c7687f3740118f6ed801a5887df90312a5909759e8d7fec4d4502e6738.jpeg"
+      },
+      {
+        "secretKey": "91a62f32d2f8de3f626cb8189ef18ccc",
+        "material_id": "6739",
+        "material_title": "1709262_s.jpg",
+        "material_file": "f19dcd77ab6a9f1738a152fe5b5d2999d8e9541dad0228ba276506012e99131b6739.jpeg"
+      }
+    ],
+    "previous_id": "7713",
+    "next_id": "7639",
+    "saved_materials": [
+      "assets/7646_6738_1709261_s.jpg",
+      "assets/7646_6739_1709262_s.jpg"
+    ]
+  }
+}

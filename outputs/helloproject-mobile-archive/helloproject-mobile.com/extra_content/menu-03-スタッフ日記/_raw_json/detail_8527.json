@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 531,
+    "content_id": "8527",
+    "content_title": "隣のやじまん家の塀の裏#15 井上玲音",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-02-08 21:26:00",
+    "created_at": "2018-02-08 21:26:42",
+    "updated_at": "2018-02-08 21:28:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7479",
+        "material_title": "180208_s.jpg",
+        "material_file": "963b6c9645c05f0ccaa222d26687cda86eb36e9d6ac335037f32aa40b0fbcb0b7479.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8527",
+    "content_title": "隣のやじまん家の塀の裏#15 井上玲音",
+    "content_sub_title": "",
+    "release_date": "2018-02-08 21:26:00",
+    "created_at": "2018-02-08 21:26:42",
+    "updated_at": "2018-02-08 21:28:44",
+    "content_text": "今週配信中の「隣のやじまん家」#15は、もうお聴きになられましたか？\n\n今回のゲストはこぶしファクトリーから、井上玲音さんが登場！\nまだ井上さんの事をよく知らないという方も、今回の番組を通してその独特なキャラクターを感じられたのではないでしょうか。\n\n二人の手作りチョコ事情から、\n井上さんがアイドルを目指したキッカケ、\n℃-uteの末っ子萩原舞さんとの共通点、等など。\n\n井上さん自身も番組内で知った、名前の意味についても必聴です♪\n\n180208_s.jpg\n\n矢島さんが手に持っているのは、話題にもあがりました井上さんのファースト写真集『玲音』！\n写真集の詳細は<a href=\"http://www.ody-books.com/books/detail/083.php\" target=\"_blank\">こちら</a>をチェック！\n\n次回は、つばきファクトリーから岸本ゆめのさんがゲスト出演決定！\nメールは、2/9(金)13時まで受け付けています。\n\n2月に誕生日を迎えるそこのあなた！\nぜひ、「今月のハッピーバースデー♪」宛にメールをお送り下さい。\n矢島とゲストの2人があなたをお祝いします！\n(今ならほぼ確実に読まれる事でしょう…！)\n\n「くじ引きトーク」で話してほしいテーマや、「普通のお便り」メールも募集中です。\n\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\nそれでは、また次回！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7479",
+        "material_title": "180208_s.jpg",
+        "material_file": "484934d9c3393fbecb5ebd8474c95c50629cbeadfa6178c96595cd280a9d5cd67479.jpeg"
+      }
+    ],
+    "previous_id": "8572",
+    "next_id": "8468",
+    "saved_materials": [
+      "assets/8527_7479_180208_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 554,
+    "content_id": "7959",
+    "content_title": "あと1日！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-11-19 11:00:00",
+    "created_at": "2017-11-17 18:56:30",
+    "updated_at": "2017-11-17 19:00:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7018",
+        "material_title": "171119_1.jpg",
+        "material_file": "26748406158f3d983343a5c34f0ef47e221f046c00ac40314c68d968dc93c1717018.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7017",
+        "material_title": "171119_4.jpg",
+        "material_file": "d86fdb226cbb402ef5cf2c87f6499283179680ed7ab92b0e71b8de7e9fc9df1e7017.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7020",
+        "material_title": "171119_3.jpg",
+        "material_file": "201d99d9b3d3481439e2f46704b95ca1e477ae02f4204676c64ad5edfe705f437020.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7019",
+        "material_title": "171119_5.jpg",
+        "material_file": "cb699903144316ea4c459686fb22dabf08da88b1e9e8435e20d57e57b5955efb7019.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7021",
+        "material_title": "171119_2.jpg",
+        "material_file": "8bed6b799d642566cbaf50f52ee64f5bbaece710de328e66481e5e9c83614a037021.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7959",
+    "content_title": "あと1日！",
+    "content_sub_title": "",
+    "release_date": "2017-11-19 11:00:00",
+    "created_at": "2017-11-17 18:56:30",
+    "updated_at": "2017-11-17 19:00:46",
+    "content_text": "こんにちは！\nスタッフ番号2番です！\n\n11/20(月)Juice=Juice日本武道館公演は、当日券が販売される事、みなさんご存知ですか？\n\nお時間ある方、まだ迷っている方、まだ観覧のチャンスがありますのでぜひチェックお願いします！\n\n詳しくは下記リンクをご確認ください。\n\n<a href=\"http://www.helloproject.com/juicejuice/news/7841/\" target=\"_blank\">★当日券販売！</a>\n\nそしてグッズ情報も要チェックです！\n\n171119_1.jpg\n171119_2.jpg\n171119_3.jpg\n171119_4.jpg\n171119_5.jpg\n\n大きい画像や販売場所については、下記リンクをご確認ください。\n\n<a href=\"http://www.helloproject.com/juicejuice/news/7843/\" target=\"_blank\">★グッズ公開！</a>\n\n<a href=\"https://twitter.com/JuiceJuice_uf\" target=\"_blank\">【公式Twitter】</a>、<a href=\"https://gifmagazine.net/users/57938/profile\" target=\"_blank\">【GIFMAGAZINE】</a>も更新されています<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\nP.S.（毎日宣伝がしつこい！）なんて言わないでくださいね<img src=\"/emoji/emoji-images/f7ce.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7018",
+        "material_title": "171119_1.jpg",
+        "material_file": "5a3a9e4f8c2798319b19920ea20eadef9f6bd21dccfdd1891484c9ae9162563c7018.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7017",
+        "material_title": "171119_4.jpg",
+        "material_file": "6ba61c84bfc26ea0f05f3464ee1207e994e14b62e58631e1e649ec20e6e869f97017.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7020",
+        "material_title": "171119_3.jpg",
+        "material_file": "79446281415a742aaacd193a3beed85843285a6e473ee117d323078f384dcaf37020.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7019",
+        "material_title": "171119_5.jpg",
+        "material_file": "2b4c90800e1981334fae23e8734dff434883c4799c6dd2d18fdd7eb31c53b3677019.jpeg"
+      },
+      {
+        "secretKey": "f1f071dede25515474d988db0e9c6812",
+        "material_id": "7021",
+        "material_title": "171119_2.jpg",
+        "material_file": "8cfae493cc202a746bdd455c8db34a34279e834f3bfa0b4363649b6bbdb104de7021.jpeg"
+      }
+    ],
+    "previous_id": "7968",
+    "next_id": "7958",
+    "saved_materials": [
+      "assets/7959_7018_171119_1.jpg",
+      "assets/7959_7017_171119_4.jpg",
+      "assets/7959_7020_171119_3.jpg",
+      "assets/7959_7019_171119_5.jpg",
+      "assets/7959_7021_171119_2.jpg"
+    ]
+  }
+}

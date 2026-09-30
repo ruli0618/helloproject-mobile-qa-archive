@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 45,
+    "content_id": "25736",
+    "content_title": "冬も楽しい！",
+    "content_sub_title": "石井泉羽",
+    "category_id": "155",
+    "release_date": "2026-02-27 10:00:00",
+    "created_at": "2026-02-09 00:20:38",
+    "updated_at": "2026-02-09 00:20:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21058",
+        "material_title": "0227_ishii_s.jpg",
+        "material_file": "a69ddd67ac545331c3df1e77902b412f51b1c933b487cd54cc0d327dba820b6621058.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25736",
+    "content_title": "冬も楽しい！",
+    "content_sub_title": "石井泉羽",
+    "release_date": "2026-02-27 10:00:00",
+    "created_at": "2026-02-09 00:20:38",
+    "updated_at": "2026-02-09 00:20:38",
+    "content_text": "0227_ishii_s.jpg\r\nみはみは〜！\r\n石井 泉羽(いしい みはね)です！\r\n\r\n今，冬のハロコンの真っ最中です、とってもとっても寒い日が続いていて冬って感じです<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\n寒いですが、季節ごとに美味しいものが食べれるのはいいですよね<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n春はいちご<img src=\"/emoji/emoji-images/4f67.gif\"/>夏はかき氷<img src=\"/emoji/emoji-images/505f.gif\"/>秋は焼き芋<img src=\"/emoji/emoji-images/f3fb.gif\"/>冬はーお鍋とかいちごとか<img src=\"/emoji/emoji-images/4f67.gif\"/>みかんとか<img src=\"/emoji/emoji-images/4f66.gif\"/>\r\n\r\nみなさんはどの季節の食べ物が好きですか？\r\n石井はどの季節も好きです<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n冬にしか見れない景色だったり、遊びだったり、お洋服だったり、食べ物だったりで寒ーい冬楽しく乗り切りましょ\r\n\r\n今日も一日おつかレッサーレッサーです！",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21058",
+        "material_title": "0227_ishii_s.jpg",
+        "material_file": "8ca9c86072fd74ab6ffafbc375db70fd743848a2ef12ba8c5328ea719f911c3d21058.jpeg"
+      }
+    ],
+    "previous_id": "25737",
+    "next_id": "25735",
+    "saved_materials": [
+      "assets/25736_21058_0227_ishii_s.jpg"
+    ]
+  }
+}

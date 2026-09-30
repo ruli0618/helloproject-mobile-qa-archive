@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 81,
+    "content_id": "17288",
+    "content_title": "クリスマス",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-12-17 10:00:00",
+    "created_at": "2021-12-15 22:36:03",
+    "updated_at": "2021-12-15 22:36:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14366",
+        "material_title": "211217_akiyama_s.jpg",
+        "material_file": "61ef6cba3f933386c8b475b449f5dc38c232c62339e06734211e128a8d639fa514366.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17288",
+    "content_title": "クリスマス",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-12-17 10:00:00",
+    "created_at": "2021-12-15 22:36:03",
+    "updated_at": "2021-12-15 22:36:03",
+    "content_text": "211217_akiyama_s.jpg\r\n気づけば12月になりもうクリスマスモードですね。\r\nわたしの大好きな季節で毎日ウキウキしております(^^)♡\r\n12月はクリスマスカラーのお洋服を買いがちになるんですけど☝︎のお洋服は完全にクリスマス意識しております\r\n\r\n素敵な12月にしてくださいね！\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14366",
+        "material_title": "211217_akiyama_s.jpg",
+        "material_file": "91a8df7fcaef14b6c576da4d6667873f7bc7da301abd452eef678a53c7391a2514366.jpeg"
+      }
+    ],
+    "previous_id": "17341",
+    "next_id": "17289",
+    "saved_materials": [
+      "assets/17288_14366_211217_akiyama_s.jpg"
+    ]
+  }
+}

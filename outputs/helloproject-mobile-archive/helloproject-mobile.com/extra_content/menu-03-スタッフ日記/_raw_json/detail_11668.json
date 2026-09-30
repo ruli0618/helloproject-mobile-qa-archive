@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 410,
+    "content_id": "11668",
+    "content_title": "工藤の家の屋根裏部屋#51～清野桃々姫～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-06-25 13:08:00",
+    "created_at": "2019-06-25 13:09:11",
+    "updated_at": "2019-06-25 13:18:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9954",
+        "material_title": "190625_02.JPG",
+        "material_file": "96f7cce6f61d95236c5dfc8f8c4cbec14370815ef04bc1b5fce58ed1511856f09954.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9955",
+        "material_title": "190625_01.JPG",
+        "material_file": "def4f22ee7496517be5450a52b345e3af55c27f91a739f5818761aba1eb57e309955.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9956",
+        "material_title": "190625_03_s.jpg",
+        "material_file": "7b8e9128f695a1abbcc72c7aace3bf8499c30ffceb586f333ce0f7ea09f185e29956.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11668",
+    "content_title": "工藤の家の屋根裏部屋#51～清野桃々姫～",
+    "content_sub_title": "",
+    "release_date": "2019-06-25 13:08:00",
+    "created_at": "2019-06-25 13:09:11",
+    "updated_at": "2019-06-25 13:18:53",
+    "content_text": "更新が遅くなりまして申し訳ございません\n\nふくむらの部屋51回目の配信はお聴きいただけましたか？\n今回のゲストはBEYOOOOONDS/雨ノ森 川海 清野桃々姫さん！！\n\n190625_01.JPG\n\nおつピーチです！\n\n190625_02.JPG\n\nBEYOOOOONDSグループ名発表当時の心境を語ります！\n\nひなフェスで起きた清野さんの大好きな先輩鞘師さんとのエピソードとは！\n\n「冷たい風と片思い」の歌詞について独自の解釈でトーク！\n\n譜久村さんがボイパに挑戦!?\n\n卒業から2年。嗣永さんについてもたくさん語る！\n\n盛りだくさんでお送りします！\n\n190625_03_s.jpg\n\n今回の「ハロプロなんでもベスト3」では\n好きな飴ちゃんを募集！\n\nお互いに好きな飴も紹介！\n\nみなさんから頂いた意見をもとに\n次回は飴ちゃんボックスがリニューアル！？\n\n\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9954",
+        "material_title": "190625_02.JPG",
+        "material_file": "fae01b65fb3e0f6c97b65841b2291665c5d921b97eec6d829db2ecc66b90f8b39954.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9955",
+        "material_title": "190625_01.JPG",
+        "material_file": "892314c61558913b3bca1fa2f41407c310196a819b36d9a77bca5bcec11e64919955.jpeg"
+      },
+      {
+        "secretKey": "c27c7c33e472b1db8acef66d761d2ddd",
+        "material_id": "9956",
+        "material_title": "190625_03_s.jpg",
+        "material_file": "d87b44fbc8d5d9cda3063dbe87c7496e504fd804da5534da15789b633dd73f979956.jpeg"
+      }
+    ],
+    "previous_id": "11675",
+    "next_id": "11616",
+    "saved_materials": [
+      "assets/11668_9954_190625_02.JPG",
+      "assets/11668_9955_190625_01.JPG",
+      "assets/11668_9956_190625_03_s.jpg"
+    ]
+  }
+}

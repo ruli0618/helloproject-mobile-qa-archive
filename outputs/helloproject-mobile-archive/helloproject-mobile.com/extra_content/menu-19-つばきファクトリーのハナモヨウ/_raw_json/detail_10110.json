@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 82,
+    "content_id": "10110",
+    "content_title": "沖縄で！",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2018-10-24 11:00:00",
+    "created_at": "2018-10-23 16:17:23",
+    "updated_at": "2018-10-23 16:17:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8823",
+        "material_title": "1024_tanimoto_s.jpg",
+        "material_file": "95cedabaef0c2c47e7596d8a39eb2da9554473213264bc06c2994a5c9723d6de8823.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10110",
+    "content_title": "沖縄で！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2018-10-24 11:00:00",
+    "created_at": "2018-10-23 16:17:23",
+    "updated_at": "2018-10-23 16:17:23",
+    "content_text": "1024_tanimoto_s.jpg\r\nリリースイベントで沖縄に行った時に、1番最初にみたお花と一緒に撮りました〜\r\nきれい！！",
+    "materials": [
+      {
+        "secretKey": "9bd521420a49fabd424972c75008ec32",
+        "material_id": "8823",
+        "material_title": "1024_tanimoto_s.jpg",
+        "material_file": "58896c799b1e0c0dbc40cd703b66159d4b4fb481c4b4a95fb51065d034fd091c8823.jpeg"
+      }
+    ],
+    "previous_id": "10228",
+    "next_id": "10093",
+    "saved_materials": [
+      "assets/10110_8823_1024_tanimoto_s.jpg"
+    ]
+  }
+}

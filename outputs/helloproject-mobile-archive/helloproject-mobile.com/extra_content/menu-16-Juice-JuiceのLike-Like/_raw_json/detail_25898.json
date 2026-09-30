@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "25898",
+    "content_title": "かわいいパーティー！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2026-03-17 10:00:00",
+    "created_at": "2026-03-14 00:07:13",
+    "updated_at": "2026-03-14 00:07:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21221",
+        "material_title": "0317_ishiyama_s.jpg",
+        "material_file": "0506f48dfe9c71c41f03b9592ec4f879c8601e158d736e134568dd356b02a5f321221.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25898",
+    "content_title": "かわいいパーティー！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2026-03-17 10:00:00",
+    "created_at": "2026-03-14 00:07:13",
+    "updated_at": "2026-03-14 00:07:13",
+    "content_text": "0317_ishiyama_s.jpg\r\nバースデーイベントを2月25日に開催しました！！\r\nたくさんのファンの方に見に来ていただけてとっても幸せでした！\r\nこれからも応援よろしくお願いいたします！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21221",
+        "material_title": "0317_ishiyama_s.jpg",
+        "material_file": "dd85ecfffa877bb9f1a86491af6df3883a4e1a909bb95d12a140e84c67bc5e4921221.jpeg"
+      }
+    ],
+    "previous_id": "26030",
+    "next_id": "25862",
+    "saved_materials": [
+      "assets/25898_21221_0317_ishiyama_s.jpg"
+    ]
+  }
+}

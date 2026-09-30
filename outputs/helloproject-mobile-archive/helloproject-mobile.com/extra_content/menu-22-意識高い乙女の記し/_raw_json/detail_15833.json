@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 123,
+    "content_id": "15833",
+    "content_title": "パフェ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2021-04-19 21:10:00",
+    "created_at": "2021-04-19 21:12:15",
+    "updated_at": "2021-04-19 21:12:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "13205",
+        "material_title": "210419_yamagishi_s.jpg",
+        "material_file": "7ed540a5e87cd8963d10d375340286ba7053966df1328e8a38534ab34dc47e1113205.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15833",
+    "content_title": "パフェ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2021-04-19 21:10:00",
+    "created_at": "2021-04-19 21:12:15",
+    "updated_at": "2021-04-19 21:12:15",
+    "content_text": "この前、おうちでオリジナル\r\nパフェ作りました〜〜\r\n\r\n210419_yamagishi_s.jpg\r\n\r\nパフェはトッピングするだけだから楽ちん！♡\r\n今度ちゃんとお菓子作りしてみたいなぁ。\r\nチョコケーキとか作ってみたい( ˙ᵕ​˙ )",
+    "materials": [
+      {
+        "secretKey": "37ff8b06810f37a92641ce5a5ffaf421",
+        "material_id": "13205",
+        "material_title": "210419_yamagishi_s.jpg",
+        "material_file": "07c21b851e37649fee53b061d60286ca7e154e40fb7853d20f21b61cbe52755313205.jpeg"
+      }
+    ],
+    "previous_id": "15893",
+    "next_id": "15821",
+    "saved_materials": [
+      "assets/15833_13205_210419_yamagishi_s.jpg"
+    ]
+  }
+}

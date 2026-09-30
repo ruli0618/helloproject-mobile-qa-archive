@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 52,
+    "content_id": "25130",
+    "content_title": "ちょこ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2025-10-16 10:00:00",
+    "created_at": "2025-10-14 12:20:57",
+    "updated_at": "2025-10-14 12:20:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20529",
+        "material_title": "1016_ebata_s.jpg",
+        "material_file": "94db59f1eea066a93690b9d401d8d29108a3ea4c434b25e10645a70b6487c78820529.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25130",
+    "content_title": "ちょこ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2025-10-16 10:00:00",
+    "created_at": "2025-10-14 12:20:57",
+    "updated_at": "2025-10-14 12:20:57",
+    "content_text": "1016_ebata_s.jpg\r\nやっほ〜\r\n\r\n江端妃咲です\r\n\r\n三角チョコパイ今年も食べられました！！♡\r\n\r\n私はチョコが好き\r\n\r\nみんなは何味が好きなの〜\r\n\r\nほなねえ",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20529",
+        "material_title": "1016_ebata_s.jpg",
+        "material_file": "fec67498659ebde6f00e0b9975426737af37e9e22ef0fbea4c36fa41b57468f820529.jpeg"
+      }
+    ],
+    "previous_id": "25173",
+    "next_id": "25129",
+    "saved_materials": [
+      "assets/25130_20529_1016_ebata_s.jpg"
+    ]
+  }
+}

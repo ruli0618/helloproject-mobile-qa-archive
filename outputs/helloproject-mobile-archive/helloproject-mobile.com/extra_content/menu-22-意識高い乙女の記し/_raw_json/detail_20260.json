@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 2,
+    "content_id": "20260",
+    "content_title": "おさらー",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2023-06-06 17:46:00",
+    "created_at": "2023-05-22 20:27:40",
+    "updated_at": "2023-06-06 17:47:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16732",
+        "material_title": "0609_yofu_s.jpg",
+        "material_file": "c1c94ad547854f6ef418676283b8fb1a879bb527d40132e6348533e65996f89516732.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20260",
+    "content_title": "おさらー",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2023-06-06 17:46:00",
+    "created_at": "2023-05-22 20:27:40",
+    "updated_at": "2023-06-06 17:47:00",
+    "content_text": "0609_yofu_s.jpg\r\n母の日にプレゼントしたおさらー\r\n\r\nちょぅどもってたコップとドンピシャリでバッチグーでして\r\n嬉しかったですー\r\n\r\n母",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16732",
+        "material_title": "0609_yofu_s.jpg",
+        "material_file": "bcc3ac249794e88b29e26ed39b95fb08a968f3d735253eb1344cc66170b4336316732.jpeg"
+      }
+    ],
+    "previous_id": "20322",
+    "next_id": "20259",
+    "saved_materials": [
+      "assets/20260_16732_0609_yofu_s.jpg"
+    ]
+  }
+}

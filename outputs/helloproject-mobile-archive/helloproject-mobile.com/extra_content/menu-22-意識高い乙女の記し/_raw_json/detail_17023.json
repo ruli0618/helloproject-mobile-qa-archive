@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "17023",
+    "content_title": "大好きなお菓子",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2021-11-02 21:15:00",
+    "created_at": "2021-11-02 21:15:12",
+    "updated_at": "2021-11-02 21:15:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14219",
+        "material_title": "211102_akiyama_s.jpg",
+        "material_file": "a2bec6ddc9980d09caae5a4ac7c36af78cbade2ae80dce7ef5a3f8e3e1dfd5aa14219.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17023",
+    "content_title": "大好きなお菓子",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2021-11-02 21:15:00",
+    "created_at": "2021-11-02 21:15:12",
+    "updated_at": "2021-11-02 21:15:12",
+    "content_text": "211102_akiyama_s.jpg\r\nお仕事で頂いたお菓子をみんなで分けました。いつもみんなでわけわけする時間がすきです、、！\r\n\r\nお菓子を食べてるとすごく幸せな気持ちになるしエネルギーにもなるので意識もあがるんですよね<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14219",
+        "material_title": "211102_akiyama_s.jpg",
+        "material_file": "e4c5109e2cfc089a0ceebf847d47d9fb2fd1d6f280cf822f2111b92ece74c5ad14219.jpeg"
+      }
+    ],
+    "previous_id": "17052",
+    "next_id": "16972",
+    "saved_materials": [
+      "assets/17023_14219_211102_akiyama_s.jpg"
+    ]
+  }
+}

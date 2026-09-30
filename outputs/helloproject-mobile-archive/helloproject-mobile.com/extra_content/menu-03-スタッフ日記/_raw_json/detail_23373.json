@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 131,
+    "content_id": "23373",
+    "content_title": "宣伝会議#89",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-08-24 00:00:00",
+    "created_at": "2024-11-28 05:29:05",
+    "updated_at": "2024-11-28 05:29:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19181",
+        "material_title": "89.jpg",
+        "material_file": "54d974196db90bfab618dbf610eb02f32c72f05bdc4580f4a4229d9f9f32c49d19181.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23373",
+    "content_title": "宣伝会議#89",
+    "content_sub_title": "",
+    "release_date": "2023-08-24 00:00:00",
+    "created_at": "2024-11-28 05:29:05",
+    "updated_at": "2024-11-28 05:29:05",
+    "content_text": "宣伝会議第89回は、川村文乃副部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n前編では、\r\n・川村文乃バースデーイベントグッズのシール\r\n・バースデーイベント虎視タンタ・ターン\r\n・激しい曲\r\n・西田汐里前田こころFCイベント\r\n・旅館で寝る時の隣\r\n・SPARK感想\r\n・暑さ対策\r\n・参加したい個別イベント\r\nについてトーク！\r\n\r\n後編では、\r\n・ツアー\r\n・お互いに似合うお花\r\n・ケータリングお気に入りメニュー\r\n・≠ME武道館\r\n・ケンミンショー\r\n・マルチタスク\r\n・挑戦したいこと\r\n・夏のお休み\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「山﨑夢羽」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n89.jpg",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19181",
+        "material_title": "89.jpg",
+        "material_file": "e4f06619424945ccf4561e4d5ddeb930787c4e2b9b0467989f21c1470e8f6d0c19181.jpeg"
+      }
+    ],
+    "previous_id": "21251",
+    "next_id": "20753",
+    "saved_materials": [
+      "assets/23373_19181_89.jpg"
+    ]
+  }
+}

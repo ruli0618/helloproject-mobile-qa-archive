@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 238,
+    "content_id": "17746",
+    "content_title": "OCHA NORMAスペシャル",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-02-28 15:37:00",
+    "created_at": "2022-02-28 15:38:38",
+    "updated_at": "2022-02-28 15:41:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17746",
+    "content_title": "OCHA NORMAスペシャル",
+    "content_sub_title": "",
+    "release_date": "2022-02-28 15:37:00",
+    "created_at": "2022-02-28 15:38:38",
+    "updated_at": "2022-02-28 15:41:17",
+    "content_text": "OCHA NORMAスペシャル特設公開中！\n\nハロ！モバ限定写真や、メンバーへの一問一答など、ここでしか見れないコンテンツが盛り沢山！\n\nぜひご覧になって、OCHA NORMAメンバーの事をより深く知ってくださいね♪\n\n<a href=\"http://helloproject-mobile.com/info/special/content?page=sp_ochanorma/index\" target=\"_blank\">▶OCHA NORMAスペシャル特設はこちらから</a>\n\nここだけの裏話ですが…、このスペシャル特設はハロ！モバ宣伝部長のモーニング娘。'22野中美希さんが考案して実現しました。\n\n一問一答もすべて野中さんが考えた質問ですので、質問内容もあわせてチェックしてみてくださいね。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17846",
+    "next_id": "17739",
+    "saved_materials": []
+  }
+}

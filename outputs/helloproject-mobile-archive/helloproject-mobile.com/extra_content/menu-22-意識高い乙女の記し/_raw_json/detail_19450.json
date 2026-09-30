@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 22,
+    "content_id": "19450",
+    "content_title": "パスタ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2022-12-23 14:13:00",
+    "created_at": "2022-12-23 14:14:37",
+    "updated_at": "2022-12-23 14:14:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16130",
+        "material_title": "1223_ono_s.jpg",
+        "material_file": "2131af229fb6eebd17b7b991d6609f8dc974c5686534df771fc044ec9db4a2ad16130.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "19450",
+    "content_title": "パスタ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2022-12-23 14:13:00",
+    "created_at": "2022-12-23 14:14:37",
+    "updated_at": "2022-12-23 14:14:37",
+    "content_text": "1223_ono_s.jpg\r\n秋山眞緒ちゃんと\r\nパスタを作りました〜！\r\n(結構前にブログに書いたときの)\r\n\r\nよくばって具沢山にしたんだけど\r\nそれがめちゃくちゃ美味しかったあ♡\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16130",
+        "material_title": "1223_ono_s.jpg",
+        "material_file": "f33526bfabb8a9ba572fe94f8eaaa7abfcb305af29f44d0593284bad796205a516130.jpeg"
+      }
+    ],
+    "previous_id": "19452",
+    "next_id": "19231",
+    "saved_materials": [
+      "assets/19450_16130_1223_ono_s.jpg"
+    ]
+  }
+}

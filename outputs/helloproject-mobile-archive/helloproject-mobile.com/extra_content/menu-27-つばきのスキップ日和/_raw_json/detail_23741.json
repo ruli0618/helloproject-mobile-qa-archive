@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 78,
+    "content_id": "23741",
+    "content_title": "カメラ",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2025-01-31 17:26:00",
+    "created_at": "2025-01-31 17:28:16",
+    "updated_at": "2025-01-31 17:28:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19499",
+        "material_title": "0131_kasai_s.jpg",
+        "material_file": "213c0799c1d1014fc02f51027cc683ac38e7ee2015affa871b3eece234d0ec4719499.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "23741",
+    "content_title": "カメラ",
+    "content_sub_title": "河西結心",
+    "release_date": "2025-01-31 17:26:00",
+    "created_at": "2025-01-31 17:28:16",
+    "updated_at": "2025-01-31 17:28:16",
+    "content_text": "0131_kasai_s.jpg\r\n\r\n先日カメラを買ってカメラ女子を始めましたっ！\r\n去年自分への誕生日プレゼントとか大きいの買ってなかったので、勢いで買ってみたんだ〜\r\n\r\nなかなかうまく撮れないので勉強中です\r\nもっとカメラ上達したい！！\r\n\r\n新しいものにチャレンジしてみるのってすごくワクワクします！\r\n他にも興味あることたくさんあるから、今年は新しく何かに挑戦したいです！",
+    "materials": [
+      {
+        "secretKey": "1abffbdc8d885aac691214e49da27c72",
+        "material_id": "19499",
+        "material_title": "0131_kasai_s.jpg",
+        "material_file": "d4026aba6db595c945b8220bcf57c3189348c10be8e8fcb71a43e0147ad239ec19499.jpeg"
+      }
+    ],
+    "previous_id": "23965",
+    "next_id": "23638",
+    "saved_materials": [
+      "assets/23741_19499_0131_kasai_s.jpg"
+    ]
+  }
+}

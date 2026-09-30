@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 294,
+    "content_id": "19649",
+    "content_title": "誕生日",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2023-02-07 12:53:00",
+    "created_at": "2023-02-07 12:54:28",
+    "updated_at": "2023-02-07 12:54:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16307",
+        "material_title": "0207_ebata_s.jpg",
+        "material_file": "0737598187b299067bdd3e59ceb903e39119d4d4fe8e4241a562887597a6128216307.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19649",
+    "content_title": "誕生日",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2023-02-07 12:53:00",
+    "created_at": "2023-02-07 12:54:28",
+    "updated_at": "2023-02-07 12:54:28",
+    "content_text": "こんにちは！\r\n\r\n江端妃咲です！\r\n\r\n0207_ebata_s.jpg\r\n\r\nお誕生日を迎えて16歳になりました！\r\n\r\n\r\n16歳は身長を2センチ伸ばしたいです！笑笑\r\n\r\n\r\nなんなら5センチくらい伸ばしたいんですけど、それは達成できないかもしれないので笑笑\r\n\r\n\r\nでも達成できたらすごいですよね！笑笑\r\n\r\n\r\nとりあえず2センチを目指して笑笑\r\n\r\n\r\nお誕生日ケーキは苺のタルトケーキを沢山食べられたのでめっちゃ嬉しかったですうふふ\r\n\r\n\r\n皆さん16歳のえばも応援してくれますかー！笑笑\r\n\r\n\r\nこれからもよろしくお願いします♪\r\n\r\n\r\nそれではえばでした〜",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16307",
+        "material_title": "0207_ebata_s.jpg",
+        "material_file": "b9730de026d11222e5fea8b3168b461a3ee5dfafc43bcc4a40f1520dce89267516307.jpeg"
+      }
+    ],
+    "previous_id": "19650",
+    "next_id": "19588",
+    "saved_materials": [
+      "assets/19649_16307_0207_ebata_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 721,
+    "content_id": "2996",
+    "content_title": "アンジュルム ライブツアー 2015 SUMMER/AUTUMN ～FIGHTING NINE～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-08-19 13:30:00",
+    "created_at": "2015-08-19 13:42:49",
+    "updated_at": "2015-08-19 13:44:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2837",
+        "material_title": "150819_staffd.JPG",
+        "material_file": "f24dd6a24b5ee87556338f76d31f5ad0a944a98801800cd89e78dab43ea13bf82837.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2996",
+    "content_title": "アンジュルム ライブツアー 2015 SUMMER/AUTUMN ～FIGHTING NINE～",
+    "content_sub_title": "",
+    "release_date": "2015-08-19 13:30:00",
+    "created_at": "2015-08-19 13:42:49",
+    "updated_at": "2015-08-19 13:44:08",
+    "content_text": "みなさん、こんにちは！\r\n \r\n8月18日に横浜 Bay Hallにて\r\n「アンジュルム ライブツアー 2015 SUMMER/AUTUMN ～FIGHTING NINE～」\r\nが、初日を迎えました！\r\n \r\n \r\n150819_staffd.JPG \r\n \r\nライブ定番曲はもちろん、\r\n9人では初披露の曲など、たくさんの曲を用意してます！\r\n \r\n \r\n「アンジュルム ライブツアー 2015 SUMMER/AUTUMN ～FIGHTING NINE～」\r\nまだまだ始まったばかりです！\r\n \r\n皆さん是非お越しください！",
+    "materials": [
+      {
+        "secretKey": "d7679b789a0cf099a8fa1e48295d0af1",
+        "material_id": "2837",
+        "material_title": "150819_staffd.JPG",
+        "material_file": "cc51425101609dd05cd047330e144dcbb73c3263a0a0768b53200190ec2f137b2837.jpeg"
+      }
+    ],
+    "previous_id": "3022",
+    "next_id": "2885",
+    "saved_materials": [
+      "assets/2996_2837_150819_staffd.JPG"
+    ]
+  }
+}

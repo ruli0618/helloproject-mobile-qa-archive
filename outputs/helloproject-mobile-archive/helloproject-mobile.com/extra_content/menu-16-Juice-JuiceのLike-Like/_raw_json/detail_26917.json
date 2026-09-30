@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 3,
+    "content_id": "26917",
+    "content_title": "髪色",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2026-09-24 15:20:00",
+    "created_at": "2026-09-24 15:21:46",
+    "updated_at": "2026-09-24 15:21:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21976",
+        "material_title": "0924_matsunaga_s.jpg",
+        "material_file": "f0db2deadb8b7310d00c0654debc3a14041101ad1fba39628c8c50dc41e9ca7d21976.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26917",
+    "content_title": "髪色",
+    "content_sub_title": "松永里愛",
+    "release_date": "2026-09-24 15:20:00",
+    "created_at": "2026-09-24 15:21:46",
+    "updated_at": "2026-09-24 15:21:46",
+    "content_text": "0924_matsunaga_s.jpg\r\n髪色が赤から変わってなんだかるんるん♪\r\n赤はまたいつの日かまでぐっばい！！",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21976",
+        "material_title": "0924_matsunaga_s.jpg",
+        "material_file": "931a7533c7856dc80241f416c6b4b46071523332d3c59f0205f7cc1f6ccfa49921976.jpeg"
+      }
+    ],
+    "previous_id": "27034",
+    "next_id": "26906",
+    "saved_materials": [
+      "assets/26917_21976_0924_matsunaga_s.jpg"
+    ]
+  }
+}

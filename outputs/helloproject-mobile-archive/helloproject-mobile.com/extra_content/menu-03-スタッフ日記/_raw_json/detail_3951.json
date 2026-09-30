@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 680,
+    "content_id": "3951",
+    "content_title": "工藤の家のリビングルーム#1",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-01-28 16:26:00",
+    "created_at": "2016-01-28 16:24:37",
+    "updated_at": "2016-01-28 16:27:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3951",
+    "content_title": "工藤の家のリビングルーム#1",
+    "content_sub_title": "",
+    "release_date": "2016-01-28 16:26:00",
+    "created_at": "2016-01-28 16:24:37",
+    "updated_at": "2016-01-28 16:27:02",
+    "content_text": "ハロ！モバ宣伝部の盛んな活動が嬉しくてしょうがない、ハロ！モバスタッフ番号4番♂です。\n野中さんの最近の躍進も気になりますが、工藤部長はポケモー。しかない時代からの功労者なので、部長のままでいてもらうことが役員会で正式に決まったことをご報告します。\n野中さんの宣伝部入り＆役職は工藤部長の決裁になります。\n\nさて、今週はアップフロント関連のWEB番組がすべてリニューアルします。\n特に「GREEN ROOM」の後番組、「Girls Night Out」は必見です！\n女性が関心を持つことを女子会スタイルでお届け！というコンセプトのもと、今回は「やなふな」がロケに行きました！多分、初のロケですが、この2人相当しっかりものです。詳しくは番組をご覧ください！！女性向けといいつつ、男性にも楽しめる内容のはずです！！はずです！はず・・・です・・・\n\n本日は「やじまの部屋」第3回目の収録です。\nそうです。ゲストは「やなふな」です。\n矢島さんが2人に食われる、という展開が一番面白いと思うんですが、矢島さんは先輩の意地を見せることができるのか？昨日、配信された「ハロ！ステ」内のコーナー「℃-uteの一般常識のお時間」に出た問題を二人にやらせてみようかと思います。\n\nでは、収録の準備に入ります！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "3985",
+    "next_id": "3927",
+    "saved_materials": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 97,
+    "content_id": "9515",
+    "content_title": "おおきなおおきな",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2018-07-17 18:10:00",
+    "created_at": "2018-07-17 18:13:43",
+    "updated_at": "2018-07-17 18:13:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "8350",
+        "material_title": "0717_tanimoto_s.jpg",
+        "material_file": "1b7b1d50cb6487303c10714ab461fc3adda78b2ad73389b71eb4ffefcfab41fe8350.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "9515",
+    "content_title": "おおきなおおきな",
+    "content_sub_title": "谷本安美",
+    "release_date": "2018-07-17 18:10:00",
+    "created_at": "2018-07-17 18:13:43",
+    "updated_at": "2018-07-17 18:13:43",
+    "content_text": "0717_tanimoto_s.jpg\r\nおおきい黄色のお花をみつけました！\r\n可愛すぎる！",
+    "materials": [
+      {
+        "secretKey": "ab709501636eb0712682c83d16198faa",
+        "material_id": "8350",
+        "material_title": "0717_tanimoto_s.jpg",
+        "material_file": "e8ab6da4962447998e9a2061571527b84caa18f5450a77116d1e662b8a9743498350.jpeg"
+      }
+    ],
+    "previous_id": "9604",
+    "next_id": "9491",
+    "saved_materials": [
+      "assets/9515_8350_0717_tanimoto_s.jpg"
+    ]
+  }
+}

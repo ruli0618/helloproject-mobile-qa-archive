@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 141,
+    "content_id": "15302",
+    "content_title": "まえがみ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-01-14 19:31:00",
+    "created_at": "2021-01-14 19:34:42",
+    "updated_at": "2021-01-14 19:34:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12733",
+        "material_title": "210114_ono_s.jpg",
+        "material_file": "727318cab2b4a7e05d789c811ffa284c3addd2636ea0b8e0313432979101628912733.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "15302",
+    "content_title": "まえがみ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-01-14 19:31:00",
+    "created_at": "2021-01-14 19:34:42",
+    "updated_at": "2021-01-14 19:34:42",
+    "content_text": "前髪を切りました〜！\r\n\r\n中学生のころは伸びたら自分で切ったり\r\nお姉ちゃんに切ったり\r\nしてもらってたんだけど、\r\n私は自分で前髪を上手に切れないことに\r\n気づいたので\r\n最近は必ずメイクさんに切ってもらうか\r\n美容院に行くようにしています<img src=\"/emoji/emoji-images/f8d6.gif\"/>\r\n\r\n前髪大事にしてる<img src=\"/emoji/emoji-images/4f55.gif\"/>\r\n\r\n210114_ono_s.jpg",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12733",
+        "material_title": "210114_ono_s.jpg",
+        "material_file": "e55ad3f2e0f0686576542d2df2a2c6d0f2b7e0e6e0ae99af884298b91aaf79fc12733.jpeg"
+      }
+    ],
+    "previous_id": "15312",
+    "next_id": "15246",
+    "saved_materials": [
+      "assets/15302_12733_210114_ono_s.jpg"
+    ]
+  }
+}

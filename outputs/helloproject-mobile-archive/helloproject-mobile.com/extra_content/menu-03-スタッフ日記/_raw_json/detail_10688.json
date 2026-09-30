@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 445,
+    "content_id": "10688",
+    "content_title": "年賀状お待たせしました！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-24 20:20:00",
+    "created_at": "2019-01-24 20:32:11",
+    "updated_at": "2019-01-24 20:32:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9221",
+        "material_title": "0124_1_s.jpg",
+        "material_file": "e93907cfc417ed58d15b6eddd5dcb2e1c7fb4588fc24ff643ba4bdf9e762ca099221.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9222",
+        "material_title": "0124_2_s.jpg",
+        "material_file": "fe0451eb0652bdac4af9f2f3e9a72d08f7c5b6d7da26eaea90af4819e5df03699222.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10688",
+    "content_title": "年賀状お待たせしました！",
+    "content_sub_title": "",
+    "release_date": "2019-01-24 20:20:00",
+    "created_at": "2019-01-24 20:32:11",
+    "updated_at": "2019-01-24 20:32:11",
+    "content_text": "こんばんは！\r\nスタッフ番号2番です。\r\n\r\n皆さま、お待たせしました！\r\n年始特設ページでは年賀状のプレゼント受付を行っておりましたが、本日、当選分の年賀状をポストに投函しました！\r\n(明日の取集になりますため、当選者様の元へは明後日以降のお届けになるかと思います。)\r\n\r\nもし年賀状が届いた方は、ぜひハッシュタグ「#ハロモバ」をつけて、SNSに画像をアップしてください！\r\n\r\n少し遅めの年賀状、楽しみにしていてくださいね。\r\n\r\n0124_1_s.jpg\r\n\r\n0124_2_s.jpg",
+    "materials": [
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9221",
+        "material_title": "0124_1_s.jpg",
+        "material_file": "9bd3387d1253bb5cacf057609ed7b08c400a094da40c7d432ea2b6533f5011a19221.jpeg"
+      },
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9222",
+        "material_title": "0124_2_s.jpg",
+        "material_file": "c73591371b486059b44eb4b030283341608fd236757e4ff0e3da3aa11d3c4aa89222.jpeg"
+      }
+    ],
+    "previous_id": "10689",
+    "next_id": "10651",
+    "saved_materials": [
+      "assets/10688_9221_0124_1_s.jpg",
+      "assets/10688_9222_0124_2_s.jpg"
+    ]
+  }
+}

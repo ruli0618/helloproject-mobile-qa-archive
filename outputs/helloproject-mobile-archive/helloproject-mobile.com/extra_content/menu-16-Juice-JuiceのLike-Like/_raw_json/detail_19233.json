@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 314,
+    "content_id": "19233",
+    "content_title": "ツアー",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2022-11-29 10:00:00",
+    "created_at": "2022-11-25 14:41:04",
+    "updated_at": "2022-11-25 14:41:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15984",
+        "material_title": "1206_endo_s.jpg",
+        "material_file": "8d3e44aab2ebe0bcfcbe1716f70b81b4288d395e3944f189f28b0f2ae008a96e15984.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19233",
+    "content_title": "ツアー",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2022-11-29 10:00:00",
+    "created_at": "2022-11-25 14:41:04",
+    "updated_at": "2022-11-25 14:41:04",
+    "content_text": "1206_endo_s.jpg\r\n秋ツアーは毎公演幸せな気持ちでいっぱいでした！！\r\n日本武道館公演も頑張ります(*•̀ㅂ•́)و✧",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "15984",
+        "material_title": "1206_endo_s.jpg",
+        "material_file": "a840703d1ee3bb04573c16c7c432b1df58cdfb254e8221127d5fbcd70e2ceea615984.jpeg"
+      }
+    ],
+    "previous_id": "19192",
+    "next_id": "19142",
+    "saved_materials": [
+      "assets/19233_15984_1206_endo_s.jpg"
+    ]
+  }
+}

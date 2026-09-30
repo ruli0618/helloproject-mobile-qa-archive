@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 201,
+    "content_id": "23361",
+    "content_title": "宣伝会議#77",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-08-18 00:00:00",
+    "created_at": "2024-11-28 04:34:03",
+    "updated_at": "2024-11-28 04:34:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19148",
+        "material_title": "77_02_s.jpg",
+        "material_file": "202c98cacd5ec65110212afef1e4db42dca41ca0f411e4f9c846a2f470ddc40119148.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19149",
+        "material_title": "77_04_s.jpg",
+        "material_file": "4f795f92839f2cc914b4685b2dba58d2b8b5571b67e48ff1cd51d4cdac93a46019149.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19150",
+        "material_title": "77_01_s.jpg",
+        "material_file": "fa3cd27cec0652d96146bf2f5ab78bba71f7347056088acdb42c545b3c52126a19150.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19151",
+        "material_title": "77_03_s.jpg",
+        "material_file": "1bc014c390251b36c78ecdcd1916b882bd3bd1f43e267f5df1c31c2bdb51483619151.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19152",
+        "material_title": "77.jpg",
+        "material_file": "52a6cd9f069605fa3b103f4e282d62fd7ef0dc68fe2b9d9f7936a1ddc8b3f1ae19152.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23361",
+    "content_title": "宣伝会議#77",
+    "content_sub_title": "",
+    "release_date": "2022-08-18 00:00:00",
+    "created_at": "2024-11-28 04:34:03",
+    "updated_at": "2024-11-28 04:34:25",
+    "content_text": "宣伝会議第77回は、野中美希部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n77_01_s.jpg\r\n\r\n77_02_s.jpg\r\n\r\n連動質問企画では、\r\n・セリフ披露\r\n・好きな月\r\nのお話からスタート！\r\n\r\n前編では、\r\n・夏だから食べるもの\r\n・二十歳を迎えた意識\r\n・話してみたいメンバー\r\n・目標実現\r\n・負けず嫌い\r\n・ライバル視\r\nについてトーク！\r\n\r\n後編では、\r\n・誕生日を伝える方法\r\n・DVDマガジン\r\n・鞘師、野中、森戸女子会\r\n・家族とのケンカ\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「橋迫鈴」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n77.jpg\r\n\r\n77_03_s.jpg\r\n\r\n77_04_s.jpg",
+    "materials": [
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19148",
+        "material_title": "77_02_s.jpg",
+        "material_file": "2e1a9aef9af4568c4d5407d0e1e7f61000bd75074e0125cdae1c5e0b71a7baad19148.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19149",
+        "material_title": "77_04_s.jpg",
+        "material_file": "39191fb7906f92750060d99a353b6de3afe3458a1df872379e4f2c543c60999a19149.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19150",
+        "material_title": "77_01_s.jpg",
+        "material_file": "56a8f8bb947989e6bc3e09b61bff57b9eb8c07a0b6ed20703fa2d1a2323eccbf19150.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19151",
+        "material_title": "77_03_s.jpg",
+        "material_file": "c9d1a512a79e6416a16c0021e6025435e640b14e05b42b38bf3e6d0ec814bd4919151.jpeg"
+      },
+      {
+        "secretKey": "1cf1bc913241ee19ebfb57ac91df2ae3",
+        "material_id": "19152",
+        "material_title": "77.jpg",
+        "material_file": "4641d60f30466346f47aa5447ab9a7c6080e4590c24c4c71f027a0b65729b95119152.jpeg"
+      }
+    ],
+    "previous_id": "18677",
+    "next_id": "21220",
+    "saved_materials": [
+      "assets/23361_19148_77_02_s.jpg",
+      "assets/23361_19149_77_04_s.jpg",
+      "assets/23361_19150_77_01_s.jpg",
+      "assets/23361_19151_77_03_s.jpg",
+      "assets/23361_19152_77.jpg"
+    ]
+  }
+}

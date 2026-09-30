@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 83,
+    "content_id": "17274",
+    "content_title": "まっきいろ",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2021-12-09 10:00:00",
+    "created_at": "2021-12-07 20:41:30",
+    "updated_at": "2021-12-07 20:41:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "14361",
+        "material_title": "211208_s.jpg",
+        "material_file": "331f02709f2e7bdd58dc28f915b197e3bd52ef3a6fb025f00832c808a953ff7d14361.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17274",
+    "content_title": "まっきいろ",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2021-12-09 10:00:00",
+    "created_at": "2021-12-07 20:41:30",
+    "updated_at": "2021-12-07 20:41:30",
+    "content_text": "211208_s.jpg\r\nいちょう並木をお散歩しました〜！\r\n\r\nめちゃくちゃ綺麗だった♡\r\n意識高いとは？って\r\nなるかもしれないけど、、、\r\n\r\n私からしたら\r\n休日にいちょう並木に\r\n出かけること自体\r\n意識高めの行動なんです〜！笑\r\n\r\n意識高いのハードル低めの\r\n私でした<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\nまたね( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14361",
+        "material_title": "211208_s.jpg",
+        "material_file": "03d4a832c9fbdf64bfcfd840fdea3e4e0a28c178170f2c3c47eaaef9fc415ce514361.jpeg"
+      }
+    ],
+    "previous_id": "17289",
+    "next_id": "17230",
+    "saved_materials": [
+      "assets/17274_14361_211208_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 682,
+    "content_id": "3905",
+    "content_title": "工藤の家の天井裏#2",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-01-18 20:42:00",
+    "created_at": "2016-01-18 20:32:12",
+    "updated_at": "2016-01-18 20:43:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3560",
+        "material_title": "160118_1.jpg",
+        "material_file": "68d9671eb1f9bcbd5054568c14dd288c9c128212d520051fb8d31022818381d13560.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3561",
+        "material_title": "160118_2.jpg",
+        "material_file": "059c8de772b6ed83a263d1aa8709451f177d2ae149f803d755c712b14e2ab1d23561.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3562",
+        "material_title": "160118_3.jpg",
+        "material_file": "022ffafca9062dee0bcfce3d7fee1d8660386db7388cd266791692f2833ff2ab3562.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3905",
+    "content_title": "工藤の家の天井裏#2",
+    "content_sub_title": "",
+    "release_date": "2016-01-18 20:42:00",
+    "created_at": "2016-01-18 20:32:12",
+    "updated_at": "2016-01-18 20:43:05",
+    "content_text": "ハロ！モバ宣伝部も3人になり、これからさらに活動の幅を拡げて欲しいと願う、\r\nハロ！モバスタッフ番号4番♂です。\r\nでも、このまま野中さんの怒涛の更新が続くようであれば、宣伝部長交代も視野に入れなければいけません。このスタッフ日記のタイトルも「野中町の工藤の家の天井裏」に変更です。それにしても、みんな自発的に頑張ってくれて嬉しい限りです。\r\n\r\nさて今日はやじまの部屋#2が公開されました。\r\nまるで親戚のような雰囲気で話す二人の会話は必聴です。\r\n矢島さんも高い方の会員になってくれたようでひと安心です。\r\nお気入りメンバーは誰にしているのでしょうか？\r\n今度調べてここで報告したいと思います。\r\n\r\nさて、収録で「壁ドン」が話題に出たので、収録後に新しく僕が考えた「顎ドン」を二人にやってもらいました。\r\n\r\n160118_1.jpg\r\n160118_2.jpg\r\n\r\nそうです。これは危険です。真似しないでください。\r\n違う意味でフラフラになります。\r\n\r\n\r\nそして、「犯人を追え！」のコーナーの似顔絵はこちら。\r\n\r\n160118_3.jpg\r\n\r\n全く似てません。\r\nこのコーナーは果たして楽しいのか？と疑問を感じつつ、しばらく続けたいと思います。\r\n\r\n\r\n次回のゲストはカントリー・ガールズから梁川奈々美と船木結の二人です。\r\n矢島さんとの年齢差は船木さんで10歳！\r\n矢島さんと安倍なつみさんとの年齢差ぐらいです。←ぐらいです。\r\n三年後に是非「16歳の恋なんて」を歌ってもらいましょう！\r\n\r\n次回もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3560",
+        "material_title": "160118_1.jpg",
+        "material_file": "f71141dc4d3af1d723d8d36be6ebe9d4658288c5f2a9a517d89dfeb7ba287b4b3560.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3561",
+        "material_title": "160118_2.jpg",
+        "material_file": "587fd1bcbcd80a8d285afbdc4c74fb77bc990a30870d7fb96a968400d2b748603561.jpeg"
+      },
+      {
+        "secretKey": "d6989c10d743c62b52a7721947ba1164",
+        "material_id": "3562",
+        "material_title": "160118_3.jpg",
+        "material_file": "c6a01448eea4bde2da701e46a11400e774848e0609e43797e5e6b9073256a7f93562.jpeg"
+      }
+    ],
+    "previous_id": "3927",
+    "next_id": "3851",
+    "saved_materials": [
+      "assets/3905_3560_160118_1.jpg",
+      "assets/3905_3561_160118_2.jpg",
+      "assets/3905_3562_160118_3.jpg"
+    ]
+  }
+}

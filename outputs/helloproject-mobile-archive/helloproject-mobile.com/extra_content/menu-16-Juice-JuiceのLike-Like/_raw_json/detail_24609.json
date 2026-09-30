@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 73,
+    "content_id": "24609",
+    "content_title": "11人",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2025-07-08 21:00:00",
+    "created_at": "2025-07-08 21:01:51",
+    "updated_at": "2025-07-08 21:01:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20135",
+        "material_title": "0708_dambara_s.jpg",
+        "material_file": "81b65229fa6c62f6252dfb9f699a11200103e589345e88a0fb276f282014c81020135.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24609",
+    "content_title": "11人",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2025-07-08 21:00:00",
+    "created_at": "2025-07-08 21:01:51",
+    "updated_at": "2025-07-08 21:01:51",
+    "content_text": "0708_dambara_s.jpg\r\n11人の集合写真もこれからどんどん増えていくかな<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "20135",
+        "material_title": "0708_dambara_s.jpg",
+        "material_file": "a2e908914363375b9c789aee03a52879e4c3862aefd2cbead95624c741f1e38220135.jpeg"
+      }
+    ],
+    "previous_id": "24655",
+    "next_id": "24555",
+    "saved_materials": [
+      "assets/24609_20135_0708_dambara_s.jpg"
+    ]
+  }
+}

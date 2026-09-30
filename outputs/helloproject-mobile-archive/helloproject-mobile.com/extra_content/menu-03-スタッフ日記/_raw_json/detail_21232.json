@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 174,
+    "content_id": "21232",
+    "content_title": "工藤の家の屋根裏部屋#124～高瀬くるみ～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-01-24 00:00:00",
+    "created_at": "2023-11-14 15:32:50",
+    "updated_at": "2023-11-14 15:32:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17437",
+        "material_title": "230124_s.jpg",
+        "material_file": "d7c9b9a20f4bc057818f68803c014575bb246145df90485de899da16a160ef5d17437.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21232",
+    "content_title": "工藤の家の屋根裏部屋#124～高瀬くるみ～",
+    "content_sub_title": "",
+    "release_date": "2023-01-24 00:00:00",
+    "created_at": "2023-11-14 15:32:50",
+    "updated_at": "2023-11-14 15:32:50",
+    "content_text": "ふくむらの部屋 第124回は、BEYOOOOONDS高瀬くるみさんが登場！\r\n\r\n・SNSの使い分け\r\n・歌合戦、今やるなら？\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n一番多いメンバーカラー当てクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・ファンと一つになる楽器\r\n・歌詞解釈の共有\r\nを語りました！\r\n\r\n230124_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17437",
+        "material_title": "230124_s.jpg",
+        "material_file": "efe8b0bb8a1bbd104649edf98880ac6483d60be31fcd10849d136cccbecdf59117437.jpeg"
+      }
+    ],
+    "previous_id": "21312",
+    "next_id": "21231",
+    "saved_materials": [
+      "assets/21232_17437_230124_s.jpg"
+    ]
+  }
+}

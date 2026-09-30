@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 47,
+    "content_id": "25802",
+    "content_title": "ゆるピース",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2026-03-11 10:00:00",
+    "created_at": "2026-02-18 15:39:59",
+    "updated_at": "2026-02-18 15:39:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "21096",
+        "material_title": "0311_kobayashi_s.jpg",
+        "material_file": "ee665320fa05c6ab672942cc806742ff842d542aeb02925489d47fad4733ce9321096.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25802",
+    "content_title": "ゆるピース",
+    "content_sub_title": "小林萌花",
+    "release_date": "2026-03-11 10:00:00",
+    "created_at": "2026-02-18 15:39:59",
+    "updated_at": "2026-02-18 15:39:59",
+    "content_text": "0311_kobayashi_s.jpg\r\n写真撮る時どこでピースするか迷っちゃう…\r\n\r\n【50周目お題：ゆるポーズ】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "21096",
+        "material_title": "0311_kobayashi_s.jpg",
+        "material_file": "6a79386438be9a5909738a0ea0debe17a81218e5a89dd050c566938c6d29083f21096.jpeg"
+      }
+    ],
+    "previous_id": "25803",
+    "next_id": "25801",
+    "saved_materials": [
+      "assets/25802_21096_0311_kobayashi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 48,
+    "content_id": "26954",
+    "content_title": "宣伝会議#111",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2025-06-26 00:00:00",
+    "created_at": "2026-09-28 15:36:57",
+    "updated_at": "2026-09-28 15:36:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22026",
+        "material_title": "111.jpg",
+        "material_file": "639861c37f8736595e7ff1938c9b11468451242d4319cef2a4087db5471e9a8922026.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22025",
+        "material_title": "111_01.jpg",
+        "material_file": "d31a446e42beae080567bc324598ac51239546e37956979cbc247073e208e49c22025.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26954",
+    "content_title": "宣伝会議#111",
+    "content_sub_title": "",
+    "release_date": "2025-06-26 00:00:00",
+    "created_at": "2026-09-28 15:36:57",
+    "updated_at": "2026-09-28 15:36:57",
+    "content_text": "111_01.jpg\r\n\r\n宣伝会議第111回は、前田こころ副部長・入江里咲書記の二人でお届け！\r\n\r\n前編では、\r\n・宣伝会議\r\n・好きな衣装\r\n・ツアーで印象的な出来事\r\n・日本武道館\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「思ったことが顔に出ちゃう、思ったことが口に出ちゃう」についてディベート！\r\n\r\n後編では、\r\n・メンバーの裏話\r\n・ツアー\r\n・これぞライブ\r\n・小野田華凜\r\n・得意になりたいこと\r\n・愛犬トーク\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「伊勢鈴蘭」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n111.jpg",
+    "materials": [
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22026",
+        "material_title": "111.jpg",
+        "material_file": "ae1fa8dad488ad30f13e13c08e27b60d5421d4dc9ed8ac8cc76d424cad9ce09a22026.jpeg"
+      },
+      {
+        "secretKey": "01414ea36e368eccd5c25e697b61713b",
+        "material_id": "22025",
+        "material_title": "111_01.jpg",
+        "material_file": "ade56390bbfe5ee83ed918d6c91b0c13304ea861f18cb5ce85f6eb1bdadf4f0c22025.jpeg"
+      }
+    ],
+    "previous_id": "26990",
+    "next_id": "26989",
+    "saved_materials": [
+      "assets/26954_22026_111.jpg",
+      "assets/26954_22025_111_01.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 277,
+    "content_id": "19983",
+    "content_title": "さくらっち",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2023-04-06 10:00:00",
+    "created_at": "2023-04-05 20:19:05",
+    "updated_at": "2023-04-05 20:19:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16528",
+        "material_title": "0406_arisawa_s.jpg",
+        "material_file": "dd254053990a44ad4f68ce6ad624219bed226d1de32fbaee21e93599d8e575a016528.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19983",
+    "content_title": "さくらっち",
+    "content_sub_title": "有澤一華",
+    "release_date": "2023-04-06 10:00:00",
+    "created_at": "2023-04-05 20:19:05",
+    "updated_at": "2023-04-05 20:19:05",
+    "content_text": "0406_arisawa_s.jpg\r\n有澤一華です！！！\r\n\r\n石山咲良と最近遊んだんですけど、なんか家族と一緒に遊んでる安心感で面白かったです。\r\n\r\n2人で何したかもう覚えてません！笑",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16528",
+        "material_title": "0406_arisawa_s.jpg",
+        "material_file": "1ff324c70bfdaec8e8460ff4468bb7299daf62826cf27cfdd70300821dd7c0d016528.jpeg"
+      }
+    ],
+    "previous_id": "19995",
+    "next_id": "19894",
+    "saved_materials": [
+      "assets/19983_16528_0406_arisawa_s.jpg"
+    ]
+  }
+}

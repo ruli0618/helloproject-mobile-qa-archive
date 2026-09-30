@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 150,
+    "content_id": "14932",
+    "content_title": "仮装",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2020-11-24 23:11:00",
+    "created_at": "2020-11-24 23:12:18",
+    "updated_at": "2020-11-24 23:12:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12455",
+        "material_title": "1124_onoda_s.jpg",
+        "material_file": "5adb260cc33abe3ff38aacf8f4b2184e5e6e640cb637ce59cb194db58546d1d312455.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14932",
+    "content_title": "仮装",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2020-11-24 23:11:00",
+    "created_at": "2020-11-24 23:12:18",
+    "updated_at": "2020-11-24 23:12:18",
+    "content_text": "最近、甘いものがとまらないさおりです♪\r\n\r\n今年のハロウィンは、赤ずきんちゃんになりました！！\r\n\r\n毎年、違う仮装をできるようにがんばってます！\r\n\r\n今年の仮装、どうですかっ。\r\n\r\n来年もたのしみー！\r\n\r\n今日も、さおりの写真です♪\r\n\r\n1124_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12455",
+        "material_title": "1124_onoda_s.jpg",
+        "material_file": "e2ac8104e6ca34c5fbb1d90971d606b2fb9c2a47e16249f475c66a94870cb99712455.jpeg"
+      }
+    ],
+    "previous_id": "14955",
+    "next_id": "14913",
+    "saved_materials": [
+      "assets/14932_12455_1124_onoda_s.jpg"
+    ]
+  }
+}

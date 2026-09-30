@@ -1,0 +1,20 @@
+[
+  {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  {
+    "idx": 2,
+    "category_id": "111",
+    "category_title": "シーズン2",
+    "category_content": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  }
+]

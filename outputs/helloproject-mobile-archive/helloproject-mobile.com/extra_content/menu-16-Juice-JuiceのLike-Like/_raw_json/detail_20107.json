@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 273,
+    "content_id": "20107",
+    "content_title": "髪色",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2023-04-25 18:41:00",
+    "created_at": "2023-04-25 18:41:22",
+    "updated_at": "2023-04-25 18:41:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16645",
+        "material_title": "0425_uemura_s.jpg",
+        "material_file": "d70a33c412945c0ef04f4b0657be659d04c614f937ac8bee27831026674b0fdb16645.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20107",
+    "content_title": "髪色",
+    "content_sub_title": "植村あかり",
+    "release_date": "2023-04-25 18:41:00",
+    "created_at": "2023-04-25 18:41:22",
+    "updated_at": "2023-04-25 18:41:22",
+    "content_text": "0425_uemura_s.jpg\r\n植村あかりです！\r\n\r\nお気に入りの髪色です〜\r\n\r\nいろんな色試したいな\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16645",
+        "material_title": "0425_uemura_s.jpg",
+        "material_file": "cff29fe9c6f0a34b5018107a5f0f52ad50a067c4b1520becd73e532ece7007f016645.jpeg"
+      }
+    ],
+    "previous_id": "20108",
+    "next_id": "20008",
+    "saved_materials": [
+      "assets/20107_16645_0425_uemura_s.jpg"
+    ]
+  }
+}

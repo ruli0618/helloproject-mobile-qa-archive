@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 303,
+    "content_id": "15420",
+    "content_title": "工藤の家の屋根裏部屋#81～里吉うたの～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-02-04 12:25:00",
+    "created_at": "2021-02-04 12:26:09",
+    "updated_at": "2021-02-04 12:27:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12843",
+        "material_title": "20210203_s.jpg",
+        "material_file": "b8133250120835d53aa58dbfc82bc679d705094f824c906e3bc20925a09824da12843.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15420",
+    "content_title": "工藤の家の屋根裏部屋#81～里吉うたの～",
+    "content_sub_title": "",
+    "release_date": "2021-02-04 12:25:00",
+    "created_at": "2021-02-04 12:26:09",
+    "updated_at": "2021-02-04 12:27:46",
+    "content_text": "スタッフ日記の更新が遅れ申し訳ありません。\n今回は久しぶりに長い番組時間でお届けしました！\n\n新年初回！\n初めて新しい会社での収録！\nゲストは初登場！\nBEYOOOOONDS里吉うたのさんが来てくれました。\n\nカウントダウンライブ終演時刻が早まった年末の年越しの瞬間の二人の過ごし方から、\n写真集撮影の裏話では、撮影場所が近くだった山﨑愛生さん写真集の聖地巡礼をした里吉さん。\nBalladライブ楽曲についてもトーク！\n\n「ハロプロ講座」のコーナーでは、\nBDイベントセットリストの選曲理由、\n楽曲のあてがきや、セリフパート、\n「初恋サイダー」主人公の恋は実った？等など…\nたくさん語ってくれました！\n\n「ハロプロファン失敗談」のコーナーでも、\n沢山の失敗エピソードをありがとうございました！\n譜久村さんからなぐさめの言葉や、里吉さんの共感エピソードも飛び出しました。\n\nそれぞれをプリキュア・アンパンマンのキャラに例えたり、\nモーニング娘。9期メンバーエピソードも！\n\n20210203_s.jpg\n\n「ふくむらの部屋」では、メールを募集しています。\n件名に番組名・コーナー名、本文にはラジオネームを明記の上、<a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>までお送りください♬\n\nコーナー：\n①「みずき先生のハロプロ講座」\nハロー！プロジェクトのこんなところを語ってほしい！\nこの楽曲の世界観は○○だと思うのですがどう思いますか？など\n皆さまからお寄せいただいたテーマで譜久村とゲストが熱く語り合います。\n\n②「ハロプロファン失敗談」\nコンサート会場への移動、チケットやCDの購入、ライブ中の思わぬ失敗・トラブル…。\nハロプロファンなら共感出来る\"あるある話\"や、\n誰も体験した事無いようなビックリ話など、皆さんの失敗談を募集！\nMC譜久村聖とゲストが慰めます！\n",
+    "materials": [
+      {
+        "secretKey": "a223884e5371eb517b7918e1d75695af",
+        "material_id": "12843",
+        "material_title": "20210203_s.jpg",
+        "material_file": "0dad929fe3cd653703fd7e21bbe4971b27116402ad428742fa537baffbb3daf112843.jpeg"
+      }
+    ],
+    "previous_id": "15423",
+    "next_id": "15422",
+    "saved_materials": [
+      "assets/15420_12843_20210203_s.jpg"
+    ]
+  }
+}

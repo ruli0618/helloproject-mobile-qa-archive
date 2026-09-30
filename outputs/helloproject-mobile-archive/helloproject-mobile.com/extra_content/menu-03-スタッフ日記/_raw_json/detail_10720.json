@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 443,
+    "content_id": "10720",
+    "content_title": "隣のやじまん家の塀の裏#40 羽賀朱音",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-01-29 17:20:00",
+    "created_at": "2019-01-29 17:19:14",
+    "updated_at": "2019-01-29 17:20:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9252",
+        "material_title": "0129_s.jpg",
+        "material_file": "b0f0ba86a59e99a0b08be0e3abb9f1d6836fb36731fceb5e84f4f0988d0b1d5e9252.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10720",
+    "content_title": "隣のやじまん家の塀の裏#40 羽賀朱音",
+    "content_sub_title": "",
+    "release_date": "2019-01-29 17:20:00",
+    "created_at": "2019-01-29 17:19:14",
+    "updated_at": "2019-01-29 17:20:52",
+    "content_text": "隣のやじまん家#40公開！\r\n\r\n今回のゲストは、\r\nモーニング娘。'19から羽賀朱音さん！\r\n\r\nあかねちん劇場裏話から\r\n初詣おみくじの結果や夢占い、\r\n12期焼き肉会の経緯などなど！\r\n\r\n本質はお姉ちゃん？妹キャラ羽賀さんの、\r\n来る新メンバーへ対する思いも！\r\n\r\nそして矢島さんへ、タメ口！？\r\n\r\n0129_s.jpg\r\n\r\nバチバチしていないコーナー「妄想スピーチ」では、結果発表時に拍手が！\r\nアクトレス矢島では、女戦士と魔女の戦いを繰り広げています。\r\n\r\nぜひお聴き下さい♪\r\n\r\n次回2/12配信回ゲストは、こぶしファクトリー 浜浦彩乃さんが登場です！\r\n\r\n※浜浦さん出演回のメール受付は締め切りました。\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n「妄想スピーチ」「目指せアクトレス矢島」のお題、新たなコーナー案、\r\n「今月のハッピーバースデー♪」「くじ引きトーク」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\r\n\r\n※番組のお知らせは随時\r\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。",
+    "materials": [
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9252",
+        "material_title": "0129_s.jpg",
+        "material_file": "903d98df9b81a2ddf3030a473b825b46a24dbf3a3ae1a4448799c3de30c74f779252.jpeg"
+      }
+    ],
+    "previous_id": "10726",
+    "next_id": "10689",
+    "saved_materials": [
+      "assets/10720_9252_0129_s.jpg"
+    ]
+  }
+}

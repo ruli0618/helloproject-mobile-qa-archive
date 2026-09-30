@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 793,
+    "content_id": "7223",
+    "content_title": "すき!!／段原瑠々",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-08-21 11:00:00",
+    "created_at": "2017-08-04 12:13:46",
+    "updated_at": "2017-08-04 12:55:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6353",
+        "material_title": "6474626142971_s.jpg",
+        "material_file": "53485b18ee5ccd67369126488fbd178befb52703bb6ef55b13b2aeda341d52906353.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7223",
+    "content_title": "すき!!／段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2017-08-21 11:00:00",
+    "created_at": "2017-08-04 12:13:46",
+    "updated_at": "2017-08-04 12:55:52",
+    "content_text": "6474626142971_s.jpg\r\nローストビーフ丼♪\r\nこれほーーんとおいしくて大好きです。",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6353",
+        "material_title": "6474626142971_s.jpg",
+        "material_file": "d70186340cfba2cf09299401cf12899960a40c2d36fa2a04dce35b584025547b6353.jpeg"
+      }
+    ],
+    "previous_id": "7225",
+    "next_id": "7221",
+    "saved_materials": [
+      "assets/7223_6353_6474626142971_s.jpg"
+    ]
+  }
+}

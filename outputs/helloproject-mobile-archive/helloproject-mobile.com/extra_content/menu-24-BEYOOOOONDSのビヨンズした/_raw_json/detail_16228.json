@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 384,
+    "content_id": "16228",
+    "content_title": "きゅん",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2021-06-28 10:00:00",
+    "created_at": "2021-06-21 17:26:05",
+    "updated_at": "2022-01-17 14:44:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13558",
+        "material_title": "210628_maeda_s.jpg",
+        "material_file": "6640a7142ec5d27d5e93fdca89f6a1bc0c042eca9fc457623000cf08ffc33e3f13558.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16228",
+    "content_title": "きゅん",
+    "content_sub_title": "前田こころ",
+    "release_date": "2021-06-28 10:00:00",
+    "created_at": "2021-06-21 17:26:05",
+    "updated_at": "2022-01-17 14:44:56",
+    "content_text": "210628_maeda_s.jpg\nこんな笑顔向けられたらきゅんってしちゃうよね～！かわいい！100億点！\n\n【12周目お題：かわいい】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13558",
+        "material_title": "210628_maeda_s.jpg",
+        "material_file": "fc77a9ba447dae1795d4259f2ff369569965ebd05f11cffcccf3d277771e6cf913558.jpeg"
+      }
+    ],
+    "previous_id": "16230",
+    "next_id": "16060",
+    "saved_materials": [
+      "assets/16228_13558_210628_maeda_s.jpg"
+    ]
+  }
+}

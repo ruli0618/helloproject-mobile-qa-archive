@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 533,
+    "content_id": "14213",
+    "content_title": "明太バターうどん",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2020-07-23 10:00:00",
+    "created_at": "2020-07-22 20:30:18",
+    "updated_at": "2020-07-22 20:30:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11834",
+        "material_title": "0723_inaba_s.jpg",
+        "material_file": "45752d9aa471ead76d77bdb260bab4ea273c66e27ff88b9ef278a6be9f769aa911834.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14213",
+    "content_title": "明太バターうどん",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2020-07-23 10:00:00",
+    "created_at": "2020-07-22 20:30:18",
+    "updated_at": "2020-07-22 20:30:18",
+    "content_text": "0723_inaba_s.jpg\r\nおうちでとっても簡単に出来るうどん♪\r\n明太子が余っていたので、優秀な冷凍うどんさんに明太子とバターと海苔をのせて、麺つゆをほんの少しかけて完成！すっごく美味しいのでやってみて下さい♡",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11834",
+        "material_title": "0723_inaba_s.jpg",
+        "material_file": "2804b421945941bb70e3536f5b6469a1ca804aa2d15a51ee23df61cd54aec6f411834.jpeg"
+      }
+    ],
+    "previous_id": "14214",
+    "next_id": "14073",
+    "saved_materials": [
+      "assets/14213_11834_0723_inaba_s.jpg"
+    ]
+  }
+}

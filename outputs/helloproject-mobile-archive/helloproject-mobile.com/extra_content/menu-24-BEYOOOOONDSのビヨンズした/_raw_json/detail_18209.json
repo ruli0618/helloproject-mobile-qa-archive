@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 321,
+    "content_id": "18209",
+    "content_title": "透明度チェック",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2022-05-25 10:00:00",
+    "created_at": "2022-05-25 13:32:56",
+    "updated_at": "2022-05-25 13:32:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15214",
+        "material_title": "0525_shimakura_s.jpg",
+        "material_file": "aa0ab457f8ff4dcc9ce84e192c9b33128be652cb9d79b82fdfdf754d9415069e15214.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18209",
+    "content_title": "透明度チェック",
+    "content_sub_title": "島倉りか",
+    "release_date": "2022-05-25 10:00:00",
+    "created_at": "2022-05-25 13:32:56",
+    "updated_at": "2022-05-25 13:32:56",
+    "content_text": "0525_shimakura_s.jpg\r\n川底が透き通るくらい水が綺麗かどうか確認することが好きです！この川はダメでした、、。\r\n\r\n【19周目お題：好きなもの(こと)】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "15214",
+        "material_title": "0525_shimakura_s.jpg",
+        "material_file": "e9bcd953a27c320b03be4b415c12fd1c4477d201e89e163eee7f08929d352be515214.jpeg"
+      }
+    ],
+    "previous_id": "18210",
+    "next_id": "17912",
+    "saved_materials": [
+      "assets/18209_15214_0525_shimakura_s.jpg"
+    ]
+  }
+}

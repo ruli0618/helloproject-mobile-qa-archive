@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 120,
+    "content_id": "23252",
+    "content_title": "京都旅行",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2024-11-12 13:00:00",
+    "created_at": "2024-11-12 13:05:49",
+    "updated_at": "2024-11-12 13:05:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19047",
+        "material_title": "1112_ebata_s.jpg",
+        "material_file": "2fae51bed5a93b536ba6542b2e699209580de9b68f07be5e70ff9bd85b4521f619047.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "23252",
+    "content_title": "京都旅行",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2024-11-12 13:00:00",
+    "created_at": "2024-11-12 13:05:49",
+    "updated_at": "2024-11-12 13:05:49",
+    "content_text": "1112_ebata_s.jpg\r\n\r\nやっほーー\r\n\r\nえばです\r\n\r\n\r\n京都旅行に行った時の井上さんの写真あげちゃうね！",
+    "materials": [
+      {
+        "secretKey": "c4d07bbdab4b2fe8284dde74dd84e9bd",
+        "material_id": "19047",
+        "material_title": "1112_ebata_s.jpg",
+        "material_file": "c48801524b175dcab21217cb0663972e4d6c10d49fb04fbf2d38c52c454163bb19047.jpeg"
+      }
+    ],
+    "previous_id": "23284",
+    "next_id": "23224",
+    "saved_materials": [
+      "assets/23252_19047_1112_ebata_s.jpg"
+    ]
+  }
+}

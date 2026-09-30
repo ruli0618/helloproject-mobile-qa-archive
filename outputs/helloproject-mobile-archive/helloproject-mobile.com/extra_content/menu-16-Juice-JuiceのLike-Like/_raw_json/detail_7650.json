@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 777,
+    "content_id": "7650",
+    "content_title": "本場／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-10-25 11:00:00",
+    "created_at": "2017-09-29 15:38:56",
+    "updated_at": "2017-10-18 18:35:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6850",
+        "material_title": "6781646794276_s.jpg",
+        "material_file": "ca6242973302847b8a26239b47a7d26ff22f188fb6b77c4fd7cfc672e7e00cd16850.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 762,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7650",
+    "content_title": "本場／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-10-25 11:00:00",
+    "created_at": "2017-09-29 15:38:56",
+    "updated_at": "2017-10-18 18:35:00",
+    "content_text": "台湾で食べたタピオカ<img src=\"/emoji/emoji-images/f649.gif\"/><img src=\"/emoji/emoji-images/f37e.gif\"/>\n\n本場最高っ<img src=\"/emoji/emoji-images/f9a9.gif\"/>\n\n6781646794276_s.jpg\n\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6850",
+        "material_title": "6781646794276_s.jpg",
+        "material_file": "cec4b1a58e292a503b716635ef82cd3f55f1b45a9228dca3c131fcdd35db01536850.jpeg"
+      }
+    ],
+    "previous_id": "7651",
+    "next_id": "7796",
+    "saved_materials": [
+      "assets/7650_6850_6781646794276_s.jpg"
+    ]
+  }
+}

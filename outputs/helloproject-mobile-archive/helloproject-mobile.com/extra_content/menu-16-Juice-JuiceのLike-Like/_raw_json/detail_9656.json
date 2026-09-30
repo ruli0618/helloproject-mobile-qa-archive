@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 697,
+    "content_id": "9656",
+    "content_title": "メロン",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2018-08-19 11:00:00",
+    "created_at": "2018-08-13 15:54:36",
+    "updated_at": "2018-08-13 15:54:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8448",
+        "material_title": "0819_dambara_s.jpg",
+        "material_file": "61d9eee1c38dea5b650d5d80114bd5fede3c56c2cfcaaa8e1393c3b3af0f83488448.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9656",
+    "content_title": "メロン",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2018-08-19 11:00:00",
+    "created_at": "2018-08-13 15:54:36",
+    "updated_at": "2018-08-13 15:54:36",
+    "content_text": "0819_dambara_s.jpg\r\nこのメロンのアイス、大好きです♡",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8448",
+        "material_title": "0819_dambara_s.jpg",
+        "material_file": "8a5afe64d20ca77c5291d9ca6ba4d72234f92adb7c08f0ae0f7060341e9e16e98448.jpeg"
+      }
+    ],
+    "previous_id": "9657",
+    "next_id": "9655",
+    "saved_materials": [
+      "assets/9656_8448_0819_dambara_s.jpg"
+    ]
+  }
+}

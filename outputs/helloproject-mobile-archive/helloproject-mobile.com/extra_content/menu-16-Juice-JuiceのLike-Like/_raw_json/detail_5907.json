@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 831,
+    "content_id": "5907",
+    "content_title": "猫／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-12-22 17:17:00",
+    "created_at": "2016-12-22 17:18:15",
+    "updated_at": "2016-12-22 17:19:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5276",
+        "material_title": "5348259733960_s.jpg",
+        "material_file": "c5d944bc1e5921df90866e96daa8305ed74169df63ca9215839ec5adf1f5d1d65276.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 822,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5907",
+    "content_title": "猫／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2016-12-22 17:17:00",
+    "created_at": "2016-12-22 17:18:15",
+    "updated_at": "2016-12-22 17:19:29",
+    "content_text": "5348259733960_s.jpg\r\nぶれてない写真です\r\n猫な由加と♡",
+    "materials": [
+      {
+        "secretKey": "64a2006aa24ad0a56239eb29cde82457",
+        "material_id": "5276",
+        "material_title": "5348259733960_s.jpg",
+        "material_file": "227848ddd4fbae61970cd83779216710b800adc9c1d9bfbb9241e80d1abe8de55276.jpeg"
+      }
+    ],
+    "previous_id": "5947",
+    "next_id": "5877",
+    "saved_materials": [
+      "assets/5907_5276_5348259733960_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 93,
+    "content_id": "23394",
+    "content_title": "宣伝会議#100",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-07-18 00:00:00",
+    "created_at": "2024-11-28 16:35:42",
+    "updated_at": "2024-11-28 16:35:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19228",
+        "material_title": "100.jpg",
+        "material_file": "5c35e3761b693c4f207fe65d90f2bf79d630536c3775142f8826033eaa39cfdb19228.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19229",
+        "material_title": "100_02_s.jpg",
+        "material_file": "a586f14066a8dbe413972a9ccd8f5d9b28768b9e71b766fd3b7058cb0daccf2719229.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19230",
+        "material_title": "100_03_s.jpg",
+        "material_file": "c6c13200268d7626229ee191b522cd5a86247d9e0cef925bc6a417183682155a19230.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19231",
+        "material_title": "100_01_s.jpg",
+        "material_file": "6c42885b628c2d92db62b7c45a7a94ee98a2981e87558cee0d2464b780c5404019231.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23394",
+    "content_title": "宣伝会議#100",
+    "content_sub_title": "",
+    "release_date": "2024-07-18 00:00:00",
+    "created_at": "2024-11-28 16:35:42",
+    "updated_at": "2024-11-28 16:35:42",
+    "content_text": "宣伝会議第100回は、野中美希部長・川村文乃副部長・前田こころ書記の三人でお届け！\r\n\r\n入江里咲書記は、体調不良のためお休みとなります。\r\n\r\nそんな入江里咲書記が部員に向けてお手紙を書いてくれましたので、野中部長が代読して番組がスタート。\r\n\r\n祝第100回ということで、今回はお菓子パーティ！\r\nみなさんもぜひお菓子と飲み物を用意して聴いてくださいね♬\r\n\r\n100_01_s.jpg\r\n\r\n前編では前回考案した企画\r\n宣伝部員が質問100個答えます！のコーナーを実施！\r\n\r\n皆さんから寄せられた質問を100問！\r\nさくさくどんどん答えていきました。\r\n\r\n※前田警備兼広報は喉の調子があまりよくないため、野中部長と川村副部長がお便りを読んでくれました。\r\n\r\n後編では、\r\nPR動画の構成を考えて、動画に使用する音声を収録！\r\nエンディングの様子やコメントも撮影しました！\r\n\r\nなんと前田警備兼広報が編集してくれるとのこと！\r\n完成した動画はハロ！モバ公式Xに投稿しますので、ぜひチェックしてくださいね♬\r\n\r\n↓議事録はこちら！\r\n100.jpg\r\n\r\n100_02_s.jpg\r\n\r\n100_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19228",
+        "material_title": "100.jpg",
+        "material_file": "15d5a773ccdf2264c30aa2aa7f1f12df3bb1c64bd4e2495fe6265ebd97921cc819228.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19229",
+        "material_title": "100_02_s.jpg",
+        "material_file": "b195e9b55ab8d1d9635bada96b7d500498f624db0cd81d0e5b9f7333bea082a619229.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19230",
+        "material_title": "100_03_s.jpg",
+        "material_file": "05cbd65e45e0388111864493d576f5704aa614d7e2564103214ae44948da033719230.jpeg"
+      },
+      {
+        "secretKey": "f1452ea3b12461105379b26bcc29f6d1",
+        "material_id": "19231",
+        "material_title": "100_01_s.jpg",
+        "material_file": "eb28c68483a25e66b597b6763c687bcb24e12d1911249444bd5b80098e22188d19231.jpeg"
+      }
+    ],
+    "previous_id": "22941",
+    "next_id": "22940",
+    "saved_materials": [
+      "assets/23394_19228_100.jpg",
+      "assets/23394_19229_100_02_s.jpg",
+      "assets/23394_19230_100_03_s.jpg",
+      "assets/23394_19231_100_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 4,
+    "content_id": "13087",
+    "content_title": "最後のお花は？！！",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2020-02-18 11:23:00",
+    "created_at": "2020-02-18 11:47:48",
+    "updated_at": "2020-02-18 11:47:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11133",
+        "material_title": "tanimoto.jpg",
+        "material_file": "ec8d01266257192a1f3846679d31dc8916c5eb064e210c29becd1adeaecd476511133.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "13087",
+    "content_title": "最後のお花は？！！",
+    "content_sub_title": "谷本安美",
+    "release_date": "2020-02-18 11:23:00",
+    "created_at": "2020-02-18 11:47:48",
+    "updated_at": "2020-02-18 11:47:48",
+    "content_text": "どうも！！\r\n谷本安美です！\r\n\r\nとうとうお花を撮る\r\nハナモヨウが終わってしまいました〜\r\n\r\nなので今回が最後のお花！！\r\n白くて大きなお花<img src=\"/emoji/emoji-images/f7b2.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>\r\n\r\ntanimoto.jpg\r\n\r\nこの企画のおかげで沢山のお花と\r\n写真撮ることができました！！！\r\n\r\n今まで見てくれてありがとう<img src=\"/emoji/emoji-images/f7f4.gif\"/><img src=\"/emoji/emoji-images/f7f4.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "11133",
+        "material_title": "tanimoto.jpg",
+        "material_file": "ec8d01266257192a1f3846679d31dc8916c5eb064e210c29becd1adeaecd476511133.jpeg"
+      }
+    ],
+    "previous_id": "13090",
+    "next_id": "13084",
+    "saved_materials": [
+      "assets/13087_11133_tanimoto.jpg"
+    ]
+  }
+}

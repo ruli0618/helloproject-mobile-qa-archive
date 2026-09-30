@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 80,
+    "content_id": "17341",
+    "content_title": "チーズケーキ",
+    "content_sub_title": "河西結心",
+    "category_id": "115",
+    "release_date": "2021-12-20 10:00:00",
+    "created_at": "2021-12-16 23:30:41",
+    "updated_at": "2021-12-16 23:30:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14471",
+        "material_title": "211220_kasai_s.jpg",
+        "material_file": "a85c9239e9a3b54198aa0c4e707430ccb5c1121893a08e59618e7066be7589d514471.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17341",
+    "content_title": "チーズケーキ",
+    "content_sub_title": "河西結心",
+    "release_date": "2021-12-20 10:00:00",
+    "created_at": "2021-12-16 23:30:41",
+    "updated_at": "2021-12-16 23:30:41",
+    "content_text": "211220_kasai_s.jpg\r\nこの前差し入れでチーズケーキを\r\nもらったんだけどとてもおいしかったです！！\r\n\r\n最近はコンビニのスイーツを\r\n沢山買ってよく食べていて、\r\nスイートポテトがおすすめです♪\r\n\r\nぜひ皆さんも食べてみてください〜！",
+    "materials": [
+      {
+        "secretKey": "6eaa630b9661c49466e23e268274b464",
+        "material_id": "14471",
+        "material_title": "211220_kasai_s.jpg",
+        "material_file": "abae16ae5b5a0e068edac48cabcd9caec7027e750bd5f4f19754e3bfe408fda814471.jpeg"
+      }
+    ],
+    "previous_id": "17393",
+    "next_id": "17288",
+    "saved_materials": [
+      "assets/17341_14471_211220_kasai_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 736,
+    "content_id": "8731",
+    "content_title": "極上の",
+    "content_sub_title": "宮崎由加",
+    "category_id": "38",
+    "release_date": "2018-03-19 11:00:00",
+    "created_at": "2018-03-02 23:38:03",
+    "updated_at": "2018-03-02 23:38:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7631",
+        "material_title": "0319_miyazaki_s.jpg",
+        "material_file": "772fdf8d0c10dc979ef4d52a06fdd2d01894ef8b68bccd46edce873d0a140a027631.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8731",
+    "content_title": "極上の",
+    "content_sub_title": "宮崎由加",
+    "release_date": "2018-03-19 11:00:00",
+    "created_at": "2018-03-02 23:38:03",
+    "updated_at": "2018-03-02 23:38:03",
+    "content_text": "0319_miyazaki_s.jpg\r\nとっても美味しい親子丼を郡山で食べました♡とろっとろで最高でした。",
+    "materials": [
+      {
+        "secretKey": "bffc66efd3732b6bedbb4f711cc414f5",
+        "material_id": "7631",
+        "material_title": "0319_miyazaki_s.jpg",
+        "material_file": "bfa6f5063a798de27a807b9f8bd61a63c1f878e5db03e90f7b94c0411b0bba6e7631.jpeg"
+      }
+    ],
+    "previous_id": "8733",
+    "next_id": "8728",
+    "saved_materials": [
+      "assets/8731_7631_0319_miyazaki_s.jpg"
+    ]
+  }
+}

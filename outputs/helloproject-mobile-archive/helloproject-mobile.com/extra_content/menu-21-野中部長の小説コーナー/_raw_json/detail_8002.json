@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 18,
+    "content_id": "8002",
+    "content_title": "ある日…。",
+    "content_sub_title": "",
+    "category_id": "80",
+    "release_date": "2017-11-27 14:01:00",
+    "created_at": "2017-11-27 12:17:20",
+    "updated_at": "2017-11-27 14:03:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": 0,
+    "content_id": "8002",
+    "content_title": "ある日…。",
+    "content_sub_title": "",
+    "release_date": "2017-11-27 14:01:00",
+    "created_at": "2017-11-27 12:17:20",
+    "updated_at": "2017-11-27 14:03:46",
+    "content_text": "ある日、私がスマホでハロモバを開くと…。\r\n\r\nみたこともないページが急に現れた！\r\n\r\n \r\n\r\nそこにはかわいい子ブタが1匹。\r\n\r\n \r\n\r\n「おめでとう！あなたをFANTASY WORLDへご招待します♡」\r\n\r\n \r\n\r\nなっ\r\n\r\nなんだこれは…？！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8046",
+    "next_id": "-1",
+    "saved_materials": []
+  }
+}

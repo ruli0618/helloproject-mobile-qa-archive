@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 301,
+    "content_id": "19496",
+    "content_title": "糖分補給",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2023-01-17 10:00:00",
+    "created_at": "2023-01-10 16:15:48",
+    "updated_at": "2023-01-10 16:15:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16154",
+        "material_title": "0117_uemura_s.jpg",
+        "material_file": "bd57a8b384a510975cfa9a8997df69494903c8af6eb7dd7f85dacb74a789b19016154.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19496",
+    "content_title": "糖分補給",
+    "content_sub_title": "植村あかり",
+    "release_date": "2023-01-17 10:00:00",
+    "created_at": "2023-01-10 16:15:48",
+    "updated_at": "2023-01-10 16:15:48",
+    "content_text": "植村あかりです\r\n\r\n0117_uemura_s.jpg\r\n\r\nラジオ前にスタッフさんからいただいたチョコ!\r\n\r\n糖分補給〜\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "16154",
+        "material_title": "0117_uemura_s.jpg",
+        "material_file": "3834e6f63338d272d168f1f126e28047bfeb3bc5354429b7e2839344b400ec6616154.jpeg"
+      }
+    ],
+    "previous_id": "19497",
+    "next_id": "19495",
+    "saved_materials": [
+      "assets/19496_16154_0117_uemura_s.jpg"
+    ]
+  }
+}

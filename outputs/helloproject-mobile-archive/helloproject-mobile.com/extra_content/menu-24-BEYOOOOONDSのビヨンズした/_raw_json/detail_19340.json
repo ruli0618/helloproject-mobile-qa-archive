@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 282,
+    "content_id": "19340",
+    "content_title": "ビヨ宮",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2023-01-04 10:00:00",
+    "created_at": "2022-12-14 19:55:29",
+    "updated_at": "2022-12-14 19:57:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16051",
+        "material_title": "0104_maeda_s.jpg",
+        "material_file": "347466ec20e6b6d2c61af027d36dfd862431df63caea0c71a60f5a0bb3fe7e3416051.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19340",
+    "content_title": "ビヨ宮",
+    "content_sub_title": "前田こころ",
+    "release_date": "2023-01-04 10:00:00",
+    "created_at": "2022-12-14 19:55:29",
+    "updated_at": "2022-12-14 19:57:06",
+    "content_text": "0104_maeda_s.jpg\nマリーとマグリット。皆の凄さを改めて感じた舞台だったなぁ～！また1つ思い出の作品が増えました！\n\n【23周目お題：思い出】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16051",
+        "material_title": "0104_maeda_s.jpg",
+        "material_file": "bc29a4754aceac09f00227f392858ad0273953033d06bd1a62f6049ce472f08216051.jpeg"
+      }
+    ],
+    "previous_id": "19342",
+    "next_id": "19339",
+    "saved_materials": [
+      "assets/19340_16051_0104_maeda_s.jpg"
+    ]
+  }
+}

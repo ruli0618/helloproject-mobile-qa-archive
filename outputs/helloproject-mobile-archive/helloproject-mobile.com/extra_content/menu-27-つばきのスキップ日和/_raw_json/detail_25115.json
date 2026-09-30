@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 58,
+    "content_id": "25115",
+    "content_title": "圧倒！！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2025-11-21 10:00:00",
+    "created_at": "2025-10-08 19:40:02",
+    "updated_at": "2025-10-08 19:40:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20514",
+        "material_title": "1121_fukuda_s.jpg",
+        "material_file": "d42cff8bd5485dcf527aad42485556c79545322039aaac1d004bdcfba6f3d2b220514.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25115",
+    "content_title": "圧倒！！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2025-11-21 10:00:00",
+    "created_at": "2025-10-08 19:40:02",
+    "updated_at": "2025-10-08 19:40:02",
+    "content_text": "1121_fukuda_s.jpg\r\n\r\n皆さんやっほーワラビー！真琳です！\r\n\r\n先日波佐見町にあるお花屋さんに行きましたぁ<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\n天井にお花がたくさんあって\r\n綺麗すぎて圧倒されました<img src=\"/emoji/emoji-images/f39e.gif\"/>\r\n\r\n特に青色のお花が素敵でした！\r\n\r\nみんなは何色のお花が好き？\r\n\r\nまた行きたいな<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20514",
+        "material_title": "1121_fukuda_s.jpg",
+        "material_file": "c09d9234861988c5eecc93cf3451cf5a57f68d36dcc08e774763e9272c8ca14520514.jpeg"
+      }
+    ],
+    "previous_id": "25396",
+    "next_id": "25114",
+    "saved_materials": [
+      "assets/25115_20514_1121_fukuda_s.jpg"
+    ]
+  }
+}

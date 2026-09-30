@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 364,
+    "content_id": "18286",
+    "content_title": "感謝。",
+    "content_sub_title": "稲場愛香",
+    "category_id": "38",
+    "release_date": "2022-05-31 20:47:00",
+    "created_at": "2022-05-31 20:51:54",
+    "updated_at": "2022-05-31 20:53:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15259",
+        "material_title": "0531--inaba-s.jpg",
+        "material_file": "56ace73f773c2646bf34576872e3d87056bb8bf267ed066f96f055adbc49a32f15259.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18286",
+    "content_title": "感謝。",
+    "content_sub_title": "稲場愛香",
+    "release_date": "2022-05-31 20:47:00",
+    "created_at": "2022-05-31 20:51:54",
+    "updated_at": "2022-05-31 20:53:03",
+    "content_text": "0531--inaba-s.jpg\nこれまでLike＝Likeでは食べ物の写真を載せてきていましたが…今回が最後になるのでみんなとの写真にします！ツアーの千秋楽、日本武道館にて行われた卒業公演。本当に楽しい時間でした…♡こんなにも楽しめて、やりきれたと思えて嬉しいです。来てくださった皆さん、ライブビューイングや生中継で見守ってくださった皆さん、メンバーのみんな、たくさんの方のおかげでそう思えるコンサートになりました。これまで応援してくださった皆さん本当にありがとうございました！これからもよろしくお願いします♪",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15259",
+        "material_title": "0531--inaba-s.jpg",
+        "material_file": "b7f503b01d8fd5b2f435c9ab19172c8f0f2f6a24a6682696d37e1f7ab55f742315259.jpeg"
+      }
+    ],
+    "previous_id": "18302",
+    "next_id": "18252",
+    "saved_materials": [
+      "assets/18286_15259_0531--inaba-s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 41,
+    "content_id": "25507",
+    "content_title": "アクセサリー",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2025-12-23 10:00:00",
+    "created_at": "2025-12-19 11:45:54",
+    "updated_at": "2026-01-14 17:27:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20842",
+        "material_title": "1225_ishiyama_s.jpg",
+        "material_file": "c7833940d49c69841c72eaee0cc57ded01f88abb8e42ace4209c407a6d1950c520842.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25507",
+    "content_title": "アクセサリー",
+    "content_sub_title": "石山咲良",
+    "release_date": "2025-12-23 10:00:00",
+    "created_at": "2025-12-19 11:45:54",
+    "updated_at": "2026-01-14 17:27:09",
+    "content_text": "1225_ishiyama_s.jpg\r\n最近アクセサリーが欲しい咲良です！\r\nシュシュとかバレッタとか可愛いのを探しながら街を歩いてます！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20842",
+        "material_title": "1225_ishiyama_s.jpg",
+        "material_file": "cff2f48d201934f0d884ce04c9982f6e35aed7be78fe1058f85a444b667b594220842.jpeg"
+      }
+    ],
+    "previous_id": "25506",
+    "next_id": "25505",
+    "saved_materials": [
+      "assets/25507_20842_1225_ishiyama_s.jpg"
+    ]
+  }
+}

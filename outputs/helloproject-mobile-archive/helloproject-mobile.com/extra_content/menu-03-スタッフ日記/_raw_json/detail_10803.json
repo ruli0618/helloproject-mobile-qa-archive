@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 440,
+    "content_id": "10803",
+    "content_title": "工藤の家の屋根裏部屋#42～笠原桃奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-02-07 19:05:00",
+    "created_at": "2019-02-07 19:05:44",
+    "updated_at": "2019-02-07 19:07:16",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9308",
+        "material_title": "0207_03_s.jpg",
+        "material_file": "069f4f1a5c54874ab56413403ebfdc83dbd393471e9a76cb995a0e39e8949c919308.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9309",
+        "material_title": "0207_02_s.jpg",
+        "material_file": "fd8c63b5bfd04892c7c46b44eeaaf8a8d4fd6a4c0ba0e0995b9824cab025ecaa9309.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "9310",
+        "material_title": "0207_01_s.jpg",
+        "material_file": "22c85e6dde8bbe4e4f38cb9e675f793eaf6fbb70f860391e307a885d98fe70d59310.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 422,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10803",
+    "content_title": "工藤の家の屋根裏部屋#42～笠原桃奈～",
+    "content_sub_title": "",
+    "release_date": "2019-02-07 19:05:00",
+    "created_at": "2019-02-07 19:05:44",
+    "updated_at": "2019-02-07 19:07:16",
+    "content_text": "「ふくむらの部屋」42回目の配信開始です！\n今回のゲストはアンジュルムの笠原桃奈さんが登場！\n\n0207_01_s.jpg\n\n2月といえば節分！節分といえば豆まき！\n二人が考える、豆をぶつけられないほど怖い鬼にふさわしいメンバーは？\n\n大人っぽく見られがちな二人。\n日常や仕事で困った・得したエピソードに共感！\n\n二人の憧れの先輩、亀井絵里さんについても共感！！\n\n0207_02_s.jpg\n\n<a href=\"http://www.musume-audition.com/\" target=\"_blank\">モーニング娘。'19 LOVEオーディション</a>開催中！\n二人のオーディションにまつわる思い出話\n\n0207_03_s.jpg\n\nお試し新コーナー「悩みをキラーンと解決」\nみなさんのお悩みについてきちんと考えられているのではないでしょうか？？\n\n\n次回もお試し新コーナー\n「ハロプロなんでもベスト3」\nハロー！プロジェクトに関するお題について\nリスナーの皆さんの考えるベスト3を募集するコーナーです。\nお題は「好きなハロプログッズベスト3」\nあなたのお気に入りのグッズをランキングでお送りください！\n\n\n\n「みずき先生のハロプロ講座」「ハロプロなんでもベスト3」\n「普通のお便り」\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9308",
+        "material_title": "0207_03_s.jpg",
+        "material_file": "f9820e2b67597c84eb35f70996aa96862a438fdfc98ad816754fbb9c329889109308.jpeg"
+      },
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9309",
+        "material_title": "0207_02_s.jpg",
+        "material_file": "cd0fb22b967b21182949ccc25e295c0d71a9a7c3d1c3ad858d3c3c8357253d499309.jpeg"
+      },
+      {
+        "secretKey": "6829128ab93a3680028683a83369134f",
+        "material_id": "9310",
+        "material_title": "0207_01_s.jpg",
+        "material_file": "2bc6bb51b1d30ae84ac0f43a62963d4f627205b7789da9c4ddfc2273dee882f49310.jpeg"
+      }
+    ],
+    "previous_id": "10853",
+    "next_id": "10732",
+    "saved_materials": [
+      "assets/10803_9308_0207_03_s.jpg",
+      "assets/10803_9309_0207_02_s.jpg",
+      "assets/10803_9310_0207_01_s.jpg"
+    ]
+  }
+}

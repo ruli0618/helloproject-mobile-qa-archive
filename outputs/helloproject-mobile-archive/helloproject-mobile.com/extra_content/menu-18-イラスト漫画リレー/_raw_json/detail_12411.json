@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 1,
+    "content_id": "12411",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "小片リサ",
+    "category_id": "55",
+    "release_date": "2019-11-14 13:00:00",
+    "created_at": "2019-10-24 13:54:52",
+    "updated_at": "2020-12-25 12:23:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10527",
+        "material_title": "31_ogata.jpg",
+        "material_file": "263b9ec0905a517e6e50a13aa948dbb37821dd06f4657e7fbfc27e090323cf6a10527.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "12411",
+    "content_title": "つばきファクトリー",
+    "content_sub_title": "小片リサ",
+    "release_date": "2019-11-14 13:00:00",
+    "created_at": "2019-10-24 13:54:52",
+    "updated_at": "2020-12-25 12:23:53",
+    "content_text": "31_ogata.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "10527",
+        "material_title": "31_ogata.jpg",
+        "material_file": "263b9ec0905a517e6e50a13aa948dbb37821dd06f4657e7fbfc27e090323cf6a10527.jpeg"
+      }
+    ],
+    "previous_id": "-1",
+    "next_id": "12410",
+    "saved_materials": [
+      "assets/12411_10527_31_ogata.jpg"
+    ]
+  }
+}

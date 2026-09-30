@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 224,
+    "content_id": "21027",
+    "content_title": "わーい！わーい！",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2023-10-19 10:00:00",
+    "created_at": "2023-10-17 18:01:30",
+    "updated_at": "2023-10-17 18:01:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17294",
+        "material_title": "1019_ishiyama_s.jpg",
+        "material_file": "9e6db19573bad4f141cf3668b5c1006fbfb67a971153878fab021f62c67869fd17294.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21027",
+    "content_title": "わーい！わーい！",
+    "content_sub_title": "石山咲良",
+    "release_date": "2023-10-19 10:00:00",
+    "created_at": "2023-10-17 18:01:30",
+    "updated_at": "2023-10-17 18:01:30",
+    "content_text": "1019_ishiyama_s.jpg\r\nこの日は自然光が凄かった！\r\n彩加里ごんにハートのポイフル貰えたんだ〜",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17294",
+        "material_title": "1019_ishiyama_s.jpg",
+        "material_file": "6a4f2b2ce7e5440c455e1a88602af05a5cf0fc763828d7692c91bc5ce8a9ab2917294.jpeg"
+      }
+    ],
+    "previous_id": "21028",
+    "next_id": "20965",
+    "saved_materials": [
+      "assets/21027_17294_1019_ishiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 650,
+    "content_id": "5240",
+    "content_title": "浜浦彩乃&和田桜子イベント",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-08-23 23:09:00",
+    "created_at": "2016-08-23 23:05:59",
+    "updated_at": "2016-08-23 23:18:13",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4732",
+        "material_title": "160823_01.jpg",
+        "material_file": "f62a8c0ad16753d928568f6ab9a16d6cec98121053d9c3195352d438fcd6cb7d4732.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4733",
+        "material_title": "160823_02.jpg",
+        "material_file": "d45e32249cab17aa26c4549f96bd2ff4692f180c53310d45e39f1db3385b39cd4733.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4734",
+        "material_title": "160823_03.jpg",
+        "material_file": "afa1be3a25064ec5cfb0b3f5efe606279a660005028d11643b963664141be0984734.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5240",
+    "content_title": "浜浦彩乃&和田桜子イベント",
+    "content_sub_title": "",
+    "release_date": "2016-08-23 23:09:00",
+    "created_at": "2016-08-23 23:05:59",
+    "updated_at": "2016-08-23 23:18:13",
+    "content_text": "みなさん、こんにちは！\nハロ！モバスタッフ番号2番です！\n\n先日、e-LineUP! 浜浦彩乃&和田桜子Blu-ray「Greeting～浜浦彩乃・和田桜子～」購入者イベントが、パシフィックヘブンにて行われました。\n\n160823_01.jpg\nこっそり後ろからパシャリ。\n\n160823_02.jpg\nファンの方からの質問に答えているお2人。\n\n160823_03.jpg\n楽しそうですね。\n\nこのDVDの受注受付は終了してしまいましたが…、ダイジェスト映像は何回でも見れます！\n2人の初々しいセーラー服姿をぜひ見て下さいね！\n\n<span style=\"word-break: break-word\">\n<a href=\"https://youtu.be/kDF57Q_mj0U\" target=\"_blank\"><font color=\"#0000ff\"><u>★ダイジェスト映像はこちら★</u></font></a>\n</span>\n\nそしてDVD購入を逃してしまった…というそこのあなた、「e-LineUP!」でメルマガ登録をすると受注生産商品や新商品の情報が逐一知れるのでオススメです！\n\n<span style=\"word-break: break-word\">\n<a href=\"http://www.e-lineup.com/\" target=\"_blank\"><font color=\"#0000ff\"><u>★通販サイト「e-LineUP!」はこちら★</u></font></a>\n</span>\n\n\n\nP.S.暑中お見舞い葉書き到着のご報告ありがとうございました～！\nスタッフ番号2番とっても嬉しいです！",
+    "materials": [
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4732",
+        "material_title": "160823_01.jpg",
+        "material_file": "1f14eaf0d66d5ff459418c58ccd1e3dc0e4c398c5f8d83e29db1941ac1591bbb4732.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4733",
+        "material_title": "160823_02.jpg",
+        "material_file": "22acb25c278904cabfac43bf7d8d2a48994999a7938d3be3cabcfa6ff628302a4733.jpeg"
+      },
+      {
+        "secretKey": "ffc5362753ed9bab2d5c05fa1837f0ff",
+        "material_id": "4734",
+        "material_title": "160823_03.jpg",
+        "material_file": "186fb3babbc2281230728363437fb858d6aef4d2db2635aefba14564960be8ad4734.jpeg"
+      }
+    ],
+    "previous_id": "5267",
+    "next_id": "5213",
+    "saved_materials": [
+      "assets/5240_4732_160823_01.jpg",
+      "assets/5240_4733_160823_02.jpg",
+      "assets/5240_4734_160823_03.jpg"
+    ]
+  }
+}

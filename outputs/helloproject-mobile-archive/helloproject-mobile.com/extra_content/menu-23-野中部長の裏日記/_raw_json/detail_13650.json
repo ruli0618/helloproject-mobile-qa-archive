@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 99,
+    "content_id": "13650",
+    "content_title": "はじまりましたよん",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2020-04-21 10:00:00",
+    "created_at": "2020-04-15 16:53:34",
+    "updated_at": "2020-04-21 10:50:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "13650",
+    "content_title": "はじまりましたよん",
+    "content_sub_title": "",
+    "release_date": "2020-04-21 10:00:00",
+    "created_at": "2020-04-15 16:53:34",
+    "updated_at": "2020-04-21 10:50:30",
+    "content_text": "やっほう<img src=\"/emoji/emoji-images/f479.gif\"/>\r\n野中部長の裏日記(´・ω・｀)\r\nはじまりましたん！\r\n\r\n\r\n\r\n裏日記ではブログには書いてない\r\nエピソードとか裏話とか\r\nいろいろ書こうと思ってる<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n\r\n\r\n\r\n\r\n私の個人的な趣味とかも\r\n（筋トレとかかわいいものとか色々）\r\nなんでも自由に書くぞー<img src=\"/emoji/emoji-images/f399.gif\"/>\r\n\r\n\r\n\r\n\r\n気軽にみてねん！\r\nこれからよろしくお願いしますねん<img src=\"/emoji/emoji-images/f479.gif\"/>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13669",
+    "next_id": "-1",
+    "saved_materials": []
+  }
+}

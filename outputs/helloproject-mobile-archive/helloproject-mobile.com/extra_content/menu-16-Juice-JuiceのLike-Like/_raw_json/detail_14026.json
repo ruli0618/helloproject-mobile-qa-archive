@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 541,
+    "content_id": "14026",
+    "content_title": "ランクアップ",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2020-06-18 10:00:00",
+    "created_at": "2020-06-18 18:32:23",
+    "updated_at": "2020-06-18 18:32:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "11710",
+        "material_title": "0618_uemura_s.jpg",
+        "material_file": "1488d4005721a81f9984f393103767afae9190fd8af49f1cf93fb92db2ec095e11710.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14026",
+    "content_title": "ランクアップ",
+    "content_sub_title": "植村あかり",
+    "release_date": "2020-06-18 10:00:00",
+    "created_at": "2020-06-18 18:32:23",
+    "updated_at": "2020-06-18 18:32:23",
+    "content_text": "植村あかりです！\r\n\r\n0618_uemura_s.jpg\r\n\r\nいきなりステーキのカードがランクアップしました\r\n\r\nうれしい！\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "f06992449a7ba456d33149fa4280b54e",
+        "material_id": "11710",
+        "material_title": "0618_uemura_s.jpg",
+        "material_file": "56fbb14ca5129ad315336c7dfb8959b6389cd4cf7ab351546d982739ab982bfb11710.jpeg"
+      }
+    ],
+    "previous_id": "14027",
+    "next_id": "13939",
+    "saved_materials": [
+      "assets/14026_11710_0618_uemura_s.jpg"
+    ]
+  }
+}

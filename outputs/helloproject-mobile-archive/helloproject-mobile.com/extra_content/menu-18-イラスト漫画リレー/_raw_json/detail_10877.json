@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 8,
+    "content_id": "10877",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "島倉りか",
+    "category_id": "55",
+    "release_date": "2019-02-20 18:00:00",
+    "created_at": "2019-02-20 16:53:08",
+    "updated_at": "2019-02-21 10:03:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9342",
+        "material_title": "21_shimakura.jpg",
+        "material_file": "0d3457354929414df40d8d72a7b5850310debe097346c4ae3fc72204a64233849342.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "55",
+    "category_title": "シーズン1",
+    "category_content": "昔々ある所に、おじいさんとおばあさんが住んでいました。\nおばあさんが川へ洗濯に行くと、川上から何かが流れてきました。",
+    "category_color": "#FFFFFF",
+    "menu_id": "18",
+    "is_new": 0,
+    "content_id": "10877",
+    "content_title": "BEYOOOOONDS",
+    "content_sub_title": "島倉りか",
+    "release_date": "2019-02-20 18:00:00",
+    "created_at": "2019-02-20 16:53:08",
+    "updated_at": "2019-02-21 10:03:03",
+    "content_text": "21_shimakura.jpg",
+    "materials": [
+      {
+        "secretKey": "2d7e31cee84d552b346c8b575dea9b3e",
+        "material_id": "9342",
+        "material_title": "21_shimakura.jpg",
+        "material_file": "0d3457354929414df40d8d72a7b5850310debe097346c4ae3fc72204a64233849342.jpeg"
+      }
+    ],
+    "previous_id": "10975",
+    "next_id": "10717",
+    "saved_materials": [
+      "assets/10877_9342_21_shimakura.jpg"
+    ]
+  }
+}

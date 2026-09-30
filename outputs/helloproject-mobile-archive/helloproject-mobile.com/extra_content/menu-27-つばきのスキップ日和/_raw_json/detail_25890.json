@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 42,
+    "content_id": "25890",
+    "content_title": "おやすみ♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "155",
+    "release_date": "2026-03-20 10:00:00",
+    "created_at": "2026-03-13 23:52:43",
+    "updated_at": "2026-03-13 23:52:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "21213",
+        "material_title": "0320_onoda_s.jpg",
+        "material_file": "77f2e2f3d36e86aba70493774ceb97e8badf286449f98337807d23db4338320821213.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25890",
+    "content_title": "おやすみ♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2026-03-20 10:00:00",
+    "created_at": "2026-03-13 23:52:43",
+    "updated_at": "2026-03-13 23:52:43",
+    "content_text": "最近、暇だとすぐにお掃除をしてしまう、さおりです♪\r\n\r\n\r\nさおり、この間お休みの日にパンとチーズケーキを焼いたの！\r\n\r\nお料理は苦手だけど、お菓子作りは好き！！！\r\n\r\n違いはなんなんだろうか。笑\r\n\r\nとても美味しく焼けて、嬉しかったんだああああー\r\n\r\n次はどんなパンを焼こうか、、、\r\n\r\n考えるだけでワクワクします☆\r\n\r\nまーーーいにち、楽しい日になって幸せ！\r\n\r\n明日も素敵ないちにちになったらいいなあああー♡\r\n\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n0320_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "21213",
+        "material_title": "0320_onoda_s.jpg",
+        "material_file": "250dd6999b811bfcee181bdcd368714d4822136d81db65eeb428c849078edc2d21213.jpeg"
+      }
+    ],
+    "previous_id": "25891",
+    "next_id": "25889",
+    "saved_materials": [
+      "assets/25890_21213_0320_onoda_s.jpg"
+    ]
+  }
+}

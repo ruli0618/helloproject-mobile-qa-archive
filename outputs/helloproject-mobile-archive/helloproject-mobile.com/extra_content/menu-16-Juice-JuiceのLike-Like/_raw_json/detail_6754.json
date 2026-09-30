@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 807,
+    "content_id": "6754",
+    "content_title": "晴れ／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-05-30 13:54:00",
+    "created_at": "2017-05-30 13:56:16",
+    "updated_at": "2017-05-30 13:56:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "5951",
+        "material_title": "6124595678097_s.jpg",
+        "material_file": "dfb42c853668ba7a604ff521e962edacfa5f4ce38ab6f85082970c8852547ecb5951.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 802,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "6754",
+    "content_title": "晴れ／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-05-30 13:54:00",
+    "created_at": "2017-05-30 13:56:16",
+    "updated_at": "2017-05-30 13:56:52",
+    "content_text": "今日の大阪は快晴です<img src=\"/emoji/emoji-images/f89f.gif\"/>\r\n6124595678097_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "4295e85e5ed0e47c014eb4cfc45eb264",
+        "material_id": "5951",
+        "material_title": "6124595678097_s.jpg",
+        "material_file": "ac627f2988670a5b91ea8470e4faf5e31fb99bbe4830ffd34e49678b23cf40205951.jpeg"
+      }
+    ],
+    "previous_id": "6804",
+    "next_id": "6745",
+    "saved_materials": [
+      "assets/6754_5951_6124595678097_s.jpg"
+    ]
+  }
+}

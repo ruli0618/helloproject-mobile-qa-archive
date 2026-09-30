@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 459,
+    "content_id": "10364",
+    "content_title": "アタックNo.1",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-11-28 13:18:00",
+    "created_at": "2018-11-28 13:23:26",
+    "updated_at": "2018-11-28 13:27:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8990",
+        "material_title": "maxresdefault.jpg",
+        "material_file": "ece1eb8a9639e019d6808525cadf09b1e897744e77e6cbce04f863c93063f0548990.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8991",
+        "material_title": "samune.jpg",
+        "material_file": "b160bf6e1859489da66d4657c25185999da24628a219d58e3df11e18e824fcf18991.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "8992",
+        "material_title": "attack-no1.jpg",
+        "material_file": "09beef5bdb50c44d8515b93c167d2629c5a9ed6adf81235580de2ea2040659828992.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10364",
+    "content_title": "アタックNo.1",
+    "content_sub_title": "",
+    "release_date": "2018-11-28 13:18:00",
+    "created_at": "2018-11-28 13:23:26",
+    "updated_at": "2018-11-28 13:27:54",
+    "content_text": "こんにちは！スタッフ番号2番です。\n\n明日11月29日(木)から、アンジュルム主演舞台、全労済ホール／スペース・ゼロ提携公演 演劇女子部「アタックNo.1」がスタートしますね！\n\n顔合せ・本読み、舞台稽古・演出 星田良子さんインタビューの映像が公開されています。\n\n演出家 星田良子さんが話す、メンバーの演技についての評価は要チェックです！\n\n<a href=\"https://youtu.be/DDF3KqNhnas\" target=\"_blank\">【顔合せ・本読みの様子を大公開！】\nmaxresdefault.jpg</a>\n\n<a href=\"https://youtu.be/y8BbCh88axs\" target=\"_blank\">【稽古の様子をお届け！演出：星田良子インタビュー】\nsamune.jpg</a>\n\n新メンバーも加入して今大注目のアンジュルム、\n10日間で終わってしまう舞台ですので、ぜひこの機会をお見逃し無く<img src=\"/emoji/emoji-images/4f4e.gif\"/>\n\n場所は、<a href=\"http://www.spacezero.co.jp/\" target=\"_blank\">「全労済ホール / スペース・ゼロ」</a>新宿駅から徒歩すぐです。\n\nチケットや日程の詳しい情報は、<a href=\"http://attack-no1.com/\" target=\"_blank\">特設サイト</a>をご確認ください。\n\n<a href=\"http://attack-no1.com/\" target=\"_blank\">【「アタックNo.1」特設サイト】\nattack-no1.jpg</a>",
+    "materials": [
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8990",
+        "material_title": "maxresdefault.jpg",
+        "material_file": "12afbec50320ba888f24cfbb772f1b6fd3b52152ea17ec541d1cda8b697af36a8990.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8991",
+        "material_title": "samune.jpg",
+        "material_file": "8a0e2b3cd5d14b74c8a0af43581c10d37ad622ba82de0cf8874eed3fc41ba11a8991.jpeg"
+      },
+      {
+        "secretKey": "3c41d1239bf6089cfda5f0018747e90e",
+        "material_id": "8992",
+        "material_title": "attack-no1.jpg",
+        "material_file": "70e71566252bcd29605d050a3c07f61c51d6b7b2d7b7ad355d348ff70f5c44998992.jpeg"
+      }
+    ],
+    "previous_id": "10391",
+    "next_id": "10318",
+    "saved_materials": [
+      "assets/10364_8990_maxresdefault.jpg",
+      "assets/10364_8991_samune.jpg",
+      "assets/10364_8992_attack-no1.jpg"
+    ]
+  }
+}

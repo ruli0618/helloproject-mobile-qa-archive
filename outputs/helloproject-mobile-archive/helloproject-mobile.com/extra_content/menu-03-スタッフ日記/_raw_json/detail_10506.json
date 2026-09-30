@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 455,
+    "content_id": "10506",
+    "content_title": "隣のやじまん家の塀の裏#37 横山玲奈",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-12-13 21:33:00",
+    "created_at": "2018-12-13 21:33:56",
+    "updated_at": "2018-12-13 21:34:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9078",
+        "material_title": "181213_s.jpg",
+        "material_file": "70279efe0cda799073993e84295e5b9316e1b744e1fc9835025e824234f931bd9078.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10506",
+    "content_title": "隣のやじまん家の塀の裏#37 横山玲奈",
+    "content_sub_title": "",
+    "release_date": "2018-12-13 21:33:00",
+    "created_at": "2018-12-13 21:33:56",
+    "updated_at": "2018-12-13 21:34:17",
+    "content_text": "隣のやじまん家#37公開中♪\n\n今回のゲストは、終始にこにこ笑顔のこの方！\nモーニング娘。'18横山玲奈さんです。\n\n181213_s.jpg\n\n2人で五郎丸ポーズ♪\n\n同期、加賀様とのお話や、先輩との接し方、\n焦った瞬間、海外公演に埼玉話などなど！\n横山さんがお年玉でギターを買ったエピソードも！\n\n「目指せアクトレス矢島」では、白雪姫を熱演！？\n\n次回ゲストは、BEYOOOOONDSから一岡伶奈さんと高瀬くるみさんが出演！\n\n12月25日(火)配信予定ですので、お楽しみに！\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。",
+    "materials": [
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9078",
+        "material_title": "181213_s.jpg",
+        "material_file": "b6ccf337914b95328e852e9d2edcf93c6f74671b1a9497ba0a8d28590fccdbbd9078.jpeg"
+      }
+    ],
+    "previous_id": "10509",
+    "next_id": "10425",
+    "saved_materials": [
+      "assets/10506_9078_181213_s.jpg"
+    ]
+  }
+}

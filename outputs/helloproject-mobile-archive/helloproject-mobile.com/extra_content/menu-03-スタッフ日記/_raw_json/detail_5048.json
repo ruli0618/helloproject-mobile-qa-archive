@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 655,
+    "content_id": "5048",
+    "content_title": "もう1枚…",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-07-27 22:59:00",
+    "created_at": "2016-07-27 22:54:24",
+    "updated_at": "2016-07-27 22:59:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4570",
+        "material_title": "160727_1.jpg",
+        "material_file": "ab68986ea47e5ef409571f3cce0907ae03976be92e983ea6c6470e5e76e7a6e74570.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4571",
+        "material_title": "160727_2.jpg",
+        "material_file": "accf0b22a75551a541d4f5bb41af43a337f63b2f67f3a4cbc9e2dec2f73f4fd84571.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5048",
+    "content_title": "もう1枚…",
+    "content_sub_title": "",
+    "release_date": "2016-07-27 22:59:00",
+    "created_at": "2016-07-27 22:54:24",
+    "updated_at": "2016-07-27 22:59:02",
+    "content_text": "こんにちは！\nハロ！モバスタッフ番号2番です。\nこのところ暑くてじめじめした日が続きますね。皆さん、いかがお過ごしですか？\n\nそんな日にはこれ！\n「<a href=\"https://helloproject-mobile.com/info/special/content?page=syotyuumimai_2016/index\"><font color=\"#0000ff\"><u>暑中お見舞い特集</u></font></a>」を見て、暑さを乗り切りましょう！\n\nメンバーの暑中お見舞い画像が見れるだけでなく、プレゼント応募も絶賛受付中！\n当選者には、メンバー直筆の葉書きがお届けされます！\n応募締め切りは8月3日(水)17:59までですので、応募し忘れが無いようお気をつけ下さい。\n\n\nところで…、\n今回の企画のために、メンバーには予備も含めて葉書きを2枚ずつ配りますが、\nその中で2枚も暑中お見舞いを書いてくれたメンバーが居ました。\n\nそのままお蔵入りになっちゃ、\nもったいないもったいない！ということで、特別にここで公開しちゃいます！\n\n\n160727_1.jpg\n\n160727_2.jpg\n\nこちらはプレゼント応募対象外ですので\n皆さんのお手元には届きません（こっちの絵柄の方がいい！という方、ごめんなさい。）が、「<a href=\"https://helloproject-mobile.com/info/special/content?page=syotyuumimai_2016/index\"><font color=\"#0000ff\"><u>暑中お見舞い特集</u></font></a>」に掲載されている画像は暑中お見舞いとして受け取ることができます！\n\nぜひぜひこの機会にご応募ください！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4570",
+        "material_title": "160727_1.jpg",
+        "material_file": "e83ca237e198dc50776b85289484fc3cbdb4621743053a9e95c8d480530618b44570.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4571",
+        "material_title": "160727_2.jpg",
+        "material_file": "bf5bf89a78929b5f47bbb4685cbd99e66ae0d2f8637d0dc8b7ed9e75b53fcd4c4571.jpeg"
+      }
+    ],
+    "previous_id": "5072",
+    "next_id": "4990",
+    "saved_materials": [
+      "assets/5048_4570_160727_1.jpg",
+      "assets/5048_4571_160727_2.jpg"
+    ]
+  }
+}

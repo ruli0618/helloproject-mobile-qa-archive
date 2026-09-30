@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 37,
+    "content_id": "18804",
+    "content_title": "お寿司",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "115",
+    "release_date": "2022-09-12 10:00:00",
+    "created_at": "2022-09-09 15:08:41",
+    "updated_at": "2022-09-09 15:08:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15656",
+        "material_title": "0912_ono_s.jpg",
+        "material_file": "c24d9514a9d36e019cdccb3f546a98f272a0b93b257826e62873b5ca04f5573715656.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18804",
+    "content_title": "お寿司",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2022-09-12 10:00:00",
+    "created_at": "2022-09-09 15:08:41",
+    "updated_at": "2022-09-09 15:08:41",
+    "content_text": "0912_ono_s.jpg\r\n海の近くで\r\nいつもよりちょびっと贅沢な\r\n美味しいお寿司を食べました〜！！\r\n\r\nめちゃくちゃおいしかったなあ♡\r\nまた食べたい！！\r\n\r\nばいばい( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15656",
+        "material_title": "0912_ono_s.jpg",
+        "material_file": "b1dacfb3aa6b11fae9c99a902c347a968cd2221d742640fdd63f861e4781d3d415656.jpeg"
+      }
+    ],
+    "previous_id": "18805",
+    "next_id": "18717",
+    "saved_materials": [
+      "assets/18804_15656_0912_ono_s.jpg"
+    ]
+  }
+}

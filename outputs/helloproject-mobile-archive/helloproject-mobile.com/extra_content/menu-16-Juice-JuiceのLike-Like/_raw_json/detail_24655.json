@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 72,
+    "content_id": "24655",
+    "content_title": "七夕",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2025-07-10 17:18:00",
+    "created_at": "2025-07-10 17:19:18",
+    "updated_at": "2025-07-10 17:19:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "20137",
+        "material_title": "0710_inoue_s.jpg",
+        "material_file": "797119e4f8b79538feadcdc66312346c3fc2d5a65931d2e3181b8c2a9cbf0d5920137.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24655",
+    "content_title": "七夕",
+    "content_sub_title": "井上玲音",
+    "release_date": "2025-07-10 17:18:00",
+    "created_at": "2025-07-10 17:19:18",
+    "updated_at": "2025-07-10 17:19:18",
+    "content_text": "0710_inoue_s.jpg\r\n短冊かけなかったのは久しぶりです。\r\nくやしい、、\r\nけど毎日楽しいからいいもん",
+    "materials": [
+      {
+        "secretKey": "4778b5fb3eefda08fc9ccf487af6a4df",
+        "material_id": "20137",
+        "material_title": "0710_inoue_s.jpg",
+        "material_file": "ab83fb72e58d2fb463b5ae0f4dd679978c5023201a41ce351dd8b6b692ce84dd20137.jpeg"
+      }
+    ],
+    "previous_id": "24768",
+    "next_id": "24609",
+    "saved_materials": [
+      "assets/24655_20137_0710_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 23,
+    "content_id": "12413",
+    "content_title": "ちいさな。",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2019-10-25 16:09:00",
+    "created_at": "2019-10-25 16:09:26",
+    "updated_at": "2019-10-25 16:09:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "b839d95b522f633fc449b149d15838ba",
+        "material_id": "10529",
+        "material_title": "1025_tanimoto_s.jpg",
+        "material_file": "0c225ce570207620d90b42349638bc7c7aa25b6cfb03d73d3241b3d91f60634b10529.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12413",
+    "content_title": "ちいさな。",
+    "content_sub_title": "谷本安美",
+    "release_date": "2019-10-25 16:09:00",
+    "created_at": "2019-10-25 16:09:26",
+    "updated_at": "2019-10-25 16:09:26",
+    "content_text": "いかがお過ごしですか？？\r\n花壇に可愛らしいちいさなお花が\r\nたくさん咲いていました！！\r\nみなさんは何色が好みですか〜？？\r\n\r\n1025_tanimoto_s.jpg",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10529",
+        "material_title": "1025_tanimoto_s.jpg",
+        "material_file": "ad085116cf29fb0ad92aa65d22195e90b8f25cf179b82dd1f0411168915ba97810529.jpeg"
+      }
+    ],
+    "previous_id": "12458",
+    "next_id": "12292",
+    "saved_materials": [
+      "assets/12413_10529_1025_tanimoto_s.jpg"
+    ]
+  }
+}

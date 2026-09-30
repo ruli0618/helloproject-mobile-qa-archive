@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 112,
+    "content_id": "21614",
+    "content_title": "遅いお正月",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-01-25 16:40:00",
+    "created_at": "2024-01-25 16:44:18",
+    "updated_at": "2024-01-25 16:44:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17758",
+        "material_title": "240125.jpg",
+        "material_file": "877b9c7da51007747b64e8eed161d7633a567b385b4ae6a4efcce54d4d6d141617758.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21614",
+    "content_title": "遅いお正月",
+    "content_sub_title": "",
+    "release_date": "2024-01-25 16:40:00",
+    "created_at": "2024-01-25 16:44:18",
+    "updated_at": "2024-01-25 16:44:18",
+    "content_text": "こんにちは！\r\nスタッフ番号2番です。\r\n\r\n<a href=\"http://helloproject-mobile.com/info/special/content?page=nenshi_2024/index\" target=\"_blank\">年始特設ページ</a>にて行われた、メンバー直筆年賀状プレゼント企画では、沢山のご応募ありがとうございました！\r\n\r\n先日、当選分を発送してきました。\r\n早ければ本日から29日頃までに当選者の方のもとへお届けされます。\r\n\r\nポストの中をチェックしてみてくださいね！\r\n\r\nもしプレゼントが届いた方は、ぜひハガキの写真を撮って、ハッシュタグ「<a href=\"https://twitter.com/search?q=%23%E3%83%8F%E3%83%AD%E3%83%A2%E3%83%90&src=typed_query&f=live\" target=\"_blank\">#ハロモバ</a>」をつけて、SNSへの画像アップをお願いします！\r\n\r\n240125.jpg\r\n\r\n<a href=\"http://helloproject-mobile.com/info/special/content?page=nenshi_2024/index\" target=\"_blank\">年始特設ページ</a>は、1月中の公開予定です。",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "17758",
+        "material_title": "240125.jpg",
+        "material_file": "98871abd33d13153a9e65cb3f063e78e8922d16bab7ef852393fbea9fd6d286117758.jpeg"
+      }
+    ],
+    "previous_id": "22929",
+    "next_id": "23378",
+    "saved_materials": [
+      "assets/21614_17758_240125.jpg"
+    ]
+  }
+}

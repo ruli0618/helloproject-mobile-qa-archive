@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 594,
+    "content_id": "6959",
+    "content_title": "工藤の家の屋根裏部屋#2 ～工藤遥～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-07-03 23:21:00",
+    "created_at": "2017-07-03 23:26:33",
+    "updated_at": "2017-07-03 23:29:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6132",
+        "material_title": "170703_3_s.jpg",
+        "material_file": "6f2aadf72cfa4b393b9cf3074ee4f0cf75cca0ae683c78c0e776703c93b2a53a6132.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6959",
+    "content_title": "工藤の家の屋根裏部屋#2 ～工藤遥～",
+    "content_sub_title": "",
+    "release_date": "2017-07-03 23:21:00",
+    "created_at": "2017-07-03 23:26:33",
+    "updated_at": "2017-07-03 23:29:33",
+    "content_text": "「ふくむらの部屋」第2回目公開です！\r\n\r\n\r\n今回はゲストにモーニング娘。'17工藤遥さんが登場！\r\n\r\nハロ！モバ宣伝部顧問であり、ふくむらの部屋の大家でもある頼もしいゲストに\r\nリラックスした雰囲気でお送りしています～\r\n\r\n170703_3_s.jpg\r\n\r\n「みずき先生のハロプロ講座」のコーナー\r\nリスナーからのメールに共感の2人！\r\n2人はハロプロエッグ時代からの関係ということもあり\r\n懐かしいエピソードも交えながら、か・な・りハロプロ愛に溢れたトークとなっています！\r\n\r\n「みずきお嬢様の私生活」のコーナー\r\n譜久村さんの私生活がどんどん暴かれる!?\r\nそして初回にしてお嬢様のワガママでコーナー存続の危機!?\r\nいえいえ、もちろん続きますのでメールお待ちしています！\r\n\r\n\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6132",
+        "material_title": "170703_3_s.jpg",
+        "material_file": "df1a5971d87d79c6f9a6a2f799deaccfdcb7eeb462e9e63a00843c6194d611186132.jpeg"
+      }
+    ],
+    "previous_id": "6960",
+    "next_id": "6900",
+    "saved_materials": [
+      "assets/6959_6132_170703_3_s.jpg"
+    ]
+  }
+}

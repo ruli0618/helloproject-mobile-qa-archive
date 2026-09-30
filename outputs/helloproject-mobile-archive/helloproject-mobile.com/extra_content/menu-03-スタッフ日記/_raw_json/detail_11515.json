@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 415,
+    "content_id": "11515",
+    "content_title": "宣伝会議 議事録#38",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-05-30 16:07:00",
+    "created_at": "2019-05-30 16:09:09",
+    "updated_at": "2019-05-30 16:17:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9830",
+        "material_title": "0530_B_02_s.jpg",
+        "material_file": "b55f0da2109e2794117a02481e38300402c57e993d1bb98d752527ca2bb8cd459830.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9831",
+        "material_title": "0530_B_01_s.jpg",
+        "material_file": "e2a2cd3da59e1a3c9cd5fe1ec6793bcff0a6717a49976286bfb03e79f37877519831.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "11515",
+    "content_title": "宣伝会議 議事録#38",
+    "content_sub_title": "",
+    "release_date": "2019-05-30 16:07:00",
+    "created_at": "2019-05-30 16:09:09",
+    "updated_at": "2019-05-30 16:17:48",
+    "content_text": "ハロモバ宣伝会議\r\n38回目の配信開始です！\r\n\r\n今回は小片副部長が欠席のため\r\n野中部長、川村広報、前田書記兼警備の3人でお送りします！\r\n\r\n0530_B_01_s.jpg\r\n\r\n小片副部長について3人の本音を告白するところから始まりました。\r\n\r\n\r\n今回の会議ではハロ！モバのコンテンツについてたくさん話しました！\r\n\r\nシナリオ迷走中（?）のイラスト漫画リレーを軌道修正！\r\n\r\n続きを野中部長と川村広報が書きました！\r\n\r\nチェックしてくださいね！\r\n\r\n\r\n川村広報、前田書記兼警備のハロ！モバコーナーを考えたり\r\n\r\n妄想動画の撮影強化月間開始！\r\n着々と撮影が進んでいますのでこちらもお楽しみに！！\r\n\r\n\r\n↓前田書記が初めて書いた議事録はこちら↓\r\n\r\n0530_B_02_s.jpg\r\n\r\n\r\n「励ましのメール」お待ちしています！\r\n\r\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送りください",
+    "materials": [
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9830",
+        "material_title": "0530_B_02_s.jpg",
+        "material_file": "5be158a10af0b254f0dc58e2744997700131efe15c51db83056f1aa99e6d68089830.jpeg"
+      },
+      {
+        "secretKey": "12b03fe5ffdf2802f19c559452706ee9",
+        "material_id": "9831",
+        "material_title": "0530_B_01_s.jpg",
+        "material_file": "d60eec730f9447dfd5c149e39c04f7a9901f4746f09edb4706b7100397e56e099831.jpeg"
+      }
+    ],
+    "previous_id": "11566",
+    "next_id": "11514",
+    "saved_materials": [
+      "assets/11515_9830_0530_B_02_s.jpg",
+      "assets/11515_9831_0530_B_01_s.jpg"
+    ]
+  }
+}

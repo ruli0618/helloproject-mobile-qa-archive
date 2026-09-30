@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 846,
+    "content_id": "5485",
+    "content_title": "おにくにく／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-10-11 12:41:00",
+    "created_at": "2016-10-11 12:42:33",
+    "updated_at": "2016-10-11 12:44:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "4955",
+        "material_title": "5001613718667_s.jpg",
+        "material_file": "d813ec9d671251c757454849b6a95c408645aa0282fab4fffc052aa3175978a04955.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 842,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "5485",
+    "content_title": "おにくにく／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2016-10-11 12:41:00",
+    "created_at": "2016-10-11 12:42:33",
+    "updated_at": "2016-10-11 12:44:43",
+    "content_text": "5001613718667_s.jpg\r\nバースデーイベントのご褒美で金澤朋子ちゃんと高級しゃぶしゃぶを頂きました。(*^^*)なんて贅沢。。おいしすぎました！！\r\n",
+    "materials": [
+      {
+        "secretKey": "d24433b8f242ce1bf52917cdef60d022",
+        "material_id": "4955",
+        "material_title": "5001613718667_s.jpg",
+        "material_file": "30bb7a671157eb7517d65cba51a6ed928f4492e567cd81a291a27fadff57fa044955.jpeg"
+      }
+    ],
+    "previous_id": "5500",
+    "next_id": "5409",
+    "saved_materials": [
+      "assets/5485_4955_5001613718667_s.jpg"
+    ]
+  }
+}

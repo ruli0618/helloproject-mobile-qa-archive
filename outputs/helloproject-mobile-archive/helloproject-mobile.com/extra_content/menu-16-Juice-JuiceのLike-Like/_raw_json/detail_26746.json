@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 10,
+    "content_id": "26746",
+    "content_title": "ケーキ",
+    "content_sub_title": "江端妃咲",
+    "category_id": "38",
+    "release_date": "2026-08-27 10:00:00",
+    "created_at": "2026-08-19 19:52:32",
+    "updated_at": "2026-08-19 19:52:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21836",
+        "material_title": "0827_ebatas.jpg",
+        "material_file": "906a62a63bb7ffed77229bd6244881467e4810e1466275e0d171b14b3f3efff621836.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "26746",
+    "content_title": "ケーキ",
+    "content_sub_title": "江端妃咲",
+    "release_date": "2026-08-27 10:00:00",
+    "created_at": "2026-08-19 19:52:32",
+    "updated_at": "2026-08-19 19:52:32",
+    "content_text": "0827_ebatas.jpg\r\nえばです！\r\n\r\nお友達と久しぶりにケーキを食べに行きました♡♡\r\n\r\nタルトケーキを食べたんですけど\r\nいっぱい種類があってめちゃくちゃ迷った\r\n\r\n\r\n私が迷ったのは\r\nイチゴのタルトとシャインマスカットのタルトとみかんのタルト\r\n\r\n全部美味しそうすぎてやばかった。。\r\n\r\n結局イチゴとチョコムースのタルトにして、ドリンクをみかんジュースにした！\r\n\r\nレモネードソーダも大好きだけど、みかんのケーキも食べたかったっていう気持ちがあったのでみかんジュースにしました笑\r\n\r\n\r\n毎週行って全制覇したい-  ̫ -笑\r\n\r\n\r\nほなね〜\r\n江端妃咲",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "21836",
+        "material_title": "0827_ebatas.jpg",
+        "material_file": "d9f93b2f8dabdc1001dd214fa7e699e9f2ec776eb0d01c62b36925380594965721836.jpeg"
+      }
+    ],
+    "previous_id": "26747",
+    "next_id": "26745",
+    "saved_materials": [
+      "assets/26746_21836_0827_ebatas.jpg"
+    ]
+  }
+}

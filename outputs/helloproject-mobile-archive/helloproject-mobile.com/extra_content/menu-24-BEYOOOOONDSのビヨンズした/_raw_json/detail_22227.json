@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 185,
+    "content_id": "22227",
+    "content_title": "イケメンですかー？",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2024-05-22 10:00:00",
+    "created_at": "2024-05-16 15:22:07",
+    "updated_at": "2024-05-16 15:22:07",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18203",
+        "material_title": "0522_maeda_s.jpg",
+        "material_file": "55b528ed72f746a5c2d22c50cdc15ab8a9da2cae3ec13864ebff6b92a1bf9ce218203.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22227",
+    "content_title": "イケメンですかー？",
+    "content_sub_title": "前田こころ",
+    "release_date": "2024-05-22 10:00:00",
+    "created_at": "2024-05-16 15:22:07",
+    "updated_at": "2024-05-16 15:22:07",
+    "content_text": "0522_maeda_s.jpg\r\nみんなにチャラいって言われるー！笑\r\nフックの法則たくさん聴いてね⟡.·\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18203",
+        "material_title": "0522_maeda_s.jpg",
+        "material_file": "7eae6b027990199efbbd53fb16287243230e3a008ead3054c4699e84ecd8575618203.jpeg"
+      }
+    ],
+    "previous_id": "22229",
+    "next_id": "22205",
+    "saved_materials": [
+      "assets/22227_18203_0522_maeda_s.jpg"
+    ]
+  }
+}

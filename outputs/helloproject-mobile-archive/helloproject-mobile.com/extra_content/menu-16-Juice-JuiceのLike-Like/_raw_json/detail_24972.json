@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 60,
+    "content_id": "24972",
+    "content_title": "見てくれた？",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2025-09-18 10:00:00",
+    "created_at": "2025-09-18 11:49:12",
+    "updated_at": "2025-09-18 11:49:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20396",
+        "material_title": "0918_ishiyama_s.jpg",
+        "material_file": "cac94dea8c8e4d82070878970dc47d3502e0e9c9313f7715690b06aa0f3242f820396.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24972",
+    "content_title": "見てくれた？",
+    "content_sub_title": "石山咲良",
+    "release_date": "2025-09-18 10:00:00",
+    "created_at": "2025-09-18 11:49:12",
+    "updated_at": "2025-09-18 11:49:12",
+    "content_text": "0918_ishiyama_s.jpg\r\n「四の五の言わず颯(さっ)と別れてあげた」\r\n「盛れ！ミ・アモーレ」どちらのMVも見てくれたかな？？\r\n\r\nみんなはどのMVのどのシーンがお気に入り？",
+    "materials": [
+      {
+        "secretKey": "4c932060c69445fc616fbc72658de710",
+        "material_id": "20396",
+        "material_title": "0918_ishiyama_s.jpg",
+        "material_file": "ec9f9970b089c53936b8a20fdfc1736eae438a47d131a08dafc43137de12f2ef20396.jpeg"
+      }
+    ],
+    "previous_id": "24973",
+    "next_id": "24893",
+    "saved_materials": [
+      "assets/24972_20396_0918_ishiyama_s.jpg"
+    ]
+  }
+}

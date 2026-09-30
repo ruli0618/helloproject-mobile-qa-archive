@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 533,
+    "content_id": "8466",
+    "content_title": "宣伝会議 議事録#22",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-29 22:31:00",
+    "created_at": "2018-01-29 22:31:47",
+    "updated_at": "2018-01-29 22:34:43",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7446",
+        "material_title": "180129_03.jpg",
+        "material_file": "b705f0b100aa7d839107bb0eac55b35533babb8992305e0f9625dc461ab2e1977446.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7447",
+        "material_title": "180129_02.jpg",
+        "material_file": "7953be50bf12d356194e6a4248e45f3a11dfc70c12a55b5177c5b4710d3b23e87447.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7448",
+        "material_title": "180129_04.jpg",
+        "material_file": "87bb9afc75222590556df821f715cfa8f258d933c242ecff8df6c33bab3f868a7448.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7449",
+        "material_title": "180129_01.jpg",
+        "material_file": "9079efef9e1df3e8d19b5692e183240402362b8ac39a4c3de17e1137e092a4137449.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8466",
+    "content_title": "宣伝会議 議事録#22",
+    "content_sub_title": "",
+    "release_date": "2018-01-29 22:31:00",
+    "created_at": "2018-01-29 22:31:47",
+    "updated_at": "2018-01-29 22:34:43",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美による22回目の宣伝会議が行われました！ \n\n新年明けて第1回目の今回は、宣伝会議らしくハロ！モバ2018年の活動理念を考えました！\n2018年のハロ！モバ宣伝会議も、どうぞよろしくお願いします！\n\n180129_01.jpg\n\nハロコンの裏話や、各々の年末年始の過ごし方、メンバーに影響された話、冬にまつわるエピソード等など…まったりトークでお送りしました。\n\n180129_02.jpg\n\n今回の書記のメモはこちら！ \n\n180129_03.jpg\n\n梁川秘書のキャラクター、うぱみんも大きく描かれています。\n活動理念も要チェック！\n\n180129_04.jpg\n\nそして、長らくお待たせしていました…昨年開催された「宣伝部イベント」の模様を「ハロー！ムービー」で近日(一部)公開予定です！\nイベントで撮影された「妄想動画」も少しずつアップしますので、楽しみに待っていてくださいね。\n\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様、たくさんのメールありがとうございました！ \n引き続き「励ましのメール」をお待ちしています！ \n\nメールはこちらまで \n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。 \n\n気になる新入部員は今後増えるのか…！？\n次回もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7446",
+        "material_title": "180129_03.jpg",
+        "material_file": "c15dd5a77a2774d408d3278b7fe6c737c0603a5b640ba30fe776f96712845fdf7446.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7447",
+        "material_title": "180129_02.jpg",
+        "material_file": "caa27771e88867a6718186516f805f4a376fb0b64e30a88a17d0d5e69578dfe87447.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7448",
+        "material_title": "180129_04.jpg",
+        "material_file": "15e5a81cf994b6bbf2582542dc9d6942ff74d6de0027b5756fd382e6e98dff657448.jpeg"
+      },
+      {
+        "secretKey": "10f1b6c1aa772f53daeb6d194c0ce7bb",
+        "material_id": "7449",
+        "material_title": "180129_01.jpg",
+        "material_file": "a2a09ec6ba0fbd49510b988da6511e11c83e806fac9a2ca693619807e7dee8967449.jpeg"
+      }
+    ],
+    "previous_id": "8468",
+    "next_id": "8430",
+    "saved_materials": [
+      "assets/8466_7446_180129_03.jpg",
+      "assets/8466_7447_180129_02.jpg",
+      "assets/8466_7448_180129_04.jpg",
+      "assets/8466_7449_180129_01.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 262,
+    "content_id": "20300",
+    "content_title": "みふちゃん",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2023-06-01 10:00:00",
+    "created_at": "2023-05-30 22:41:54",
+    "updated_at": "2023-05-30 22:41:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16767",
+        "material_title": "0601_dambara_s.jpg",
+        "material_file": "5a88c48cad66613f2cd904569a9bde3a09e6db46f4014e83cb907b4816c76edb16767.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20300",
+    "content_title": "みふちゃん",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2023-06-01 10:00:00",
+    "created_at": "2023-05-30 22:41:54",
+    "updated_at": "2023-05-30 22:41:54",
+    "content_text": "0601_dambara_s.jpg\r\nJuice=Juice新メンバーの川嶋美楓ちゃん！\r\nこれから楽しみだね<img src=\"/emoji/emoji-images/f3a1.gif\"/>",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16767",
+        "material_title": "0601_dambara_s.jpg",
+        "material_file": "da2460b3ade0f091c918330c776440d2f9abb786cd0c20dabf3f68e819a5f68b16767.jpeg"
+      }
+    ],
+    "previous_id": "20317",
+    "next_id": "20296",
+    "saved_materials": [
+      "assets/20300_16767_0601_dambara_s.jpg"
+    ]
+  }
+}

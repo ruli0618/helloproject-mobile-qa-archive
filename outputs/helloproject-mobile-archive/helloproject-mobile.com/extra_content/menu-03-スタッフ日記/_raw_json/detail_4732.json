@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 660,
+    "content_id": "4732",
+    "content_title": "工藤の家の天井裏#11　～しましま～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-06-02 23:02:00",
+    "created_at": "2016-06-02 23:02:14",
+    "updated_at": "2016-06-02 23:08:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4297",
+        "material_title": "160601_2.jpg",
+        "material_file": "76738506fa69edd4d52164244aef9e093ee708cb860cdd65ff4aacfdd65942b64297.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4298",
+        "material_title": "160601_s.jpg",
+        "material_file": "04cbd1c2e0142943febed303fed5f011fa4beb0fa8d4d1489a258803e7a9f65b4298.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "4732",
+    "content_title": "工藤の家の天井裏#11　～しましま～",
+    "content_sub_title": "",
+    "release_date": "2016-06-02 23:02:00",
+    "created_at": "2016-06-02 23:02:14",
+    "updated_at": "2016-06-02 23:08:42",
+    "content_text": "やじまの部屋やな#11公開中です！ \nしましまコンビはいかがでしたか？\n\n香港での思い出から始まり、\nお互いを下の名前で呼び合ったり…（途中普段の呼び方に戻っていましたが）\nそれぞれの意外な一面や、ライブ中のマナー、℃-uteとしてグループの結束について語る2人。\nteam℃-uteの皆さん必聴です。\n\n矢島さん曰く今まで2番目くらいに出来がいい、\n「犯人を追え！」コーナーの似顔絵はこちら。 \n\n160601_2.jpg\n\n番組11回目にして、「犯人を追え！」コーナーの存在に疑問を感じてきた矢島さん。\nそしていつかどこかで似顔絵の展示はあるのでしょうか。\n\nこちらは水に生きている中島さん。\n\n160601_s.jpg\n\n2人が約束した通り、リバーボードに挑戦出来ることを願います。\n\n\n次回ゲストは、 \nやじまの部屋やな出演2回目のあの人！\n次の配信をお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4297",
+        "material_title": "160601_2.jpg",
+        "material_file": "be4d0b0417112b5d7213c0abee6b129f957f3b109bd31ff76c537a1ba18b22d44297.jpeg"
+      },
+      {
+        "secretKey": "f333cca51bc5d6ead6e81c2eb013931e",
+        "material_id": "4298",
+        "material_title": "160601_s.jpg",
+        "material_file": "a02f4075cfcb78f6a6c62049317aadb32e968bb5d748e684332c0233342a319a4298.jpeg"
+      }
+    ],
+    "previous_id": "4916",
+    "next_id": "4724",
+    "saved_materials": [
+      "assets/4732_4297_160601_2.jpg",
+      "assets/4732_4298_160601_s.jpg"
+    ]
+  }
+}

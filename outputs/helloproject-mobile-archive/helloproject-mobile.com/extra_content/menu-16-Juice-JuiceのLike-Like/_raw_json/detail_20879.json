@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 232,
+    "content_id": "20879",
+    "content_title": "風船",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2023-09-21 12:15:00",
+    "created_at": "2023-09-21 12:16:06",
+    "updated_at": "2023-09-21 12:16:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17193",
+        "material_title": "0921_uemura_s.jpg",
+        "material_file": "d01f48757584c2baaf2045eddc29222497f3706accb7771d9a921fe0550c0bd517193.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20879",
+    "content_title": "風船",
+    "content_sub_title": "植村あかり",
+    "release_date": "2023-09-21 12:15:00",
+    "created_at": "2023-09-21 12:16:06",
+    "updated_at": "2023-09-21 12:16:06",
+    "content_text": "0921_uemura_s.jpg\r\n植村あかりです\r\n\r\n\r\n風船膨らますの下手になってた。。\r\n\r\n次は大丈夫！\r\n\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "6e040246062f09d6e744255996cbf9a0",
+        "material_id": "17193",
+        "material_title": "0921_uemura_s.jpg",
+        "material_file": "5bd9ce903ec5c96ffefa59522db8ea7fdab6c11857617913576e4b0e4eb7b4e817193.jpeg"
+      }
+    ],
+    "previous_id": "20880",
+    "next_id": "20824",
+    "saved_materials": [
+      "assets/20879_17193_0921_uemura_s.jpg"
+    ]
+  }
+}

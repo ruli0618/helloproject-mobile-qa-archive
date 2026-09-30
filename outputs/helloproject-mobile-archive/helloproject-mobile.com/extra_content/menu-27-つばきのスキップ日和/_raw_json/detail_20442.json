@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 138,
+    "content_id": "20442",
+    "content_title": "楽しかったこと",
+    "content_sub_title": "河西結心",
+    "category_id": "155",
+    "release_date": "2023-07-03 18:22:00",
+    "created_at": "2023-07-03 18:24:29",
+    "updated_at": "2023-07-03 18:24:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "16867",
+        "material_title": "0703_kasai_s.jpg",
+        "material_file": "4bf72502dd0af169bc79756fcf30a61b58f0d78d631f149875c65b87c5b38b4516867.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "20442",
+    "content_title": "楽しかったこと",
+    "content_sub_title": "河西結心",
+    "release_date": "2023-07-03 18:22:00",
+    "created_at": "2023-07-03 18:24:29",
+    "updated_at": "2023-07-03 18:24:29",
+    "content_text": "0703_kasai_s.jpg\r\n先日、新沼希空さんと\r\n遊びに行きました！！\r\n\r\nオシャレなピザ食べたんです！\r\nピザ美味しかったです！！\r\n\r\n沢山歩いて沢山お話しして\r\nとっても楽しい一日でした<img src=\"/emoji/emoji-images/f3a1.gif\"/>\r\n\r\nまた遊びに行きたいです＾＾",
+    "materials": [
+      {
+        "secretKey": "6fa2c3b1a342f820736bffae3d9591a8",
+        "material_id": "16867",
+        "material_title": "0703_kasai_s.jpg",
+        "material_file": "9ad5143d75757d6dbed34f4c2493b6e6677cfaeda6a8934bdfd2df714ba2271916867.jpeg"
+      }
+    ],
+    "previous_id": "20484",
+    "next_id": "20422",
+    "saved_materials": [
+      "assets/20442_16867_0703_kasai_s.jpg"
+    ]
+  }
+}

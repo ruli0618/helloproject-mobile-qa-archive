@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 620,
+    "content_id": "6139",
+    "content_title": "遅い正月",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-01-27 22:38:00",
+    "created_at": "2017-01-27 22:33:42",
+    "updated_at": "2017-01-27 22:38:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5458",
+        "material_title": "170127_2_s.jpg",
+        "material_file": "b6bf6fe78aaf1672eff09dd86d15a254c5f535549a41542163c5511a9fe7ca685458.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5460",
+        "material_title": "170127_1_s.jpg",
+        "material_file": "2e004d447f2aab9753841dd6ac840255043b03c89865f5a5b15840cb0325d1b55460.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6139",
+    "content_title": "遅い正月",
+    "content_sub_title": "",
+    "release_date": "2017-01-27 22:38:00",
+    "created_at": "2017-01-27 22:33:42",
+    "updated_at": "2017-01-27 22:38:56",
+    "content_text": "こんばんは。\nハロ！モバスタッフ番号2番です。\n\n皆さん！ハロ！モバ初のオリジナルグッズ「ハロー！プロジェクト オリジナルかるた2017」が受注中である事はご存知ですか？\n\n年明けにハロ！モバで公開していた年始特集ページの企画「オリジナルかるた」が、商品化されたのです！\n\n170127_1_s.jpg\n170127_2_s.jpg\n\n全55種（絵札55枚＋読み札55枚：合計110枚）セットで、価格は￥2,000（税込）。\n3月中旬頃の商品発送予定ですので、遅いお正月気分でこのかるたで遊んでみてくださいね！\n\n受注期間が短く、締切は2月9日(木)23:59までとなっております。ぜひお買い逃しの無いように。\nこの機会を逃すと手に入りません！\n\n売れ行きの結果次第では、ハロ！モバグッズ第2弾第3弾もあるかも…？\n\nチェックよろしくお願いします！\n\n<a href=\"https://www.elineupmall.com/c189/c607/c608/e-lineupmall-2017\"><font color=\"#0000ff\"><u>ご注文はこちらから！</u></font></a>\n\n※期間限定商品のため受注期間を過ぎてしまいますとご購入頂くことができませんので、購入ご希望の方はお早めにご注文下さい。",
+    "materials": [
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5458",
+        "material_title": "170127_2_s.jpg",
+        "material_file": "6ecb967e9cede18fd39e034230ac2b70f16626a4648f79490c3fc7d0a03630e45458.jpeg"
+      },
+      {
+        "secretKey": "75aebe9da20ce211a580ca959d173d2d",
+        "material_id": "5460",
+        "material_title": "170127_1_s.jpg",
+        "material_file": "4b0eb87233098b1fb527c3faf25caa2de6160a421c3bf6a63bab562459c8cd8a5460.jpeg"
+      }
+    ],
+    "previous_id": "6194",
+    "next_id": "6135",
+    "saved_materials": [
+      "assets/6139_5458_170127_2_s.jpg",
+      "assets/6139_5460_170127_1_s.jpg"
+    ]
+  }
+}

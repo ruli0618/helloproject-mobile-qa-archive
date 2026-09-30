@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 36,
+    "content_id": "25614",
+    "content_title": "変化",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2026-01-22 10:00:00",
+    "created_at": "2026-01-20 16:45:42",
+    "updated_at": "2026-01-20 16:45:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "20938",
+        "material_title": "0122_inoue_s.jpg",
+        "material_file": "a823c64ebae6a4de12d4b1a68b7fdaec06e350a597bbb34c78bcc9ddf516d46820938.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25614",
+    "content_title": "変化",
+    "content_sub_title": "井上玲音",
+    "release_date": "2026-01-22 10:00:00",
+    "created_at": "2026-01-20 16:45:42",
+    "updated_at": "2026-01-20 16:45:42",
+    "content_text": "0122_inoue_s.jpg\r\nいつも束感を作ってるまつ毛を、この前セパレートにしただけなのに、友達からいつもとメイク違う？って連絡来て感動しました",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "20938",
+        "material_title": "0122_inoue_s.jpg",
+        "material_file": "dcc22b686fed52ddc4583c2da9e6f9c6a75b5e87ee290d8afe73bad763e4ed3820938.jpeg"
+      }
+    ],
+    "previous_id": "25615",
+    "next_id": "25612",
+    "saved_materials": [
+      "assets/25614_20938_0122_inoue_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 361,
+    "content_id": "13068",
+    "content_title": "春の里山イベント",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-02-12 19:30:00",
+    "created_at": "2020-02-12 19:33:17",
+    "updated_at": "2020-02-12 19:33:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "13068",
+    "content_title": "春の里山イベント",
+    "content_sub_title": "",
+    "release_date": "2020-02-12 19:30:00",
+    "created_at": "2020-02-12 19:33:17",
+    "updated_at": "2020-02-12 19:33:17",
+    "content_text": "こんばんは！\r\nスタッフ番号2番です。\r\n\r\n今年三月に明治神宮にて行われるSATOYAMA＆SATOUMIイベントですが…\r\n\r\nハロ！モバブースの出展はありません…！\r\nミニステージ等の宣伝部イベントもありません…！\r\n\r\n毎年SATOYAMA＆SATOUMIイベントへのハロ！モバブース出展を楽しみにお待ちいただいている皆さまには、大変申し訳ございません。\r\n\r\nイベント元の会場スペースの関係上、何卒ご理解頂けますと幸いです。\r\n\r\n次回、アップフロント主催のSATOYAMA＆SATOUMIイベントで、また企画できればと思います！\r\n\r\n尚、現在PR映像を鋭意制作中ですので、そちらもご期待ください！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "13077",
+    "next_id": "13065",
+    "saved_materials": []
+  }
+}

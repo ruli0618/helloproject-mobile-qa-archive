@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 332,
+    "content_id": "14249",
+    "content_title": "工藤の家の屋根裏部屋#76前編～金澤朋子～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-07-30 19:00:00",
+    "created_at": "2020-07-30 19:02:52",
+    "updated_at": "2020-07-30 19:02:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11851",
+        "material_title": "200730_s.jpg",
+        "material_file": "9605954190bb2cb59d290f194e36e6edcf7642e0cef97936ea92da74a2ff73c611851.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14249",
+    "content_title": "工藤の家の屋根裏部屋#76前編～金澤朋子～",
+    "content_sub_title": "",
+    "release_date": "2020-07-30 19:00:00",
+    "created_at": "2020-07-30 19:02:52",
+    "updated_at": "2020-07-30 19:02:52",
+    "content_text": "ふくむらの部屋 第76回前編配信中！\r\n\r\nゲストは、Juice=Juice金澤朋子さんが出演！\r\n\r\n自分のグループの魅力、\r\n嫌いな野菜や自分へのご褒美についてトーク！\r\n\r\nまた、グループの卒業を控えている宮本佳林さんについて\r\n金澤さん譜久村さんの視点から語って頂きました！\r\n\r\nキラーンとお悩み解決のコーナーでは、\r\n自粛期間中に筋トレにハマり、ハウスキーピング協会認定「クリンネスト」の資格を有する金澤さんに対して、ピッタリなお悩みを解決！\r\n\r\n200730_s.jpg\r\n\r\n次回は、8/11(火)の配信になります。\r\n\r\n後編では引き続き金澤朋子さんがゲスト出演し、金澤さんの推しメンについてもお話伺いました。\r\nぜひお聴き下さい♪\r\n\r\nお楽しみに。",
+    "materials": [
+      {
+        "secretKey": "8c5e83d861c504adf59c626c467641a9",
+        "material_id": "11851",
+        "material_title": "200730_s.jpg",
+        "material_file": "d6eb87899a1fe767fd8f4f74c8c74409726aaab454ffa2fbeca8f1868a68c1cc11851.jpeg"
+      }
+    ],
+    "previous_id": "14260",
+    "next_id": "14155",
+    "saved_materials": [
+      "assets/14249_11851_200730_s.jpg"
+    ]
+  }
+}

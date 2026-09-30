@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 211,
+    "content_id": "21392",
+    "content_title": "ティアラ",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2023-12-07 20:51:00",
+    "created_at": "2023-12-07 20:51:47",
+    "updated_at": "2023-12-07 20:51:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17579",
+        "material_title": "1207_inoue_s.jpg",
+        "material_file": "5771af2b6588ef2e7811e096d8ecc929d9a507799b202feb80b8180783aa677017579.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21392",
+    "content_title": "ティアラ",
+    "content_sub_title": "井上玲音",
+    "release_date": "2023-12-07 20:51:00",
+    "created_at": "2023-12-07 20:51:47",
+    "updated_at": "2023-12-07 20:51:47",
+    "content_text": "1207_inoue_s.jpg\r\nこのティアラめちゃくちゃ可愛い〜キラキラ大好きー！",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17579",
+        "material_title": "1207_inoue_s.jpg",
+        "material_file": "870caacc2cbb88e4649e284d749c54860d79d9d9b565cb869c03f471c318c8eb17579.jpeg"
+      }
+    ],
+    "previous_id": "21422",
+    "next_id": "21331",
+    "saved_materials": [
+      "assets/21392_17579_1207_inoue_s.jpg"
+    ]
+  }
+}

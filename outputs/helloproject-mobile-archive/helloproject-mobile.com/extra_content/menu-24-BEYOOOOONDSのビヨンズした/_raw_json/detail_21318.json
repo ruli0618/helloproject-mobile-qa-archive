@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 220,
+    "content_id": "21318",
+    "content_title": "冬が好き！",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2023-12-13 10:00:00",
+    "created_at": "2023-11-30 18:56:33",
+    "updated_at": "2023-11-30 18:56:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17527",
+        "material_title": "1213_eguchi_s.jpg",
+        "material_file": "5f8ca11a46dfd41cb764d2afff6af555d212ccfc895bf49f01c198b175b1813717527.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "21318",
+    "content_title": "冬が好き！",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2023-12-13 10:00:00",
+    "created_at": "2023-11-30 18:56:33",
+    "updated_at": "2023-11-30 18:56:33",
+    "content_text": "1213_eguchi_s.jpg\r\n冬っぽい雪だるまの可愛いクッキー！美味しかったです！\r\n\r\n【30周目お題：好き！】",
+    "materials": [
+      {
+        "secretKey": "4f33116813b24bdb1df518f3397096cf",
+        "material_id": "17527",
+        "material_title": "1213_eguchi_s.jpg",
+        "material_file": "b952a2a2964d270a93aba25d06b05ab54a3baf5fd44864f0739c2510430cf06d17527.jpeg"
+      }
+    ],
+    "previous_id": "21320",
+    "next_id": "21317",
+    "saved_materials": [
+      "assets/21318_17527_1213_eguchi_s.jpg"
+    ]
+  }
+}

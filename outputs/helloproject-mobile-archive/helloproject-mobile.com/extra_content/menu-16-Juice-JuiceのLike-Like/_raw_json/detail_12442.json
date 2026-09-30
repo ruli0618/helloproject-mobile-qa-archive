@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 587,
+    "content_id": "12442",
+    "content_title": "背伸び",
+    "content_sub_title": "段原瑠々",
+    "category_id": "38",
+    "release_date": "2019-11-05 10:00:00",
+    "created_at": "2019-10-31 12:14:05",
+    "updated_at": "2019-10-31 12:14:05",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10552",
+        "material_title": "1105_dambara_s.jpg",
+        "material_file": "c08005b785d68bd3e64d50c22f631082c75a37d0622c997a4a90f9e2284edc1010552.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12442",
+    "content_title": "背伸び",
+    "content_sub_title": "段原瑠々",
+    "release_date": "2019-11-05 10:00:00",
+    "created_at": "2019-10-31 12:14:05",
+    "updated_at": "2019-10-31 12:14:05",
+    "content_text": "1105_dambara_s.jpg\r\nどんぐりに届かない～。",
+    "materials": [
+      {
+        "secretKey": "0ebdc2ed6b6c7295b03cb33dff58a67b",
+        "material_id": "10552",
+        "material_title": "1105_dambara_s.jpg",
+        "material_file": "a26ea7642aa821a0fec51805c472d081ccb1954f888aa4dbd9dbc585e79607e510552.jpeg"
+      }
+    ],
+    "previous_id": "12465",
+    "next_id": "12420",
+    "saved_materials": [
+      "assets/12442_10552_1105_dambara_s.jpg"
+    ]
+  }
+}

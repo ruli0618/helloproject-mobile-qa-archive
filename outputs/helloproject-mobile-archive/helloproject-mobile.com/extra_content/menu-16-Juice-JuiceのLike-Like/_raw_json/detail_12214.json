@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 595,
+    "content_id": "12214",
+    "content_title": "なんとも言えない",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-09-30 10:00:00",
+    "created_at": "2019-09-27 14:45:37",
+    "updated_at": "2019-09-27 14:45:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10406",
+        "material_title": "1001_miyamoto_s.jpg",
+        "material_file": "4f34677f14f04bdb4d53a9d53a21d1be89fccd7755befb7cead2072c503fe0a810406.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12214",
+    "content_title": "なんとも言えない",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-09-30 10:00:00",
+    "created_at": "2019-09-27 14:45:37",
+    "updated_at": "2019-09-27 14:45:37",
+    "content_text": "1001_miyamoto_s.jpg\r\n顔してません？",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10406",
+        "material_title": "1001_miyamoto_s.jpg",
+        "material_file": "d3973e92883c89e3c08360282a7715d5a89c76de0eb53c6501cb830ab984af7710406.jpeg"
+      }
+    ],
+    "previous_id": "12215",
+    "next_id": "12096",
+    "saved_materials": [
+      "assets/12214_10406_1001_miyamoto_s.jpg"
+    ]
+  }
+}

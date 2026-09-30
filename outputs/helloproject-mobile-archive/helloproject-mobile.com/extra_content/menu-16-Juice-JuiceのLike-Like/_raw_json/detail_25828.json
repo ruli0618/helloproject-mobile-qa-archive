@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 31,
+    "content_id": "25828",
+    "content_title": "リリースイベントで白シュシュ",
+    "content_sub_title": "林仁愛",
+    "category_id": "38",
+    "release_date": "2026-02-26 10:00:00",
+    "created_at": "2026-02-26 00:04:38",
+    "updated_at": "2026-02-26 00:06:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21121",
+        "material_title": "0226_hayashi_s.jpg",
+        "material_file": "ff24ed6bbc815ff6474c7384c74372fc6e83206aea95aacf784250e137e606dc21121.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25828",
+    "content_title": "リリースイベントで白シュシュ",
+    "content_sub_title": "林仁愛",
+    "release_date": "2026-02-26 10:00:00",
+    "created_at": "2026-02-26 00:04:38",
+    "updated_at": "2026-02-26 00:06:42",
+    "content_text": "0226_hayashi_s.jpg\n先日はイオンモール幕張新都心でのリリースイベントありがとうございました!!!\n\nリリースイベントでは沢山の方に来ていただけてとっても嬉しかったです<img src=\"/emoji/emoji-images/f3a1.gif\"/>\nまた来て欲しいな！\n\n初めて白シュシュ付けてみたんだ<img src=\"/emoji/emoji-images/f9a9.gif\"/>どうかな??\nかわいいでしょ♡\nお気に入りです！",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21121",
+        "material_title": "0226_hayashi_s.jpg",
+        "material_file": "9020e0d411c12758a3cb1b3e1c8b6a7b48a28e192feaa120bfcc5568c2b0fbf421121.jpeg"
+      }
+    ],
+    "previous_id": "25829",
+    "next_id": "25804",
+    "saved_materials": [
+      "assets/25828_21121_0226_hayashi_s.jpg"
+    ]
+  }
+}

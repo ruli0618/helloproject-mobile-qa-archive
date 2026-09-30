@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 193,
+    "content_id": "13214",
+    "content_title": "むくみ",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-02-28 20:28:00",
+    "created_at": "2020-02-28 20:31:55",
+    "updated_at": "2020-02-28 20:48:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "11221",
+        "material_title": "0228_yamagishi_s.jpg",
+        "material_file": "b6b34f9175337f0e0593195cd8619f8c85811c295972cbe3627fdefe4e3243f011221.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "13214",
+    "content_title": "むくみ",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-02-28 20:28:00",
+    "created_at": "2020-02-28 20:31:55",
+    "updated_at": "2020-02-28 20:48:45",
+    "content_text": "0228_yamagishi_s.jpg\r\n\r\nこんにちはー！\r\nつばきファクトリーの山岸理子です！\r\n私は浮腫みやすい体質なのですが足が特に浮腫みやすいので、毎晩この機械で足を圧迫してます。\r\nこれは太ももまで包んでくれるので、本当に有難いです。",
+    "materials": [
+      {
+        "secretKey": "1110e1605584fdbd99d19058cda436d2",
+        "material_id": "11221",
+        "material_title": "0228_yamagishi_s.jpg",
+        "material_file": "ae0d89ca715dea5f7e3ba6a70c68237340caf5424762b9224fe0f11de7f61ee511221.jpeg"
+      }
+    ],
+    "previous_id": "13233",
+    "next_id": "13162",
+    "saved_materials": [
+      "assets/13214_11221_0228_yamagishi_s.jpg"
+    ]
+  }
+}

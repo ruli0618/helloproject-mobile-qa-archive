@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 288,
+    "content_id": "19719",
+    "content_title": "チョコ！",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2023-02-28 10:00:00",
+    "created_at": "2023-02-21 22:05:50",
+    "updated_at": "2023-02-21 22:05:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16367",
+        "material_title": "0228_kudo_s.jpg",
+        "material_file": "891de9dca3bf88d5b592e36c43a4c6ebd64ac66b3ee77224cfd26c4b1d7d29a316367.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19719",
+    "content_title": "チョコ！",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2023-02-28 10:00:00",
+    "created_at": "2023-02-21 22:05:50",
+    "updated_at": "2023-02-21 22:05:50",
+    "content_text": "0228_kudo_s.jpg\r\nあかりちゃんからバレンタインで可愛いピンクのチョコもらいました！\r\n前髪の散らばりの酷さはスルーでお願いしますね♪",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16367",
+        "material_title": "0228_kudo_s.jpg",
+        "material_file": "72be7c12b8ed007c1a6ac14a3a2178c64c75d3854682bbcdcf73df9cd9f109c416367.jpeg"
+      }
+    ],
+    "previous_id": "19762",
+    "next_id": "19718",
+    "saved_materials": [
+      "assets/19719_16367_0228_kudo_s.jpg"
+    ]
+  }
+}

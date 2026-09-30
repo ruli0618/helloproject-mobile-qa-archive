@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 788,
+    "content_id": "7459",
+    "content_title": "たまに、、／宮崎由加",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-09-13 11:00:00",
+    "created_at": "2017-09-07 17:05:23",
+    "updated_at": "2017-09-11 15:18:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6571",
+        "material_title": "6565814912882_s.jpg",
+        "material_file": "8bf6dc9a0e56e15dd5625dfeb4e25c49b4be9fb0b5db8521c5c1d6e6f5eba4a26571.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7459",
+    "content_title": "たまに、、／宮崎由加",
+    "content_sub_title": "",
+    "release_date": "2017-09-13 11:00:00",
+    "created_at": "2017-09-07 17:05:23",
+    "updated_at": "2017-09-11 15:18:17",
+    "content_text": "6565814912882_s.jpg\r\nクレープってたまに食べると美味しいですよね。このクレープは生地がしっかり目で初めはサクサクかと思わせておいて実はしっとりという最高なクレープ生地でした！！美味しかったです♡",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6571",
+        "material_title": "6565814912882_s.jpg",
+        "material_file": "b365e011d1a22cb579c36a190e2c112ac7affce1e92a8bcb5090e51fb7ef65e26571.jpeg"
+      }
+    ],
+    "previous_id": "7460",
+    "next_id": "7230",
+    "saved_materials": [
+      "assets/7459_6571_6565814912882_s.jpg"
+    ]
+  }
+}

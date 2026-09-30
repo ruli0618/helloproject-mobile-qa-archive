@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 332,
+    "content_id": "17679",
+    "content_title": "大好きなビヨメン",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2022-03-23 10:00:00",
+    "created_at": "2022-02-17 22:15:06",
+    "updated_at": "2022-02-17 22:18:12",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "14750",
+        "material_title": "10_maeda_s.jpg",
+        "material_file": "33ccc834b46b45315d1c2ced6e293033462c5a6623cade3d1ed9a436fb1e133814750.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "17679",
+    "content_title": "大好きなビヨメン",
+    "content_sub_title": "前田こころ",
+    "release_date": "2022-03-23 10:00:00",
+    "created_at": "2022-02-17 22:15:06",
+    "updated_at": "2022-02-17 22:18:12",
+    "content_text": "10_maeda_s.jpg\n私の癒しはやっぱりメンバーです︎︎<img src=\"/emoji/emoji-images/f3a1.gif\"/>\n後ろ姿でさえも愛おしい！\nちなみにこの後ろ姿は島倉りかちゃんです！\n\n【17周目お題：癒やし】",
+    "materials": [
+      {
+        "secretKey": "b8413ef8213c87c94ba332fd78252214",
+        "material_id": "14750",
+        "material_title": "10_maeda_s.jpg",
+        "material_file": "6a593bad522959a15b1e4dd6bf13f5514912289e4b15f25919db4b0c4c62021e14750.jpeg"
+      }
+    ],
+    "previous_id": "17681",
+    "next_id": "17678",
+    "saved_materials": [
+      "assets/17679_14750_10_maeda_s.jpg"
+    ]
+  }
+}

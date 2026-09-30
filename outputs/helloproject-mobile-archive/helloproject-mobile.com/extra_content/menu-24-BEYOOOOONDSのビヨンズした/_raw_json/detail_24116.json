@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 112,
+    "content_id": "24116",
+    "content_title": "メガネ",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2025-04-21 10:00:00",
+    "created_at": "2025-04-09 21:55:54",
+    "updated_at": "2025-04-09 21:58:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "19757",
+        "material_title": "0421_eguchi_s.jpg",
+        "material_file": "32e0235e61c994eb97a284622367b2a44b053202291a4f356aa86f014bf3accf19757.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24116",
+    "content_title": "メガネ",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2025-04-21 10:00:00",
+    "created_at": "2025-04-09 21:55:54",
+    "updated_at": "2025-04-09 21:58:28",
+    "content_text": "0421_eguchi_s.jpg\nデザインが可愛いメガネ！おすすめです！\n\n【42周目お題：オススメ！】",
+    "materials": [
+      {
+        "secretKey": "2b01536f3c6c1573ea24433cb1a3e9b3",
+        "material_id": "19757",
+        "material_title": "0421_eguchi_s.jpg",
+        "material_file": "60160c8ac434d181069f1dde39637eb518c2d205100dd4f4211f608736ee2bdd19757.jpeg"
+      }
+    ],
+    "previous_id": "24118",
+    "next_id": "24115",
+    "saved_materials": [
+      "assets/24116_19757_0421_eguchi_s.jpg"
+    ]
+  }
+}

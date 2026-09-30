@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 71,
+    "content_id": "24423",
+    "content_title": "うに",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "155",
+    "release_date": "2025-06-06 12:00:00",
+    "created_at": "2025-06-06 12:01:52",
+    "updated_at": "2025-06-06 12:01:52",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "19990",
+        "material_title": "0606_ono_s.jpg",
+        "material_file": "e7b9379f2463adffd5963d6530435ae6426cad6a7490a707bac739a9348d9f5719990.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "24423",
+    "content_title": "うに",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2025-06-06 12:00:00",
+    "created_at": "2025-06-06 12:01:52",
+    "updated_at": "2025-06-06 12:01:52",
+    "content_text": "0606_ono_s.jpg\r\n北海道で海鮮丼たべた！\r\n毎回みんなで食べに行くんだけど、私は毎回うに丼か、うにほたて丼と決めていますっ\r\n大奮発！美味しかった！！！\r\nまだ北海道いきたい( ´ ▽ ` )",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "19990",
+        "material_title": "0606_ono_s.jpg",
+        "material_file": "595b3dbee318e7c2bd98c194dd52c030b9a1f35dd5f8cb536991d681ab9e4f4719990.jpeg"
+      }
+    ],
+    "previous_id": "24471",
+    "next_id": "24293",
+    "saved_materials": [
+      "assets/24423_19990_0606_ono_s.jpg"
+    ]
+  }
+}

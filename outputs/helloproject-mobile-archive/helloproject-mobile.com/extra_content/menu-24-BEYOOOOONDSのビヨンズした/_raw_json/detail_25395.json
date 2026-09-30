@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 60,
+    "content_id": "25395",
+    "content_title": "お決まりのポーズ",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2025-12-24 10:00:00",
+    "created_at": "2025-12-01 10:20:45",
+    "updated_at": "2025-12-01 10:20:45",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20744",
+        "material_title": "1224_satoyoshi_s.jpg",
+        "material_file": "741291d408c46cca23f317cf6227fc92cab7a961819d8690a877bb903ca5701120744.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25395",
+    "content_title": "お決まりのポーズ",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2025-12-24 10:00:00",
+    "created_at": "2025-12-01 10:20:45",
+    "updated_at": "2025-12-01 10:20:45",
+    "content_text": "1224_satoyoshi_s.jpg\r\n帽子を被っている時ってこのポーズしがち。\r\n\r\n【48周目お題：目線外し】",
+    "materials": [
+      {
+        "secretKey": "a3f943ee2975936e0b216bf55531e666",
+        "material_id": "20744",
+        "material_title": "1224_satoyoshi_s.jpg",
+        "material_file": "22d33b596d966c9409687fc12f3bd518b8144c4207606a51035be104d0959e6920744.jpeg"
+      }
+    ],
+    "previous_id": "25578",
+    "next_id": "25394",
+    "saved_materials": [
+      "assets/25395_20744_1224_satoyoshi_s.jpg"
+    ]
+  }
+}

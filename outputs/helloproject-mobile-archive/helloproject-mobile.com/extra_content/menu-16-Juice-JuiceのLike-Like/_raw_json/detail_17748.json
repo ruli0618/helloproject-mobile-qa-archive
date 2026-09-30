@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 391,
+    "content_id": "17748",
+    "content_title": "寒い",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2022-03-01 10:00:00",
+    "created_at": "2022-02-28 22:51:43",
+    "updated_at": "2022-02-28 22:52:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14837",
+        "material_title": "0301_kudo_s.jpg",
+        "material_file": "b7696897b9efd94ba7c1d9488001f4ee6747823aa41038453bad5b8057d15d1814837.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17748",
+    "content_title": "寒い",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2022-03-01 10:00:00",
+    "created_at": "2022-02-28 22:51:43",
+    "updated_at": "2022-02-28 22:52:28",
+    "content_text": "0301_kudo_s.jpg\r\n寒いですね〜\r\nマフラーをするけれど、マフラーだと暑すぎたり、、\r\n温度調整が難しく感じます(笑)",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14837",
+        "material_title": "0301_kudo_s.jpg",
+        "material_file": "8adc7dabae72630966a94ef8d997da12e3b4e12e5e2865880fd9ab261a503be214837.jpeg"
+      }
+    ],
+    "previous_id": "17749",
+    "next_id": "17682",
+    "saved_materials": [
+      "assets/17748_14837_0301_kudo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 361,
+    "content_id": "18304",
+    "content_title": "トマト",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2022-06-14 10:00:00",
+    "created_at": "2022-06-06 21:32:25",
+    "updated_at": "2022-06-06 21:32:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15266",
+        "material_title": "0609_arisawa_s.jpg",
+        "material_file": "106bc5c8ffde429caf1e3058b8717d52505fb233f9af5266f28ad6c2909638a815266.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "18304",
+    "content_title": "トマト",
+    "content_sub_title": "有澤一華",
+    "release_date": "2022-06-14 10:00:00",
+    "created_at": "2022-06-06 21:32:25",
+    "updated_at": "2022-06-06 21:32:25",
+    "content_text": "0609_arisawa_s.jpg\r\n今日はトマトを食べました。\r\n\r\n最近トマトにハマっています。フルーツトマト大好き。\r\n\r\nあそうだ、今日、寝言言ってたみたいです。\r\n\r\n\r\n母が、めっちゃ楽しそうだったよって教えてくれました。\r\n\r\n\r\n笑ってたらしいです。\r\n\r\n寝言は結構はっきり喋るらしいです。\r\n\r\n実生活でもはっきり喋りたいよおおおお",
+    "materials": [
+      {
+        "secretKey": "53c7aa527d61417fad8e7009a98829f5",
+        "material_id": "15266",
+        "material_title": "0609_arisawa_s.jpg",
+        "material_file": "e679b5f2f42b321e58ca649da432319df6efa9521f04ef3e2f642f39d25865bf15266.jpeg"
+      }
+    ],
+    "previous_id": "18349",
+    "next_id": "18303",
+    "saved_materials": [
+      "assets/18304_15266_0609_arisawa_s.jpg"
+    ]
+  }
+}

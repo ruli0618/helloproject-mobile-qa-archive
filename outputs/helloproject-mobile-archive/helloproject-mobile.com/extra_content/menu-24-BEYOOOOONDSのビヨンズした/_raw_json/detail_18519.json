@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 306,
+    "content_id": "18519",
+    "content_title": "組み合わせ",
+    "content_sub_title": "平井美葉",
+    "category_id": "123",
+    "release_date": "2022-08-17 10:00:00",
+    "created_at": "2022-07-14 17:27:51",
+    "updated_at": "2022-07-14 17:30:32",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15419",
+        "material_title": "0817_hirai_s.jpg",
+        "material_file": "3a5da977fbe4d334a24fac8100e913937ee94d3be035d8e1c24c68a533e08fe415419.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18519",
+    "content_title": "組み合わせ",
+    "content_sub_title": "平井美葉",
+    "release_date": "2022-08-17 10:00:00",
+    "created_at": "2022-07-14 17:27:51",
+    "updated_at": "2022-07-14 17:30:32",
+    "content_text": "0817_hirai_s.jpg\r\nニット帽と2つ結びの組み合わせ可愛い♡\r\n\r\n【20周目お題：オシャレ】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15419",
+        "material_title": "0817_hirai_s.jpg",
+        "material_file": "d0d997ace330c45d0c4b2ffd63f45b76c1c6b6418889701643613a97204240ef15419.jpeg"
+      }
+    ],
+    "previous_id": "18520",
+    "next_id": "18518",
+    "saved_materials": [
+      "assets/18519_15419_0817_hirai_s.jpg"
+    ]
+  }
+}

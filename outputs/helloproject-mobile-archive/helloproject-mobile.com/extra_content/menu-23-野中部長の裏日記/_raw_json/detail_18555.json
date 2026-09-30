@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 27,
+    "content_id": "18555",
+    "content_title": "我が家のわんこはアイドル",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2022-07-22 14:57:00",
+    "created_at": "2022-07-22 14:57:00",
+    "updated_at": "2022-07-22 14:57:00",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "c0d8c1058034f9910f2d2c4004fc3987",
+        "material_id": "15451",
+        "material_title": "0722_s.jpg",
+        "material_file": "09e831a00e2e0e4f268ea3fb8f23a019691fe52411231b92f1e07c2d003b109e15451.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "18555",
+    "content_title": "我が家のわんこはアイドル",
+    "content_sub_title": "",
+    "release_date": "2022-07-22 14:57:00",
+    "created_at": "2022-07-22 14:57:00",
+    "updated_at": "2022-07-22 14:57:00",
+    "content_text": "今週はおうちで過ごすことが多く\r\n片付けなくてはならないものたちと\r\n向き合っていたら秒で過ぎました、\r\n\r\nおうちで、\r\n愛犬とうふがレコーディングを\r\n試みていたのがかわいすぎたので\r\n裏日記で共有します、、かわいい、、\r\n\r\nあなたほぼ吠えないから\r\nレコーディング難易度高いぞ、、\r\nととうふに話しましたが\r\nそれでもやりたいそうです<img src=\"/emoji/emoji-images/4772.gif\"/>\r\n\r\n0722_s.jpg\r\n\r\nこの写真は\r\nだめなの？？？\r\nという顔です、\r\n\r\nさて！それはさておき\r\n昼夜逆転しかけている生活なおして\r\n週末のコンサートもたのしみます！\r\n\r\nそれでわん！",
+    "materials": [
+      {
+        "secretKey": "fa918fe7bc39717163a528f64eb2e875",
+        "material_id": "15451",
+        "material_title": "0722_s.jpg",
+        "material_file": "d7ce0dc275aeb466fbf48ef24238f7b8328a582da58893d84eeb8003935ef31115451.jpeg"
+      }
+    ],
+    "previous_id": "18969",
+    "next_id": "18362",
+    "saved_materials": [
+      "assets/18555_15451_0722_s.jpg"
+    ]
+  }
+}

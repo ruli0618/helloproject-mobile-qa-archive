@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 5,
+    "content_id": "20179",
+    "content_title": "靴",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "115",
+    "release_date": "2023-05-26 10:00:00",
+    "created_at": "2023-05-10 21:51:18",
+    "updated_at": "2023-05-16 15:46:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16690",
+        "material_title": "0602_akiyama_s.jpg",
+        "material_file": "6605255949ae0fb7d1570a30c726c04cbed19b2cb98f61fb68b63d11ea7ddea616690.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20179",
+    "content_title": "靴",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2023-05-26 10:00:00",
+    "created_at": "2023-05-10 21:51:18",
+    "updated_at": "2023-05-16 15:46:50",
+    "content_text": "0602_akiyama_s.jpg\r\nわたしは昔から靴が大好きで今でもたくさん持っています(^^)\r\nこのスニーカーは最近姉と一緒に選んだ靴で色味だったり形がすごくかわいくお気に入り。\r\n\r\nこれからも色んな靴を履いてたくさんおでかけしたいなぁ♡\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16690",
+        "material_title": "0602_akiyama_s.jpg",
+        "material_file": "f7b395ad3e5f43f697fe73296d103f801f0d0a8f0f4dac84c555bea3e1e05a4516690.jpeg"
+      }
+    ],
+    "previous_id": "20213",
+    "next_id": "20178",
+    "saved_materials": [
+      "assets/20179_16690_0602_akiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 872,
+    "content_id": "4430",
+    "content_title": "かぼちゃ／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2016-04-19 16:18:00",
+    "created_at": "2016-04-19 16:12:30",
+    "updated_at": "2016-04-19 16:18:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f1c938b2b5c28580049c603ca943a3fa",
+        "material_id": "4042",
+        "material_title": "187641.jpg",
+        "material_file": "9dfdd50633b306adf7305814448ca04d4e50def17a961c2b983283f9b66f36b34042.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 862,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "4430",
+    "content_title": "かぼちゃ／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2016-04-19 16:18:00",
+    "created_at": "2016-04-19 16:12:30",
+    "updated_at": "2016-04-19 16:18:47",
+    "content_text": "187641.jpg\r\nメンバーから大好評のかぼちゃスープ！！美味しかったぁ",
+    "materials": [
+      {
+        "secretKey": "be6a53c2901c686555241fa142fd29f9",
+        "material_id": "4042",
+        "material_title": "187641.jpg",
+        "material_file": "f0e48ee73a8ed3e0e284aa24c64dfc42604a9d7d7b974ecd5636a82566fe62c74042.jpeg"
+      }
+    ],
+    "previous_id": "4552",
+    "next_id": "4414",
+    "saved_materials": [
+      "assets/4430_4042_187641.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 44,
+    "content_id": "18523",
+    "content_title": "桃",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "115",
+    "release_date": "2022-07-29 10:00:00",
+    "created_at": "2022-07-15 15:01:57",
+    "updated_at": "2022-07-15 15:01:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15424",
+        "material_title": "0729_onoda_s.jpg",
+        "material_file": "73b070c0cf98e644273c65cdbf9c2c75f284d05fb89d2715456a94fb2fcd56ac15424.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18523",
+    "content_title": "桃",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2022-07-29 10:00:00",
+    "created_at": "2022-07-15 15:01:57",
+    "updated_at": "2022-07-15 15:01:57",
+    "content_text": "最近とてもねむたい、さおりです♪\r\n\r\nこの間、かさいゆうみ©から桃をいただきましたあー！\r\n\r\nうれしい、、、ありがとう！\r\n\r\n本当にうれしい！！！！\r\n\r\n自然の甘みがいいのよね！\r\n\r\nたくさんフルーツを食べて、お肌ツルツルにしたいとおもいます！\r\n\r\nもっとかわいくなっちゃうぞー！\r\n\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n0729_onoda_s.jpg\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "1156a676c0da31847eab5d423eac3414",
+        "material_id": "15424",
+        "material_title": "0729_onoda_s.jpg",
+        "material_file": "28a4193011872d93452fd7872b2778b3a3415c918369e12afb9ea43f2acca87f15424.jpeg"
+      }
+    ],
+    "previous_id": "18524",
+    "next_id": "18509",
+    "saved_materials": [
+      "assets/18523_15424_0729_onoda_s.jpg"
+    ]
+  }
+}

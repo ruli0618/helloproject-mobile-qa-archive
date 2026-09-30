@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 67,
+    "content_id": "10718",
+    "content_title": "かだんに。",
+    "content_sub_title": "谷本安美",
+    "category_id": "73",
+    "release_date": "2019-01-30 10:00:00",
+    "created_at": "2019-01-29 15:59:40",
+    "updated_at": "2019-01-29 15:59:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9250",
+        "material_title": "0130_tanimoto_s.jpg",
+        "material_file": "626209fb1ade38cefd13f61d282f4ec6f5d4693fe15480bd05e677e4308a36d09250.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10718",
+    "content_title": "かだんに。",
+    "content_sub_title": "谷本安美",
+    "release_date": "2019-01-30 10:00:00",
+    "created_at": "2019-01-29 15:59:40",
+    "updated_at": "2019-01-29 15:59:40",
+    "content_text": "0130_tanimoto_s.jpg\r\n花壇に、可愛い赤と白色のめずらしいお花が咲いてました〜\r\n冬でもお花咲いてるのいいね〜<img src=\"/emoji/emoji-images/f7f4.gif\"/>\r\n北海道は雪が降ってお花咲いてないから！",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9250",
+        "material_title": "0130_tanimoto_s.jpg",
+        "material_file": "46110ea6f9459877b6148e90e78ed8d1dd1254f287b335fd0b47bf50219a6f549250.jpeg"
+      }
+    ],
+    "previous_id": "10829",
+    "next_id": "10638",
+    "saved_materials": [
+      "assets/10718_9250_0130_tanimoto_s.jpg"
+    ]
+  }
+}

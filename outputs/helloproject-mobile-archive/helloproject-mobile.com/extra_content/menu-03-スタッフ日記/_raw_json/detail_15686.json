@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 295,
+    "content_id": "15686",
+    "content_title": "宣伝会議#60",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-04-07 16:30:00",
+    "created_at": "2021-03-26 14:43:43",
+    "updated_at": "2021-05-28 15:06:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13051",
+        "material_title": "210326_02_s.jpg",
+        "material_file": "54be73e7f0505ed6aa764dbf73bd0c9e68fba57b1c7aa8112a932d06416af71113051.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13052",
+        "material_title": "210326_03_s.jpg",
+        "material_file": "47f1f3d66133f12520e98ecae530ca01a20ebf8847ac4644ad2ffef3075cb5b313052.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13053",
+        "material_title": "210326_01_s.jpg",
+        "material_file": "918b1765177f28dccaad8f0a7c4ef1692dab69cb04ed5c5c32e40b2efad1ebf913053.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13151",
+        "material_title": "210326_04_s.jpg",
+        "material_file": "650730a1f0656e11858dc325f8ddcf4ea08bc7519df590dd3480f0dc3986c72513151.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "15686",
+    "content_title": "宣伝会議#60",
+    "content_sub_title": "",
+    "release_date": "2021-04-07 16:30:00",
+    "created_at": "2021-03-26 14:43:43",
+    "updated_at": "2021-05-28 15:06:28",
+    "content_text": "宣伝会議ラジオ第60回は、野中美希部長、前田こころ書記兼警備が出演！\n\n210326_01_s.jpg\n\n好きなケーキ、おっちょこちょいエピソードから始まり、\nMVの裏話、花鳥風月チームの雰囲気・初日の感想、ハロコンで印象変わったメンバー、STEP BY STEPコンサートネタバレ感想についてトーク！\n\n210326_02_s.jpg\n\n目覚ましアラームはスヌーズ有り？\n意見を伝えるなら文章、おしゃべりどっちが良い？\nひなフェス抽選会についても語って頂きました。\n\n210326_03_s.jpg\n\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」は、\n「メンバーの兄弟姉妹」\n\n意外と知らない、メンバーの兄弟姉妹情報について沢山お便り頂きました！\n\n↓議事録はこちら！\n\n210326_04_s.jpg\n\n「励ましのメール」「ハロー！ペディア」メールを大募集！\n\n次回「ハロー！ペディア」のお題は、\n「<b>パフォーマンス中のクセ</b>」です！\n\nハロー！プロジェクトメンバーがパフォーマンス中によくやる行動、歌い方のクセ、ダンスのクセ等など…ファンの皆さんだからこそ見つけられるメンバーのクセを部員に教えて下さい。\n\nメール宛先はこちら。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\n次回は野中美希部長、川村文乃書記兼警備、前田こころ書記兼警備の部員3名が勢揃い！\n4/21(水)17:00までメールを大募集！\n\nお便りお待ちしています♬",
+    "materials": [
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13051",
+        "material_title": "210326_02_s.jpg",
+        "material_file": "f314492e80d0af4605af0807da2ed4066941a9c35395dc1acc4864653ac62ed913051.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13052",
+        "material_title": "210326_03_s.jpg",
+        "material_file": "075496c21ac565537bbef7420f8a84913e47fcd6957c9f94a838979258c54f8013052.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13053",
+        "material_title": "210326_01_s.jpg",
+        "material_file": "6358ac25e184c5d394449af0f4aa2f260dd6815f4ab117141308369d1f1f052213053.jpeg"
+      },
+      {
+        "secretKey": "43d8b7fec301a4b0f385386486a18176",
+        "material_id": "13151",
+        "material_title": "210326_04_s.jpg",
+        "material_file": "b55d7186b0c441e2c485a8044c9aac94f7fb62d8c7c2fe03ecea0a7f8ebe2df313151.jpeg"
+      }
+    ],
+    "previous_id": "15783",
+    "next_id": "15812",
+    "saved_materials": [
+      "assets/15686_13051_210326_02_s.jpg",
+      "assets/15686_13052_210326_03_s.jpg",
+      "assets/15686_13053_210326_01_s.jpg",
+      "assets/15686_13151_210326_04_s.jpg"
+    ]
+  }
+}

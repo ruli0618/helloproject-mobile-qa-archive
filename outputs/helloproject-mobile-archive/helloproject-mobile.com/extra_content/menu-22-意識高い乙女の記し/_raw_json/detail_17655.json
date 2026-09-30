@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 71,
+    "content_id": "17655",
+    "content_title": "ワッフル",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-02-09 10:00:00",
+    "created_at": "2022-02-08 18:46:04",
+    "updated_at": "2022-02-08 18:46:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14729",
+        "material_title": "0209_yofu_s.jpg",
+        "material_file": "e4ab393b73eb2edbd1f45c0322ac14384afa7c1ac4768dfeaa82866fcf666cd914729.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17655",
+    "content_title": "ワッフル",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-02-09 10:00:00",
+    "created_at": "2022-02-08 18:46:04",
+    "updated_at": "2022-02-08 18:46:04",
+    "content_text": "0209_yofu_s.jpg\r\nよっふぅ〜\r\nやぎしーから貰ったワッフル機で\r\nワッフルを作ってデコレーションしてみました！\r\n生クリームを絞るの下手だけど、クッキー、マシュマロ、チョコで誤魔化せてるからOK！",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14729",
+        "material_title": "0209_yofu_s.jpg",
+        "material_file": "dc1cf6320fff412399c5ec7b4e87c76e8d46dc0b0954aa1cdd3cc8f30fe40ef114729.jpeg"
+      }
+    ],
+    "previous_id": "17662",
+    "next_id": "17653",
+    "saved_materials": [
+      "assets/17655_14729_0209_yofu_s.jpg"
+    ]
+  }
+}

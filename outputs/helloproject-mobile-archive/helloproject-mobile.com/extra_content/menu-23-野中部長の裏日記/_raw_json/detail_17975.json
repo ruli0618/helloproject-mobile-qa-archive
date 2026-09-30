@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 31,
+    "content_id": "17975",
+    "content_title": "近況",
+    "content_sub_title": "",
+    "category_id": "122",
+    "release_date": "2022-04-13 17:03:00",
+    "created_at": "2022-04-13 17:04:22",
+    "updated_at": "2022-04-13 17:04:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "122",
+    "category_title": "野中部長の裏日記",
+    "category_content": "モーニング娘。20野中美希が自由に綴る日記コンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "23",
+    "is_new": 0,
+    "content_id": "17975",
+    "content_title": "近況",
+    "content_sub_title": "",
+    "release_date": "2022-04-13 17:03:00",
+    "created_at": "2022-04-13 17:04:22",
+    "updated_at": "2022-04-13 17:04:22",
+    "content_text": "最近おもしろい夢をたくさんみます<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\n1番印象的だったのは\r\nおばあちゃんと喋ってる夢です、\r\nばあばのポケットに\r\n信じられない量のポテトサラダが\r\n詰まってました、もちろんそのまま！\r\n\r\nすぐ本人に話しました！笑\r\n夢って予測不可能でおもしろいです<img src=\"/emoji/emoji-images/4f4e.gif\"/>\r\n以上近況でした、それでわん<img src=\"/emoji/emoji-images/4772.gif\"/>",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "18108",
+    "next_id": "17658",
+    "saved_materials": []
+  }
+}

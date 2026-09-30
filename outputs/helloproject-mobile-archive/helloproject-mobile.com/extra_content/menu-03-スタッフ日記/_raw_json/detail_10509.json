@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 454,
+    "content_id": "10509",
+    "content_title": "工藤の家の屋根裏部屋#39～飯窪春菜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-12-14 20:17:00",
+    "created_at": "2018-12-14 20:17:46",
+    "updated_at": "2018-12-14 20:19:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9079",
+        "material_title": "181214_02_s.jpg",
+        "material_file": "6fca25885c7404e20a4b0fe430f5d5ac78d36dd0b3509520502f72056df7adff9079.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "9080",
+        "material_title": "181214_01_s.jpg",
+        "material_file": "8f7897377eb26f5a8e1446a458bb3a804b5f6bf52638b144c6156ffa217408c89080.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "10509",
+    "content_title": "工藤の家の屋根裏部屋#39～飯窪春菜～",
+    "content_sub_title": "",
+    "release_date": "2018-12-14 20:17:00",
+    "created_at": "2018-12-14 20:17:46",
+    "updated_at": "2018-12-14 20:19:25",
+    "content_text": "「ふくむらの部屋」39回目の配信が開始しました！\n\n\n今回は飯窪春菜卒業直前スペシャル！！\nモーニング娘。及びハロー！プロジェクト卒業を控えた飯窪春菜さんが登場です。\n\n181214_01_s.jpg\n\n最初から最後までおしゃべりが止まりません！！\n\n飯窪春菜ラストシングル、\n『フラリ銀座』『自由な国だから』『Y字路の途中』3曲について改めて解説！\n\n大好きな“あのゲーム”について語りに語って満足なお二人。\n\n181214_02_s.jpg\n\nもちろん後輩に受け継いでほしいもの。大切にしてほしいこと。\n真面目なお話もたくさんあります！\n\nエンディングでは飯窪さんの卒業公演への想い。\nそして野望に満ちた大胆な発言!?\n\n\n\nふくむらの部屋は年内最後の配信です！\n次回は2019年1月8日配信予定！\nみなさん、メリークリスマス！よいお年を～！\n\n次回のメドレーセレクションのテーマは\n「新年一発目に聴きたくなる明るい曲メドレー」です！\n\n\n\n「みずき先生のハロプロ講座」「みずきのメドレーセレクション」\n「普通のお便り」\n\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9079",
+        "material_title": "181214_02_s.jpg",
+        "material_file": "425a1b71c65a5a5d41672fdc6f258a54c8b2ce272f17950fa3a2551756fa6de49079.jpeg"
+      },
+      {
+        "secretKey": "7ce32029c5aa0af72174753378dbd70c",
+        "material_id": "9080",
+        "material_title": "181214_01_s.jpg",
+        "material_file": "3050249cabeafb1a077c0837d015ee7ced0972648d23c1bf9959d0beea028bd79080.jpeg"
+      }
+    ],
+    "previous_id": "10540",
+    "next_id": "10506",
+    "saved_materials": [
+      "assets/10509_9079_181214_02_s.jpg",
+      "assets/10509_9080_181214_01_s.jpg"
+    ]
+  }
+}

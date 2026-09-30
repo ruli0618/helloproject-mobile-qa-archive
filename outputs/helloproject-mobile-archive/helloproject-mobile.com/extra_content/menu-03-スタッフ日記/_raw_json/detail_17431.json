@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 252,
+    "content_id": "17431",
+    "content_title": "工藤の家の屋根裏部屋#97～有澤一華～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 21:39:00",
+    "created_at": "2021-12-31 21:47:03",
+    "updated_at": "2022-01-17 23:52:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14602",
+        "material_title": "220117.jpg",
+        "material_file": "33cda6c892bd160f00078bfc41423aeedfdb4e8bb31ab1b422abb252dd0d83d714602.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17431",
+    "content_title": "工藤の家の屋根裏部屋#97～有澤一華～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 21:39:00",
+    "created_at": "2021-12-31 21:47:03",
+    "updated_at": "2022-01-17 23:52:03",
+    "content_text": "ふくむらの部屋 第97回のゲストは、Juice=Juice有澤一華さん！\n\nハロー！プロジェクトに入る前は、ハロプロファンだった有澤さん。\nこの収録で初めて、ファン時代に推していたメンバーを教えてくれました！\n\n大阪と東京の違いは匂い！？\n誕生日が近い有澤さんの18歳の抱負、\nソロ歌唱収録時のエピソードも！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・メンバーになったと実感した瞬間\n・生写真への書き物\n・特技\n・16ビートのリズム\nに関して、語って頂きました。\n\n「ハロプロファン失敗談」のコーナーでは、\nラジオにメールを送る時のあるある話を紹介！\nそして有澤さんのファン時代の失敗？エピソードも！\n\n横浜アリーナ公演で苦労したことや、\nバイオリンや英語を話すきっかけになった海外留学のお話も必聴です！\n\nぜひ、お聴き下さいね♪\n\nちなみに有澤さんは収録終わり、質問きんちゃくからひいた譜久村さん直筆の質問用紙を大事そうに持ち帰っていきました。\n\n220117.jpg",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14602",
+        "material_title": "220117.jpg",
+        "material_file": "284c5f32cacbc4465b2d1b5b444a954346e44f45d8ba8b79ede5d151b4c4f08814602.jpeg"
+      }
+    ],
+    "previous_id": "17432",
+    "next_id": "17430",
+    "saved_materials": [
+      "assets/17431_14602_220117.jpg"
+    ]
+  }
+}

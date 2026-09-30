@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 223,
+    "content_id": "18117",
+    "content_title": "工藤の家の屋根裏部屋#106～段原瑠々～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-05-12 19:35:00",
+    "created_at": "2022-05-12 19:37:57",
+    "updated_at": "2022-05-12 19:38:37",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15125",
+        "material_title": "220512_01_s.jpg",
+        "material_file": "11706033af728c1beba8891cdea29ec5de7176af9afae1b170497da57efa550015125.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15126",
+        "material_title": "220512_03_s.jpg",
+        "material_file": "4e96a42e91220cdfe54984bce5a13f4d266406423d33bcc8d8f2e33711b4104615126.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15127",
+        "material_title": "220512_02_s.jpg",
+        "material_file": "e6b7ef586001ea5e43f96858981081ea7fb3fec65df28ba56f224f7865c56e2915127.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18117",
+    "content_title": "工藤の家の屋根裏部屋#106～段原瑠々～",
+    "content_sub_title": "",
+    "release_date": "2022-05-12 19:35:00",
+    "created_at": "2022-05-12 19:37:57",
+    "updated_at": "2022-05-12 19:38:37",
+    "content_text": "ふくむらの部屋 第106回のゲストは、Juice=Juice段原瑠々さんが登場！\n\n220512_01_s.jpg\n\nハロー！ラジオ連動の質問企画では、\n冷やし中華の食べ方、\n雨の日にどう過ごすかを教えてくれました。\n\nまずは、フェスの感想・思い出から、\nお二人のお料理事情についてトーク！\n段原さんから料理初心者におすすめメニューも教えてもらいましたので、ぜひ試してみてくださいね♫\n\n220512_02_s.jpg\n\n「ハロプロクイズ王」のコーナーでは、\nモーニング娘。「女子かしまし物語」\nJuice=Juice「GIRLS BE AMBITIOUS!」という\n自己紹介ソングの歌詞クイズに挑戦！\n\n皆さんは分かりましたか？\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・ライブ前の気持ちの切り替え方\n・差し入れ＆お土産\nに関して、語って頂きました。\n\n段原産がサブリーダーになっての心境や、\nバースデーイベントでのお気に入り衣装についてもトーク！\n\n220512_03_s.jpg\n\n次回は、アンジュルム松本わかなさんが初登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15125",
+        "material_title": "220512_01_s.jpg",
+        "material_file": "ad89a6aa63604e959b8f64e9322b3871f2e59e58e40bbbcf05df9992f4df6b5215125.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15126",
+        "material_title": "220512_03_s.jpg",
+        "material_file": "5171ef5b8feae88fa8e90d7742526e5a56b506de23571a9468718f2c709bc3cc15126.jpeg"
+      },
+      {
+        "secretKey": "f181380622c463c289c8136b8738bd11",
+        "material_id": "15127",
+        "material_title": "220512_02_s.jpg",
+        "material_file": "c7be07735d9379145e299c67019c8374b45ee7147c9d5d2210fa114ff2dacbbb15127.jpeg"
+      }
+    ],
+    "previous_id": "18178",
+    "next_id": "18116",
+    "saved_materials": [
+      "assets/18117_15125_220512_01_s.jpg",
+      "assets/18117_15126_220512_03_s.jpg",
+      "assets/18117_15127_220512_02_s.jpg"
+    ]
+  }
+}

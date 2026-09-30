@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 268,
+    "content_id": "20163",
+    "content_title": "親友",
+    "content_sub_title": "有澤一華",
+    "category_id": "38",
+    "release_date": "2023-05-11 10:00:00",
+    "created_at": "2023-05-10 21:08:56",
+    "updated_at": "2023-05-10 21:08:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16674",
+        "material_title": "0511_arisawa_S.jpg",
+        "material_file": "a08854569d8c25a0920b0d1018fc24746f5b854c03630146b445cf3f30c45ba316674.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20163",
+    "content_title": "親友",
+    "content_sub_title": "有澤一華",
+    "release_date": "2023-05-11 10:00:00",
+    "created_at": "2023-05-10 21:08:56",
+    "updated_at": "2023-05-10 21:08:56",
+    "content_text": "私の今年の目標は親友と会うです。\r\n\r\n私には中学から仲良くしてるお友達がいるのですが、今も何かあることにビデオ通話します笑\r\n\r\nこの前は武道館終わりに電話がちょうどかかってきて、私が素すぎてメンバーびっくりされました。\r\n\r\n会いたーい\r\n\r\n0511_arisawa_S.jpg",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16674",
+        "material_title": "0511_arisawa_S.jpg",
+        "material_file": "b4f5e207f7f059dad3ba1f90949914e419f3e99d85f8895297ec8eee0a686f1b16674.jpeg"
+      }
+    ],
+    "previous_id": "20182",
+    "next_id": "20158",
+    "saved_materials": [
+      "assets/20163_16674_0511_arisawa_S.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 392,
+    "content_id": "16050",
+    "content_title": "飛行機から見た空",
+    "content_sub_title": "前田こころ",
+    "category_id": "123",
+    "release_date": "2021-05-19 10:00:00",
+    "created_at": "2021-05-17 17:49:44",
+    "updated_at": "2022-01-17 14:39:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13373",
+        "material_title": "0519_maeda_s.jpg",
+        "material_file": "9821dc8a7b4288d8cf0089c075ed2a1dd3a3472e3d260d9e8c550e3b54ee768213373.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16050",
+    "content_title": "飛行機から見た空",
+    "content_sub_title": "前田こころ",
+    "release_date": "2021-05-19 10:00:00",
+    "created_at": "2021-05-17 17:49:44",
+    "updated_at": "2022-01-17 14:39:41",
+    "content_text": "0519_maeda_s.jpg\n綺麗すぎて感動して、ずっと眺めてたんだ～！！\n\n【11周目お題：きれいな風景】",
+    "materials": [
+      {
+        "secretKey": "e307846c32e2c50f975025014ebefe9d",
+        "material_id": "13373",
+        "material_title": "0519_maeda_s.jpg",
+        "material_file": "011da64b3ca11f40b5bfb43ca2a5fda6bc097a8f38a3a4f7e4c3854a2fc492a413373.jpeg"
+      }
+    ],
+    "previous_id": "16051",
+    "next_id": "16049",
+    "saved_materials": [
+      "assets/16050_13373_0519_maeda_s.jpg"
+    ]
+  }
+}

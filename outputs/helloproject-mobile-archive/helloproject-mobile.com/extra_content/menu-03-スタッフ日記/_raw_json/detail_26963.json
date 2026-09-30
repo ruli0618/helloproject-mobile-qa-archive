@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 20,
+    "content_id": "26963",
+    "content_title": "宣伝会議#120",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-03-26 00:00:00",
+    "created_at": "2026-09-28 15:37:03",
+    "updated_at": "2026-09-28 15:37:03",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22041",
+        "material_title": "120_02.jpg",
+        "material_file": "e275a8d25170066edaec0cbb37b2ec1f587310cf5a69cb8abbf21dda036fc3dd22041.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22042",
+        "material_title": "120.jpg",
+        "material_file": "95ed15d4ef3e83e743e4962348493dbb0c3b5207ab75a8158c1d9cc7c1bcf72022042.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22043",
+        "material_title": "120_01.jpg",
+        "material_file": "5e8238177f7bf2d8730d208764769a8b7c26556ceb2480d5fdf898469fb198eb22043.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26963",
+    "content_title": "宣伝会議#120",
+    "content_sub_title": "",
+    "release_date": "2026-03-26 00:00:00",
+    "created_at": "2026-09-28 15:37:03",
+    "updated_at": "2026-09-28 15:37:03",
+    "content_text": "120_01.jpg\r\n\r\n宣伝会議第120回は、野中美希部長・前田こころ副部長の二人でお届け！\r\n\r\n前編では、\r\n・サブスク解禁して聴いている曲\r\n・2人のカフェ活エピソード\r\n・ハロコン振り返り\r\n・ソロフェス\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「AIの利用に反対？賛成？」についてディベート！\r\n\r\n後編では、\r\n・ネットのセール\r\n・春楽しみたいこと\r\n・ちぇるここエピソード\r\n・デジカメ撮影\r\n・年一回遠征に行くなら？\r\nについてトーク！\r\n\r\n「ハロー！ペディア」のコーナーでは、\r\n「土居楓奏」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n\r\n120.jpg\r\n\r\n120_02.jpg",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22041",
+        "material_title": "120_02.jpg",
+        "material_file": "3c826adae0689159b5e473d6b842cbd734d7ac30bda7d2831b888f30e3db9f4622041.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22042",
+        "material_title": "120.jpg",
+        "material_file": "0c8ceab6e7117b5dee05ffe28904e70f988bdb5174e5de3cf4af88b815706c7d22042.jpeg"
+      },
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "22043",
+        "material_title": "120_01.jpg",
+        "material_file": "b8ebf1e0158ffb93e7aa8fd3191f1656a36bc1014aac58b74d63ea28f254a69a22043.jpeg"
+      }
+    ],
+    "previous_id": "27009",
+    "next_id": "27008",
+    "saved_materials": [
+      "assets/26963_22041_120_02.jpg",
+      "assets/26963_22042_120.jpg",
+      "assets/26963_22043_120_01.jpg"
+    ]
+  }
+}

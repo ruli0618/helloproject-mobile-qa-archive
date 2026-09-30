@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 408,
+    "content_id": "15504",
+    "content_title": "みんなのサイン♡",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2021-03-03 10:00:00",
+    "created_at": "2021-02-19 22:22:44",
+    "updated_at": "2022-01-17 14:47:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "12899",
+        "material_title": "0303_okamura_s.jpg",
+        "material_file": "b9fce59e862e25bb49885af8150f8921cb4c272eee9eb96cf9b2522252af4f9912899.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "15504",
+    "content_title": "みんなのサイン♡",
+    "content_sub_title": "岡村美波",
+    "release_date": "2021-03-03 10:00:00",
+    "created_at": "2021-02-19 22:22:44",
+    "updated_at": "2022-01-17 14:47:51",
+    "content_text": "0303_okamura_s.jpg\nBEYOOOOONDSメンバーの写真集は全員サインをもらってるんです♡♡\n\n【9周目お題：お気に入り】",
+    "materials": [
+      {
+        "secretKey": "e50929fc30190ee8fc19d8e75fb37abf",
+        "material_id": "12899",
+        "material_title": "0303_okamura_s.jpg",
+        "material_file": "0e07b17d27e7740ecc531f6a0b41a0e584e4c0a2f69a34a42ede3e4ec2d618fe12899.jpeg"
+      }
+    ],
+    "previous_id": "15505",
+    "next_id": "15503",
+    "saved_materials": [
+      "assets/15504_12899_0303_okamura_s.jpg"
+    ]
+  }
+}

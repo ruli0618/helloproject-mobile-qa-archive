@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 406,
+    "content_id": "17414",
+    "content_title": "S cawaii !",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2022-01-06 10:00:00",
+    "created_at": "2021-12-31 19:12:29",
+    "updated_at": "2021-12-31 19:12:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14523",
+        "material_title": "220106_irie_s.jpg",
+        "material_file": "46a06e3a40fc91223fb3b603fb8a482a13d58b542e6a2370b99957c5dfdbdbcf14523.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 402,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17414",
+    "content_title": "S cawaii !",
+    "content_sub_title": "入江里咲",
+    "release_date": "2022-01-06 10:00:00",
+    "created_at": "2021-12-31 19:12:29",
+    "updated_at": "2021-12-31 19:12:29",
+    "content_text": "220106_irie_s.jpg\r\n先日の「S cawaii !」での撮影で、メンバーカラーの衣装を用意していただきました！\r\n\r\nライトパープルかわいい(^o^)♡",
+    "materials": [
+      {
+        "secretKey": "74e286e10174b17fbd67556cd5da4474",
+        "material_id": "14523",
+        "material_title": "220106_irie_s.jpg",
+        "material_file": "11316803d6534d2ad4886ffa94db166e271a36da0bf06c9e317a9d23cbc2a3ee14523.jpeg"
+      }
+    ],
+    "previous_id": "17438",
+    "next_id": "17413",
+    "saved_materials": [
+      "assets/17414_14523_220106_irie_s.jpg"
+    ]
+  }
+}

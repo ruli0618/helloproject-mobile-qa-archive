@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 312,
+    "content_id": "19234",
+    "content_title": "冬",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2022-12-06 10:00:00",
+    "created_at": "2022-11-25 14:41:08",
+    "updated_at": "2022-11-25 14:41:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "15983",
+        "material_title": "1201_ishiyama_s.jpg",
+        "material_file": "f874052cf0ac8e316d0d191b5577323e811f1d8b33761d1f9ad73d8c78dd7b0815983.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19234",
+    "content_title": "冬",
+    "content_sub_title": "石山咲良",
+    "release_date": "2022-12-06 10:00:00",
+    "created_at": "2022-11-25 14:41:08",
+    "updated_at": "2022-11-25 14:41:08",
+    "content_text": "1201_ishiyama_s.jpg\r\n北海道で見つけました\r\nなんかクリスマスっぽくないですか？",
+    "materials": [
+      {
+        "secretKey": "0ad2de0e3c32b8f60959b5cd83fcb7b9",
+        "material_id": "15983",
+        "material_title": "1201_ishiyama_s.jpg",
+        "material_file": "502551fe3dd8ab40f008c6c0e518112a82f1f7a10836a5c2520f6c796513cafd15983.jpeg"
+      }
+    ],
+    "previous_id": "19302",
+    "next_id": "19192",
+    "saved_materials": [
+      "assets/19234_15983_1201_ishiyama_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 393,
+    "content_id": "17669",
+    "content_title": "バレンタイン",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2022-02-22 10:00:00",
+    "created_at": "2022-02-17 21:56:51",
+    "updated_at": "2022-02-17 21:56:51",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "14740",
+        "material_title": "0222_inoue_s.jpg",
+        "material_file": "fe11a27b1e6717c1cbcf6cf2506f184b7b95f0360941b17168796133d4e1f4db14740.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "17669",
+    "content_title": "バレンタイン",
+    "content_sub_title": "井上玲音",
+    "release_date": "2022-02-22 10:00:00",
+    "created_at": "2022-02-17 21:56:51",
+    "updated_at": "2022-02-17 21:56:51",
+    "content_text": "0222_inoue_s.jpg\r\nチョコをいっぱい食べました！やっぱりチョコが大好きだと実感した日でした！",
+    "materials": [
+      {
+        "secretKey": "cb90958e3076bc193b6721d2140e605c",
+        "material_id": "14740",
+        "material_title": "0222_inoue_s.jpg",
+        "material_file": "4a63fcb91ff967269851ff7054596ed1aed6edd3e64493eed49f5a5cdf79969814740.jpeg"
+      }
+    ],
+    "previous_id": "17682",
+    "next_id": "17668",
+    "saved_materials": [
+      "assets/17669_14740_0222_inoue_s.jpg"
+    ]
+  }
+}

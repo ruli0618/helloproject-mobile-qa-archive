@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 186,
+    "content_id": "22205",
+    "content_title": "ふたりはゆはしお",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2024-05-15 13:06:00",
+    "created_at": "2024-05-15 13:06:42",
+    "updated_at": "2024-05-15 13:06:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "18201",
+        "material_title": "0515_nishida_s.jpg",
+        "material_file": "300a8d150218ba4c851c17480d7d44e9e99a0aa0a34405192113ae075a8e82ac18201.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22205",
+    "content_title": "ふたりはゆはしお",
+    "content_sub_title": "西田汐里",
+    "release_date": "2024-05-15 13:06:00",
+    "created_at": "2024-05-15 13:06:42",
+    "updated_at": "2024-05-15 13:06:42",
+    "content_text": "0515_nishida_s.jpg\r\nゆはが作ってくれた映像をステージで見せてもらいました！\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "f4fda6eeec1c951f48e47b77ff0a53fe",
+        "material_id": "18201",
+        "material_title": "0515_nishida_s.jpg",
+        "material_file": "0e10be8b76822a5e0e295ed52613b0a7089c025e41ad13f1565114b38e6f546618201.jpeg"
+      }
+    ],
+    "previous_id": "22227",
+    "next_id": "22027",
+    "saved_materials": [
+      "assets/22205_18201_0515_nishida_s.jpg"
+    ]
+  }
+}

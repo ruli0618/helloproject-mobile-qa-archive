@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 175,
+    "content_id": "21231",
+    "content_title": "工藤の家の屋根裏部屋#123～米村姫良々～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-01-10 00:00:00",
+    "created_at": "2023-11-14 15:29:48",
+    "updated_at": "2023-11-14 15:29:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17436",
+        "material_title": "230110_s.jpg",
+        "material_file": "eb06e2b819ae70b03d3dd11c6bd675eec8028608fa5dcb4ecafa53122e4eff1217436.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21231",
+    "content_title": "工藤の家の屋根裏部屋#123～米村姫良々～",
+    "content_sub_title": "",
+    "release_date": "2023-01-10 00:00:00",
+    "created_at": "2023-11-14 15:29:48",
+    "updated_at": "2023-11-14 15:29:48",
+    "content_text": "ふくむらの部屋 第123回は、OCHA NORMA米村姫良々さんが登場！\r\n\r\n・ハロコン\r\n・布団から出られないこと\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n年女ハロメン当てクイズに挑戦！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・OCHA NORMAの1年を振り返って\r\n・写真映え\r\nを語りました！\r\n\r\n230110_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17436",
+        "material_title": "230110_s.jpg",
+        "material_file": "f465c46a352ca2725326ac9b10ea73d57cadd80a65992b457c901414775372bb17436.jpeg"
+      }
+    ],
+    "previous_id": "21232",
+    "next_id": "21212",
+    "saved_materials": [
+      "assets/21231_17436_230110_s.jpg"
+    ]
+  }
+}

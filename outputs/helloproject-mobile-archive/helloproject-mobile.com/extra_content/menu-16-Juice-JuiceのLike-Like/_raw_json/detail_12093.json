@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 597,
+    "content_id": "12093",
+    "content_title": "タコの筆箱",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2019-09-12 14:21:00",
+    "created_at": "2019-09-12 14:21:31",
+    "updated_at": "2019-09-12 14:21:31",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "10299",
+        "material_title": "0912_kudo_s.jpg",
+        "material_file": "7f133f9ebd362b832702a9686981e2c17ffa5b77a5b1bbb10358bb112502800610299.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "12093",
+    "content_title": "タコの筆箱",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2019-09-12 14:21:00",
+    "created_at": "2019-09-12 14:21:31",
+    "updated_at": "2019-09-12 14:21:31",
+    "content_text": "0912_kudo_s.jpg\r\n筆箱にタコのキーホルダーが着いていることも気に入っています。",
+    "materials": [
+      {
+        "secretKey": "a74d6785e0b73afb32936f90d684127c",
+        "material_id": "10299",
+        "material_title": "0912_kudo_s.jpg",
+        "material_file": "42b47b56c094a6dec3d72b1aeed076b2a5a55be5f657abd48b86f373170015e110299.jpeg"
+      }
+    ],
+    "previous_id": "12096",
+    "next_id": "12082",
+    "saved_materials": [
+      "assets/12093_10299_0912_kudo_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 389,
+    "content_id": "12230",
+    "content_title": "隣のやじまん家の塀の裏#57 船木結",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-10-02 16:00:00",
+    "created_at": "2019-10-02 16:41:26",
+    "updated_at": "2019-10-02 16:52:44",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10421",
+        "material_title": "191002_1.jpg",
+        "material_file": "14007ab986a70c6902a3b471311b0c4169689fbe3bfb07a7fb4f72bfb4ff151510421.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10423",
+        "material_title": "191002_2.jpg",
+        "material_file": "6e4c76af6bb269a26a36849518362c5e21cf1eb0fc2a531edac28e46e0d8cac510423.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12230",
+    "content_title": "隣のやじまん家の塀の裏#57 船木結",
+    "content_sub_title": "",
+    "release_date": "2019-10-02 16:00:00",
+    "created_at": "2019-10-02 16:41:26",
+    "updated_at": "2019-10-02 16:52:44",
+    "content_text": "「隣のやじまん家」#57配信中です！\n\n今回のゲストはアンジュルム/カントリー・ガールズ 船木結さん！\n\n\nアンジュルムメキシコ公演のお話やコンサート中に意識していること、\n文化祭でおばけ役をやるなら何役？？などなど今回もたくさんのメールを紹介しています♪\n\n191002_2.jpg\n\n「矢島パイセンの○○チェック」では、なんと…！！\nキューティー界では超有名(？)な「キューティーむすぶたん」さんに来ていただきましたよ～<img src=\"/emoji/emoji-images/f7b2.gif\"/><img src=\"/emoji/emoji-images/f7b2.gif\"/>\n矢島パイセンとの夢の共演です<img src=\"/emoji/emoji-images/f460.gif\"/>(笑)\nぜひ、この神回(？)をお聴き逃しなく！！\n\n＼キュン♡ポーズ／\n\n191002_1.jpg\n\n今回の「VS矢島」の対決内容はこちら！\n\n『ハロプロ大喜利！』\n\n4つのお題で対決しました！\n今回は「面白い」よりも、いかに「ハロプロっぽい」かがポイント！\n\n気になる2人の回答は？\n勝敗結果など、続きは配信をお聴きください♪\n\n\n11月テーマトークのお題は\n「過去にやってしまった失敗談」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は10月15日(火)、ゲストはモーニング娘。'19の小田さくらさんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10421",
+        "material_title": "191002_1.jpg",
+        "material_file": "db662f09651ff9cedb20c6a4ba04171bd1fffa06624f85534d2aa99af2f8f17a10421.jpeg"
+      },
+      {
+        "secretKey": "bf89250f28d3ee67ec06b097f4368e04",
+        "material_id": "10423",
+        "material_title": "191002_2.jpg",
+        "material_file": "3c28f895b49f7f976b9488146324f0a6e05ec9012331724017aa562da6a44a4f10423.jpeg"
+      }
+    ],
+    "previous_id": "12249",
+    "next_id": "12222",
+    "saved_materials": [
+      "assets/12230_10421_191002_1.jpg",
+      "assets/12230_10423_191002_2.jpg"
+    ]
+  }
+}

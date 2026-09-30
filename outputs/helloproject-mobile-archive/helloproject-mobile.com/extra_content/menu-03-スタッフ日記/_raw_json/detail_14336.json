@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 328,
+    "content_id": "14336",
+    "content_title": "隣のやじまん家の塀の裏#74 上國料萌衣",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-08-17 00:00:00",
+    "created_at": "2020-08-17 13:19:49",
+    "updated_at": "2020-08-17 13:21:48",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11919",
+        "material_title": "200617_2.jpg",
+        "material_file": "080f3e724a144000d67c0eebb2007b6bffc7c0e9a7bcf1f1e9a613c64f2e02cb11919.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "11920",
+        "material_title": "200617_1.jpg",
+        "material_file": "53013103dabb79643f76857cf2063c331144e33b2a4998b0fa981d452709c0e211920.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14336",
+    "content_title": "隣のやじまん家の塀の裏#74 上國料萌衣",
+    "content_sub_title": "",
+    "release_date": "2020-08-17 00:00:00",
+    "created_at": "2020-08-17 13:19:49",
+    "updated_at": "2020-08-17 13:21:48",
+    "content_text": "「隣のやじまん家」第74回 前後編配信中です！\n\n\n今回のゲストはお久しぶりの登場！アンジュルム 上國料萌衣さん！！\n\n矢島さんが終始上國料さんにかわいいね～と微笑み、ほんわかした雰囲気で収録が進みました(笑)\n\nお家時間の過ごし方、おふたりが今後どんなCMに出演してみたいかなどぜひお聴きください♪\n\n今週の1曲で紹介した「恋はアッチャアッチャ」ポーズです<img src=\"/emoji/emoji-images/453d.gif\"/>\n\n200617_1.jpg\n\n\n「矢島パイセンの○○チェック」では、\n上國料さんの鼻歌泥棒についてのタレコミ！\n矢島パイセンもついついやってしまうようですが…アリ？それともナシ？？\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①なぞかけ対決！！\n\n上手な、なぞかけはできたのか？！！\n気になる続きは後編をチェックしてください☆\n\n200617_2.jpg\n\n\n今回のハロー！ラジオ連動企画は、前回の「隣のやじまん家」から矢島さん、「ふくむらの部屋」から譜久村さんからの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n次回のテーマトークのお題は\n「誰にも言えない秘密」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはBEYOOOOONDS/雨ノ森 川海 清野桃々姫さんが登場！\n8/18(火)～前編・9/1(火)～後編の配信スタート！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11919",
+        "material_title": "200617_2.jpg",
+        "material_file": "bdcf3b43070a6612885ea7791583a97ffdbb9f081e43ebc00565afbe627f81f911919.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "11920",
+        "material_title": "200617_1.jpg",
+        "material_file": "cec8daaded828238fb3abc7961ca39ede7d53ef52a284fbb94dd8b68d95b11c511920.jpeg"
+      }
+    ],
+    "previous_id": "14406",
+    "next_id": "14325",
+    "saved_materials": [
+      "assets/14336_11919_200617_2.jpg",
+      "assets/14336_11920_200617_1.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 1,
+    "content_id": "20322",
+    "content_title": "そば",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2023-06-07 10:00:00",
+    "created_at": "2023-06-06 17:49:57",
+    "updated_at": "2023-06-06 17:49:57",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "16780",
+        "material_title": "0607_yamagishi_s.jpg",
+        "material_file": "8b03a81dfbc95d197e71015df7fd1efbdded4eb1032f409583dc28dc9001fed116780.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "20322",
+    "content_title": "そば",
+    "content_sub_title": "山岸理子",
+    "release_date": "2023-06-07 10:00:00",
+    "created_at": "2023-06-06 17:49:57",
+    "updated_at": "2023-06-06 17:49:57",
+    "content_text": "0607_yamagishi_s.jpg\r\n今日はお昼に蕎麦食べたー！\r\nとろろ、おくら、納豆、なめこ\r\nをトッピングして、\r\nねばねば蕎麦にしたよー\r\n\r\n最近暑いからさっぱりしたもの\r\n食べたくなるよね^^\r\n\r\n蕎麦は疲労回復の効果があるらしい！この夏、たくさん食べよ！\r\n\r\nつばきファクトリー山岸理子",
+    "materials": [
+      {
+        "secretKey": "bd7ea7455a493d24ca52336450b4b3c5",
+        "material_id": "16780",
+        "material_title": "0607_yamagishi_s.jpg",
+        "material_file": "dc87401e82b0d9164593dba243a903f1690248dab0b607cf1c7d7af0bdda544716780.jpeg"
+      }
+    ],
+    "previous_id": "-1",
+    "next_id": "20260",
+    "saved_materials": [
+      "assets/20322_16780_0607_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 537,
+    "content_id": "8363",
+    "content_title": "工藤の家の屋根裏部屋#15～植村あかり～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-16 17:17:00",
+    "created_at": "2018-01-16 17:18:20",
+    "updated_at": "2018-01-16 17:19:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7346",
+        "material_title": "0116_01_s.jpg",
+        "material_file": "3413a1d630ee924c3ecdf9255febec77d08c095c2196d05a65864183295e28177346.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7347",
+        "material_title": "0116_02_s.jpg",
+        "material_file": "b6fbd3f771deb296d70e3248721934629b3192a3090116793d612af5b94c389f7347.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8363",
+    "content_title": "工藤の家の屋根裏部屋#15～植村あかり～",
+    "content_sub_title": "",
+    "release_date": "2018-01-16 17:17:00",
+    "created_at": "2018-01-16 17:18:20",
+    "updated_at": "2018-01-16 17:19:34",
+    "content_text": "「ふくむらの部屋」2018年最初の配信がスタートです！\n今年もどうぞよろしくお願いします！\n\n\n2018年最初のゲストはJuice=Juiceの植村あかりさん！\n収録は終始ハイテンションの大盛り上がり！\nきっと聞いているあなたも一緒に笑ってしまうこと間違いなし！\n\n0116_01_s.jpg\n\n「みずき先生のハロプロ講座」\n今年も濃～いハロプロ講座の内容になっています。\n定番のコンサートひな壇話！\n楽曲についても熱く語っています！\nコーナー最後は2人の天然な雰囲気（？）で締めくくっています。\n\n\n新コーナー！「みずきの究極セレクション！」\nリスナーの皆さんから究極の2択のお題を大募集！\nそれに対して譜久村さん、ゲストの植村さんが選んでいきます。\nどちらも選びたい！どちらも困っちゃう!?　そんな究極の選択に2人が大盛り上がり！\n譜久村さんが一度は〇〇てしまったと思われたい事とは…!?\n植村さんが夢に見る未来のシチュエーションとは…!?\n\n0116_02_s.jpg\n\nそしてそして、\n次回のゲストはアンジュルムから佐々木莉佳子さんが登場です！\nお楽しみに！\n\n\n「みずき先生のハロプロ講座」「みずきの究極セレクション！」\n普通のお便りも募集中！\nメールはこちらまで\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ずコーナー名を記入してお送りください。\n皆さまからのメールお待ちしております！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7346",
+        "material_title": "0116_01_s.jpg",
+        "material_file": "25699596226a2b7e502a913dc07f3326c557f4e66d12931cd0a0dc7e42e25a897346.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7347",
+        "material_title": "0116_02_s.jpg",
+        "material_file": "5781d8f31cd39eb681ee505bebc6e5f50fcf74129093b13dbb303265ff7a0dbe7347.jpeg"
+      }
+    ],
+    "previous_id": "8365",
+    "next_id": "8344",
+    "saved_materials": [
+      "assets/8363_7346_0116_01_s.jpg",
+      "assets/8363_7347_0116_02_s.jpg"
+    ]
+  }
+}

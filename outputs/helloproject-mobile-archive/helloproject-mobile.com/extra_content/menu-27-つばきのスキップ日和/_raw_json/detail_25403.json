@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 50,
+    "content_id": "25403",
+    "content_title": "東京ドームシティ",
+    "content_sub_title": "村田結生",
+    "category_id": "155",
+    "release_date": "2026-01-23 10:00:00",
+    "created_at": "2025-12-01 10:54:57",
+    "updated_at": "2026-01-14 19:25:50",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20752",
+        "material_title": "0130_murata_s.jpg",
+        "material_file": "bf886076a68d631a4c94e7f6ab27a046a5f0fa4073cc0b8a8fc59b12972588ce20752.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25403",
+    "content_title": "東京ドームシティ",
+    "content_sub_title": "村田結生",
+    "release_date": "2026-01-23 10:00:00",
+    "created_at": "2025-12-01 10:54:57",
+    "updated_at": "2026-01-14 19:25:50",
+    "content_text": "0130_murata_s.jpg\r\nやっほー！村田結生です！\r\n\r\nこの前東京ドームシティに遊びに行きました♡\r\n\r\nバッティングとかローラースケートとかボウリングとかやったり\r\n\r\nあとはアトラクションも乗った！\r\nバイキングとか^^\r\n\r\n今まで絶叫系乗れなかったんだんだけど\r\n\r\n今年の秋はがんばって絶叫系乗りまくって絶叫系克服できたかも！\r\n\r\n少し成長した気がしてうれしかった！！\r\n\r\n\r\nyouとyuuがスキップするくらい毎日楽しく過ごせますように☆",
+    "materials": [
+      {
+        "secretKey": "85571b51e1e57ab48a769a6fd899f4d4",
+        "material_id": "20752",
+        "material_title": "0130_murata_s.jpg",
+        "material_file": "23c499e28d32ea7a0184109885dc463f19e187a963ac8b73123c89618589f9d720752.jpeg"
+      }
+    ],
+    "previous_id": "25687",
+    "next_id": "25402",
+    "saved_materials": [
+      "assets/25403_20752_0130_murata_s.jpg"
+    ]
+  }
+}

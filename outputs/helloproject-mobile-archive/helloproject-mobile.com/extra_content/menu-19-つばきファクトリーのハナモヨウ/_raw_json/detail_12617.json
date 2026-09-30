@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 17,
+    "content_id": "12617",
+    "content_title": "曼珠沙華",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-11-29 17:55:00",
+    "created_at": "2019-11-29 17:55:36",
+    "updated_at": "2019-11-29 17:55:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "10703",
+        "material_title": "1129_ono_s.jpg",
+        "material_file": "9b4151272b89b5c97217f229a638b617b226ae68666ef47c8149de6a6552e8a510703.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "12617",
+    "content_title": "曼珠沙華",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-11-29 17:55:00",
+    "created_at": "2019-11-29 17:55:36",
+    "updated_at": "2019-11-29 17:55:36",
+    "content_text": "1129_ono_s.jpg\r\n咲きかけの曼珠沙華に、\r\nとんぼがとまっているのを\r\n見つけました！\r\n \r\n脅かさないように\r\nそーっと写真を撮ったよ\r\n \r\n半袖で出掛けられた頃が\r\n懐かしいくらいに\r\n寒くなってきたね、、、。\r\n \r\n道にお花が咲いてることも\r\n少なくなって、\r\nさみしいなって思った！\r\n \r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "b1b247b59da6783dc33795b575e2307f",
+        "material_id": "10703",
+        "material_title": "1129_ono_s.jpg",
+        "material_file": "f6a78a2ccfe88c60b0139b8e25a7d941c5ca281d07695fb8c2b77ba7b268a9eb10703.jpeg"
+      }
+    ],
+    "previous_id": "12629",
+    "next_id": "12540",
+    "saved_materials": [
+      "assets/12617_10703_1129_ono_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 164,
+    "content_id": "21235",
+    "content_title": "工藤の家の屋根裏部屋#127～一岡伶奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-03-07 00:00:00",
+    "created_at": "2023-11-14 15:50:35",
+    "updated_at": "2023-11-14 15:50:35",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17440",
+        "material_title": "230307_s.jpg",
+        "material_file": "7597c72699eec08c44731c50ef3e25f266cc23fddfe13a4caf1c79520be0f65817440.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21235",
+    "content_title": "工藤の家の屋根裏部屋#127～一岡伶奈～",
+    "content_sub_title": "",
+    "release_date": "2023-03-07 00:00:00",
+    "created_at": "2023-11-14 15:50:35",
+    "updated_at": "2023-11-14 15:50:35",
+    "content_text": "ふくむらの部屋 第127回は、BEYOOOOONDS一岡伶奈さんが登場！\r\n\r\n・地下鉄の魅力\r\n・リーダーズの役割分担\r\nのお話からスタート！\r\n\r\n「ハロプロクイズ王」のコーナーでは、\r\n山手線駅名に使われている文字が含まれるメンバー当てクイズに挑戦！\r\n\r\n「新コーナーを考えよう！」のコーナーでは、\r\n新コーナー候補を紹介！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・少年漫画\r\n・ハロコンで発見した相手グループの魅力\r\nを語りました！\r\n\r\n230307_s.jpg\r\n\r\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "51cce9031182766cc24b4e3e9f5950ea",
+        "material_id": "17440",
+        "material_title": "230307_s.jpg",
+        "material_file": "78a1fc663c9ae331e2a11303b303710adc36a88902988c4591a36521850dc3de17440.jpeg"
+      }
+    ],
+    "previous_id": "24074",
+    "next_id": "23367",
+    "saved_materials": [
+      "assets/21235_17440_230307_s.jpg"
+    ]
+  }
+}

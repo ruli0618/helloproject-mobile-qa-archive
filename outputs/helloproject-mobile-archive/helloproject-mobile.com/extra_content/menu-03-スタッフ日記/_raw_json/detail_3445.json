@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 701,
+    "content_id": "3445",
+    "content_title": "さやしの部屋の天井裏#3",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-11-16 18:00:00",
+    "created_at": "2015-11-16 17:56:20",
+    "updated_at": "2015-11-19 10:34:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "3202",
+        "material_title": "sayashiroom4.jpg",
+        "material_file": "d6b46003606adff966acd708f6ee217b3e3b966699283dfbb7356f22340339ea3202.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "3445",
+    "content_title": "さやしの部屋の天井裏#3",
+    "content_sub_title": "",
+    "release_date": "2015-11-16 18:00:00",
+    "created_at": "2015-11-16 17:56:20",
+    "updated_at": "2015-11-19 10:34:30",
+    "content_text": "こんにちは！\nハロモバスタッフ番号4番♂です。\n本日更新した、「さやしの部屋#4」聞いて頂けましたか？\n\n9期メンバー3人が昔話やら、あまり仲が良くない話やら、収録当日も鞘師里保をぼっちにした話やら、収録した分をほぼノーカットでダラダラお送りしています。\n\nでも今回はなんと！！3人の写真撮影に成功しました！！\n\nこちらです！！\n\nsayashiroom4.jpg\n\n\nMCの鞘師里保や次回のゲスト宛のメールはこちらまで！\n→<u><a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\">halomoba@gmail.com</font></a></u>\n\n\n鞘師里保出演回はあと2回！！\n最後までお楽しみ頂けるように頑張ります！！",
+    "materials": [
+      {
+        "secretKey": "7153f83de5eaa6ddb0722608a990c676",
+        "material_id": "3202",
+        "material_title": "sayashiroom4.jpg",
+        "material_file": "83fead58daf4ee117ee3f3d782d37bf124796dcbdd9af7b5b7ad7375e6a6c1ff3202.jpeg"
+      }
+    ],
+    "previous_id": "3450",
+    "next_id": "3403",
+    "saved_materials": [
+      "assets/3445_3202_sayashiroom4.jpg"
+    ]
+  }
+}

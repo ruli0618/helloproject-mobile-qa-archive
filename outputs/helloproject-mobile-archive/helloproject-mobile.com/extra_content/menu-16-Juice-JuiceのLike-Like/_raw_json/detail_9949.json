@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 675,
+    "content_id": "9949",
+    "content_title": "大好きな",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2018-10-27 11:00:00",
+    "created_at": "2018-10-02 12:03:22",
+    "updated_at": "2018-10-02 12:03:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8670",
+        "material_title": "1027_miyamoto_s.jpg",
+        "material_file": "e3e6c2eede624c15bf06f29ae4a074d9ecc35be51744544774dfda59cd925c138670.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 662,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9949",
+    "content_title": "大好きな",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2018-10-27 11:00:00",
+    "created_at": "2018-10-02 12:03:22",
+    "updated_at": "2018-10-02 12:03:22",
+    "content_text": "1027_miyamoto_s.jpg\r\n青空～♡♡",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8670",
+        "material_title": "1027_miyamoto_s.jpg",
+        "material_file": "5cfd33191e3fdc54c446ca0625b4db6b782dbecce546306d1e326a05f28c903e8670.jpeg"
+      }
+    ],
+    "previous_id": "9950",
+    "next_id": "9946",
+    "saved_materials": [
+      "assets/9949_8670_1027_miyamoto_s.jpg"
+    ]
+  }
+}

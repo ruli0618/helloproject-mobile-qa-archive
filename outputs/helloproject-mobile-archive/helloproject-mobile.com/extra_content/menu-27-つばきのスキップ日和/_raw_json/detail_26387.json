@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 30,
+    "content_id": "26387",
+    "content_title": "★",
+    "content_sub_title": "秋山眞緒",
+    "category_id": "155",
+    "release_date": "2026-06-21 10:00:00",
+    "created_at": "2026-06-12 10:47:19",
+    "updated_at": "2026-06-12 10:47:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21559",
+        "material_title": "0621_akiyama_s.jpg",
+        "material_file": "87e6f1cfb34dbddff7634288a474689661f184efa6d69676065d552a48a4af0a21559.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26387",
+    "content_title": "★",
+    "content_sub_title": "秋山眞緒",
+    "release_date": "2026-06-21 10:00:00",
+    "created_at": "2026-06-12 10:47:19",
+    "updated_at": "2026-06-12 10:47:19",
+    "content_text": "0621_akiyama_s.jpg\r\n\r\n秋山眞緒ですっ\r\n\r\n最近はLIVEがたくさんあって、ファンの皆様の笑顔や表情を見ることができて、とっても幸せだったなぁ\r\n\r\nいつもあなたからたくさんのパワーをもらってるよ♡\r\n\r\n本当にありがとう。\r\n\r\n私にいろいろな力をくれるように、私もあなたに活力や勇気、たくさんの感情を届けられる人でいたいなぁ\r\n\r\n心の底から大切に思ってるよ♡\r\n\r\nまた会えるのを楽しみにしてるね(^^)\r\n\r\n秋山眞緒",
+    "materials": [
+      {
+        "secretKey": "db8cf3de6883812fb8b9044ce44a61eb",
+        "material_id": "21559",
+        "material_title": "0621_akiyama_s.jpg",
+        "material_file": "648fb03f29fdd531059565f920203abe262d9003b5d35f33cf3e8beef05eafa621559.jpeg"
+      }
+    ],
+    "previous_id": "26388",
+    "next_id": "26386",
+    "saved_materials": [
+      "assets/26387_21559_0621_akiyama_s.jpg"
+    ]
+  }
+}

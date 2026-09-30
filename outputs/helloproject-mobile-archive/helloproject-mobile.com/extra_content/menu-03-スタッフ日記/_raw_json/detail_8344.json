@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 538,
+    "content_id": "8344",
+    "content_title": "隣のやじまん家の塀の裏#13 中島早貴",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-01-09 21:13:00",
+    "created_at": "2018-01-09 21:13:39",
+    "updated_at": "2018-01-09 21:17:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7330",
+        "material_title": "0109_01_s.jpg",
+        "material_file": "16c442491f33e3f3472a80b06b26b04446fe7162f4668100256b27262d87d9567330.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7331",
+        "material_title": "0109_02_s.jpg",
+        "material_file": "e2ca76ac711218e701eedc19b1b5e9296188a1d52cabaeeca9d76744898aa3627331.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 522,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8344",
+    "content_title": "隣のやじまん家の塀の裏#13 中島早貴",
+    "content_sub_title": "",
+    "release_date": "2018-01-09 21:13:00",
+    "created_at": "2018-01-09 21:13:39",
+    "updated_at": "2018-01-09 21:17:26",
+    "content_text": "新年明けて2018年最初のハロー！ラジオ番組\r\n「隣のやじまん家」#13公開されました！\r\n\r\n今回のゲストはこの方！\r\n\r\n0109_01_s.jpg\r\n\r\n戌年にちなんだワンワンポーズ？\r\n中島早貴さんの登場です。\r\n\r\n別ショットでもう1枚。\r\n\r\n0109_02_s.jpg\r\n\r\nそれぞれの年末年始の過ごし方から始まり、\r\n鈴木愛理さん、岡井千聖さんの活躍、\r\n2人で出演するイベントについて等など！\r\n\r\nお互いが演じてみたい役柄、演じてほしい役柄等も話されています。\r\nぜひお聴き下さい！\r\n\r\n「今月のハッピーバースデー♪」は、引き続き1月お誕生日を迎える方からのお便りを大募集！\r\n「くじ引きトーク」のテーマや、「普通のお便り」メールもお待ちしています。\r\n\r\nメールはこちらまで、コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n次回はどなたが出演してくれるのでしょうか。\r\n乞うご期待！",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7330",
+        "material_title": "0109_01_s.jpg",
+        "material_file": "a5998307b7dc4dc43208027d573fc841751445d738e81de799900988b1591bdb7330.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7331",
+        "material_title": "0109_02_s.jpg",
+        "material_file": "58d4b9aebdab983413c91f499c131be37f9ec9f91c9f666644124df6e200c0017331.jpeg"
+      }
+    ],
+    "previous_id": "8363",
+    "next_id": "8304",
+    "saved_materials": [
+      "assets/8344_7330_0109_01_s.jpg",
+      "assets/8344_7331_0109_02_s.jpg"
+    ]
+  }
+}

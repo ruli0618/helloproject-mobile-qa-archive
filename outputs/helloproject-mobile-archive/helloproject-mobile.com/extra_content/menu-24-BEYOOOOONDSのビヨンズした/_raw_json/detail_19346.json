@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 277,
+    "content_id": "19346",
+    "content_title": "夏の思い出！",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2023-01-25 10:00:00",
+    "created_at": "2022-12-14 19:55:43",
+    "updated_at": "2022-12-14 19:57:33",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16057",
+        "material_title": "0125_satoyoshi_s.jpg",
+        "material_file": "8d3e5d3ba7bb1f4eb5e753c09d0f64e168a39b1a05ffa3f32217dc2bd51473eb16057.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "19346",
+    "content_title": "夏の思い出！",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2023-01-25 10:00:00",
+    "created_at": "2022-12-14 19:55:43",
+    "updated_at": "2022-12-14 19:57:33",
+    "content_text": "0125_satoyoshi_s.jpg\n今年1番お気に入りの写真です！\n\n【23周目お題：思い出】",
+    "materials": [
+      {
+        "secretKey": "c9341d1999db4fabdbb9080f0799cf83",
+        "material_id": "16057",
+        "material_title": "0125_satoyoshi_s.jpg",
+        "material_file": "5888079c5d620138846ed7711556827940c36ca3c1a69dfc9667ebb6b8555b9116057.jpeg"
+      }
+    ],
+    "previous_id": "19660",
+    "next_id": "19345",
+    "saved_materials": [
+      "assets/19346_16057_0125_satoyoshi_s.jpg"
+    ]
+  }
+}

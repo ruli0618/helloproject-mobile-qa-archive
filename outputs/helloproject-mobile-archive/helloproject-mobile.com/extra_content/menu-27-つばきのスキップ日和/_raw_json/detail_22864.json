@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 89,
+    "content_id": "22864",
+    "content_title": "灼熱",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "155",
+    "release_date": "2024-09-13 10:00:00",
+    "created_at": "2024-09-09 18:24:54",
+    "updated_at": "2024-09-09 18:24:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18713",
+        "material_title": "0913_onoda_s.jpg",
+        "material_file": "a589baeef9dad811d917629e9e4c3e013f1f1ca30b930c7b4200c50ca523b8ce18713.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22864",
+    "content_title": "灼熱",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2024-09-13 10:00:00",
+    "created_at": "2024-09-09 18:24:54",
+    "updated_at": "2024-09-09 18:24:54",
+    "content_text": "0913_onoda_s.jpg\r\nもうすぐ秋なのが嬉しすぎる、さおりです♪\r\n\r\n\r\nこの間、灼熱ライブがありました！\r\n\r\n今年も山梨県で開催することができてとても嬉しかったです！\r\n\r\n天気は、、、豪雨でしたが気持ちはピカピカサンサン太陽でした！\r\n\r\nたのしすぎたなああああ。\r\n\r\nサインボールとか、シャボン玉とか、\r\n\r\n灼熱ライブならではの演出が、大好きです！\r\n\r\nかわいい衣装と浴衣も、最高だったな♡\r\n\r\nまた来年もできますように！\r\n\r\n\r\n\r\n\r\n今日も、さおりの自撮りです♪\r\n\r\n\r\n\r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18713",
+        "material_title": "0913_onoda_s.jpg",
+        "material_file": "92d080e07ccd5eabb111b1d737b73ef597794559b74911bf2d2c111add2d423118713.jpeg"
+      }
+    ],
+    "previous_id": "22865",
+    "next_id": "22840",
+    "saved_materials": [
+      "assets/22864_18713_0913_onoda_s.jpg"
+    ]
+  }
+}

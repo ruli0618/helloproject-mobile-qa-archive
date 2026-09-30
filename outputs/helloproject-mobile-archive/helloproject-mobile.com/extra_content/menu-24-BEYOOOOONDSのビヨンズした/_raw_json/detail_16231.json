@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 382,
+    "content_id": "16231",
+    "content_title": "可愛いといえばこの方",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2021-07-07 10:00:00",
+    "created_at": "2021-06-21 17:26:08",
+    "updated_at": "2022-01-17 14:45:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f66bba0c457e5e66f82722a4ff8942e1",
+        "material_id": "13561",
+        "material_title": "210707_satoyoshi_s.jpg",
+        "material_file": "bd9907df57331d1bf4dc76554f5598e826ff5eedf6efba9c14c9b60588ddb42613561.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "16231",
+    "content_title": "可愛いといえばこの方",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2021-07-07 10:00:00",
+    "created_at": "2021-06-21 17:26:08",
+    "updated_at": "2022-01-17 14:45:11",
+    "content_text": "210707_satoyoshi_s.jpg\n我が家に住まう可愛いの権化です。\nお散歩中も可愛い。\n\n【12周目お題：かわいい】",
+    "materials": [
+      {
+        "secretKey": "48e270e93f6a471eacafffffdd993f45",
+        "material_id": "13561",
+        "material_title": "210707_satoyoshi_s.jpg",
+        "material_file": "351f1c4f6c9a130eaf601b779f72ee0e9b79b7199d2a954a889853413531e92413561.jpeg"
+      }
+    ],
+    "previous_id": "16232",
+    "next_id": "16230",
+    "saved_materials": [
+      "assets/16231_13561_210707_satoyoshi_s.jpg"
+    ]
+  }
+}

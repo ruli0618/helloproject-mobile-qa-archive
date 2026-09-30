@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 38,
+    "content_id": "18717",
+    "content_title": "すくすく",
+    "content_sub_title": "谷本安美",
+    "category_id": "115",
+    "release_date": "2022-09-02 10:00:00",
+    "created_at": "2022-08-26 12:24:58",
+    "updated_at": "2022-08-26 12:24:58",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15599",
+        "material_title": "0902_tanimoto_s.jpg",
+        "material_file": "0071223a706155292023d826699200b82e3dead049d856561d42e126bbcc799e15599.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18717",
+    "content_title": "すくすく",
+    "content_sub_title": "谷本安美",
+    "release_date": "2022-09-02 10:00:00",
+    "created_at": "2022-08-26 12:24:58",
+    "updated_at": "2022-08-26 12:24:58",
+    "content_text": "0902_tanimoto_s.jpg\r\n家で育ててる観葉植物の成長具合が凄すぎなの！\r\n成長期かな？",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15599",
+        "material_title": "0902_tanimoto_s.jpg",
+        "material_file": "213c8a452575fe49b3d47a2db45c4cf9b36084eb3ca6c0eb6c578cc7231b289615599.jpeg"
+      }
+    ],
+    "previous_id": "18804",
+    "next_id": "18715",
+    "saved_materials": [
+      "assets/18717_15599_0902_tanimoto_s.jpg"
+    ]
+  }
+}

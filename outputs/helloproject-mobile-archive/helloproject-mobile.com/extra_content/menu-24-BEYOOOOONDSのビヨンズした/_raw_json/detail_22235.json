@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 178,
+    "content_id": "22235",
+    "content_title": "MVオフショ",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2024-06-19 10:00:00",
+    "created_at": "2024-05-16 15:22:18",
+    "updated_at": "2024-05-16 15:22:18",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18212",
+        "material_title": "0619_shimakura_s.jpg",
+        "material_file": "c2b2b6e7c793048f5ddbb6f14335db577677a0efa385caac2d44dbd5ad1100e018212.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 162,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22235",
+    "content_title": "MVオフショ",
+    "content_sub_title": "島倉りか",
+    "release_date": "2024-06-19 10:00:00",
+    "created_at": "2024-05-16 15:22:18",
+    "updated_at": "2024-05-16 15:22:18",
+    "content_text": "0619_shimakura_s.jpg\r\nTheオフショットって感じの1枚！\r\nデジカメで撮ったよ♪\r\n\r\n【34周目お題：オフショット】",
+    "materials": [
+      {
+        "secretKey": "2f531f5d86a8224ad1c65137d0cc4dd2",
+        "material_id": "18212",
+        "material_title": "0619_shimakura_s.jpg",
+        "material_file": "b989c6bac8295d2e8c36770d3274e94fb2adc2c45cd15ad28afa765dad7dc83a18212.jpeg"
+      }
+    ],
+    "previous_id": "22507",
+    "next_id": "22234",
+    "saved_materials": [
+      "assets/22235_18212_0619_shimakura_s.jpg"
+    ]
+  }
+}

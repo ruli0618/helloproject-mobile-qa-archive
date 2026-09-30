@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 381,
+    "content_id": "12532",
+    "content_title": "隣のやじまん家の塀の裏#60 新沼希空",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-11-20 16:00:00",
+    "created_at": "2019-11-20 16:52:29",
+    "updated_at": "2019-11-20 16:57:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10627",
+        "material_title": "191120_1.jpg",
+        "material_file": "cf3f3843aa2115278794c533be532980650016a691cffa8170b39b8f16ae2f2a10627.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10628",
+        "material_title": "191120_2.jpg",
+        "material_file": "33bc771333378b9e204c50f5b70c1d43ba97a60b6cb210647e7d55ed444922d510628.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 382,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12532",
+    "content_title": "隣のやじまん家の塀の裏#60 新沼希空",
+    "content_sub_title": "",
+    "release_date": "2019-11-20 16:00:00",
+    "created_at": "2019-11-20 16:52:29",
+    "updated_at": "2019-11-20 16:57:09",
+    "content_text": "「隣のやじまん家」#60配信中です！\n\n今回のゲストはつばきファクトリーの新沼希空さん！\n\nお2人のやり残した「令和初の○○」や\n新沼さんと研修生同期の山木梨沙さん、船木結さんの卒業についてなどお話しています！\n\n\nまた、独自の快眠法を生み出したという新沼さん…！\n寝不足でお悩みのみなさん！この方法ならたっぷり睡眠できるかもしれません<img src=\"/emoji/emoji-images/f957.gif\"/>\nぜひ、試してみてくださいね。\n\n191120_2.jpg\n\n\n「矢島パイセンの○○チェック」では、\n新沼さんは、実はイタズラ好きとのタレコミがありました！！\nそこには、ある意外な理由が…。(笑)\n矢島パイセンも℃-uteメンバーからよくイタズラされていたみたいですが、\n結果はアリ…？それともナシ…？\n\n\n\n\n今回の「VS矢島」の対決内容はこちら！\n\n①あいうえおきそらん！\n\nこちらは新沼さんが生み出した特技？だそうで1文字指定すると、その文字からはじまるアイドルっぽいことを言うというものです。\nどちらがアイドルっぽい一言が言えたのか…！\n結果は配信をお聴きください。\n\n\n今回から「隣のやじまん家」もハロー！ラジオ連動企画に参加しています♪\nふくむらの部屋からの2つの質問に答えましたよ！\nお2人の書いた質問はどの番組で読まれるのか、是非「ふくむらの部屋」「宣伝会議」をチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n191120_1.jpg\n\n11月テーマトークのお題は\n「過去にやってしまった失敗談」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。 \n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a> \n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回配信は11月26日(火)、ゲストはモーニング娘。'19/カントリー・ガールズの森戸知沙希さんが登場！\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10627",
+        "material_title": "191120_1.jpg",
+        "material_file": "07b94cc72faad403a03991da33c8c1e156db4a635df9a0baa33331f15ff2188f10627.jpeg"
+      },
+      {
+        "secretKey": "df753a6326e4f2842078cbb2e87e6d9c",
+        "material_id": "10628",
+        "material_title": "191120_2.jpg",
+        "material_file": "a259f5e974409a8ec695e3915242e0300d41e955f1ae8ff8f57288bce7abf14d10628.jpeg"
+      }
+    ],
+    "previous_id": "12527",
+    "next_id": "12525",
+    "saved_materials": [
+      "assets/12532_10627_191120_1.jpg",
+      "assets/12532_10628_191120_2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 73,
+    "content_id": "10537",
+    "content_title": "寒い中",
+    "content_sub_title": "山岸理子",
+    "category_id": "73",
+    "release_date": "2018-12-19 17:24:00",
+    "created_at": "2018-12-19 17:26:11",
+    "updated_at": "2018-12-19 17:26:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9110",
+        "material_title": "1219_yamagishi_s.jpg",
+        "material_file": "ea8f3d92d41f8d7a62df79fc9200fdef14946230fe745a3db18091f5917eabb79110.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10537",
+    "content_title": "寒い中",
+    "content_sub_title": "山岸理子",
+    "release_date": "2018-12-19 17:24:00",
+    "created_at": "2018-12-19 17:26:11",
+    "updated_at": "2018-12-19 17:26:11",
+    "content_text": "こんにちはー！\r\nつばきファクトリーの山岸理子です！\r\n\r\n今日の朝、歩いていたら、\r\n寒い中、頑張って咲いている可愛いお花を\r\n見つけました！\r\n\r\n1219_yamagishi_s.jpg\r\nこのお花をみて私も今日1日頑張ろうと\r\n思いました。\r\nみなさんも頑張りましょー！！",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9110",
+        "material_title": "1219_yamagishi_s.jpg",
+        "material_file": "5ee9b0b42d1f33dae5a52a36587f60547dae364089453e2c9bf61730311e40659110.jpeg"
+      }
+    ],
+    "previous_id": "10583",
+    "next_id": "10512",
+    "saved_materials": [
+      "assets/10537_9110_1219_yamagishi_s.jpg"
+    ]
+  }
+}

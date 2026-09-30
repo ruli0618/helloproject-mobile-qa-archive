@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 451,
+    "content_id": "14208",
+    "content_title": "素敵な歌声を",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2020-08-17 10:00:00",
+    "created_at": "2020-07-22 19:26:16",
+    "updated_at": "2022-01-17 14:34:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "7a981e0c16766166ceca0893ac8d3c63",
+        "material_id": "11832",
+        "material_title": "0817_eguchi_s.jpg",
+        "material_file": "347210b168987420ab0bec0696eb192e905be248d8d8f0b6dc82a511351b8a5011832.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 442,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "14208",
+    "content_title": "素敵な歌声を",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2020-08-17 10:00:00",
+    "created_at": "2020-07-22 19:26:16",
+    "updated_at": "2022-01-17 14:34:56",
+    "content_text": "0817_eguchi_s.jpg\n普段あまり歌う事のないバラード！皆さんに素敵な歌声だなと思って頂けるように頑張ります！\n\n【4周目お題：素敵】",
+    "materials": [
+      {
+        "secretKey": "f13f2f47beee1a43a412aaef55b12843",
+        "material_id": "11832",
+        "material_title": "0817_eguchi_s.jpg",
+        "material_file": "15d536b237a98f9b41df49889590bb8c49be2b059fd29f3507b54134f5ef8dd811832.jpeg"
+      }
+    ],
+    "previous_id": "14209",
+    "next_id": "14207",
+    "saved_materials": [
+      "assets/14208_11832_0817_eguchi_s.jpg"
+    ]
+  }
+}

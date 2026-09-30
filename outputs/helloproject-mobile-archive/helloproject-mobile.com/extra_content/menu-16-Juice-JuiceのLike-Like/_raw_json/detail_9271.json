@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 710,
+    "content_id": "9271",
+    "content_title": "生牡蠣",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-06-23 11:00:00",
+    "created_at": "2018-06-07 17:29:06",
+    "updated_at": "2018-06-07 17:29:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8134",
+        "material_title": "0623_uemura_s.jpg",
+        "material_file": "4e37938c2bbf3005112d73a4e6a1168bd0f04a1d2479871cd110f1b800ff2a8a8134.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 702,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9271",
+    "content_title": "生牡蠣",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-06-23 11:00:00",
+    "created_at": "2018-06-07 17:29:06",
+    "updated_at": "2018-06-07 17:29:06",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n築地で食べた生牡蠣\r\nむろとたべたよ〜\r\n\r\n0623_uemura_s.jpg\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "3c0456e793605cce4e3f421fe50f1696",
+        "material_id": "8134",
+        "material_title": "0623_uemura_s.jpg",
+        "material_file": "ab061cecabd9c202d0a729c96fc0560b431cf8b786d21b0126b380f96635cb078134.jpeg"
+      }
+    ],
+    "previous_id": "9273",
+    "next_id": "9253",
+    "saved_materials": [
+      "assets/9271_8134_0623_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 63,
+    "content_id": "17831",
+    "content_title": "くまさんパック",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "115",
+    "release_date": "2022-03-26 10:00:00",
+    "created_at": "2022-03-25 23:17:02",
+    "updated_at": "2022-03-25 23:17:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "14912",
+        "material_title": "220325_yofu_s.jpg",
+        "material_file": "0b74d185785f7e8dfc38104d2bb144cff44ff7f614c4b5116b6b7e48ec282f0e14912.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "17831",
+    "content_title": "くまさんパック",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2022-03-26 10:00:00",
+    "created_at": "2022-03-25 23:17:02",
+    "updated_at": "2022-03-25 23:17:02",
+    "content_text": "220325_yofu_s.jpg\r\nよっふぅ〜<img src=\"/emoji/emoji-images/4771.gif\"/>\r\n\r\nクマのパックみたいなの！！\r\n冷たくてヒヤヒヤしてて気持ちよかったです！\r\n\r\nまた、可愛いパックとかしてみたいです＼(^o^)／(*ˊᵕˋ*)੭ ੈ",
+    "materials": [
+      {
+        "secretKey": "baa328792c38bdedab54d6f807f69a79",
+        "material_id": "14912",
+        "material_title": "220325_yofu_s.jpg",
+        "material_file": "b3693c00b0e929af24b36d22f4f093291f5dbfb9d698905384b435d7f7cd438014912.jpeg"
+      }
+    ],
+    "previous_id": "17843",
+    "next_id": "17827",
+    "saved_materials": [
+      "assets/17831_14912_220325_yofu_s.jpg"
+    ]
+  }
+}

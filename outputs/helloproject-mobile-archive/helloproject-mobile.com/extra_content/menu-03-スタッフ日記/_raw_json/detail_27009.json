@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 19,
+    "content_id": "27009",
+    "content_title": "工藤の家の軒下#60～江口紗耶～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2026-04-07 00:00:00",
+    "created_at": "2026-09-28 23:41:29",
+    "updated_at": "2026-09-28 23:41:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "27009",
+    "content_title": "工藤の家の軒下#60～江口紗耶～",
+    "content_sub_title": "",
+    "release_date": "2026-04-07 00:00:00",
+    "created_at": "2026-09-28 23:41:29",
+    "updated_at": "2026-09-28 23:41:29",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第60回はゲストは、江口紗耶！\r\n\r\n・ひなフェスソロ選曲理由\r\n・仮歌で衝撃的だった曲\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・ソロフェス裏での交流\r\n・TikTok\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n「ろこと一緒にイントロコ！」ではイントロクイズにチャレンジ♪\r\n\r\n後半では、\r\n・自己紹介\r\n・ひなフェス当日スケジュール\r\n・メンバーとの遭遇エピソード\r\n・優勝賞金の使い道\r\nについてトーク！",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "27010",
+    "next_id": "26963",
+    "saved_materials": []
+  }
+}

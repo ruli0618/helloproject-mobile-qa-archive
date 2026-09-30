@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 598,
+    "content_id": "6803",
+    "content_title": "工藤の家の天井裏#34　～歴史～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-06-06 21:00:00",
+    "created_at": "2017-06-06 20:57:51",
+    "updated_at": "2017-06-06 21:07:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5993",
+        "material_title": "170606_2_s.jpg",
+        "material_file": "1c42a7c9cc928ffcaa37d4b53c4c70cd886df3fb985374c6d337bc19804a4d675993.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "5994",
+        "material_title": "170606_3_s.jpg",
+        "material_file": "e583d774d71f7482374609e6f384ec3cdad344038902d403bb018f99779249dd5994.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "6803",
+    "content_title": "工藤の家の天井裏#34　～歴史～",
+    "content_sub_title": "",
+    "release_date": "2017-06-06 21:00:00",
+    "created_at": "2017-06-06 20:57:51",
+    "updated_at": "2017-06-06 21:07:36",
+    "content_text": "「やじまの部屋」第34回公開中！\n\n今回のゲストはこの方！\n\n170606_2_s.jpg\nアンジュルム、ハロー！プロジェクトのリーダー和田彩花さん！\n\nアンジュルム、℃-uteの○○期とは？\n℃-uteが過去に行なった無告知イベントに興味津々の和田さん、\nアンジュルムが無告知イベントを行う日も近い！？\n\nリーダー引き継ぎ後、変わったハロー！プロジェクトの雰囲気。\nステージ上でやらかしたハプニング、\nお互いのグループのデビュー時の印象等など、\n終始脱線だらけの笑い声溢れるトークはいかがでしたか？\n\n170606_3_s.jpg\n\n「ふたりごと」のコーナー！\n今回のテーマは、「ハロプロの過去と未来 理想とするハロプロリーダーの在り方」\n2人の思う理想のリーダーについて、語ってくれています。\n\n「ハロプロ大喜利」のコーナー！\nお題は、「こんなハロプロ研修生は嫌だ！」\n矢島さんの事を慕っているあのメンバーへ、矢島さんからのメッセージも…？\n\nそして何といっても、このトークが気になる方が多いのではないでしょうか。\n和田さんが初めて公にした衝撃の事実！\n矢島さんも、和田さんが言うまでは話さないと心に秘めていたというお話、\nハロー！プロジェクトの歴史の1ページを、ぜひ実際に聴いて感じて下さい！\n\n<a href=\"http://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオはこちらから</a>\n\n今回「やじまの部屋」は最終回！\n次回からは別のハロプロメンバーがMCを引き継いで、番組を新しくスタートします！\n\nそしてそして7月からは、矢島さんMCのラジオ新番組がスタート！\nその新番組タイトルを皆さんから募集します！\nメール件名に「矢島新ラジオタイトル」と記入し、<a href=\"mailto:halomoba@gmail.com?subject=矢島新ラジオタイトル\">halomoba@gmail.com</a>までお送り下さい！\n\nどちらの番組もお楽しみに！！",
+    "materials": [
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5993",
+        "material_title": "170606_2_s.jpg",
+        "material_file": "55137aa863fc62c36d08f574d1dce9e1081b8c3a5ff8daaf4087ca96f476f2c95993.jpeg"
+      },
+      {
+        "secretKey": "2aa9383cc786e087440dac2849b67838",
+        "material_id": "5994",
+        "material_title": "170606_3_s.jpg",
+        "material_file": "48b9f0b8f364a357be1aaa61a59d85e0c00025ab3a81ddcb6a6b8155bebde9755994.jpeg"
+      }
+    ],
+    "previous_id": "6806",
+    "next_id": "6744",
+    "saved_materials": [
+      "assets/6803_5993_170606_2_s.jpg",
+      "assets/6803_5994_170606_3_s.jpg"
+    ]
+  }
+}

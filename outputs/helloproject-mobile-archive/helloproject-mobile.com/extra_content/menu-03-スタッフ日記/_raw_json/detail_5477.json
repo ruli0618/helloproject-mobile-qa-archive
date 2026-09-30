@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 640,
+    "content_id": "5477",
+    "content_title": "明日は",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-10-09 23:00:00",
+    "created_at": "2016-10-09 23:02:54",
+    "updated_at": "2016-10-09 23:02:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4938",
+        "material_title": "161009_3.JPG",
+        "material_file": "b1bca844a7c752c8b5a6039bba2156edd151396c813dda307f36e8e8bf04c4a64938.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4939",
+        "material_title": "161009_1.JPG",
+        "material_file": "35573289b4b55111a540aaff2ae22e9662385f5fc62ff64c79fad46ad9683b874939.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4940",
+        "material_title": "161009_2.JPG",
+        "material_file": "bc87b3669620dbc46971e26fd637d13be939458f091c73ac53f4755778a7d75f4940.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4941",
+        "material_title": "161009_5.JPG",
+        "material_file": "d89020777163c949c7ea01c7c03027eaf8e19434de6b902d9b9e617f227a22504941.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4943",
+        "material_title": "161009_4.JPG",
+        "material_file": "ba8320cd310cf9b73a6aabf87ee486beefc6ca12e1377627c5bf09495d17ac054943.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 622,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5477",
+    "content_title": "明日は",
+    "content_sub_title": "",
+    "release_date": "2016-10-09 23:00:00",
+    "created_at": "2016-10-09 23:02:54",
+    "updated_at": "2016-10-09 23:02:54",
+    "content_text": "「遊ぶ。ふれあう。体験する。SATOYAMA & SATOUMI 秋キャンプ IN いすみ」開催！\r\n\r\nこんばんは。\r\nハロ！モバスタッフ番号2番です。\r\n\r\n今日は、明日のイベント準備のため、千葉県いすみ市の岬ふれあい会館へ行ってきました！\r\n\r\n161009_1.JPG\r\n\r\nはぎすずたこカレーも準備万端！\r\n\r\n161009_5.JPG\r\n\r\n会場限定のガチャもあります！\r\n\r\n161009_4.JPG\r\n\r\n生写真もメンバー全員分！\r\n\r\n161009_2.JPG\r\n\r\n宣伝部員たちだけチラ見せ！\r\n\r\n161009_3.JPG\r\n\r\n明日お時間ある方は、ぜひイベント会場にお越し下さい！\r\n\r\n<span style=\"word-break: break-word\"><a href=\"http://www.satoyamamovement.com/event.html\" target=\"_blank\"><font color=\"#0000ff\"><u>イベント詳細はこちら</u></font></a></span>",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4938",
+        "material_title": "161009_3.JPG",
+        "material_file": "a56dc4f6af31444bea862c0643b5816fc3e1ba44d724da3149f960c16992f4154938.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4939",
+        "material_title": "161009_1.JPG",
+        "material_file": "336b675f3e67dea71c14cee35b2ed0194e649b8b75cc1ab33c3ead41101511a74939.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4940",
+        "material_title": "161009_2.JPG",
+        "material_file": "8b3ac49df1b6bdf19d9732e1c4abd298d20f40db1a885757276bcb63e9b481624940.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4941",
+        "material_title": "161009_5.JPG",
+        "material_file": "e22a5af5731ee380766fe68499efefb8e0365a24a91e855567b1e8790f1451414941.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4943",
+        "material_title": "161009_4.JPG",
+        "material_file": "42f0b6856833de41ae44aba5763feaa625b5164d932a1efac87c95f85f9189374943.jpeg"
+      }
+    ],
+    "previous_id": "5519",
+    "next_id": "5461",
+    "saved_materials": [
+      "assets/5477_4938_161009_3.JPG",
+      "assets/5477_4939_161009_1.JPG",
+      "assets/5477_4940_161009_2.JPG",
+      "assets/5477_4941_161009_5.JPG",
+      "assets/5477_4943_161009_4.JPG"
+    ]
+  }
+}

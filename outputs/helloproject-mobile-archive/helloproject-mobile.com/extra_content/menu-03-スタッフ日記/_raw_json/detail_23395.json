@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 87,
+    "content_id": "23395",
+    "content_title": "宣伝会議#102",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-09-19 00:00:00",
+    "created_at": "2024-11-28 17:36:06",
+    "updated_at": "2024-11-28 17:36:06",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19232",
+        "material_title": "102.jpg",
+        "material_file": "fd4e657ea718e1998fd93d28e9eebb674cf4012cb295cf68b55206004b46551f19232.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19233",
+        "material_title": "102_01_s.jpg",
+        "material_file": "0d18babcb3d638e45181ef613f5fa02663e29894b76a542503abcecb91cb2cf719233.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19234",
+        "material_title": "102_02_s.jpg",
+        "material_file": "951f3d133fc66201ba214f93da7749eb632d5e7e36db27e83f2f28ba1cdb4f7e19234.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19236",
+        "material_title": "102_03_s.jpg",
+        "material_file": "e3c61f0c6f8f4ac0d241592e9a261f4a15657701c3890eb3285b437cc68cc79f19236.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23395",
+    "content_title": "宣伝会議#102",
+    "content_sub_title": "",
+    "release_date": "2024-09-19 00:00:00",
+    "created_at": "2024-11-28 17:36:06",
+    "updated_at": "2024-11-28 17:36:06",
+    "content_text": "宣伝会議第102回は、野中美希部長・川村文乃副部長の二人でお届け！\r\n\r\n102_01_s.jpg\r\n\r\n今回いつもと違う部屋で収録を行いましたので、ゆったりした雰囲気の中お届けしました。\r\n\r\n前編では、\r\n・応援席の楽しみ\r\n・夏ハロコンのシャッフル\r\n・おすすめ御当地グルメ\r\n・地元グルメ\r\nについてトーク！\r\n\r\n「きのこたけのこ大討論」のコーナーでは、\r\n「一生食べるなら、卵かけご飯？納豆ご飯？」についてディベート！\r\n\r\n後編では、\r\n・秋ツアー\r\n・お祝いで食べるもの\r\n・バースデーイベント\r\n・100の質問おまけ話\r\n・上國料川村の花火大会\r\n・夏らしいこと\r\n・人生ゲーム、人狼\r\n・推し活講座動画の裏話\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「川村文乃」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n102.jpg\r\n\r\n102_02_s.jpg\r\n\r\n102_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19232",
+        "material_title": "102.jpg",
+        "material_file": "407d59851b489eef6ba36cc582a7af90a0c2e3152e738e42ceebd14155a8689819232.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19233",
+        "material_title": "102_01_s.jpg",
+        "material_file": "244de9f67ce932894341b2a0cebabc112ee82fa815c7ba38220059cd2b87931819233.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19234",
+        "material_title": "102_02_s.jpg",
+        "material_file": "87ce9fd8766720626d01ae726b7851347ef23915fd1cd151092cf3fa80ab5c2d19234.jpeg"
+      },
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "19236",
+        "material_title": "102_03_s.jpg",
+        "material_file": "5e62fcff6991590a16edcb8f1abfaf3a17e75868f38ae7e4eb71a36ab210f7f919236.jpeg"
+      }
+    ],
+    "previous_id": "22927",
+    "next_id": "22944",
+    "saved_materials": [
+      "assets/23395_19232_102.jpg",
+      "assets/23395_19233_102_01_s.jpg",
+      "assets/23395_19234_102_02_s.jpg",
+      "assets/23395_19236_102_03_s.jpg"
+    ]
+  }
+}

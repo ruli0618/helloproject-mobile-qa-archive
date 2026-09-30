@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 283,
+    "content_id": "19859",
+    "content_title": "たこ焼きポーズ",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2023-03-16 13:40:00",
+    "created_at": "2023-03-16 13:42:19",
+    "updated_at": "2023-03-16 13:42:19",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16458",
+        "material_title": "0316_isiyama_s.jpg",
+        "material_file": "523aea47674101ef502d31e3520a7a609a1a64e4ae4a477077c86d407346bc7716458.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 282,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "19859",
+    "content_title": "たこ焼きポーズ",
+    "content_sub_title": "石山咲良",
+    "release_date": "2023-03-16 13:40:00",
+    "created_at": "2023-03-16 13:42:19",
+    "updated_at": "2023-03-16 13:42:19",
+    "content_text": "0316_isiyama_s.jpg\r\nみんなもたこ焼きポーズして写真撮ってみてね！",
+    "materials": [
+      {
+        "secretKey": "82aaade428723624019552e53f03c74f",
+        "material_id": "16458",
+        "material_title": "0316_isiyama_s.jpg",
+        "material_file": "dd1465615ec86b69347b15afdfa2329e4a75cb39780031b412cf0c424434891116458.jpeg"
+      }
+    ],
+    "previous_id": "19860",
+    "next_id": "19779",
+    "saved_materials": [
+      "assets/19859_16458_0316_isiyama_s.jpg"
+    ]
+  }
+}

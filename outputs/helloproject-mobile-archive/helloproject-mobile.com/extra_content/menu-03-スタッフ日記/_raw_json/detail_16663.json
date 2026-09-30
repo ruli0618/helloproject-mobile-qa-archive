@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 273,
+    "content_id": "16663",
+    "content_title": "隣のやじまん家の塀の裏#89 段原瑠々",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-09-13 00:00:00",
+    "created_at": "2021-09-13 15:45:40",
+    "updated_at": "2021-09-13 15:48:11",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13906",
+        "material_title": "20210913_1.jpg",
+        "material_file": "43d91ee5b732a8c526872c7789bf13d77c7cf9aa854a863e4596f1de8df4aa8713906.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "13907",
+        "material_title": "20210913_2.jpg",
+        "material_file": "cd7feb793d2ea32706c7911fafc1ad1b511b2c9c34fe63c0c401c0b8fb6756ba13907.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "16663",
+    "content_title": "隣のやじまん家の塀の裏#89 段原瑠々",
+    "content_sub_title": "",
+    "release_date": "2021-09-13 00:00:00",
+    "created_at": "2021-09-13 15:45:40",
+    "updated_at": "2021-09-13 15:48:11",
+    "content_text": "「隣のやじまん家」第89回前後編配信中！\n\nゲストはJuice=Juice段原瑠々さんです！\n\n20210913_2.jpg\n\n矢島とゲストの「その頃。と近頃。」コーナーでは、研修生のときに帯同したコンサート、ミュージックビデオ、ファンのみなさんのその頃。と近頃。をトークしました。\n\n\n矢島パイセンの○○チェックでは\n段原さんがあざといことを恥ずかしがってなかなかやってくれない！とのタレコミ！\nなんと克服するために、矢島パイセンプロデュースで妄想動画も撮影しました！\nこちらもぜひご覧くださいね。\n\n20210913_1.jpg\n\n\n今回の「VS矢島」はこちら！\n\nハロプロしりとり！\n\nハロプロに関する言葉でしりとりをしました。\n意外と難しい！とのことでお二人とも苦戦していましたよ！\n\nファンのみなさん同士でもぜひ対決してみてください！\n\nその他、Juice=Juice新メンバー、筋肉の維持方法や今年の夏についても！\n\n\n今回のハロー！ラジオ連動企画は、前回の「隣のやじまん家」から江口さんと「ふくむらの部屋」から譜久村さんの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n矢島とゲストの「その頃。と近頃。」コーナー、「矢島パイセンの○○チェック」「今月のハッピーバースデー＆記念日♪」「楽曲リクエスト」「普通のお便り」も、メールお待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはつばきファクトリー秋山眞緒さんが登場！\n緊急事態宣言中の収録のため前後編の配信となります。\n前編9/14(火)～、後編8/31(火)～配信スタートです！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13906",
+        "material_title": "20210913_1.jpg",
+        "material_file": "ac33f827ae3040d4386d9d3739b737326da75e999e9f51f7a93149ef9586a46713906.jpeg"
+      },
+      {
+        "secretKey": "33531da0ffd9f0c6643f6828fe4c8dea",
+        "material_id": "13907",
+        "material_title": "20210913_2.jpg",
+        "material_file": "9b23b8dafedf52032553662e1b1e05e28e4d7d9e791e1d025e1ba4dd38cb474213907.jpeg"
+      }
+    ],
+    "previous_id": "16761",
+    "next_id": "16553",
+    "saved_materials": [
+      "assets/16663_13906_20210913_1.jpg",
+      "assets/16663_13907_20210913_2.jpg"
+    ]
+  }
+}

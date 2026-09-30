@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 681,
+    "content_id": "9936",
+    "content_title": "仲間",
+    "content_sub_title": "植村あかり",
+    "category_id": "38",
+    "release_date": "2018-10-09 11:00:00",
+    "created_at": "2018-09-27 20:26:23",
+    "updated_at": "2018-09-27 20:26:23",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "8657",
+        "material_title": "1009_uemura_s.jpg",
+        "material_file": "b55098f4a78cd044072cc819890a933e437f05a747ce8c52d74b5a4736eac5ca8657.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 682,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "9936",
+    "content_title": "仲間",
+    "content_sub_title": "植村あかり",
+    "release_date": "2018-10-09 11:00:00",
+    "created_at": "2018-09-27 20:26:23",
+    "updated_at": "2018-09-27 20:26:23",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n\r\n階段でばったりあった時\r\n上々軍団さんの仲間Tシャツを着てご飯取りに行ったうえむろでした\r\n\r\n1009_uemura_s.jpg\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "5d86bab7fa609614d770b84361f05452",
+        "material_id": "8657",
+        "material_title": "1009_uemura_s.jpg",
+        "material_file": "8fabbec1acd635ad0d431be523601de65e12e017f86e23c99502eb71d93010c58657.jpeg"
+      }
+    ],
+    "previous_id": "9941",
+    "next_id": "9935",
+    "saved_materials": [
+      "assets/9936_8657_1009_uemura_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 249,
+    "content_id": "20465",
+    "content_title": "私とぶどう飴",
+    "content_sub_title": "島倉りか",
+    "category_id": "123",
+    "release_date": "2023-07-11 12:05:00",
+    "created_at": "2023-07-11 12:05:43",
+    "updated_at": "2023-07-13 12:46:10",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "16884",
+        "material_title": "0710_shimakura_s.jpg",
+        "material_file": "5c26e55ff64c4b73c9bac53cb243fed6234773cbacefd0734a2d2f677190430016884.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20465",
+    "content_title": "私とぶどう飴",
+    "content_sub_title": "島倉りか",
+    "release_date": "2023-07-11 12:05:00",
+    "created_at": "2023-07-11 12:05:43",
+    "updated_at": "2023-07-13 12:46:10",
+    "content_text": "0710_shimakura_s.jpg\n美味しいから見つけたら買っちゃう！\n\n【27周目お題：私と○○】",
+    "materials": [
+      {
+        "secretKey": "45e3a84772858c8d96bd3dc6e281ce23",
+        "material_id": "16884",
+        "material_title": "0710_shimakura_s.jpg",
+        "material_file": "1d18673d03cc59be16de23a6529e134eed3f7b0ee2e45a2cb2b2cbf4e661813f16884.jpeg"
+      }
+    ],
+    "previous_id": "20481",
+    "next_id": "20175",
+    "saved_materials": [
+      "assets/20465_16884_0710_shimakura_s.jpg"
+    ]
+  }
+}

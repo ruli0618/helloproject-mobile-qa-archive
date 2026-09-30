@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 88,
+    "content_id": "24113",
+    "content_title": "自然！！",
+    "content_sub_title": "川嶋美楓",
+    "category_id": "38",
+    "release_date": "2025-04-10 10:00:00",
+    "created_at": "2025-04-09 21:28:17",
+    "updated_at": "2025-04-09 21:28:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "19754",
+        "material_title": "0410_kawashima_s.jpg",
+        "material_file": "c1995e92194daf4d6f3e90773a9440e823008663c8cab8cf60225ae87389ee4919754.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "24113",
+    "content_title": "自然！！",
+    "content_sub_title": "川嶋美楓",
+    "release_date": "2025-04-10 10:00:00",
+    "created_at": "2025-04-09 21:28:17",
+    "updated_at": "2025-04-09 21:28:17",
+    "content_text": "こんにちは〜〜！！\r\n最近昔自分が行った場所の写真を見返すのにハマってます！\r\n風景だったりその時の事だったり思い出してすごく楽しいです！\r\n0410_kawashima_s.jpg\r\nこれはアンジュルムの後藤花ちゃんと江ノ島に行った時の写真です！\r\nどうですか？この写真すごく癒されて大好きです！\r\n本当に海って素敵ですよね！\r\n夏になったら晴れの日に海見に行きたいな〜！\r\n\r\nでは！！\r\n\r\n川嶋美楓でした！",
+    "materials": [
+      {
+        "secretKey": "d2d7aa35f3c7d796916cc2a5580795fa",
+        "material_id": "19754",
+        "material_title": "0410_kawashima_s.jpg",
+        "material_file": "a2784e0c6b899ee86f2b01c4215f3fa33fd8055838a84695aa00d51b614f87e319754.jpeg"
+      }
+    ],
+    "previous_id": "24160",
+    "next_id": "24086",
+    "saved_materials": [
+      "assets/24113_19754_0410_kawashima_s.jpg"
+    ]
+  }
+}

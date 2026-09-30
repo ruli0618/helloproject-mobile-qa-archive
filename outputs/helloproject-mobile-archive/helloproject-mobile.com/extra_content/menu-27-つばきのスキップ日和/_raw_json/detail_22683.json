@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 95,
+    "content_id": "22683",
+    "content_title": "髪型",
+    "content_sub_title": "豫風瑠乃",
+    "category_id": "155",
+    "release_date": "2024-08-02 19:23:00",
+    "created_at": "2024-08-02 19:31:20",
+    "updated_at": "2024-08-02 19:31:20",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "18563",
+        "material_title": "0802_yofu_s.jpg",
+        "material_file": "1ffb3d29246e49e51b8276907e3dfdbf53f8bcc2ca78e85f936dd0afa4926c6a18563.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "22683",
+    "content_title": "髪型",
+    "content_sub_title": "豫風瑠乃",
+    "release_date": "2024-08-02 19:23:00",
+    "created_at": "2024-08-02 19:31:20",
+    "updated_at": "2024-08-02 19:31:20",
+    "content_text": "0802_yofu_s.jpg\r\nずっとやってみたかった髪型デス\r\n\r\nわーい\r\n\r\n嬉しいです\r\nメイクさんに感謝です\r\n\r\nお料理は初心者です\r\n\r\n好きな乗り物は観覧車です\r\n\r\nyo",
+    "materials": [
+      {
+        "secretKey": "eccf497d90f1acd16907a40966d180c2",
+        "material_id": "18563",
+        "material_title": "0802_yofu_s.jpg",
+        "material_file": "b3fa2794d1f09ceda9104a166ca01125ee38599f8040bb7dfd019f2ea6d96e1b18563.jpeg"
+      }
+    ],
+    "previous_id": "22684",
+    "next_id": "22613",
+    "saved_materials": [
+      "assets/22683_18563_0802_yofu_s.jpg"
+    ]
+  }
+}

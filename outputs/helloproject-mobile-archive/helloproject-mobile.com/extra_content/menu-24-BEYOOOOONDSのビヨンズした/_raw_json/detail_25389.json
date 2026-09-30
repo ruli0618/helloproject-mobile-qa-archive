@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 65,
+    "content_id": "25389",
+    "content_title": "他撮り",
+    "content_sub_title": "江口紗耶",
+    "category_id": "123",
+    "release_date": "2025-12-03 10:00:00",
+    "created_at": "2025-12-01 10:20:34",
+    "updated_at": "2025-12-01 10:20:34",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20738",
+        "material_title": "1203_eguchi_s.jpg",
+        "material_file": "9296c24c642d88d2d360f7dbc2500ba90e3d41ebfadb1bbe233444493b8d7e4b20738.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "25389",
+    "content_title": "他撮り",
+    "content_sub_title": "江口紗耶",
+    "release_date": "2025-12-03 10:00:00",
+    "created_at": "2025-12-01 10:20:34",
+    "updated_at": "2025-12-01 10:20:34",
+    "content_text": "1203_eguchi_s.jpg\r\n誰かに撮ってもらった時は必ず目線外しのカットがあります！\r\n\r\n【48周目お題：目線外し】",
+    "materials": [
+      {
+        "secretKey": "64f08a4ecbe46eeb75f6e68add04b33c",
+        "material_id": "20738",
+        "material_title": "1203_eguchi_s.jpg",
+        "material_file": "1e0d6c6f705fde36fbefc418d3a8c8acde8eec83bf8120a7c446a87345ea1be820738.jpeg"
+      }
+    ],
+    "previous_id": "25391",
+    "next_id": "25388",
+    "saved_materials": [
+      "assets/25389_20738_1203_eguchi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 107,
+    "content_id": "22932",
+    "content_title": "工藤の家の軒下#7～岡村美波～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-03-12 00:00:00",
+    "created_at": "2024-09-21 05:38:24",
+    "updated_at": "2024-09-21 06:41:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18781",
+        "material_title": "240312_s.jpg",
+        "material_file": "703963760ce0a36a120ef8cf0b597c7afcf4dcf04a702ef97d28a5380fa4316018781.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22932",
+    "content_title": "工藤の家の軒下#7～岡村美波～",
+    "content_sub_title": "",
+    "release_date": "2024-03-12 00:00:00",
+    "created_at": "2024-09-21 05:38:24",
+    "updated_at": "2024-09-21 06:41:09",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第7回は、BEYOOOOONDSの岡村美波さんがゲストに来てくれました！\r\n\r\n240312_s.jpg\r\n\r\n・ディズニー\r\n・岡村美波とは？\r\n・ろこポーズ\r\n・楽屋で流れる曲\r\n・武道館のアドバイス\r\n・好きな記念日\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・DJみいみ\r\n・もしもアイドルじゃなかったら\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\n早起き、なるべく歩くことについて紹介しました！\r\n\r\n後半では、\r\n・最年少\r\n・魔法が使えるなら\r\n・フェス\r\n・DJみいみ\r\n・姉の影響\r\n・提出物\r\n・みいももワールド\r\n・ヘッドホン事情\r\nについてトーク！\r\n\r\n次回は、Juice=Juice井上玲音さんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "b96a598feb80799ccd6f7105fc16c95b",
+        "material_id": "18781",
+        "material_title": "240312_s.jpg",
+        "material_file": "4f623e4987827d1f93a53e09af8cbbf68017fe656116b60f1e0a2f078d17266a18781.jpeg"
+      }
+    ],
+    "previous_id": "23380",
+    "next_id": "22931",
+    "saved_materials": [
+      "assets/22932_18781_240312_s.jpg"
+    ]
+  }
+}

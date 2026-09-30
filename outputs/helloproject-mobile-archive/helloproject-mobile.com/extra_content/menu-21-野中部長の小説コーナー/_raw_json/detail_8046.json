@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 17,
+    "content_id": "8046",
+    "content_title": "メッセージ",
+    "content_sub_title": "",
+    "category_id": "80",
+    "release_date": "2017-12-03 00:00:00",
+    "created_at": "2017-12-03 00:14:15",
+    "updated_at": "2017-12-03 00:14:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 2,
+    "category_id": "80",
+    "category_title": "野中部長の小説コーナー",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "21",
+    "is_new": 0,
+    "content_id": "8046",
+    "content_title": "メッセージ",
+    "content_sub_title": "",
+    "release_date": "2017-12-03 00:00:00",
+    "created_at": "2017-12-03 00:14:15",
+    "updated_at": "2017-12-03 00:14:15",
+    "content_text": "「おめでとう！あなたをFANTASY WORLDへご招待します♡」\r\n\r\nこんなメッセージが出てきたものの、\r\nとりあえず意味不明なので放って置いた。\r\n\r\nでもやっぱり…少し気になったので\r\nもう一度そのページを開いてみる。\r\n\r\nページの下の方にスクロールすると\r\n\r\n「FANTASY WORLDへ行ってみる」\r\nというボタンがあった。\r\n\r\nちょっと怖いけどそのボタンを押してみた。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "8215",
+    "next_id": "8002",
+    "saved_materials": []
+  }
+}

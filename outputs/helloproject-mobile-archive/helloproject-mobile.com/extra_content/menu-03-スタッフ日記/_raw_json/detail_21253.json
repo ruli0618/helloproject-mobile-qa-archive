@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 124,
+    "content_id": "21253",
+    "content_title": "工藤の家の屋根裏部屋#144～有澤一華～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-10-31 00:00:00",
+    "created_at": "2023-11-14 21:16:09",
+    "updated_at": "2023-11-17 00:38:49",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17470",
+        "material_title": "231031_s.jpg",
+        "material_file": "f27cb8b43f8c187e639f88f8aa3633f50178138183751d92dbe69b064b2ec6e917470.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "21253",
+    "content_title": "工藤の家の屋根裏部屋#144～有澤一華～",
+    "content_sub_title": "",
+    "release_date": "2023-10-31 00:00:00",
+    "created_at": "2023-11-14 21:16:09",
+    "updated_at": "2023-11-17 00:38:49",
+    "content_text": "ふくむらの部屋 第144回は、Juice=Juiceの有澤一華さんが登場！\n出演予定でした川嶋美楓さんの代役として出演いただきました。\n\n・初めてメンバーを見た時の印象\n・どの曲の楽器を演奏したい\nのお話からスタート！\n\n「ふくむらの部屋100の質問」のコーナーでは、\n5問ずつ10問の質問に答えました！\nついに100問達成！\n\n「みずき先生のハロプロ講座」のコーナーでは、\n・環境が異なる場所のライブ\n・曲を作るということ\nを語りました！\n\n後半では、\n・写真集の裏話\n・ハロー！プロジェクト加入後会えて嬉しかった先輩\nについてトーク！\n\n231031_s.jpg\n\nぜひお聴きください♫",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "17470",
+        "material_title": "231031_s.jpg",
+        "material_file": "c0ed641ff0d8ff4f1bcf267da317726ca87cfd2cf3f69edab8b180039899b18217470.jpeg"
+      }
+    ],
+    "previous_id": "21162",
+    "next_id": "23375",
+    "saved_materials": [
+      "assets/21253_17470_231031_s.jpg"
+    ]
+  }
+}

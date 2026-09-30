@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 797,
+    "content_id": "7033",
+    "content_title": "念願の／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-08-01 10:00:00",
+    "created_at": "2017-07-19 16:00:24",
+    "updated_at": "2017-07-19 16:00:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6186",
+        "material_title": "6316122962059_s.jpg",
+        "material_file": "efe383e3baf763cfe29853f7bad29cabb07aa42a73e13f67e46698e69529cd336186.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7033",
+    "content_title": "念願の／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-08-01 10:00:00",
+    "created_at": "2017-07-19 16:00:24",
+    "updated_at": "2017-07-19 16:00:24",
+    "content_text": "Juice＝Juiceの植村あかりです\r\n\r\n\r\n念願の抹茶を食べにいってきました❤\r\n\r\n6316122962059_s.jpg\r\n\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "d71c290c76e0a6b1d90dcdfc367c7195",
+        "material_id": "6186",
+        "material_title": "6316122962059_s.jpg",
+        "material_file": "00acc8651ed8d6dd3730e99e893b54fdb6105e3ad12a9b5ae4343b49712a7f5f6186.jpeg"
+      }
+    ],
+    "previous_id": "7217",
+    "next_id": "7032",
+    "saved_materials": [
+      "assets/7033_6186_6316122962059_s.jpg"
+    ]
+  }
+}

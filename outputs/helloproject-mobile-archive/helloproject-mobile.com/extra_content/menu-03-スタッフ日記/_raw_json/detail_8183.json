@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 547,
+    "content_id": "8183",
+    "content_title": "卒業！",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-12-11 13:20:00",
+    "created_at": "2017-12-11 13:28:55",
+    "updated_at": "2017-12-11 13:40:02",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7214",
+        "material_title": "171211_03_s.jpg",
+        "material_file": "4f0d7d56c6dbc6e432647ad7a18e571586969be78714ba0dea2bd855f392a3937214.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7215",
+        "material_title": "171211_01_s.jpg",
+        "material_file": "330e50cd0ac0ad269df8191fa47fbec7aba5b958f6ef51bf3d2568f011b79cc97215.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7216",
+        "material_title": "171211_02_s.jpg",
+        "material_file": "5d8fdf751ea7aba23279f74322cf2ea8b2e0f525d7490d0e22167741d3f8d1217216.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 542,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "8183",
+    "content_title": "卒業！",
+    "content_sub_title": "",
+    "release_date": "2017-12-11 13:20:00",
+    "created_at": "2017-12-11 13:28:55",
+    "updated_at": "2017-12-11 13:40:02",
+    "content_text": "こんにちは！\nスタッフ番号2番です。\n\n今日はハロ！モバ宣伝部顧問である工藤遥さんのモーニング娘。'17卒業公演当日です。\n\n会場は混雑が予想されますので、これから向かわれる方はお気をつけてくださいね。\n\n日本武道館 (東京)\n開場17:00/開演18:00\n※つばきファクトリーのオープニングアクトが決定。\n\n<a href=\"http://www.helloproject.com/news/7610/\" target=\"_blank\">★グッズ一覧＆販売場所早見表はこちら！</a>\n\n<a href=\"https://twitter.com/dcfactory_goods\" target=\"_blank\">★会場の販売状況はDC FACTORY_GOODSのTwitterアカウントがお知らせ！</a>\n\n<a href=\"https://www.elineupmall.com/ufgoodsland\" target=\"_blank\">★e-LineUP!Mallのグッズ販売は12/11(月)17:00より開始！</a>\n\n<a href=\"http://www.helloproject.com/morningmusume/news/7888/\" target=\"_blank\">★15thアルバム会場購入で、工藤遥ソロクリアファイルorメンバー直筆ソロサイン入りポスタープレゼント！</a>\n\nそして本日、当日券の販売が決定しているようです。\n開場1時間前(16:00～)当日券売り場にて販売予定。(席種・料金未定)\n\n<a href=\"https://twitter.com/ODYSTAFF\" target=\"_blank\">★当日券情報はオデッセーのTwitterアカウントがお知らせ！</a>\n\n会場に行かれない方も、まだまだ公演を見るチャンスはあります！\n\n<a href=\"http://www.helloproject.com/morningmusume/news/7813/\" target=\"_blank\">★ライブビューイング当日券販売中の劇場有り！</a>\n\n<a href=\"https://www.bs-sptv.com/program/3597/\" target=\"_blank\">★BSスカパー！にて生中継決定！ </a>\n\n最後に、工藤さんの蔵出し写真をアップします。ぜひご覧ください。\n\n171211_01_s.jpg\n\n171211_02_s.jpg\n\n171211_03_s.jpg\n\nP.S.工藤遥スペシャル特設ページは明日の朝までの公開となります。\nお見逃しの無いよう、お気をつけください。",
+    "materials": [
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7214",
+        "material_title": "171211_03_s.jpg",
+        "material_file": "c75a09c3c61dbdce0c50f0c9f3d55dafc889c182381f59ef2907cddb758122417214.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7215",
+        "material_title": "171211_01_s.jpg",
+        "material_file": "0180d446b9c266826f58853ab8ffb1e79219f355a3a1f945967f0070c5d4d3e97215.jpeg"
+      },
+      {
+        "secretKey": "f7b3168963c043534a0d2213e8d8f225",
+        "material_id": "7216",
+        "material_title": "171211_02_s.jpg",
+        "material_file": "22137ddcebdc361a65683c02a010a07aad9aeec85a4a83b9ec5de2bdf0d6bcb57216.jpeg"
+      }
+    ],
+    "previous_id": "8214",
+    "next_id": "8085",
+    "saved_materials": [
+      "assets/8183_7214_171211_03_s.jpg",
+      "assets/8183_7215_171211_01_s.jpg",
+      "assets/8183_7216_171211_02_s.jpg"
+    ]
+  }
+}

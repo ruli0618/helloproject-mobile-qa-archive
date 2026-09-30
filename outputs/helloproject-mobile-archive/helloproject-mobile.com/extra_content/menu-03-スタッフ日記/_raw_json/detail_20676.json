@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 181,
+    "content_id": "20676",
+    "content_title": "みよちゃん家の縁側の猫#16 横山玲奈",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-12-06 00:00:00",
+    "created_at": "2023-08-15 15:55:41",
+    "updated_at": "2023-08-15 15:55:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17026",
+        "material_title": "230815_01.jpg",
+        "material_file": "1231111680096478424713cb6039765afd10cfd49bf3452d6c3644148ae244f817026.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "17027",
+        "material_title": "230815_02.jpg",
+        "material_file": "3ab9b42e3578661ceed9310144a1b45146d852ec969786a1da72e50dceefcf1b17027.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "20676",
+    "content_title": "みよちゃん家の縁側の猫#16 横山玲奈",
+    "content_sub_title": "",
+    "release_date": "2022-12-06 00:00:00",
+    "created_at": "2023-08-15 15:55:41",
+    "updated_at": "2023-08-15 15:55:41",
+    "content_text": "「みよちゃん家の縁側」#16配信中です！\r\n\r\n第16回ゲストは、モーニング娘。'22の横山玲奈さん！\r\n\r\n230815_01.jpg\r\n\r\n逆再生チャレンジコーナーで挑戦したお題はこちら！\r\n\r\n①名アシスタント\r\n②いちごやん\r\n③きのこたけのこ\r\n\r\n\r\n「演技してみよ～！」のコーナーでは、\r\n「横山玲奈からの相談」、「一生のお願い」の2本をお届けしました。\r\nどちらもお笑い要素のあるポップで明るい面白い台本でした<img src=\"/emoji/emoji-images/f3a7.gif\"/>\r\n\r\n\r\nその他、加賀楓さんとの思い出、ラジオ収録で意識していること\r\n大きい会場での外部イベントで気を付けていることなどたくさんのお便りを紹介しています！\r\n\r\n230815_02.jpg\r\n\r\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\r\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\r\n\r\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\r\n例①：ドメイン違い\r\n例②：「@～.co.jp」「@～.ne.jp」の違い\r\n\r\n送信前にもう一度よくご確認ください。\r\nいつもたくさんのお便りありがとうございます。\r\n\r\n※番組のお知らせは随時\r\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\r\n\r\n第17回ゲストは、アンジュルム平山遊季さんです♪\r\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17026",
+        "material_title": "230815_01.jpg",
+        "material_file": "127f8a7474daa82afae3e48dc487329d15ab1240babf72e92d2ccffc622865ab17026.jpeg"
+      },
+      {
+        "secretKey": "049cde8c8e5004cf68d5f129171515d5",
+        "material_id": "17027",
+        "material_title": "230815_02.jpg",
+        "material_file": "c86858f2fc47375f914eea16abbfc78cd22316e09d01ca0c6797a22d5b4d4a3a17027.jpeg"
+      }
+    ],
+    "previous_id": "23365",
+    "next_id": "21229",
+    "saved_materials": [
+      "assets/20676_17026_230815_01.jpg",
+      "assets/20676_17027_230815_02.jpg"
+    ]
+  }
+}

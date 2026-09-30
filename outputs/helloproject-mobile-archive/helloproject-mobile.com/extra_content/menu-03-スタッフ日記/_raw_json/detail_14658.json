@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 321,
+    "content_id": "14658",
+    "content_title": "隣のやじまん家の塀の裏#76 加賀楓",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2020-10-06 00:00:00",
+    "created_at": "2020-10-06 18:56:28",
+    "updated_at": "2020-10-06 19:02:29",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12173",
+        "material_title": "20201006_2.jpg",
+        "material_file": "2c179703888bd852db4bb0f64d28708ba1aa8ec9d3af1cc01684dab6f2e7020312173.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "12174",
+        "material_title": "20201006_1.jpg",
+        "material_file": "c1abd99389f89cc64e0700a5270dcdd2ae6a3c23f3fc96a005c1d43fcb4630d612174.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 322,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "14658",
+    "content_title": "隣のやじまん家の塀の裏#76 加賀楓",
+    "content_sub_title": "",
+    "release_date": "2020-10-06 00:00:00",
+    "created_at": "2020-10-06 18:56:28",
+    "updated_at": "2020-10-06 19:02:29",
+    "content_text": "「隣のやじまん家」第76回 前後編配信中です！\n\n今回のゲストはモーニング娘。'20加賀楓さん！！\n\n20201006_2.jpg\n\nおふたりのついつい出てしまう職業病や写真の撮り方について、ソロフェスやハロコンの思い出もお話しています♡\n\n\n\n「矢島パイセンの○○チェック」では、\n加賀さんはなんとダンスの振り入れが1時間かからない？！とのタレコミ！\n最近気になっているという韓国アイドルグループRocket Punchさんの振りでお写真撮っていただきました！\n\n20201006_1.jpg\n\n今回の「VS矢島」の対決内容はこちら！\n\n①あたまとりプラスゲーム！！\n\n文字の頭を取ってしりとりのようにするゲームです！\n意外と難しいこのゲーム！どちらが勝利したかは、後編を聴いてくださいね♪\n\n\n\n今回のハロー！ラジオ連動企画は、「宣伝会議」から小片さん、川村さんからの質問に答えました！\nおふたりの質問はどの番組で読まれるのか、\n是非「ふくむらの部屋」「宣伝会議」もチェックしてくださいね<img src=\"/emoji/emoji-images/f36e.gif\"/>\n\n次回のテーマトークのお題は\n「今まで経験したアルバイトの思い出」\n「VS矢島」で対決するお題も募集！\n\n「矢島パイセンの○○チェック」「今月のハッピーバースデー♪」「楽曲リクエスト」「普通のお便り」も、お待ちしています！\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n※番組のお知らせは随時\nDC FACTORYの<a href=\"https://twitter.com/dcfactory_inc\" target=\"_blank\">Twitter</a>、<a href=\"https://www.facebook.com/dcfactory\" target=\"_blank\">Facebook</a>にてお知らせします。\n\n次回ゲストはJuice=Juice 段原瑠々さんが登場！\n10/13(火)～前編・10/27(火)～後編の配信スタート！お楽しみに！",
+    "materials": [
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12173",
+        "material_title": "20201006_2.jpg",
+        "material_file": "ed0aa0c66e1a1424e913a5928020a01ccb7a5bc1889fe0592c3b7bf2af4de3fa12173.jpeg"
+      },
+      {
+        "secretKey": "0b39129228f68d31d4016589edf1c740",
+        "material_id": "12174",
+        "material_title": "20201006_1.jpg",
+        "material_file": "44adcf3981dd78040828b86976908416f09c6610727b3ee6dee9aa63c05aafdf12174.jpeg"
+      }
+    ],
+    "previous_id": "14717",
+    "next_id": "14460",
+    "saved_materials": [
+      "assets/14658_12173_20201006_2.jpg",
+      "assets/14658_12174_20201006_1.jpg"
+    ]
+  }
+}

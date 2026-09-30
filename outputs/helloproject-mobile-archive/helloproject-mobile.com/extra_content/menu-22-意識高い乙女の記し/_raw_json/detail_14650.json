@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 158,
+    "content_id": "14650",
+    "content_title": "羽織り",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2020-10-02 22:29:00",
+    "created_at": "2020-10-02 22:30:36",
+    "updated_at": "2020-10-02 22:30:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "20668a8b6ddb8cc424951e85ba87b88d",
+        "material_id": "12166",
+        "material_title": "1002_yamagishi_s.jpg",
+        "material_file": "94f8292966e709dcb1b587e0f6efb1e714d6931c024f6ebc668f8b09571efcef12166.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "14650",
+    "content_title": "羽織り",
+    "content_sub_title": "山岸理子",
+    "release_date": "2020-10-02 22:29:00",
+    "created_at": "2020-10-02 22:30:36",
+    "updated_at": "2020-10-02 22:30:36",
+    "content_text": "1002_yamagishi_s.jpg\r\n衣装着る時は、\r\n汚れないように上着を羽織るよ。\r\n\r\n特にご飯食べる時とかね、\r\nもしこぼして衣装についたら大変だからね〜！\r\n\r\n日頃から気をつけてるよ！\r\n\r\n以上山岸理子でした！",
+    "materials": [
+      {
+        "secretKey": "0114e62f0eefa57dd3f39ca575d5aa53",
+        "material_id": "12166",
+        "material_title": "1002_yamagishi_s.jpg",
+        "material_file": "fdc9262312cc061f90a3928958dc48115346b368e2978217bb9a3a2cc5cd1a4a12166.jpeg"
+      }
+    ],
+    "previous_id": "14674",
+    "next_id": "14593",
+    "saved_materials": [
+      "assets/14650_12166_1002_yamagishi_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 21,
+    "content_id": "26690",
+    "content_title": "ちゅいん！",
+    "content_sub_title": "福田真琳",
+    "category_id": "155",
+    "release_date": "2026-07-31 10:00:00",
+    "created_at": "2026-07-26 01:33:08",
+    "updated_at": "2026-07-26 01:33:08",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e83faecc4017d9f982bf3eb700cfd8ad",
+        "material_id": "21806",
+        "material_title": "0731_fukuda_s.jpg",
+        "material_file": "c43844a3e06316ec8a3fce88b3584afb878a315a0a8b8dae7d9bdc96565ce5b521806.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "26690",
+    "content_title": "ちゅいん！",
+    "content_sub_title": "福田真琳",
+    "release_date": "2026-07-31 10:00:00",
+    "created_at": "2026-07-26 01:33:08",
+    "updated_at": "2026-07-26 01:33:08",
+    "content_text": "0731_fukuda_s.jpg\r\nこの間久しぶりにツインテールをしました<img src=\"/emoji/emoji-images/f399.gif\"/>！\r\n\r\nいつもあんまりやらないので、なんだかテンション上がりましたぁ！\r\n　　\r\n\r\nまたいつかやりまーす！たぶん！",
+    "materials": [
+      {
+        "secretKey": "7af3f4bbf6f71648a67b3258f1ee7eba",
+        "material_id": "21806",
+        "material_title": "0731_fukuda_s.jpg",
+        "material_file": "f4e5cf7b2f17c7012f7cbe6b363c1c748042fbc4c6e74f2e51fbf606f835763721806.jpeg"
+      }
+    ],
+    "previous_id": "26691",
+    "next_id": "26689",
+    "saved_materials": [
+      "assets/26690_21806_0731_fukuda_s.jpg"
+    ]
+  }
+}

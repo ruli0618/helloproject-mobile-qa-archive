@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 728,
+    "content_id": "2765",
+    "content_title": "メンバーからメールが届く！？",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2015-07-21 16:30:00",
+    "created_at": "2015-07-21 17:11:13",
+    "updated_at": "2015-07-21 17:57:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "52fd822daebbe93b60751a12070d41e2",
+        "material_id": "2621",
+        "material_title": "taguchi721.jpg",
+        "material_file": "97552dea32886bee3f651e82c3a16aa9eac9ac882d506f0e6af65fdbb2661f232621.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 722,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "2765",
+    "content_title": "メンバーからメールが届く！？",
+    "content_sub_title": "",
+    "release_date": "2015-07-21 16:30:00",
+    "created_at": "2015-07-21 17:11:13",
+    "updated_at": "2015-07-21 17:57:55",
+    "content_text": "みなさん、こんにちは！\nハロー！プロジェクトモバイルでは、メンバーからメールが届く企画を用意しております！\n \nハロー！プロジェクトモバイル　オープン初日の今日7/21は、\nこぶしファクトリー田口夏実の15歳の誕生日です！！\n \nなんと今日！15歳になった、田口夏実からのメールを配信予定！\n \nメール配信は今夜20時～21時頃を予定してます♪\n \nメルマガ登録がまだの方は、お早めに登録お願いします！\n\ntaguchi721.jpg",
+    "materials": [
+      {
+        "secretKey": "db67c0d7330778882dbd30a39516ff95",
+        "material_id": "2621",
+        "material_title": "taguchi721.jpg",
+        "material_file": "33ce38a9ce95868b790d0be00605cfc4785eae8c302fd7b71f583c90a98c0b972621.jpeg"
+      }
+    ],
+    "previous_id": "2769",
+    "next_id": "1740",
+    "saved_materials": [
+      "assets/2765_2621_taguchi721.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 314,
+    "content_id": "18218",
+    "content_title": "好きな場所",
+    "content_sub_title": "小林萌花",
+    "category_id": "123",
+    "release_date": "2022-06-27 10:00:00",
+    "created_at": "2022-05-25 13:33:04",
+    "updated_at": "2022-05-25 13:33:04",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "15223",
+        "material_title": "0627_kobayashi_S.jpg",
+        "material_file": "d90310d92804ff12af548b77f74887c4c3f378a258b8d2fe46e495502bbd7e3215223.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 302,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "18218",
+    "content_title": "好きな場所",
+    "content_sub_title": "小林萌花",
+    "release_date": "2022-06-27 10:00:00",
+    "created_at": "2022-05-25 13:33:04",
+    "updated_at": "2022-05-25 13:33:04",
+    "content_text": "0627_kobayashi_S.jpg\r\n私の大好きなクララは段ボールがあると、すぐに入りたがります…。猫は段ボールが大好きですね～。\r\n\r\n【19周目お題：好きなもの(こと)】",
+    "materials": [
+      {
+        "secretKey": "f8e6143ce85f688f0c595102dff7884c",
+        "material_id": "15223",
+        "material_title": "0627_kobayashi_S.jpg",
+        "material_file": "1c569f96f338633743b014aa8673a3ba7d7cd159c002ebd9a470c19fe4db4af215223.jpeg"
+      }
+    ],
+    "previous_id": "18219",
+    "next_id": "18217",
+    "saved_materials": [
+      "assets/18218_15223_0627_kobayashi_S.jpg"
+    ]
+  }
+}

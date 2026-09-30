@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 781,
+    "content_id": "7471",
+    "content_title": "綺麗な壁 ♡／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-10-11 11:00:00",
+    "created_at": "2017-09-07 17:17:11",
+    "updated_at": "2017-09-11 15:19:54",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "6583",
+        "material_title": "6628330341220_s.jpg",
+        "material_file": "9611cbea3960749126e5c1faae0f2c6bfbef2aaeaeacbca9af2ad2466552a4246583.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 782,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "7471",
+    "content_title": "綺麗な壁 ♡／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-10-11 11:00:00",
+    "created_at": "2017-09-07 17:17:11",
+    "updated_at": "2017-09-11 15:19:54",
+    "content_text": "Juice＝Juiceの植村あかりです！\r\n\r\n綺麗な壁 ♡\r\n\r\n\r\n6628330341220_s.jpg\r\n\r\n以上、植村あかりでした！",
+    "materials": [
+      {
+        "secretKey": "a9564e326a2d734190af8e5933fb9848",
+        "material_id": "6583",
+        "material_title": "6628330341220_s.jpg",
+        "material_file": "c47d219b6790aa75d1bd41eb3511499ed4347108428db9073a3a20c37b6d0b4d6583.jpeg"
+      }
+    ],
+    "previous_id": "7653",
+    "next_id": "7469",
+    "saved_materials": [
+      "assets/7471_6583_6628330341220_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 511,
+    "content_id": "9077",
+    "content_title": "宣伝会議 議事録#25",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-05-01 12:10:00",
+    "created_at": "2018-05-01 12:10:35",
+    "updated_at": "2018-05-01 12:12:47",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7988",
+        "material_title": "180427_02_03.jpg",
+        "material_file": "e3639bf8858a95535cd1d67ffc56380c3d1028225f3a30238f23d7f6d8de3a157988.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7989",
+        "material_title": "180427_02_02_s.jpg",
+        "material_file": "fa46ad78a1deaab468b9e7e5b26e1b121ad5815d526d5ef223a41b51a26d46237989.jpeg"
+      },
+      {
+        "secretKey": "75e45390bea3b6ed5013e533de9a7142",
+        "material_id": "7990",
+        "material_title": "180427_02_01_s.jpg",
+        "material_file": "627b4e1999d623cec9ce511e34922adc2372474171e8d132930f3dbe08e217a27990.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9077",
+    "content_title": "宣伝会議 議事録#25",
+    "content_sub_title": "",
+    "release_date": "2018-05-01 12:10:00",
+    "created_at": "2018-05-01 12:10:35",
+    "updated_at": "2018-05-01 12:12:47",
+    "content_text": "ハロ！モバ宣伝部長の尾形春水・書記の野中美希・秘書の梁川奈々美・部員の小片リサによる25回目の宣伝会議が行われました！\n\n梁川秘書のここだけの話から始まり、\n小片リサ部員の定番挨拶が決定！？\n\n3/31・4/1に開催されたSATOYAMA & SATOUMIイベント「ハロ！モバ」ブースでの模様をお届け！\n当日イベントに来られなかった方は必聴です！\n\n180427_02_01_s.jpg\n\nそして、宣伝部の今後に関する重大発表がされました！\n\n工藤顧問、尾形部長に続く、三代目の部長を決定します！\nその決定方法は候補の3名がそれぞれ\n「ハロ！モバ愛が詰まった妄想動画」を撮影し、皆さんの投票で決定！\n\n動画と投票ページは5月7日にアップ予定。\n投票期間は10日間。\nぜひ沢山の投票よろしくお願いします！\n\n180427_02_02_s.jpg\n\n番組中盤では、「のなえもん」の登場も…！\nこれから番組を聴くよという方は、電車内で聴く事はおすすめいたしません…。\n\n今回の書記のメモはこちら！ \n\n180427_02_03.jpg\n\n引き続き「励ましのメール」をお待ちしています！\n\nメールはこちらまで\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送り下さい。",
+    "materials": [
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7988",
+        "material_title": "180427_02_03.jpg",
+        "material_file": "caf970e3ba020f2943a595ba02dae6d94bb428a1cf89f500689eaff87fcdc27f7988.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7989",
+        "material_title": "180427_02_02_s.jpg",
+        "material_file": "f17374b250b4fe83349aca6bfec520d58340b26700696b9ba246031062c8b44d7989.jpeg"
+      },
+      {
+        "secretKey": "1995099a982a12e9221657cdf3d4a115",
+        "material_id": "7990",
+        "material_title": "180427_02_01_s.jpg",
+        "material_file": "c5866c391cf8cfcb69c86165ac99cc3d8d508f3a4c2215290311c89227c9883d7990.jpeg"
+      }
+    ],
+    "previous_id": "9137",
+    "next_id": "9076",
+    "saved_materials": [
+      "assets/9077_7988_180427_02_03.jpg",
+      "assets/9077_7989_180427_02_02_s.jpg",
+      "assets/9077_7990_180427_02_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 66,
+    "content_id": "10829",
+    "content_title": "年々。",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2019-02-09 10:00:00",
+    "created_at": "2019-02-08 14:34:56",
+    "updated_at": "2019-02-08 14:34:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9312",
+        "material_title": "0209_ono_s.jpg",
+        "material_file": "48af13fbe613ae8bfb41121447d63c22eb60eeeb8fe8c529c9e442004615dbf89312.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "10829",
+    "content_title": "年々。",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2019-02-09 10:00:00",
+    "created_at": "2019-02-08 14:34:56",
+    "updated_at": "2019-02-08 14:34:56",
+    "content_text": "年々寒がりになっている私は、\r\n\r\n冬の後に来る\r\n\r\n春の好きが増しています。\r\n\r\n最近は暖かい日もあるからね、\r\n\r\n嬉しいんです<img src=\"/emoji/emoji-images/f649.gif\"/>\r\n\r\n春はお花も綺麗だからね！\r\n\r\n綺麗なお花見られる季節が待ち遠しい…。\r\n\r\n冬にも綺麗に咲いてた紫のお花！\r\n\r\n0209_ono_s.jpg\r\n\r\nでは( ´ ▽ ` )ノ",
+    "materials": [
+      {
+        "secretKey": "8bce36ac43730e95226030651d09aa54",
+        "material_id": "9312",
+        "material_title": "0209_ono_s.jpg",
+        "material_file": "e75572623bcb00dc272707be37cb2d66c6430c417812dc29770cc78763ab3b4e9312.jpeg"
+      }
+    ],
+    "previous_id": "10848",
+    "next_id": "10718",
+    "saved_materials": [
+      "assets/10829_9312_0209_ono_s.jpg"
+    ]
+  }
+}

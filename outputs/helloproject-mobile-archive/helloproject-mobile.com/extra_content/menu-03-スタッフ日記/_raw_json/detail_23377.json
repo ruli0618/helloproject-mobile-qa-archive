@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 118,
+    "content_id": "23377",
+    "content_title": "宣伝会議#93",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-12-21 00:00:00",
+    "created_at": "2024-11-28 05:53:36",
+    "updated_at": "2024-11-28 05:53:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19194",
+        "material_title": "93_03_s.jpg",
+        "material_file": "36096ecf071860512b9dd3400a211bc432f78db92c11afdfc1803d169f5a351719194.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19195",
+        "material_title": "93_02_s.jpg",
+        "material_file": "395327e604ef0768b30cee29dbb8cecf80d49784443929b8cc29b7c358c1ff1a19195.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19196",
+        "material_title": "93.jpg",
+        "material_file": "f7f378baa82d4d3f601f36b442a3517e5453a73b65705431701a88fed37c7c3b19196.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "19197",
+        "material_title": "93_01_s.jpg",
+        "material_file": "86a7df7343c6ee0452a90f002e48951d3cf1de88a5305d764028f181c022a23719197.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 102,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "23377",
+    "content_title": "宣伝会議#93",
+    "content_sub_title": "",
+    "release_date": "2023-12-21 00:00:00",
+    "created_at": "2024-11-28 05:53:36",
+    "updated_at": "2024-11-28 05:53:36",
+    "content_text": "宣伝会議第93回は、川村文乃副部長・前田こころ警備兼広報の二人でお届け！\r\n\r\n93_01_s.jpg\r\n\r\n前編では、\r\n・ビヨスパイ\r\n・ツアー合間の自由時間\r\n・ぬいぐるみ克服\r\n・本番前ルーティン\r\n・好きな男役\r\n・おさかなエピソード\r\n・25周年FCイベント\r\n・喫茶マウンテン\r\nについてトーク！\r\n\r\n後編では、\r\n・ハロコンで仲良くなりたいメンバー\r\n・クリスマスプレゼント\r\n・川村文乃バースデーイベントグッズステッカー\r\n・今年やり残したこと\r\n・今アツイ推し\r\n・今年印象的な出来事\r\n・美容院で職業聞かれた時の答え方\r\n・日替わり写真のイラスト\r\nについてトーク！\r\n\r\n「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、\r\n「島倉りか」さんについて紹介！\r\n\r\n↓議事録はこちら！\r\n93.jpg\r\n\r\n93_02_s.jpg\r\n\r\n93_03_s.jpg",
+    "materials": [
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19194",
+        "material_title": "93_03_s.jpg",
+        "material_file": "76d781b9652a22eed0b7c26c507fb3b5734d6cec1aa1ea8562d7f31e0410991519194.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19195",
+        "material_title": "93_02_s.jpg",
+        "material_file": "29e0293f41e6729fc8de824e76cab6884bda0c05863ab0f9ccca4b99521afce719195.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19196",
+        "material_title": "93.jpg",
+        "material_file": "3a893b1d563b6ee4d0335bfc5e25cc28d98810a2b1dcb009c667f27700e6b9af19196.jpeg"
+      },
+      {
+        "secretKey": "d62c748e13aac9c30e823713e39cd691",
+        "material_id": "19197",
+        "material_title": "93_01_s.jpg",
+        "material_file": "9b55474a7c36660da231b0a45f94d34c9cf7936fb10564990887f43a5d76539619197.jpeg"
+      }
+    ],
+    "previous_id": "21475",
+    "next_id": "21474",
+    "saved_materials": [
+      "assets/23377_19194_93_03_s.jpg",
+      "assets/23377_19195_93_02_s.jpg",
+      "assets/23377_19196_93.jpg",
+      "assets/23377_19197_93_01_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 121,
+    "content_id": "8581",
+    "content_title": "難しいの！",
+    "content_sub_title": "小野瑞歩",
+    "category_id": "73",
+    "release_date": "2018-02-16 16:28:00",
+    "created_at": "2018-02-16 16:27:44",
+    "updated_at": "2018-02-16 16:28:21",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "7503",
+        "material_title": "0216_ono_s.jpg",
+        "material_file": "772c98df39ee8b2b60bb7a07874391538daaf0a0f633e44fb1f43cd39fc34d827503.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "8581",
+    "content_title": "難しいの！",
+    "content_sub_title": "小野瑞歩",
+    "release_date": "2018-02-16 16:28:00",
+    "created_at": "2018-02-16 16:27:44",
+    "updated_at": "2018-02-16 16:28:21",
+    "content_text": "里山ラジオでね、さざんかとつばきの見分け方が難しい！って話をしてたの。\r\n\r\nこれどーっちだ！\r\n\r\n0216_ono_s.jpg",
+    "materials": [
+      {
+        "secretKey": "a612c0406af43486182a2896987b8be2",
+        "material_id": "7503",
+        "material_title": "0216_ono_s.jpg",
+        "material_file": "2ec073a6e104bb08b3eb526eb5fda7f11555b29832d3e9233d534ad575bc4dc47503.jpeg"
+      }
+    ],
+    "previous_id": "8657",
+    "next_id": "8473",
+    "saved_materials": [
+      "assets/8581_7503_0216_ono_s.jpg"
+    ]
+  }
+}

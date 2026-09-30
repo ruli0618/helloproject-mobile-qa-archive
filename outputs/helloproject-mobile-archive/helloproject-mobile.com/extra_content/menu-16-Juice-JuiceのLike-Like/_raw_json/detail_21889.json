@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 185,
+    "content_id": "21889",
+    "content_title": "どこ見てんの",
+    "content_sub_title": "石山咲良",
+    "category_id": "38",
+    "release_date": "2024-03-14 10:00:00",
+    "created_at": "2024-03-07 20:00:22",
+    "updated_at": "2024-03-07 20:00:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "17980",
+        "material_title": "0314_ishiyama_s.jpg",
+        "material_file": "49565c44edf7c16603b16b638034e94781dbce08d3849e101f713a2c77c01c5617980.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 182,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21889",
+    "content_title": "どこ見てんの",
+    "content_sub_title": "石山咲良",
+    "release_date": "2024-03-14 10:00:00",
+    "created_at": "2024-03-07 20:00:22",
+    "updated_at": "2024-03-07 20:00:22",
+    "content_text": "写真を撮ると高確率で「そこに何があったの？」って後から思う写真が絶対にあります。\r\n今日はこちら\r\n0314_ishiyama_s.jpg\r\n",
+    "materials": [
+      {
+        "secretKey": "b634c76e2d9a499ab34bd13d6350c6c9",
+        "material_id": "17980",
+        "material_title": "0314_ishiyama_s.jpg",
+        "material_file": "4948290b1cc3f18e575f1d89b2152f0517eab46651249125e7dba76391b34d9517980.jpeg"
+      }
+    ],
+    "previous_id": "21924",
+    "next_id": "21888",
+    "saved_materials": [
+      "assets/21889_17980_0314_ishiyama_s.jpg"
+    ]
+  }
+}

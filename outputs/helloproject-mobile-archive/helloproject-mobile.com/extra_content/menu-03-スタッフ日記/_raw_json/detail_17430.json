@@ -1,0 +1,85 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 253,
+    "content_id": "17430",
+    "content_title": "工藤の家の屋根裏部屋#96～生田衣梨奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-12-31 21:28:00",
+    "created_at": "2021-12-31 21:38:32",
+    "updated_at": "2021-12-31 22:36:26",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14551",
+        "material_title": "221231_f96_01_s.jpg",
+        "material_file": "3abf53c8341378efd4a1d355c71115c0d68f62e3bd9f8cbfa2689b6b531467ac14551.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14552",
+        "material_title": "221231_f96_03_s.jpg",
+        "material_file": "786098d08e1f29e52a19d668f8dd1da71043a33c87af66b7189da810b2895e3214552.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "14553",
+        "material_title": "221231_f96_02_s.jpg",
+        "material_file": "681d675be42ecf824db4089aabd34f42c910100fec64aecfd82946927cfe5cd214553.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 242,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17430",
+    "content_title": "工藤の家の屋根裏部屋#96～生田衣梨奈～",
+    "content_sub_title": "",
+    "release_date": "2021-12-31 21:28:00",
+    "created_at": "2021-12-31 21:38:32",
+    "updated_at": "2021-12-31 22:36:26",
+    "content_text": "ふくむらの部屋 第96回のゲストは、モーニング娘。'21生田衣梨奈さん！\r\n\r\n同期同士のお二人が話す空間は、いつものラジオ収録とはまたちょっと違う空気が流れていました。\r\n\r\n221231_f96_01_s.jpg\r\n\r\nまずは、最近の口癖、集めているフィギュア、周りに影響される趣味、花鳥風月の同じチームについてトーク！\r\n\r\n「みずき先生のハロプロ講座」のコーナーでは、\r\n・先輩から受け継いだ歌割り\r\n・新曲の衣装\r\n・リズムのとり方\r\n・SNSの使い方\r\nを語って頂きました。\r\n\r\n221231_f96_03_s.jpg\r\n\r\n「ハロプロファン失敗談」のコーナーでは、\r\n個別握手会で生田さんに言われた一言、ペンライトあるあるを紹介！\r\n\r\n機嫌がよくない時の譜久村さんの様子も教えてくれました！\r\n\r\nぜひ、お聴き下さい♬\r\n\r\n221231_f96_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14551",
+        "material_title": "221231_f96_01_s.jpg",
+        "material_file": "f26504db779b68d46e13af837d50c6a0d05ce8f9fb8574e12f7d85b99b64e24114551.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14552",
+        "material_title": "221231_f96_03_s.jpg",
+        "material_file": "fd1530724757ba48dcc1520251f4d40c79b700f056fff55f3936b14a3a9cb21114552.jpeg"
+      },
+      {
+        "secretKey": "00caf661e033217dfff4704bb24203dc",
+        "material_id": "14553",
+        "material_title": "221231_f96_02_s.jpg",
+        "material_file": "652fa603141f37529d8a862c4fd4fe012bd4c8e03d64b2bddb278336d97b8ebd14553.jpeg"
+      }
+    ],
+    "previous_id": "17431",
+    "next_id": "17429",
+    "saved_materials": [
+      "assets/17430_14551_221231_f96_01_s.jpg",
+      "assets/17430_14552_221231_f96_03_s.jpg",
+      "assets/17430_14553_221231_f96_02_s.jpg"
+    ]
+  }
+}

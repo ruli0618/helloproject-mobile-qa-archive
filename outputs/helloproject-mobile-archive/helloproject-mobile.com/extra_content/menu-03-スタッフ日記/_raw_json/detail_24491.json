@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 154,
+    "content_id": "24491",
+    "content_title": "みよちゃん家の縁側の猫#26 中山夏月姫",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2023-04-25 00:00:00",
+    "created_at": "2025-06-16 18:21:55",
+    "updated_at": "2025-06-16 18:54:17",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20038",
+        "material_title": "250402_02.jpg",
+        "material_file": "2ed15261dd9c238380b69dac6c696da8ed86e455159ed3ec35be90855718470920038.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "20039",
+        "material_title": "250402_01.jpg",
+        "material_file": "5e0a6d1909e04a4e6c7790a28914892e40fae3f28b881fc72ec380f2208cfec720039.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "24491",
+    "content_title": "みよちゃん家の縁側の猫#26 中山夏月姫",
+    "content_sub_title": "",
+    "release_date": "2023-04-25 00:00:00",
+    "created_at": "2025-06-16 18:21:55",
+    "updated_at": "2025-06-16 18:54:17",
+    "content_text": "<img src=\"/emoji/emoji-images/f64e.gif\"/>「みよちゃん家の縁側」#26配信中です！\n\n第26回ゲストは、OCHA NORMAの中山夏月姫さん！\n\n250402_01.jpg\n\n逆再生チャレンジコーナーで挑戦したお題はこちら！\n\n①金箔\n②#夏月姫でござる\n③しましまにしまっし！\n④さぶろうべい\n\n\n「演技してみよ～！」のコーナーでは、\n「旅館夏月姫の女将」、「今日の授業は旅人算！」の2本をお届けしました。\n\nセリフ噛み噛みの中山さんでしたが（笑）\n可愛く楽しく演技していただきました<img src=\"/emoji/emoji-images/f64e.gif\"/>\n\n\nその他、研修生同期との関係、里吉さんと平井さんが振り付けした「抱いてHOLD ON ME!」の裏話、ひなフェス2023の感想や石川おすすめグルメも！！\nたくさんのお便りを紹介していますので是非配信をお聴きください！\n\n250402_02.jpg\n\n番組へのメールはこちらまで。コーナー名を件名に記入のうえお送り下さい。\n→<a href=\"mailto:halomoba@gmail.com\">halomoba@gmail.com</a>\n\n<span style=\"color:#FF0000;\">※※最近ハロ！モバに登録しているメールアドレスとは違うアドレスからメールをお送りいただく方が増えております※※</span>\n例①：ドメイン違い\n例②：「@～.co.jp」「@～.ne.jp」の違い\n\n送信前にもう一度よくご確認ください。\nいつもたくさんのお便りありがとうございます。\n\n※番組のお知らせは随時\n<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロー！プロジェクトモバイル【公式】Twitter</a>、にてお知らせします。\n\n\n次回のゲストは、つばきファクトリー 新沼希空さんです♪\nお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "20038",
+        "material_title": "250402_02.jpg",
+        "material_file": "93fee1655f72b42ac3b5cc38f136fff586d485e52c209ce5b50d521bc58de58220038.jpeg"
+      },
+      {
+        "secretKey": "59193421ca9892a6bf542b7a023e5016",
+        "material_id": "20039",
+        "material_title": "250402_01.jpg",
+        "material_file": "14e98647156c9891775c5fb8a4d42947d059b083f8dd7d17e534f2d71daa51ff20039.jpeg"
+      }
+    ],
+    "previous_id": "21239",
+    "next_id": "23369",
+    "saved_materials": [
+      "assets/24491_20038_250402_02.jpg",
+      "assets/24491_20039_250402_01.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 28,
+    "content_id": "25862",
+    "content_title": "季節",
+    "content_sub_title": "遠藤彩加里",
+    "category_id": "38",
+    "release_date": "2026-03-10 10:00:00",
+    "created_at": "2026-02-27 18:58:09",
+    "updated_at": "2026-02-27 18:58:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6a649a1ee3854e02f67a48c5319d98b3",
+        "material_id": "21185",
+        "material_title": "0310_endo_s.jpg",
+        "material_file": "4343510b30cf33af013dd35e6945a27f6c06940877ca3575359e497f50111dc321185.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "25862",
+    "content_title": "季節",
+    "content_sub_title": "遠藤彩加里",
+    "release_date": "2026-03-10 10:00:00",
+    "created_at": "2026-02-27 18:58:09",
+    "updated_at": "2026-02-27 18:58:09",
+    "content_text": "0310_endo_s.jpg\r\n遠藤彩加里です♪\r\nもう冬が終わりますね？！時が経つのは早い……\r\n北海道だと3月ってまだバリバリ冬なのでなんだか不思議な感じです\r\nこれからは私の好きな暖かい季節がやってきます！\r\n暑がりなんですけど寒いのの方が\r\n苦手なんです……！\r\n春服・夏服、半袖着られるのが楽しみです♪",
+    "materials": [
+      {
+        "secretKey": "ba197502180eadffed16430bcf7418a2",
+        "material_id": "21185",
+        "material_title": "0310_endo_s.jpg",
+        "material_file": "7281eeab10f0b7b0b7bcee0ccac5fa3cbf5011ca0ac48a92b18828226c6e698b21185.jpeg"
+      }
+    ],
+    "previous_id": "25898",
+    "next_id": "25830",
+    "saved_materials": [
+      "assets/25862_21185_0310_endo_s.jpg"
+    ]
+  }
+}

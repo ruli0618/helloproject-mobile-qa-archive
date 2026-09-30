@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 61,
+    "content_id": "25046",
+    "content_title": "ひなーず！",
+    "content_sub_title": "土居楓奏",
+    "category_id": "155",
+    "release_date": "2025-10-31 10:00:00",
+    "created_at": "2025-09-30 23:36:30",
+    "updated_at": "2025-09-30 23:36:30",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "0ed286b30a475fe5243063b7231d9d27",
+        "material_id": "20470",
+        "material_title": "1031_doi_s.jpg",
+        "material_file": "84963c28b490259e75bbf71b762346f170e98c8416c9d3742ca6b5e372b96b0720470.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "155",
+    "category_title": "つばきのスキップ日和",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "27",
+    "is_new": 0,
+    "content_id": "25046",
+    "content_title": "ひなーず！",
+    "content_sub_title": "土居楓奏",
+    "release_date": "2025-10-31 10:00:00",
+    "created_at": "2025-09-30 23:36:30",
+    "updated_at": "2025-09-30 23:36:30",
+    "content_text": "皆さんこんにちは！リコピンパワー！\r\n\r\nつばきファクトリーの土居楓奏（どいふうか）です！！\r\n\r\nこの間\r\n石井泉羽ちゃん、村田結生ちゃん、私土居楓奏のひなーずで、ディズニーシーに行ってきましたーー！\r\n\r\nひなーずで遊びに行くのは、久しぶりだったので、予定が決まった時から、楽しみでわくわくでした！！\r\n\r\nちょうどハロウィンが始まった時だったので、3人で仮装もしたんです！！\r\n\r\n朝早くから行ったので、沢山のアトラクション乗ったり、食べ歩きすることができて、ハッピーでした！\r\n\r\nまた、遊びに行こうね〜♡\r\n\r\n1031_doi_s.jpg\r\n\r\n土居楓奏でした！",
+    "materials": [
+      {
+        "secretKey": "4a18861c43ddf6a0a57b2254e613ffeb",
+        "material_id": "20470",
+        "material_title": "1031_doi_s.jpg",
+        "material_file": "73e3b84ed6d1b89f220e2e9cb6abe731521f7c45a4c73ac70ef14a8cfeea84c720470.jpeg"
+      }
+    ],
+    "previous_id": "25047",
+    "next_id": "25045",
+    "saved_materials": [
+      "assets/25046_20470_1031_doi_s.jpg"
+    ]
+  }
+}

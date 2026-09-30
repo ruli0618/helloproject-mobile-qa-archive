@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 131,
+    "content_id": "22994",
+    "content_title": "いちかがくれた青のカーネーション！",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-10-03 10:00:00",
+    "created_at": "2024-09-26 22:49:56",
+    "updated_at": "2024-09-26 22:49:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18834",
+        "material_title": "1003_matsunaga_s.jpg",
+        "material_file": "b6b24c5ad483cbe320d9ddbe055664446fc3d9b17b2c6fdd979a731c402fbf7018834.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 122,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22994",
+    "content_title": "いちかがくれた青のカーネーション！",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-10-03 10:00:00",
+    "created_at": "2024-09-26 22:49:56",
+    "updated_at": "2024-09-26 22:49:56",
+    "content_text": "1003_matsunaga_s.jpg\r\n朝起きてからお水を換えるのが日課になりそーデス！❤︎",
+    "materials": [
+      {
+        "secretKey": "8a03e560e0b81390a9351a0b7c251f2c",
+        "material_id": "18834",
+        "material_title": "1003_matsunaga_s.jpg",
+        "material_file": "6a532a26fc30d795055028d055ab3690f76398c5daeecaaffa0cf068164b37b218834.jpeg"
+      }
+    ],
+    "previous_id": "23003",
+    "next_id": "22993",
+    "saved_materials": [
+      "assets/22994_18834_1003_matsunaga_s.jpg"
+    ]
+  }
+}

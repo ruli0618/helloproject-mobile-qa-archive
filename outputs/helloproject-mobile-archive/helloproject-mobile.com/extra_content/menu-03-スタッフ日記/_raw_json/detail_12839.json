@@ -1,0 +1,111 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 369,
+    "content_id": "12839",
+    "content_title": "宣伝会議 議事録#45",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2019-12-30 10:00:00",
+    "created_at": "2019-12-29 14:43:25",
+    "updated_at": "2019-12-29 14:44:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10855",
+        "material_title": "191229_01_s.jpg",
+        "material_file": "c218e033aea379e4997d8fa933a051dc2ece9bd7a5a76ec90731aa32279c959510855.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10856",
+        "material_title": "191229_04_s.jpg",
+        "material_file": "e50ea0a51df10b576eb42e172fabfed13295d240a15d7b8d90ab1b15be57079610856.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10857",
+        "material_title": "191229_03_s.jpg",
+        "material_file": "cd2a0cfc8f1994a82c98b8c44506e83f9dab0b85acdeeeda8309ad4984ba369910857.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10858",
+        "material_title": "191229_02_s.jpg",
+        "material_file": "aabcf6cfcd39ced6f493911afb7713bb34345ae1507e4675942c611e7d61018a10858.jpeg"
+      },
+      {
+        "secretKey": "6396609872c98d2b09bc75866e7d0575",
+        "material_id": "10859",
+        "material_title": "191229_05_s.jpg",
+        "material_file": "d53b2a8def498767b4b0ee5a16ab0165369d1cd6d259f1dbe5639d6caf3ae91910859.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 362,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "12839",
+    "content_title": "宣伝会議 議事録#45",
+    "content_sub_title": "",
+    "release_date": "2019-12-30 10:00:00",
+    "created_at": "2019-12-29 14:43:25",
+    "updated_at": "2019-12-29 14:44:38",
+    "content_text": "ハロ！モバ宣伝会議45回目は、クリスマス・スペシャル！\n\n川村広報が欠席のため\n野中部長、小片副部長、前田書記兼警備の3人での会議です！\n\n191229_01_s.jpg\n\n「つばきファクトリーのハナモヨウ」コーナーがリニューアル！？\nコーナー名や、BEYOOOOONDSの新コーナーについても、皆で話しあいました！\n\nクリスマスという事で、ケーキを食べながら今年1年の振り返り。\nもちろん、クリスマスケーキで妄想動画も撮影しましたので、チェックしてくださいね！\n\n191229_03_s.jpg\n\n191229_02_s.jpg\n\nレコード大賞への出演が控えた前田書記兼警備に対して、経験者の小片副部長が、ステージに赴くアドバイスを送る場面も…！\n\nハロ！モバラジオ連動企画「質問BOX」では、\n↓こちらの質問に答えました！\n\n191229_04_s.jpg\n\n今回新たに撮影した本家の戸締まり映像が、ハロー！ムービー「妄想動画」にて公開中！\n野中部長がツボにはまった理由はエンディングを要チェック！\n\n↓今回の議事録はこちら！\n\n191229_05_s.jpg\n\n「励ましのメール」「お悩み相談メール」お待ちしています！\n\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※お悩み相談は「お悩み相談」と記入してください。\n\n次回は2020年1月の配信です！\n\nお楽しみに♪",
+    "materials": [
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10855",
+        "material_title": "191229_01_s.jpg",
+        "material_file": "d136676d7caaccc76a6287f297d3c4a8cf160e3cff2613b0d144db05444338f710855.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10856",
+        "material_title": "191229_04_s.jpg",
+        "material_file": "cacea4c4003e24769faaec11b1ca1a9e25c6b1f0ddc3d9df2559047b9c67744f10856.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10857",
+        "material_title": "191229_03_s.jpg",
+        "material_file": "8ba2f455e833ccddd0ee83e02e4c3c359938e769a0845b9316ea3effec7f19a010857.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10858",
+        "material_title": "191229_02_s.jpg",
+        "material_file": "f10f6bf3463a5dd6ed8c9fca36204c10ae7f3bc459d6d32bc0505a8b37a6d17e10858.jpeg"
+      },
+      {
+        "secretKey": "354b011d5798786382478ec0deedd8a1",
+        "material_id": "10859",
+        "material_title": "191229_05_s.jpg",
+        "material_file": "557d9f1acb61fc2e740604fd0cdd1bcfbdfacc75e1dde7c480d5d791413ffa7910859.jpeg"
+      }
+    ],
+    "previous_id": "12850",
+    "next_id": "12826",
+    "saved_materials": [
+      "assets/12839_10855_191229_01_s.jpg",
+      "assets/12839_10856_191229_04_s.jpg",
+      "assets/12839_10857_191229_03_s.jpg",
+      "assets/12839_10858_191229_02_s.jpg",
+      "assets/12839_10859_191229_05_s.jpg"
+    ]
+  }
+}

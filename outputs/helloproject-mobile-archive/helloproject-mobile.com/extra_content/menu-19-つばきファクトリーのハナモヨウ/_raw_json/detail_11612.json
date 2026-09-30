@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 45,
+    "content_id": "11612",
+    "content_title": "くっきりはっきり♪",
+    "content_sub_title": "小野田紗栞",
+    "category_id": "73",
+    "release_date": "2019-06-17 15:51:00",
+    "created_at": "2019-06-17 15:52:36",
+    "updated_at": "2019-06-17 15:52:36",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "e3b37020f67b8e52759e91c85eb9a839",
+        "material_id": "9899",
+        "material_title": "0617_onoda_s.jpg",
+        "material_file": "5c4aad9a5acfb9b8ad8b744031b26e52b7fed7df7d055e41a3cea1df5e81a4189899.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 42,
+    "category_id": "73",
+    "category_title": "つばきファクトリーのハナモヨウ",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "19",
+    "is_new": 0,
+    "content_id": "11612",
+    "content_title": "くっきりはっきり♪",
+    "content_sub_title": "小野田紗栞",
+    "release_date": "2019-06-17 15:51:00",
+    "created_at": "2019-06-17 15:52:36",
+    "updated_at": "2019-06-17 15:52:36",
+    "content_text": "外の空気を思いっきり吸いたい気分な、さおりです♪\r\n \r\nこの間、すごく目立っているお花を見つけたので写真を撮ってみましたっ。\r\n\r\n0617_onoda_s.jpg\r\n \r\n真っ赤だったので\r\n歩いていただけで意識してみてなかったのに、\r\n \r\nすごく目に入りました！\r\n \r\n早く枯れることなく、立派に咲いていてほしいです♪\r\n \r\n \r\nバイバイ♡",
+    "materials": [
+      {
+        "secretKey": "6075220eb39f0fa826716c62b661c5b4",
+        "material_id": "9899",
+        "material_title": "0617_onoda_s.jpg",
+        "material_file": "d7c29f9d041a13ce5d8740e931964ece4c8abb07ec92a80bef841c990f13280e9899.jpeg"
+      }
+    ],
+    "previous_id": "11617",
+    "next_id": "11568",
+    "saved_materials": [
+      "assets/11612_9899_0617_onoda_s.jpg"
+    ]
+  }
+}

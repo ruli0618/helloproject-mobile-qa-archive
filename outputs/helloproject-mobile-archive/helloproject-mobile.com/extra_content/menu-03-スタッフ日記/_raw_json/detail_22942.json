@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 91,
+    "content_id": "22942",
+    "content_title": "工藤の家の軒下#18～川嶋美楓～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-08-13 00:00:00",
+    "created_at": "2024-09-21 06:21:52",
+    "updated_at": "2024-09-21 06:41:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "18792",
+        "material_title": "240813_s.jpg",
+        "material_file": "56fed75a612f28e2a8b562c3319394e751c2bf15c37c1b591d716383efdd06bf18792.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "22942",
+    "content_title": "工藤の家の軒下#18～川嶋美楓～",
+    "content_sub_title": "",
+    "release_date": "2024-08-13 00:00:00",
+    "created_at": "2024-09-21 06:21:52",
+    "updated_at": "2024-09-21 06:41:55",
+    "content_text": "ハロー！ラジオ新番組「ろこの部屋」\r\n第18回は、Juice=Juice川嶋美楓さんがゲストに来てくれました！\r\n\r\n240813_s.jpg\r\n\r\n・他グループとの交流\r\n・お互いの印象\r\n・ダンスの好きなところ\r\n・地元の魅力\r\n・ハロプロ生活\r\n・フェス\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・実力診断テスト\r\n・どっち派？\r\nについて語りました！\r\n\r\n「ろこと一緒にがんばろこー！」のコーナーでは、\r\n夜早く寝ること、京都検定について紹介しました！\r\n\r\n後半では、\r\n・同期\r\n・西日本の方言\r\n・同い年\r\n・名前の由来\r\n・洋楽\r\n・段原瑠々\r\n・平安神宮 月音夜\r\n・バースデーイベント\r\nについてトーク！\r\n\r\n次回は、BEYOOOOONDS高瀬くるみさんがゲストに出演！\r\nぜひお聴き下さい♪\r\n\r\n<a href=\"https://x.com/halomoba\" target=\"_blank\"><u>▶メール募集は「ハロー！プロジェクトモバイル」のX公式アカウントをチェック！</u></a>",
+    "materials": [
+      {
+        "secretKey": "ba7f120d12ef4260cff8b77a4bd256f8",
+        "material_id": "18792",
+        "material_title": "240813_s.jpg",
+        "material_file": "7537020cba391846be9c22b3091e38331970d666caf15fc892018161feabc89f18792.jpeg"
+      }
+    ],
+    "previous_id": "23398",
+    "next_id": "22941",
+    "saved_materials": [
+      "assets/22942_18792_240813_s.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 158,
+    "content_id": "22438",
+    "content_title": "がんばくサン",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2024-06-27 10:00:00",
+    "created_at": "2024-06-26 12:01:46",
+    "updated_at": "2024-06-26 12:01:46",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "18415",
+        "material_title": "0627_matsunaga_s.jpg",
+        "material_file": "e7dcbeb7558552a2a7d43d16d80ab14b0c51caf67af57fedd34514f0d3d963e118415.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "22438",
+    "content_title": "がんばくサン",
+    "content_sub_title": "松永里愛",
+    "release_date": "2024-06-27 10:00:00",
+    "created_at": "2024-06-26 12:01:46",
+    "updated_at": "2024-06-26 12:01:46",
+    "content_text": "日本武道館に元祖爆笑王サンが観にきてくださってましタ❤︎\r\nがんばくサン、大大大スキー！！！！\r\n白衣装もかわいいでしょーん\r\n0627_matsunaga_s.jpg",
+    "materials": [
+      {
+        "secretKey": "e4b0d9292a183bcdb3f9166ec3e759ac",
+        "material_id": "18415",
+        "material_title": "0627_matsunaga_s.jpg",
+        "material_file": "5816cf57187ddbf3fa34d168ba86ea460bd8ef19188ca5cfb14faab498575b1918415.jpeg"
+      }
+    ],
+    "previous_id": "22439",
+    "next_id": "22399",
+    "saved_materials": [
+      "assets/22438_18415_0627_matsunaga_s.jpg"
+    ]
+  }
+}

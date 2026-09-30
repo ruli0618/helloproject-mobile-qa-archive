@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 39,
+    "content_id": "18715",
+    "content_title": "くびはーと",
+    "content_sub_title": "山岸理子",
+    "category_id": "115",
+    "release_date": "2022-08-26 12:24:00",
+    "created_at": "2022-08-26 12:24:56",
+    "updated_at": "2022-08-26 12:24:56",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "d38614371954fc15f6ccaa19f4d5cba7",
+        "material_id": "15597",
+        "material_title": "0826_yamagishi_s.jpg",
+        "material_file": "c55f86420377942c06de83a1d1392d8f1426ea3c073682f867f347d57c60b44515597.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 22,
+    "category_id": "115",
+    "category_title": "意識高い乙女の記し",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "22",
+    "is_new": 0,
+    "content_id": "18715",
+    "content_title": "くびはーと",
+    "content_sub_title": "山岸理子",
+    "release_date": "2022-08-26 12:24:00",
+    "created_at": "2022-08-26 12:24:56",
+    "updated_at": "2022-08-26 12:24:56",
+    "content_text": "0826_yamagishi_s.jpg\r\n前は顔と腕に日焼け止め塗ってたのですが、\r\n首にも日焼け止め塗るようになりました！\r\nメイクさんに言われてから、\r\n顔と首の肌の色が違うことに気が付いたのです！\r\n首も大事だね(><)\r\n⁡\r\nつばきファクトリー山岸理子",
+    "materials": [
+      {
+        "secretKey": "1871033d27d821f3817195be6b6b540e",
+        "material_id": "15597",
+        "material_title": "0826_yamagishi_s.jpg",
+        "material_file": "8f37e3a0be0fe58530356e7acd0a8ad61e0c9f03caf9d48927f0ee2bae2f15e615597.jpeg"
+      }
+    ],
+    "previous_id": "18717",
+    "next_id": "18673",
+    "saved_materials": [
+      "assets/18715_15597_0826_yamagishi_s.jpg"
+    ]
+  }
+}

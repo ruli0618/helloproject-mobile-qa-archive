@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 93,
+    "content_id": "24661",
+    "content_title": "また行きたい！",
+    "content_sub_title": "岡村美波",
+    "category_id": "123",
+    "release_date": "2025-07-21 10:00:00",
+    "created_at": "2025-07-14 21:44:25",
+    "updated_at": "2025-07-14 21:44:25",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "20140",
+        "material_title": "0721_okamura_s.jpg",
+        "material_file": "25a788378b3aa822dc2777ef765d6c5ab131928c63ef01abb3058f124b41222120140.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 82,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "24661",
+    "content_title": "また行きたい！",
+    "content_sub_title": "岡村美波",
+    "release_date": "2025-07-21 10:00:00",
+    "created_at": "2025-07-14 21:44:25",
+    "updated_at": "2025-07-14 21:44:25",
+    "content_text": "0721_okamura_s.jpg\r\n去年行った沖縄がもう懐かしい…！\r\nまた行きたい場所No. 1です<img src=\"/emoji/emoji-images/f479.gif\"/>\r\n\r\n【44周目お題：懐かしい】",
+    "materials": [
+      {
+        "secretKey": "857560f7198571669b680f16875b15bd",
+        "material_id": "20140",
+        "material_title": "0721_okamura_s.jpg",
+        "material_file": "a3c05dc6385b72910c74e22422ecac70d1d0be12fd4c553fb7579c0ad986fed120140.jpeg"
+      }
+    ],
+    "previous_id": "24662",
+    "next_id": "24660",
+    "saved_materials": [
+      "assets/24661_20140_0721_okamura_s.jpg"
+    ]
+  }
+}

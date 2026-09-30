@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 757,
+    "content_id": "8066",
+    "content_title": "中華街／植村あかり",
+    "content_sub_title": "",
+    "category_id": "38",
+    "release_date": "2017-12-30 11:00:00",
+    "created_at": "2017-12-04 17:30:40",
+    "updated_at": "2017-12-04 17:30:40",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "340ce8dcc23de7c4629d18a0445353ce",
+        "material_id": "7118",
+        "material_title": "7076185675930_s.jpg",
+        "material_file": "0cf6dd27e683b52e46b7375d2c2c9c985891073c13ec598d7c42be35639e24557118.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 742,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "8066",
+    "content_title": "中華街／植村あかり",
+    "content_sub_title": "",
+    "release_date": "2017-12-30 11:00:00",
+    "created_at": "2017-12-04 17:30:40",
+    "updated_at": "2017-12-04 17:30:40",
+    "content_text": "Juice＝Juiceの植村あかりです\r\n\r\n中華街またいきたいなっ\r\n\r\n7076185675930_s.jpg\r\n\r\n\r\n以上、植村あかりでした",
+    "materials": [
+      {
+        "secretKey": "f55cf7e10082b6b7adaacb34e751ede2",
+        "material_id": "7118",
+        "material_title": "7076185675930_s.jpg",
+        "material_file": "6bf997be1f6617b6cefaa107296a8f075dc07bb5c0e6ce0f4618e8d07f5f9e5e7118.jpeg"
+      }
+    ],
+    "previous_id": "8310",
+    "next_id": "8064",
+    "saved_materials": [
+      "assets/8066_7118_7076185675930_s.jpg"
+    ]
+  }
+}

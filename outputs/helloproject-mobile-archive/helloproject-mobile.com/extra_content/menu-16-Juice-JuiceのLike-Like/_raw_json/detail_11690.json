@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 612,
+    "content_id": "11690",
+    "content_title": "野菜",
+    "content_sub_title": "宮本佳林",
+    "category_id": "38",
+    "release_date": "2019-07-08 10:00:00",
+    "created_at": "2019-07-04 19:43:53",
+    "updated_at": "2019-07-04 19:43:53",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "9968",
+        "material_title": "0708_miyamoto_s.jpg",
+        "material_file": "d8812dc47a77bf45602af27eade22ba9bb539ad323131c4facfc650c1ec3a3e59968.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 602,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "11690",
+    "content_title": "野菜",
+    "content_sub_title": "宮本佳林",
+    "release_date": "2019-07-08 10:00:00",
+    "created_at": "2019-07-04 19:43:53",
+    "updated_at": "2019-07-04 19:43:53",
+    "content_text": "0708_miyamoto_s.jpg\r\nスティック野菜好きです。",
+    "materials": [
+      {
+        "secretKey": "8c3eb591ca943b00a8f9e31542aedb67",
+        "material_id": "9968",
+        "material_title": "0708_miyamoto_s.jpg",
+        "material_file": "a1f2e75250146376ee62a430df0ffd58d0e7e648fee9c0b0ae16266b4a6492f99968.jpeg"
+      }
+    ],
+    "previous_id": "11734",
+    "next_id": "11672",
+    "saved_materials": [
+      "assets/11690_9968_0708_miyamoto_s.jpg"
+    ]
+  }
+}

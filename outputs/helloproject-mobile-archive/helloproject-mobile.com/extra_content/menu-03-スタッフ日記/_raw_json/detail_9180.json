@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 508,
+    "content_id": "9180",
+    "content_title": "部長の座",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2018-05-14 22:20:00",
+    "created_at": "2018-05-14 22:24:38",
+    "updated_at": "2018-05-14 22:24:38",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "9180",
+    "content_title": "部長の座",
+    "content_sub_title": "",
+    "release_date": "2018-05-14 22:20:00",
+    "created_at": "2018-05-14 22:24:38",
+    "updated_at": "2018-05-14 22:24:38",
+    "content_text": "こんばんは！スタッフ番号2番です<img src=\"/emoji/emoji-images/5047.gif\"/>\r\n\r\nハロ！モバ宣伝部 部長の座 争奪戦！\r\nもうあなたは投票しましたか？\r\n\r\n三者三様のアプローチで撮影された妄想動画！\r\n一見の価値ありです<img src=\"/emoji/emoji-images/4f37.gif\"/>\r\n\r\n投票期限は、今週5/17(木)23:59まで！\r\n\r\nあなたの1票が、部長の座を左右します<img src=\"/emoji/emoji-images/4551.gif\"/><img src=\"/emoji/emoji-images/472d.gif\"/>\r\nまだ迷っている方も、ぜひお忘れなくご投票ください<img src=\"/emoji/emoji-images/f6de.gif\"/>\r\n\r\n★<a href=\"http://helloproject-mobile.com/info/special/content?page=180507_senden_mission/index\">投票＆動画の再生はこちらから</a>★",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "9196",
+    "next_id": "9144",
+    "saved_materials": []
+  }
+}

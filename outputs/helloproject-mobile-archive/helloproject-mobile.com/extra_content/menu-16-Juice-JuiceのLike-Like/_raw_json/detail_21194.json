@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 219,
+    "content_id": "21194",
+    "content_title": "懐かしい衣装",
+    "content_sub_title": "工藤由愛",
+    "category_id": "38",
+    "release_date": "2023-11-09 10:00:00",
+    "created_at": "2023-11-07 15:46:27",
+    "updated_at": "2023-11-07 15:46:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17403",
+        "material_title": "1109_kudo_s.jpg",
+        "material_file": "b23f4bb1a8d9f29fbad015d9e9529ed86136575dc0a4d5db0215f53f5d978b5817403.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21194",
+    "content_title": "懐かしい衣装",
+    "content_sub_title": "工藤由愛",
+    "release_date": "2023-11-09 10:00:00",
+    "created_at": "2023-11-07 15:46:27",
+    "updated_at": "2023-11-07 15:46:27",
+    "content_text": "1109_kudo_s.jpg\r\nみんなに愛されるぽんぽん\r\nこの衣装をまた着られて嬉しいです！",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17403",
+        "material_title": "1109_kudo_s.jpg",
+        "material_file": "bc9000386b8d46ce22c7f3d93dd189c9524aba88a1fad6185b7cc3be5166667a17403.jpeg"
+      }
+    ],
+    "previous_id": "21217",
+    "next_id": "21157",
+    "saved_materials": [
+      "assets/21194_17403_1109_kudo_s.jpg"
+    ]
+  }
+}

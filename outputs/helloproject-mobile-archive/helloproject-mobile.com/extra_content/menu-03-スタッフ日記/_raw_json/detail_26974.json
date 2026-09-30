@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 73,
+    "content_id": "26974",
+    "content_title": "工藤の家の軒下#25～村越彩菜～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2024-11-19 00:00:00",
+    "created_at": "2026-09-28 22:52:59",
+    "updated_at": "2026-09-28 22:52:59",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "22062",
+        "material_title": "241119_025.jpg",
+        "material_file": "fdca6b238f5ca8585d5407f27d91a8748fdcd1e9c310665f42c7e4f0b6be210a22062.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 62,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "26974",
+    "content_title": "工藤の家の軒下#25～村越彩菜～",
+    "content_sub_title": "",
+    "release_date": "2024-11-19 00:00:00",
+    "created_at": "2026-09-28 22:52:59",
+    "updated_at": "2026-09-28 22:52:59",
+    "content_text": "241119_025.jpg\r\n\r\nハロー！ラジオ新番組「ろこの部屋」\r\n第25回はゲストは、村越彩菜！\r\n\r\n・仮装\r\n・ロージークロニクルメンバーの印象\r\n・中山夏月姫、橋田歩果\r\n・鈴木愛理の魅力\r\n・ミライハジマリ\r\n・あだ名\r\nのお話からスタート！\r\n\r\n「6個の部屋」のコーナーでは、\r\n・秋の遠足、修学旅行\r\n・男役演じるとしたら\r\nについて語りました！\r\n\r\n「ゲストをもっと知ろーコーナー」ではクイズにチャレンジ☆\r\n\r\n後半では、\r\n・ロジオクロニクル\r\n・ボケツッコミ担当\r\n・外部イベント\r\n・同期、同学年\r\n・舞台やるなら？\r\n・ハロー！プロジェクトに入るきっかけ\r\nについてトーク！",
+    "materials": [
+      {
+        "secretKey": "9c8feee13958025f3942aa238c679419",
+        "material_id": "22062",
+        "material_title": "241119_025.jpg",
+        "material_file": "2bf7e45070de12da889289d2c733a648bce919e33b18460105f132941181bc1e22062.jpeg"
+      }
+    ],
+    "previous_id": "23397",
+    "next_id": "23254",
+    "saved_materials": [
+      "assets/26974_22062_241119_025.jpg"
+    ]
+  }
+}

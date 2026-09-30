@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 511,
+    "content_id": "14787",
+    "content_title": "ショッピング",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-10-29 18:00:00",
+    "created_at": "2020-10-29 18:07:57",
+    "updated_at": "2020-10-29 18:08:28",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "99ddb7b8eb3d827972d184dc12080285",
+        "material_id": "12298",
+        "material_title": "1030_inoue_s.jpg",
+        "material_file": "048c246e274021d24921d99de88701aee2dd48aa61a9d0d4c57f66e7dc03fea412298.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 502,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "14787",
+    "content_title": "ショッピング",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-10-29 18:00:00",
+    "created_at": "2020-10-29 18:07:57",
+    "updated_at": "2020-10-29 18:08:28",
+    "content_text": "最近寒くなってきて、衣替えをした方も多いと思います！\n私も冬服を買いに行くんですけど、可愛いのがありすぎて結局何も買わないことも少なくはないです。\n絶対買いたい！と思える洋服に出会えますように！！\nこの前のお気に入りの衣装の写真を添えて。\n\n1030_inoue_s.jpg",
+    "materials": [
+      {
+        "secretKey": "e2d99ef2f0e051afb5af264b7d04469c",
+        "material_id": "12298",
+        "material_title": "1030_inoue_s.jpg",
+        "material_file": "4a78e874daf7b24d1d4dc2acb6c87e4ed0015c3908caf0d708116ed97ae0d44c12298.jpeg"
+      }
+    ],
+    "previous_id": "14846",
+    "next_id": "14679",
+    "saved_materials": [
+      "assets/14787_12298_1030_inoue_s.jpg"
+    ]
+  }
+}

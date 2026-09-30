@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 230,
+    "content_id": "20989",
+    "content_title": "消しゴムで私を消して！",
+    "content_sub_title": "西田汐里",
+    "category_id": "123",
+    "release_date": "2023-10-18 10:00:00",
+    "created_at": "2023-10-10 23:30:09",
+    "updated_at": "2023-10-10 23:30:09",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "f8cb821fcf37d15e1de3017706b992c2",
+        "material_id": "17275",
+        "material_title": "1018_nishida_s.jpg",
+        "material_file": "21dab4aac837e1038cc29ef55d02f93fbad9d9bce52d4d758e6332ec8661f02917275.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "20989",
+    "content_title": "消しゴムで私を消して！",
+    "content_sub_title": "西田汐里",
+    "release_date": "2023-10-18 10:00:00",
+    "created_at": "2023-10-10 23:30:09",
+    "updated_at": "2023-10-10 23:30:09",
+    "content_text": "1018_nishida_s.jpg\r\n私は紗耶の衣装を靡かせてます。\r\n\r\n【29周目お題：面白い 】",
+    "materials": [
+      {
+        "secretKey": "29065b0c73b8226d44f64b7d7ec892e6",
+        "material_id": "17275",
+        "material_title": "1018_nishida_s.jpg",
+        "material_file": "1e24d64712b1f84c0579684b0efc0ac7833166914dac02bc1238cc3a27596de717275.jpeg"
+      }
+    ],
+    "previous_id": "20990",
+    "next_id": "20988",
+    "saved_materials": [
+      "assets/20989_17275_1018_nishida_s.jpg"
+    ]
+  }
+}

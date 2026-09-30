@@ -1,0 +1,98 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 227,
+    "content_id": "18030",
+    "content_title": "宣伝会議#73",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2022-04-22 19:52:00",
+    "created_at": "2022-04-22 19:52:27",
+    "updated_at": "2022-04-22 21:49:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15051",
+        "material_title": "220421_03_s.jpg",
+        "material_file": "dd834360bed0d448a160d1bfc5ef7bfc1c22b2feee585edc7e0a34a3f263a7e515051.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15052",
+        "material_title": "220421_04_s.jpg",
+        "material_file": "5e0e5c19535b0cb70415de392b946718ec4dca8f538bec95ba234da40140f74c15052.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15053",
+        "material_title": "220421_01_s.jpg",
+        "material_file": "bd5300f9808a59bf2cf780f68b4eba8ac7e5674680d7088dacb55e228e85acf115053.jpeg"
+      },
+      {
+        "secretKey": "a6305088c1264c8a1e2281d6fde9d938",
+        "material_id": "15054",
+        "material_title": "220421_02_s.jpg",
+        "material_file": "e3b32af56f1caff86b93e8840e9f2900bf6b7fbbea51272e6284a14f90cc21c515054.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 222,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "18030",
+    "content_title": "宣伝会議#73",
+    "content_sub_title": "",
+    "release_date": "2022-04-22 19:52:00",
+    "created_at": "2022-04-22 19:52:27",
+    "updated_at": "2022-04-22 21:49:22",
+    "content_text": "部員全員集合しての宣伝会議第73回では、ついに新入部員が登場！\n\n今回よりJuice=Juiceの入江里咲さんが、ハロ！モバ宣伝部に加入しました！\n\n220421_03_s.jpg\n\n役職は書記に決定！\nこれからも、新しくなったハロ！モバ宣伝部の応援よろしくお願いします。\n\n前編では、ハロ！モバTwitterにアップするお知らせ動画の撮影をしました。\nぜひ、<a href=\"https://twitter.com/halomoba\" target=\"_blank\">ハロ！モバTwitter (@halomoba)</a>もチェックしてみてくださいね♬\n\n220421_01_s.jpg\n\n後半の「<a href=\"http://helloproject-mobile.com/content/artist10?menu_id=25\" >ハロー！ペディア</a>」のコーナーでは、「新沼希空」さんについて紹介！\n\nお便りのコーナーでは、↓の事柄についてトーク！\n・新しく始めたいこと\n・メンバーのプチ情報\n・ dTVオリジナルドラマ「真夜中にハロー！～女の園は出汁の香り～」裏話\n・ツアーの目標\n・成人を迎える前田警備兼広報に先輩からアドバイス\n\n↓議事録はこちら！\n220421_04_s.jpg\n※今回、機材不備のため一部音質が良くないものとなっております。申し訳ありません。\n\n次回は、前田こころ警備兼広報と、入江里咲書記の二名でお届けします。\n4/26(火)午前10時まで、メールを大募集！\n\n「ハロー！ペディア」のお題は、\n「<b>入江里咲</b>」です！\n\nメール宛先はこちら。\n→<a href=\"mailto:halomoba@gmail.com?subject=宣伝会議\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\n\n件名に必ず「宣伝会議」と記入してお送りください。\n※コーナーメールは「ハロー！ペディア」と記入してください。\n\n次回もお楽しみに！\n\n220421_02_s.jpg",
+    "materials": [
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15051",
+        "material_title": "220421_03_s.jpg",
+        "material_file": "0f0873bd8d8f4f8d26d93e0441e1eca1002df1f92c601dc7c13b99389d8c0ea815051.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15052",
+        "material_title": "220421_04_s.jpg",
+        "material_file": "b8f8dd0a5c0b9d8463a69e7bd02e122e8d3808233dee273e3a1ef7d86dd3e3ea15052.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15053",
+        "material_title": "220421_01_s.jpg",
+        "material_file": "1de483f205593829b20a5e49976a06b91ae7232751f503741c5b92be49e9ab2315053.jpeg"
+      },
+      {
+        "secretKey": "1ec005ef997d4bad86d31839b4b079dd",
+        "material_id": "15054",
+        "material_title": "220421_02_s.jpg",
+        "material_file": "cd14eff0428e4a3892737b021a7555e84dc2b6556fcfdbc728079319a0d468bf15054.jpeg"
+      }
+    ],
+    "previous_id": "18344",
+    "next_id": "17977",
+    "saved_materials": [
+      "assets/18030_15051_220421_03_s.jpg",
+      "assets/18030_15052_220421_04_s.jpg",
+      "assets/18030_15053_220421_01_s.jpg",
+      "assets/18030_15054_220421_02_s.jpg"
+    ]
+  }
+}

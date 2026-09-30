@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 267,
+    "content_id": "20182",
+    "content_title": "キラキラ",
+    "content_sub_title": "入江里咲",
+    "category_id": "38",
+    "release_date": "2023-05-16 10:00:00",
+    "created_at": "2023-05-11 21:48:25",
+    "updated_at": "2023-05-16 10:25:15",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "4d0e009d3ac07868526b627265bf3440",
+        "material_id": "16693",
+        "material_title": "0516_irie_s.jpg",
+        "material_file": "ec96911c4594445fcc5357638ec5fba6ce715ad050b269e184b2ba4bd260a45b16693.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "20182",
+    "content_title": "キラキラ",
+    "content_sub_title": "入江里咲",
+    "release_date": "2023-05-16 10:00:00",
+    "created_at": "2023-05-11 21:48:25",
+    "updated_at": "2023-05-16 10:25:15",
+    "content_text": "0516_irie_s.jpg\n井上さんにメイクしていただいた日(^o^)",
+    "materials": [
+      {
+        "secretKey": "5d3f3e8e88732888855132f1af3149c0",
+        "material_id": "16693",
+        "material_title": "0516_irie_s.jpg",
+        "material_file": "7c0cb8d6dadfef55e6cd2f220391c6b0f609bf3976a9b208b48d7d21fd6f175516693.jpeg"
+      }
+    ],
+    "previous_id": "20212",
+    "next_id": "20163",
+    "saved_materials": [
+      "assets/20182_16693_0516_irie_s.jpg"
+    ]
+  }
+}

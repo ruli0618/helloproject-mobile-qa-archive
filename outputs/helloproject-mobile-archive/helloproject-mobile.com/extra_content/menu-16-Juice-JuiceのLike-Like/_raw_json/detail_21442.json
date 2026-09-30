@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 209,
+    "content_id": "21442",
+    "content_title": "本番直前",
+    "content_sub_title": "松永里愛",
+    "category_id": "38",
+    "release_date": "2023-12-14 11:45:00",
+    "created_at": "2023-12-14 11:45:22",
+    "updated_at": "2023-12-14 11:45:22",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "64a7f5764ccb0a7f1ff16d05da36e9f9",
+        "material_id": "17617",
+        "material_title": "1214_matsunaga_s.jpg",
+        "material_file": "d3d2a50f3163f18b9f4598d33643ee0de806299f53da1cf49c0b8eaff90ae34e17617.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 202,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "21442",
+    "content_title": "本番直前",
+    "content_sub_title": "松永里愛",
+    "release_date": "2023-12-14 11:45:00",
+    "created_at": "2023-12-14 11:45:22",
+    "updated_at": "2023-12-14 11:45:22",
+    "content_text": "1214_matsunaga_s.jpg\r\n日本武道館、本番直前のかわいい2人❤︎",
+    "materials": [
+      {
+        "secretKey": "825bd74de973df706435bef7e616028c",
+        "material_id": "17617",
+        "material_title": "1214_matsunaga_s.jpg",
+        "material_file": "c20b8f34335f571b68b859409817337785f6ac41a15089d7c5807027648da4ce17617.jpeg"
+      }
+    ],
+    "previous_id": "21470",
+    "next_id": "21422",
+    "saved_materials": [
+      "assets/21442_17617_1214_matsunaga_s.jpg"
+    ]
+  }
+}

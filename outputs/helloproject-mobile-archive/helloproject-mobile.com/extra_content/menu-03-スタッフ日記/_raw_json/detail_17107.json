@@ -1,0 +1,53 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 263,
+    "content_id": "17107",
+    "content_title": "本日",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2021-11-15 12:33:00",
+    "created_at": "2021-11-15 12:33:31",
+    "updated_at": "2021-11-15 12:34:42",
+    "is_new": "0",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ]
+  },
+  "detail": {
+    "idx": 262,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "17107",
+    "content_title": "本日",
+    "content_sub_title": "",
+    "release_date": "2021-11-15 12:33:00",
+    "created_at": "2021-11-15 12:33:31",
+    "updated_at": "2021-11-15 12:34:42",
+    "content_text": "こんにちは。\nスタッフ番号2番です。\n\n本日は「アンジュルム コンサート2021「桃源郷 ～笠原桃奈 卒業スペシャル～」」公演日ですね。\n\n<a href=\"https://helloproject-mobile.com/info/music?menu_id=10\">ハロー！ラジオ</a>では、「笠原桃奈スペシャル」プレイリストを配信中！\nぜひ会場へ向かう道中や列に並ぶ際に、お聴き下さい♪\n\n▼コンサートに関する情報をチェック！\n11/15(月)開場17:00/開演18:00\n会場：日本武道館 (東京)\n\n<a href=\"http://www.helloproject.com/news/13799/\" target=\"_blank\">★集合時間はこちら！</a>\n\n<a href=\"http://www.helloproject.com/news/13805/\" target=\"_blank\">★グッズ一覧はこちら！</a>\n\n<a href=\"http://www.helloproject.com/news/13806/\" target=\"_blank\">★グッズ売り場への入場時間はこちら！</a>\n\n<a href=\"http://www.helloproject.com/news/13760/\" target=\"_blank\">★グッズ購入の注意事項はこちら！</a>\n\n<a href=\"https://twitter.com/dcfactory_goods\" target=\"_blank\">★会場のグッズ販売に関してDC FACTORY_GOODSのTwitterをチェック！</a>\n\n<a href=\"https://www.elineupmall.com/ufgoodsland\" target=\"_blank\">★e-LineUP!Mallでもグッズ販売！</a>\n\n<a href=\"https://twitter.com/ODYSTAFF\" target=\"_blank\">★当日券情報・駐車場ご利用のご案内はオデッセーのTwitterアカウントがお知らせ！</a>\n\n映画館、テレビの前でも応援しましょう！\n\n<a href=\"http://www.helloproject.com/news/13667/\" target=\"_blank\">★ライブビューイング実施劇場はこちら！</a>\n\n<a href=\"https://otn.fujitv.co.jp/ANG21/\" target=\"_blank\">★フジテレビTWO ドラマ・アニメにて生中継決定！ </a>\n\nオープニングアクトとして、BEYOOOOONDS・ハロプロ研修生ユニットの出演も決定！\n\nハロ！モバサイト内の<a href=\"http://helloproject-mobile.com/info/special/content?page=201209_funaki_anniv/index\">笠原桃奈スペシャル特設ページ</a>は、翌日11/16(火)朝10時頃までの公開となります。\nお見逃しの無いよう、ご注意ください。",
+    "materials": [
+      {
+        "material_id": "",
+        "material_file": ""
+      }
+    ],
+    "previous_id": "17267",
+    "next_id": "17228",
+    "saved_materials": []
+  }
+}

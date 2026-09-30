@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": "1"
+  },
+  "list": {
+    "idx": 160,
+    "content_id": "22737",
+    "content_title": "うきうきネキ",
+    "content_sub_title": "里吉うたの",
+    "category_id": "123",
+    "release_date": "2024-09-16 10:00:00",
+    "created_at": "2024-08-14 18:02:02",
+    "updated_at": "2024-08-14 18:03:24",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "802ae3d07f0087b0931a23818342f4c4",
+        "material_id": "18612",
+        "material_title": "0916_satoyoshi_s.jpg",
+        "material_file": "b818f24cc164003c0b2147bb08f9e24dda7a7eaffc4664056b5c8257f8301ed318612.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 142,
+    "category_id": "123",
+    "category_title": "BEYOOOOONDSのビヨンズした！",
+    "category_content": "BEYOOOOONDSメンバーが日々のビヨンズした事を紹介するコンテンツ！",
+    "category_color": "#FFFFFF",
+    "menu_id": "24",
+    "is_new": 0,
+    "content_id": "22737",
+    "content_title": "うきうきネキ",
+    "content_sub_title": "里吉うたの",
+    "release_date": "2024-09-16 10:00:00",
+    "created_at": "2024-08-14 18:02:02",
+    "updated_at": "2024-08-14 18:03:24",
+    "content_text": "0916_satoyoshi_s.jpg\nりんご飴持ってルンルンしてるところをここちに撮ってもらえてました(笑)\n\n【36周目お題：ふとした瞬間】",
+    "materials": [
+      {
+        "secretKey": "bd8dd519929659161a29033647358545",
+        "material_id": "18612",
+        "material_title": "0916_satoyoshi_s.jpg",
+        "material_file": "37066d5da197a922d0135855a17cc4445480265b27d0ab884a88a810131f3b0218612.jpeg"
+      }
+    ],
+    "previous_id": "22951",
+    "next_id": "22736",
+    "saved_materials": [
+      "assets/22737_18612_0916_satoyoshi_s.jpg"
+    ]
+  }
+}

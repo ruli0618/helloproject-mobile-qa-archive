@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 587,
+    "content_id": "7211",
+    "content_title": "工藤の家の屋根裏部屋#4 ～生田衣梨奈～",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2017-08-03 19:21:00",
+    "created_at": "2017-08-03 19:16:49",
+    "updated_at": "2017-08-03 19:21:55",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6340",
+        "material_title": "170803_2_s.jpg",
+        "material_file": "8ee2003e9b82ac9f39af54827c1c3e2f54678b378c9ee50ab1dd9a242df367a56340.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "6341",
+        "material_title": "170803_1_s.jpg",
+        "material_file": "9b2591c6e5b86314fe92b3e7b8cf1ac414baad284fa4578f96dcf07fa26252c16341.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 582,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "7211",
+    "content_title": "工藤の家の屋根裏部屋#4 ～生田衣梨奈～",
+    "content_sub_title": "",
+    "release_date": "2017-08-03 19:21:00",
+    "created_at": "2017-08-03 19:16:49",
+    "updated_at": "2017-08-03 19:21:55",
+    "content_text": "「ふくむらの部屋」第4回目チェックして頂けましたでしょうか？\r\n\r\n\r\n\r\n170803_1_s.jpg\r\n\r\n\r\n今回はゲストにモーニング娘。'17　生田衣梨奈さんが登場！\r\nぽんぽんコンビでお送りします！\r\n\r\nオーディション当時の話や9期同士だから話せること、\r\nもしもモーニング娘。じゃなかったら…!?\r\n\r\n\r\n170803_2_s.jpg\r\n\r\n\r\nみずきお嬢様の理想に生田さんの鋭いツッコミが!?\r\n\r\n\r\nいつにも増して素の2人を楽しめるのではないでしょうか？\r\n\r\n\r\n\r\nそうそう、この部屋定番のアメですが\r\n暑いと溶けてしまうのでこの季節は大変ですね。。。\r\n\r\n\r\n\r\n\r\n「みずき先生のハロプロ講座」「みずきお嬢様の私生活」\r\nそれぞれのコーナー、普通のお便り\r\nメールはこちらまで\r\n→ <a href=\"mailto:halomoba@gmail.com?subject=ふくむらの部屋\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ずコーナー名を記入してお送りください。\r\n皆さまからのメールお待ちしております！\r\n\r\n\r\n\r\nそれでは「ふくむらの部屋」次回もお楽しみに！",
+    "materials": [
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6340",
+        "material_title": "170803_2_s.jpg",
+        "material_file": "bc1dcc54db7a54bda88480b3d327c7ce82f12c00e3dc7eff26686edfbcdd38e86340.jpeg"
+      },
+      {
+        "secretKey": "682f9ace9206dbbee5ed0e102911e2ab",
+        "material_id": "6341",
+        "material_title": "170803_1_s.jpg",
+        "material_file": "932b8c665d5222f4187105dfe761a8022aff9282a2f337f7b706c9ed2cb79ae46341.jpeg"
+      }
+    ],
+    "previous_id": "7213",
+    "next_id": "7192",
+    "saved_materials": [
+      "assets/7211_6340_170803_2_s.jpg",
+      "assets/7211_6341_170803_1_s.jpg"
+    ]
+  }
+}

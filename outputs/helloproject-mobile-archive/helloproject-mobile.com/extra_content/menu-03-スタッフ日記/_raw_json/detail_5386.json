@@ -1,0 +1,72 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 644,
+    "content_id": "5386",
+    "content_title": "宣伝会議 議事録#6",
+    "content_sub_title": "",
+    "category_id": "20",
+    "release_date": "2016-09-27 17:40:00",
+    "created_at": "2016-09-27 17:39:12",
+    "updated_at": "2016-09-27 17:41:27",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4849",
+        "material_title": "160927_s.jpg",
+        "material_file": "25f2a137af62944e2c6d92fb5994c9b038ea82f6fb6cb1f70db2fcbf5a17b3244849.jpeg"
+      },
+      {
+        "secretKey": "daedbeb031ca51b67275ad4c8f56f40d",
+        "material_id": "4850",
+        "material_title": "160927_2.jpg",
+        "material_file": "7d5cd18dfe85eb3da87a2b8d73acf6d73bd5b4b474d0aa2377fc006420fedb824850.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 642,
+    "category_id": "20",
+    "category_title": "スタッフ日記",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "3",
+    "is_new": 0,
+    "content_id": "5386",
+    "content_title": "宣伝会議 議事録#6",
+    "content_sub_title": "",
+    "release_date": "2016-09-27 17:40:00",
+    "created_at": "2016-09-27 17:39:12",
+    "updated_at": "2016-09-27 17:41:27",
+    "content_text": "ハロ！モバ宣伝部長の工藤遥と宣伝部員の尾形春水・野中美希・梁川奈々美による6回目の宣伝会議が行われました！\r\n\r\nみなさん聞いて頂けましたか？\r\nついに宣伝部副部長を決める為の妄想動画が公開されました！\r\n\r\nぜひみなさん厳正なる投票をお願いいたします！\r\n未来の副部長は皆様の手に！？\r\n\r\nその他にも、この宣伝会議のイベントがしたいという宣伝部長の気持ちから、どういうイベントができるかなども話し合っています。\r\n実現できるといいですね！\r\n\r\n写真はイベントを行った時のステージの様子をイメージしているようです。\r\n\r\n160927_s.jpg\r\n\r\nぜひ今回の宣伝会議もお楽しみください！\r\n\r\n今回の尾形書記のメモはこちら！\r\n\r\n160927_2.jpg\r\n\r\n宣伝部員宛に「励ましのメール」をお送り頂いた皆様ありがとうございました！\r\n引き続き「励ましのメール」をお待ちしています！\r\n\r\nメールはこちらまで\r\n→<a href=\"mailto:halomoba@gmail.com\"><font color=\"#0000ff\"><u>halomoba@gmail.com</u></font></a>\r\n\r\n件名に必ず「宣伝会議」と記入してお送り下さい。\r\n次回の宣伝会議もお楽しみに！！\r\n",
+    "materials": [
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4849",
+        "material_title": "160927_s.jpg",
+        "material_file": "e59507d7d932d48fffca7f9680f935d22879da23c8cc4de39604a930f62ba8fb4849.jpeg"
+      },
+      {
+        "secretKey": "142d72c4335e663b3a82de9bb153fc97",
+        "material_id": "4850",
+        "material_title": "160927_2.jpg",
+        "material_file": "1d3886afc5bcecdb463ea05ee4d93a4d21072b8ee7c130b962ed328b6fdf0e904850.jpeg"
+      }
+    ],
+    "previous_id": "5392",
+    "next_id": "5362",
+    "saved_materials": [
+      "assets/5386_4849_160927_s.jpg",
+      "assets/5386_4850_160927_2.jpg"
+    ]
+  }
+}

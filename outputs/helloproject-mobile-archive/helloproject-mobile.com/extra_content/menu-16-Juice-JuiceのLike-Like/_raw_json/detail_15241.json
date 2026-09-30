@@ -1,0 +1,59 @@
+{
+  "category": {
+    "idx": 1,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": "0"
+  },
+  "list": {
+    "idx": 497,
+    "content_id": "15241",
+    "content_title": "ネイル",
+    "content_sub_title": "井上玲音",
+    "category_id": "38",
+    "release_date": "2020-12-24 10:00:00",
+    "created_at": "2020-12-21 23:14:41",
+    "updated_at": "2020-12-21 23:14:41",
+    "is_new": "0",
+    "materials": [
+      {
+        "secretKey": "be0c6c39641271ee5b6859707b6d7219",
+        "material_id": "12668",
+        "material_title": "1224_inoue_s.jpg",
+        "material_file": "8974716e1fdc0b8c629a8b8f6f595d553225c84d1fbad97c2f8bfaca9cde8a5812668.jpeg"
+      }
+    ]
+  },
+  "detail": {
+    "idx": 482,
+    "category_id": "38",
+    "category_title": "Juice=JuiceのLike=Like",
+    "category_content": "",
+    "category_color": "#FFFFFF",
+    "menu_id": "16",
+    "is_new": 0,
+    "content_id": "15241",
+    "content_title": "ネイル",
+    "content_sub_title": "井上玲音",
+    "release_date": "2020-12-24 10:00:00",
+    "created_at": "2020-12-21 23:14:41",
+    "updated_at": "2020-12-21 23:14:41",
+    "content_text": "1224_inoue_s.jpg\r\n12/10の日本武道館の日から塗っていたネイルを今日オフしたんですけど、この色とっても可愛いですよね！\r\n玉虫色っていう角度によって色が違く見える？色なんです！\r\nこのネイルお気に入りで、リピート買いしたものなんですよ〜\r\nラメやマットとはまた違う可愛さ！",
+    "materials": [
+      {
+        "secretKey": "f206821fbdbc58dd0764f55b8bf25d55",
+        "material_id": "12668",
+        "material_title": "1224_inoue_s.jpg",
+        "material_file": "4f971c6af7827a4a84d2c67949e2cbe4717bc314b3e89d7e71284426359d839b12668.jpeg"
+      }
+    ],
+    "previous_id": "15242",
+    "next_id": "15240",
+    "saved_materials": [
+      "assets/15241_12668_1224_inoue_s.jpg"
+    ]
+  }
+}
