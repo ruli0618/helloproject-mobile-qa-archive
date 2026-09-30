@@ -422,6 +422,7 @@ clear.addEventListener('click', () => { search.value = ''; activeCategory = 'all
     ...categories.map((cat) => `${cat.title}: ${(byCategory.get(cat.id) || []).length}`),
   ].join('\n');
   fs.writeFileSync(path.join(OUT, '_hello_qa_report.txt'), report, 'utf8');
+  require('./rebuild_hello_qa_view_clean.js');
   console.log(report);
   console.log(path.join(OUT, 'index.html'));
 }

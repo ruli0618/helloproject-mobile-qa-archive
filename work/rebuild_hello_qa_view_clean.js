@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const OUT = path.resolve('outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'hello_qa');
+const ROOT = path.resolve(__dirname, '..');
+const OUT = path.join(ROOT, 'outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'hello_qa');
 const archive = JSON.parse(fs.readFileSync(path.join(OUT, '_hello_qa_archive.json'), 'utf8'));
 
 const historicalCategories = [
