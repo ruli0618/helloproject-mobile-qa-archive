@@ -6,6 +6,9 @@ outputs/helloproject-mobile-archive/*
 !outputs/helloproject-mobile-archive/helloproject-mobile.com/
 outputs/helloproject-mobile-archive/helloproject-mobile.com/*
 !outputs/helloproject-mobile-archive/helloproject-mobile.com/archive.html
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/archive-ui.css
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/site-shell.css
+!outputs/helloproject-mobile-archive/helloproject-mobile.com/site-shell.js
 !outputs/helloproject-mobile-archive/helloproject-mobile.com/birthday_cards/
 !outputs/helloproject-mobile-archive/helloproject-mobile.com/birthday_cards/**
 !outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/

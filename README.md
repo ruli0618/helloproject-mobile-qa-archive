@@ -1,23 +1,15 @@
-# ハロー！Q&A アーカイブ
+# ハロモバ保存アーカイブ
 
-ハロ！プロモバイルのハロー！Q&Aをローカル閲覧しやすい静的HTMLにまとめたアーカイブです。
+ハロ！プロモバイルの保存済みコンテンツを閲覧するための非公式静的サイトです。
 
-## 開き方
+[公開サイト](https://ruli0618.github.io/helloproject-mobile-qa-archive/)から、Q&A、ハローペディア、ツアー日記、連載、特設イベント、妄想動画、ラジオ、メール、バースデーカードへ移動できます。
 
-`index.html` を開くと、Q&Aアーカイブ本体へ移動します。
+ローカルでは `index.html` を開くか、`outputs/helloproject-mobile-archive/helloproject-mobile.com/archive.html` を開いてください。各カテゴリの検索や絞り込みはブラウザ内で動作します。
 
-本体:
+入口・共通ナビ・誕生日一覧・連載一覧を再生成する場合:
 
-`outputs/helloproject-mobile-archive/helloproject-mobile.com/hello_qa/index.html`
+```sh
+node work/build_archive_hub.js
+```
 
-## 内容
-
-- 質問: 3999件
-- 回答: 25008件
-- OG統合回答: 6727件
-- 未統合OG質問: 0件
-- 追加発掘カテゴリ: カントリー・ガールズ旧Q&A、こぶしファクトリー旧Q&A
-
-## 補足
-
-スマホ幅では検索とグループ切り替えを上部パネルとして表示し、回答カードは1列で読めるように調整しています。
+一部の画像と元サイトから取得できなかった内容は含まれません。ラジオの音声原本など、GitHubに載せていない大容量データはローカル側でも保管してください。
