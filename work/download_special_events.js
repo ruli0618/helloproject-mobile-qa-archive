@@ -211,6 +211,8 @@ async function main() {
     }
   }
 
+  require('./prepare_countdown_archive.js')(OUT);
+
   fs.writeFileSync(path.join(OUT, 'index.html'), buildIndex(eventSeeds, pages, assets), 'utf8');
   fs.writeFileSync(path.join(OUT, '_special_events_report.json'), JSON.stringify({
     generated_at: new Date().toISOString(),
