@@ -161,6 +161,7 @@ async function mapLimit(items, limit, fn) {
 
 async function main() {
   mkdirp(OUT);
+  const month = process.argv.find(arg => /^--month=\d{4}-\d{2}$/.test(arg))?.slice(8) || '';
   const topJsonUrl = 'https://helloproject-mobile.com/json_data/top_flick_images.json';
   const topJson = await request(topJsonUrl);
   fs.writeFileSync(path.join(OUT, '_top_flick_images.json'), topJson.body);
@@ -185,12 +186,16 @@ async function main() {
     }
   }
 
-  const urls = [...candidates].sort();
+  const urls = [...candidates].filter(url => !month || birthdayInfoFromUrl(url)?.date.startsWith(month)).sort();
   console.log(`candidates=${urls.length}`);
   const results = await mapLimit(urls, 12, (url) => saveImage(url, topBirthdayUrls.includes(url) ? 'top_json' : 'scan'));
   const savedMap = new Map();
   for (const item of results.filter(Boolean).filter((item) => !item.error)) {
     savedMap.set(item.path, item);
+  }
+  if (month && fs.existsSync(MANIFEST)) {
+    const previous = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
+    for (const item of previous.items || []) if (!savedMap.has(item.path)) savedMap.set(item.path, item);
   }
   const saved = [...savedMap.values()];
   saved.sort((a, b) => a.date.localeCompare(b.date) || a.slug.localeCompare(b.slug));

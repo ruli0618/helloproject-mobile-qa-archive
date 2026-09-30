@@ -109,6 +109,33 @@
     },
 
 
+    {
+        "release_date": "2026/09/01 00:00:00", 
+        "end_date": "2026/09/01 23:59:59",
+        "image": "/images/top-flickpic/260901_matsumoto.jpg?20260901"
+    },
+    {
+        "release_date": "2026/09/09 00:00:00",
+        "end_date": "2026/09/09 23:59:59",
+        "image": "/images/top-flickpic/260909_ishikawa.jpg?20260909"
+    },
+    {
+        "release_date": "2026/09/22 00:00:00", 
+        "end_date": "2026/09/22 23:59:59",
+        "image": "/images/top-flickpic/260922_satoyoshi.jpg?20260922"
+    },
+    {
+        "release_date": "2026/09/28 00:00:00", 
+        "end_date": "2026/09/28 23:59:59",
+        "image": "/images/top-flickpic/260928_kudo.jpg?20260928"
+    },
+    {
+        "release_date": "2026/09/29 00:00:00", 
+        "end_date": "2026/09/29 23:59:59",
+        "image": "/images/top-flickpic/260929_ono.jpg?20260929"
+    },
+
+
 
      {
         "release_date": "2026/01/01 00:00:00", 
@@ -155,7 +182,7 @@
     },
         {
         "release_date": "2019/01/01 00:00:00", 
-        "image": "/images/top-flickpic/12.jpg?20250609"
+        "image": "/images/top-flickpic/12.jpg?20260907"
     },
     	{
         "release_date": "2023/01/01 00:00:01", 

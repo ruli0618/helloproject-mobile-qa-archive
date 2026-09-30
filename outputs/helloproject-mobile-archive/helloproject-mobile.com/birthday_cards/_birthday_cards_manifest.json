@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T04:37:44.385Z",
-  "candidates": 2962,
-  "saved_count": 481,
+  "generated_at": "2026-09-30T14:27:52.427Z",
+  "candidates": 16,
+  "saved_count": 486,
   "first": "2016-01-07",
-  "last": "2026-08-30",
+  "last": "2026-09-29",
   "items": [
     {
       "year": 2016,
@@ -5776,6 +5776,66 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-08-30_kitahara.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2026,
+      "mmdd": "0901",
+      "date": "2026-09-01",
+      "slug": "matsumoto",
+      "ext": "jpg",
+      "fileName": "260901_matsumoto.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/260901_matsumoto.jpg?260901",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-09-01_matsumoto.jpg",
+      "source": "scan",
+      "bytes": 116833
+    },
+    {
+      "year": 2026,
+      "mmdd": "0909",
+      "date": "2026-09-09",
+      "slug": "ishikawa",
+      "ext": "jpg",
+      "fileName": "260909_ishikawa.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/260909_ishikawa.jpg?260909",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-09-09_ishikawa.jpg",
+      "source": "scan",
+      "bytes": 134843
+    },
+    {
+      "year": 2026,
+      "mmdd": "0922",
+      "date": "2026-09-22",
+      "slug": "satoyoshi",
+      "ext": "jpg",
+      "fileName": "260922_satoyoshi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/260922_satoyoshi.jpg?260922",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-09-22_satoyoshi.jpg",
+      "source": "scan",
+      "bytes": 123389
+    },
+    {
+      "year": 2026,
+      "mmdd": "0928",
+      "date": "2026-09-28",
+      "slug": "kudo",
+      "ext": "jpg",
+      "fileName": "260928_kudo.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/260928_kudo.jpg?260928",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-09-28_kudo.jpg",
+      "source": "scan",
+      "bytes": 109751
+    },
+    {
+      "year": 2026,
+      "mmdd": "0929",
+      "date": "2026-09-29",
+      "slug": "ono",
+      "ext": "jpg",
+      "fileName": "260929_ono.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/260929_ono.jpg?260929",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2026\\2026-09-29_ono.jpg",
+      "source": "scan",
+      "bytes": 110009
     }
   ]
 }

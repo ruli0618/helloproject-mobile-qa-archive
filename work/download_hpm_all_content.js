@@ -85,15 +85,20 @@ async function saveMaterial(dir, item, material) {
 function renderBody(text, materialFiles) {
   const names = new Map(materialFiles.map(file => [path.basename(file).split('_').slice(2).join('_'), file]));
   let body = esc(text).replace(/\r\n?/g, '\n').replace(/\n/g, '<br>');
+  body = body.replace(/&lt;img\s+src=&quot;\/emoji\/emoji-images\/([A-Za-z0-9_-]+\.gif)&quot;\s*\/?&gt;/gi,
+    (original, name) => fs.existsSync(path.join(OUT, 'emoji', name))
+      ? `<img src="../emoji/${name}" alt="絵文字" style="display:inline;width:auto;height:1.1em;max-width:none;max-height:none;vertical-align:-.15em">`
+      : original);
   for (const [name, local] of names) {
-    if (name) body = body.replaceAll(esc(name), `<img loading="lazy" src="${esc(local)}" alt="">`);
+    if (name) body = body.replaceAll(esc(name), `<a class="photo" style="width:min(100%,560px)" href="${esc(local)}"><img loading="lazy" src="${esc(local)}" alt=""></a>`);
   }
   return body;
 }
 
 function writeIndex(dir, label, entries) {
   const cards = entries.slice().sort((a, b) => String(b.release_date || '').localeCompare(String(a.release_date || ''))).map(entry => {
-    const media = (entry.saved_materials || []).map(file => `<a class="photo" href="${esc(file)}"><img loading="lazy" src="${esc(file)}" alt="${esc(entry.content_title)}"></a>`).join('');
+    const media = (entry.saved_materials || []).filter(file => !String(entry.content_text || '').includes(path.basename(file).split('_').slice(2).join('_')))
+      .map(file => `<a class="photo" href="${esc(file)}"><img loading="lazy" src="${esc(file)}" alt="${esc(entry.content_title)}"></a>`).join('');
     const missing = (entry.unavailable_materials || []).length;
     return `<article class="entry" data-search="${esc(`${entry.content_title} ${entry.content_sub_title} ${entry.content_text}`)}"><div class="date">${esc((entry.release_date || '').slice(0, 10))}</div><h2>${esc(entry.content_title || '（無題）')}</h2>${entry.content_sub_title ? `<div class="member">${esc(entry.content_sub_title)}</div>` : ''}<div class="body">${renderBody(entry.content_text || '', entry.saved_materials || [])}</div>${media ? `<div class="media">${media}</div>` : ''}${missing ? `<div class="missing-media">画像${missing}枚は公式サイトから取得できませんでした</div>` : ''}</article>`;
   }).join('\n');
