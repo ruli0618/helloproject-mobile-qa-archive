@@ -85,7 +85,7 @@ const memberLabels = {
 };
 
 const memberOrder = {
-  morningmusume: ['ikuta', 'oda', 'nonaka', 'makino', 'haga', 'yokoyama', 'kitagawa', 'okamura', 'yamazaki', 'sakurai', 'inoue', 'yumigeta'],
+  morningmusume: ['ikuta', 'oda', 'nonaka', 'makino', 'haga', 'yokoyama', 'kitagawa', 'okamura', 'yamazaki', 'sakurai', 'inoue', 'yumigeta', 'sugihara', 'yasuda', 'suzuki', 'ishikawa'],
   angerme: ['kamikokuryo', 'ise', 'hashisako', 'kawana', 'tamenaga', 'matsumoto', 'hirayama', 'shimoitani', 'goto', 'nagano'],
   juicejuice: ['dambara', 'inoue', 'kudo', 'matsunaga', 'arisawa', 'irie', 'ebata', 'ishiyama', 'endo', 'kawashima', 'hayashi'],
   tsubakifactory: ['tanimoto', 'ono', 'onoda', 'akiyama', 'kasai', 'yagi', 'fukuda', 'yofuu', 'ishii', 'murata', 'doi'],
@@ -99,14 +99,17 @@ function orderIndex(list, value) {
   return index === -1 ? 999 : index;
 }
 
-function specialSortKey(file) {
+function specialSortKey(file, eventKey) {
   const rel = path.relative(path.join(OUT, 'assets', 'images', 'special'), file).replace(/\\/g, '/');
   const parts = rel.split('/');
   const group = parts.find(part => groupOrder.includes(part)) || '';
   const rawMember = path.basename(file, path.extname(file));
   const numbered = rawMember.match(/^(\d+)_/);
   const member = rawMember.replace(/^\d+_/, '');
-  const memberRank = numbered ? Number(numbered[1]) - 1 : orderIndex(memberOrder[group] || [], member);
+  const countdownMember = member.replace(/\d+$/, '');
+  const memberRank = eventKey === 'countdown2026'
+    ? (numbered ? Number(numbered[1]) - 1 : orderIndex(memberOrder[group] || [], countdownMember))
+    : (numbered ? Number(numbered[1]) - 1 : orderIndex(memberOrder[group] || [], member));
   return [
     String(orderIndex(groupOrder, group)).padStart(3, '0'),
     String(memberRank).padStart(3, '0'),
@@ -121,21 +124,23 @@ function groupFromImageSrc(src) {
   return decoded.split('/').find(part => groupOrder.includes(part)) || '';
 }
 
-function countdownCaption(file) {
+function countdownDetails(file) {
   const relative = path.relative(path.join(OUT, 'assets', 'images', 'special', 'countdown2026'), file);
   const parts = relative.split(path.sep);
-  if (parts.length !== 2) return '';
+  if (parts.length !== 2) return {};
   const member = path.basename(parts[1], path.extname(parts[1])).replace(/^\d+_/, '').replace(/\d+$/, '');
   const page = path.join(OUT, 'pages', 'countdown2026', parts[0], `${member}.html`);
-  if (!fs.existsSync(page)) return '';
+  if (!fs.existsSync(page)) return {};
   const html = fs.readFileSync(page, 'utf8');
-  const match = html.match(/<div\s+class=["']list_centertitle["'][^>]*>[\s\S]*?<span[^>]*>([\s\S]*?)<\/span>/i);
-  if (!match) return '';
-  return match[1].replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, '')
+  const name = html.match(/<div\s+class=["']sp_centertitle["'][^>]*>([\s\S]*?)<\/div>/i)?.[1]
+    .replace(/<[^>]+>/g, '').trim();
+  const caption = html.match(/<div\s+class=["']list_centertitle["'][^>]*>[\s\S]*?<span[^>]*>([\s\S]*?)<\/span>/i)?.[1];
+  const cleanCaption = (caption || '').replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, '')
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
     .replace(/&#x([\da-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
     .replace(/&(?:nbsp|amp|lt|gt|quot|#39);/g, value => ({ '&nbsp;': ' ', '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'" })[value])
     .replace(/[ \t]+/g, ' ').replace(/\n\s+/g, '\n').trim();
+  return { title: name || '', caption: cleanCaption };
 }
 
 function renderGallery(images) {
@@ -155,8 +160,11 @@ function renderGallery(images) {
 
 function eventImages(key) {
   return walkFiles(path.join(OUT, 'assets', 'images', 'special', key), file => /\.(png|jpe?g|gif|webp)$/i.test(file))
-    .sort((a, b) => specialSortKey(a).localeCompare(specialSortKey(b), 'ja'))
-    .map(file => ({ src: relFromOut(file), title: imageTitle(file), caption: key === 'countdown2026' ? countdownCaption(file) : '' }));
+    .sort((a, b) => specialSortKey(a, key).localeCompare(specialSortKey(b, key), 'ja'))
+    .map(file => {
+      const details = key === 'countdown2026' ? countdownDetails(file) : {};
+      return { src: relFromOut(file), title: details.title || imageTitle(file), caption: details.caption || '' };
+    });
 }
 
 const curatedEvents = [
