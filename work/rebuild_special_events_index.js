@@ -40,9 +40,9 @@ function relFromOut(file) {
 function imageTitle(file) {
   const rel = path.relative(path.join(OUT, 'assets', 'images', 'special'), file).replace(/\\/g, '/');
   const parts = rel.split('/');
-  const base = path.basename(file, path.extname(file));
-  if (parts.length >= 3) return `${parts[1]} / ${base}`;
-  return base;
+  const base = path.basename(file, path.extname(file)).replace(/^\d+_/, '');
+  const label = memberLabels[base] || (base === 'top' ? '特集トップ' : base);
+  return groupLabels[parts[0]] ? `${groupLabels[parts[0]]}・${label}` : label;
 }
 
 const groupOrder = [
@@ -63,6 +63,25 @@ const groupLabels = {
   beyooooonds: 'BEYOOOOONDS',
   ochanorma: 'OCHA NORMA',
   rosychronicle: 'ロージークロニクル',
+};
+
+const memberLabels = {
+  ikuta: '生田衣梨奈', oda: '小田さくら', nonaka: '野中美希', makino: '牧野真莉愛', haga: '羽賀朱音',
+  yokoyama: '横山玲奈', kitagawa: '北川莉央', okamura: '岡村ほまれ', yamazaki: '山﨑愛生', sakurai: '櫻井梨央',
+  inoue: '井上春華', yumigeta: '弓桁朱琴', sugihara: '杉原明紗', yasuda: '保田圭', suzuki: '鈴木香音', ishikawa: '石川梨華',
+  kamikokuryo: '上國料萌衣', ise: '伊勢鈴蘭', hashisako: '橋迫鈴', kawana: '川名凜', tamenaga: '為永幸音',
+  matsumoto: '松本わかな', hirayama: '平山遊季', shimoitani: '下井谷幸穂', goto: '後藤花', nagano: '長野桃羽',
+  dambara: '段原瑠々', kudo: '工藤由愛', matsunaga: '松永里愛', arisawa: '有澤一華', irie: '入江里咲', ebata: '江端妃咲',
+  ishiyama: '石山咲良', endo: '遠藤彩加里', kawashima: '川嶋美楓', hayashi: '林仁愛',
+  tanimoto: '谷本安美', ono: '小野瑞歩', onoda: '小野田紗栞', akiyama: '秋山眞緒', kasai: '河西結心',
+  fukuda: '福田真琳', yofu: '豫風瑠乃', ishii: '石井泉羽', murata: '村田結生', doi: '土居楓奏', nishimura: '西村乙輝',
+  takase: '高瀬くるみ', maeda: '前田こころ', nishida: '西田汐里', eguchi: '江口紗耶', kiyono: '清野桃々姫',
+  hirai: '平井美葉', kobayashi: '小林萌花', satoyoshi: '里吉うたの',
+  saito: '斉藤円香', hiromoto: '広本瑠璃', hiromoto1: '広本瑠璃', hiromoto2: '広本瑠璃', yonemura: '米村姫良々',
+  kubota: '窪田七海', nakayama: '中山夏月姫', nishizaki: '西﨑美空', kitahara: '北原もも', tsutsui: '筒井澪心',
+  hashida: '橋田歩果', yoshida: '吉田姫杷', murakoshi: '村越彩菜', uemura: '植村葉純', matsubara: '松原ユリヤ',
+  shimakawa: '島川波菜', soma: '相馬優芽', kamimura: '上村麗菜', souma: '相馬優芽', yamazaki1: '山﨑愛生', yamazaki2: '山﨑愛生',
+  goto: '後藤花', kojima: '小島楓', otsubo: '大坪茉乃', sugitama: '杉山', top: '特集トップ',
 };
 
 const memberOrder = {
@@ -124,6 +143,7 @@ function eventImages(key) {
 }
 
 const events = [
+  { key: 'countdown2026', title: 'カウントダウン特設 2026', date: '2026', href: 'pages/countdown2026/index.html', color: '#d15f2f' },
   { key: 'syotyuumimai_2026', title: '暑中見舞い 2026', date: '2026', href: 'pages/syotyuumimai_2026/index.html', color: '#0b7fab' },
   { key: 'syotyuumimai_2025', title: '暑中見舞い 2025', date: '2025', href: 'pages/syotyuumimai_2025/index.html', color: '#0b7fab' },
   { key: 'xmas_2025', title: 'クリスマス 2025', date: '2025', href: 'pages/xmas_2025/index.html', color: '#d15f2f' },
@@ -145,9 +165,8 @@ const cards = events.map((item, index) => `<article class="event-card" id="event
     <div>
       <div class="date">${esc(item.date)}</div>
       <h2>${esc(item.title)}</h2>
-      <p class="path">${item.images.length}枚 / 元ページ: ${esc(item.href)}</p>
+      <p class="path">${item.images.length}枚</p>
     </div>
-    <a class="source" href="${esc(item.href)}">元ページ</a>
   </header>
   ${renderGallery(item.images)}
 </article>`).join('\n');
