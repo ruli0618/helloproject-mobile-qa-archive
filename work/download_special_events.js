@@ -5,7 +5,7 @@ const ROOT = 'http://helloproject-mobile.com';
 const OUT = path.join('outputs', 'helloproject-mobile-archive', 'helloproject-mobile.com', 'special_events');
 const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1';
 
-const EVENT_RE = /(暑中|syotyu|shochu|年賀|年始|年末|nenshi|nenmatsu|nenga|newyear|クリスマス|christmas|xmas|ハロウィン|halloween|バレンタイン|valentine|ホワイトデー|white)/i;
+const EVENT_RE = /(暑中|syotyu|shochu|年賀|年始|年末|nenshi|nenmatsu|nenga|newyear|カウントダウン|countdown|クリスマス|christmas|xmas|ハロウィン|halloween|バレンタイン|valentine|ホワイトデー|white)/i;
 const DISCOVERED_SEASONAL_PAGES = [
   { content_title: '暑中見舞い特設 2025', content_sub_title: 'syotyuumimai_2025/index.html', release_date: '2025', content_id: 'discovered-syotyuumimai-2025' },
   { content_title: 'クリスマス特集 2025', content_sub_title: 'xmas_2025/index.html', release_date: '2025', content_id: 'discovered-xmas-2025' },
