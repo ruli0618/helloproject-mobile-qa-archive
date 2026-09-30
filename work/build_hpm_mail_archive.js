@@ -299,8 +299,10 @@ async function main() {
     let html = findHtmlPart(payload) || item.html || '';
     html = stripMailFooter(html);
     if (shouldSkipMessage(subject, html)) continue;
-    html = await localizeImages(html, stem);
-    html = await convertSpmessageLinks(html, stem);
+    if (!String(item.id || '').startsWith('archive-')) {
+      html = await localizeImages(html, stem);
+      html = await convertSpmessageLinks(html, stem);
+    }
     const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
     const member = subject.replace(/^\s*From☆\s*/, '').trim() || '不明';
     messages.push({ date, subject, member, html, searchText: `${date} ${subject} ${member} ${text}` });

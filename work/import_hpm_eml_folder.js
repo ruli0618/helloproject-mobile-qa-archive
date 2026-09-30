@@ -200,7 +200,10 @@ function main() {
     messages.push({ id, subject, date, html, source_file: file });
   }
   const merged = new Map(readArchivedMessages().map((message) => [messageKey(message), message]));
-  for (const message of messages) merged.set(messageKey(message), message);
+  for (const message of messages) {
+    const key = messageKey(message);
+    if (!merged.has(key)) merged.set(key, message);
+  }
   const allMessages = [...merged.values()];
   fs.writeFileSync(OUT_JSON, JSON.stringify(allMessages, null, 2), 'utf8');
   console.log(`merged ${messages.length} EML messages into ${allMessages.length} total messages`);
