@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { repairPhotoLabels } = require('./repair_hpm_mail_photo_labels');
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
@@ -303,8 +304,9 @@ async function main() {
       html = await localizeImages(html, stem);
       html = await convertSpmessageLinks(html, stem);
     }
-    const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
     const member = subject.replace(/^\s*From☆\s*/, '').trim() || '不明';
+    html = repairPhotoLabels(html, member, date).html;
+    const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
     messages.push({ date, subject, member, html, searchText: `${date} ${subject} ${member} ${text}` });
   }
   messages.sort((a, b) => `${b.date} ${b.subject}`.localeCompare(`${a.date} ${a.subject}`, 'ja'));
