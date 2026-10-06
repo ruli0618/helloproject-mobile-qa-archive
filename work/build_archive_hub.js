@@ -20,6 +20,7 @@ const names2026 = {
 };
 function birthdayLabel(year, file) {
   const slug = file.replace(/\.[^.]+$/, '').replace(/^\d{4}-\d{2}-\d{2}_/, '');
+  if (slug === 'okamura' && file.includes('-05-09_')) return '岡村ほまれ';
   if (year === '2026' && slug === 'inoue') return file.includes('-05-06_') ? '井上春華' : '井上玲音';
   return year === '2026' ? names2026[slug] || slug : slug.replace(/[_-]+/g, ' ');
 }

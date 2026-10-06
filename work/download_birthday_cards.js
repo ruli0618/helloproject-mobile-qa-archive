@@ -29,7 +29,7 @@ const seeds = [
   ['0307', 'haga'], ['0312', 'oda'], ['0316', 'kitagawa'], ['0323', 'dambara'],
   ['0324', 'kitahara'], ['0327', 'kobayashi'], ['0412', 'yagi'], ['0419', 'sato'],
   ['0420', 'ishiguri'], ['0430', 'yoneyama'], ['0507', 'sasaki'], ['0507', 'danbara'],
-  ['0509', 'sakurai'], ['0510', 'funa'], ['0516', 'saito'], ['0528', 'sayashi'],
+  ['0509', 'okamura'], ['0509', 'sakurai'], ['0510', 'funa'], ['0516', 'saito'], ['0528', 'sayashi'],
   ['0604', 'sato'], ['0612', 'murota'], ['0617', 'tsugunaga'], ['0620', 'okamura'],
   ['0701', 'kanazawa'], ['0702', 'kanemitsu'], ['0707', 'kawamura'], ['0707', 'ikuta'],
   ['0708', 'yoshida'], ['0715', 'hashisako'], ['0717', 'inoue'], ['0720', 'nakajima'],
@@ -162,6 +162,7 @@ async function mapLimit(items, limit, fn) {
 async function main() {
   mkdirp(OUT);
   const month = process.argv.find(arg => /^--month=\d{4}-\d{2}$/.test(arg))?.slice(8) || '';
+  const mmdd = process.argv.find(arg => /^--mmdd=\d{4}$/.test(arg))?.slice(7) || '';
   const topJsonUrl = 'https://helloproject-mobile.com/json_data/top_flick_images.json';
   const topJson = await request(topJsonUrl);
   fs.writeFileSync(path.join(OUT, '_top_flick_images.json'), topJson.body);
@@ -186,14 +187,17 @@ async function main() {
     }
   }
 
-  const urls = [...candidates].filter(url => !month || birthdayInfoFromUrl(url)?.date.startsWith(month)).sort();
+  const urls = [...candidates].filter(url => {
+    const info = birthdayInfoFromUrl(url);
+    return (!month || info?.date.startsWith(month)) && (!mmdd || info?.mmdd === mmdd);
+  }).sort();
   console.log(`candidates=${urls.length}`);
   const results = await mapLimit(urls, 12, (url) => saveImage(url, topBirthdayUrls.includes(url) ? 'top_json' : 'scan'));
   const savedMap = new Map();
   for (const item of results.filter(Boolean).filter((item) => !item.error)) {
     savedMap.set(item.path, item);
   }
-  if (month && fs.existsSync(MANIFEST)) {
+  if ((month || mmdd) && fs.existsSync(MANIFEST)) {
     const previous = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
     for (const item of previous.items || []) if (!savedMap.has(item.path)) savedMap.set(item.path, item);
   }
