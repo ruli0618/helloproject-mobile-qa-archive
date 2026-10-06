@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:58:27.752Z",
-  "candidates": 51,
-  "saved_count": 498,
+  "generated_at": "2026-10-06T03:13:02.869Z",
+  "candidates": 3137,
+  "saved_count": 527,
   "first": "2016-01-07",
   "last": "2026-09-29",
   "items": [
@@ -198,6 +198,18 @@
     },
     {
       "year": 2018,
+      "mmdd": "0801",
+      "date": "2018-08-01",
+      "slug": "wada",
+      "ext": "jpg",
+      "fileName": "180801_wada.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/180801_wada.jpg?180801",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-08-01_wada.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2018,
       "mmdd": "0804",
       "date": "2018-08-04",
       "slug": "hirose",
@@ -314,7 +326,7 @@
       "url": "https://helloproject-mobile.com/images/top-flickpic/181105_ogata.jpg?181105",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-11-05_ogata.jpg",
       "source": "scan",
-      "bytes": 42272
+      "skipped": true
     },
     {
       "year": 2018,
@@ -349,6 +361,18 @@
       "fileName": "181116_tanimoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/181116_tanimoto.jpg?181116",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-11-16_tanimoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2018,
+      "mmdd": "1123",
+      "date": "2018-11-23",
+      "slug": "takeuchi",
+      "ext": "jpg",
+      "fileName": "181123_takeuchi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/181123_takeuchi.jpg?181123",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-11-23_takeuchi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -656,6 +680,18 @@
       "year": 2019,
       "mmdd": "0507",
       "date": "2019-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "190507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/190507_dambara.jpg?190507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2019,
+      "mmdd": "0507",
+      "date": "2019-05-07",
       "slug": "danbara",
       "ext": "jpg",
       "fileName": "190507_danbara.jpg",
@@ -870,6 +906,18 @@
     },
     {
       "year": 2019,
+      "mmdd": "0820",
+      "date": "2019-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "190820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/190820_shimakura.jpg?190820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2019,
       "mmdd": "0903",
       "date": "2019-09-03",
       "slug": "asakura",
@@ -978,6 +1026,18 @@
     },
     {
       "year": 2019,
+      "mmdd": "1021",
+      "date": "2019-10-21",
+      "slug": "oota",
+      "ext": "jpg",
+      "fileName": "191021_oota.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/191021_oota.jpg?191021",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-10-21_oota.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2019,
       "mmdd": "1022",
       "date": "2019-10-22",
       "slug": "kasahara",
@@ -1022,7 +1082,7 @@
       "url": "https://helloproject-mobile.com/images/top-flickpic/191105_ogata.jpg?191105",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-11-05_ogata.jpg",
       "source": "scan",
-      "bytes": 74148
+      "skipped": true
     },
     {
       "year": 2019,
@@ -1045,6 +1105,18 @@
       "fileName": "191116_tanimoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/191116_tanimoto.jpg?191116",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-11-16_tanimoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2019,
+      "mmdd": "1123",
+      "date": "2019-11-23",
+      "slug": "takeuchi",
+      "ext": "jpg",
+      "fileName": "191123_takeuchi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/191123_takeuchi.jpg?191123",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-11-23_takeuchi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -1316,6 +1388,18 @@
       "year": 2020,
       "mmdd": "0507",
       "date": "2020-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "200507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/200507_dambara.jpg?200507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2020,
+      "mmdd": "0507",
+      "date": "2020-05-07",
       "slug": "sato",
       "ext": "jpg",
       "fileName": "200507_sato.jpg",
@@ -1494,6 +1578,18 @@
     },
     {
       "year": 2020,
+      "mmdd": "0820",
+      "date": "2020-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "200820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/200820_shimakura.jpg?200820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2020,
       "mmdd": "0903",
       "date": "2020-09-03",
       "slug": "asakura",
@@ -1634,7 +1730,7 @@
       "url": "https://helloproject-mobile.com/images/top-flickpic/201105_ogata.jpg?201105",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-11-05_ogata.jpg",
       "source": "scan",
-      "bytes": 198756
+      "skipped": true
     },
     {
       "year": 2020,
@@ -1657,6 +1753,18 @@
       "fileName": "201116_tanimoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/201116_tanimoto.jpg?201116",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-11-16_tanimoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2020,
+      "mmdd": "1123",
+      "date": "2020-11-23",
+      "slug": "takeuchi",
+      "ext": "jpg",
+      "fileName": "201123_takeuchi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/201123_takeuchi.jpg?201123",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-11-23_takeuchi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -1892,6 +2000,18 @@
       "year": 2021,
       "mmdd": "0507",
       "date": "2021-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "210507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/210507_dambara.jpg?210507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2021,
+      "mmdd": "0507",
+      "date": "2021-05-07",
       "slug": "sato",
       "ext": "jpg",
       "fileName": "210507_sato.jpg",
@@ -2070,6 +2190,18 @@
     },
     {
       "year": 2021,
+      "mmdd": "0820",
+      "date": "2021-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "210820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/210820_shimakura.jpg?210820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2021,
       "mmdd": "0901",
       "date": "2021-09-01",
       "slug": "matsumoto",
@@ -2089,6 +2221,18 @@
       "fileName": "210903_asakura.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/210903_asakura.jpg?210903",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-09-03_asakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2021,
+      "mmdd": "0919",
+      "date": "2021-09-19",
+      "slug": "yagi",
+      "ext": "jpg",
+      "fileName": "210919_yagi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/210919_yagi.jpg?210919",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-09-19_yagi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -2257,6 +2401,18 @@
       "fileName": "211116_tanimoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/211116_tanimoto.jpg?211116",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-11-16_tanimoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2021,
+      "mmdd": "1123",
+      "date": "2021-11-23",
+      "slug": "takeuchi",
+      "ext": "jpg",
+      "fileName": "211123_takeuchi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/211123_takeuchi.jpg?211123",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2021\\2021-11-23_takeuchi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -2574,6 +2730,18 @@
     },
     {
       "year": 2022,
+      "mmdd": "0507",
+      "date": "2022-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "220507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/220507_dambara.jpg?220507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2022,
       "mmdd": "0509",
       "date": "2022-05-09",
       "slug": "okamura",
@@ -2605,6 +2773,18 @@
       "fileName": "220607_nishida.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/220607_nishida.jpg?220607",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-06-07_nishida.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2022,
+      "mmdd": "0616",
+      "date": "2022-06-16",
+      "slug": "tashiro",
+      "ext": "jpg",
+      "fileName": "220616_tashiro.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/220616_tashiro.jpg?220616",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-06-16_tashiro.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -2790,6 +2970,18 @@
     },
     {
       "year": 2022,
+      "mmdd": "0820",
+      "date": "2022-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "220820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/220820_shimakura.jpg?220820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2022,
       "mmdd": "0830",
       "date": "2022-08-30",
       "slug": "kitahara",
@@ -2821,6 +3013,18 @@
       "fileName": "220903_asakura.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/220903_asakura.jpg?220903",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-09-03_asakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2022,
+      "mmdd": "0919",
+      "date": "2022-09-19",
+      "slug": "yagi",
+      "ext": "jpg",
+      "fileName": "220919_yagi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/220919_yagi.jpg?220919",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-09-19_yagi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -3001,6 +3205,18 @@
       "fileName": "221116_tanimoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/221116_tanimoto.jpg?221116",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-11-16_tanimoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2022,
+      "mmdd": "1123",
+      "date": "2022-11-23",
+      "slug": "takeuchi",
+      "ext": "jpg",
+      "fileName": "221123_takeuchi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/221123_takeuchi.jpg?221123",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2022\\2022-11-23_takeuchi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -3318,6 +3534,18 @@
     },
     {
       "year": 2023,
+      "mmdd": "0507",
+      "date": "2023-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "230507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/230507_dambara.jpg?230507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2023,
       "mmdd": "0509",
       "date": "2023-05-09",
       "slug": "okamura",
@@ -3361,6 +3589,18 @@
       "fileName": "230607_nishida.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/230607_nishida.jpg?230607",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-06-07_nishida.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2023,
+      "mmdd": "0616",
+      "date": "2023-06-16",
+      "slug": "tashiro",
+      "ext": "jpg",
+      "fileName": "230616_tashiro.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/230616_tashiro.jpg?230616",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-06-16_tashiro.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -3570,6 +3810,18 @@
     },
     {
       "year": 2023,
+      "mmdd": "0820",
+      "date": "2023-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "230820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/230820_shimakura.jpg?230820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2023,
       "mmdd": "0830",
       "date": "2023-08-30",
       "slug": "kitahara",
@@ -3589,6 +3841,18 @@
       "fileName": "230901_matsumoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/230901_matsumoto.jpg?230901",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-09-01_matsumoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2023,
+      "mmdd": "0919",
+      "date": "2023-09-19",
+      "slug": "yagi",
+      "ext": "jpg",
+      "fileName": "230919_yagi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/230919_yagi.jpg?230919",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-09-19_yagi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -3817,6 +4081,18 @@
       "fileName": "231217_onoda.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/231217_onoda.jpg?231217",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-12-17_onoda.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2023,
+      "mmdd": "1220",
+      "date": "2023-12-20",
+      "slug": "yohu",
+      "ext": "jpg",
+      "fileName": "231220_yohu.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/231220_yohu.jpg?231220",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2023\\2023-12-20_yohu.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -4086,6 +4362,18 @@
     },
     {
       "year": 2024,
+      "mmdd": "0507",
+      "date": "2024-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "240507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/240507_dambara.jpg?240507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-05-07_dambara.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2024,
       "mmdd": "0509",
       "date": "2024-05-09",
       "slug": "okamura",
@@ -4129,6 +4417,18 @@
       "fileName": "240607_nishida.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/240607_nishida.jpg?240607",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-06-07_nishida.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2024,
+      "mmdd": "0616",
+      "date": "2024-06-16",
+      "slug": "tashiro",
+      "ext": "jpg",
+      "fileName": "240616_tashiro.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/240616_tashiro.jpg?240616",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-06-16_tashiro.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -4350,6 +4650,18 @@
     },
     {
       "year": 2024,
+      "mmdd": "0820",
+      "date": "2024-08-20",
+      "slug": "shimakura",
+      "ext": "jpg",
+      "fileName": "240820_shimakura.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/240820_shimakura.jpg?240820",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-08-20_shimakura.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2024,
       "mmdd": "0830",
       "date": "2024-08-30",
       "slug": "kitahara",
@@ -4369,6 +4681,18 @@
       "fileName": "240901_matsumoto.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/240901_matsumoto.jpg?240901",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-09-01_matsumoto.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2024,
+      "mmdd": "0919",
+      "date": "2024-09-19",
+      "slug": "yagi",
+      "ext": "jpg",
+      "fileName": "240919_yagi.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/240919_yagi.jpg?240919",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-09-19_yagi.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -4585,6 +4909,18 @@
       "fileName": "241217_onoda.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/241217_onoda.jpg?241217",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-12-17_onoda.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2024,
+      "mmdd": "1220",
+      "date": "2024-12-20",
+      "slug": "yohu",
+      "ext": "jpg",
+      "fileName": "241220_yohu.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/241220_yohu.jpg?241220",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2024\\2024-12-20_yohu.jpg",
       "source": "scan",
       "skipped": true
     },
@@ -4861,6 +5197,18 @@
       "fileName": "250506_inoue.jpg",
       "url": "https://helloproject-mobile.com/images/top-flickpic/250506_inoue.jpg?250506",
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2025\\2025-05-06_inoue.jpg",
+      "source": "scan",
+      "skipped": true
+    },
+    {
+      "year": 2025,
+      "mmdd": "0507",
+      "date": "2025-05-07",
+      "slug": "dambara",
+      "ext": "jpg",
+      "fileName": "250507_dambara.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/250507_dambara.jpg?250507",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2025\\2025-05-07_dambara.jpg",
       "source": "scan",
       "skipped": true
     },

@@ -1,0 +1,73 @@
+# バースデーカード再監査 (2026-10-06)
+
+## 調査範囲と限界
+
+- ローカルのカード、Q&Aの回答者、メール送信者を照合した。Q&Aとメールに現れる名前は表記の前後空白を除くと119人。
+- 保存済みのカードからも日付とURL名の候補を作り、2016～2026年を対象に、モバイルUAで既知の画像URL形式を3,137件再照合した。
+- 一覧には527枚、110人分。全527枚が画像として開け、一覧のリンク切れは0件。
+- この調査でいう「画像なし」は**試したURLがHTMLを返した**という意味。別の未知のURL名や過去の別サーバーにも画像がない、とまでは証明できない。
+- カードの存在が判明した新規の画像はすべて保存した。今も「画像が取得できるのに未保存」と確認されたものは0件。
+
+## 今回見つけて保存した画像 (29枚)
+
+| メンバー | 年 | 元画像URLの形式 | 枚数 |
+| --- | --- | --- | ---: |
+| 竹内朱莉 | 2018～2022 | `https://helloproject-mobile.com/images/top-flickpic/YY1123_takeuchi.jpg?YY1123` | 5 |
+| 島倉りか | 2019～2024 | `https://helloproject-mobile.com/images/top-flickpic/YY0820_shimakura.jpg?YY0820` | 6 |
+| 八木栞 | 2021～2024 | `https://helloproject-mobile.com/images/top-flickpic/YY0919_yagi.jpg?YY0919` | 4 |
+| 田代すみれ | 2022～2024 | `https://helloproject-mobile.com/images/top-flickpic/YY0616_tashiro.jpg?YY0616` | 3 |
+| 和田彩花 | 2018 | `https://helloproject-mobile.com/images/top-flickpic/180801_wada.jpg?180801` | 1 |
+| 太田遥香 | 2019 | `https://helloproject-mobile.com/images/top-flickpic/191021_oota.jpg?191021` | 1 |
+| 段原瑠々 | 2019～2025 | `https://helloproject-mobile.com/images/top-flickpic/YY0507_dambara.jpg?YY0507` | 7 |
+| 豫風瑠乃 | 2023～2024 | `https://helloproject-mobile.com/images/top-flickpic/YY1220_yohu.jpg?YY1220` | 2 |
+
+`YY` は西暦の下2桁。2019年の段原瑠々には、以前保存した `danbara` と今回発見した `dambara` の異なる画像が両方あるため、どちらも残した。
+
+## 保存済みだが通常の元URLは画像を返さないもの
+
+| カード | 保存の状態 | 試した元URL |
+| --- | --- | --- |
+| 石田亜佑美 2018-01-07 | スクリーンショット由来の画像を保存済み | https://helloproject-mobile.com/images/top-flickpic/180107_ishida.jpg?180107 |
+| 岡村ほまれ 2024-05-09 | 利用者が追加した画像を保存済み | https://helloproject-mobile.com/images/top-flickpic/240509_okamura.jpg?240509 |
+
+どちらも上記の通常URLを試すと画像ではなくHTMLになる。保存画像自体は一覧で開ける。
+
+## 前後の年にはあるが、この年は未保存
+
+| メンバー・年 | 試した通常URL | 結果 |
+| --- | --- | --- |
+| 石田亜佑美 2017 | https://helloproject-mobile.com/images/top-flickpic/170107_ishida.jpg?170107 | HTML。画像未発見 |
+| 稲場愛香 2020 | https://helloproject-mobile.com/images/top-flickpic/201227_inaba.jpg?201227 | HTML。`manaka`、`inabamanaka`、`inaba2` も画像なし |
+| 植村あかり 2020 | https://helloproject-mobile.com/images/top-flickpic/201230_uemura.jpg?201230 | HTML。`akari`、`uemuraakari`、`uemura_akari`、`uemura2` も画像なし |
+
+これは同一人物・同じ誕生日の**最初と最後の保存年の間**に生じた空白。加入前・卒業後の年は空白と数えない。2020年の植村あかりの通常URLが画像を返さないという利用者の指摘も確認した。
+
+## Q&A・メールにはいるが、カードが一枚もない名前 (10件)
+
+| 名前 | 確認結果 |
+| --- | --- |
+| 安田美結 | 2026年4月19日 `yasuda` は画像なし。2026年6月加入で、加入前の誕生日 |
+| 小島はな | 2026年2月26日 `kojima` は画像なし。2026年6月加入で、加入前の誕生日 |
+| 杉原明紗 | 2026年12月20日は調査時点で未来。2026年3月加入 |
+| 杉山結菜 | 2026年3月29日 `sugiyama` は画像なし。2026年6月加入で、加入前の誕生日 |
+| 大坪茉乃 | 2026年6月22日 `otsubo`、`ootsubo`、`mano`、`otsubomano` は画像なし。2026年6月16日加入後だが画像未発見 |
+| 鈴木もあ | 2026年4月12日 `suzuki` は画像なし。2026年6月加入で、加入前の誕生日 |
+| 中島早貴 | 2016～2026年の2月5日 `nakajima` は画像なし。℃-uteの旧メンバー |
+| 矢島舞美 | 2016～2026年の2月7日 `yajima` は画像なし。℃-uteの旧メンバー |
+| 鈴木愛理 | 2016～2026年の4月12日 `suzuki` は画像なし。℃-uteの旧メンバー |
+| 谷本亜美 | メール側の表記ゆれ。保存カードは正しい名前の「谷本安美」で存在 |
+
+旧メンバー3人については、記載した通常URL名の確認結果であり、未知の別URLまで否定するものではない。新加入メンバーの加入時期・誕生日はハロー！プロジェクト公式プロフィール・加入発表に照らした。
+
+- モーニング娘。新加入: https://helloproject.com/news/20505/
+- BEYOOOOONDS新加入: https://helloproject.com/news/20517/
+- 竹内朱莉プロフィール: https://www.jp-r.co.jp/akari_takeuchi/
+
+## 表示名の訂正
+
+- 2019年・2020年の `03-08_wada` は画像内に **SAKURAKO WADA** とあるため、表示を「和田桜子」に修正した。
+- 和田彩花は8月1日のカードで、2018年分を今回保存した。
+
+## 監査の残る限界
+
+Q&Aやメールに名前が出ていない過去のメンバー、予想できないURL名、未保存の2016～2017年のカード、別の画像ディレクトリは網羅できていない。このため、この報告は「サイトの全画像が揃った」という保証ではない。

@@ -19,7 +19,8 @@ const names2026 = {
   matsumoto:'松本わかな', ishikawa:'石川華望', satoyoshi:'里吉うたの', kudo:'工藤由愛', ono:'小野瑞歩',
 };
 const historicalNames = {
-  arisawa:'有澤一華', asakura:'浅倉樹々', danbara:'段原瑠々', doi:'土居楓奏', doi2:'土居楓奏',
+  arisawa:'有澤一華', asakura:'浅倉樹々', dambara:'段原瑠々', danbara:'段原瑠々',
+  doi:'土居楓奏', doi2:'土居楓奏',
   fukuda:'福田真琳', fukumura:'譜久村聖', funaki:'船木結', haga:'羽賀朱音', hamaura:'浜浦彩乃',
   hashida:'橋田歩果', hashisako:'橋迫鈴', hirai:'平井美葉', hirose:'広瀬彩海', ichioka:'一岡伶奈',
   iikubo:'飯窪春菜', ikuta:'生田衣梨奈', inaba:'稲場愛香', inoue:'井上玲音',
@@ -29,10 +30,12 @@ const historicalNames = {
   kawamura:'川村文乃', kawana:'川名凜', kawashima:'川嶋美楓', kishimoto:'岸本ゆめの',
   kitagawa:'北川莉央', kiyono:'清野桃々姫', miyamoto:'宮本佳林', miyazaki:'宮崎由加',
   morito:'森戸知沙希', murota:'室田瑞希', nakanishi:'中西香菜', niinuma:'新沼希空',
-  nishimura:'西村乙輝', nomura:'野村みな美', nonaka:'野中美希', ogata:'小片リサ', ozeki:'小関舞',
+  nishimura:'西村乙輝', nomura:'野村みな美', nonaka:'野中美希', ogata:'小片リサ',
+  oota:'太田遥香', ozeki:'小関舞',
   saito:'斉藤円香', sakurai:'櫻井梨央', sasaki:'佐々木莉佳子', sato:'佐藤優樹',
-  takagi:'高木紗友希', tanimoto:'谷本安美', uemura:'植村葉純', wada:'和田彩花',
-  yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yofu:'豫風瑠乃',
+  shimakura:'島倉りか', takagi:'高木紗友希', takeuchi:'竹内朱莉', tanimoto:'谷本安美',
+  tashiro:'田代すみれ', uemura:'植村葉純', yagi:'八木栞',
+  yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yofu:'豫風瑠乃', yohu:'豫風瑠乃',
   yokoyama:'横山玲奈', yonemura:'米村姫良々',
 };
 const namesByBirthday = {
@@ -42,6 +45,7 @@ const namesByBirthday = {
   '0506_inoue':'井上春華', '0717_inoue':'井上玲音',
   '0509_okamura':'岡村ほまれ', '1020_okamura':'岡村美波',
   '0628_yamazaki':'山﨑愛生', '1105_yamazaki':'山﨑夢羽',
+  '0308_wada':'和田桜子', '0801_wada':'和田彩花',
 };
 function birthdayLabel(year, file) {
   const match = file.match(/^\d{4}-(\d{2})-(\d{2})_(.+)\.(?:jpe?g|png|webp)$/i);
