@@ -19,9 +19,9 @@ const names2026 = {
   matsumoto:'松本わかな', ishikawa:'石川華望', satoyoshi:'里吉うたの', kudo:'工藤由愛', ono:'小野瑞歩',
 };
 const historicalNames = {
-  arisawa:'有澤一華', asakura:'浅倉樹々', dambara:'段原瑠々', danbara:'段原瑠々',
+  aikawa:'相川茉穂', arisawa:'有澤一華', asakura:'浅倉樹々', dambara:'段原瑠々', danbara:'段原瑠々',
   doi:'土居楓奏', doi2:'土居楓奏',
-  fukuda:'福田真琳', fukumura:'譜久村聖', funaki:'船木結', haga:'羽賀朱音', hamaura:'浜浦彩乃',
+  fujii:'藤井梨央', fukuda:'福田真琳', fukumura:'譜久村聖', funaki:'船木結', haga:'羽賀朱音', hagiwara:'萩原舞', hamaura:'浜浦彩乃',
   hashida:'橋田歩果', hashisako:'橋迫鈴', hirai:'平井美葉', hirose:'広瀬彩海', ichioka:'一岡伶奈',
   iikubo:'飯窪春菜', ikuta:'生田衣梨奈', inaba:'稲場愛香', inoue:'井上玲音',
   irie:'入江里咲', ishida:'石田亜佑美', 'ishida_from-screenshot':'石田亜佑美',
@@ -29,14 +29,14 @@ const historicalNames = {
   kamikokuryo:'上國料萌衣', kanazawa:'金澤朋子', kasahara:'笠原桃奈', katsuta:'勝田里奈',
   kawamura:'川村文乃', kawana:'川名凜', kawashima:'川嶋美楓', kishimoto:'岸本ゆめの',
   kitagawa:'北川莉央', kiyono:'清野桃々姫', miyamoto:'宮本佳林', miyazaki:'宮崎由加',
-  morito:'森戸知沙希', murota:'室田瑞希', nakanishi:'中西香菜', niinuma:'新沼希空',
+  morito:'森戸知沙希', murota:'室田瑞希', nakanishi:'中西香菜', nakajima:'中島早貴', niinuma:'新沼希空',
   nishimura:'西村乙輝', nomura:'野村みな美', nonaka:'野中美希', ogata:'小片リサ',
-  oota:'太田遥香', ozeki:'小関舞',
-  saito:'斉藤円香', sakurai:'櫻井梨央', sasaki:'佐々木莉佳子', sato:'佐藤優樹',
-  shimakura:'島倉りか', takagi:'高木紗友希', takeuchi:'竹内朱莉', tanimoto:'谷本安美',
+  oota:'太田遥香', ogawa:'小川麗奈', ozeki:'小関舞',
+  saito:'斉藤円香', sakurai:'櫻井梨央', sasaki:'佐々木莉佳子', sato:'佐藤優樹', sayashi:'鞘師里保',
+  shimakura:'島倉りか', takagi:'高木紗友希', taguchi:'田口夏実', takeuchi:'竹内朱莉', tanimoto:'谷本安美', tsugunaga:'嗣永桃子',
   tashiro:'田代すみれ', uemura:'植村葉純', yagi:'八木栞',
   yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yanagawa:'梁川奈々美', yofu:'豫風瑠乃', yohu:'豫風瑠乃',
-  yokoyama:'横山玲奈', yonemura:'米村姫良々',
+  yajima:'矢島舞美', yokoyama:'横山玲奈', yonemura:'米村姫良々',
 };
 const namesByBirthday = {
   '0107_ishida_from-screenshot':'石田亜佑美',
@@ -46,6 +46,8 @@ const namesByBirthday = {
   '0509_okamura':'岡村ほまれ', '1020_okamura':'岡村美波',
   '0628_yamazaki':'山﨑愛生', '1105_yamazaki':'山﨑夢羽',
   '0308_wada':'和田桜子', '0801_wada':'和田彩花',
+  '0412_suzuki':'鈴木愛理', '1027_kudo':'工藤遥',
+  '0215_ogata':'尾形春水', '1105_ogata':'小片リサ',
 };
 function birthdayLabel(year, file) {
   const match = file.match(/^\d{4}-(\d{2})-(\d{2})_(.+)\.(?:jpe?g|png|webp)$/i);

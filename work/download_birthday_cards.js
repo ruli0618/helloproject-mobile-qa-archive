@@ -12,6 +12,7 @@ const OUT = path.join(
   'birthday_cards',
 );
 const MANIFEST = path.join(OUT, '_birthday_cards_manifest.json');
+const blogSourcesPath = path.join(OUT, '_blog_screenshot_sources.json');
 const xThreadSources = {
   '2019-01-06_yanagawa.jpg': 'https://x.com/uen0/status/1081566707531935744/photo/1',
   '2020-12-27_inaba.jpg': 'https://x.com/uen0/status/1342847956517412864/photo/1',
@@ -224,8 +225,16 @@ async function main() {
     }
   }
   const saved = [...savedMap.values()];
+  const blogSources = fs.existsSync(blogSourcesPath)
+    ? JSON.parse(fs.readFileSync(blogSourcesPath, 'utf8').replace(/^\uFEFF/, ''))
+    : {};
   for (const item of saved) {
-    const threadUrl = xThreadSources[path.basename(item.path)];
+    const name = path.basename(item.path);
+    if (blogSources[name]) {
+      Object.assign(item, blogSources[name]);
+      item.bytes = fs.statSync(item.path).size;
+    }
+    const threadUrl = xThreadSources[name];
     if (threadUrl) {
       item.source = 'x_thread';
       item.url = threadUrl;
