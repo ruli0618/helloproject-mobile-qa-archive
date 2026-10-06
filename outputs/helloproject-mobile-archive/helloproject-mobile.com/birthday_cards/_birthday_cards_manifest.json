@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T03:13:02.869Z",
-  "candidates": 3137,
-  "saved_count": 527,
+  "generated_at": "2026-10-06T03:44:27.205Z",
+  "candidates": 0,
+  "saved_count": 531,
   "first": "2016-01-07",
   "last": "2026-09-29",
   "items": [
@@ -471,6 +471,18 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-12-30_uemura.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2019,
+      "mmdd": "0106",
+      "date": "2019-01-06",
+      "slug": "yanagawa",
+      "ext": "jpg",
+      "fileName": "2019-01-06_yanagawa.jpg",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-01-06_yanagawa.jpg",
+      "source": "x_thread",
+      "bytes": 97670,
+      "url": "https://x.com/uen0/status/1081566707531935744/photo/1"
     },
     {
       "year": 2019,
@@ -1851,6 +1863,30 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-12-22_kiyono.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2020,
+      "mmdd": "1227",
+      "date": "2020-12-27",
+      "slug": "inaba",
+      "ext": "jpg",
+      "fileName": "2020-12-27_inaba.jpg",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-12-27_inaba.jpg",
+      "source": "x_thread",
+      "bytes": 106090,
+      "url": "https://x.com/uen0/status/1342847956517412864/photo/1"
+    },
+    {
+      "year": 2020,
+      "mmdd": "1230",
+      "date": "2020-12-30",
+      "slug": "uemura",
+      "ext": "jpg",
+      "fileName": "2020-12-30_uemura.jpg",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-12-30_uemura.jpg",
+      "source": "x_thread",
+      "bytes": 104647,
+      "url": "https://x.com/uen0/status/1343935063554027520/photo/1"
     },
     {
       "year": 2021,
@@ -5067,6 +5103,18 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2025\\2025-02-25_uemura.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2025,
+      "mmdd": "0226",
+      "date": "2025-02-26",
+      "slug": "matsubara",
+      "ext": "jpg",
+      "fileName": "2025-02-26_matsubara.jpg",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2025\\2025-02-26_matsubara.jpg",
+      "source": "x_thread",
+      "bytes": 104402,
+      "url": "https://x.com/uen0/status/1894402208663572569/photo/1"
     },
     {
       "year": 2025,

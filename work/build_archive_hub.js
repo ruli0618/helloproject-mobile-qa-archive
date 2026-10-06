@@ -35,7 +35,7 @@ const historicalNames = {
   saito:'斉藤円香', sakurai:'櫻井梨央', sasaki:'佐々木莉佳子', sato:'佐藤優樹',
   shimakura:'島倉りか', takagi:'高木紗友希', takeuchi:'竹内朱莉', tanimoto:'谷本安美',
   tashiro:'田代すみれ', uemura:'植村葉純', yagi:'八木栞',
-  yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yofu:'豫風瑠乃', yohu:'豫風瑠乃',
+  yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yanagawa:'梁川奈々美', yofu:'豫風瑠乃', yohu:'豫風瑠乃',
   yokoyama:'横山玲奈', yonemura:'米村姫良々',
 };
 const namesByBirthday = {
@@ -59,7 +59,7 @@ const years = fs.readdirSync(path.join(root, 'birthday_cards'), { withFileTypes:
   .filter(entry => entry.isDirectory() && /^\d{4}$/.test(entry.name))
   .map(entry => entry.name).sort().reverse();
 const birthdayImages = years.flatMap(year => fs.readdirSync(path.join(root, 'birthday_cards', year))
-  .filter(file => /\.(?:jpe?g|png|webp)$/i.test(file))
+  .filter(file => /^\d{4}-\d{2}-\d{2}_.+\.(?:jpe?g|png|webp)$/i.test(file))
   .sort().reverse()
   .map(file => ({ year, file, date: file.slice(0, 10), label: birthdayLabel(year, file) })));
 const extraReport = JSON.parse(read('extra_content/_backup_report.json'));

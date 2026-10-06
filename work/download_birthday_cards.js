@@ -12,6 +12,12 @@ const OUT = path.join(
   'birthday_cards',
 );
 const MANIFEST = path.join(OUT, '_birthday_cards_manifest.json');
+const xThreadSources = {
+  '2019-01-06_yanagawa.jpg': 'https://x.com/uen0/status/1081566707531935744/photo/1',
+  '2020-12-27_inaba.jpg': 'https://x.com/uen0/status/1342847956517412864/photo/1',
+  '2020-12-30_uemura.jpg': 'https://x.com/uen0/status/1343935063554027520/photo/1',
+  '2025-02-26_matsubara.jpg': 'https://x.com/uen0/status/1894402208663572569/photo/1',
+};
 const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1';
 
 const seeds = [
@@ -218,6 +224,14 @@ async function main() {
     }
   }
   const saved = [...savedMap.values()];
+  for (const item of saved) {
+    const threadUrl = xThreadSources[path.basename(item.path)];
+    if (threadUrl) {
+      item.source = 'x_thread';
+      item.url = threadUrl;
+      item.bytes = fs.statSync(item.path).size;
+    }
+  }
   saved.sort((a, b) => a.date.localeCompare(b.date) || a.slug.localeCompare(b.slug));
   fs.writeFileSync(MANIFEST, JSON.stringify({
     generated_at: new Date().toISOString(),
