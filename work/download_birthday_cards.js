@@ -40,7 +40,7 @@ const seeds = [
   ['0922', 'satoyoshi'], ['1003', 'kudo'], ['1006', 'hashisako'], ['1018', 'irie'],
   ['1020', 'niinuma'], ['1021', 'ota'], ['1024', 'kamiko'], ['1024', 'kamikokuryo'],
   ['1027', 'kudo'],
-  ['1030', 'fukumura'], ['1105', 'yamaki'], ['1107', 'iikubo'], ['1111', 'sakurai'],
+  ['1030', 'fukumura'], ['1105', 'ogata'], ['1105', 'yamaki'], ['1107', 'iikubo'], ['1111', 'sakurai'],
   ['1116', 'tanaka'], ['1119', 'takeuchi'], ['1123', 'chiba'], ['1124', 'yamada'],
   ['1127', 'kaga'], ['1130', 'kato'], ['1201', 'miyamoto'], ['1211', 'hirai'],
   ['1217', 'ogata'], ['1222', 'kiyono'], ['1223', 'kamei'], ['1228', 'maeda'],

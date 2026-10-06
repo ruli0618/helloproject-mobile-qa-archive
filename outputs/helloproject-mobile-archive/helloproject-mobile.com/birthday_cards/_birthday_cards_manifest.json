@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:47:45.234Z",
-  "candidates": 34,
-  "saved_count": 495,
+  "generated_at": "2026-10-06T02:58:27.752Z",
+  "candidates": 51,
+  "saved_count": 498,
   "first": "2016-01-07",
   "last": "2026-09-29",
   "items": [
@@ -303,6 +303,18 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-10-30_fukumura.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2018,
+      "mmdd": "1105",
+      "date": "2018-11-05",
+      "slug": "ogata",
+      "ext": "jpg",
+      "fileName": "181105_ogata.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/181105_ogata.jpg?181105",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2018\\2018-11-05_ogata.jpg",
+      "source": "scan",
+      "bytes": 42272
     },
     {
       "year": 2018,
@@ -1004,6 +1016,18 @@
       "year": 2019,
       "mmdd": "1105",
       "date": "2019-11-05",
+      "slug": "ogata",
+      "ext": "jpg",
+      "fileName": "191105_ogata.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/191105_ogata.jpg?191105",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2019\\2019-11-05_ogata.jpg",
+      "source": "scan",
+      "bytes": 74148
+    },
+    {
+      "year": 2019,
+      "mmdd": "1105",
+      "date": "2019-11-05",
       "slug": "yamazaki",
       "ext": "jpg",
       "fileName": "191105_yamazaki.jpg",
@@ -1599,6 +1623,18 @@
       "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-10-30_fukumura.jpg",
       "source": "scan",
       "skipped": true
+    },
+    {
+      "year": 2020,
+      "mmdd": "1105",
+      "date": "2020-11-05",
+      "slug": "ogata",
+      "ext": "jpg",
+      "fileName": "201105_ogata.jpg",
+      "url": "https://helloproject-mobile.com/images/top-flickpic/201105_ogata.jpg?201105",
+      "path": "C:\\Users\\misuz\\Documents\\Codex\\2026-07-31\\http-helloproject-mobile-com\\outputs\\helloproject-mobile-archive\\helloproject-mobile.com\\birthday_cards\\2020\\2020-11-05_ogata.jpg",
+      "source": "scan",
+      "bytes": 198756
     },
     {
       "year": 2020,

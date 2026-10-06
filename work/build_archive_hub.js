@@ -18,13 +18,38 @@ const names2026 = {
   eguchi:'江口紗耶', shimoitani:'下井谷幸穂', tsutsui:'筒井澪心', kobayashi:'小林萌花', kitahara:'北原もも',
   matsumoto:'松本わかな', ishikawa:'石川華望', satoyoshi:'里吉うたの', kudo:'工藤由愛', ono:'小野瑞歩',
 };
+const historicalNames = {
+  arisawa:'有澤一華', asakura:'浅倉樹々', danbara:'段原瑠々', doi:'土居楓奏', doi2:'土居楓奏',
+  fukuda:'福田真琳', fukumura:'譜久村聖', funaki:'船木結', haga:'羽賀朱音', hamaura:'浜浦彩乃',
+  hashida:'橋田歩果', hashisako:'橋迫鈴', hirai:'平井美葉', hirose:'広瀬彩海', ichioka:'一岡伶奈',
+  iikubo:'飯窪春菜', ikuta:'生田衣梨奈', inaba:'稲場愛香', inoue:'井上玲音',
+  irie:'入江里咲', ishida:'石田亜佑美', 'ishida_from-screenshot':'石田亜佑美',
+  ishiguri:'石栗奏美', ishii:'石井泉羽', kaga:'加賀楓', kamiko:'上國料萌衣',
+  kamikokuryo:'上國料萌衣', kanazawa:'金澤朋子', kasahara:'笠原桃奈', katsuta:'勝田里奈',
+  kawamura:'川村文乃', kawana:'川名凜', kawashima:'川嶋美楓', kishimoto:'岸本ゆめの',
+  kitagawa:'北川莉央', kiyono:'清野桃々姫', miyamoto:'宮本佳林', miyazaki:'宮崎由加',
+  morito:'森戸知沙希', murota:'室田瑞希', nakanishi:'中西香菜', niinuma:'新沼希空',
+  nishimura:'西村乙輝', nomura:'野村みな美', nonaka:'野中美希', ogata:'小片リサ', ozeki:'小関舞',
+  saito:'斉藤円香', sakurai:'櫻井梨央', sasaki:'佐々木莉佳子', sato:'佐藤優樹',
+  takagi:'高木紗友希', tanimoto:'谷本安美', uemura:'植村葉純', wada:'和田彩花',
+  yamagishi:'山岸理子', yamaki:'山木梨沙', yamazaki:'山﨑愛生', yofu:'豫風瑠乃',
+  yokoyama:'横山玲奈', yonemura:'米村姫良々',
+};
+const namesByBirthday = {
+  '0107_ishida_from-screenshot':'石田亜佑美',
+  '0123_onoda':'小野田華凜', '1217_onoda':'小野田紗栞',
+  '0225_uemura':'植村葉純', '1230_uemura':'植村あかり',
+  '0506_inoue':'井上春華', '0717_inoue':'井上玲音',
+  '0509_okamura':'岡村ほまれ', '1020_okamura':'岡村美波',
+  '0628_yamazaki':'山﨑愛生', '1105_yamazaki':'山﨑夢羽',
+};
 function birthdayLabel(year, file) {
-  const slug = file.replace(/\.[^.]+$/, '').replace(/^\d{4}-\d{2}-\d{2}_/, '');
-  if (slug === 'yamazaki' && file.includes('-06-28_')) return '山﨑愛生';
-  if (slug === 'yamazaki' && file.includes('-11-05_')) return '山﨑夢羽';
-  if (slug === 'okamura' && file.includes('-05-09_')) return '岡村ほまれ';
-  if (year === '2026' && slug === 'inoue') return file.includes('-05-06_') ? '井上春華' : '井上玲音';
-  return year === '2026' ? names2026[slug] || slug : slug.replace(/[_-]+/g, ' ');
+  const match = file.match(/^\d{4}-(\d{2})-(\d{2})_(.+)\.(?:jpe?g|png|webp)$/i);
+  if (!match) throw new Error(`Unknown birthday card filename: ${file}`);
+  const [, month, day, slug] = match;
+  const label = namesByBirthday[`${month}${day}_${slug}`] || names2026[slug] || historicalNames[slug];
+  if (!label) throw new Error(`Unknown birthday card member: ${file}`);
+  return label;
 }
 const years = fs.readdirSync(path.join(root, 'birthday_cards'), { withFileTypes: true })
   .filter(entry => entry.isDirectory() && /^\d{4}$/.test(entry.name))
