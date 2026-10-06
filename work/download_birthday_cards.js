@@ -197,9 +197,25 @@ async function main() {
   for (const item of results.filter(Boolean).filter((item) => !item.error)) {
     savedMap.set(item.path, item);
   }
-  if ((month || mmdd) && fs.existsSync(MANIFEST)) {
+  if (fs.existsSync(MANIFEST)) {
     const previous = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
     for (const item of previous.items || []) if (!savedMap.has(item.path)) savedMap.set(item.path, item);
+  }
+  for (const entry of fs.readdirSync(OUT, { withFileTypes: true })) {
+    if (!entry.isDirectory() || !/^\d{4}$/.test(entry.name)) continue;
+    const dir = path.join(OUT, entry.name);
+    for (const name of fs.readdirSync(dir)) {
+      const match = name.match(/^(\d{4})-(\d{2})-(\d{2})_(.+)\.(jpe?g|png)$/i);
+      if (!match) continue;
+      const filePath = path.join(dir, name);
+      if (savedMap.has(filePath)) continue;
+      savedMap.set(filePath, {
+        year: Number(match[1]), mmdd: `${match[2]}${match[3]}`,
+        date: `${match[1]}-${match[2]}-${match[3]}`, slug: match[4],
+        ext: match[5].toLowerCase(), fileName: name, path: filePath,
+        source: 'local', bytes: fs.statSync(filePath).size,
+      });
+    }
   }
   const saved = [...savedMap.values()];
   saved.sort((a, b) => a.date.localeCompare(b.date) || a.slug.localeCompare(b.slug));
